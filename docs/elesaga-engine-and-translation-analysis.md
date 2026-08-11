@@ -65,3 +65,43 @@ Main challenges are linguistic + layout, not technical:
 
 ## Conclusion
 Engine: **RPG Maker MV 1.6.1** running under **NW.js 0.18.7** (FreeM! Multi Deployment System package). Translation is **very feasible** — all text is plaintext JSON with zero encryption; effort is dominated by translation volume (~177k chars) and line-fitting, not reverse engineering.
+
+## Translation Pipeline (complete, tested round-trip)
+
+### 1. Extract
+`python3 tools/extract_text.py` — dumps every translatable string into `docs/text/`:
+- `dialogue.tsv` (12,634) + `choice.tsv` (974) — event text, choices; `name.tsv` (592) — change-name commands
+- `description.tsv` (226), `note.tsv` (28), `system.tsv` (116 — title/terms/messages), `plugins.tsv` (41 — plugin UI strings)
+- `all.tsv` (merged, sorted by file) and `all.json` (master table keyed by stable IDs)
+- Total: **14,611 strings / ~187k JP chars**. `script.tsv` is empty (no translatable strings in script calls).
+- Columns: `id  file  context  type  japanese  translation`. Add `--all` to include non-Japanese strings; `--out` to change output dir.
+
+### 2. Translate
+Fill the `translation` column of a copy of `docs/text/all.tsv` (e.g. `docs/text/translated.tsv`).
+Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n]`,
+`\v[n]`, `\N[n]`, `\n`, `\`, `\>`, `\<`, `%1` placeholders.
+
+### 3. Check text fit
+`python3 tools/check_text_fit.py docs/text/translated.tsv`
+- MV 1.6.1 does **not** auto-wrap; characters wider than the message window are clipped.
+- Measures every line with the real font (mplus-1m-regular.ttf, size 28):
+  budget **780px** (816 − 2×18 padding), **612px** when a face image is shown (x=168).
+- Resolves `\N[n]`/`\P[n]` from Actors.json (using the translated name when available),
+  `\i[n]` icons (32px), `\G` currency; `\V[n]`/`\v[n]` are width *estimates* (flagged).
+- Verified against the original Japanese: it flags 77 already-overflowing lines that the
+  author shipped, confirming the measurement model.
+
+### 4. Inject
+`python3 tools/inject_text.py docs/text/translated.tsv`
+- Applies rows whose translation is non-empty and differs from the Japanese.
+- Syncs choice-branch text: branch commands (402) match by **index**, so their display
+  text (`params[1]`) is mirrored from the translated 102 entry automatically.
+- `type=script` rows are skipped unless `--apply-scripts` (code — dangerous).
+- `type=note` rows are applied but listed under "Noted" for manual review.
+- Backs up every modified file to `docs/text/backups/<timestamp>/` (`--no-backup` to skip).
+- Tested round-trip on a copy: translations land on the correct IDs, JSON stays valid,
+  and re-extraction shows exactly the translated rows.
+
+### Known quirks / leftovers
+- Choice branches (code 402) are matched by **index** (`params[0]`), not by text.
+- `docs/text/plugin.tsv` (lowercase) is a stale leftover from an earlier run; ignore it.
