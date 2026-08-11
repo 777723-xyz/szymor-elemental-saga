@@ -830,63 +830,63 @@ MAP7_e14_p0_1	Map007.json	0	dialogue	『怖くない！五分で怖くなくな�
 MAP7_e14_p0_11	Map007.json	1	dialogue	例えばみんながよく心配するのが、各ポーション類…	What everyone worries about, for instance, are the potions and such—
 MAP7_e14_p0_12	Map007.json	1	dialogue	飲み薬に使われている、材料のことだと思います。	specifically, the ingredients used in the medicines.
 MAP7_e14_p0_13	Map007.json	1	dialogue	確かに私たちは材料を教えません、隠していますが、	It's true we don't reveal the ingredients; we keep them hidden, but
-MAP7_e14_p0_14	Map007.json	1	dialogue	決して危なかったり汚かったりするものは使っていません。	
-MAP7_e14_p0_16	Map007.json	1	dialogue	私たちは、材料がバレると売れなくなるから、隠して	
-MAP7_e14_p0_17	Map007.json	1	dialogue	いるのではないのです！とても専門的で、難易度の高い	
-MAP7_e14_p0_18	Map007.json	1	dialogue	製法で作るものなので、皆さんに気軽に真似をされて、	
-MAP7_e14_p0_19	Map007.json	1	dialogue	大怪我したり病気になって欲しくないだけなのです！	
+MAP7_e14_p0_14	Map007.json	1	dialogue	決して危なかったり汚かったりするものは使っていません。	We never use anything dangerous or unclean.
+MAP7_e14_p0_16	Map007.json	1	dialogue	私たちは、材料がバレると売れなくなるから、隠して	We don't hide the ingredients because they'd stop selling
+MAP7_e14_p0_17	Map007.json	1	dialogue	いるのではないのです！とても専門的で、難易度の高い	if they got out! We just don't want people casually copying
+MAP7_e14_p0_18	Map007.json	1	dialogue	製法で作るものなので、皆さんに気軽に真似をされて、	our highly specialized, difficult methods and
+MAP7_e14_p0_19	Map007.json	1	dialogue	大怪我したり病気になって欲しくないだけなのです！	ending up badly injured or sick!
 MAP7_e14_p0_2	Map007.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
 MAP7_e14_p0_3_c0	Map007.json	choice	choice	読んでみる	Read it
 MAP7_e14_p0_3_c1	Map007.json	choice	choice	読まない	Don't read it
-MAP7_e14_p0_6	Map007.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	
-MAP7_e14_p0_7	Map007.json	1	dialogue	ひとたちが、正体の分からない薬を大変な高額で売り出す	
-MAP7_e14_p0_8	Map007.json	1	dialogue	ようになって百年くらいでしょうか。	
-MAP7_e14_p0_9	Map007.json	1	dialogue	でも効き目が凄いから、みんな本当は憧れているでしょう？	
-MAP7_e15_p0_1	Map007.json	0	dialogue	読みかけの本がある…	
+MAP7_e14_p0_6	Map007.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years since people called alchemists—
+MAP7_e14_p0_7	Map007.json	1	dialogue	ひとたちが、正体の分からない薬を大変な高額で売り出す	or rather, who call themselves that—began selling unknown medicines
+MAP7_e14_p0_8	Map007.json	1	dialogue	ようになって百年くらいでしょうか。	at exorbitant prices.
+MAP7_e14_p0_9	Map007.json	1	dialogue	でも効き目が凄いから、みんな本当は憧れているでしょう？	But since they work wonders, everyone secretly admires them, right?
+MAP7_e15_p0_1	Map007.json	0	dialogue	読みかけの本がある…	There's a half-read book...
 MAP7_e15_p0_2	Map007.json	0	dialogue	読んでみようか…。	Should we read it...?
 MAP7_e15_p0_3_c0	Map007.json	choice	choice	読んでみる	Read it
 MAP7_e15_p0_3_c1	Map007.json	choice	choice	読まない	Don't read it
-MAP7_e15_p0_6	Map007.json	1	dialogue	騎士は国王の命令に絶対に背いてはいけません。	
-MAP7_e15_p0_7	Map007.json	1	dialogue	次に、騎士団長の命令にも背いてはいけません。	
-MAP7_e15_p0_8	Map007.json	1	dialogue	命令を聞かないと、騎士をやめさせられます。	
-MAP7_e15_p0_9	Map007.json	1	dialogue	騎士をやめると、ただの兵士か、市民になります。	
-MAP7_e16_p0_1	Map007.json	0	dialogue	『この世界の紋章』	
-MAP7_e16_p0_10	Map007.json	1	dialogue	この紋章は、闇のエレメントが復活する際に輝き出し、	
-MAP7_e16_p0_11	Map007.json	1	dialogue	闇のエレメントによって世界が暗闇に覆われ、魔物に	
-MAP7_e16_p0_12	Map007.json	1	dialogue	溢れるのを防ぐことが出来ると言われている。	
-MAP7_e16_p0_14	Map007.json	1	dialogue	紋章は、持ち主が最も信頼している人間へと継承される。	
-MAP7_e16_p0_15	Map007.json	1	dialogue	しかし紋章が輝いたのを誰も見たことがない為、現実には	
-MAP7_e16_p0_16	Map007.json	1	dialogue	権力者が継承している。フレイム王国では代々国王が、	
-MAP7_e16_p0_17	Map007.json	1	dialogue	セイリューでは領主が、ウィンダムでは騎士団長である。	
-MAP7_e16_p0_2	Map007.json	0	dialogue	…という本がある。読んでみようか…。	
+MAP7_e15_p0_6	Map007.json	1	dialogue	騎士は国王の命令に絶対に背いてはいけません。	Knights must never disobey the king's orders.
+MAP7_e15_p0_7	Map007.json	1	dialogue	次に、騎士団長の命令にも背いてはいけません。	Next, they must not disobey the Knight Commander's orders either.
+MAP7_e15_p0_8	Map007.json	1	dialogue	命令を聞かないと、騎士をやめさせられます。	Disobey orders and you'll be stripped of your knighthood.
+MAP7_e15_p0_9	Map007.json	1	dialogue	騎士をやめると、ただの兵士か、市民になります。	If you lose your knighthood, you become a mere soldier or a citizen.
+MAP7_e16_p0_1	Map007.json	0	dialogue	『この世界の紋章』	"""The Crests of This World"""
+MAP7_e16_p0_10	Map007.json	1	dialogue	この紋章は、闇のエレメントが復活する際に輝き出し、	These crests begin to shine when the Dark Element revives,
+MAP7_e16_p0_11	Map007.json	1	dialogue	闇のエレメントによって世界が暗闇に覆われ、魔物に	and are said to prevent the world from being shrouded in darkness and
+MAP7_e16_p0_12	Map007.json	1	dialogue	溢れるのを防ぐことが出来ると言われている。	overrun by monsters at the Dark Element's hands.
+MAP7_e16_p0_14	Map007.json	1	dialogue	紋章は、持ち主が最も信頼している人間へと継承される。	A crest passes to the person its holder trusts most.
+MAP7_e16_p0_15	Map007.json	1	dialogue	しかし紋章が輝いたのを誰も見たことがない為、現実には	But since no one has ever seen a crest shine, in practice
+MAP7_e16_p0_16	Map007.json	1	dialogue	権力者が継承している。フレイム王国では代々国王が、	those in power inherit them. In the Flame Kingdom, the king;
+MAP7_e16_p0_17	Map007.json	1	dialogue	セイリューでは領主が、ウィンダムでは騎士団長である。	in Seiryu, the lord; and in Windam, the Knight Commander.
+MAP7_e16_p0_2	Map007.json	0	dialogue	…という本がある。読んでみようか…。	There's a book on this. Should we read it...?
 MAP7_e16_p0_3_c0	Map007.json	choice	choice	読んでみる	Read it
 MAP7_e16_p0_3_c1	Map007.json	choice	choice	読まない	Don't read it
-MAP7_e16_p0_6	Map007.json	1	dialogue	エレメント大陸は火と水と風のエレメントによって	
-MAP7_e16_p0_7	Map007.json	1	dialogue	作られた土地で、エレメントの加護の証である紋章が、	
-MAP7_e16_p0_8	Map007.json	1	dialogue	それぞれの紋章継承者の手の甲に刻まれる。	
-MAP7_e17_p0_1	Map007.json	0	dialogue	『恐怖！闇のエレメント復活！』	
-MAP7_e17_p0_11	Map007.json	1	dialogue	よし！ここで水の紋章の出番です。水の紋章の勇者が	
-MAP7_e17_p0_12	Map007.json	1	dialogue	片手を振りかざすと、大きな津波があらわれました。	
-MAP7_e17_p0_13	Map007.json	1	dialogue	火はまたたくまに消えました。しかし、闇のエレメントも	
-MAP7_e17_p0_14	Map007.json	1	dialogue	流されてしまい、どこにいったか分かりません。	
-MAP7_e17_p0_16	Map007.json	1	dialogue	このままでは世界は暗黒に包まれ、魔物が増え、ひとの	
-MAP7_e17_p0_17	Map007.json	1	dialogue	住めない土地になってしまう！しかし気付けば風の勇者が	
-MAP7_e17_p0_18	Map007.json	1	dialogue	いません。なんと！風の紋章のハヤテの力で疾風となった	
-MAP7_e17_p0_19	Map007.json	1	dialogue	風の勇者が闇のエレメントを追いかけています！	
+MAP7_e16_p0_6	Map007.json	1	dialogue	エレメント大陸は火と水と風のエレメントによって	The Element Continent is a land forged by the Fire, Water, and Wind Elements,
+MAP7_e16_p0_7	Map007.json	1	dialogue	作られた土地で、エレメントの加護の証である紋章が、	and crests—marks of the Elements' blessing—are
+MAP7_e16_p0_8	Map007.json	1	dialogue	それぞれの紋章継承者の手の甲に刻まれる。	engraved on the back of each inheritor's hand.
+MAP7_e17_p0_1	Map007.json	0	dialogue	『恐怖！闇のエレメント復活！』	"""Terror! The Dark Element Returns!"""
+MAP7_e17_p0_11	Map007.json	1	dialogue	よし！ここで水の紋章の出番です。水の紋章の勇者が	Alright! Now it's the Water Crest's turn! When the hero of the Water Crest
+MAP7_e17_p0_12	Map007.json	1	dialogue	片手を振りかざすと、大きな津波があらわれました。	raised a hand, a great tsunami appeared.
+MAP7_e17_p0_13	Map007.json	1	dialogue	火はまたたくまに消えました。しかし、闇のエレメントも	The fire vanished in an instant. But the Dark Element was
+MAP7_e17_p0_14	Map007.json	1	dialogue	流されてしまい、どこにいったか分かりません。	washed away too, and no one knows where it went.
+MAP7_e17_p0_16	Map007.json	1	dialogue	このままでは世界は暗黒に包まれ、魔物が増え、ひとの	At this rate, the world will be swallowed by darkness, monsters will multiply, and the land will
+MAP7_e17_p0_17	Map007.json	1	dialogue	住めない土地になってしまう！しかし気付けば風の勇者が	become uninhabitable! But wait—the hero of Wind is gone!
+MAP7_e17_p0_18	Map007.json	1	dialogue	いません。なんと！風の紋章のハヤテの力で疾風となった	What!? Transformed into a gale by the Wind Crest's Hayate,
+MAP7_e17_p0_19	Map007.json	1	dialogue	風の勇者が闇のエレメントを追いかけています！	the Wind hero is chasing after the Dark Element!
 MAP7_e17_p0_2	Map007.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP7_e17_p0_21	Map007.json	1	dialogue	そのスピードはすさまじく、火の勇者と水の勇者は	
-MAP7_e17_p0_22	Map007.json	1	dialogue	置いていかれました。最早闇のエレメントも風の勇者も	
-MAP7_e17_p0_23	Map007.json	1	dialogue	どこにいるのか分かりません。さあ二人はどうやって合流	
-MAP7_e17_p0_24	Map007.json	1	dialogue	するのか！？次回をおたのしみに！	
+MAP7_e17_p0_21	Map007.json	1	dialogue	そのスピードはすさまじく、火の勇者と水の勇者は	His speed is incredible, and the Fire and Water heroes were
+MAP7_e17_p0_22	Map007.json	1	dialogue	置いていかれました。最早闇のエレメントも風の勇者も	left behind. Now no one knows where the Dark Element
+MAP7_e17_p0_23	Map007.json	1	dialogue	どこにいるのか分かりません。さあ二人はどうやって合流	or the Wind hero are. How will those two meet up again!?
+MAP7_e17_p0_24	Map007.json	1	dialogue	するのか！？次回をおたのしみに！	Stay tuned for next time!
 MAP7_e17_p0_3_c0	Map007.json	choice	choice	読んでみる	Read it
 MAP7_e17_p0_3_c1	Map007.json	choice	choice	読んでみない	I won't read it
-MAP7_e17_p0_6	Map007.json	1	dialogue	火を噴く火の紋章！ぎゃーーーーーーーーー闇のエレメント	
-MAP7_e17_p0_7	Map007.json	1	dialogue	は燃えました。風の紋章がカマイタチを呼び、火はもっと	
-MAP7_e17_p0_8	Map007.json	1	dialogue	激しくなりました。いかん！火が凄くて闇のエレメントが	
-MAP7_e17_p0_9	Map007.json	1	dialogue	よく見えない！近付くこともできません。	
+MAP7_e17_p0_6	Map007.json	1	dialogue	火を噴く火の紋章！ぎゃーーーーーーーーー闇のエレメント	The Fire Crest breathes flame! Gyaaaaah—the Dark Element
+MAP7_e17_p0_7	Map007.json	1	dialogue	は燃えました。風の紋章がカマイタチを呼び、火はもっと	burned! The Wind Crest summoned a Kamaitachi, and the fire blazed
+MAP7_e17_p0_8	Map007.json	1	dialogue	激しくなりました。いかん！火が凄くて闇のエレメントが	even fiercer. Oh no! The flames are so intense we can't
+MAP7_e17_p0_9	Map007.json	1	dialogue	よく見えない！近付くこともできません。	even see the Dark Element! We can't get close!
 MAP7_e18_p0_1	Map007.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP7_e19_p0_1	Map007.json	0	dialogue	書記官デアール：	Dear, Scribe:
-MAP7_e19_p0_2	Map007.json	0	dialogue	吾輩は王国書記官のデアール卿であーる。	
+MAP7_e19_p0_2	Map007.json	0	dialogue	吾輩は王国書記官のデアール卿であーる。	I am Lord Dear, the kingdom's scribe, yessir.
 MAP7_e19_p0_4	Map007.json	0	dialogue	吾輩は現在王国の財政の記録をつけているの	
 MAP7_e19_p0_5	Map007.json	0	dialogue	であーる！	
 MAP7_e20_p0_1	Map007.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
@@ -898,14 +898,14 @@ MAP7_e21_p0_3	Map007.json	0	dialogue	おいウィン！これが兵卒のしご�
 MAP7_e21_p0_4	Map007.json	0	dialogue	つらすぎるー	
 MAP7_e22_p0_1	Map007.json	0	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
 MAP7_e22_p0_11	Map007.json	1	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
-MAP7_e22_p0_12	Map007.json	1	dialogue	よかったー　あれ、騎士であるあなたが	
-MAP7_e22_p0_13	Map007.json	1	dialogue	持っていても、何の役にも立ちませんし、	
-MAP7_e22_p0_14	Map007.json	1	dialogue	そりゃ売りますよね。　よかったー	
+MAP7_e22_p0_12	Map007.json	1	dialogue	よかったー　あれ、騎士であるあなたが	Oh good~ ...but as a knight,
+MAP7_e22_p0_13	Map007.json	1	dialogue	持っていても、何の役にも立ちませんし、	it would be of no use to you anyway,
+MAP7_e22_p0_14	Map007.json	1	dialogue	そりゃ売りますよね。　よかったー	so of course you'd sell it. Oh good~
 MAP7_e22_p0_18	Map007.json	1	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
-MAP7_e22_p0_19	Map007.json	1	dialogue	あー…　素材や財宝はためこんでも、	
+MAP7_e22_p0_19	Map007.json	1	dialogue	あー…　素材や財宝はためこんでも、	Ah... hoarding materials and treasure
 MAP7_e22_p0_2	Map007.json	0	dialogue	ウィンさん、魔物をたおしたときにたまに	Win, sometimes when you defeat monsters,
-MAP7_e22_p0_20	Map007.json	1	dialogue	俺ら兵士や騎士には、役に立ちません。	
-MAP7_e22_p0_21	Map007.json	1	dialogue	お店で売ってお金に変えた方がいいですよ？	
+MAP7_e22_p0_20	Map007.json	1	dialogue	俺ら兵士や騎士には、役に立ちません。	doesn't do us soldiers or knights any good.
+MAP7_e22_p0_21	Map007.json	1	dialogue	お店で売ってお金に変えた方がいいですよ？	Better to sell them at a shop and turn them into money, right?
 MAP7_e22_p0_3	Map007.json	0	dialogue	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
 MAP7_e22_p0_4	Map007.json	0	dialogue	ちゃんと売ってますか？	
 MAP7_e22_p0_6	Map007.json	0	dialogue	ウィン：	Win:
@@ -951,7 +951,7 @@ MAP8_e10_p2_3	Map008.json	0	dialogue	やつは…元気そうだったか？
 MAP8_e10_p2_4_c0	Map008.json	choice	choice	元気です	I'm well
 MAP8_e10_p2_4_c1	Map008.json	choice	choice	あんまり	Not much
 MAP8_e10_p2_7	Map008.json	1	dialogue	騎士団長代行サクソン：	Saxon, Acting Knight-Captain:
-MAP8_e10_p2_8	Map008.json	1	dialogue	…そうか。	
+MAP8_e10_p2_8	Map008.json	1	dialogue	…そうか。	...I see.
 MAP8_e10_p2_9	Map008.json	1	dialogue	そ、それならよかった！	
 MAP8_e10_p3_1	Map008.json	0	dialogue	騎士団長代行サクソン：	Saxon, Acting Knight-Captain:
 MAP8_e10_p3_2	Map008.json	0	dialogue	…ウィン、	
@@ -977,7 +977,7 @@ MAP8_e18_p0_1	Map008.json	0	dialogue	『ウィンダム王国の歴史』	"""His
 MAP8_e18_p0_11	Map008.json	1	dialogue	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
 MAP8_e18_p0_12	Map008.json	1	dialogue	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
 MAP8_e18_p0_13	Map008.json	1	dialogue	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
-MAP8_e18_p0_15	Map008.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	
+MAP8_e18_p0_15	Map008.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	And so—as this castle and kingdom were made through the blessing of the Wind Element—
 MAP8_e18_p0_16	Map008.json	1	dialogue	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
 MAP8_e18_p0_17	Map008.json	1	dialogue	信じられている。	outside the Windam Kingdom as well.
 MAP8_e18_p0_18	Map008.json	1	dialogue	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
@@ -1004,26 +1004,26 @@ MAP8_e19_p0_6	Map008.json	1	dialogue	とても古いページ：	A Very Old Page
 MAP8_e19_p0_7	Map008.json	1	dialogue	代々何度も騎士団長、そして風の紋章を受け継いできた	My family has inherited the position of Knight Commander and the Wind Crest
 MAP8_e19_p0_8	Map008.json	1	dialogue	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	for generations... I too wanted that honor, but because of that man Roi,
 MAP8_e19_p0_9	Map008.json	1	dialogue	とかいう男がいるせいで…。悔しい。	How frustrating.
-MAP8_e20_p0_10	Map008.json	0	dialogue	これがお前の初めての戦闘任務となる。	
-MAP8_e20_p0_12	Map008.json	0	dialogue	西の監視塔に人食いの魔物が巣くっている	
-MAP8_e20_p0_13	Map008.json	0	dialogue	という報告があった。	
-MAP8_e20_p0_14	Map008.json	0	dialogue	この調査、そして魔物の討伐を、お前に命ず。	
+MAP8_e20_p0_10	Map008.json	0	dialogue	これがお前の初めての戦闘任務となる。	this will be your first combat mission.
+MAP8_e20_p0_12	Map008.json	0	dialogue	西の監視塔に人食いの魔物が巣くっている	There are reports of a man-eating monster
+MAP8_e20_p0_13	Map008.json	0	dialogue	という報告があった。	lurking in the West Watchtower.
+MAP8_e20_p0_14	Map008.json	0	dialogue	この調査、そして魔物の討伐を、お前に命ず。	I command you to investigate and slay the monster.
 MAP8_e20_p0_16	Map008.json	0	dialogue	ウィン：	Win:
 MAP8_e20_p0_19	Map008.json	0	dialogue	騎士隊長ピピン：	Pipin, Knight Captain:
-MAP8_e20_p0_20	Map008.json	0	dialogue	陛下…ウィンだけでなく、	
-MAP8_e20_p0_21	Map008.json	0	dialogue	俺のこともお呼びになられたのは？	
+MAP8_e20_p0_20	Map008.json	0	dialogue	陛下…ウィンだけでなく、	Your Majesty... you summoned not only Win,
+MAP8_e20_p0_21	Map008.json	0	dialogue	俺のこともお呼びになられたのは？	but me as well?
 MAP8_e20_p0_23	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e20_p0_24	Map008.json	0	dialogue	勿論、ウィンの初陣を助けてもらう為だ。	
-MAP8_e20_p0_26	Map008.json	0	dialogue	天才騎士と誉れの高いお前であれば、	
-MAP8_e20_p0_27	Map008.json	0	dialogue	新米騎士のウィンにとってこれ以上ない	
-MAP8_e20_p0_28	Map008.json	0	dialogue	助けとなるであろう。	
+MAP8_e20_p0_24	Map008.json	0	dialogue	勿論、ウィンの初陣を助けてもらう為だ。	Of course—to help Win through his first battle.
+MAP8_e20_p0_26	Map008.json	0	dialogue	天才騎士と誉れの高いお前であれば、	As a knight renowned as a genius,
+MAP8_e20_p0_27	Map008.json	0	dialogue	新米騎士のウィンにとってこれ以上ない	there could be no better support
+MAP8_e20_p0_28	Map008.json	0	dialogue	助けとなるであろう。	for the rookie knight Win.
 MAP8_e20_p0_30	Map008.json	0	dialogue	ピピン：	Pipin:
-MAP8_e20_p0_31	Map008.json	0	dialogue	…まあ、陛下のご命令とあれば…	
-MAP8_e20_p0_32	Map008.json	0	dialogue	仕方がありません。	
+MAP8_e20_p0_31	Map008.json	0	dialogue	…まあ、陛下のご命令とあれば…	...Well, if it's Your Majesty's command...
+MAP8_e20_p0_32	Map008.json	0	dialogue	仕方がありません。	I have no choice.
 MAP8_e20_p0_34	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e20_p0_35	Map008.json	0	dialogue	ピピンよ。お前もひとの上に立つ立場。	
-MAP8_e20_p0_36	Map008.json	0	dialogue	面倒臭がらずに、部下の面倒も見られるように	
-MAP8_e20_p0_37	Map008.json	0	dialogue	なってくれないと困る。	
+MAP8_e20_p0_35	Map008.json	0	dialogue	ピピンよ。お前もひとの上に立つ立場。	Pipin. You too stand in a position above others.
+MAP8_e20_p0_36	Map008.json	0	dialogue	面倒臭がらずに、部下の面倒も見られるように	Don't be so reluctant—learn to take care of
+MAP8_e20_p0_37	Map008.json	0	dialogue	なってくれないと困る。	your subordinates.
 MAP8_e20_p0_39	Map008.json	0	dialogue	ピピン：	Pipin:
 MAP8_e20_p0_40	Map008.json	0	dialogue	…はい。	...Yes.
 MAP8_e20_p0_42	Map008.json	0	dialogue	ウィンダム王：	King Windam:
@@ -1031,29 +1031,29 @@ MAP8_e20_p0_43	Map008.json	0	dialogue	騎士ウィン、お前にはまだ実戦
 MAP8_e20_p0_44	Map008.json	0	dialogue	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
 MAP8_e20_p0_45	Map008.json	0	dialogue	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP8_e20_p0_8	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e20_p0_9	Map008.json	0	dialogue	騎士ウィンよ。	
+MAP8_e20_p0_9	Map008.json	0	dialogue	騎士ウィンよ。	Knight Win.
 MAP8_e20_p1_19	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e20_p1_20	Map008.json	0	dialogue	騎士ウィンよ。	
-MAP8_e20_p1_21	Map008.json	0	dialogue	これがお前の初めての戦闘任務となる。	
-MAP8_e20_p1_23	Map008.json	0	dialogue	西の監視塔に人食いの魔物が巣くっている	
-MAP8_e20_p1_24	Map008.json	0	dialogue	という報告があった。	
-MAP8_e20_p1_25	Map008.json	0	dialogue	この調査、そして魔物の討伐を、お前に命ず。	
+MAP8_e20_p1_20	Map008.json	0	dialogue	騎士ウィンよ。	Knight Win.
+MAP8_e20_p1_21	Map008.json	0	dialogue	これがお前の初めての戦闘任務となる。	this will be your first combat mission.
+MAP8_e20_p1_23	Map008.json	0	dialogue	西の監視塔に人食いの魔物が巣くっている	There are reports of a man-eating monster
+MAP8_e20_p1_24	Map008.json	0	dialogue	という報告があった。	lurking in the West Watchtower.
+MAP8_e20_p1_25	Map008.json	0	dialogue	この調査、そして魔物の討伐を、お前に命ず。	I command you to investigate and slay the monster.
 MAP8_e20_p1_27	Map008.json	0	dialogue	ウィン：	Win:
 MAP8_e20_p1_30	Map008.json	0	dialogue	騎士隊長ピピン：	Pipin, Knight Captain:
-MAP8_e20_p1_31	Map008.json	0	dialogue	陛下…ウィンだけでなく、	
-MAP8_e20_p1_32	Map008.json	0	dialogue	俺のこともお呼びになられたのは？	
+MAP8_e20_p1_31	Map008.json	0	dialogue	陛下…ウィンだけでなく、	Your Majesty... you summoned not only Win,
+MAP8_e20_p1_32	Map008.json	0	dialogue	俺のこともお呼びになられたのは？	but me as well?
 MAP8_e20_p1_34	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e20_p1_35	Map008.json	0	dialogue	勿論、ウィンの初陣を助けてもらう為だ。	
-MAP8_e20_p1_37	Map008.json	0	dialogue	天才騎士と誉れの高いお前であれば、	
-MAP8_e20_p1_38	Map008.json	0	dialogue	新米騎士のウィンにとってこれ以上ない	
-MAP8_e20_p1_39	Map008.json	0	dialogue	助けとなるであろう。	
+MAP8_e20_p1_35	Map008.json	0	dialogue	勿論、ウィンの初陣を助けてもらう為だ。	Of course—to help Win through his first battle.
+MAP8_e20_p1_37	Map008.json	0	dialogue	天才騎士と誉れの高いお前であれば、	As a knight renowned as a genius,
+MAP8_e20_p1_38	Map008.json	0	dialogue	新米騎士のウィンにとってこれ以上ない	there could be no better support
+MAP8_e20_p1_39	Map008.json	0	dialogue	助けとなるであろう。	for the rookie knight Win.
 MAP8_e20_p1_41	Map008.json	0	dialogue	ピピン：	Pipin:
-MAP8_e20_p1_42	Map008.json	0	dialogue	…まあ、陛下のご命令とあれば…	
-MAP8_e20_p1_43	Map008.json	0	dialogue	仕方がありません。	
+MAP8_e20_p1_42	Map008.json	0	dialogue	…まあ、陛下のご命令とあれば…	...Well, if it's Your Majesty's command...
+MAP8_e20_p1_43	Map008.json	0	dialogue	仕方がありません。	I have no choice.
 MAP8_e20_p1_45	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e20_p1_46	Map008.json	0	dialogue	ピピンよ。お前もひとの上に立つ立場。	
-MAP8_e20_p1_47	Map008.json	0	dialogue	面倒臭がらずに、部下の面倒も見られるように	
-MAP8_e20_p1_48	Map008.json	0	dialogue	なってくれないと困る。	
+MAP8_e20_p1_46	Map008.json	0	dialogue	ピピンよ。お前もひとの上に立つ立場。	Pipin. You too stand in a position above others.
+MAP8_e20_p1_47	Map008.json	0	dialogue	面倒臭がらずに、部下の面倒も見られるように	Don't be so reluctant—learn to take care of
+MAP8_e20_p1_48	Map008.json	0	dialogue	なってくれないと困る。	your subordinates.
 MAP8_e20_p1_50	Map008.json	0	dialogue	ピピン：	Pipin:
 MAP8_e20_p1_51	Map008.json	0	dialogue	…はい。	...Yes.
 MAP8_e20_p1_53	Map008.json	0	dialogue	ウィンダム王：	King Windam:
@@ -1074,64 +1074,64 @@ MAP8_e21_p1_7	Map008.json	1	dialogue	偵察兵レイモンド：	Raymond, Scout:
 MAP8_e21_p1_8	Map008.json	1	dialogue	そうなのか…？	
 MAP8_e21_p1_9	Map008.json	1	dialogue	まあいっか…	
 MAP8_e4_p0_1	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p0_2	Map008.json	0	dialogue	騎士ウィン、お前にはまだ実戦経験がない。	
+MAP8_e4_p0_2	Map008.json	0	dialogue	騎士ウィン、お前にはまだ実戦経験がない。	Knight Win, you have no real combat experience yet.
 MAP8_e4_p0_3	Map008.json	0	dialogue	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
 MAP8_e4_p0_4	Map008.json	0	dialogue	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP8_e4_p1_10	Map008.json	2	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p1_11	Map008.json	2	dialogue	お前の働きに期待しているぞ。	
-MAP8_e4_p1_12	Map008.json	2	dialogue	下がれ。	
+MAP8_e4_p1_11	Map008.json	2	dialogue	お前の働きに期待しているぞ。	I expect great things from you.
+MAP8_e4_p1_12	Map008.json	2	dialogue	下がれ。	You may leave.
 MAP8_e4_p1_16	Map008.json	2	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p1_17	Map008.json	2	dialogue	…すまぬが少し考え事をしているのだ。	
-MAP8_e4_p1_18	Map008.json	2	dialogue	ひとりになりたい。	
-MAP8_e4_p1_19	Map008.json	2	dialogue	またの機会にしてくれ。	
+MAP8_e4_p1_17	Map008.json	2	dialogue	…すまぬが少し考え事をしているのだ。	...Forgive me, but I'm lost in thought.
+MAP8_e4_p1_18	Map008.json	2	dialogue	ひとりになりたい。	I wish to be alone.
+MAP8_e4_p1_19	Map008.json	2	dialogue	またの機会にしてくれ。	Some other time, please.
 MAP8_e4_p1_26	Map008.json	1	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p1_27	Map008.json	1	dialogue	以前サクソンに西の塔の見回りを命じたが、	
-MAP8_e4_p1_28	Map008.json	1	dialogue	あれからまだ、ひとつきも経っていない。	
-MAP8_e4_p1_29	Map008.json	1	dialogue	こんな短期間に多くの魔物が巣くうものか…	
+MAP8_e4_p1_27	Map008.json	1	dialogue	以前サクソンに西の塔の見回りを命じたが、	I ordered Saxon to patrol the western tower before,
+MAP8_e4_p1_28	Map008.json	1	dialogue	あれからまだ、ひとつきも経っていない。	and not even a month has passed since.
+MAP8_e4_p1_29	Map008.json	1	dialogue	こんな短期間に多くの魔物が巣くうものか…	How could so many monsters have nested there in so short a time...
 MAP8_e4_p1_3	Map008.json	1	dialogue	ウィンダム王：	King Windam:
 MAP8_e4_p1_31	Map008.json	1	dialogue	ピピン：	Pipin:
-MAP8_e4_p1_32	Map008.json	1	dialogue	恐れながら、陛下。	
-MAP8_e4_p1_33	Map008.json	1	dialogue	サクソン騎士団長代行のこと、きっと報告だけ	
-MAP8_e4_p1_34	Map008.json	1	dialogue	して、見回りはしていません。	
+MAP8_e4_p1_32	Map008.json	1	dialogue	恐れながら、陛下。	If I may be so bold, Your Majesty.
+MAP8_e4_p1_33	Map008.json	1	dialogue	サクソン騎士団長代行のこと、きっと報告だけ	As for Acting Knight Commander Saxon, I'm sure he
+MAP8_e4_p1_34	Map008.json	1	dialogue	して、見回りはしていません。	only filed the report and never actually patrolled.
 MAP8_e4_p1_36	Map008.json	1	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p1_37	Map008.json	1	dialogue	ありそうなことだ…。	
-MAP8_e4_p1_38	Map008.json	1	dialogue	いつもあの者の尻拭いをさせてすまないが、	
-MAP8_e4_p1_39	Map008.json	1	dialogue	ピピン、任せたぞ。	
-MAP8_e4_p1_4	Map008.json	1	dialogue	…なぜまだここにいる？	
+MAP8_e4_p1_37	Map008.json	1	dialogue	ありそうなことだ…。	That does sound like him...
+MAP8_e4_p1_38	Map008.json	1	dialogue	いつもあの者の尻拭いをさせてすまないが、	I'm sorry to always make you clean up after him, but
+MAP8_e4_p1_39	Map008.json	1	dialogue	ピピン、任せたぞ。	Pipin, I leave it to you.
+MAP8_e4_p1_4	Map008.json	1	dialogue	…なぜまだここにいる？	...Why are you still here?
 MAP8_e4_p1_41	Map008.json	1	dialogue	ピピン：	Pipin:
 MAP8_e4_p1_42	Map008.json	1	dialogue	…は	...Yes
 MAP8_e4_p1_47	Map008.json	1	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p1_48	Map008.json	1	dialogue	ピピン、お前の今回の仕事は、ウィンの	
-MAP8_e4_p1_49	Map008.json	1	dialogue	サポートだ。色々と教えてやるように。	
-MAP8_e4_p1_5	Map008.json	1	dialogue	お前には西の塔の調査に向かうよう命じた。	
-MAP8_e4_p1_50	Map008.json	1	dialogue	少しは仲良くするのだぞ。	
+MAP8_e4_p1_48	Map008.json	1	dialogue	ピピン、お前の今回の仕事は、ウィンの	Pipin, your task this time is to
+MAP8_e4_p1_49	Map008.json	1	dialogue	サポートだ。色々と教えてやるように。	support Win. Teach him everything you can.
+MAP8_e4_p1_5	Map008.json	1	dialogue	お前には西の塔の調査に向かうよう命じた。	You've been ordered to investigate the western tower.
+MAP8_e4_p1_50	Map008.json	1	dialogue	少しは仲良くするのだぞ。	Try to get along with each other.
 MAP8_e4_p1_52	Map008.json	1	dialogue	ピピン：	Pipin:
 MAP8_e4_p1_53	Map008.json	1	dialogue	…は	...Yes
 MAP8_e4_p1_55	Map008.json	1	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p1_56	Map008.json	1	dialogue	王に向かってそうあからさまに嫌な顔をするな。	
-MAP8_e4_p1_57	Map008.json	1	dialogue	お前なりのやり方でいいが、努力はしろ。	
-MAP8_e4_p1_58	Map008.json	1	dialogue	隊長たるもの、部下の教育も仕事の内だ。	
-MAP8_e4_p1_6	Map008.json	1	dialogue	私にはお前と雑談するような暇はないぞ。	
+MAP8_e4_p1_56	Map008.json	1	dialogue	王に向かってそうあからさまに嫌な顔をするな。	Don't make such an obvious face of disgust toward your king.
+MAP8_e4_p1_57	Map008.json	1	dialogue	お前なりのやり方でいいが、努力はしろ。	Do it your own way if you like, but put in the effort.
+MAP8_e4_p1_58	Map008.json	1	dialogue	隊長たるもの、部下の教育も仕事の内だ。	As a captain, teaching your subordinates is part of the job.
+MAP8_e4_p1_6	Map008.json	1	dialogue	私にはお前と雑談するような暇はないぞ。	I have no time for chit-chat with you.
 MAP8_e4_p1_60	Map008.json	1	dialogue	ピピン：	Pipin:
-MAP8_e4_p1_61	Map008.json	1	dialogue	…努力します。	
+MAP8_e4_p1_61	Map008.json	1	dialogue	…努力します。	...I'll do my best.
 MAP8_e4_p1_7_c0	Map008.json	choice	choice	申し訳ございません	I apologize
 MAP8_e4_p1_7_c1	Map008.json	choice	choice	陛下とお話させて下さい	Please let me speak with His Majesty
 MAP8_e4_p2_1	Map008.json	0	dialogue	ウィンダム王：	King Windam:
 MAP8_e4_p2_10	Map008.json	0	dialogue	しかし…	However...
-MAP8_e4_p2_101	Map008.json	0	dialogue	長話は終わりにしよう。	
+MAP8_e4_p2_101	Map008.json	0	dialogue	長話は終わりにしよう。	Let's end this long talk.
 MAP8_e4_p2_102	Map008.json	0	dialogue	ウィンよ、ピピンをよろしく頼む。	Win, I entrust Pipin to you.
 MAP8_e4_p2_103	Map008.json	0	dialogue	急ぎ、西の森に住むロイを訪ね、事の次第を	Hurry to the western forest, visit Roi who lives there,
 MAP8_e4_p2_104	Map008.json	0	dialogue	伝え、城に出てくるよう説得するのだ。	tell him what's happened, and persuade him to come to the castle.
 MAP8_e4_p2_106	Map008.json	0	dialogue	ピピン：	Pipin:
-MAP8_e4_p2_107	Map008.json	0	dialogue	陛下、それは逆ですよ。	
-MAP8_e4_p2_108	Map008.json	0	dialogue	なんで俺がこいつに面倒を見られにゃならんの	
-MAP8_e4_p2_109	Map008.json	0	dialogue	です！	
+MAP8_e4_p2_107	Map008.json	0	dialogue	陛下、それは逆ですよ。	Your Majesty, you've got it backwards.
+MAP8_e4_p2_108	Map008.json	0	dialogue	なんで俺がこいつに面倒を見られにゃならんの	Why do I have to be the one looking after
+MAP8_e4_p2_109	Map008.json	0	dialogue	です！	this kid!?
 MAP8_e4_p2_111	Map008.json	0	dialogue	ウィンダム王：	King Windam:
-MAP8_e4_p2_112	Map008.json	0	dialogue	この意味、	
-MAP8_e4_p2_113	Map008.json	0	dialogue	分からないお前ではあるまい、ピピン！	
+MAP8_e4_p2_112	Map008.json	0	dialogue	この意味、	The meaning of this—
+MAP8_e4_p2_113	Map008.json	0	dialogue	分からないお前ではあるまい、ピピン！	surely even you understand, Pipin!
 MAP8_e4_p2_115	Map008.json	0	dialogue	ピピン：	Pipin:
 MAP8_e4_p2_116	Map008.json	0	dialogue	は…？	Huh...?
-MAP8_e4_p2_117	Map008.json	0	dialogue	いや、分かりませんが…	
+MAP8_e4_p2_117	Map008.json	0	dialogue	いや、分かりませんが…	No, I don't understand, but...
 MAP8_e4_p2_119	Map008.json	0	dialogue	ウィンダム王：	King Windam:
 MAP8_e4_p2_12	Map008.json	0	dialogue	ウィンダム王：	King Windam:
 MAP8_e4_p2_120	Map008.json	0	dialogue	ロイは気難しい男だ…。	
@@ -3424,7 +3424,7 @@ MAP37_e18_p0_1	Map037.json	0	dialogue	『ウィンダム王国の歴史』	"""Hi
 MAP37_e18_p0_11	Map037.json	1	dialogue	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
 MAP37_e18_p0_12	Map037.json	1	dialogue	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
 MAP37_e18_p0_13	Map037.json	1	dialogue	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
-MAP37_e18_p0_15	Map037.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	
+MAP37_e18_p0_15	Map037.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	And so—as this castle and kingdom were made through the blessing of the Wind Element—
 MAP37_e18_p0_16	Map037.json	1	dialogue	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
 MAP37_e18_p0_17	Map037.json	1	dialogue	信じられている。	outside the Windam Kingdom as well.
 MAP37_e18_p0_18	Map037.json	1	dialogue	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
@@ -3568,60 +3568,60 @@ MAP37_e4_p0_2	Map037.json	0	dialogue	騎士ウィン、お前にはまだ実戦�
 MAP37_e4_p0_3	Map037.json	0	dialogue	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
 MAP37_e4_p0_4	Map037.json	0	dialogue	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP37_e4_p1_10	Map037.json	2	dialogue	ウィンダム王：	King Windam:
-MAP37_e4_p1_11	Map037.json	2	dialogue	お前の働きに期待しているぞ。	
-MAP37_e4_p1_12	Map037.json	2	dialogue	下がれ。	
+MAP37_e4_p1_11	Map037.json	2	dialogue	お前の働きに期待しているぞ。	I expect great things from you.
+MAP37_e4_p1_12	Map037.json	2	dialogue	下がれ。	You may leave.
 MAP37_e4_p1_16	Map037.json	2	dialogue	ウィンダム王：	King Windam:
-MAP37_e4_p1_17	Map037.json	2	dialogue	…すまぬが少し考え事をしているのだ。	
-MAP37_e4_p1_18	Map037.json	2	dialogue	ひとりになりたい。	
-MAP37_e4_p1_19	Map037.json	2	dialogue	またの機会にしてくれ。	
+MAP37_e4_p1_17	Map037.json	2	dialogue	…すまぬが少し考え事をしているのだ。	...Forgive me, but I'm lost in thought.
+MAP37_e4_p1_18	Map037.json	2	dialogue	ひとりになりたい。	I wish to be alone.
+MAP37_e4_p1_19	Map037.json	2	dialogue	またの機会にしてくれ。	Some other time, please.
 MAP37_e4_p1_26	Map037.json	1	dialogue	ウィンダム王：	King Windam:
-MAP37_e4_p1_27	Map037.json	1	dialogue	以前サクソンに西の塔の見回りを命じたが、	
-MAP37_e4_p1_28	Map037.json	1	dialogue	あれからまだ、ひとつきも経っていない。	
-MAP37_e4_p1_29	Map037.json	1	dialogue	こんな短期間に多くの魔物が巣くうものか…	
+MAP37_e4_p1_27	Map037.json	1	dialogue	以前サクソンに西の塔の見回りを命じたが、	I ordered Saxon to patrol the western tower before,
+MAP37_e4_p1_28	Map037.json	1	dialogue	あれからまだ、ひとつきも経っていない。	and not even a month has passed since.
+MAP37_e4_p1_29	Map037.json	1	dialogue	こんな短期間に多くの魔物が巣くうものか…	How could so many monsters have nested there in so short a time...
 MAP37_e4_p1_3	Map037.json	1	dialogue	ウィンダム王：	King Windam:
 MAP37_e4_p1_31	Map037.json	1	dialogue	ピピン：	Pipin:
-MAP37_e4_p1_32	Map037.json	1	dialogue	恐れながら、陛下。	
-MAP37_e4_p1_33	Map037.json	1	dialogue	サクソン騎士団長代行のこと、きっと報告だけ	
-MAP37_e4_p1_34	Map037.json	1	dialogue	して、見回りはしていません。	
+MAP37_e4_p1_32	Map037.json	1	dialogue	恐れながら、陛下。	If I may be so bold, Your Majesty.
+MAP37_e4_p1_33	Map037.json	1	dialogue	サクソン騎士団長代行のこと、きっと報告だけ	As for Acting Knight Commander Saxon, I'm sure he
+MAP37_e4_p1_34	Map037.json	1	dialogue	して、見回りはしていません。	only filed the report and never actually patrolled.
 MAP37_e4_p1_36	Map037.json	1	dialogue	ウィンダム王：	King Windam:
-MAP37_e4_p1_37	Map037.json	1	dialogue	ありそうなことだ…。	
-MAP37_e4_p1_38	Map037.json	1	dialogue	いつもあの者の尻拭いをさせてすまないが、	
-MAP37_e4_p1_39	Map037.json	1	dialogue	ピピン、任せたぞ。	
-MAP37_e4_p1_4	Map037.json	1	dialogue	…なぜまだここにいる？	
+MAP37_e4_p1_37	Map037.json	1	dialogue	ありそうなことだ…。	That does sound like him...
+MAP37_e4_p1_38	Map037.json	1	dialogue	いつもあの者の尻拭いをさせてすまないが、	I'm sorry to always make you clean up after him, but
+MAP37_e4_p1_39	Map037.json	1	dialogue	ピピン、任せたぞ。	Pipin, I leave it to you.
+MAP37_e4_p1_4	Map037.json	1	dialogue	…なぜまだここにいる？	...Why are you still here?
 MAP37_e4_p1_41	Map037.json	1	dialogue	ピピン：	Pipin:
 MAP37_e4_p1_42	Map037.json	1	dialogue	…は	...Yes
 MAP37_e4_p1_47	Map037.json	1	dialogue	ウィンダム王：	King Windam:
-MAP37_e4_p1_48	Map037.json	1	dialogue	ピピン、お前の今回の仕事は、ウィンの	
-MAP37_e4_p1_49	Map037.json	1	dialogue	サポートだ。色々と教えてやるように。	
-MAP37_e4_p1_5	Map037.json	1	dialogue	お前には西の塔の調査に向かうよう命じた。	
-MAP37_e4_p1_50	Map037.json	1	dialogue	少しは仲良くするのだぞ。	
+MAP37_e4_p1_48	Map037.json	1	dialogue	ピピン、お前の今回の仕事は、ウィンの	Pipin, your task this time is to
+MAP37_e4_p1_49	Map037.json	1	dialogue	サポートだ。色々と教えてやるように。	support Win. Teach him everything you can.
+MAP37_e4_p1_5	Map037.json	1	dialogue	お前には西の塔の調査に向かうよう命じた。	You've been ordered to investigate the western tower.
+MAP37_e4_p1_50	Map037.json	1	dialogue	少しは仲良くするのだぞ。	Try to get along with each other.
 MAP37_e4_p1_52	Map037.json	1	dialogue	ピピン：	Pipin:
 MAP37_e4_p1_53	Map037.json	1	dialogue	…は	...Yes
 MAP37_e4_p1_55	Map037.json	1	dialogue	ウィンダム王：	King Windam:
-MAP37_e4_p1_56	Map037.json	1	dialogue	王に向かってそうあからさまに嫌な顔をするな。	
-MAP37_e4_p1_57	Map037.json	1	dialogue	お前なりのやり方でいいが、努力はしろ。	
-MAP37_e4_p1_58	Map037.json	1	dialogue	隊長たるもの、部下の教育も仕事の内だ。	
-MAP37_e4_p1_6	Map037.json	1	dialogue	私にはお前と雑談するような暇はないぞ。	
+MAP37_e4_p1_56	Map037.json	1	dialogue	王に向かってそうあからさまに嫌な顔をするな。	Don't make such an obvious face of disgust toward your king.
+MAP37_e4_p1_57	Map037.json	1	dialogue	お前なりのやり方でいいが、努力はしろ。	Do it your own way if you like, but put in the effort.
+MAP37_e4_p1_58	Map037.json	1	dialogue	隊長たるもの、部下の教育も仕事の内だ。	As a captain, teaching your subordinates is part of the job.
+MAP37_e4_p1_6	Map037.json	1	dialogue	私にはお前と雑談するような暇はないぞ。	I have no time for chit-chat with you.
 MAP37_e4_p1_60	Map037.json	1	dialogue	ピピン：	Pipin:
-MAP37_e4_p1_61	Map037.json	1	dialogue	…努力します。	
+MAP37_e4_p1_61	Map037.json	1	dialogue	…努力します。	...I'll do my best.
 MAP37_e4_p1_7_c0	Map037.json	choice	choice	申し訳ございません	I apologize
 MAP37_e4_p1_7_c1	Map037.json	choice	choice	陛下とお話させて下さい	Please let me speak with His Majesty
 MAP37_e4_p2_1	Map037.json	0	dialogue	ウィンダム王：	King Windam:
 MAP37_e4_p2_10	Map037.json	0	dialogue	しかし…	However...
-MAP37_e4_p2_101	Map037.json	0	dialogue	長話は終わりにしよう。	
+MAP37_e4_p2_101	Map037.json	0	dialogue	長話は終わりにしよう。	Let's end this long talk.
 MAP37_e4_p2_102	Map037.json	0	dialogue	ウィンよ、ピピンをよろしく頼む。	Win, I entrust Pipin to you.
 MAP37_e4_p2_103	Map037.json	0	dialogue	急ぎ、西の森に住むロイを訪ね、事の次第を	Hurry to the western forest, visit Roi who lives there,
 MAP37_e4_p2_104	Map037.json	0	dialogue	伝え、城に出てくるよう説得するのだ。	tell him what's happened, and persuade him to come to the castle.
 MAP37_e4_p2_106	Map037.json	0	dialogue	ピピン：	Pipin:
-MAP37_e4_p2_107	Map037.json	0	dialogue	陛下、それは逆ですよ。	
-MAP37_e4_p2_108	Map037.json	0	dialogue	なんで俺がこいつに面倒を見られにゃならんの	
-MAP37_e4_p2_109	Map037.json	0	dialogue	です！	
+MAP37_e4_p2_107	Map037.json	0	dialogue	陛下、それは逆ですよ。	Your Majesty, you've got it backwards.
+MAP37_e4_p2_108	Map037.json	0	dialogue	なんで俺がこいつに面倒を見られにゃならんの	Why do I have to be the one looking after
+MAP37_e4_p2_109	Map037.json	0	dialogue	です！	this kid!?
 MAP37_e4_p2_111	Map037.json	0	dialogue	ウィンダム王：	King Windam:
-MAP37_e4_p2_112	Map037.json	0	dialogue	この意味、	
-MAP37_e4_p2_113	Map037.json	0	dialogue	分からないお前ではあるまい、ピピン！	
+MAP37_e4_p2_112	Map037.json	0	dialogue	この意味、	The meaning of this—
+MAP37_e4_p2_113	Map037.json	0	dialogue	分からないお前ではあるまい、ピピン！	surely even you understand, Pipin!
 MAP37_e4_p2_115	Map037.json	0	dialogue	ピピン：	Pipin:
 MAP37_e4_p2_116	Map037.json	0	dialogue	は…？	Huh...?
-MAP37_e4_p2_117	Map037.json	0	dialogue	いや、分かりませんが…	
+MAP37_e4_p2_117	Map037.json	0	dialogue	いや、分かりませんが…	No, I don't understand, but...
 MAP37_e4_p2_119	Map037.json	0	dialogue	ウィンダム王：	King Windam:
 MAP37_e4_p2_12	Map037.json	0	dialogue	ウィンダム王：	King Windam:
 MAP37_e4_p2_120	Map037.json	0	dialogue	ロイは気難しい男だ…。	
@@ -4255,7 +4255,7 @@ MAP49_e9_p1_49	Map049.json	0	dialogue	思ってた。
 MAP49_e9_p1_51	Map049.json	0	dialogue	誰にでも優しくて…	
 MAP49_e9_p1_52	Map049.json	0	dialogue	難しい本をたくさん読んでいて…	
 MAP49_e9_p1_53	Map049.json	0	dialogue	誰もが立派だと褒めるアニキみてえに…	
-MAP49_e9_p1_56	Map049.json	0	dialogue	…そうか。	
+MAP49_e9_p1_56	Map049.json	0	dialogue	…そうか。	...I see.
 MAP49_e9_p1_58	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e9_p1_59	Map049.json	0	dialogue	だからアニキが死んでから大変だったんだ。	
 MAP49_e9_p1_60	Map049.json	0	dialogue	オレはたくさん本を読んでみた。	
@@ -8942,7 +8942,7 @@ MAP65_e44_p1_74	Map065.json	0	dialogue	も！　もちろんですぞーーー�
 MAP65_e44_p1_76	Map065.json	0	dialogue	ウィンダム王：	King Windam:
 MAP65_e44_p1_77	Map065.json	0	dialogue	行け！！　サクソン！！	
 MAP65_e4_p0_1	Map065.json	0	dialogue	ウィンダム王：	King Windam:
-MAP65_e4_p0_2	Map065.json	0	dialogue	騎士ウィン、お前にはまだ実戦経験がない。	
+MAP65_e4_p0_2	Map065.json	0	dialogue	騎士ウィン、お前にはまだ実戦経験がない。	Knight Win, you have no real combat experience yet.
 MAP65_e4_p0_3	Map065.json	0	dialogue	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
 MAP65_e4_p0_4	Map065.json	0	dialogue	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP65_e5_p0_1	Map065.json	0	dialogue	近衛兵ブロウニング：	Browning, Royal Guard:
@@ -9422,63 +9422,63 @@ MAP67_e14_p0_1	Map067.json	0	dialogue	『怖くない！五分で怖くなくな
 MAP67_e14_p0_11	Map067.json	1	dialogue	例えばみんながよく心配するのが、各ポーション類…	What everyone worries about, for instance, are the potions and such—
 MAP67_e14_p0_12	Map067.json	1	dialogue	飲み薬に使われている、材料のことだと思います。	specifically, the ingredients used in the medicines.
 MAP67_e14_p0_13	Map067.json	1	dialogue	確かに私たちは材料を教えません、隠していますが、	It's true we don't reveal the ingredients; we keep them hidden, but
-MAP67_e14_p0_14	Map067.json	1	dialogue	決して危なかったり汚かったりするものは使っていません。	
-MAP67_e14_p0_16	Map067.json	1	dialogue	私たちは、材料がバレると売れなくなるから、隠して	
-MAP67_e14_p0_17	Map067.json	1	dialogue	いるのではないのです！とても専門的で、難易度の高い	
-MAP67_e14_p0_18	Map067.json	1	dialogue	製法で作るものなので、皆さんに気軽に真似をされて、	
-MAP67_e14_p0_19	Map067.json	1	dialogue	大怪我したり病気になって欲しくないだけなのです！	
+MAP67_e14_p0_14	Map067.json	1	dialogue	決して危なかったり汚かったりするものは使っていません。	We never use anything dangerous or unclean.
+MAP67_e14_p0_16	Map067.json	1	dialogue	私たちは、材料がバレると売れなくなるから、隠して	We don't hide the ingredients because they'd stop selling
+MAP67_e14_p0_17	Map067.json	1	dialogue	いるのではないのです！とても専門的で、難易度の高い	if they got out! We just don't want people casually copying
+MAP67_e14_p0_18	Map067.json	1	dialogue	製法で作るものなので、皆さんに気軽に真似をされて、	our highly specialized, difficult methods and
+MAP67_e14_p0_19	Map067.json	1	dialogue	大怪我したり病気になって欲しくないだけなのです！	ending up badly injured or sick!
 MAP67_e14_p0_2	Map067.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
 MAP67_e14_p0_3_c0	Map067.json	choice	choice	読んでみる	Read it
 MAP67_e14_p0_3_c1	Map067.json	choice	choice	読まない	Don't read it
-MAP67_e14_p0_6	Map067.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	
-MAP67_e14_p0_7	Map067.json	1	dialogue	ひとたちが、正体の分からない薬を大変な高額で売り出す	
-MAP67_e14_p0_8	Map067.json	1	dialogue	ようになって百年くらいでしょうか。	
-MAP67_e14_p0_9	Map067.json	1	dialogue	でも効き目が凄いから、みんな本当は憧れているでしょう？	
-MAP67_e15_p0_1	Map067.json	0	dialogue	読みかけの本がある…	
+MAP67_e14_p0_6	Map067.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years since people called alchemists—
+MAP67_e14_p0_7	Map067.json	1	dialogue	ひとたちが、正体の分からない薬を大変な高額で売り出す	or rather, who call themselves that—began selling unknown medicines
+MAP67_e14_p0_8	Map067.json	1	dialogue	ようになって百年くらいでしょうか。	at exorbitant prices.
+MAP67_e14_p0_9	Map067.json	1	dialogue	でも効き目が凄いから、みんな本当は憧れているでしょう？	But since they work wonders, everyone secretly admires them, right?
+MAP67_e15_p0_1	Map067.json	0	dialogue	読みかけの本がある…	There's a half-read book...
 MAP67_e15_p0_2	Map067.json	0	dialogue	読んでみようか…。	Should we read it...?
 MAP67_e15_p0_3_c0	Map067.json	choice	choice	読んでみる	Read it
 MAP67_e15_p0_3_c1	Map067.json	choice	choice	読まない	Don't read it
-MAP67_e15_p0_6	Map067.json	1	dialogue	騎士は国王の命令に絶対に背いてはいけません。	
-MAP67_e15_p0_7	Map067.json	1	dialogue	次に、騎士団長の命令にも背いてはいけません。	
-MAP67_e15_p0_8	Map067.json	1	dialogue	命令を聞かないと、騎士をやめさせられます。	
-MAP67_e15_p0_9	Map067.json	1	dialogue	騎士をやめると、ただの兵士か、市民になります。	
-MAP67_e16_p0_1	Map067.json	0	dialogue	『この世界の紋章』	
-MAP67_e16_p0_10	Map067.json	1	dialogue	この紋章は、闇のエレメントが復活する際に輝き出し、	
-MAP67_e16_p0_11	Map067.json	1	dialogue	闇のエレメントによって世界が暗闇に覆われ、魔物に	
-MAP67_e16_p0_12	Map067.json	1	dialogue	溢れるのを防ぐことが出来ると言われている。	
-MAP67_e16_p0_14	Map067.json	1	dialogue	紋章は、持ち主が最も信頼している人間へと継承される。	
-MAP67_e16_p0_15	Map067.json	1	dialogue	しかし紋章が輝いたのを誰も見たことがない為、現実には	
-MAP67_e16_p0_16	Map067.json	1	dialogue	権力者が継承している。フレイム王国では代々国王が、	
-MAP67_e16_p0_17	Map067.json	1	dialogue	セイリューでは領主が、ウィンダムでは騎士団長である。	
-MAP67_e16_p0_2	Map067.json	0	dialogue	…という本がある。読んでみようか…。	
+MAP67_e15_p0_6	Map067.json	1	dialogue	騎士は国王の命令に絶対に背いてはいけません。	Knights must never disobey the king's orders.
+MAP67_e15_p0_7	Map067.json	1	dialogue	次に、騎士団長の命令にも背いてはいけません。	Next, they must not disobey the Knight Commander's orders either.
+MAP67_e15_p0_8	Map067.json	1	dialogue	命令を聞かないと、騎士をやめさせられます。	Disobey orders and you'll be stripped of your knighthood.
+MAP67_e15_p0_9	Map067.json	1	dialogue	騎士をやめると、ただの兵士か、市民になります。	If you lose your knighthood, you become a mere soldier or a citizen.
+MAP67_e16_p0_1	Map067.json	0	dialogue	『この世界の紋章』	"""The Crests of This World"""
+MAP67_e16_p0_10	Map067.json	1	dialogue	この紋章は、闇のエレメントが復活する際に輝き出し、	These crests begin to shine when the Dark Element revives,
+MAP67_e16_p0_11	Map067.json	1	dialogue	闇のエレメントによって世界が暗闇に覆われ、魔物に	and are said to prevent the world from being shrouded in darkness and
+MAP67_e16_p0_12	Map067.json	1	dialogue	溢れるのを防ぐことが出来ると言われている。	overrun by monsters at the Dark Element's hands.
+MAP67_e16_p0_14	Map067.json	1	dialogue	紋章は、持ち主が最も信頼している人間へと継承される。	A crest passes to the person its holder trusts most.
+MAP67_e16_p0_15	Map067.json	1	dialogue	しかし紋章が輝いたのを誰も見たことがない為、現実には	But since no one has ever seen a crest shine, in practice
+MAP67_e16_p0_16	Map067.json	1	dialogue	権力者が継承している。フレイム王国では代々国王が、	those in power inherit them. In the Flame Kingdom, the king;
+MAP67_e16_p0_17	Map067.json	1	dialogue	セイリューでは領主が、ウィンダムでは騎士団長である。	in Seiryu, the lord; and in Windam, the Knight Commander.
+MAP67_e16_p0_2	Map067.json	0	dialogue	…という本がある。読んでみようか…。	There's a book on this. Should we read it...?
 MAP67_e16_p0_3_c0	Map067.json	choice	choice	読んでみる	Read it
 MAP67_e16_p0_3_c1	Map067.json	choice	choice	読まない	Don't read it
-MAP67_e16_p0_6	Map067.json	1	dialogue	エレメント大陸は火と水と風のエレメントによって	
-MAP67_e16_p0_7	Map067.json	1	dialogue	作られた土地で、エレメントの加護の証である紋章が、	
-MAP67_e16_p0_8	Map067.json	1	dialogue	それぞれの紋章継承者の手の甲に刻まれる。	
-MAP67_e17_p0_1	Map067.json	0	dialogue	『恐怖！闇のエレメント復活！』	
-MAP67_e17_p0_11	Map067.json	1	dialogue	よし！ここで水の紋章の出番です。水の紋章の勇者が	
-MAP67_e17_p0_12	Map067.json	1	dialogue	片手を振りかざすと、大きな津波があらわれました。	
-MAP67_e17_p0_13	Map067.json	1	dialogue	火はまたたくまに消えました。しかし、闇のエレメントも	
-MAP67_e17_p0_14	Map067.json	1	dialogue	流されてしまい、どこにいったか分かりません。	
-MAP67_e17_p0_16	Map067.json	1	dialogue	このままでは世界は暗黒に包まれ、魔物が増え、ひとの	
-MAP67_e17_p0_17	Map067.json	1	dialogue	住めない土地になってしまう！しかし気付けば風の勇者が	
-MAP67_e17_p0_18	Map067.json	1	dialogue	いません。なんと！風の紋章のハヤテの力で疾風となった	
-MAP67_e17_p0_19	Map067.json	1	dialogue	風の勇者が闇のエレメントを追いかけています！	
+MAP67_e16_p0_6	Map067.json	1	dialogue	エレメント大陸は火と水と風のエレメントによって	The Element Continent is a land forged by the Fire, Water, and Wind Elements,
+MAP67_e16_p0_7	Map067.json	1	dialogue	作られた土地で、エレメントの加護の証である紋章が、	and crests—marks of the Elements' blessing—are
+MAP67_e16_p0_8	Map067.json	1	dialogue	それぞれの紋章継承者の手の甲に刻まれる。	engraved on the back of each inheritor's hand.
+MAP67_e17_p0_1	Map067.json	0	dialogue	『恐怖！闇のエレメント復活！』	"""Terror! The Dark Element Returns!"""
+MAP67_e17_p0_11	Map067.json	1	dialogue	よし！ここで水の紋章の出番です。水の紋章の勇者が	Alright! Now it's the Water Crest's turn! When the hero of the Water Crest
+MAP67_e17_p0_12	Map067.json	1	dialogue	片手を振りかざすと、大きな津波があらわれました。	raised a hand, a great tsunami appeared.
+MAP67_e17_p0_13	Map067.json	1	dialogue	火はまたたくまに消えました。しかし、闇のエレメントも	The fire vanished in an instant. But the Dark Element was
+MAP67_e17_p0_14	Map067.json	1	dialogue	流されてしまい、どこにいったか分かりません。	washed away too, and no one knows where it went.
+MAP67_e17_p0_16	Map067.json	1	dialogue	このままでは世界は暗黒に包まれ、魔物が増え、ひとの	At this rate, the world will be swallowed by darkness, monsters will multiply, and the land will
+MAP67_e17_p0_17	Map067.json	1	dialogue	住めない土地になってしまう！しかし気付けば風の勇者が	become uninhabitable! But wait—the hero of Wind is gone!
+MAP67_e17_p0_18	Map067.json	1	dialogue	いません。なんと！風の紋章のハヤテの力で疾風となった	What!? Transformed into a gale by the Wind Crest's Hayate,
+MAP67_e17_p0_19	Map067.json	1	dialogue	風の勇者が闇のエレメントを追いかけています！	the Wind hero is chasing after the Dark Element!
 MAP67_e17_p0_2	Map067.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP67_e17_p0_21	Map067.json	1	dialogue	そのスピードはすさまじく、火の勇者と水の勇者は	
-MAP67_e17_p0_22	Map067.json	1	dialogue	置いていかれました。最早闇のエレメントも風の勇者も	
-MAP67_e17_p0_23	Map067.json	1	dialogue	どこにいるのか分かりません。さあ二人はどうやって合流	
-MAP67_e17_p0_24	Map067.json	1	dialogue	するのか！？次回をおたのしみに！	
+MAP67_e17_p0_21	Map067.json	1	dialogue	そのスピードはすさまじく、火の勇者と水の勇者は	His speed is incredible, and the Fire and Water heroes were
+MAP67_e17_p0_22	Map067.json	1	dialogue	置いていかれました。最早闇のエレメントも風の勇者も	left behind. Now no one knows where the Dark Element
+MAP67_e17_p0_23	Map067.json	1	dialogue	どこにいるのか分かりません。さあ二人はどうやって合流	or the Wind hero are. How will those two meet up again!?
+MAP67_e17_p0_24	Map067.json	1	dialogue	するのか！？次回をおたのしみに！	Stay tuned for next time!
 MAP67_e17_p0_3_c0	Map067.json	choice	choice	読んでみる	Read it
 MAP67_e17_p0_3_c1	Map067.json	choice	choice	読んでみない	I won't read it
-MAP67_e17_p0_6	Map067.json	1	dialogue	火を噴く火の紋章！ぎゃーーーーーーーーー闇のエレメント	
-MAP67_e17_p0_7	Map067.json	1	dialogue	は燃えました。風の紋章がカマイタチを呼び、火はもっと	
-MAP67_e17_p0_8	Map067.json	1	dialogue	激しくなりました。いかん！火が凄くて闇のエレメントが	
-MAP67_e17_p0_9	Map067.json	1	dialogue	よく見えない！近付くこともできません。	
+MAP67_e17_p0_6	Map067.json	1	dialogue	火を噴く火の紋章！ぎゃーーーーーーーーー闇のエレメント	The Fire Crest breathes flame! Gyaaaaah—the Dark Element
+MAP67_e17_p0_7	Map067.json	1	dialogue	は燃えました。風の紋章がカマイタチを呼び、火はもっと	burned! The Wind Crest summoned a Kamaitachi, and the fire blazed
+MAP67_e17_p0_8	Map067.json	1	dialogue	激しくなりました。いかん！火が凄くて闇のエレメントが	even fiercer. Oh no! The flames are so intense we can't
+MAP67_e17_p0_9	Map067.json	1	dialogue	よく見えない！近付くこともできません。	even see the Dark Element! We can't get close!
 MAP67_e18_p0_1	Map067.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP67_e19_p0_1	Map067.json	0	dialogue	書記官デアール：	Dear, Scribe:
-MAP67_e19_p0_2	Map067.json	0	dialogue	吾輩は王国書記官のデアール卿であーる。	
+MAP67_e19_p0_2	Map067.json	0	dialogue	吾輩は王国書記官のデアール卿であーる。	I am Lord Dear, the kingdom's scribe, yessir.
 MAP67_e19_p0_4	Map067.json	0	dialogue	吾輩は現在王国の被害状況を調べているので	
 MAP67_e19_p0_5	Map067.json	0	dialogue	あーる！	
 MAP67_e19_p0_6	Map067.json	0	dialogue	他国の情報もまとめているのであーる！	
@@ -9570,14 +9570,14 @@ MAP67_e24_p2_7	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
 MAP67_e24_p2_9	Map067.json	0	dialogue	じゃますんなっていっただろ！！！！！？？	
 MAP67_e25_p0_1	Map067.json	0	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
 MAP67_e25_p0_11	Map067.json	1	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
-MAP67_e25_p0_12	Map067.json	1	dialogue	よかったー　あれ、騎士であるあなたが	
-MAP67_e25_p0_13	Map067.json	1	dialogue	持っていても、何の役にも立ちませんし、	
-MAP67_e25_p0_14	Map067.json	1	dialogue	そりゃ売りますよね。　よかったー	
+MAP67_e25_p0_12	Map067.json	1	dialogue	よかったー　あれ、騎士であるあなたが	Oh good~ ...but as a knight,
+MAP67_e25_p0_13	Map067.json	1	dialogue	持っていても、何の役にも立ちませんし、	it would be of no use to you anyway,
+MAP67_e25_p0_14	Map067.json	1	dialogue	そりゃ売りますよね。　よかったー	so of course you'd sell it. Oh good~
 MAP67_e25_p0_18	Map067.json	1	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
-MAP67_e25_p0_19	Map067.json	1	dialogue	あー…　素材や財宝はためこんでも、	
+MAP67_e25_p0_19	Map067.json	1	dialogue	あー…　素材や財宝はためこんでも、	Ah... hoarding materials and treasure
 MAP67_e25_p0_2	Map067.json	0	dialogue	ウィンさん、魔物をたおしたときにたまに	Win, sometimes when you defeat monsters,
-MAP67_e25_p0_20	Map067.json	1	dialogue	俺ら兵士や騎士には、役に立ちません。	
-MAP67_e25_p0_21	Map067.json	1	dialogue	お店で売ってお金に変えた方がいいですよ？	
+MAP67_e25_p0_20	Map067.json	1	dialogue	俺ら兵士や騎士には、役に立ちません。	doesn't do us soldiers or knights any good.
+MAP67_e25_p0_21	Map067.json	1	dialogue	お店で売ってお金に変えた方がいいですよ？	Better to sell them at a shop and turn them into money, right?
 MAP67_e25_p0_3	Map067.json	0	dialogue	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
 MAP67_e25_p0_4	Map067.json	0	dialogue	ちゃんと売ってますよね？	
 MAP67_e25_p0_6	Map067.json	0	dialogue	ウィン：	Win:
