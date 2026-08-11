@@ -3885,7 +3885,7 @@ MAP55_e7_p2_89	じゃが、ナガレや…。
 MAP55_e7_p2_90	これはわしの考えじゃ、思いつきじゃ。	
 MAP55_e7_p2_91	本当のことは、わしにもわからん。	
 MAP55_e7_p2_94	そのつもりで、聞くのじゃ。	
-MAP55_e7_p2_97	うん…　	
+MAP55_e7_p2_97	うん…　	Yeah...
 MAP55_e7_p3_2	村のことは任せなさい！	
 MAP55_e8_p1_2	龍のお社は村を出て東へ向かえば見えてきます。	Leave the village and head east, and the Dragon Shrine will come into view.
 MAP55_e8_p1_3	それと…	Also...
@@ -3933,9 +3933,9 @@ MAP58_e10_p0_16	むしろ、空中に浮いてる火がお化け以外の	More t
 MAP58_e10_p0_17	なんなんだよ？	be but a ghost?
 MAP58_e10_p0_19	来るぞ…　　あんたら、構えろ！	Here they come... You lot, take your stances!
 MAP58_e10_p0_2	なんだこれ…？火が浮いているぜ…	What is this...? Fire floating in the air...
-MAP58_e10_p0_5	嫌な予感がする…	
+MAP58_e10_p0_5	嫌な予感がする…	I have a bad feeling...
 MAP58_e10_p0_6	お社の近くにヒノタマっていうお化けが	Since I was a kid, they always said hinotama ghosts
-MAP58_e10_p0_7	出るって、ガキの頃によく言われたけど…	
+MAP58_e10_p0_7	出るって、ガキの頃によく言われたけど…	Since I was a kid, they always said they appeared, but...
 MAP58_e10_p0_9	本当だったとはな。	so it was true.
 MAP58_e10_p1_1	ホノオ；	Hono:
 MAP58_e10_p1_11	ホノオ；	Hono:
@@ -3945,9 +3945,9 @@ MAP58_e10_p1_16	むしろ、空中に浮いてる火がお化け以外の	More t
 MAP58_e10_p1_17	なんなんだよ？	be but a ghost?
 MAP58_e10_p1_19	来るぞ…　　あんたら、構えろ！	Here they come... You lot, take your stances!
 MAP58_e10_p1_2	なんだこれ…？火が浮いているぜ…	What is this...? Fire floating in the air...
-MAP58_e10_p1_5	嫌な予感がする…	
+MAP58_e10_p1_5	嫌な予感がする…	I have a bad feeling...
 MAP58_e10_p1_6	お社の近くにヒノタマっていうお化けが	Since I was a kid, they always said hinotama ghosts
-MAP58_e10_p1_7	出るって、ガキの頃によく言われたけど…	
+MAP58_e10_p1_7	出るって、ガキの頃によく言われたけど…	Since I was a kid, they always said they appeared, but...
 MAP58_e10_p1_9	本当だったとはな。	so it was true.
 MAP58_e10_p2_10	それより…	Anyway...
 MAP58_e10_p2_100	自分を強いと感じられたのさ。	
@@ -4325,56 +4325,56 @@ MAP60_e6_p1_124	のは、大きいわ。	It's a big blow.
 MAP60_e6_p1_127	じゃあこれで、復活を阻止できたのか…？	So with this, we've stopped the revival...?
 MAP60_e6_p1_130	…あなたたち、一体どこまで知っているの？	...Just how much do you lot know?
 MAP60_e6_p1_136	う…。	Uh...
-MAP60_e6_p1_141	これから何が起こるのか…	
-MAP60_e6_p1_142	わかっていない感じに見えるんだけれど？	
-MAP60_e6_p1_145	何が起こる…？	
-MAP60_e6_p1_148	あなたたちが、これだけ早く継承者を揃えた	
-MAP60_e6_p1_149	ものだから…	
-MAP60_e6_p1_150	もう少し知っているのかと思ったけれど、	
+MAP60_e6_p1_141	これから何が起こるのか…	What's about to happen...
+MAP60_e6_p1_142	わかっていない感じに見えるんだけれど？	You don't seem to have any idea, do you?
+MAP60_e6_p1_145	何が起こる…？	What's going to happen...?
+MAP60_e6_p1_148	あなたたちが、これだけ早く継承者を揃えた	Because you gathered the inheritors this quickly,
+MAP60_e6_p1_149	ものだから…	...
+MAP60_e6_p1_150	もう少し知っているのかと思ったけれど、	I thought you might know a bit more, but
 MAP60_e6_p1_154	そう…	I see...
-MAP60_e6_p1_155	何も知らないのね。	
-MAP60_e6_p1_158	な、なんだよ…	
-MAP60_e6_p1_159	何が起こるってんだよーーー！？	
-MAP60_e6_p1_16	おっと！	
+MAP60_e6_p1_155	何も知らないのね。	you know nothing, do you.
+MAP60_e6_p1_158	な、なんだよ…	Wh-What...?
+MAP60_e6_p1_159	何が起こるってんだよーーー！？	What's gonna happen!?
+MAP60_e6_p1_16	おっと！	Whoa!
 MAP60_e6_p1_163	それなら…	In that case...
-MAP60_e6_p1_164	まだ全然なんとかなるわね。	
-MAP60_e6_p1_167	はあ、おかげですっかり頭が冷えたわ。	
-MAP60_e6_p1_168	そうなったら、ここで時間を潰してられない。	
-MAP60_e6_p1_17	背中を見せたら、後ろから叩っきるぜ！！	
-MAP60_e6_p1_171	あっ！！　消えるぞコイツ！！	
-MAP60_e6_p1_174	消える…？	
-MAP60_e6_p1_177	コイツら、四天王は、倒しても消えて	
-MAP60_e6_p1_178	どっかにいっちまうんだよ！！	
-MAP60_e6_p1_179	前のときもそうだったぜ！！	
-MAP60_e6_p1_182	なんだと…　なら、早くトドメを…！！	
-MAP60_e6_p1_185	そういうこと…	
-MAP60_e6_p1_186	じゃあね、あなたたち。	
-MAP60_e6_p1_187	また会えることを願ってるわ…　本当よ。	
-MAP60_e6_p1_20	えーい！！邪魔をするなああああああああ！！	
-MAP60_e6_p1_23	さあ、青龍！	
-MAP60_e6_p1_24	急いでわたしに、紋章を…！！	
+MAP60_e6_p1_164	まだ全然なんとかなるわね。	It's still completely manageable.
+MAP60_e6_p1_167	はあ、おかげですっかり頭が冷えたわ。	Well, thanks to that, I've completely cooled down.
+MAP60_e6_p1_168	そうなったら、ここで時間を潰してられない。	In that case, I can't waste time here.
+MAP60_e6_p1_17	背中を見せたら、後ろから叩っきるぜ！！	Show me your back, and I'll cut you down from behind!!
+MAP60_e6_p1_171	あっ！！　消えるぞコイツ！！	Ah!! She's disappearing!!
+MAP60_e6_p1_174	消える…？	Disappearing...?
+MAP60_e6_p1_177	コイツら、四天王は、倒しても消えて	These Four Generals—even when you defeat them, they vanish
+MAP60_e6_p1_178	どっかにいっちまうんだよ！！	and get away somewhere!!
+MAP60_e6_p1_179	前のときもそうだったぜ！！	It was the same last time!!
+MAP60_e6_p1_182	なんだと…　なら、早くトドメを…！！	What... Then hurry and finish her off...!!
+MAP60_e6_p1_185	そういうこと…	That's right...
+MAP60_e6_p1_186	じゃあね、あなたたち。	Well then, farewell.
+MAP60_e6_p1_187	また会えることを願ってるわ…　本当よ。	I hope we meet again... truly.
+MAP60_e6_p1_20	えーい！！邪魔をするなああああああああ！！	Bah!! Stop interfering—!!
+MAP60_e6_p1_23	さあ、青龍！	Come, Seiryu!
+MAP60_e6_p1_24	急いでわたしに、紋章を…！！	Hurry and give me the crest...!!
 MAP60_e6_p1_27	わかった…！！	
-MAP60_e6_p1_43	　ナガレは、イヤシとイノチとテッペキの魔法をおぼえた！	
-MAP60_e6_p1_46	この力が…　本当の紋章の力か…！！	
+MAP60_e6_p1_43	　ナガレは、イヤシとイノチとテッペキの魔法をおぼえた！	Nagare learned the Heal, Life, and Iron Wall spells!
+MAP60_e6_p1_46	この力が…　本当の紋章の力か…！！	This power... so this is the crest's true power...!!
 MAP60_e6_p1_53	さあ…　みんなでミケーネを…　たおすんだ…！	
 MAP60_e6_p1_56	よくもあたしを殺してくれたなあ…	
 MAP60_e6_p1_57	ミケーネ…！！	
-MAP60_e6_p1_62	ええい…みすみす継承させてしまうとは…	
-MAP60_e6_p1_63	あたいとしたことが、とんだ大失態だ…！！	
+MAP60_e6_p1_62	ええい…みすみす継承させてしまうとは…	Dammit... letting her inherit it right under our noses...
+MAP60_e6_p1_63	あたいとしたことが、とんだ大失態だ…！！	What a colossal blunder on my part...!!
 MAP60_e6_p1_66	てめえ、もう覚悟、できてるよなあ…？	
 MAP60_e6_p1_67	あたしは紋章の力をまだ使ったことがないんだ	
-MAP60_e6_p1_69	だからもちろん、手加減はできないし…	
-MAP60_e6_p1_70	そして当然、手加減する気もない。	
-MAP60_e6_p1_72	つまり、あたしもあんたを…	
-MAP60_e6_p1_73	ころしちまうかも知れねえぞ、ってことだ…	
-MAP60_e6_p1_74	…わかってるよなあーーーーーー！！？	
-MAP60_e6_p1_77	あんだあ？この小娘がああああああああ！	
-MAP60_e6_p1_78	ちょっと生き返ったからって、	
-MAP60_e6_p1_79	えらくちょうしくれやがってよお……！！	
-MAP60_e6_p1_81	上等じゃねえかコラーーーーーー！！！！	
-MAP60_e6_p1_82	しにてえやつはまとめてかかってこいや…	
-MAP60_e6_p1_83	コラああああああああああ！！！！！！！！	
-MAP60_e6_p1_86	こ、こええ………！！	
+MAP60_e6_p1_69	だからもちろん、手加減はできないし…	So of course, I can't hold back...
+MAP60_e6_p1_70	そして当然、手加減する気もない。	And naturally, I've no intention of holding back.
+MAP60_e6_p1_72	つまり、あたしもあんたを…	In other words, I might just
+MAP60_e6_p1_73	ころしちまうかも知れねえぞ、ってことだ…	end up killing you too...
+MAP60_e6_p1_74	…わかってるよなあーーーーーー！！？	...You get that, right—!?
+MAP60_e6_p1_77	あんだあ？この小娘がああああああああ！	What was that, you little wench—!
+MAP60_e6_p1_78	ちょっと生き返ったからって、	Just because she came back to life,
+MAP60_e6_p1_79	えらくちょうしくれやがってよお……！！	she's putting on airs......!!
+MAP60_e6_p1_81	上等じゃねえかコラーーーーーー！！！！	Fine by me, bring it—!!!!
+MAP60_e6_p1_82	しにてえやつはまとめてかかってこいや…	Anyone who wants to die, come at me all at once...
+MAP60_e6_p1_83	コラああああああああああ！！！！！！！！	Heeeeeey!!!!!
+MAP60_e6_p1_86	こ、こええ………！！	S-Scary......!!
 MAP60_e6_p1_87	でもそんなこと言ってる場合じゃねえ…	
 MAP60_e6_p1_88	ウィン、オレたちも行くぞ！！	
 MAP60_e6_p1_94	　　　　　　　　　　ウィンは頷いた！	Win nodded!
@@ -4395,64 +4395,64 @@ MAP60_e6_p2_138	のは、大きいわ。	It's a big blow.
 MAP60_e6_p2_141	じゃあこれで、復活を阻止できたのか…？	So with this, we've stopped the revival...?
 MAP60_e6_p2_144	…あなたたち、一体どこまで知っているの？	...Just how much do you lot know?
 MAP60_e6_p2_150	う…。	Uh...
-MAP60_e6_p2_155	これから何が起こるのか…	
-MAP60_e6_p2_156	わかっていない感じに見えるんだけれど？	
-MAP60_e6_p2_159	何が起こる…？	
-MAP60_e6_p2_162	あなたたちが、これだけ早く継承者を揃えた	
-MAP60_e6_p2_163	ものだから…	
-MAP60_e6_p2_164	もう少し知っているのかと思ったけれど、	
+MAP60_e6_p2_155	これから何が起こるのか…	What's about to happen...
+MAP60_e6_p2_156	わかっていない感じに見えるんだけれど？	You don't seem to have any idea, do you?
+MAP60_e6_p2_159	何が起こる…？	What's going to happen...?
+MAP60_e6_p2_162	あなたたちが、これだけ早く継承者を揃えた	Because you gathered the inheritors this quickly,
+MAP60_e6_p2_163	ものだから…	...
+MAP60_e6_p2_164	もう少し知っているのかと思ったけれど、	I thought you might know a bit more, but
 MAP60_e6_p2_168	そう…	I see...
-MAP60_e6_p2_169	何も知らないのね。	
-MAP60_e6_p2_17	おっと！	
-MAP60_e6_p2_172	な、なんだよ…	
-MAP60_e6_p2_173	何が起こるってんだよーーー！？	
+MAP60_e6_p2_169	何も知らないのね。	you know nothing, do you.
+MAP60_e6_p2_17	おっと！	Whoa!
+MAP60_e6_p2_172	な、なんだよ…	Wh-What...?
+MAP60_e6_p2_173	何が起こるってんだよーーー！？	What's gonna happen!?
 MAP60_e6_p2_177	それなら…	In that case...
-MAP60_e6_p2_178	まだ全然なんとかなるわね。	
-MAP60_e6_p2_18	背中を見せたら、後ろから叩っきるぜ！！	
-MAP60_e6_p2_181	はあ、おかげですっかり頭が冷えたわ。	
-MAP60_e6_p2_182	そうなったら、ここで時間を潰してられない。	
-MAP60_e6_p2_185	あっ！！　消えるぞコイツ！！	
-MAP60_e6_p2_188	消える…？	
-MAP60_e6_p2_191	コイツら、四天王は、倒しても消えて	
-MAP60_e6_p2_192	どっかにいっちまうんだよ！！	
-MAP60_e6_p2_193	前のときもそうだったぜ！！	
-MAP60_e6_p2_196	なんだと…　なら、早くトドメを…！！	
-MAP60_e6_p2_199	そういうこと…	
-MAP60_e6_p2_200	じゃあね、あなたたち。	
-MAP60_e6_p2_201	また会えることを願ってるわ…　本当よ。	
-MAP60_e6_p2_21	えーい！！邪魔をするなああああああああ！！	
-MAP60_e6_p2_24	さあ、青龍！	
-MAP60_e6_p2_25	急いでわたしに、紋章を…！！	
+MAP60_e6_p2_178	まだ全然なんとかなるわね。	It's still completely manageable.
+MAP60_e6_p2_18	背中を見せたら、後ろから叩っきるぜ！！	Show me your back, and I'll cut you down from behind!!
+MAP60_e6_p2_181	はあ、おかげですっかり頭が冷えたわ。	Well, thanks to that, I've completely cooled down.
+MAP60_e6_p2_182	そうなったら、ここで時間を潰してられない。	In that case, I can't waste time here.
+MAP60_e6_p2_185	あっ！！　消えるぞコイツ！！	Ah!! She's disappearing!!
+MAP60_e6_p2_188	消える…？	Disappearing...?
+MAP60_e6_p2_191	コイツら、四天王は、倒しても消えて	These Four Generals—even when you defeat them, they vanish
+MAP60_e6_p2_192	どっかにいっちまうんだよ！！	and get away somewhere!!
+MAP60_e6_p2_193	前のときもそうだったぜ！！	It was the same last time!!
+MAP60_e6_p2_196	なんだと…　なら、早くトドメを…！！	What... Then hurry and finish her off...!!
+MAP60_e6_p2_199	そういうこと…	That's right...
+MAP60_e6_p2_200	じゃあね、あなたたち。	Well then, farewell.
+MAP60_e6_p2_201	また会えることを願ってるわ…　本当よ。	I hope we meet again... truly.
+MAP60_e6_p2_21	えーい！！邪魔をするなああああああああ！！	Bah!! Stop interfering—!!
+MAP60_e6_p2_24	さあ、青龍！	Come, Seiryu!
+MAP60_e6_p2_25	急いでわたしに、紋章を…！！	Hurry and give me the crest...!!
 MAP60_e6_p2_28	おっけーりょーーーかーーーーい	
-MAP60_e6_p2_44	　ナガレは、イヤシとイノチとテッペキの魔法をおぼえた！	
+MAP60_e6_p2_44	　ナガレは、イヤシとイノチとテッペキの魔法をおぼえた！	Nagare learned the Heal, Life, and Iron Wall spells!
 MAP60_e6_p2_47	この感覚…なんて清々しい気分なんだ…	
 MAP60_e6_p2_48	内から静かにこんこんと湧き出る鋭気…	
-MAP60_e6_p2_49	この力が…　本当の紋章の力か…！！	
+MAP60_e6_p2_49	この力が…　本当の紋章の力か…！！	This power... so this is the crest's true power...!!
 MAP60_e6_p2_56	さあ…　	
 MAP60_e6_p2_57	みんなでミケーネを…　ぶっ飛ばせーーー！！	
 MAP60_e6_p2_60	よくもあたしを殺してくれたよなあ…	
 MAP60_e6_p2_61	おい、ミケーネ…！！	
-MAP60_e6_p2_66	ええい…みすみす継承させてしまうとは…	
-MAP60_e6_p2_67	あたいとしたことが、とんだ大失態だ…！！	
+MAP60_e6_p2_66	ええい…みすみす継承させてしまうとは…	Dammit... letting her inherit it right under our noses...
+MAP60_e6_p2_67	あたいとしたことが、とんだ大失態だ…！！	What a colossal blunder on my part...!!
 MAP60_e6_p2_70	てめえ…もう覚悟、できてるよなあ…？	
 MAP60_e6_p2_71	あたしは紋章の力をまだ使ったことがない…	
-MAP60_e6_p2_73	だからもちろん、手加減はできないし…	
-MAP60_e6_p2_74	そして当然、手加減する気もない。	
-MAP60_e6_p2_76	つまり、あたしもあんたを…	
-MAP60_e6_p2_77	ころしちまうかも知れねえぞ、ってことだ…	
-MAP60_e6_p2_78	…わかってるよなあーーーーーー！！？	
-MAP60_e6_p2_81	あんだあ？この小娘がああああああああ！	
-MAP60_e6_p2_82	ちょっと生き返ったからって、	
-MAP60_e6_p2_83	えらくちょうしくれやがってよお……！！	
-MAP60_e6_p2_85	上等じゃねえかコラーーーーーー！！！！	
-MAP60_e6_p2_86	しにてえやつはまとめてかかってこいや…	
-MAP60_e6_p2_87	コラああああああああああ！！！！！！！！	
+MAP60_e6_p2_73	だからもちろん、手加減はできないし…	So of course, I can't hold back...
+MAP60_e6_p2_74	そして当然、手加減する気もない。	And naturally, I've no intention of holding back.
+MAP60_e6_p2_76	つまり、あたしもあんたを…	In other words, I might just
+MAP60_e6_p2_77	ころしちまうかも知れねえぞ、ってことだ…	end up killing you too...
+MAP60_e6_p2_78	…わかってるよなあーーーーーー！！？	...You get that, right—!?
+MAP60_e6_p2_81	あんだあ？この小娘がああああああああ！	What was that, you little wench—!
+MAP60_e6_p2_82	ちょっと生き返ったからって、	Just because she came back to life,
+MAP60_e6_p2_83	えらくちょうしくれやがってよお……！！	she's putting on airs......!!
+MAP60_e6_p2_85	上等じゃねえかコラーーーーーー！！！！	Fine by me, bring it—!!!!
+MAP60_e6_p2_86	しにてえやつはまとめてかかってこいや…	Anyone who wants to die, come at me all at once...
+MAP60_e6_p2_87	コラああああああああああ！！！！！！！！	Heeeeeey!!!!!
 MAP60_e6_p2_90	うるせえんだよピーピーガーガーと…	
 MAP60_e6_p2_91	耳障りなんだよ、てめえのその甲高い声が…	
 MAP60_e6_p2_92	御託は良いから、さっさとかかってこい！！	
 MAP60_e6_p2_95	ちくしょテメコラァぁあああああん！！！？？	
 MAP60_e6_p2_96	上等だ秒で始末したらぞおおオアァァン！？？	
-MAP60_e6_p2_99	こ、こええ………！！	
+MAP60_e6_p2_99	こ、こええ………！！	S-Scary......!!
 MAP60_e8_p1_4	ほら…な？	
 MAP60_e8_p1_7	みすみす逃がしてしまうとは…	
 MAP60_e8_p1_8	うかつだった…！！	
@@ -4496,19 +4496,19 @@ MAP61_e19_p1_2	雨、やみそうにないですね…
 MAP61_e19_p1_5	あ、いえ、すいません…	
 MAP61_e19_p1_6	別に変な意味で言ったんじゃ…	
 MAP61_e19_p1_7	…ご武運をお祈りしています！	
-MAP61_e20_p1_12	よし…　じゃあ行くか！	
-MAP61_e20_p1_15	ウィン…　あんたには礼を言いたいが…	
-MAP61_e20_p1_16	いまは言わないぞ。	
-MAP61_e20_p1_19	オレもだ、ウィン！	
-MAP61_e20_p1_2	…ここからは、ウィンと、オレたちで別行動だ	
-MAP61_e20_p1_20	だって、またすぐに集まって、	
-MAP61_e20_p1_21	闇のエレメントを倒さないとだからな！	
+MAP61_e20_p1_12	よし…　じゃあ行くか！	Alright... let's go!
+MAP61_e20_p1_15	ウィン…　あんたには礼を言いたいが…	Win... I want to thank you, but...
+MAP61_e20_p1_16	いまは言わないぞ。	not now.
+MAP61_e20_p1_19	オレもだ、ウィン！	Me too, Win!
+MAP61_e20_p1_2	…ここからは、ウィンと、オレたちで別行動だ	...From here, Win splits off from us
+MAP61_e20_p1_20	だって、またすぐに集まって、	Because we'll gather again soon
+MAP61_e20_p1_21	闇のエレメントを倒さないとだからな！	to defeat the Dark Element!
 MAP61_e20_p1_27	　　　　　　　　　　ウィンは頷いた！	Win nodded!
-MAP61_e20_p1_30	よし、行こう！	
-MAP61_e20_p1_33	おう！！	
-MAP61_e20_p1_5	出発するなら、先にここで買い物を済ませて	
-MAP61_e20_p1_6	おこう。向こうに着いたらそれどころじゃない	
-MAP61_e20_p1_7	可能性もあるからな。	
+MAP61_e20_p1_30	よし、行こう！	Alright, let's go!
+MAP61_e20_p1_33	おう！！	Yeah!!
+MAP61_e20_p1_5	出発するなら、先にここで買い物を済ませて	Before we set out, let's finish our shopping here
+MAP61_e20_p1_6	おこう。向こうに着いたらそれどころじゃない	first. Once we get there, we might not
+MAP61_e20_p1_7	可能性もあるからな。	have the chance.
 MAP61_e39_p0_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP61_e39_p0_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP61_e39_p1_10	任せておいてくれると助かるよ。	I'd be glad if you left it to me.
@@ -4540,14 +4540,14 @@ MAP61_e56_p1_13	それより…	Anyway...
 MAP61_e56_p1_14	どうやら魔物たちはこれで片付いたみたいだね	
 MAP61_e56_p1_17	しっかし…　一体何が起こったんだ…？	
 MAP61_e56_p1_18	ひでえことになってるじゃねえか…	
-MAP61_e56_p1_21	うん…	
-MAP61_e56_p1_22	とりあえず、屋敷の中へ…	
-MAP61_e56_p1_23	村のみんなが集まってるよ	
+MAP61_e56_p1_21	うん…	Yeah...
+MAP61_e56_p1_22	とりあえず、屋敷の中へ…	For now, let's head inside the estate...
+MAP61_e56_p1_23	村のみんなが集まってるよ	Everyone in the village is gathering.
 MAP61_e56_p1_4	ありがとう…　ナガレ…　みなさん…	
 MAP61_e56_p1_7	マハリ！傷は！？　大事ないか！？	
-MAP61_e56_p2_2	うん…	
-MAP61_e56_p2_3	とりあえず、屋敷の中へ…	
-MAP61_e56_p2_4	村のみんなが集まってるよ	
+MAP61_e56_p2_2	うん…	Yeah...
+MAP61_e56_p2_3	とりあえず、屋敷の中へ…	For now, let's head inside the estate...
+MAP61_e56_p2_4	村のみんなが集まってるよ	Everyone in the village is gathering.
 MAP61_e60_p0_11	おーい！！	Heyyy!!
 MAP61_e60_p0_15	あたしだけじゃちょっとキツイんだ…	I can't handle this on my own...
 MAP61_e60_p0_16	助太刀してくれーーー！！	Give me a hand—!!
@@ -4556,11 +4556,11 @@ MAP61_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	Either
 MAP61_e60_p0_5	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
 MAP61_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
 MAP61_e61_p1_2	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
-MAP61_e65_p0_12	いまいくぜー！！	
-MAP61_e65_p0_4	…マハリ！！	
-MAP61_e65_p0_7	ナガレ！みなさん！	
-MAP61_e65_p0_8	僕だけでは勝てそうにありません！！	
-MAP61_e65_p0_9	助けてください！！	
+MAP61_e65_p0_12	いまいくぜー！！	I'm coming!!
+MAP61_e65_p0_4	…マハリ！！	...Mahari!!
+MAP61_e65_p0_7	ナガレ！みなさん！	Nagare! Everyone!
+MAP61_e65_p0_8	僕だけでは勝てそうにありません！！	I can't win on my own!!
+MAP61_e65_p0_9	助けてください！！	Please help!!
 MAP61_e7_p1_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP61_e7_p1_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP61_e7_p2_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
@@ -4606,9 +4606,9 @@ MAP62_e39_p2_2	　　　　ハヤテを使えば目的地にすぐに行ける�
 MAP62_e39_p2_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP62_e3_p2_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP62_e3_p2_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
-MAP62_e41_p1_11	行くぞ、ウィン！	
+MAP62_e41_p1_11	行くぞ、ウィン！	Let's go, Win!
 MAP62_e41_p1_18	　　　　　　　　　　ウィンは頷いた！	Win nodded!
-MAP62_e41_p2_11	行くぞ、ウィン！	
+MAP62_e41_p2_11	行くぞ、ウィン！	Let's go, Win!
 MAP62_e41_p2_20	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP62_e41_p3_10	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP62_e41_p3_3	フン、なりはデカくても…	
@@ -4639,14 +4639,14 @@ MAP63_e17_p0_2	何をしてんだホノオ！？
 MAP63_e17_p0_3	今更戻ってもどうしようもない！	
 MAP63_e17_p0_4	早く上の階へ行くぞ！	
 MAP63_e18_p0_11	…ホノオ。	...Hono.
-MAP63_e18_p0_12	いまは何も考えず、上を目指そう…	
-MAP63_e18_p0_13	お前の知ってる敵が来ているんだろ…？	
-MAP63_e18_p0_16	ああ…！	
-MAP63_e18_p0_2	…城自体はかなり持ちこたえたみたいだね。	
-MAP63_e18_p0_3	燃える岩がたくさん降ってきたってのに…	
+MAP63_e18_p0_12	いまは何も考えず、上を目指そう…	For now, don't think—just head upward...
+MAP63_e18_p0_13	お前の知ってる敵が来ているんだろ…？	An enemy you know is coming, right...?
+MAP63_e18_p0_16	ああ…！	Yeah...!
+MAP63_e18_p0_2	…城自体はかなり持ちこたえたみたいだね。	...The castle itself seems to have held up pretty well.
+MAP63_e18_p0_3	燃える岩がたくさん降ってきたってのに…	Even with all those burning rocks raining down...
 MAP63_e18_p0_6	…ああ。	...Yeah.
-MAP63_e18_p0_7	街の方もこれぐらい頑丈に作っておけば…	
-MAP63_e18_p0_8	あんなひでえことにならなかったのによー…	
+MAP63_e18_p0_7	街の方もこれぐらい頑丈に作っておけば…	If the town had been built this sturdy...
+MAP63_e18_p0_8	あんなひでえことにならなかったのによー…	it wouldn't have ended up so ruined...
 MAP63_e19_p0_2	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e20_p0_2	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e34_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
@@ -4664,12 +4664,12 @@ MAP63_e35_p0_30	知っている奴なのか…　ホノオ！？
 MAP63_e35_p0_33	もしかしたら…な…	
 MAP63_e35_p0_36	くっそー…	
 MAP63_e35_p0_37	生きていてくれよ…　親父…！！	
-MAP63_e35_p1_2	…お、王子　	
-MAP63_e35_p1_3	あいつ…　めちゃくちゃ強いです…	
-MAP63_e35_p1_6	ああ…知ってるさ…	
-MAP63_e35_p2_2	…お、王子　	
-MAP63_e35_p2_3	あいつ…　めちゃくちゃ強いです…	
-MAP63_e35_p2_6	ああ…知ってるさ…	
+MAP63_e35_p1_2	…お、王子　	...O-Oh, Prince
+MAP63_e35_p1_3	あいつ…　めちゃくちゃ強いです…	That guy... he's insanely strong...
+MAP63_e35_p1_6	ああ…知ってるさ…	Yeah... I know...
+MAP63_e35_p2_2	…お、王子　	...O-Oh, Prince
+MAP63_e35_p2_3	あいつ…　めちゃくちゃ強いです…	That guy... he's insanely strong...
+MAP63_e35_p2_6	ああ…知ってるさ…	Yeah... I know...
 MAP63_e35_p3_12	けっこう態度違くねーか…	
 MAP63_e35_p3_2	あっ！　ナガレ様じゃないっすか！	
 MAP63_e35_p3_3	ちっす！　この前はあざっす！！	
@@ -4707,14 +4707,14 @@ MAP63_e43_p0_7	ＯＫ。しかし唐辛子をたくさん入れればいいと�
 MAP63_e43_p0_8	ではない。辛党なわけではなく、唐辛子の味が好きなのだ	He's not a spice lover; he simply likes the taste of chili.
 MAP63_e43_p0_9	と思われる。油や他スパイスで調整せよ。	Adjust with oil and other spices.
 MAP63_e44_p0_11	…ホノオ。	...Hono.
-MAP63_e44_p0_12	いまは何も考えず、上を目指そう…	
-MAP63_e44_p0_13	お前の知ってる敵が来ているんだろ…？	
-MAP63_e44_p0_16	ああ…！	
-MAP63_e44_p0_2	…城自体はかなり持ちこたえたみたいだね。	
-MAP63_e44_p0_3	燃える岩がたくさん降ってきたってのに…	
+MAP63_e44_p0_12	いまは何も考えず、上を目指そう…	For now, don't think—just head upward...
+MAP63_e44_p0_13	お前の知ってる敵が来ているんだろ…？	An enemy you know is coming, right...?
+MAP63_e44_p0_16	ああ…！	Yeah...!
+MAP63_e44_p0_2	…城自体はかなり持ちこたえたみたいだね。	...The castle itself seems to have held up pretty well.
+MAP63_e44_p0_3	燃える岩がたくさん降ってきたってのに…	Even with all those burning rocks raining down...
 MAP63_e44_p0_6	…ああ。	...Yeah.
-MAP63_e44_p0_7	街の方もこれぐらい頑丈に作っておけば…	
-MAP63_e44_p0_8	あんなひでえことにならなかったのによー…	
+MAP63_e44_p0_7	街の方もこれぐらい頑丈に作っておけば…	If the town had been built this sturdy...
+MAP63_e44_p0_8	あんなひでえことにならなかったのによー…	it wouldn't have ended up so ruined...
 MAP63_e45_p0_2	魔物が増えたってんで、最近は行商人も	With monsters on the rise, even the peddlers
 MAP63_e45_p0_3	めっきり来なくなったなあ。	have stopped coming lately.
 MAP63_e45_p1_2	魔物が増えたってんで、最近は行商人も	With monsters on the rise, even the peddlers
@@ -4791,8 +4791,8 @@ MAP63_e52_p1_2	あっ！　危ないっす！
 MAP63_e52_p1_3	それ以上来ちゃダメっすよ！	
 MAP63_e52_p1_6	城ん中、直せそうか？	
 MAP63_e52_p1_9	もともと石積み上げまくってるだけなんで、	
-MAP63_e53_p1_17	もしかして…　武器とか買いに来ました…？	
-MAP63_e53_p2_17	もしかして…　武器とか買いに来ました…？	
+MAP63_e53_p1_17	もしかして…　武器とか買いに来ました…？	You wouldn't happen to be... here to buy weapons...?
+MAP63_e53_p2_17	もしかして…　武器とか買いに来ました…？	You wouldn't happen to be... here to buy weapons...?
 MAP63_e54_p0_2	最近スパイスが高いわねーーー	Spices are so expensive lately...
 MAP63_e54_p0_3	野菜も高いし…　なのに使えるお金は	Vegetables are pricey too... yet the money we can spend
 MAP63_e54_p0_4	変わらないし…	never changes...
@@ -4981,15 +4981,15 @@ MAP64_e30_p1_92	バカ！　ホノオのバカヤロー！
 MAP64_e30_p1_93	もういい…　	
 MAP64_e30_p1_94	あんたが出来ないなら、あたしが…！	
 MAP64_e31_p1_12	………ッ	......Hmph
-MAP64_e31_p1_16	…っ！　ミケーネ………！！	
-MAP64_e31_p1_21	ナウ―…　ピケピケがカンカンだよ？	
-MAP64_e31_p1_22	計画は伝えてあるはずだ。	
-MAP64_e31_p1_23	なぜこんなことをして時間を潰している？	
-MAP64_e31_p1_29	し…　しまった…！	
-MAP64_e31_p1_32	おまえがさっさとトドメを刺さないからだ！	
-MAP64_e31_p1_33	ホノオ！！	
-MAP64_e31_p1_36	ぐ…　すまん…！	
-MAP64_e31_p1_41	また会ったわね、あなたたち…	
+MAP64_e31_p1_16	…っ！　ミケーネ………！！	...! Mycenae......!!
+MAP64_e31_p1_21	ナウ―…　ピケピケがカンカンだよ？	Nau... Pikepike is furious, you know?
+MAP64_e31_p1_22	計画は伝えてあるはずだ。	You should have been told the plan.
+MAP64_e31_p1_23	なぜこんなことをして時間を潰している？	Why are you wasting time on this?
+MAP64_e31_p1_29	し…　しまった…！	Ugh... caught...!
+MAP64_e31_p1_32	おまえがさっさとトドメを刺さないからだ！	It's because you didn't finish her off quickly!
+MAP64_e31_p1_33	ホノオ！！	Hono!!
+MAP64_e31_p1_36	ぐ…　すまん…！	Guh... sorry...!
+MAP64_e31_p1_41	また会ったわね、あなたたち…	We meet again, you lot...
 MAP64_e31_p1_42	私も遊んであげたいところなんだけれど…	
 MAP64_e31_p1_43	ごめんなさい、そんな時間はないの。	
 MAP64_e31_p1_46	この辺りで、ナウ―は返してもらうわ。	
@@ -5003,7 +5003,7 @@ MAP64_e31_p1_59	…改めて、皆殺しにしてあげてもいいのよ？
 MAP64_e31_p1_63	…くっ！	...Guh!
 MAP64_e31_p1_66	じゃあそういうことで…	
 MAP64_e31_p1_67	ナウ―は連れて行かせてもらうわ。	
-MAP64_e31_p1_9	お遊びが過ぎるよ、ナウ―！	
+MAP64_e31_p1_9	お遊びが過ぎるよ、ナウ―！	You've been playing too much, Nau!
 MAP64_e31_p2_100	計画に支障がでるわ…　ナウー、行くわよ。	
 MAP64_e31_p2_106	…な、なに！？	
 MAP64_e31_p2_109	まだ…ピンピンしてやがるのかよ…？	
@@ -5012,15 +5012,15 @@ MAP64_e31_p2_113	あたしたちの予想を軽く超えるほどにね…。
 MAP64_e31_p2_116	きっとまた会うことになる…	
 MAP64_e31_p2_117	そのときが、本当の最後になるわ。	
 MAP64_e31_p2_12	………ッ	......Hmph
-MAP64_e31_p2_16	…っ！　ミケーネ………！！	
-MAP64_e31_p2_21	ナウ―…　ピケピケがカンカンだよ？	
-MAP64_e31_p2_22	計画は伝えてあるはずだ。	
-MAP64_e31_p2_23	なぜこんなことをして時間を潰している？	
-MAP64_e31_p2_29	し…　しまった…！	
-MAP64_e31_p2_32	おまえがさっさとトドメを刺さないからだ！	
-MAP64_e31_p2_33	ホノオ！！	
-MAP64_e31_p2_36	ぐ…　すまん…！	
-MAP64_e31_p2_41	また会ったわね、あなたたち…	
+MAP64_e31_p2_16	…っ！　ミケーネ………！！	...! Mycenae......!!
+MAP64_e31_p2_21	ナウ―…　ピケピケがカンカンだよ？	Nau... Pikepike is furious, you know?
+MAP64_e31_p2_22	計画は伝えてあるはずだ。	You should have been told the plan.
+MAP64_e31_p2_23	なぜこんなことをして時間を潰している？	Why are you wasting time on this?
+MAP64_e31_p2_29	し…　しまった…！	Ugh... caught...!
+MAP64_e31_p2_32	おまえがさっさとトドメを刺さないからだ！	It's because you didn't finish her off quickly!
+MAP64_e31_p2_33	ホノオ！！	Hono!!
+MAP64_e31_p2_36	ぐ…　すまん…！	Guh... sorry...!
+MAP64_e31_p2_41	また会ったわね、あなたたち…	We meet again, you lot...
 MAP64_e31_p2_42	随分と一方的にナウーを可愛がってくれた	
 MAP64_e31_p2_43	みたいね…	
 MAP64_e31_p2_46	いくらナウーが正々堂々の肉体バトルを	
@@ -5043,7 +5043,7 @@ MAP64_e31_p2_76	…やるしかない…！！
 MAP64_e31_p2_79	ナウー？　もうさっきの傷は癒えたわね？	
 MAP64_e31_p2_80	…次はもう少しだけ本気でやってちょうだい	
 MAP64_e31_p2_86	来るぞ…！！	
-MAP64_e31_p2_9	お遊びが過ぎるよ、ナウ―！	
+MAP64_e31_p2_9	お遊びが過ぎるよ、ナウ―！	You've been playing too much, Nau!
 MAP64_e31_p2_95	…やったぞ！！	
 MAP64_e31_p2_98	…さすがに時間切れね。	
 MAP64_e31_p2_99	これ以上パワーを消耗したら…	
@@ -5074,7 +5074,7 @@ MAP64_e33_p1_34	けど…　右手に王の剣があれば…	But... if I hold t
 MAP64_e33_p1_35	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
 MAP64_e33_p1_36	思ってな…　大事なことを。	I'd remember... what matters most.
 MAP64_e33_p1_39	そうか…　よくわかった。	I see... I understand.
-MAP64_e33_p1_42	　　　　ホノオはゾモロドネガルを受け取った！	
+MAP64_e33_p1_42	　　　　ホノオはゾモロドネガルを受け取った！	Hono received a Zomolod Negal!
 MAP64_e33_p1_47	ありがとよ、親父！	Thanks, Dad!
 MAP64_e33_p1_48	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
 MAP64_e33_p1_51	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
@@ -5112,25 +5112,25 @@ MAP64_e33_p2_56	じゃあ親父、ちょっくら行ってくるぜ！	Well then
 MAP64_e33_p2_59	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
 MAP64_e33_p2_6	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
 MAP64_e33_p2_9	そうか…　	I see...
-MAP64_e33_p3_11	あたしは水の紋章の力を持つものとして、	
-MAP64_e33_p3_12	当然のことをしただけです。	
-MAP64_e33_p3_15	しかしフレイム王は…	
-MAP64_e33_p3_16	まだお身体の具合が優れぬ様子で…	
-MAP64_e33_p3_17	心配です。	
-MAP64_e33_p3_2	ナガレ殿、　四天王の襲撃の際は、	
-MAP64_e33_p3_20	わしのは寿命でしょうな。	
-MAP64_e33_p3_21	ナガレ殿のおかげで傷はすっかり完治しておる	
-MAP64_e33_p3_24	ひとり残すホノオが心配です…	
-MAP64_e33_p3_25	世継ぎどころか、あやつにはいまだ妻もなく…	
-MAP64_e33_p3_28	ナガレ殿のようなお強い方が、あやつの近くに	
-MAP64_e33_p3_29	おってくれたなら、何の心配もないのだが…	
+MAP64_e33_p3_11	あたしは水の紋章の力を持つものとして、	As one who holds the Water Crest's power,
+MAP64_e33_p3_12	当然のことをしただけです。	I only did what was right.
+MAP64_e33_p3_15	しかしフレイム王は…	But King Flame...
+MAP64_e33_p3_16	まだお身体の具合が優れぬ様子で…	still seems to be in poor health...
+MAP64_e33_p3_17	心配です。	I'm worried.
+MAP64_e33_p3_2	ナガレ殿、　四天王の襲撃の際は、	Lord Nagare, when the Four Generals attacked,
+MAP64_e33_p3_20	わしのは寿命でしょうな。	I thought my time had come.
+MAP64_e33_p3_21	ナガレ殿のおかげで傷はすっかり完治しておる	Thanks to you, Lord Nagare, my wounds are fully healed.
+MAP64_e33_p3_24	ひとり残すホノオが心配です…	I worry about Hono, left alone...
+MAP64_e33_p3_25	世継ぎどころか、あやつにはいまだ妻もなく…	He has no heir, not even a wife yet...
+MAP64_e33_p3_28	ナガレ殿のようなお強い方が、あやつの近くに	If a strong one like you, Lord Nagare, were by his side,
+MAP64_e33_p3_29	おってくれたなら、何の心配もないのだが…	I'd have nothing to worry about...
 MAP64_e33_p3_3	本当にありがとうございました。	Thank you so much.
-MAP64_e33_p3_32	あはは、そうですね。	
-MAP64_e33_p3_35	親父ー？　そういうのやめろな？	
-MAP64_e33_p3_6	ナガレ殿のおかげで、城の者たちの殆どが	
-MAP64_e33_p3_7	いまは元気になりました。	
-MAP64_e33_p3_8	このご恩、わしだけでなく皆忘れないでしょう	
-MAP64_e33_p4_10	ああ…　はい、わかりました。	
+MAP64_e33_p3_32	あはは、そうですね。	Ahaha, right.
+MAP64_e33_p3_35	親父ー？　そういうのやめろな？	Hey, Dad? Cut that out, will you?
+MAP64_e33_p3_6	ナガレ殿のおかげで、城の者たちの殆どが	Thanks to you, Lord Nagare, most of the castle folk
+MAP64_e33_p3_7	いまは元気になりました。	have recovered now.
+MAP64_e33_p3_8	このご恩、わしだけでなく皆忘れないでしょう	This debt—not just I, but everyone, will remember it.
+MAP64_e33_p4_10	ああ…　はい、わかりました。	Ah... yes, understood.
 MAP64_e33_p4_13	オレは？　一応次の王様なんだけど…？	
 MAP64_e33_p4_2	我が兵たちにとって、ナガレ殿はいまや	
 MAP64_e33_p4_3	皆の救世主、戦場の女神です。	
@@ -7912,7 +7912,7 @@ MAP86_e33_p1_34	けど…　右手に王の剣があれば…	But... if I hold t
 MAP86_e33_p1_35	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
 MAP86_e33_p1_36	思ってな…　大事なことを。	I'd remember... what matters most.
 MAP86_e33_p1_39	そうか…　よくわかった。	I see... I understand.
-MAP86_e33_p1_42	　　　　ホノオはゾモロドネガルを受け取った！	
+MAP86_e33_p1_42	　　　　ホノオはゾモロドネガルを受け取った！	Hono received a Zomolod Negal!
 MAP86_e33_p1_46	ありがとよ、親父！	Thanks, Dad!
 MAP86_e33_p1_47	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
 MAP86_e33_p1_50	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
@@ -7922,25 +7922,25 @@ MAP86_e33_p1_55	じゃあ親父、ちょっくら行ってくるぜ！	Well then
 MAP86_e33_p1_58	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
 MAP86_e33_p1_6	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
 MAP86_e33_p1_9	そうか…　	I see...
-MAP86_e33_p2_11	あたしは水の紋章の力を持つものとして、	
-MAP86_e33_p2_12	当然のことをしただけです。	
-MAP86_e33_p2_15	しかしフレイム王は…	
-MAP86_e33_p2_16	まだお身体の具合が優れぬ様子で…	
-MAP86_e33_p2_17	心配です。	
-MAP86_e33_p2_2	ナガレ殿、　四天王の襲撃の際は、	
-MAP86_e33_p2_20	わしのは寿命でしょうな。	
-MAP86_e33_p2_21	ナガレ殿のおかげで傷はすっかり完治しておる	
-MAP86_e33_p2_24	ひとり残すホノオが心配です…	
-MAP86_e33_p2_25	世継ぎどころか、あやつにはいまだ妻もなく…	
-MAP86_e33_p2_28	ナガレ殿のようなお強い方が、あやつの近くに	
-MAP86_e33_p2_29	おってくれたなら、何の心配もないのだが…	
+MAP86_e33_p2_11	あたしは水の紋章の力を持つものとして、	As one who holds the Water Crest's power,
+MAP86_e33_p2_12	当然のことをしただけです。	I only did what was right.
+MAP86_e33_p2_15	しかしフレイム王は…	But King Flame...
+MAP86_e33_p2_16	まだお身体の具合が優れぬ様子で…	still seems to be in poor health...
+MAP86_e33_p2_17	心配です。	I'm worried.
+MAP86_e33_p2_2	ナガレ殿、　四天王の襲撃の際は、	Lord Nagare, when the Four Generals attacked,
+MAP86_e33_p2_20	わしのは寿命でしょうな。	I thought my time had come.
+MAP86_e33_p2_21	ナガレ殿のおかげで傷はすっかり完治しておる	Thanks to you, Lord Nagare, my wounds are fully healed.
+MAP86_e33_p2_24	ひとり残すホノオが心配です…	I worry about Hono, left alone...
+MAP86_e33_p2_25	世継ぎどころか、あやつにはいまだ妻もなく…	He has no heir, not even a wife yet...
+MAP86_e33_p2_28	ナガレ殿のようなお強い方が、あやつの近くに	If a strong one like you, Lord Nagare, were by his side,
+MAP86_e33_p2_29	おってくれたなら、何の心配もないのだが…	I'd have nothing to worry about...
 MAP86_e33_p2_3	本当にありがとうございました。	Thank you so much.
-MAP86_e33_p2_32	あはは、そうですね。	
-MAP86_e33_p2_35	親父ー？　そういうのやめろな？	
-MAP86_e33_p2_6	ナガレ殿のおかげで、城の者たちの殆どが	
-MAP86_e33_p2_7	いまは元気になりました。	
-MAP86_e33_p2_8	このご恩、わしだけでなく皆忘れないでしょう	
-MAP86_e33_p3_10	ああ…　はい、わかりました。	
+MAP86_e33_p2_32	あはは、そうですね。	Ahaha, right.
+MAP86_e33_p2_35	親父ー？　そういうのやめろな？	Hey, Dad? Cut that out, will you?
+MAP86_e33_p2_6	ナガレ殿のおかげで、城の者たちの殆どが	Thanks to you, Lord Nagare, most of the castle folk
+MAP86_e33_p2_7	いまは元気になりました。	have recovered now.
+MAP86_e33_p2_8	このご恩、わしだけでなく皆忘れないでしょう	This debt—not just I, but everyone, will remember it.
+MAP86_e33_p3_10	ああ…　はい、わかりました。	Ah... yes, understood.
 MAP86_e33_p3_13	オレは？　一応次の王様なんだけど…？	
 MAP86_e33_p3_2	我が兵たちにとって、ナガレ殿はいまや	
 MAP86_e33_p3_3	皆の救世主、戦場の女神です。	
@@ -7991,19 +7991,19 @@ MAP87_e17_p1_2	　　　　ハヤテを使えば目的地にすぐに行ける�
 MAP87_e17_p1_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP87_e17_p2_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP87_e17_p2_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
-MAP87_e20_p1_12	よし…　じゃあ行くか！	
-MAP87_e20_p1_15	ウィン…　あんたには礼を言いたいが…	
-MAP87_e20_p1_16	いまは言わないぞ。	
-MAP87_e20_p1_19	オレもだ、ウィン！	
-MAP87_e20_p1_2	…ここからは、ウィンと、オレたちで別行動だ	
-MAP87_e20_p1_20	だって、またすぐに集まって、	
-MAP87_e20_p1_21	闇のエレメントを倒さないとだからな！	
+MAP87_e20_p1_12	よし…　じゃあ行くか！	Alright... let's go!
+MAP87_e20_p1_15	ウィン…　あんたには礼を言いたいが…	Win... I want to thank you, but...
+MAP87_e20_p1_16	いまは言わないぞ。	not now.
+MAP87_e20_p1_19	オレもだ、ウィン！	Me too, Win!
+MAP87_e20_p1_2	…ここからは、ウィンと、オレたちで別行動だ	...From here, Win splits off from us
+MAP87_e20_p1_20	だって、またすぐに集まって、	Because we'll gather again soon
+MAP87_e20_p1_21	闇のエレメントを倒さないとだからな！	to defeat the Dark Element!
 MAP87_e20_p1_27	　　　　　　　　　　ウィンは頷いた！	Win nodded!
-MAP87_e20_p1_30	よし、行こう！	
-MAP87_e20_p1_33	おう！！	
-MAP87_e20_p1_5	出発するなら、先にここで買い物を済ませて	
-MAP87_e20_p1_6	おこう。向こうに着いたらそれどころじゃない	
-MAP87_e20_p1_7	可能性もあるからな。	
+MAP87_e20_p1_30	よし、行こう！	Alright, let's go!
+MAP87_e20_p1_33	おう！！	Yeah!!
+MAP87_e20_p1_5	出発するなら、先にここで買い物を済ませて	Before we set out, let's finish our shopping here
+MAP87_e20_p1_6	おこう。向こうに着いたらそれどころじゃない	first. Once we get there, we might not
+MAP87_e20_p1_7	可能性もあるからな。	have the chance.
 MAP87_e23_p0_11	…ああ…　龍よ、お守りください…！	
 MAP87_e23_p0_16	ナガレーーーーーッ！！！！	
 MAP87_e23_p0_5	光の…柱だ…！！	
@@ -8017,11 +8017,11 @@ MAP87_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	Either
 MAP87_e60_p0_5	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
 MAP87_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
 MAP87_e61_p1_2	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
-MAP87_e65_p0_12	いまいくぜー！！	
-MAP87_e65_p0_4	…マハリ！！	
-MAP87_e65_p0_7	ナガレ！みなさん！	
-MAP87_e65_p0_8	僕だけでは勝てそうにありません！！	
-MAP87_e65_p0_9	助けてください！！	
+MAP87_e65_p0_12	いまいくぜー！！	I'm coming!!
+MAP87_e65_p0_4	…マハリ！！	...Mahari!!
+MAP87_e65_p0_7	ナガレ！みなさん！	Nagare! Everyone!
+MAP87_e65_p0_8	僕だけでは勝てそうにありません！！	I can't win on my own!!
+MAP87_e65_p0_9	助けてください！！	Please help!!
 MAP87_e7_p1_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP87_e7_p1_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP87_e7_p2_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
