@@ -4055,7 +4055,7 @@ MAP47_e9_p1_8_c1	Map047.json	choice	choice	持ってません	I don't have it
 MAP47_e9_p2_1	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p2_2	Map047.json	0	dialogue	だが、信用できる者にしか、その本を	But it'd be best to hand that book only
 MAP47_e9_p2_3	Map047.json	0	dialogue	渡さない方がよいぞ…	to someone you can trust...
-MAP49_e10_p0_11	Map049.json	0	dialogue	　　　　　　　　　1000\\G 手に入れた！	
+MAP49_e10_p0_11	Map049.json	0	dialogue	　　　　　　　　　1000\\G 手に入れた！	Gained 1000G!
 MAP49_e11_p0_11	Map049.json	0	dialogue	　　　　　シャムシール（良質）を手に入れた！	Obtained a Shamshir (Fine)!
 MAP49_e2_p0_10	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e2_p0_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、	Ah, things like 'so that's about all the power you've got,'
@@ -7102,7 +7102,7 @@ MAP63_e59_p1_3	Map063.json	0	dialogue	めちゃうま！　あれコメ手で握
 MAP63_e59_p1_4	Map063.json	0	dialogue	なんだろ？　なんであんなにうまいの！？	so why is it that good!?
 MAP63_e59_p1_6	Map063.json	0	dialogue	ナガレ：	Nagare:
 MAP63_e59_p1_7	Map063.json	0	dialogue	セイリューのコメは柔らかいけど、握っても	Seiryu rice is soft, yet even when pressed,
-MAP63_e59_p1_8	Map063.json	0	dialogue	ぜんぜんつぶれたりせず弾力があるんだ。	
+MAP63_e59_p1_8	Map063.json	0	dialogue	ぜんぜんつぶれたりせず弾力があるんだ。	it doesn't crush—it stays springy.
 MAP63_e59_p1_9	Map063.json	0	dialogue	だから握ると逆に噛み応えが増すのさ。	Shaping it actually makes it chewier.
 MAP64_e10_p0_1	Map064.json	0	dialogue	『王のいないセイリュー』	"""Seiryu, the Land Without a King"""
 MAP64_e10_p0_11	Map064.json	1	dialogue	セイリューでは、大昔から、漁をしてきた一族、大工をして	In Seiryu, since ancient times, there have been families of fishers, carpenters,
@@ -8133,7 +8133,7 @@ MAP65_e36_p1_307	Map065.json	0	dialogue	試合中断しまーーーーーーー�
 MAP65_e36_p1_31	Map065.json	0	dialogue	今更どの顔を下げてやってきたのだー！！？？	How dare you show your face here now—!!??
 MAP65_e36_p1_33	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p1_34	Map065.json	0	dialogue	フン…　無能のお前に代わって…	Hmph... I've come to slay this monster
-MAP65_e36_p1_35	Map065.json	0	dialogue	このバケモンを俺が退治しに来てやったのさ。	
+MAP65_e36_p1_35	Map065.json	0	dialogue	このバケモンを俺が退治しに来てやったのさ。	I've come to slay this monster in place of you and your incompetence.
 MAP65_e36_p1_369	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p1_37	Map065.json	0	dialogue	サクソン：	Saxon:
 MAP65_e36_p1_370	Map065.json	0	dialogue	はっ…！　俺は…一体…？	Hah...! What... what was I...?
@@ -8327,7 +8327,7 @@ MAP65_e36_p2_308	Map065.json	0	dialogue	試合中断しまーーーーーーー�
 MAP65_e36_p2_31	Map065.json	0	dialogue	今更どの顔を下げてやってきたのだー！！？？	How dare you show your face here now—!!??
 MAP65_e36_p2_33	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_34	Map065.json	0	dialogue	フン…　無能のお前に代わって…	Hmph... I've come to slay this monster
-MAP65_e36_p2_35	Map065.json	0	dialogue	このバケモンを俺が退治しに来てやったのさ。	
+MAP65_e36_p2_35	Map065.json	0	dialogue	このバケモンを俺が退治しに来てやったのさ。	I've come to slay this monster in place of you and your incompetence.
 MAP65_e36_p2_37	Map065.json	0	dialogue	サクソン：	Saxon:
 MAP65_e36_p2_370	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p2_371	Map065.json	0	dialogue	はっ…！　俺は…一体…？	Hah...! What... what was I...?
@@ -8373,7 +8373,7 @@ MAP65_e36_p2_439	Map065.json	0	dialogue	みたくなったからーーーー！�
 MAP65_e36_p2_44	Map065.json	0	dialogue	風の紋章の継承者ウィンと…	The Wind Crest's inheritor, Win, and...
 MAP65_e36_p2_441	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_442	Map065.json	0	dialogue	フン、いいだろう。	Hmph, very well.
-MAP65_e36_p2_443	Map065.json	0	dialogue	俺もバケモンの血が何色なのかを、	
+MAP65_e36_p2_443	Map065.json	0	dialogue	俺もバケモンの血が何色なのかを、	I too wanted to see what color
 MAP65_e36_p2_444	Map065.json	0	dialogue	確かめてみたくなったからな。	a monster's blood is.
 MAP65_e36_p2_446	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_447	Map065.json	0	dialogue	来いよーー？	Come on~?
@@ -12320,7 +12320,7 @@ MAP88_e15_p4_24	Map088.json	0	dialogue	…闇インフルエンザとかいう�
 MAP88_e15_p4_25	Map088.json	0	dialogue	この大陸の人間は、いまどうなっている？	What's become of the people on this continent?
 MAP88_e15_p4_31	Map088.json	0	dialogue	ピケピケ？：	Pikepike?:
 MAP88_e15_p4_32	Map088.json	0	dialogue	集めた闇のエレメントパワーは飛び散って、また薄れた！！	The gathered Dark Elemental Power has scattered and thinned again!!
-MAP88_e15_p4_33	Map088.json	0	dialogue	ゆえに、闇の瘴気も薄まって、広まって、飛び散る！！	
+MAP88_e15_p4_33	Map088.json	0	dialogue	ゆえに、闇の瘴気も薄まって、広まって、飛び散る！！	Thus, the Dark miasma too thins, spreads wide, and scatters!!
 MAP88_e15_p4_35	Map088.json	0	dialogue	ピケピケ？：	Pikepike?:
 MAP88_e15_p4_36	Map088.json	0	dialogue	お…らく、何…問題…ない…！	P-Probably... no... problem...!
 MAP88_e15_p4_37	Map088.json	0	dialogue	キミ…ちは助かった……よ！　おめ……う！…！…	You... lot are... safe...... cong...ratulations...!...
@@ -13195,8 +13195,8 @@ MAP93_e10_p0_346	Map093.json	0	dialogue	そんなに嬉しそうなんだ…？�
 MAP93_e10_p0_35	Map093.json	0	dialogue	任命する！！	as Windam Knight Commander!!
 MAP93_e10_p0_356	Map093.json	scrolling text	dialogue	　　　　　　　制作ツール　ＲＰＧツクールＭＶ	Engine: RPG Maker MV
 MAP93_e10_p0_360	Map093.json	scrolling text	dialogue	　　　　　　　　　　使用プラグイン作者様	Plugin authors:
-MAP93_e10_p0_363	Map093.json	scrolling text	dialogue	　　　　　   EnemyBreathing        Yana様	
-MAP93_e10_p0_365	Map093.json	scrolling text	dialogue	　　　　　　　  TurnWindow         Yana様	
+MAP93_e10_p0_363	Map093.json	scrolling text	dialogue	　　　　　   EnemyBreathing        Yana様	EnemyBreathing        Yana
+MAP93_e10_p0_365	Map093.json	scrolling text	dialogue	　　　　　　　  TurnWindow         Yana様	TurnWindow         Yana
 MAP93_e10_p0_367	Map093.json	scrolling text	dialogue	　　　　KZR_WindowStatusInBattle   ぶちょー様	KZR_WindowStatusInBattle    Bucho
 MAP93_e10_p0_369	Map093.json	scrolling text	dialogue	　　　　　　BattleBalaneCustom   　木星ペンギン様	BattleBalanceCustom    Mokusei Penguin
 MAP93_e10_p0_37	Map093.json	0	dialogue	ウィン：	Win:
@@ -13435,8 +13435,8 @@ MAP93_e10_p1_346	Map093.json	0	dialogue	そんなに嬉しそうなんだ…？�
 MAP93_e10_p1_35	Map093.json	0	dialogue	任命する！！	as Windam Knight Commander!!
 MAP93_e10_p1_356	Map093.json	scrolling text	dialogue	　　　　　　　制作ツール　ＲＰＧツクールＭＶ	Engine: RPG Maker MV
 MAP93_e10_p1_360	Map093.json	scrolling text	dialogue	　　　　　　　　　　使用プラグイン作者様	Plugin authors:
-MAP93_e10_p1_363	Map093.json	scrolling text	dialogue	　　　　　   EnemyBreathing        Yana様	
-MAP93_e10_p1_365	Map093.json	scrolling text	dialogue	　　　　　　　  TurnWindow         Yana様	
+MAP93_e10_p1_363	Map093.json	scrolling text	dialogue	　　　　　   EnemyBreathing        Yana様	EnemyBreathing        Yana
+MAP93_e10_p1_365	Map093.json	scrolling text	dialogue	　　　　　　　  TurnWindow         Yana様	TurnWindow         Yana
 MAP93_e10_p1_367	Map093.json	scrolling text	dialogue	　　　　KZR_WindowStatusInBattle   ぶちょー様	KZR_WindowStatusInBattle    Bucho
 MAP93_e10_p1_369	Map093.json	scrolling text	dialogue	　　　　　　BattleBalaneCustom   　木星ペンギン様	BattleBalanceCustom    Mokusei Penguin
 MAP93_e10_p1_37	Map093.json	0	dialogue	ウィン：	Win:
@@ -13766,7 +13766,7 @@ MAP97_e5_p1_1	Map097.json	0	dialogue	持ち出して役に立つようなもの�
 MAP97_e6_p0_4	Map097.json	0	dialogue	ピピン：	Pipin:
 MAP97_e6_p0_5	Map097.json	0	dialogue	なんちゅう荒れっぷりだ…	What a disaster zone...
 MAP97_e6_p0_6	Map097.json	0	dialogue	放置してから数カ月どころじゃないぞ、これは	This place has been abandoned for way more than a few months.
-MAP97_e7_p0_10	Map097.json	0	dialogue	1000\\G 手に入れた！	
+MAP97_e7_p0_10	Map097.json	0	dialogue	1000\\G 手に入れた！	Gained 1000G!
 MAP99_e3_p0_1	Map099.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP100_e3_p0_10	Map100.json	0	dialogue	ピピン：	Pipin:
 MAP100_e3_p0_11	Map100.json	0	dialogue	…なんだいまの化け物は…	...What was that monster...
@@ -13891,7 +13891,7 @@ MAP102_e10_p1_8	Map102.json	0	dialogue	「だ、誰だ…！？	"""Wh-Who are yo
 MAP102_e11_p0_10	Map102.json	0	dialogue	ドラゴンバスターを手に入れた！	Obtained a Dragon Buster!
 MAP102_e12_p0_11	Map102.json	0	dialogue	藤四郎（大業物）を手に入れた！	Obtained a Toshiro (Great)!
 MAP102_e13_p0_11	Map102.json	0	dialogue	村雨を手に入れた！	Obtained a Murasame!
-MAP102_e14_p0_10	Map102.json	0	dialogue	50000\\G 手に入れた！	
+MAP102_e14_p0_10	Map102.json	0	dialogue	50000\\G 手に入れた！	Gained 50000G!
 MAP102_e1_p0_10	Map102.json	0	dialogue	ロングソード（匠）を手に入れた！	Obtained a Long Sword (Master's)!
 MAP102_e2_p0_11	Map102.json	0	dialogue	骨喰みを手に入れた！	Obtained a Honebami!
 MAP102_e3_p0_2	Map102.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
