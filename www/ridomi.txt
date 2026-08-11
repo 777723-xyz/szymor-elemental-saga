@@ -1,0 +1,43 @@
+エレサガ　Elemental Saga 紋章物語
+ver.2.51 
+
+ダウンロードありがとうございます。
+このテキストファイルと同じ階層にある、Game.exeを実行することでゲームが出来ます。
+
+ご感想、ご意見はPliCy内の私のアカウントか、Twitterからお願いします。
+
+WGT　西園寺ハムカツ
+
+
+                    制作ツール　RPGツクールMV
+
+
+
+　　　　　　　　　　使用プラグイン作者様
+
+
+　　　　　   EnemyBreathing        Yana様
+
+　　　　　　　  TurnWindow         Yana様
+
+　　　　KZR_WindowStatusInBattle   ぶちょー様
+
+　　　　　　BattleBalaneCustom   　木星ペンギン様
+　
+　　　　　PD_AdjustCharaSprite     しおいぬ様
+
+　　　　　　　MakeScreenCapture　　トリアコンタン様
+
+　　　　　　　　　　RetryBattle　　トリアコンタン様
+
+            UCHU_MobileOperation    uchuzine様
+
+　　　　　　
+　　　　　　　　　使用タイルセット作者様
+
+　　　　　　　　MV_hc_tilesets　　　リクドウ様
+
+　　　　　　　　　　和風素材　　　　コミュ将様
+
+
+　　　　主人公たちの顔グラフィック　文目ゆうき様
