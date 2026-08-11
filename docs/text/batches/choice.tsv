@@ -1,842 +1,842 @@
 id	japanese	translation
-MAP5_e32_p0_3_c0	元気だよ	
-MAP5_e32_p0_3_c1	そうでもない	
-MAP5_e33_p0_4_c0	知ってる	
-MAP5_e33_p0_4_c1	知らない	
-MAP6_e15_p0_3_c0	休んでいく	
-MAP6_e15_p0_3_c1	休まない	
-MAP6_e16_p0_3_c0	休んでいく	
-MAP6_e16_p0_3_c1	休まない	
-MAP6_e17_p0_3_c0	休んでいく	
-MAP6_e17_p0_3_c1	休まない	
-MAP6_e18_p0_3_c0	休んでいく	
-MAP6_e18_p0_3_c1	休まない	
-MAP6_e19_p0_3_c0	休んでいく	
-MAP6_e19_p0_3_c1	休まない	
-MAP6_e20_p0_3_c0	休んでいく	
-MAP6_e20_p0_3_c1	休まない	
-MAP6_e39_p0_3_c0	読んでみる	
-MAP6_e39_p0_3_c1	読まない	
-MAP6_e40_p0_3_c0	読んでみる	
-MAP6_e40_p0_3_c1	読まない	
-MAP6_e46_p0_4_c0	最近どうですか	
-MAP6_e46_p0_4_c1	用はありません	
-MAP6_e52_p0_3_c0	敬礼を返す	
-MAP6_e52_p0_3_c1	おじぎをする	
-MAP6_e53_p0_3_c0	ありがとう	
-MAP6_e53_p0_3_c1	そちらこそご苦労様です	
-MAP6_e56_p0_4_c0	そうだよ	
-MAP6_e56_p0_4_c1	違うよ	
-MAP6_e57_p0_3_c0	読んでみる	
-MAP6_e57_p0_3_c1	読まない	
-MAP6_e61_p0_4_c0	疲れたー	
-MAP6_e61_p0_4_c1	元気だよ	
-MAP6_e64_p0_3_c0	調べてる	
-MAP6_e64_p0_3_c1	ぜんぜん	
-MAP7_e11_p0_3_c0	読んでしまう	
-MAP7_e11_p0_3_c1	読まない	
-MAP7_e12_p0_3_c0	読んでみる	
-MAP7_e12_p0_3_c1	読まない	
-MAP7_e13_p0_3_c0	読む	
-MAP7_e13_p0_3_c1	読まない	
-MAP7_e14_p0_3_c0	読んでみる	
-MAP7_e14_p0_3_c1	読まない	
-MAP7_e15_p0_3_c0	読んでみる	
-MAP7_e15_p0_3_c1	読まない	
-MAP7_e16_p0_3_c0	読んでみる	
-MAP7_e16_p0_3_c1	読まない	
-MAP7_e17_p0_3_c0	読んでみる	
-MAP7_e17_p0_3_c1	読んでみない	
-MAP7_e22_p0_8_c0	売ってるよ	
-MAP7_e22_p0_8_c1	えっ　なんのこと	
-MAP8_e10_p2_4_c0	元気です	
-MAP8_e10_p2_4_c1	あんまり	
-MAP8_e18_p0_3_c0	読んでみる	
-MAP8_e18_p0_3_c1	読まない	
-MAP8_e19_p0_3_c0	読んでみよう	
-MAP8_e19_p0_3_c1	読まない	
-MAP8_e21_p1_4_c0	別行動なんだ	
-MAP8_e21_p1_4_c1	わからない	
-MAP8_e4_p1_7_c0	申し訳ございません	
-MAP8_e4_p1_7_c1	陛下とお話させて下さい	
-MAP8_e5_p0_3_c0	いい感じ	
-MAP8_e5_p0_3_c1	ぼちぼち	
-MAP8_e5_p2_3_c0	うん	
-MAP8_e5_p2_3_c1	別行動なんだ	
-MAP8_e5_p3_4_c0	うん	
-MAP8_e5_p3_4_c1	ちがうよ	
-MAP8_e6_p0_3_c0	そうだよ	
-MAP8_e6_p0_3_c1	ちがうよ	
-MAP8_e6_p2_3_c0	そうだよ	
-MAP8_e6_p2_3_c1	ちがうよ	
-MAP8_e6_p3_4_c0	ありがとう	
-MAP8_e6_p3_4_c1	やめてよ	
-MAP9_e10_p0_2_c0	読んでみる	
-MAP9_e10_p0_2_c1	読まない	
-MAP9_e10_p1_2_c0	読んでみる	
-MAP9_e10_p1_2_c1	読まない	
-MAP9_e11_p0_3_c0	読んでみる	
-MAP9_e11_p0_3_c1	読まない	
-MAP9_e4_p0_3_c0	泊まりたい	
-MAP9_e4_p0_3_c1	ちょっと寄ってみただけ	
-MAP9_e4_p0_9_c0	泊まらせてもらいます	
-MAP9_e4_p0_9_c1	やっぱりやめます	
-MAP12_e3_p0_4_c0	うん	
-MAP12_e3_p0_4_c1	ダメ	
-MAP12_e4_p0_4_c0	うん	
-MAP12_e4_p0_4_c1	違うよ	
-MAP15_e10_p0_3_c0	読んでみる	
-MAP15_e10_p0_3_c1	読まない	
-MAP15_e11_p0_3_c0	君に会いに来たんだ	
-MAP15_e11_p0_3_c1	どうもしないよ	
-MAP15_e13_p0_3_c0	読んでみる	
-MAP15_e13_p0_3_c1	読まない	
-MAP15_e7_p0_3_c0	読んでみる	
-MAP15_e7_p0_3_c1	読まない	
-MAP15_e8_p0_3_c0	読んでみる	
-MAP15_e8_p0_3_c1	読まない	
-MAP15_e9_p0_3_c0	読んでみる	
-MAP15_e9_p0_3_c1	読まない	
-MAP17_e4_p1_4_c0	はい	
-MAP17_e4_p1_4_c1	いいえ	
-MAP17_e5_p1_9_c0	狂戦士のキノコです	
-MAP17_e5_p1_9_c1	内緒です	
-MAP18_e3_p0_5_c0	食べます	
-MAP18_e3_p0_5_c1	また今度来ます	
-MAP19_e11_p0_4_c0	もちろん	
-MAP19_e11_p0_4_c1	どうかな	
-MAP19_e12_p0_4_c0	そうだよ	
-MAP19_e12_p0_4_c1	そうでもない	
-MAP19_e13_p0_3_c0	読んでみる	
-MAP19_e13_p0_3_c1	読まない	
-MAP19_e14_p0_3_c0	読んでみる	
-MAP19_e14_p0_3_c1	読まない	
-MAP19_e17_p0_3_c0	読んでみる	
-MAP19_e17_p0_3_c1	読まない	
-MAP19_e18_p0_3_c0	読んでみる	
-MAP19_e18_p0_3_c1	読まない	
-MAP19_e3_p0_16_c0	わかった	
-MAP19_e3_p0_16_c1	ちょっと無理かな	
-MAP19_e3_p0_4_c0	何か困りごとないか？	
-MAP19_e3_p0_4_c1	ごめんなさい	
-MAP21_e13_p3_23_c0	聞きます	
-MAP21_e13_p3_23_c1	聞きません	
-MAP21_e14_p0_3_c0	読んでみる	
-MAP21_e14_p0_3_c1	読まない	
-MAP21_e15_p0_3_c0	読んでみる	
-MAP21_e15_p0_3_c1	読まない	
-MAP22_e6_p0_19_c0	走り抜ける	
-MAP22_e6_p0_19_c1	慎重に進む	
-MAP22_e6_p0_56_c0	ありがとう	
-MAP22_e6_p0_56_c1	そんなことはない	
-MAP24_e3_p0_17_c0	ありがとう	
-MAP24_e3_p0_17_c1	そんなことはない	
-MAP26_e20_p0_8_c0	この通行手形あげます	
-MAP26_e20_p0_8_c1	大変ですね	
-MAP27_e1_p0_2_c0	出よう	
-MAP27_e1_p0_2_c1	探索しよう	
-MAP27_e1_p1_2_c0	出よう	
-MAP27_e1_p1_2_c1	探索しよう	
-MAP28_e3_p0_10_c0	泊まらせてもらいます	
-MAP28_e3_p0_10_c1	やっぱりやめます	
-MAP28_e3_p0_4_c0	泊まりたい	
-MAP28_e3_p0_4_c1	ちょっと寄ってみただけ	
-MAP30_e10_p0_4_c0	占ってください	
-MAP30_e10_p0_4_c1	また今度で	
-MAP30_e6_p0_10_c0	泊まらせてもらいます	
-MAP30_e6_p0_10_c1	やっぱりやめます	
-MAP30_e6_p0_4_c0	泊まりたい	
-MAP30_e6_p0_4_c1	ちょっと寄ってみただけ	
-MAP31_e25_p0_4_c0	どうぞ	
-MAP31_e25_p0_4_c1	いやだ	
-MAP31_e26_p0_4_c0	どうぞ	
-MAP31_e26_p0_4_c1	なんで？	
-MAP32_e42_p0_3_c0	読んでみる	
-MAP32_e42_p0_3_c1	読まない	
-MAP32_e43_p0_3_c0	読んでみる	
-MAP32_e43_p0_3_c1	読まない	
-MAP32_e52_p0_5_c0	そうだね	
-MAP32_e52_p0_5_c1	そんなことない	
-MAP33_e10_p0_3_c0	読んでみる	
-MAP33_e10_p0_3_c1	読まない	
-MAP33_e11_p0_3_c0	読んでみる	
-MAP33_e11_p0_3_c1	読まない	
-MAP33_e12_p0_3_c0	読んでみる	
-MAP33_e12_p0_3_c1	読まない	
-MAP33_e13_p0_3_c0	読んでみる	
-MAP33_e13_p0_3_c1	読まない	
-MAP33_e14_p0_3_c0	読んでみる	
-MAP33_e14_p0_3_c1	読まない	
-MAP33_e16_p0_3_c0	読んでみる	
-MAP33_e16_p0_3_c1	読まない	
-MAP33_e17_p0_3_c0	読んでみる	
-MAP33_e17_p0_3_c1	読まない	
-MAP33_e4_p0_4_c0	読んでみる	
-MAP33_e4_p0_4_c1	読まない	
-MAP33_e4_p1_4_c0	読んでみる	
-MAP33_e4_p1_4_c1	読まない	
-MAP33_e4_p2_4_c0	読んでみる	
-MAP33_e4_p2_4_c1	読まない	
-MAP33_e5_p0_4_c0	読んでみる	
-MAP33_e5_p0_4_c1	読まない	
-MAP33_e5_p1_4_c0	読んでみる	
-MAP33_e5_p1_4_c1	読まない	
-MAP33_e5_p2_4_c0	読んでみる	
-MAP33_e5_p2_4_c1	読まない	
-MAP34_e3_p0_9_c0	行ってくる	
-MAP34_e3_p0_9_c1	戻る	
-MAP34_e4_p1_4_c0	出る	
-MAP34_e4_p1_4_c1	もう少しだけ	
-MAP34_e5_p0_21_c0	もう大丈夫ですよ	
-MAP34_e5_p0_21_c1	キノコの食べ過ぎ注意です	
-MAP34_e5_p1_21_c0	もう大丈夫ですよ	
-MAP34_e5_p1_21_c1	キノコの食べ過ぎ注意です	
-MAP37_e18_p0_3_c0	読んでみる	
-MAP37_e18_p0_3_c1	読まない	
-MAP37_e19_p0_3_c0	読んでみよう	
-MAP37_e19_p0_3_c1	読まない	
-MAP37_e20_p0_3_c0	いい感じ	
-MAP37_e20_p0_3_c1	ぼちぼち	
-MAP37_e21_p0_3_c0	そうだよ	
-MAP37_e21_p0_3_c1	ちがうよ	
-MAP37_e22_p0_3_c0	そうだよ	
-MAP37_e22_p0_3_c1	ちがうよ	
-MAP37_e23_p0_3_c0	いい感じ	
-MAP37_e23_p0_3_c1	ぼちぼち	
-MAP37_e4_p1_7_c0	申し訳ございません	
-MAP37_e4_p1_7_c1	陛下とお話させて下さい	
-MAP37_e5_p0_3_c0	いい感じ	
-MAP37_e5_p0_3_c1	ぼちぼち	
-MAP37_e6_p0_3_c0	そうだよ	
-MAP37_e6_p0_3_c1	ちがうよ	
-MAP42_e3_p0_5_c0	食べます	
-MAP42_e3_p0_5_c1	また今度来ます	
-MAP45_e6_p0_10_c0	泊まらせてもらいます	
-MAP45_e6_p0_10_c1	やっぱりやめます	
-MAP45_e6_p0_4_c0	泊まりたい	
-MAP45_e6_p0_4_c1	ちょっと寄ってみただけ	
-MAP47_e8_p0_3_c0	読んでみる	
-MAP47_e8_p0_3_c1	読まない	
-MAP47_e9_p1_19_c0	いいですよ	
-MAP47_e9_p1_19_c1	お断りします	
-MAP47_e9_p1_8_c0	持ってます	
-MAP47_e9_p1_8_c1	持ってません	
-MAP49_e2_p2_26_c0	もちろん	
-MAP49_e2_p2_26_c1	ダメだよ	
-MAP51_e3_p0_10_c0	泊まらせてもらいます	
-MAP51_e3_p0_10_c1	やっぱりやめます	
-MAP51_e3_p0_5_c0	泊まりたい	
-MAP51_e3_p0_5_c1	ちょっと寄ってみただけ	
-MAP51_e3_p1_13_c0	泊まらせてもらいます	
-MAP51_e3_p1_13_c1	やっぱりやめます	
-MAP51_e3_p1_5_c0	泊まりたい	
-MAP51_e3_p1_5_c1	ちょっと寄ってみただけ	
-MAP53_e5_p0_5_c0	いただきます	
-MAP53_e5_p0_5_c1	遠慮しておきます	
-MAP53_e5_p1_5_c0	いただきます	
-MAP53_e5_p1_5_c1	遠慮しておきます	
-MAP61_e10_p1_4_c0	ハヤテを使おう	
-MAP61_e10_p1_4_c1	使わなくていいや	
-MAP61_e10_p1_6_c0	ウィンダム城	
-MAP61_e10_p1_6_c1	フレイム城	
-MAP61_e10_p1_6_c2	旅の宿屋	
-MAP61_e10_p2_4_c0	ハヤテを使おう	
-MAP61_e10_p2_4_c1	使わなくていいや	
-MAP61_e10_p2_6_c0	ウィンダム城	
-MAP61_e10_p2_6_c1	フレイム城	
-MAP61_e10_p2_6_c2	旅の宿屋	
-MAP61_e11_p1_4_c0	ハヤテを使おう	
-MAP61_e11_p1_4_c1	使わなくていいや	
-MAP61_e11_p1_6_c0	ウィンダム城	
-MAP61_e11_p1_6_c1	フレイム城	
-MAP61_e11_p1_6_c2	旅の宿屋	
-MAP61_e11_p2_4_c0	ハヤテを使おう	
-MAP61_e11_p2_4_c1	使わなくていいや	
-MAP61_e11_p2_6_c0	ウィンダム城	
-MAP61_e11_p2_6_c1	フレイム城	
-MAP61_e11_p2_6_c2	旅の宿屋	
-MAP61_e12_p1_4_c0	ハヤテを使おう	
-MAP61_e12_p1_4_c1	使わなくていいや	
-MAP61_e12_p1_6_c0	ウィンダム城	
-MAP61_e12_p1_6_c1	フレイム城	
-MAP61_e12_p1_6_c2	旅の宿屋	
-MAP61_e12_p2_4_c0	ハヤテを使おう	
-MAP61_e12_p2_4_c1	使わなくていいや	
-MAP61_e12_p2_6_c0	ウィンダム城	
-MAP61_e12_p2_6_c1	フレイム城	
-MAP61_e12_p2_6_c2	旅の宿屋	
-MAP61_e13_p1_4_c0	ハヤテを使おう	
-MAP61_e13_p1_4_c1	使わなくていいや	
-MAP61_e13_p1_6_c0	ウィンダム城	
-MAP61_e13_p1_6_c1	フレイム城	
-MAP61_e13_p1_6_c2	旅の宿屋	
-MAP61_e13_p2_4_c0	ハヤテを使おう	
-MAP61_e13_p2_4_c1	使わなくていいや	
-MAP61_e13_p2_6_c0	ウィンダム城	
-MAP61_e13_p2_6_c1	フレイム城	
-MAP61_e13_p2_6_c2	旅の宿屋	
-MAP61_e14_p1_4_c0	ハヤテを使おう	
-MAP61_e14_p1_4_c1	使わなくていいや	
-MAP61_e14_p1_6_c0	ウィンダム城	
-MAP61_e14_p1_6_c1	フレイム城	
-MAP61_e14_p1_6_c2	旅の宿屋	
-MAP61_e14_p2_4_c0	ハヤテを使おう	
-MAP61_e14_p2_4_c1	使わなくていいや	
-MAP61_e14_p2_6_c0	ウィンダム城	
-MAP61_e14_p2_6_c1	フレイム城	
-MAP61_e14_p2_6_c2	旅の宿屋	
-MAP61_e15_p1_4_c0	ハヤテを使おう	
-MAP61_e15_p1_4_c1	使わなくていいや	
-MAP61_e15_p1_6_c0	ウィンダム城	
-MAP61_e15_p1_6_c1	フレイム城	
-MAP61_e15_p1_6_c2	旅の宿屋	
-MAP61_e15_p2_4_c0	ハヤテを使おう	
-MAP61_e15_p2_4_c1	使わなくていいや	
-MAP61_e15_p2_6_c0	ウィンダム城	
-MAP61_e15_p2_6_c1	フレイム城	
-MAP61_e15_p2_6_c2	旅の宿屋	
-MAP61_e16_p1_4_c0	ハヤテを使おう	
-MAP61_e16_p1_4_c1	使わなくていいや	
-MAP61_e16_p1_6_c0	ウィンダム城	
-MAP61_e16_p1_6_c1	フレイム城	
-MAP61_e16_p1_6_c2	旅の宿屋	
-MAP61_e16_p2_4_c0	ハヤテを使おう	
-MAP61_e16_p2_4_c1	使わなくていいや	
-MAP61_e16_p2_6_c0	ウィンダム城	
-MAP61_e16_p2_6_c1	フレイム城	
-MAP61_e16_p2_6_c2	旅の宿屋	
-MAP61_e17_p1_4_c0	ハヤテを使おう	
-MAP61_e17_p1_4_c1	使わなくていいや	
-MAP61_e17_p1_6_c0	ウィンダム城	
-MAP61_e17_p1_6_c1	フレイム城	
-MAP61_e17_p1_6_c2	旅の宿屋	
-MAP61_e17_p2_4_c0	ハヤテを使おう	
-MAP61_e17_p2_4_c1	使わなくていいや	
-MAP61_e17_p2_6_c0	ウィンダム城	
-MAP61_e17_p2_6_c1	フレイム城	
-MAP61_e17_p2_6_c2	旅の宿屋	
-MAP61_e20_p1_8_c0	出発しよう	
-MAP61_e20_p1_8_c1	まだ準備しよう	
-MAP61_e7_p1_4_c0	ハヤテを使おう	
-MAP61_e7_p1_4_c1	使わなくていいや	
-MAP61_e7_p1_6_c0	ウィンダム城	
-MAP61_e7_p1_6_c1	フレイム城	
-MAP61_e7_p1_6_c2	旅の宿屋	
-MAP61_e7_p2_4_c0	ハヤテを使おう	
-MAP61_e7_p2_4_c1	使わなくていいや	
-MAP61_e7_p2_6_c0	ウィンダム城	
-MAP61_e7_p2_6_c1	フレイム城	
-MAP61_e7_p2_6_c2	旅の宿屋	
-MAP61_e8_p1_4_c0	ハヤテを使おう	
-MAP61_e8_p1_4_c1	使わなくていいや	
-MAP61_e8_p1_6_c0	ウィンダム城	
-MAP61_e8_p1_6_c1	フレイム城	
-MAP61_e8_p1_6_c2	旅の宿屋	
-MAP61_e8_p2_4_c0	ハヤテを使おう	
-MAP61_e8_p2_4_c1	使わなくていいや	
-MAP61_e8_p2_6_c0	ウィンダム城	
-MAP61_e8_p2_6_c1	フレイム城	
-MAP61_e8_p2_6_c2	旅の宿屋	
-MAP61_e9_p1_4_c0	ハヤテを使おう	
-MAP61_e9_p1_4_c1	使わなくていいや	
-MAP61_e9_p1_6_c0	ウィンダム城	
-MAP61_e9_p1_6_c1	フレイム城	
-MAP61_e9_p1_6_c2	旅の宿屋	
-MAP61_e9_p2_4_c0	ハヤテを使おう	
-MAP61_e9_p2_4_c1	使わなくていいや	
-MAP61_e9_p2_6_c0	ウィンダム城	
-MAP61_e9_p2_6_c1	フレイム城	
-MAP61_e9_p2_6_c2	旅の宿屋	
-MAP62_e2_p2_4_c0	ハヤテを使おう	
-MAP62_e2_p2_4_c1	使わなくていいや	
-MAP62_e2_p2_6_c0	フレイム城	
-MAP62_e2_p2_6_c1	セイリュー	
-MAP62_e2_p2_6_c2	旅の宿屋	
-MAP62_e39_p2_4_c0	ハヤテを使おう	
-MAP62_e39_p2_4_c1	使わなくていいや	
-MAP62_e39_p2_6_c0	フレイム城	
-MAP62_e39_p2_6_c1	セイリュー	
-MAP62_e39_p2_6_c2	旅の宿屋	
-MAP62_e3_p2_4_c0	ハヤテを使おう	
-MAP62_e3_p2_4_c1	使わなくていいや	
-MAP62_e3_p2_6_c0	フレイム城	
-MAP62_e3_p2_6_c1	セイリュー	
-MAP62_e3_p2_6_c2	旅の宿屋	
-MAP63_e34_p0_4_c0	ハヤテを使おう	
-MAP63_e34_p0_4_c1	使わなくていいや	
-MAP63_e34_p0_6_c0	ウィンダム城	
-MAP63_e34_p0_6_c1	セイリュー	
-MAP63_e34_p0_6_c2	旅の宿屋	
-MAP63_e34_p1_4_c0	ハヤテを使おう	
-MAP63_e34_p1_4_c1	使わなくていいや	
-MAP63_e34_p1_6_c0	ウィンダム城	
-MAP63_e34_p1_6_c1	セイリュー	
-MAP63_e34_p1_6_c2	旅の宿屋	
-MAP63_e42_p0_3_c0	読んでみる	
-MAP63_e42_p0_3_c1	読まない	
-MAP63_e43_p0_3_c0	読んでみる	
-MAP63_e43_p0_3_c1	読まない	
-MAP63_e46_p0_4_c0	どうぞ	
-MAP63_e46_p0_4_c1	いやだ	
-MAP63_e46_p1_4_c0	どうぞ	
-MAP63_e46_p1_4_c1	いやだ	
-MAP64_e10_p0_3_c0	読んでみる	
-MAP64_e10_p0_3_c1	読まない	
-MAP64_e11_p0_3_c0	読んでみる	
-MAP64_e11_p0_3_c1	読まない	
-MAP64_e12_p0_3_c0	読んでみる	
-MAP64_e12_p0_3_c1	読まない	
-MAP64_e13_p0_3_c0	読んでみる	
-MAP64_e13_p0_3_c1	読まない	
-MAP64_e14_p0_3_c0	読んでみる	
-MAP64_e14_p0_3_c1	読まない	
-MAP64_e16_p0_3_c0	読んでみる	
-MAP64_e16_p0_3_c1	読まない	
-MAP64_e34_p0_3_c0	読んでみる	
-MAP64_e34_p0_3_c1	読まない	
-MAP64_e4_p0_4_c0	読んでみる	
-MAP64_e4_p0_4_c1	読まない	
-MAP64_e4_p1_4_c0	読んでみる	
-MAP64_e4_p1_4_c1	読まない	
-MAP64_e4_p2_4_c0	読んでみる	
-MAP64_e4_p2_4_c1	読まない	
-MAP64_e5_p0_4_c0	読んでみる	
-MAP64_e5_p0_4_c1	読まない	
-MAP64_e5_p1_4_c0	読んでみる	
-MAP64_e5_p1_4_c1	読まない	
-MAP64_e5_p2_4_c0	読んでみる	
-MAP64_e5_p2_4_c1	読まない	
-MAP65_e18_p0_3_c0	読んでみる	
-MAP65_e18_p0_3_c1	読まない	
-MAP65_e19_p0_3_c0	読んでみよう	
-MAP65_e19_p0_3_c1	読まない	
-MAP65_e33_p0_9_c0	もちろん	
-MAP65_e33_p0_9_c1	まだです	
-MAP65_e34_p0_9_c0	もちろん	
-MAP65_e34_p0_9_c1	まだです	
-MAP65_e35_p0_9_c0	もちろん	
-MAP65_e35_p0_9_c1	まだです	
-MAP65_e5_p0_3_c0	いい感じ	
-MAP65_e5_p0_3_c1	ぼちぼち	
-MAP65_e6_p0_3_c0	そうだよ	
-MAP65_e6_p0_3_c1	ちがうよ	
-MAP66_e10_p0_4_c0	ハヤテを使おう	
-MAP66_e10_p0_4_c1	使わなくていいや	
-MAP66_e10_p0_6_c0	フレイム城	
-MAP66_e10_p0_6_c1	セイリュー	
-MAP66_e10_p0_6_c2	旅の宿屋	
-MAP66_e10_p1_4_c0	ハヤテを使おう	
-MAP66_e10_p1_4_c1	使わなくていいや	
-MAP66_e10_p1_6_c0	フレイム城	
-MAP66_e10_p1_6_c1	セイリュー	
-MAP66_e10_p1_6_c2	旅の宿屋	
-MAP66_e11_p0_4_c0	ハヤテを使おう	
-MAP66_e11_p0_4_c1	使わなくていいや	
-MAP66_e11_p0_6_c0	フレイム城	
-MAP66_e11_p0_6_c1	セイリュー	
-MAP66_e11_p0_6_c2	旅の宿屋	
-MAP66_e11_p1_4_c0	ハヤテを使おう	
-MAP66_e11_p1_4_c1	使わなくていいや	
-MAP66_e11_p1_6_c0	フレイム城	
-MAP66_e11_p1_6_c1	セイリュー	
-MAP66_e11_p1_6_c2	旅の宿屋	
-MAP66_e15_p0_3_c0	休んでいく	
-MAP66_e15_p0_3_c1	休まない	
-MAP66_e16_p0_3_c0	休んでいく	
-MAP66_e16_p0_3_c1	休まない	
-MAP66_e17_p0_3_c0	休んでいく	
-MAP66_e17_p0_3_c1	休まない	
-MAP66_e18_p0_3_c0	休んでいく	
-MAP66_e18_p0_3_c1	休まない	
-MAP66_e19_p0_3_c0	休んでいく	
-MAP66_e19_p0_3_c1	休まない	
-MAP66_e20_p0_3_c0	休んでいく	
-MAP66_e20_p0_3_c1	休まない	
-MAP66_e39_p0_3_c0	読んでみる	
-MAP66_e39_p0_3_c1	読まない	
-MAP66_e40_p0_3_c0	読んでみる	
-MAP66_e40_p0_3_c1	読まない	
-MAP66_e43_p0_4_c0	大丈夫	
-MAP66_e43_p0_4_c1	きつい	
-MAP66_e46_p0_4_c0	分かります	
-MAP66_e46_p0_4_c1	分かりません	
-MAP66_e57_p0_3_c0	読んでみる	
-MAP66_e57_p0_3_c1	読まない	
-MAP66_e61_p0_3_c0	疲れたー	
-MAP66_e61_p0_3_c1	元気だよ	
-MAP66_e61_p1_4_c0	疲れたー	
-MAP66_e61_p1_4_c1	元気だよ	
-MAP66_e65_p0_9_c0	パン買います	
-MAP66_e65_p0_9_c1	パンいらない	
-MAP66_e9_p0_4_c0	ハヤテを使おう	
-MAP66_e9_p0_4_c1	使わなくていいや	
-MAP66_e9_p0_6_c0	フレイム城	
-MAP66_e9_p0_6_c1	セイリュー	
-MAP66_e9_p0_6_c2	旅の宿屋	
-MAP66_e9_p1_4_c0	ハヤテを使おう	
-MAP66_e9_p1_4_c1	使わなくていいや	
-MAP66_e9_p1_6_c0	フレイム城	
-MAP66_e9_p1_6_c1	セイリュー	
-MAP66_e9_p1_6_c2	旅の宿屋	
-MAP67_e11_p0_3_c0	読んでしまう	
-MAP67_e11_p0_3_c1	読まない	
-MAP67_e12_p0_3_c0	読んでみる	
-MAP67_e12_p0_3_c1	読まない	
-MAP67_e13_p0_3_c0	読む	
-MAP67_e13_p0_3_c1	読まない	
-MAP67_e14_p0_3_c0	読んでみる	
-MAP67_e14_p0_3_c1	読まない	
-MAP67_e15_p0_3_c0	読んでみる	
-MAP67_e15_p0_3_c1	読まない	
-MAP67_e16_p0_3_c0	読んでみる	
-MAP67_e16_p0_3_c1	読まない	
-MAP67_e17_p0_3_c0	読んでみる	
-MAP67_e17_p0_3_c1	読んでみない	
-MAP67_e24_p1_24_c0	あげます	
-MAP67_e24_p1_24_c1	あげられないな	
-MAP67_e25_p0_8_c0	売ってるよ	
-MAP67_e25_p0_8_c1	えっ　なんのこと	
-MAP67_e25_p1_8_c0	そうだね	
-MAP67_e25_p1_8_c1	そんなことないよ	
-MAP72_e10_p0_4_c0	占ってください	
-MAP72_e10_p0_4_c1	また今度で	
-MAP72_e6_p0_10_c0	泊まらせてもらいます	
-MAP72_e6_p0_10_c1	やっぱりやめます	
-MAP72_e6_p0_4_c0	泊まりたい	
-MAP72_e6_p0_4_c1	ちょっと寄ってみただけ	
-MAP74_e5_p0_5_c0	いただきます	
-MAP74_e5_p0_5_c1	遠慮しておきます	
-MAP74_e5_p1_5_c0	いただきます	
-MAP74_e5_p1_5_c1	遠慮しておきます	
-MAP75_e12_p0_4_c0	槍派だね	
-MAP75_e12_p0_4_c1	槍は使わない	
-MAP75_e13_p0_3_c0	読んでみる	
-MAP75_e13_p0_3_c1	読まない	
-MAP75_e14_p0_3_c0	読んでみる	
-MAP75_e14_p0_3_c1	読まない	
-MAP75_e17_p0_3_c0	読んでみる	
-MAP75_e17_p0_3_c1	読まない	
-MAP75_e18_p0_3_c0	読んでみる	
-MAP75_e18_p0_3_c1	読まない	
-MAP76_e7_p0_3_c0	敬礼を返す	
-MAP76_e7_p0_3_c1	おじぎをする	
-MAP77_e6_p0_4_c0	よろしく	
-MAP77_e6_p0_4_c1	しっかりしろ	
-MAP78_e3_p0_4_c0	ハヤテを使おう	
-MAP78_e3_p0_4_c1	使わなくていいや	
-MAP78_e3_p0_6_c0	フレイム城	
-MAP78_e3_p0_6_c1	セイリュー	
-MAP78_e3_p0_6_c2	旅の宿屋	
-MAP78_e3_p0_6_c4	ウィンダム城	
-MAP78_e4_p0_4_c0	ハヤテを使おう	
-MAP78_e4_p0_4_c1	使わなくていいや	
-MAP78_e4_p0_6_c0	フレイム城	
-MAP78_e4_p0_6_c1	セイリュー	
-MAP78_e4_p0_6_c2	旅の宿屋	
-MAP78_e4_p0_6_c4	ウィンダム城	
-MAP78_e5_p0_4_c0	ハヤテを使おう	
-MAP78_e5_p0_4_c1	使わなくていいや	
-MAP78_e5_p0_6_c0	フレイム城	
-MAP78_e5_p0_6_c1	セイリュー	
-MAP78_e5_p0_6_c2	旅の宿屋	
-MAP78_e5_p0_6_c4	ウィンダム城	
-MAP78_e6_p0_18_c0	入ろう	
-MAP78_e6_p0_18_c1	引き返そう	
-MAP85_e5_p0_3_c0	いい感じ	
-MAP85_e5_p0_3_c1	ぼちぼち	
-MAP85_e5_p1_3_c0	うん	
-MAP85_e5_p1_3_c1	別行動なんだ	
-MAP85_e5_p2_4_c0	うん	
-MAP85_e5_p2_4_c1	ちがうよ	
-MAP85_e6_p0_3_c0	そうだよ	
-MAP85_e6_p0_3_c1	ちがうよ	
-MAP85_e6_p1_3_c0	そうだよ	
-MAP85_e6_p1_3_c1	ちがうよ	
-MAP85_e6_p2_4_c0	ありがとう	
-MAP85_e6_p2_4_c1	やめてよ	
-MAP87_e10_p1_4_c0	ハヤテを使おう	
-MAP87_e10_p1_4_c1	使わなくていいや	
-MAP87_e10_p1_6_c0	ウィンダム城	
-MAP87_e10_p1_6_c1	フレイム城	
-MAP87_e10_p1_6_c2	旅の宿屋	
-MAP87_e10_p2_4_c0	ハヤテを使おう	
-MAP87_e10_p2_4_c1	使わなくていいや	
-MAP87_e10_p2_6_c0	ウィンダム城	
-MAP87_e10_p2_6_c1	フレイム城	
-MAP87_e10_p2_6_c2	旅の宿屋	
-MAP87_e11_p1_4_c0	ハヤテを使おう	
-MAP87_e11_p1_4_c1	使わなくていいや	
-MAP87_e11_p1_6_c0	ウィンダム城	
-MAP87_e11_p1_6_c1	フレイム城	
-MAP87_e11_p1_6_c2	旅の宿屋	
-MAP87_e11_p2_4_c0	ハヤテを使おう	
-MAP87_e11_p2_4_c1	使わなくていいや	
-MAP87_e11_p2_6_c0	ウィンダム城	
-MAP87_e11_p2_6_c1	フレイム城	
-MAP87_e11_p2_6_c2	旅の宿屋	
-MAP87_e12_p1_4_c0	ハヤテを使おう	
-MAP87_e12_p1_4_c1	使わなくていいや	
-MAP87_e12_p1_6_c0	ウィンダム城	
-MAP87_e12_p1_6_c1	フレイム城	
-MAP87_e12_p1_6_c2	旅の宿屋	
-MAP87_e12_p2_4_c0	ハヤテを使おう	
-MAP87_e12_p2_4_c1	使わなくていいや	
-MAP87_e12_p2_6_c0	ウィンダム城	
-MAP87_e12_p2_6_c1	フレイム城	
-MAP87_e12_p2_6_c2	旅の宿屋	
-MAP87_e13_p1_4_c0	ハヤテを使おう	
-MAP87_e13_p1_4_c1	使わなくていいや	
-MAP87_e13_p1_6_c0	ウィンダム城	
-MAP87_e13_p1_6_c1	フレイム城	
-MAP87_e13_p1_6_c2	旅の宿屋	
-MAP87_e13_p2_4_c0	ハヤテを使おう	
-MAP87_e13_p2_4_c1	使わなくていいや	
-MAP87_e13_p2_6_c0	ウィンダム城	
-MAP87_e13_p2_6_c1	フレイム城	
-MAP87_e13_p2_6_c2	旅の宿屋	
-MAP87_e14_p1_4_c0	ハヤテを使おう	
-MAP87_e14_p1_4_c1	使わなくていいや	
-MAP87_e14_p1_6_c0	ウィンダム城	
-MAP87_e14_p1_6_c1	フレイム城	
-MAP87_e14_p1_6_c2	旅の宿屋	
-MAP87_e14_p2_4_c0	ハヤテを使おう	
-MAP87_e14_p2_4_c1	使わなくていいや	
-MAP87_e14_p2_6_c0	ウィンダム城	
-MAP87_e14_p2_6_c1	フレイム城	
-MAP87_e14_p2_6_c2	旅の宿屋	
-MAP87_e15_p1_4_c0	ハヤテを使おう	
-MAP87_e15_p1_4_c1	使わなくていいや	
-MAP87_e15_p1_6_c0	ウィンダム城	
-MAP87_e15_p1_6_c1	フレイム城	
-MAP87_e15_p1_6_c2	旅の宿屋	
-MAP87_e15_p2_4_c0	ハヤテを使おう	
-MAP87_e15_p2_4_c1	使わなくていいや	
-MAP87_e15_p2_6_c0	ウィンダム城	
-MAP87_e15_p2_6_c1	フレイム城	
-MAP87_e15_p2_6_c2	旅の宿屋	
-MAP87_e16_p1_4_c0	ハヤテを使おう	
-MAP87_e16_p1_4_c1	使わなくていいや	
-MAP87_e16_p1_6_c0	ウィンダム城	
-MAP87_e16_p1_6_c1	フレイム城	
-MAP87_e16_p1_6_c2	旅の宿屋	
-MAP87_e16_p2_4_c0	ハヤテを使おう	
-MAP87_e16_p2_4_c1	使わなくていいや	
-MAP87_e16_p2_6_c0	ウィンダム城	
-MAP87_e16_p2_6_c1	フレイム城	
-MAP87_e16_p2_6_c2	旅の宿屋	
-MAP87_e17_p1_4_c0	ハヤテを使おう	
-MAP87_e17_p1_4_c1	使わなくていいや	
-MAP87_e17_p1_6_c0	ウィンダム城	
-MAP87_e17_p1_6_c1	フレイム城	
-MAP87_e17_p1_6_c2	旅の宿屋	
-MAP87_e17_p2_4_c0	ハヤテを使おう	
-MAP87_e17_p2_4_c1	使わなくていいや	
-MAP87_e17_p2_6_c0	ウィンダム城	
-MAP87_e17_p2_6_c1	フレイム城	
-MAP87_e17_p2_6_c2	旅の宿屋	
-MAP87_e20_p1_8_c0	出発しよう	
-MAP87_e20_p1_8_c1	まだ準備しよう	
-MAP87_e7_p1_4_c0	ハヤテを使おう	
-MAP87_e7_p1_4_c1	使わなくていいや	
-MAP87_e7_p1_6_c0	ウィンダム城	
-MAP87_e7_p1_6_c1	フレイム城	
-MAP87_e7_p1_6_c2	旅の宿屋	
-MAP87_e7_p2_4_c0	ハヤテを使おう	
-MAP87_e7_p2_4_c1	使わなくていいや	
-MAP87_e7_p2_6_c0	ウィンダム城	
-MAP87_e7_p2_6_c1	フレイム城	
-MAP87_e7_p2_6_c2	旅の宿屋	
-MAP87_e8_p1_4_c0	ハヤテを使おう	
-MAP87_e8_p1_4_c1	使わなくていいや	
-MAP87_e8_p1_6_c0	ウィンダム城	
-MAP87_e8_p1_6_c1	フレイム城	
-MAP87_e8_p1_6_c2	旅の宿屋	
-MAP87_e8_p2_4_c0	ハヤテを使おう	
-MAP87_e8_p2_4_c1	使わなくていいや	
-MAP87_e8_p2_6_c0	ウィンダム城	
-MAP87_e8_p2_6_c1	フレイム城	
-MAP87_e8_p2_6_c2	旅の宿屋	
-MAP87_e9_p1_4_c0	ハヤテを使おう	
-MAP87_e9_p1_4_c1	使わなくていいや	
-MAP87_e9_p1_6_c0	ウィンダム城	
-MAP87_e9_p1_6_c1	フレイム城	
-MAP87_e9_p1_6_c2	旅の宿屋	
-MAP87_e9_p2_4_c0	ハヤテを使おう	
-MAP87_e9_p2_4_c1	使わなくていいや	
-MAP87_e9_p2_6_c0	ウィンダム城	
-MAP87_e9_p2_6_c1	フレイム城	
-MAP87_e9_p2_6_c2	旅の宿屋	
-MAP88_e15_p6_10_c0	取り出してみる	
-MAP88_e15_p6_10_c1	そのままにしておく	
-MAP88_e15_p6_23_c0	取り出してみる	
-MAP88_e15_p6_23_c1	そのままにしておく	
-MAP88_e15_p7_10_c0	引っ張ってみる	
-MAP88_e15_p7_10_c1	そのままにしておく	
-MAP88_e15_p7_23_c0	引っ張ってみる	
-MAP88_e15_p7_23_c1	そのままにしておく	
-MAP88_e15_p8_10_c0	引っ張ってみる	
-MAP88_e15_p8_10_c1	そのままにしておく	
-MAP88_e15_p8_23_c0	引っ張ってみる	
-MAP88_e15_p8_23_c1	そのままにしておく	
-MAP90_e7_p0_3_c0	敬礼を返す	
-MAP90_e7_p0_3_c1	おじぎをする	
-MAP91_e10_p1_4_c0	ハヤテを使おう	
-MAP91_e10_p1_4_c1	使わなくていいや	
-MAP91_e10_p1_6_c0	ウィンダム城	
-MAP91_e10_p1_6_c1	フレイム城	
-MAP91_e10_p1_6_c2	旅の宿屋	
-MAP91_e10_p2_4_c0	ハヤテを使おう	
-MAP91_e10_p2_4_c1	使わなくていいや	
-MAP91_e10_p2_6_c0	ウィンダム城	
-MAP91_e10_p2_6_c1	フレイム城	
-MAP91_e10_p2_6_c2	旅の宿屋	
-MAP91_e11_p1_4_c0	ハヤテを使おう	
-MAP91_e11_p1_4_c1	使わなくていいや	
-MAP91_e11_p1_6_c0	ウィンダム城	
-MAP91_e11_p1_6_c1	フレイム城	
-MAP91_e11_p1_6_c2	旅の宿屋	
-MAP91_e11_p2_4_c0	ハヤテを使おう	
-MAP91_e11_p2_4_c1	使わなくていいや	
-MAP91_e11_p2_6_c0	ウィンダム城	
-MAP91_e11_p2_6_c1	フレイム城	
-MAP91_e11_p2_6_c2	旅の宿屋	
-MAP91_e12_p1_4_c0	ハヤテを使おう	
-MAP91_e12_p1_4_c1	使わなくていいや	
-MAP91_e12_p1_6_c0	ウィンダム城	
-MAP91_e12_p1_6_c1	フレイム城	
-MAP91_e12_p1_6_c2	旅の宿屋	
-MAP91_e12_p2_4_c0	ハヤテを使おう	
-MAP91_e12_p2_4_c1	使わなくていいや	
-MAP91_e12_p2_6_c0	ウィンダム城	
-MAP91_e12_p2_6_c1	フレイム城	
-MAP91_e12_p2_6_c2	旅の宿屋	
-MAP91_e13_p1_4_c0	ハヤテを使おう	
-MAP91_e13_p1_4_c1	使わなくていいや	
-MAP91_e13_p1_6_c0	ウィンダム城	
-MAP91_e13_p1_6_c1	フレイム城	
-MAP91_e13_p1_6_c2	旅の宿屋	
-MAP91_e13_p2_4_c0	ハヤテを使おう	
-MAP91_e13_p2_4_c1	使わなくていいや	
-MAP91_e13_p2_6_c0	ウィンダム城	
-MAP91_e13_p2_6_c1	フレイム城	
-MAP91_e13_p2_6_c2	旅の宿屋	
-MAP91_e14_p1_4_c0	ハヤテを使おう	
-MAP91_e14_p1_4_c1	使わなくていいや	
-MAP91_e14_p1_6_c0	ウィンダム城	
-MAP91_e14_p1_6_c1	フレイム城	
-MAP91_e14_p1_6_c2	旅の宿屋	
-MAP91_e14_p2_4_c0	ハヤテを使おう	
-MAP91_e14_p2_4_c1	使わなくていいや	
-MAP91_e14_p2_6_c0	ウィンダム城	
-MAP91_e14_p2_6_c1	フレイム城	
-MAP91_e14_p2_6_c2	旅の宿屋	
-MAP91_e15_p1_4_c0	ハヤテを使おう	
-MAP91_e15_p1_4_c1	使わなくていいや	
-MAP91_e15_p1_6_c0	ウィンダム城	
-MAP91_e15_p1_6_c1	フレイム城	
-MAP91_e15_p1_6_c2	旅の宿屋	
-MAP91_e15_p2_4_c0	ハヤテを使おう	
-MAP91_e15_p2_4_c1	使わなくていいや	
-MAP91_e15_p2_6_c0	ウィンダム城	
-MAP91_e15_p2_6_c1	フレイム城	
-MAP91_e15_p2_6_c2	旅の宿屋	
-MAP91_e16_p1_4_c0	ハヤテを使おう	
-MAP91_e16_p1_4_c1	使わなくていいや	
-MAP91_e16_p1_6_c0	ウィンダム城	
-MAP91_e16_p1_6_c1	フレイム城	
-MAP91_e16_p1_6_c2	旅の宿屋	
-MAP91_e16_p2_4_c0	ハヤテを使おう	
-MAP91_e16_p2_4_c1	使わなくていいや	
-MAP91_e16_p2_6_c0	ウィンダム城	
-MAP91_e16_p2_6_c1	フレイム城	
-MAP91_e16_p2_6_c2	旅の宿屋	
-MAP91_e17_p1_4_c0	ハヤテを使おう	
-MAP91_e17_p1_4_c1	使わなくていいや	
-MAP91_e17_p1_6_c0	ウィンダム城	
-MAP91_e17_p1_6_c1	フレイム城	
-MAP91_e17_p1_6_c2	旅の宿屋	
-MAP91_e17_p2_4_c0	ハヤテを使おう	
-MAP91_e17_p2_4_c1	使わなくていいや	
-MAP91_e17_p2_6_c0	ウィンダム城	
-MAP91_e17_p2_6_c1	フレイム城	
-MAP91_e17_p2_6_c2	旅の宿屋	
-MAP91_e7_p1_4_c0	ハヤテを使おう	
-MAP91_e7_p1_4_c1	使わなくていいや	
-MAP91_e7_p1_6_c0	ウィンダム城	
-MAP91_e7_p1_6_c1	フレイム城	
-MAP91_e7_p1_6_c2	旅の宿屋	
-MAP91_e7_p2_4_c0	ハヤテを使おう	
-MAP91_e7_p2_4_c1	使わなくていいや	
-MAP91_e7_p2_6_c0	ウィンダム城	
-MAP91_e7_p2_6_c1	フレイム城	
-MAP91_e7_p2_6_c2	旅の宿屋	
-MAP91_e8_p1_4_c0	ハヤテを使おう	
-MAP91_e8_p1_4_c1	使わなくていいや	
-MAP91_e8_p1_6_c0	ウィンダム城	
-MAP91_e8_p1_6_c1	フレイム城	
-MAP91_e8_p1_6_c2	旅の宿屋	
-MAP91_e8_p2_4_c0	ハヤテを使おう	
-MAP91_e8_p2_4_c1	使わなくていいや	
-MAP91_e8_p2_6_c0	ウィンダム城	
-MAP91_e8_p2_6_c1	フレイム城	
-MAP91_e8_p2_6_c2	旅の宿屋	
-MAP91_e9_p1_4_c0	ハヤテを使おう	
-MAP91_e9_p1_4_c1	使わなくていいや	
-MAP91_e9_p1_6_c0	ウィンダム城	
-MAP91_e9_p1_6_c1	フレイム城	
-MAP91_e9_p1_6_c2	旅の宿屋	
-MAP91_e9_p2_4_c0	ハヤテを使おう	
-MAP91_e9_p2_4_c1	使わなくていいや	
-MAP91_e9_p2_6_c0	ウィンダム城	
-MAP91_e9_p2_6_c1	フレイム城	
-MAP91_e9_p2_6_c2	旅の宿屋	
-MAP93_e10_p0_453_c0	一応二周目をはじめる	
-MAP93_e10_p0_453_c1	これで終りにする	
-MAP93_e10_p1_452_c0	一応３周目をはじめる	
-MAP93_e10_p1_452_c1	これで終りにする	
-MAP93_e5_p0_3_c0	いい感じ	
-MAP93_e5_p0_3_c1	ぼちぼち	
-MAP93_e5_p1_3_c0	うん	
-MAP93_e5_p1_3_c1	別行動なんだ	
-MAP93_e5_p2_4_c0	うん	
-MAP93_e5_p2_4_c1	ちがうよ	
-MAP93_e6_p0_3_c0	そうだよ	
-MAP93_e6_p0_3_c1	ちがうよ	
-MAP93_e6_p1_3_c0	そうだよ	
-MAP93_e6_p1_3_c1	ちがうよ	
-MAP93_e6_p2_4_c0	ありがとう	
-MAP93_e6_p2_4_c1	やめてよ	
-MAP93_e8_p0_3_c0	そうだよ	
-MAP93_e8_p0_3_c1	ちがうよ	
-MAP93_e8_p1_3_c0	そうだよ	
-MAP93_e8_p1_3_c1	ちがうよ	
-MAP93_e8_p2_4_c0	ありがとう	
-MAP93_e8_p2_4_c1	やめてよ	
-MAP93_e9_p0_3_c0	そうだよ	
-MAP93_e9_p0_3_c1	ちがうよ	
-MAP93_e9_p1_3_c0	そうだよ	
-MAP93_e9_p1_3_c1	ちがうよ	
-MAP93_e9_p2_4_c0	ありがとう	
-MAP93_e9_p2_4_c1	やめてよ	
-MAP100_e3_p0_16_c0	ありがとう	
-MAP100_e3_p0_16_c1	そんなことはない	
-MAP102_e3_p0_4_c0	ハヤテを使おう	
-MAP102_e3_p0_4_c1	使わなくていいや	
-MAP102_e3_p0_6_c0	フレイム城	
-MAP102_e3_p0_6_c1	セイリュー	
-MAP102_e3_p0_6_c2	旅の宿屋	
-MAP102_e3_p0_6_c4	ウィンダム城	
-MAP102_e4_p0_4_c0	ハヤテを使おう	
-MAP102_e4_p0_4_c1	使わなくていいや	
-MAP102_e4_p0_6_c0	フレイム城	
-MAP102_e4_p0_6_c1	セイリュー	
-MAP102_e4_p0_6_c2	旅の宿屋	
-MAP102_e4_p0_6_c4	ウィンダム城	
-MAP102_e5_p0_4_c0	ハヤテを使おう	
-MAP102_e5_p0_4_c1	使わなくていいや	
-MAP102_e5_p0_6_c0	フレイム城	
-MAP102_e5_p0_6_c1	セイリュー	
-MAP102_e5_p0_6_c2	旅の宿屋	
-MAP102_e5_p0_6_c4	ウィンダム城	
-MAP102_e6_p0_18_c0	入ろう	
-MAP102_e6_p0_18_c1	引き返そう	
+MAP5_e32_p0_3_c0	元気だよ	I'm fine
+MAP5_e32_p0_3_c1	そうでもない	Not really
+MAP5_e33_p0_4_c0	知ってる	I know
+MAP5_e33_p0_4_c1	知らない	I don't know
+MAP6_e15_p0_3_c0	休んでいく	Rest here
+MAP6_e15_p0_3_c1	休まない	Don't rest
+MAP6_e16_p0_3_c0	休んでいく	Rest here
+MAP6_e16_p0_3_c1	休まない	Don't rest
+MAP6_e17_p0_3_c0	休んでいく	Rest here
+MAP6_e17_p0_3_c1	休まない	Don't rest
+MAP6_e18_p0_3_c0	休んでいく	Rest here
+MAP6_e18_p0_3_c1	休まない	Don't rest
+MAP6_e19_p0_3_c0	休んでいく	Rest here
+MAP6_e19_p0_3_c1	休まない	Don't rest
+MAP6_e20_p0_3_c0	休んでいく	Rest here
+MAP6_e20_p0_3_c1	休まない	Don't rest
+MAP6_e39_p0_3_c0	読んでみる	Read it
+MAP6_e39_p0_3_c1	読まない	Don't read it
+MAP6_e40_p0_3_c0	読んでみる	Read it
+MAP6_e40_p0_3_c1	読まない	Don't read it
+MAP6_e46_p0_4_c0	最近どうですか	How are you these days?
+MAP6_e46_p0_4_c1	用はありません	No business here
+MAP6_e52_p0_3_c0	敬礼を返す	Return the salute
+MAP6_e52_p0_3_c1	おじぎをする	Bow
+MAP6_e53_p0_3_c0	ありがとう	Thank you
+MAP6_e53_p0_3_c1	そちらこそご苦労様です	Likewise, thanks for your hard work
+MAP6_e56_p0_4_c0	そうだよ	That's right
+MAP6_e56_p0_4_c1	違うよ	That's wrong
+MAP6_e57_p0_3_c0	読んでみる	Read it
+MAP6_e57_p0_3_c1	読まない	Don't read it
+MAP6_e61_p0_4_c0	疲れたー	I'm beat
+MAP6_e61_p0_4_c1	元気だよ	I'm fine
+MAP6_e64_p0_3_c0	調べてる	Looking into it
+MAP6_e64_p0_3_c1	ぜんぜん	Not at all
+MAP7_e11_p0_3_c0	読んでしまう	Read it anyway
+MAP7_e11_p0_3_c1	読まない	Don't read it
+MAP7_e12_p0_3_c0	読んでみる	Read it
+MAP7_e12_p0_3_c1	読まない	Don't read it
+MAP7_e13_p0_3_c0	読む	Read
+MAP7_e13_p0_3_c1	読まない	Don't read it
+MAP7_e14_p0_3_c0	読んでみる	Read it
+MAP7_e14_p0_3_c1	読まない	Don't read it
+MAP7_e15_p0_3_c0	読んでみる	Read it
+MAP7_e15_p0_3_c1	読まない	Don't read it
+MAP7_e16_p0_3_c0	読んでみる	Read it
+MAP7_e16_p0_3_c1	読まない	Don't read it
+MAP7_e17_p0_3_c0	読んでみる	Read it
+MAP7_e17_p0_3_c1	読んでみない	I won't read it
+MAP7_e22_p0_8_c0	売ってるよ	We do sell it
+MAP7_e22_p0_8_c1	えっ　なんのこと	Huh? What do you mean?
+MAP8_e10_p2_4_c0	元気です	I'm well
+MAP8_e10_p2_4_c1	あんまり	Not much
+MAP8_e18_p0_3_c0	読んでみる	Read it
+MAP8_e18_p0_3_c1	読まない	Don't read it
+MAP8_e19_p0_3_c0	読んでみよう	Let's read it
+MAP8_e19_p0_3_c1	読まない	Don't read it
+MAP8_e21_p1_4_c0	別行動なんだ	We're splitting up
+MAP8_e21_p1_4_c1	わからない	I don't know
+MAP8_e4_p1_7_c0	申し訳ございません	I apologize
+MAP8_e4_p1_7_c1	陛下とお話させて下さい	Please let me speak with His Majesty
+MAP8_e5_p0_3_c0	いい感じ	Feels good
+MAP8_e5_p0_3_c1	ぼちぼち	Getting along
+MAP8_e5_p2_3_c0	うん	Yeah
+MAP8_e5_p2_3_c1	別行動なんだ	We're splitting up
+MAP8_e5_p3_4_c0	うん	Yeah
+MAP8_e5_p3_4_c1	ちがうよ	That's not it
+MAP8_e6_p0_3_c0	そうだよ	That's right
+MAP8_e6_p0_3_c1	ちがうよ	That's not it
+MAP8_e6_p2_3_c0	そうだよ	That's right
+MAP8_e6_p2_3_c1	ちがうよ	That's not it
+MAP8_e6_p3_4_c0	ありがとう	Thank you
+MAP8_e6_p3_4_c1	やめてよ	Stop it
+MAP9_e10_p0_2_c0	読んでみる	Read it
+MAP9_e10_p0_2_c1	読まない	Don't read it
+MAP9_e10_p1_2_c0	読んでみる	Read it
+MAP9_e10_p1_2_c1	読まない	Don't read it
+MAP9_e11_p0_3_c0	読んでみる	Read it
+MAP9_e11_p0_3_c1	読まない	Don't read it
+MAP9_e4_p0_3_c0	泊まりたい	I'd like to stay
+MAP9_e4_p0_3_c1	ちょっと寄ってみただけ	Just stopping by
+MAP9_e4_p0_9_c0	泊まらせてもらいます	We'll stay then
+MAP9_e4_p0_9_c1	やっぱりやめます	Actually, never mind
+MAP12_e3_p0_4_c0	うん	Yeah
+MAP12_e3_p0_4_c1	ダメ	No good
+MAP12_e4_p0_4_c0	うん	Yeah
+MAP12_e4_p0_4_c1	違うよ	That's wrong
+MAP15_e10_p0_3_c0	読んでみる	Read it
+MAP15_e10_p0_3_c1	読まない	Don't read it
+MAP15_e11_p0_3_c0	君に会いに来たんだ	I came to see you
+MAP15_e11_p0_3_c1	どうもしないよ	Nothing much
+MAP15_e13_p0_3_c0	読んでみる	Read it
+MAP15_e13_p0_3_c1	読まない	Don't read it
+MAP15_e7_p0_3_c0	読んでみる	Read it
+MAP15_e7_p0_3_c1	読まない	Don't read it
+MAP15_e8_p0_3_c0	読んでみる	Read it
+MAP15_e8_p0_3_c1	読まない	Don't read it
+MAP15_e9_p0_3_c0	読んでみる	Read it
+MAP15_e9_p0_3_c1	読まない	Don't read it
+MAP17_e4_p1_4_c0	はい	Yes
+MAP17_e4_p1_4_c1	いいえ	No
+MAP17_e5_p1_9_c0	狂戦士のキノコです	It's a Berserker Mushroom
+MAP17_e5_p1_9_c1	内緒です	It's a secret
+MAP18_e3_p0_5_c0	食べます	I'll eat it
+MAP18_e3_p0_5_c1	また今度来ます	I'll come again
+MAP19_e11_p0_4_c0	もちろん	Of course
+MAP19_e11_p0_4_c1	どうかな	I wonder
+MAP19_e12_p0_4_c0	そうだよ	That's right
+MAP19_e12_p0_4_c1	そうでもない	Not really
+MAP19_e13_p0_3_c0	読んでみる	Read it
+MAP19_e13_p0_3_c1	読まない	Don't read it
+MAP19_e14_p0_3_c0	読んでみる	Read it
+MAP19_e14_p0_3_c1	読まない	Don't read it
+MAP19_e17_p0_3_c0	読んでみる	Read it
+MAP19_e17_p0_3_c1	読まない	Don't read it
+MAP19_e18_p0_3_c0	読んでみる	Read it
+MAP19_e18_p0_3_c1	読まない	Don't read it
+MAP19_e3_p0_16_c0	わかった	Got it
+MAP19_e3_p0_16_c1	ちょっと無理かな	That might be a stretch
+MAP19_e3_p0_4_c0	何か困りごとないか？	Any trouble?
+MAP19_e3_p0_4_c1	ごめんなさい	I'm sorry
+MAP21_e13_p3_23_c0	聞きます	I'll listen
+MAP21_e13_p3_23_c1	聞きません	I won't listen
+MAP21_e14_p0_3_c0	読んでみる	Read it
+MAP21_e14_p0_3_c1	読まない	Don't read it
+MAP21_e15_p0_3_c0	読んでみる	Read it
+MAP21_e15_p0_3_c1	読まない	Don't read it
+MAP22_e6_p0_19_c0	走り抜ける	Run through
+MAP22_e6_p0_19_c1	慎重に進む	Proceed carefully
+MAP22_e6_p0_56_c0	ありがとう	Thank you
+MAP22_e6_p0_56_c1	そんなことはない	That's not true
+MAP24_e3_p0_17_c0	ありがとう	Thank you
+MAP24_e3_p0_17_c1	そんなことはない	That's not true
+MAP26_e20_p0_8_c0	この通行手形あげます	I'll give you this permit
+MAP26_e20_p0_8_c1	大変ですね	That's rough
+MAP27_e1_p0_2_c0	出よう	Let's leave
+MAP27_e1_p0_2_c1	探索しよう	Let's search
+MAP27_e1_p1_2_c0	出よう	Let's leave
+MAP27_e1_p1_2_c1	探索しよう	Let's search
+MAP28_e3_p0_10_c0	泊まらせてもらいます	We'll stay then
+MAP28_e3_p0_10_c1	やっぱりやめます	Actually, never mind
+MAP28_e3_p0_4_c0	泊まりたい	I'd like to stay
+MAP28_e3_p0_4_c1	ちょっと寄ってみただけ	Just stopping by
+MAP30_e10_p0_4_c0	占ってください	Tell my fortune
+MAP30_e10_p0_4_c1	また今度で	Some other time
+MAP30_e6_p0_10_c0	泊まらせてもらいます	We'll stay then
+MAP30_e6_p0_10_c1	やっぱりやめます	Actually, never mind
+MAP30_e6_p0_4_c0	泊まりたい	I'd like to stay
+MAP30_e6_p0_4_c1	ちょっと寄ってみただけ	Just stopping by
+MAP31_e25_p0_4_c0	どうぞ	Go ahead
+MAP31_e25_p0_4_c1	いやだ	No way
+MAP31_e26_p0_4_c0	どうぞ	Go ahead
+MAP31_e26_p0_4_c1	なんで？	Why?
+MAP32_e42_p0_3_c0	読んでみる	Read it
+MAP32_e42_p0_3_c1	読まない	Don't read it
+MAP32_e43_p0_3_c0	読んでみる	Read it
+MAP32_e43_p0_3_c1	読まない	Don't read it
+MAP32_e52_p0_5_c0	そうだね	Yeah, you're right
+MAP32_e52_p0_5_c1	そんなことない	That's not true
+MAP33_e10_p0_3_c0	読んでみる	Read it
+MAP33_e10_p0_3_c1	読まない	Don't read it
+MAP33_e11_p0_3_c0	読んでみる	Read it
+MAP33_e11_p0_3_c1	読まない	Don't read it
+MAP33_e12_p0_3_c0	読んでみる	Read it
+MAP33_e12_p0_3_c1	読まない	Don't read it
+MAP33_e13_p0_3_c0	読んでみる	Read it
+MAP33_e13_p0_3_c1	読まない	Don't read it
+MAP33_e14_p0_3_c0	読んでみる	Read it
+MAP33_e14_p0_3_c1	読まない	Don't read it
+MAP33_e16_p0_3_c0	読んでみる	Read it
+MAP33_e16_p0_3_c1	読まない	Don't read it
+MAP33_e17_p0_3_c0	読んでみる	Read it
+MAP33_e17_p0_3_c1	読まない	Don't read it
+MAP33_e4_p0_4_c0	読んでみる	Read it
+MAP33_e4_p0_4_c1	読まない	Don't read it
+MAP33_e4_p1_4_c0	読んでみる	Read it
+MAP33_e4_p1_4_c1	読まない	Don't read it
+MAP33_e4_p2_4_c0	読んでみる	Read it
+MAP33_e4_p2_4_c1	読まない	Don't read it
+MAP33_e5_p0_4_c0	読んでみる	Read it
+MAP33_e5_p0_4_c1	読まない	Don't read it
+MAP33_e5_p1_4_c0	読んでみる	Read it
+MAP33_e5_p1_4_c1	読まない	Don't read it
+MAP33_e5_p2_4_c0	読んでみる	Read it
+MAP33_e5_p2_4_c1	読まない	Don't read it
+MAP34_e3_p0_9_c0	行ってくる	I'm off
+MAP34_e3_p0_9_c1	戻る	Go back
+MAP34_e4_p1_4_c0	出る	Leave
+MAP34_e4_p1_4_c1	もう少しだけ	Just a bit more
+MAP34_e5_p0_21_c0	もう大丈夫ですよ	We're fine now
+MAP34_e5_p0_21_c1	キノコの食べ過ぎ注意です	Careful not to eat too many mushrooms
+MAP34_e5_p1_21_c0	もう大丈夫ですよ	We're fine now
+MAP34_e5_p1_21_c1	キノコの食べ過ぎ注意です	Careful not to eat too many mushrooms
+MAP37_e18_p0_3_c0	読んでみる	Read it
+MAP37_e18_p0_3_c1	読まない	Don't read it
+MAP37_e19_p0_3_c0	読んでみよう	Let's read it
+MAP37_e19_p0_3_c1	読まない	Don't read it
+MAP37_e20_p0_3_c0	いい感じ	Feels good
+MAP37_e20_p0_3_c1	ぼちぼち	Getting along
+MAP37_e21_p0_3_c0	そうだよ	That's right
+MAP37_e21_p0_3_c1	ちがうよ	That's not it
+MAP37_e22_p0_3_c0	そうだよ	That's right
+MAP37_e22_p0_3_c1	ちがうよ	That's not it
+MAP37_e23_p0_3_c0	いい感じ	Feels good
+MAP37_e23_p0_3_c1	ぼちぼち	Getting along
+MAP37_e4_p1_7_c0	申し訳ございません	I apologize
+MAP37_e4_p1_7_c1	陛下とお話させて下さい	Please let me speak with His Majesty
+MAP37_e5_p0_3_c0	いい感じ	Feels good
+MAP37_e5_p0_3_c1	ぼちぼち	Getting along
+MAP37_e6_p0_3_c0	そうだよ	That's right
+MAP37_e6_p0_3_c1	ちがうよ	That's not it
+MAP42_e3_p0_5_c0	食べます	I'll eat it
+MAP42_e3_p0_5_c1	また今度来ます	I'll come again
+MAP45_e6_p0_10_c0	泊まらせてもらいます	We'll stay then
+MAP45_e6_p0_10_c1	やっぱりやめます	Actually, never mind
+MAP45_e6_p0_4_c0	泊まりたい	I'd like to stay
+MAP45_e6_p0_4_c1	ちょっと寄ってみただけ	Just stopping by
+MAP47_e8_p0_3_c0	読んでみる	Read it
+MAP47_e8_p0_3_c1	読まない	Don't read it
+MAP47_e9_p1_19_c0	いいですよ	Sure
+MAP47_e9_p1_19_c1	お断りします	I'll decline
+MAP47_e9_p1_8_c0	持ってます	I have it
+MAP47_e9_p1_8_c1	持ってません	I don't have it
+MAP49_e2_p2_26_c0	もちろん	Of course
+MAP49_e2_p2_26_c1	ダメだよ	No way
+MAP51_e3_p0_10_c0	泊まらせてもらいます	We'll stay then
+MAP51_e3_p0_10_c1	やっぱりやめます	Actually, never mind
+MAP51_e3_p0_5_c0	泊まりたい	I'd like to stay
+MAP51_e3_p0_5_c1	ちょっと寄ってみただけ	Just stopping by
+MAP51_e3_p1_13_c0	泊まらせてもらいます	We'll stay then
+MAP51_e3_p1_13_c1	やっぱりやめます	Actually, never mind
+MAP51_e3_p1_5_c0	泊まりたい	I'd like to stay
+MAP51_e3_p1_5_c1	ちょっと寄ってみただけ	Just stopping by
+MAP53_e5_p0_5_c0	いただきます	Dig in
+MAP53_e5_p0_5_c1	遠慮しておきます	I'll pass
+MAP53_e5_p1_5_c0	いただきます	Dig in
+MAP53_e5_p1_5_c1	遠慮しておきます	I'll pass
+MAP61_e10_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e10_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e10_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e10_p1_6_c1	フレイム城	Flame Castle
+MAP61_e10_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e10_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e10_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e10_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e10_p2_6_c1	フレイム城	Flame Castle
+MAP61_e10_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e11_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e11_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e11_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e11_p1_6_c1	フレイム城	Flame Castle
+MAP61_e11_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e11_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e11_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e11_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e11_p2_6_c1	フレイム城	Flame Castle
+MAP61_e11_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e12_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e12_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e12_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e12_p1_6_c1	フレイム城	Flame Castle
+MAP61_e12_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e12_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e12_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e12_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e12_p2_6_c1	フレイム城	Flame Castle
+MAP61_e12_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e13_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e13_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e13_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e13_p1_6_c1	フレイム城	Flame Castle
+MAP61_e13_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e13_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e13_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e13_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e13_p2_6_c1	フレイム城	Flame Castle
+MAP61_e13_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e14_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e14_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e14_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e14_p1_6_c1	フレイム城	Flame Castle
+MAP61_e14_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e14_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e14_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e14_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e14_p2_6_c1	フレイム城	Flame Castle
+MAP61_e14_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e15_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e15_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e15_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e15_p1_6_c1	フレイム城	Flame Castle
+MAP61_e15_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e15_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e15_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e15_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e15_p2_6_c1	フレイム城	Flame Castle
+MAP61_e15_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e16_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e16_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e16_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e16_p1_6_c1	フレイム城	Flame Castle
+MAP61_e16_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e16_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e16_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e16_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e16_p2_6_c1	フレイム城	Flame Castle
+MAP61_e16_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e17_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e17_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e17_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e17_p1_6_c1	フレイム城	Flame Castle
+MAP61_e17_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e17_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e17_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e17_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e17_p2_6_c1	フレイム城	Flame Castle
+MAP61_e17_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e20_p1_8_c0	出発しよう	Let's set out
+MAP61_e20_p1_8_c1	まだ準備しよう	Let's get ready first
+MAP61_e7_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e7_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e7_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e7_p1_6_c1	フレイム城	Flame Castle
+MAP61_e7_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e7_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e7_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e7_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e7_p2_6_c1	フレイム城	Flame Castle
+MAP61_e7_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e8_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e8_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e8_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e8_p1_6_c1	フレイム城	Flame Castle
+MAP61_e8_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e8_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e8_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e8_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e8_p2_6_c1	フレイム城	Flame Castle
+MAP61_e8_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e9_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e9_p1_4_c1	使わなくていいや	No, let's not
+MAP61_e9_p1_6_c0	ウィンダム城	Windam Castle
+MAP61_e9_p1_6_c1	フレイム城	Flame Castle
+MAP61_e9_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP61_e9_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP61_e9_p2_4_c1	使わなくていいや	No, let's not
+MAP61_e9_p2_6_c0	ウィンダム城	Windam Castle
+MAP61_e9_p2_6_c1	フレイム城	Flame Castle
+MAP61_e9_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP62_e2_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP62_e2_p2_4_c1	使わなくていいや	No, let's not
+MAP62_e2_p2_6_c0	フレイム城	Flame Castle
+MAP62_e2_p2_6_c1	セイリュー	Seiryu
+MAP62_e2_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP62_e39_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP62_e39_p2_4_c1	使わなくていいや	No, let's not
+MAP62_e39_p2_6_c0	フレイム城	Flame Castle
+MAP62_e39_p2_6_c1	セイリュー	Seiryu
+MAP62_e39_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP62_e3_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP62_e3_p2_4_c1	使わなくていいや	No, let's not
+MAP62_e3_p2_6_c0	フレイム城	Flame Castle
+MAP62_e3_p2_6_c1	セイリュー	Seiryu
+MAP62_e3_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP63_e34_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP63_e34_p0_4_c1	使わなくていいや	No, let's not
+MAP63_e34_p0_6_c0	ウィンダム城	Windam Castle
+MAP63_e34_p0_6_c1	セイリュー	Seiryu
+MAP63_e34_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP63_e34_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP63_e34_p1_4_c1	使わなくていいや	No, let's not
+MAP63_e34_p1_6_c0	ウィンダム城	Windam Castle
+MAP63_e34_p1_6_c1	セイリュー	Seiryu
+MAP63_e34_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP63_e42_p0_3_c0	読んでみる	Read it
+MAP63_e42_p0_3_c1	読まない	Don't read it
+MAP63_e43_p0_3_c0	読んでみる	Read it
+MAP63_e43_p0_3_c1	読まない	Don't read it
+MAP63_e46_p0_4_c0	どうぞ	Go ahead
+MAP63_e46_p0_4_c1	いやだ	No way
+MAP63_e46_p1_4_c0	どうぞ	Go ahead
+MAP63_e46_p1_4_c1	いやだ	No way
+MAP64_e10_p0_3_c0	読んでみる	Read it
+MAP64_e10_p0_3_c1	読まない	Don't read it
+MAP64_e11_p0_3_c0	読んでみる	Read it
+MAP64_e11_p0_3_c1	読まない	Don't read it
+MAP64_e12_p0_3_c0	読んでみる	Read it
+MAP64_e12_p0_3_c1	読まない	Don't read it
+MAP64_e13_p0_3_c0	読んでみる	Read it
+MAP64_e13_p0_3_c1	読まない	Don't read it
+MAP64_e14_p0_3_c0	読んでみる	Read it
+MAP64_e14_p0_3_c1	読まない	Don't read it
+MAP64_e16_p0_3_c0	読んでみる	Read it
+MAP64_e16_p0_3_c1	読まない	Don't read it
+MAP64_e34_p0_3_c0	読んでみる	Read it
+MAP64_e34_p0_3_c1	読まない	Don't read it
+MAP64_e4_p0_4_c0	読んでみる	Read it
+MAP64_e4_p0_4_c1	読まない	Don't read it
+MAP64_e4_p1_4_c0	読んでみる	Read it
+MAP64_e4_p1_4_c1	読まない	Don't read it
+MAP64_e4_p2_4_c0	読んでみる	Read it
+MAP64_e4_p2_4_c1	読まない	Don't read it
+MAP64_e5_p0_4_c0	読んでみる	Read it
+MAP64_e5_p0_4_c1	読まない	Don't read it
+MAP64_e5_p1_4_c0	読んでみる	Read it
+MAP64_e5_p1_4_c1	読まない	Don't read it
+MAP64_e5_p2_4_c0	読んでみる	Read it
+MAP64_e5_p2_4_c1	読まない	Don't read it
+MAP65_e18_p0_3_c0	読んでみる	Read it
+MAP65_e18_p0_3_c1	読まない	Don't read it
+MAP65_e19_p0_3_c0	読んでみよう	Let's read it
+MAP65_e19_p0_3_c1	読まない	Don't read it
+MAP65_e33_p0_9_c0	もちろん	Of course
+MAP65_e33_p0_9_c1	まだです	Not yet
+MAP65_e34_p0_9_c0	もちろん	Of course
+MAP65_e34_p0_9_c1	まだです	Not yet
+MAP65_e35_p0_9_c0	もちろん	Of course
+MAP65_e35_p0_9_c1	まだです	Not yet
+MAP65_e5_p0_3_c0	いい感じ	Feels good
+MAP65_e5_p0_3_c1	ぼちぼち	Getting along
+MAP65_e6_p0_3_c0	そうだよ	That's right
+MAP65_e6_p0_3_c1	ちがうよ	That's not it
+MAP66_e10_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP66_e10_p0_4_c1	使わなくていいや	No, let's not
+MAP66_e10_p0_6_c0	フレイム城	Flame Castle
+MAP66_e10_p0_6_c1	セイリュー	Seiryu
+MAP66_e10_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP66_e10_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP66_e10_p1_4_c1	使わなくていいや	No, let's not
+MAP66_e10_p1_6_c0	フレイム城	Flame Castle
+MAP66_e10_p1_6_c1	セイリュー	Seiryu
+MAP66_e10_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP66_e11_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP66_e11_p0_4_c1	使わなくていいや	No, let's not
+MAP66_e11_p0_6_c0	フレイム城	Flame Castle
+MAP66_e11_p0_6_c1	セイリュー	Seiryu
+MAP66_e11_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP66_e11_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP66_e11_p1_4_c1	使わなくていいや	No, let's not
+MAP66_e11_p1_6_c0	フレイム城	Flame Castle
+MAP66_e11_p1_6_c1	セイリュー	Seiryu
+MAP66_e11_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP66_e15_p0_3_c0	休んでいく	Rest here
+MAP66_e15_p0_3_c1	休まない	Don't rest
+MAP66_e16_p0_3_c0	休んでいく	Rest here
+MAP66_e16_p0_3_c1	休まない	Don't rest
+MAP66_e17_p0_3_c0	休んでいく	Rest here
+MAP66_e17_p0_3_c1	休まない	Don't rest
+MAP66_e18_p0_3_c0	休んでいく	Rest here
+MAP66_e18_p0_3_c1	休まない	Don't rest
+MAP66_e19_p0_3_c0	休んでいく	Rest here
+MAP66_e19_p0_3_c1	休まない	Don't rest
+MAP66_e20_p0_3_c0	休んでいく	Rest here
+MAP66_e20_p0_3_c1	休まない	Don't rest
+MAP66_e39_p0_3_c0	読んでみる	Read it
+MAP66_e39_p0_3_c1	読まない	Don't read it
+MAP66_e40_p0_3_c0	読んでみる	Read it
+MAP66_e40_p0_3_c1	読まない	Don't read it
+MAP66_e43_p0_4_c0	大丈夫	It's fine
+MAP66_e43_p0_4_c1	きつい	Too much
+MAP66_e46_p0_4_c0	分かります	I understand
+MAP66_e46_p0_4_c1	分かりません	I don't understand
+MAP66_e57_p0_3_c0	読んでみる	Read it
+MAP66_e57_p0_3_c1	読まない	Don't read it
+MAP66_e61_p0_3_c0	疲れたー	I'm beat
+MAP66_e61_p0_3_c1	元気だよ	I'm fine
+MAP66_e61_p1_4_c0	疲れたー	I'm beat
+MAP66_e61_p1_4_c1	元気だよ	I'm fine
+MAP66_e65_p0_9_c0	パン買います	I'll buy bread
+MAP66_e65_p0_9_c1	パンいらない	No bread for me
+MAP66_e9_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP66_e9_p0_4_c1	使わなくていいや	No, let's not
+MAP66_e9_p0_6_c0	フレイム城	Flame Castle
+MAP66_e9_p0_6_c1	セイリュー	Seiryu
+MAP66_e9_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP66_e9_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP66_e9_p1_4_c1	使わなくていいや	No, let's not
+MAP66_e9_p1_6_c0	フレイム城	Flame Castle
+MAP66_e9_p1_6_c1	セイリュー	Seiryu
+MAP66_e9_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP67_e11_p0_3_c0	読んでしまう	Read it anyway
+MAP67_e11_p0_3_c1	読まない	Don't read it
+MAP67_e12_p0_3_c0	読んでみる	Read it
+MAP67_e12_p0_3_c1	読まない	Don't read it
+MAP67_e13_p0_3_c0	読む	Read
+MAP67_e13_p0_3_c1	読まない	Don't read it
+MAP67_e14_p0_3_c0	読んでみる	Read it
+MAP67_e14_p0_3_c1	読まない	Don't read it
+MAP67_e15_p0_3_c0	読んでみる	Read it
+MAP67_e15_p0_3_c1	読まない	Don't read it
+MAP67_e16_p0_3_c0	読んでみる	Read it
+MAP67_e16_p0_3_c1	読まない	Don't read it
+MAP67_e17_p0_3_c0	読んでみる	Read it
+MAP67_e17_p0_3_c1	読んでみない	I won't read it
+MAP67_e24_p1_24_c0	あげます	I'll give it
+MAP67_e24_p1_24_c1	あげられないな	I can't give it
+MAP67_e25_p0_8_c0	売ってるよ	We do sell it
+MAP67_e25_p0_8_c1	えっ　なんのこと	Huh? What do you mean?
+MAP67_e25_p1_8_c0	そうだね	Yeah, you're right
+MAP67_e25_p1_8_c1	そんなことないよ	That's not true
+MAP72_e10_p0_4_c0	占ってください	Tell my fortune
+MAP72_e10_p0_4_c1	また今度で	Some other time
+MAP72_e6_p0_10_c0	泊まらせてもらいます	We'll stay then
+MAP72_e6_p0_10_c1	やっぱりやめます	Actually, never mind
+MAP72_e6_p0_4_c0	泊まりたい	I'd like to stay
+MAP72_e6_p0_4_c1	ちょっと寄ってみただけ	Just stopping by
+MAP74_e5_p0_5_c0	いただきます	Dig in
+MAP74_e5_p0_5_c1	遠慮しておきます	I'll pass
+MAP74_e5_p1_5_c0	いただきます	Dig in
+MAP74_e5_p1_5_c1	遠慮しておきます	I'll pass
+MAP75_e12_p0_4_c0	槍派だね	You're a spear man
+MAP75_e12_p0_4_c1	槍は使わない	I don't use spears
+MAP75_e13_p0_3_c0	読んでみる	Read it
+MAP75_e13_p0_3_c1	読まない	Don't read it
+MAP75_e14_p0_3_c0	読んでみる	Read it
+MAP75_e14_p0_3_c1	読まない	Don't read it
+MAP75_e17_p0_3_c0	読んでみる	Read it
+MAP75_e17_p0_3_c1	読まない	Don't read it
+MAP75_e18_p0_3_c0	読んでみる	Read it
+MAP75_e18_p0_3_c1	読まない	Don't read it
+MAP76_e7_p0_3_c0	敬礼を返す	Return the salute
+MAP76_e7_p0_3_c1	おじぎをする	Bow
+MAP77_e6_p0_4_c0	よろしく	Nice to meet you
+MAP77_e6_p0_4_c1	しっかりしろ	Pull yourself together
+MAP78_e3_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP78_e3_p0_4_c1	使わなくていいや	No, let's not
+MAP78_e3_p0_6_c0	フレイム城	Flame Castle
+MAP78_e3_p0_6_c1	セイリュー	Seiryu
+MAP78_e3_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP78_e3_p0_6_c4	ウィンダム城	Windam Castle
+MAP78_e4_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP78_e4_p0_4_c1	使わなくていいや	No, let's not
+MAP78_e4_p0_6_c0	フレイム城	Flame Castle
+MAP78_e4_p0_6_c1	セイリュー	Seiryu
+MAP78_e4_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP78_e4_p0_6_c4	ウィンダム城	Windam Castle
+MAP78_e5_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP78_e5_p0_4_c1	使わなくていいや	No, let's not
+MAP78_e5_p0_6_c0	フレイム城	Flame Castle
+MAP78_e5_p0_6_c1	セイリュー	Seiryu
+MAP78_e5_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP78_e5_p0_6_c4	ウィンダム城	Windam Castle
+MAP78_e6_p0_18_c0	入ろう	Let's go in
+MAP78_e6_p0_18_c1	引き返そう	Let's turn back
+MAP85_e5_p0_3_c0	いい感じ	Feels good
+MAP85_e5_p0_3_c1	ぼちぼち	Getting along
+MAP85_e5_p1_3_c0	うん	Yeah
+MAP85_e5_p1_3_c1	別行動なんだ	We're splitting up
+MAP85_e5_p2_4_c0	うん	Yeah
+MAP85_e5_p2_4_c1	ちがうよ	That's not it
+MAP85_e6_p0_3_c0	そうだよ	That's right
+MAP85_e6_p0_3_c1	ちがうよ	That's not it
+MAP85_e6_p1_3_c0	そうだよ	That's right
+MAP85_e6_p1_3_c1	ちがうよ	That's not it
+MAP85_e6_p2_4_c0	ありがとう	Thank you
+MAP85_e6_p2_4_c1	やめてよ	Stop it
+MAP87_e10_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e10_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e10_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e10_p1_6_c1	フレイム城	Flame Castle
+MAP87_e10_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e10_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e10_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e10_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e10_p2_6_c1	フレイム城	Flame Castle
+MAP87_e10_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e11_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e11_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e11_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e11_p1_6_c1	フレイム城	Flame Castle
+MAP87_e11_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e11_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e11_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e11_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e11_p2_6_c1	フレイム城	Flame Castle
+MAP87_e11_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e12_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e12_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e12_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e12_p1_6_c1	フレイム城	Flame Castle
+MAP87_e12_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e12_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e12_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e12_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e12_p2_6_c1	フレイム城	Flame Castle
+MAP87_e12_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e13_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e13_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e13_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e13_p1_6_c1	フレイム城	Flame Castle
+MAP87_e13_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e13_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e13_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e13_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e13_p2_6_c1	フレイム城	Flame Castle
+MAP87_e13_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e14_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e14_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e14_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e14_p1_6_c1	フレイム城	Flame Castle
+MAP87_e14_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e14_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e14_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e14_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e14_p2_6_c1	フレイム城	Flame Castle
+MAP87_e14_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e15_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e15_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e15_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e15_p1_6_c1	フレイム城	Flame Castle
+MAP87_e15_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e15_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e15_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e15_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e15_p2_6_c1	フレイム城	Flame Castle
+MAP87_e15_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e16_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e16_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e16_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e16_p1_6_c1	フレイム城	Flame Castle
+MAP87_e16_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e16_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e16_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e16_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e16_p2_6_c1	フレイム城	Flame Castle
+MAP87_e16_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e17_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e17_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e17_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e17_p1_6_c1	フレイム城	Flame Castle
+MAP87_e17_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e17_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e17_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e17_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e17_p2_6_c1	フレイム城	Flame Castle
+MAP87_e17_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e20_p1_8_c0	出発しよう	Let's set out
+MAP87_e20_p1_8_c1	まだ準備しよう	Let's get ready first
+MAP87_e7_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e7_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e7_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e7_p1_6_c1	フレイム城	Flame Castle
+MAP87_e7_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e7_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e7_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e7_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e7_p2_6_c1	フレイム城	Flame Castle
+MAP87_e7_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e8_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e8_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e8_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e8_p1_6_c1	フレイム城	Flame Castle
+MAP87_e8_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e8_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e8_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e8_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e8_p2_6_c1	フレイム城	Flame Castle
+MAP87_e8_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e9_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e9_p1_4_c1	使わなくていいや	No, let's not
+MAP87_e9_p1_6_c0	ウィンダム城	Windam Castle
+MAP87_e9_p1_6_c1	フレイム城	Flame Castle
+MAP87_e9_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP87_e9_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP87_e9_p2_4_c1	使わなくていいや	No, let's not
+MAP87_e9_p2_6_c0	ウィンダム城	Windam Castle
+MAP87_e9_p2_6_c1	フレイム城	Flame Castle
+MAP87_e9_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP88_e15_p6_10_c0	取り出してみる	Take it out
+MAP88_e15_p6_10_c1	そのままにしておく	Leave it as is
+MAP88_e15_p6_23_c0	取り出してみる	Take it out
+MAP88_e15_p6_23_c1	そのままにしておく	Leave it as is
+MAP88_e15_p7_10_c0	引っ張ってみる	Pull it
+MAP88_e15_p7_10_c1	そのままにしておく	Leave it as is
+MAP88_e15_p7_23_c0	引っ張ってみる	Pull it
+MAP88_e15_p7_23_c1	そのままにしておく	Leave it as is
+MAP88_e15_p8_10_c0	引っ張ってみる	Pull it
+MAP88_e15_p8_10_c1	そのままにしておく	Leave it as is
+MAP88_e15_p8_23_c0	引っ張ってみる	Pull it
+MAP88_e15_p8_23_c1	そのままにしておく	Leave it as is
+MAP90_e7_p0_3_c0	敬礼を返す	Return the salute
+MAP90_e7_p0_3_c1	おじぎをする	Bow
+MAP91_e10_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e10_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e10_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e10_p1_6_c1	フレイム城	Flame Castle
+MAP91_e10_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e10_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e10_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e10_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e10_p2_6_c1	フレイム城	Flame Castle
+MAP91_e10_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e11_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e11_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e11_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e11_p1_6_c1	フレイム城	Flame Castle
+MAP91_e11_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e11_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e11_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e11_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e11_p2_6_c1	フレイム城	Flame Castle
+MAP91_e11_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e12_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e12_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e12_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e12_p1_6_c1	フレイム城	Flame Castle
+MAP91_e12_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e12_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e12_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e12_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e12_p2_6_c1	フレイム城	Flame Castle
+MAP91_e12_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e13_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e13_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e13_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e13_p1_6_c1	フレイム城	Flame Castle
+MAP91_e13_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e13_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e13_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e13_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e13_p2_6_c1	フレイム城	Flame Castle
+MAP91_e13_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e14_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e14_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e14_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e14_p1_6_c1	フレイム城	Flame Castle
+MAP91_e14_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e14_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e14_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e14_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e14_p2_6_c1	フレイム城	Flame Castle
+MAP91_e14_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e15_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e15_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e15_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e15_p1_6_c1	フレイム城	Flame Castle
+MAP91_e15_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e15_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e15_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e15_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e15_p2_6_c1	フレイム城	Flame Castle
+MAP91_e15_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e16_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e16_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e16_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e16_p1_6_c1	フレイム城	Flame Castle
+MAP91_e16_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e16_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e16_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e16_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e16_p2_6_c1	フレイム城	Flame Castle
+MAP91_e16_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e17_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e17_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e17_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e17_p1_6_c1	フレイム城	Flame Castle
+MAP91_e17_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e17_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e17_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e17_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e17_p2_6_c1	フレイム城	Flame Castle
+MAP91_e17_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e7_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e7_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e7_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e7_p1_6_c1	フレイム城	Flame Castle
+MAP91_e7_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e7_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e7_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e7_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e7_p2_6_c1	フレイム城	Flame Castle
+MAP91_e7_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e8_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e8_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e8_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e8_p1_6_c1	フレイム城	Flame Castle
+MAP91_e8_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e8_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e8_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e8_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e8_p2_6_c1	フレイム城	Flame Castle
+MAP91_e8_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e9_p1_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e9_p1_4_c1	使わなくていいや	No, let's not
+MAP91_e9_p1_6_c0	ウィンダム城	Windam Castle
+MAP91_e9_p1_6_c1	フレイム城	Flame Castle
+MAP91_e9_p1_6_c2	旅の宿屋	Traveler's Inn
+MAP91_e9_p2_4_c0	ハヤテを使おう	Use Hayate
+MAP91_e9_p2_4_c1	使わなくていいや	No, let's not
+MAP91_e9_p2_6_c0	ウィンダム城	Windam Castle
+MAP91_e9_p2_6_c1	フレイム城	Flame Castle
+MAP91_e9_p2_6_c2	旅の宿屋	Traveler's Inn
+MAP93_e10_p0_453_c0	一応二周目をはじめる	Start a 2nd playthrough
+MAP93_e10_p0_453_c1	これで終りにする	Let's end it here
+MAP93_e10_p1_452_c0	一応３周目をはじめる	Start a 3rd playthrough
+MAP93_e10_p1_452_c1	これで終りにする	Let's end it here
+MAP93_e5_p0_3_c0	いい感じ	Feels good
+MAP93_e5_p0_3_c1	ぼちぼち	Getting along
+MAP93_e5_p1_3_c0	うん	Yeah
+MAP93_e5_p1_3_c1	別行動なんだ	We're splitting up
+MAP93_e5_p2_4_c0	うん	Yeah
+MAP93_e5_p2_4_c1	ちがうよ	That's not it
+MAP93_e6_p0_3_c0	そうだよ	That's right
+MAP93_e6_p0_3_c1	ちがうよ	That's not it
+MAP93_e6_p1_3_c0	そうだよ	That's right
+MAP93_e6_p1_3_c1	ちがうよ	That's not it
+MAP93_e6_p2_4_c0	ありがとう	Thank you
+MAP93_e6_p2_4_c1	やめてよ	Stop it
+MAP93_e8_p0_3_c0	そうだよ	That's right
+MAP93_e8_p0_3_c1	ちがうよ	That's not it
+MAP93_e8_p1_3_c0	そうだよ	That's right
+MAP93_e8_p1_3_c1	ちがうよ	That's not it
+MAP93_e8_p2_4_c0	ありがとう	Thank you
+MAP93_e8_p2_4_c1	やめてよ	Stop it
+MAP93_e9_p0_3_c0	そうだよ	That's right
+MAP93_e9_p0_3_c1	ちがうよ	That's not it
+MAP93_e9_p1_3_c0	そうだよ	That's right
+MAP93_e9_p1_3_c1	ちがうよ	That's not it
+MAP93_e9_p2_4_c0	ありがとう	Thank you
+MAP93_e9_p2_4_c1	やめてよ	Stop it
+MAP100_e3_p0_16_c0	ありがとう	Thank you
+MAP100_e3_p0_16_c1	そんなことはない	That's not true
+MAP102_e3_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP102_e3_p0_4_c1	使わなくていいや	No, let's not
+MAP102_e3_p0_6_c0	フレイム城	Flame Castle
+MAP102_e3_p0_6_c1	セイリュー	Seiryu
+MAP102_e3_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP102_e3_p0_6_c4	ウィンダム城	Windam Castle
+MAP102_e4_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP102_e4_p0_4_c1	使わなくていいや	No, let's not
+MAP102_e4_p0_6_c0	フレイム城	Flame Castle
+MAP102_e4_p0_6_c1	セイリュー	Seiryu
+MAP102_e4_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP102_e4_p0_6_c4	ウィンダム城	Windam Castle
+MAP102_e5_p0_4_c0	ハヤテを使おう	Use Hayate
+MAP102_e5_p0_4_c1	使わなくていいや	No, let's not
+MAP102_e5_p0_6_c0	フレイム城	Flame Castle
+MAP102_e5_p0_6_c1	セイリュー	Seiryu
+MAP102_e5_p0_6_c2	旅の宿屋	Traveler's Inn
+MAP102_e5_p0_6_c4	ウィンダム城	Windam Castle
+MAP102_e6_p0_18_c0	入ろう	Let's go in
+MAP102_e6_p0_18_c1	引き返そう	Let's turn back
