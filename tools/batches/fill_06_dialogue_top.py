@@ -363,9 +363,13 @@ def main():
                                 delimiter="\t")
             w.writeheader()
             w.writerows(rows)
+    # Normalize real newlines in this script's source to the literal "\n"
+    # control code used inside game message strings.
+    norm_d = {k.replace("\n", "\\n"): v.replace("\n", "\\n")
+              for k, v in D.items()}
     with open(PATH, encoding="utf-8") as fh:
         rows = list(csv.DictReader(fh, delimiter="\t"))
-    keyed = {norm(k): v for k, v in D.items()}
+    keyed = {norm(k): v for k, v in norm_d.items()}
     filled = 0
     for r in rows:
         if (r.get("translation") or "").strip():

@@ -189,18 +189,18 @@ MAP6_e41_p3_2	支給したもの以外で欲しいものがある場合は、
 MAP6_e41_p3_20	必要なものがあったら、また来いよ。	
 MAP6_e41_p3_3	自前で金を払ってもらうぜ。	
 MAP6_e41_p3_4	さあ、何が欲しいんだ？	
-MAP6_e42_p0_2	任務に取り掛かる前に、支給品を受け取るのを	
-MAP6_e42_p0_3	忘れるなよ。	
+MAP6_e42_p0_2	任務に取り掛かる前に、支給品を受け取るのを	Before you start your mission, don't forget to
+MAP6_e42_p0_3	忘れるなよ。	pick up your provisions.
 MAP6_e42_p0_6	どこで受け取れるかって？	Where? You ask?
 MAP6_e42_p0_7	お前本当にここの騎士か！？	Are you really a knight of this castle!?
 MAP6_e42_p0_8	…そこ曲がった先の、とっちらかった部屋だ。	...It's the messy room past that corner.
-MAP6_e43_p0_2	任務に取り掛かる前に、支給品を受け取るのを	
-MAP6_e43_p0_3	忘れるなよ。	
+MAP6_e43_p0_2	任務に取り掛かる前に、支給品を受け取るのを	Before you start your mission, don't forget to
+MAP6_e43_p0_3	忘れるなよ。	pick up your provisions.
 MAP6_e43_p0_6	どこで受け取れるかって？	Where? You ask?
 MAP6_e43_p0_7	お前本当にここの騎士か！？	Are you really a knight of this castle!?
 MAP6_e43_p0_8	…そこ曲がった先の、とっちらかった部屋だ。	...It's the messy room past that corner.
-MAP6_e44_p0_2	任務に取り掛かる前に、支給品を受け取るのを	
-MAP6_e44_p0_3	忘れるなよ。	
+MAP6_e44_p0_2	任務に取り掛かる前に、支給品を受け取るのを	Before you start your mission, don't forget to
+MAP6_e44_p0_3	忘れるなよ。	pick up your provisions.
 MAP6_e44_p0_6	どこで受け取れるかって？	Where? You ask?
 MAP6_e44_p0_7	お前本当にここの騎士か！？	Are you really a knight of this castle!?
 MAP6_e44_p0_8	…そこ曲がった先の、とっちらかった部屋だ。	...It's the messy room past that corner.
@@ -419,26 +419,26 @@ MAP7_e22_p0_12	よかったー　あれ、騎士であるあなたが
 MAP7_e22_p0_13	持っていても、何の役にも立ちませんし、	
 MAP7_e22_p0_14	そりゃ売りますよね。　よかったー	
 MAP7_e22_p0_19	あー…　素材や財宝はためこんでも、	
-MAP7_e22_p0_2	ウィンさん、魔物をたおしたときにたまに	
+MAP7_e22_p0_2	ウィンさん、魔物をたおしたときにたまに	Win, sometimes when you defeat monsters,
 MAP7_e22_p0_20	俺ら兵士や騎士には、役に立ちません。	
 MAP7_e22_p0_21	お店で売ってお金に変えた方がいいですよ？	
-MAP7_e22_p0_3	手に入る、魔物の素材とか財宝…	
+MAP7_e22_p0_3	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
 MAP7_e22_p0_4	ちゃんと売ってますか？	
 MAP8_e10_p0_11	随分と焦ってるようだが、それも当然だな。	You look quite flustered, and rightly so.
-MAP8_e10_p0_12	西の監視塔なら、毎月サクソン団長代行が	
-MAP8_e10_p0_13	見回りを命じられているはずだからな。	
+MAP8_e10_p0_12	西の監視塔なら、毎月サクソン団長代行が	As for the West Watchtower, Acting Commander Saxon
+MAP8_e10_p0_13	見回りを命じられているはずだからな。	should be ordered to patrol it every month.
 MAP8_e10_p0_16	ええい、ピピンめ、無礼なあああああ！！	Bah! Pipin, you insolent—!
-MAP8_e10_p0_19	確かに前回の見回りでは異常なかったのだ！	
+MAP8_e10_p0_19	確かに前回の見回りでは異常なかったのだ！	It's true that nothing was abnormal during the last patrol!
 MAP8_e10_p0_2	わしは忙しいのだウィン！邪魔を…	I'm a busy man, Win! Don't bother—
-MAP8_e10_p0_20	魔物どころか、ねずみ一匹さえ、クモ一匹さえ	
-MAP8_e10_p0_21	いなかったのだ！！	
+MAP8_e10_p0_20	魔物どころか、ねずみ一匹さえ、クモ一匹さえ	Not a single monster—not even one mouse,
+MAP8_e10_p0_21	いなかったのだ！！	not even one spider!!
 MAP8_e10_p0_24	どうだかね…。	Who can say...
 MAP8_e10_p0_27	しつこいぞ、ピピン！し、しかし…	Persistent, aren't you, Pipin! B-But...
-MAP8_e10_p0_28	もしかすれば、闇のエレメントの復活が	
-MAP8_e10_p0_29	近いのかも知れぬ…	
-MAP8_e10_p0_3	ん？西の監視塔に人食いの魔物が出たから	
+MAP8_e10_p0_28	もしかすれば、闇のエレメントの復活が	Perhaps the revival of the Dark Element is
+MAP8_e10_p0_29	近いのかも知れぬ…	near...
+MAP8_e10_p0_3	ん？西の監視塔に人食いの魔物が出たから	Hm? A man-eating monster appeared at the West Watchtower, so
 MAP8_e10_p0_32	ふたりとも、気を引き締めていくのだ！！	Both of you, stay sharp!!
-MAP8_e10_p0_4	調査に行く、だと…？	
+MAP8_e10_p0_4	調査に行く、だと…？	you're going to investigate...?
 MAP8_e10_p0_7	そ、それは大変だのう！	T-That is serious indeed!
 MAP8_e10_p0_8	気を付けて行ってまいれよ！	Do go carefully!
 MAP8_e10_p1_2	ふたりとも、気を引き締めていくのだ！！	Both of you, stay sharp!!
@@ -459,8 +459,8 @@ MAP8_e10_p3_6	おぬしのような新米には…重責じゃ。
 MAP8_e10_p3_7	気負い過ぎることなく、いつでも王やわし…	
 MAP8_e10_p3_8	そしてロイを頼るのだぞ？	
 MAP8_e11_p0_2	…サクソンめ、なにが闇のエレメントだ。	...That Saxon, what's this about a Dark Element.
-MAP8_e11_p0_3	自分の能無しを、おとぎ話で誤魔化すなんて、	
-MAP8_e11_p0_4	恥知らずにもほどがある。	
+MAP8_e11_p0_3	自分の能無しを、おとぎ話で誤魔化すなんて、	Covering up his own incompetence with fairy tales—
+MAP8_e11_p0_4	恥知らずにもほどがある。	the shamelessness knows no bounds.
 MAP8_e12_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP8_e13_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP8_e14_p0_2	　　　　　　　　50Gを見つけた！　が…	
@@ -471,29 +471,29 @@ MAP8_e16_p0_1	持ち出して役に立つようなものは何も見つけられ
 MAP8_e17_p0_2	　　　　　　下痢止めの薬を見つけたが…	
 MAP8_e17_p0_3	　　　　　　　　黙ってもとに戻した　	
 MAP8_e18_p0_1	『ウィンダム王国の歴史』	"""History of the Windam Kingdom"""
-MAP8_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	
-MAP8_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	
-MAP8_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	
+MAP8_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
+MAP8_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
+MAP8_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
 MAP8_e18_p0_15	なので、風のエレメントの加護で出来たお城と国である、	
-MAP8_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	
-MAP8_e18_p0_17	信じられている。	
+MAP8_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
+MAP8_e18_p0_17	信じられている。	outside the Windam Kingdom as well.
 MAP8_e18_p0_18	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
 MAP8_e18_p0_2	…と表紙に書かれた本がある。読んでみようか…・	There's a book with these words on the cover. Should we read it...?
-MAP8_e18_p0_6	大昔からある国だと伝わるが、実際にどのくらい大昔から	
-MAP8_e18_p0_7	あるのかは、あまりよく分からない。	
-MAP8_e18_p0_8	色々な本や言い伝えから、500年くらい前には、	
-MAP8_e18_p0_9	国王がいて、兵士がいて、街があったらしい。	
+MAP8_e18_p0_6	大昔からある国だと伝わるが、実際にどのくらい大昔から	The kingdom is said to have existed since ancient times, though
+MAP8_e18_p0_7	あるのかは、あまりよく分からない。	how ancient exactly isn't well known.
+MAP8_e18_p0_8	色々な本や言い伝えから、500年くらい前には、	From various books and legends, it seems that around 500 years ago,
+MAP8_e18_p0_9	国王がいて、兵士がいて、街があったらしい。	there was a king, soldiers, and a town here.
 MAP8_e19_p0_1	『サクソンの日記』	"""Saxon's Diary"""
 MAP8_e19_p0_12	領内を荒らし回っていた野盗の集団を、遂に追い詰めた。	At last, I cornered the bandit gang that had been ravaging the territory.
-MAP8_e19_p0_13	この戦いで大手柄を挙げることで、あのロイを差し置いて	
-MAP8_e19_p0_14	わしが騎士団長になれないものか…。ううむ。	
+MAP8_e19_p0_13	この戦いで大手柄を挙げることで、あのロイを差し置いて	If I distinguish myself in this battle, ahead of that Roi,
+MAP8_e19_p0_14	わしが騎士団長になれないものか…。ううむ。	perhaps I can become Knight Commander... Hmm.
 MAP8_e19_p0_17	もうずっとわしが騎士団長代行のままだ。	I've been Acting Knight Commander all this time.
 MAP8_e19_p0_18	実質的にはわしが騎士団を率いているとはいえ…	Even if in practice I lead the knight order...
 MAP8_e19_p0_19	紋章のないわしにいざとなった時に国を守れるだろうか…	Without a crest, can I really protect the country in a crisis...?
 MAP8_e19_p0_2	…と、表紙に書かれた本がある。読んでみようか…	There's a book with these words on the cover. Should we read it...
-MAP8_e19_p0_7	代々何度も騎士団長、そして風の紋章を受け継いできた	
-MAP8_e19_p0_8	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	
-MAP8_e19_p0_9	とかいう男がいるせいで…。悔しい。	
+MAP8_e19_p0_7	代々何度も騎士団長、そして風の紋章を受け継いできた	My family has inherited the position of Knight Commander and the Wind Crest
+MAP8_e19_p0_8	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	for generations... I too wanted that honor, but because of that man Roi,
+MAP8_e19_p0_9	とかいう男がいるせいで…。悔しい。	How frustrating.
 MAP8_e20_p0_10	これがお前の初めての戦闘任務となる。	
 MAP8_e20_p0_12	西の監視塔に人食いの魔物が巣くっている	
 MAP8_e20_p0_13	という報告があった。	
@@ -511,8 +511,8 @@ MAP8_e20_p0_36	面倒臭がらずに、部下の面倒も見られるように
 MAP8_e20_p0_37	なってくれないと困る。	
 MAP8_e20_p0_40	…はい。	...Yes.
 MAP8_e20_p0_43	騎士ウィン、お前にはまだ実戦経験が少ない。	Knight Win, you still lack real combat experience.
-MAP8_e20_p0_44	この任務を良い機会とし、ピピンから多くを	
-MAP8_e20_p0_45	学ぶのだ。よいな…　下がれ。	
+MAP8_e20_p0_44	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
+MAP8_e20_p0_45	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP8_e20_p0_9	騎士ウィンよ。	
 MAP8_e20_p1_20	騎士ウィンよ。	
 MAP8_e20_p1_21	これがお前の初めての戦闘任務となる。	
@@ -532,8 +532,8 @@ MAP8_e20_p1_47	面倒臭がらずに、部下の面倒も見られるように
 MAP8_e20_p1_48	なってくれないと困る。	
 MAP8_e20_p1_51	…はい。	...Yes.
 MAP8_e20_p1_54	騎士ウィン、お前にはまだ実戦経験が少ない。	Knight Win, you still lack real combat experience.
-MAP8_e20_p1_55	この任務を良い機会とし、ピピンから多くを	
-MAP8_e20_p1_56	学ぶのだ。よいな…　下がれ。	
+MAP8_e20_p1_55	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
+MAP8_e20_p1_56	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP8_e21_p1_10	俺、ちょっとあいつ苦手だし…	
 MAP8_e21_p1_15	わからないってお前…	
 MAP8_e21_p1_16	何かあったのか？	
@@ -543,8 +543,8 @@ MAP8_e21_p1_3	…ピピンはどうしたんだよ？
 MAP8_e21_p1_8	そうなのか…？	
 MAP8_e21_p1_9	まあいっか…	
 MAP8_e4_p0_2	騎士ウィン、お前にはまだ実戦経験がない。	
-MAP8_e4_p0_3	この任務を良い機会とし、ピピンから多くを	
-MAP8_e4_p0_4	学ぶのだ。よいな…　下がれ。	
+MAP8_e4_p0_3	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
+MAP8_e4_p0_4	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP8_e4_p1_11	お前の働きに期待しているぞ。	
 MAP8_e4_p1_12	下がれ。	
 MAP8_e4_p1_17	…すまぬが少し考え事をしているのだ。	
@@ -574,8 +574,8 @@ MAP8_e4_p1_61	…努力します。
 MAP8_e4_p2_10	しかし…	However...
 MAP8_e4_p2_101	長話は終わりにしよう。	
 MAP8_e4_p2_102	ウィンよ、ピピンをよろしく頼む。	Win, I entrust Pipin to you.
-MAP8_e4_p2_103	急ぎ、西の森に住むロイを訪ね、事の次第を	
-MAP8_e4_p2_104	伝え、城に出てくるよう説得するのだ。	
+MAP8_e4_p2_103	急ぎ、西の森に住むロイを訪ね、事の次第を	Hurry to the western forest, visit Roi who lives there,
+MAP8_e4_p2_104	伝え、城に出てくるよう説得するのだ。	tell him what's happened, and persuade him to come to the castle.
 MAP8_e4_p2_107	陛下、それは逆ですよ。	
 MAP8_e4_p2_108	なんで俺がこいつに面倒を見られにゃならんの	
 MAP8_e4_p2_109	です！	
@@ -636,8 +636,8 @@ MAP8_e4_p2_95	…な、んだと………？
 MAP8_e4_p2_98	この意味…	
 MAP8_e4_p2_99	分からないお前ではあるまい、ピピン。	
 MAP8_e4_p3_2	ウィンよ、ピピンをよろしく頼む。	Win, I entrust Pipin to you.
-MAP8_e4_p3_3	急ぎ、西の森に住むロイを訪ね、事の次第を	
-MAP8_e4_p3_4	伝え、城に出てくるよう説得するのだ。	
+MAP8_e4_p3_3	急ぎ、西の森に住むロイを訪ね、事の次第を	Hurry to the western forest, visit Roi who lives there,
+MAP8_e4_p3_4	伝え、城に出てくるよう説得するのだ。	tell him what's happened, and persuade him to come to the castle.
 MAP8_e4_p4_13	…分かった。	
 MAP8_e4_p4_14	ウィンよ…紋章の継承者としての責務、	
 MAP8_e4_p4_15	見事果たしてみせよ。	
@@ -699,11 +699,11 @@ MAP8_e5_p0_15	げっ！いたのかピピン！！	Gah! Pipin, you're here!!
 MAP8_e5_p0_16	ま、とりあえず、ウィン！がんばれよ！	Well, anyway, Win! Do your best!
 MAP8_e5_p0_17	…ピピンもな。	...You too, Pipin.
 MAP8_e5_p0_2	よう、ウィン。最近どうだ？	Yo, Win. How's it going?
-MAP8_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	
-MAP8_e5_p0_23	お前が、そんなパッとしない顔して。	
+MAP8_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	What's this? You graduated top of the knight academy,
+MAP8_e5_p0_23	お前が、そんなパッとしない顔して。	and you're wearing such a dull face.
 MAP8_e5_p0_24	最近実家のパン食べてないのか？	Haven't been eating your folks' bread lately?
-MAP8_e5_p0_7	そりゃあよかった！俺はお前ならきっと	
-MAP8_e5_p0_8	騎士団長になると思ってるんだ。	
+MAP8_e5_p0_7	そりゃあよかった！俺はお前ならきっと	Glad to hear it! I'm sure you'll
+MAP8_e5_p0_8	騎士団長になると思ってるんだ。	become Knight Commander one day.
 MAP8_e5_p0_9	あんな性格の悪い自称天才でなく…	Not some mean-spirited self-proclaimed genius like that guy...
 MAP8_e5_p1_2	おかえりー！	
 MAP8_e5_p1_3	その顔…　珍しく難しい顔してどうした？	
@@ -721,8 +721,8 @@ MAP8_e5_p3_8	てことはお前…将来の騎士団長じゃねえか…	That m
 MAP8_e5_p3_9	出世早すぎるだろ！すげえな！	Talk about a fast promotion! Amazing!
 MAP8_e6_p0_12	ああ。	Yeah.
 MAP8_e6_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP8_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP8_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP8_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP8_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP8_e6_p0_2	…仕事か？	...More work?
 MAP8_e6_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP8_e6_p0_23	まさかウイン、	Don't tell me, Win,
@@ -732,17 +732,17 @@ MAP8_e6_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad for 
 MAP8_e6_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP8_e6_p0_32	…クッ	...Ugh
 MAP8_e6_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP8_e6_p0_7	人食いの獣が住み着いたっていう、	
-MAP8_e6_p0_8	西の監視塔か。	
+MAP8_e6_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP8_e6_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP8_e6_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
 MAP8_e6_p1_2	…無事に戻ったみたいだな。安心した。	
 MAP8_e6_p2_14	なら、なんでそんな難しい顔をしてるんだ？	Then why the long face?
-MAP8_e6_p2_15	なあ、もしつらいことがあったら、	
-MAP8_e6_p2_16	ひとりで抱え込むんじゃないぞ…？	
+MAP8_e6_p2_15	なあ、もしつらいことがあったら、	Hey, if something's weighing on you,
+MAP8_e6_p2_16	ひとりで抱え込むんじゃないぞ…？	don't shoulder it alone, alright...?
 MAP8_e6_p2_2	…また仕事か？	...Work again?
 MAP8_e6_p2_7	どんな仕事かはあえて聞かないさ。	I won't bother asking what it is.
-MAP8_e6_p2_8	しかし、ウィン、お前なんだか顔つきが	
-MAP8_e6_p2_9	変わったな…。	
+MAP8_e6_p2_8	しかし、ウィン、お前なんだか顔つきが	But Win, your expression seems different
+MAP8_e6_p2_9	変わったな…。	somehow...
 MAP8_e6_p3_14	すまん、冗談さ、ウィン。	Sorry, just kidding, Win.
 MAP8_e6_p3_15	闇のエレメントの復活…	The revival of the Dark Element...
 MAP8_e6_p3_16	止めてくれよ。お前なら、きっと出来るさ。	Come on. You've got this, I'm sure.
@@ -750,11 +750,11 @@ MAP8_e6_p3_2	これはこれは次期騎士団長どの…	Well, well, if it isn
 MAP8_e6_p3_3	紋章の継承おめでとうございます	Congratulations on inheriting the crest
 MAP8_e6_p3_8	浮かれている場合か、若造。	This is no time to be giddy, boy.
 MAP8_e6_p3_9	…がんばれよ。	...Do your best.
-MAP8_e8_p0_2	ここから先は、ウィンダム王とお妃さまの	
-MAP8_e8_p0_3	寝室だぜ　…って、	
+MAP8_e8_p0_2	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP8_e8_p0_3	寝室だぜ　…って、	hey, you know—
 MAP8_e8_p0_4	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
-MAP8_e9_p0_3	ここから先は、ウィンダム王とお妃さまの	
-MAP8_e9_p0_4	寝室だぜ　…って、	
+MAP8_e9_p0_3	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP8_e9_p0_4	寝室だぜ　…って、	hey, you know—
 MAP8_e9_p0_5	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
 MAP9_e10_p0_1	宿泊者たちの書き残しがある。読んでみようか…。	
 MAP9_e10_p0_10	この国のごはんは美味しくない！	
@@ -1209,20 +1209,20 @@ MAP21_e13_p2_45	意味する。
 MAP21_e13_p2_47	とは言え…これは俺が古文書を調べて何とか	
 MAP21_e13_p2_48	得た知識に過ぎん。	
 MAP21_e13_p2_49	実際にどうなるのかは…誰にも分からんのだ。	
-MAP21_e13_p2_51	ウィンよ。直ちにお前が継承者になった事を	
-MAP21_e13_p2_52	ウィンダム王に報告し、そののち、	
-MAP21_e13_p2_53	急いでフレイム王国とセイリューに向かえ。	
+MAP21_e13_p2_51	ウィンよ。直ちにお前が継承者になった事を	Win. Report your succession to King Windam at once,
+MAP21_e13_p2_52	ウィンダム王に報告し、そののち、	and afterwards,
+MAP21_e13_p2_53	急いでフレイム王国とセイリューに向かえ。	hurry to the Flame Kingdom and to Seiryu.
 MAP21_e13_p2_55	俺はまだ気になることがある…。	
 MAP21_e13_p2_56	過去に読んだ文献をもう一通り読み直してみる。	
-MAP21_e13_p2_58	闇のエレメントに対抗するには、	
-MAP21_e13_p2_59	火、水、風、全ての紋章の力が必要なのだ。	
+MAP21_e13_p2_58	闇のエレメントに対抗するには、	To stand against the Dark Element,
+MAP21_e13_p2_59	火、水、風、全ての紋章の力が必要なのだ。	the power of all the crests—fire, water, and wind—is needed.
 MAP21_e13_p2_60	頼んだぞ、ウィン。	I'm counting on you, Win.
 MAP21_e13_p2_62	…だがその前に、もしよかったら、	
 MAP21_e13_p2_63	お前に聞いて欲しい話がある。	
 MAP21_e13_p2_64	聞いてくれる気になったなら、もう一度	
 MAP21_e13_p2_65	俺に話し掛けてくれ…。	
 MAP21_e13_p2_9	…何も言うな、ウィン。	
-MAP21_e13_p3_1	ウィンよ。直ちにお前が継承者になった事を	
+MAP21_e13_p3_1	ウィンよ。直ちにお前が継承者になった事を	Win. Report your succession to King Windam at once,
 MAP21_e13_p3_12	…ピピンのことか。	
 MAP21_e13_p3_13	すまなかった。	
 MAP21_e13_p3_14	俺があいつに、あんな言い方をしてしまった	
@@ -1230,19 +1230,19 @@ MAP21_e13_p3_15	のには、一応、理由があるんだ…。
 MAP21_e13_p3_17	俺の、若い頃の昔話だ…。	
 MAP21_e13_p3_18	お前は風の紋章の継承者だ。	
 MAP21_e13_p3_19	話しておいてもいいのかも知れん…。	
-MAP21_e13_p3_2	ウィンダム王に報告し、そののち、	
+MAP21_e13_p3_2	ウィンダム王に報告し、そののち、	and afterwards,
 MAP21_e13_p3_21	だが、長くなるぞ。	
 MAP21_e13_p3_22	それでもよければ、聞くか？	
 MAP21_e13_p3_26	わかった。	
 MAP21_e13_p3_27	俺が風の紋章を継承したのは…	
 MAP21_e13_p3_28	実は子供の頃だったんだ。	
 MAP21_e13_p3_29	ああ、まだ字も読めなかったくらい、幼い頃だ	
-MAP21_e13_p3_3	急いでフレイム王国とセイリューに向かえ。	
+MAP21_e13_p3_3	急いでフレイム王国とセイリューに向かえ。	hurry to the Flame Kingdom and to Seiryu.
 MAP21_e13_p3_38	そうだな…。	
 MAP21_e13_p3_39	いまは時間が惜しい。	
 MAP21_e13_p3_40	いつか機会があれば、聞いてくれ。	
-MAP21_e13_p3_5	闇のエレメントに対抗するには、	
-MAP21_e13_p3_6	火、水、風、全ての紋章の力が必要なのだ。	
+MAP21_e13_p3_5	闇のエレメントに対抗するには、	To stand against the Dark Element,
+MAP21_e13_p3_6	火、水、風、全ての紋章の力が必要なのだ。	the power of all the crests—fire, water, and wind—is needed.
 MAP21_e13_p3_7	頼んだぞ、ウィン。	I'm counting on you, Win.
 MAP21_e13_p4_101	この世界にまだほんの少しだけ残っていた、	
 MAP21_e13_p4_102	俺の味方を　してくれるひとたちだった…	
@@ -1357,11 +1357,11 @@ MAP21_e13_p5_52	誰かに聞いて欲しかったんだ…
 MAP21_e13_p5_53	おかげで、少し楽になったよ。	
 MAP21_e13_p5_8	左手はつながったままだったが…	
 MAP21_e13_p5_9	剣を握ることはできなくなっていた。	
-MAP21_e13_p6_1	ウィンよ。直ちにお前が継承者になった事を	
-MAP21_e13_p6_2	ウィンダム王に報告し、そののち、	
-MAP21_e13_p6_3	急いでフレイム王国とセイリューに向かえ。	
-MAP21_e13_p6_5	闇のエレメントに対抗するには、	
-MAP21_e13_p6_6	火、水、風、全ての紋章の力が必要なのだ。	
+MAP21_e13_p6_1	ウィンよ。直ちにお前が継承者になった事を	Win. Report your succession to King Windam at once,
+MAP21_e13_p6_2	ウィンダム王に報告し、そののち、	and afterwards,
+MAP21_e13_p6_3	急いでフレイム王国とセイリューに向かえ。	hurry to the Flame Kingdom and to Seiryu.
+MAP21_e13_p6_5	闇のエレメントに対抗するには、	To stand against the Dark Element,
+MAP21_e13_p6_6	火、水、風、全ての紋章の力が必要なのだ。	the power of all the crests—fire, water, and wind—is needed.
 MAP21_e13_p6_7	頼んだぞ、ウィン。	I'm counting on you, Win.
 MAP21_e13_p7_11	おう！言われなくても分かってるぜ。	
 MAP21_e13_p7_12	それよりあんた、ロイさんだろ？	
@@ -1602,19 +1602,19 @@ MAP26_e22_p0_4	ならなそうじゃのう
 MAP26_e23_p0_2	騎士さまも　とおせんぼされたの？	
 MAP26_e23_p0_3	だったらうちの宿に泊まっていきなよ！	
 MAP26_e9_p0_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
-MAP26_e9_p0_3	どうしたんだ？ここは通行手形がないと	
-MAP26_e9_p0_4	騎士でも通ることはできないぞ。	
+MAP26_e9_p0_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
+MAP26_e9_p0_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
 MAP26_e9_p0_7	ここはフレイム王国への関所だ。	
 MAP26_e9_p0_8	…おい、ウィン。なんでここへ来たんだ？	
 MAP26_e9_p1_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
-MAP26_e9_p1_3	どうしたんだ？ここは通行手形がないと	
-MAP26_e9_p1_4	騎士でも通ることはできないぞ。	
+MAP26_e9_p1_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
+MAP26_e9_p1_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
 MAP26_e9_p2_10	それはまさに国王陛下の発行する通行手形！！	
 MAP26_e9_p2_11	ははーーーっ	
 MAP26_e9_p2_12	騎士ウィン様どうぞお通りくださいませー	
 MAP26_e9_p2_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
-MAP26_e9_p2_3	どうしたんだ？ここは通行手形がないと	
-MAP26_e9_p2_4	騎士でも通ることはできないぞ。	
+MAP26_e9_p2_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
+MAP26_e9_p2_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
 MAP26_e9_p2_7	　　　　　　　　ウィンは通行手形を見せた！	
 MAP27_e1_p0_1	もう塔から出ようか、それともまだ探索しようか…	
 MAP27_e1_p1_1	もう塔から出ようか、それともまだ探索しようか…	
@@ -1761,23 +1761,23 @@ MAP30_e6_p0_8	はいはい、一泊で５０Ｇだよ。
 MAP30_e6_p0_9	休んでいきなさるかい？	
 MAP30_e8_p0_11	私はしばらくここで足止めですから…	I'll be stuck here for a while...
 MAP30_e8_p0_12	もし品を気に入ったら、また来てくださいね！	If you like anything, please come again!
-MAP30_e8_p0_2	いやー困りました。	
-MAP30_e8_p0_3	まさかセイリューの橋が壊れるなんてね。	
-MAP30_e8_p0_4	虫の知らせみたいなの感じるなあ。	
+MAP30_e8_p0_2	いやー困りました。	Oh dear, this is a problem.
+MAP30_e8_p0_3	まさかセイリューの橋が壊れるなんてね。	I never expected the Seiryu bridge to break.
+MAP30_e8_p0_4	虫の知らせみたいなの感じるなあ。	I have a sense of foreboding...
 MAP30_e8_p0_6	おっと失礼、よかったら少し品を見て下さい！	Oh, pardon me! Have a look at my wares!
 MAP30_e8_p1_12	私はしばらくここで足止めですから…	I'll be stuck here for a while...
 MAP30_e8_p1_13	もし品を気に入ったら、また来てくださいね！	If you like anything, please come again!
-MAP30_e8_p1_2	いやー困りました。	
-MAP30_e8_p1_3	まさかセイリューの橋が壊れるなんてね。	
-MAP30_e8_p1_4	虫の知らせみたいなの感じるなあ。	
+MAP30_e8_p1_2	いやー困りました。	Oh dear, this is a problem.
+MAP30_e8_p1_3	まさかセイリューの橋が壊れるなんてね。	I never expected the Seiryu bridge to break.
+MAP30_e8_p1_4	虫の知らせみたいなの感じるなあ。	I have a sense of foreboding...
 MAP30_e8_p1_6	おっと失礼、よかったら少し品を見て下さい！	Oh, pardon me! Have a look at my wares!
-MAP30_e8_p2_10	もし品を気に入ったら、また来てください。	
-MAP30_e8_p2_2	壊れていた橋が直ったらしいです。	
-MAP30_e8_p2_3	よかった…これで帰ることができる…	
+MAP30_e8_p2_10	もし品を気に入ったら、また来てください。	If you like anything, please come again.
+MAP30_e8_p2_2	壊れていた橋が直ったらしいです。	It seems the broken bridge has been repaired.
+MAP30_e8_p2_3	よかった…これで帰ることができる…	Thank goodness... now I can go home...
 MAP30_e8_p2_5	おっと失礼、よかったら少し品を見て下さい！	Oh, pardon me! Have a look at my wares!
-MAP30_e8_p3_11	もし品を気に入ったら、また来てください。	
-MAP30_e8_p3_2	壊れていた橋が直ったらしいです。	
-MAP30_e8_p3_3	よかった…これで帰ることができる…	
+MAP30_e8_p3_11	もし品を気に入ったら、また来てください。	If you like anything, please come again.
+MAP30_e8_p3_2	壊れていた橋が直ったらしいです。	It seems the broken bridge has been repaired.
+MAP30_e8_p3_3	よかった…これで帰ることができる…	Thank goodness... now I can go home...
 MAP30_e8_p3_5	おっと失礼、よかったら少し品を見て下さい！	Oh, pardon me! Have a look at my wares!
 MAP30_e9_p0_2	西にも行けない、国にも帰れない…	
 MAP30_e9_p0_3	あー、ウィンダムに行ってみるかー	
@@ -1792,34 +1792,34 @@ MAP31_e17_p1_2	兄ちゃん一個でいいから買ってってよ！
 MAP31_e17_p1_7	また来てくれよ！	
 MAP31_e18_p0_2	最近盗人が多いんだ。	
 MAP31_e18_p0_3	あんたも気をつけてくれよ！	
-MAP31_e19_p0_2	あそこの店からいい匂いがするんだー	
-MAP31_e19_p0_3	くんくん　何の匂いかわからないけれど	
-MAP31_e19_p0_4	うまそうな匂いだぜー！	
-MAP31_e20_p0_2	魔物が増えたってんで、最近は行商人も	
-MAP31_e20_p0_3	めっきり来なくなったなあ。	
+MAP31_e19_p0_2	あそこの店からいい匂いがするんだー	That shop over there smells great!
+MAP31_e19_p0_3	くんくん　何の匂いかわからないけれど	sniff sniff... I can't tell what it is,
+MAP31_e19_p0_4	うまそうな匂いだぜー！	but it smells delicious!
+MAP31_e20_p0_2	魔物が増えたってんで、最近は行商人も	With monsters on the rise, even the peddlers
+MAP31_e20_p0_3	めっきり来なくなったなあ。	have stopped coming lately.
 MAP31_e23_p0_2	…クーン	
-MAP31_e23_p0_3	…ックーン	
+MAP31_e23_p0_3	…ックーン	...Yip
 MAP31_e23_p1_12	なら、うちに来い。	
 MAP31_e23_p1_13	誰かに声掛けとくからよ。	
 MAP31_e23_p1_14	オレの部屋使えよ！	
 MAP31_e23_p1_17	…ックー？	
 MAP31_e23_p1_2	…クーン	
-MAP31_e23_p1_3	…ックーン	
+MAP31_e23_p1_3	…ックーン	...Yip
 MAP31_e23_p1_6	何だお前…ひとりぼっちなのか？	
-MAP31_e23_p1_9	…ックーン	
+MAP31_e23_p1_9	…ックーン	...Yip
 MAP31_e24_p0_2	あっ、きしだ！	
 MAP31_e24_p0_3	かっくいいいい！	
-MAP31_e25_p0_14	どけちー！！	
-MAP31_e25_p0_15	なんで1Gも渡せないんだよドケチーーー！！！	
-MAP31_e25_p0_18	考えてみろよ　その1Gもらったら俺がどんだけ	
-MAP31_e25_p0_19	よろこぶとおもうんだ？	
-MAP31_e25_p0_2	にーちゃーん	
-MAP31_e25_p0_20	あんたのこと神様だと思うぞ！	
-MAP31_e25_p0_23	お前のたったの1Gが俺にわたすだけで	
-MAP31_e25_p0_24	お前を神様にするんだぞ！？	
-MAP31_e25_p0_25	その価値がわからないのかお前はーーーー！！	
-MAP31_e25_p0_3	少しでいいからお金めぐんでくれなーい？	
-MAP31_e25_p0_8	あっす	
+MAP31_e25_p0_14	どけちー！！	Move it!!
+MAP31_e25_p0_15	なんで1Gも渡せないんだよドケチーーー！！！	Why can't you spare even 1G, you cheapskate!!?
+MAP31_e25_p0_18	考えてみろよ　その1Gもらったら俺がどんだけ	Think about it—if I got that 1G, just how happy
+MAP31_e25_p0_19	よろこぶとおもうんだ？	do you think I'd be?
+MAP31_e25_p0_2	にーちゃーん	Big bro!
+MAP31_e25_p0_20	あんたのこと神様だと思うぞ！	I'll think of you as a god!
+MAP31_e25_p0_23	お前のたったの1Gが俺にわたすだけで	Just by giving me a single 1G of yours,
+MAP31_e25_p0_24	お前を神様にするんだぞ！？	you'd make yourself a god, you know!?
+MAP31_e25_p0_25	その価値がわからないのかお前はーーーー！！	Can't you see that value!?
+MAP31_e25_p0_3	少しでいいからお金めぐんでくれなーい？	Could you spare a little money?
+MAP31_e25_p0_8	あっす	Yo.
 MAP31_e26_p0_10	もっとめぐんでくれやーーーーーーー	
 MAP31_e26_p0_15	見回り中にスリに財布とられたんだよーーー	
 MAP31_e26_p0_16	次の給料までくらせないんだよーーーーー	
@@ -1827,14 +1827,14 @@ MAP31_e26_p0_17	うわあああああああああ
 MAP31_e26_p0_2	あんちゃーーーん	
 MAP31_e26_p0_3	めぐんでくれやーーーー	
 MAP31_e26_p0_9	1Gてあんちゃーーーーん	
-MAP31_e27_p0_2	野盗が増えとると兵たちは一年中言うとるが、	
-MAP31_e27_p0_3	別にいまはじまったことじゃない、昔から	
-MAP31_e27_p0_4	一定数おるんじゃ。	
-MAP31_e28_p0_2	なんか今年は特に暑い気がしないか？	
-MAP31_e28_p0_3	あたしの気のせいかねえ…	
-MAP31_e29_p0_2	あんまり活気がないって？	
-MAP31_e29_p0_3	みんな暑くて外に出たがらないのよ。	
-MAP31_e29_p0_4	お天気なのにもったいないと思わない？	
+MAP31_e27_p0_2	野盗が増えとると兵たちは一年中言うとるが、	The soldiers talk all year about how the bandits are increasing,
+MAP31_e27_p0_3	別にいまはじまったことじゃない、昔から	but it's nothing new—since long ago
+MAP31_e27_p0_4	一定数おるんじゃ。	there's always been a steady number of them.
+MAP31_e28_p0_2	なんか今年は特に暑い気がしないか？	Don't you think it's especially hot this year?
+MAP31_e28_p0_3	あたしの気のせいかねえ…	Or maybe it's just me...
+MAP31_e29_p0_2	あんまり活気がないって？	Not much hustle and bustle, you say?
+MAP31_e29_p0_3	みんな暑くて外に出たがらないのよ。	Nobody wants to go outside in this heat.
+MAP31_e29_p0_4	お天気なのにもったいないと思わない？	Don't you think it's a waste, with such nice weather?
 MAP31_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP31_e7_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP31_e8_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -1875,9 +1875,9 @@ MAP32_e45_p0_3	国からお金もらってのんびりできるんだから！
 MAP32_e46_p0_2	うーん　むにゃむにゃ…	
 MAP32_e46_p0_3	はっ！！　えっ！？？	
 MAP32_e46_p0_4	なんでオレ寝顔のぞかれてんの！！？？	
-MAP32_e47_p0_2	最近スパイスが高いわねーーー	
-MAP32_e47_p0_3	野菜も高いし…　なのに使えるお金は	
-MAP32_e47_p0_4	変わらないし…	
+MAP32_e47_p0_2	最近スパイスが高いわねーーー	Spices are so expensive lately...
+MAP32_e47_p0_3	野菜も高いし…　なのに使えるお金は	Vegetables are pricey too... yet the money we can spend
+MAP32_e47_p0_4	変わらないし…	never changes...
 MAP32_e51_p0_2	えっ？　牢屋じゃないよ。	
 MAP32_e51_p0_3	ここは家畜小屋さ。	
 MAP32_e52_p0_10	意味をセイリューのひとも知らないらしいぜ	
@@ -1999,8 +1999,8 @@ MAP33_e19_p2_8	ウィン、オマエさっきの見たか？
 MAP33_e4_p0_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP33_e4_p0_10	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
 MAP33_e4_p0_12	オレが、いつまでたっても本を読まないから	Because I never read any books, no matter how much time passed
-MAP33_e4_p0_13	あにきが本を読みまくってすげえあたまいいのは	
-MAP33_e4_p0_14	オレだってわかってる	
+MAP33_e4_p0_13	あにきが本を読みまくってすげえあたまいいのは	Big bro reads tons of books and is super smart.
+MAP33_e4_p0_14	オレだってわかってる	Even I know that.
 MAP33_e4_p0_15	だけどなんかよめないんだよオレは	But somehow I just can't read them
 MAP33_e4_p0_17	みんなオレをアニキとくらべてダメなやつだって言う	Everyone says I'm a hopeless loser compared to big bro
 MAP33_e4_p0_18	アニキをみならえって言う	They tell me to be more like big bro
@@ -2017,8 +2017,8 @@ MAP33_e4_p0_9	だいじんにもせっきょうされた	Even the minister lectu
 MAP33_e4_p1_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP33_e4_p1_10	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
 MAP33_e4_p1_12	オレが、いつまでたっても本を読まないから	Because I never read any books, no matter how much time passed
-MAP33_e4_p1_13	あにきが本を読みまくってすげえあたまいいのは	
-MAP33_e4_p1_14	オレだってわかってる	
+MAP33_e4_p1_13	あにきが本を読みまくってすげえあたまいいのは	Big bro reads tons of books and is super smart.
+MAP33_e4_p1_14	オレだってわかってる	Even I know that.
 MAP33_e4_p1_15	だけどなんかよめないんだよオレは	But somehow I just can't read them
 MAP33_e4_p1_17	みんなオレをアニキとくらべてダメなやつだって言う	Everyone says I'm a hopeless loser compared to big bro
 MAP33_e4_p1_18	アニキをみならえって言う	They tell me to be more like big bro
@@ -2031,8 +2031,8 @@ MAP33_e4_p1_24	アニキみたいになりたいんだ	I want to be like you, bi
 MAP33_e4_p1_25	くっそーーーーーーーーーーー	Daaaaamn————
 MAP33_e4_p1_28	うお！？うわっ！！えっ！？	
 MAP33_e4_p1_3	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP33_e4_p1_31	てめえウィン…俺がちょっと目を離したスキに	
-MAP33_e4_p1_32	なに勝手に読んでんだよーーー	
+MAP33_e4_p1_31	てめえウィン…俺がちょっと目を離したスキに	You little—! Win... while I wasn't looking,
+MAP33_e4_p1_32	なに勝手に読んでんだよーーー	what are you reading on your own!?
 MAP33_e4_p1_38	おまえなにだまってんだよ…	What are you not saying...?
 MAP33_e4_p1_39	なに黙ってんだよーーーーーー！！	Why aren't you saying anything!?
 MAP33_e4_p1_8	オヤジにめちゃくちゃどなられた	Dad yelled at me like crazy
@@ -2040,8 +2040,8 @@ MAP33_e4_p1_9	だいじんにもせっきょうされた	Even the minister lectu
 MAP33_e4_p2_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP33_e4_p2_10	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
 MAP33_e4_p2_12	オレが、いつまでたっても本を読まないから	Because I never read any books, no matter how much time passed
-MAP33_e4_p2_13	あにきが本を読みまくってすげえあたまいいのは	
-MAP33_e4_p2_14	オレだってわかってる	
+MAP33_e4_p2_13	あにきが本を読みまくってすげえあたまいいのは	Big bro reads tons of books and is super smart.
+MAP33_e4_p2_14	オレだってわかってる	Even I know that.
 MAP33_e4_p2_15	だけどなんかよめないんだよオレは	But somehow I just can't read them
 MAP33_e4_p2_17	みんなオレをアニキとくらべてダメなやつだって言う	Everyone says I'm a hopeless loser compared to big bro
 MAP33_e4_p2_18	アニキをみならえって言う	They tell me to be more like big bro
@@ -2052,8 +2052,8 @@ MAP33_e4_p2_22	だけどアニキちがうんだよ	But big bro, you're wrong
 MAP33_e4_p2_23	オレだって本を読みたいんだよ	I want to read books too
 MAP33_e4_p2_24	アニキみたいになりたいんだ	I want to be like you, big bro
 MAP33_e4_p2_25	くっそーーーーーーーーーーー	Daaaaamn————
-MAP33_e4_p2_28	てめえウィン…俺がちょっと目を離したスキに	
-MAP33_e4_p2_29	なに勝手に読んでんだよーーー	
+MAP33_e4_p2_28	てめえウィン…俺がちょっと目を離したスキに	You little—! Win... while I wasn't looking,
+MAP33_e4_p2_29	なに勝手に読んでんだよーーー	what are you reading on your own!?
 MAP33_e4_p2_3	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP33_e4_p2_35	おまえなにだまってんだよ…	What are you not saying...?
 MAP33_e4_p2_36	なに黙ってんだよーーーーーー！！	Why aren't you saying anything!?
@@ -2064,10 +2064,10 @@ MAP33_e4_p2_49	それならむしろ黙っててくれ…
 MAP33_e4_p2_8	オヤジにめちゃくちゃどなられた	Dad yelled at me like crazy
 MAP33_e4_p2_9	だいじんにもせっきょうされた	Even the minister lectured me
 MAP33_e5_p0_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
-MAP33_e5_p0_11	ポケットに入っていたカラカラに乾いたパンを差し出して	
-MAP33_e5_p0_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	
+MAP33_e5_p0_11	ポケットに入っていたカラカラに乾いたパンを差し出して	When I offered him the bone-dry bread from my pocket,
+MAP33_e5_p0_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	he bowed his head and thanked me—
 MAP33_e5_p0_13	ありがとうと呟き、涙を流しながらひざまづいたのだ。	
-MAP33_e5_p0_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	
+MAP33_e5_p0_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	With a single dry piece of bread, a murderer became a good man in an instant.
 MAP33_e5_p0_16	乾いたパン一つにその力があるのに、僕らが毎日食べている	If one dry piece of bread holds that much power, then the meals we eat every day—
 MAP33_e5_p0_17	食事は、その一食で、あの乾いたパン何個分だろうか…。	
 MAP33_e5_p0_2	『日記　というよりも覚書のようなもの』	"""A Diary — or Rather, Some Scraps of Notes"""
@@ -2075,29 +2075,29 @@ MAP33_e5_p0_3	…と、表紙に書かれた本がある。読んでみようか
 MAP33_e5_p0_8	昨日の朝、散歩をしていたら突然物乞いに襲われた。	Yesterday morning, while out for a walk, I was suddenly attacked by a beggar.
 MAP33_e5_p0_9	恐怖を必死で抑えながら語りかけたが全く要領を得ない。	I spoke to him while desperately suppressing my fear, but he made no sense at all.
 MAP33_e5_p1_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
-MAP33_e5_p1_11	ポケットに入っていたカラカラに乾いたパンを差し出して	
-MAP33_e5_p1_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	
-MAP33_e5_p1_13	ありがとうとと呟き、涙を流しながらひざまづいたのだ。	
-MAP33_e5_p1_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	
+MAP33_e5_p1_11	ポケットに入っていたカラカラに乾いたパンを差し出して	When I offered him the bone-dry bread from my pocket,
+MAP33_e5_p1_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	he bowed his head and thanked me—
+MAP33_e5_p1_13	ありがとうとと呟き、涙を流しながらひざまづいたのだ。	"He murmured ""thank you"" and knelt down, tears streaming down his face."
+MAP33_e5_p1_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	With a single dry piece of bread, a murderer became a good man in an instant.
 MAP33_e5_p1_16	乾いたパン一つにその力があるのに、僕らが毎日食べている	If one dry piece of bread holds that much power, then the meals we eat every day—
 MAP33_e5_p1_17	食事はその一食で、あの乾いたパン何個分だろうか…。	That one meal was worth how many of those dry pieces of bread, I wonder...
 MAP33_e5_p1_2	『日記　というよりも覚書のようなもの』	"""A Diary — or Rather, Some Scraps of Notes"""
-MAP33_e5_p1_20	やっぱ兄貴はすげえ…　何がすげえのかは	
-MAP33_e5_p1_21	よく分からねえんだが…やっぱ兄貴はすげえ。	
+MAP33_e5_p1_20	やっぱ兄貴はすげえ…　何がすげえのかは	Big bro really is amazing... I can't quite say what's so amazing,
+MAP33_e5_p1_21	よく分からねえんだが…やっぱ兄貴はすげえ。	but big bro really is amazing.
 MAP33_e5_p1_22	何かこう、胸にズシンと来るんだ…	Something just hits me right in the chest...
 MAP33_e5_p1_3	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP33_e5_p1_8	昨日の朝、散歩をしていたら突然物乞いに襲われた。	Yesterday morning, while out for a walk, I was suddenly attacked by a beggar.
 MAP33_e5_p1_9	恐怖を必死で抑えながら語りかけたが全く要領を得ない。	I spoke to him while desperately suppressing my fear, but he made no sense at all.
 MAP33_e5_p2_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
-MAP33_e5_p2_11	ポケットに入っていたカラカラに乾いたパンを差し出して	
-MAP33_e5_p2_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	
+MAP33_e5_p2_11	ポケットに入っていたカラカラに乾いたパンを差し出して	When I offered him the bone-dry bread from my pocket,
+MAP33_e5_p2_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	he bowed his head and thanked me—
 MAP33_e5_p2_13	ありがとうと呟き、涙を流しながらひざまずいたのだ。	
-MAP33_e5_p2_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	
+MAP33_e5_p2_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	With a single dry piece of bread, a murderer became a good man in an instant.
 MAP33_e5_p2_16	乾いたパン一つにその力があるのに、僕らが毎日食べている	If one dry piece of bread holds that much power, then the meals we eat every day—
 MAP33_e5_p2_17	食事はその一食で、あの乾いたパン何個分だろうか…。	That one meal was worth how many of those dry pieces of bread, I wonder...
 MAP33_e5_p2_2	『日記　というよりも覚書のようなもの』	"""A Diary — or Rather, Some Scraps of Notes"""
-MAP33_e5_p2_20	やっぱ兄貴はすげえ…　何がすげえのかは	
-MAP33_e5_p2_21	よく分からねえんだが…やっぱ兄貴はすげえ。	
+MAP33_e5_p2_20	やっぱ兄貴はすげえ…　何がすげえのかは	Big bro really is amazing... I can't quite say what's so amazing,
+MAP33_e5_p2_21	よく分からねえんだが…やっぱ兄貴はすげえ。	but big bro really is amazing.
 MAP33_e5_p2_22	何かこう、胸にズシンと来るんだ…	Something just hits me right in the chest...
 MAP33_e5_p2_25	…ホノオ。	...Hono.
 MAP33_e5_p2_26	あんた本当アタマ悪そうな喋り方が…	
@@ -2218,12 +2218,12 @@ MAP33_e7_p2_98	そ、そんなの今更もういいだろ…？
 MAP33_e7_p3_1	ウィン殿、お誘いしたお茶の時間が随分と	
 MAP33_e7_p3_2	遠のいてしまい恐縮だが…	
 MAP33_e7_p3_3	なにとぞ、息子を頼みます。	
-MAP33_e8_p0_2	本来次期国王は、紋章を継承したあとにすぐ	
-MAP33_e8_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	
-MAP33_e8_p0_4	ならん…	
-MAP33_e8_p0_6	しかし最近南の遺跡に魔物が増えたのと、	
-MAP33_e8_p0_7	何より王子が死んでしまうのを恐れて、	
-MAP33_e8_p0_8	王は今回の試練を見送るつもりだったのだ…	
+MAP33_e8_p0_2	本来次期国王は、紋章を継承したあとにすぐ	Normally, the next king must, right after inheriting the crest,
+MAP33_e8_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	journey alone to the Southern Ruins and complete the trial
+MAP33_e8_p0_4	ならん…	—that's the rule...
+MAP33_e8_p0_6	しかし最近南の遺跡に魔物が増えたのと、	But with monsters increasing in the Southern Ruins lately,
+MAP33_e8_p0_7	何より王子が死んでしまうのを恐れて、	and above all fearing the prince might die,
+MAP33_e8_p0_8	王は今回の試練を見送るつもりだったのだ…	the king intended to skip the trial this time...
 MAP33_e8_p1_10	王子、必ず生きてお帰り下さい。	
 MAP33_e8_p1_13	お、おい…急になんかそういうの、よそうよ…	
 MAP33_e8_p1_14	ちょっと、キツイ…	
@@ -2237,9 +2237,9 @@ MAP33_e8_p2_2	ホノオ王子！あの犬は一体なんですか！？
 MAP33_e8_p2_5	なにって…　犬は犬だろ？	
 MAP33_e8_p2_8	とてもふさふさですし…	
 MAP33_e8_p2_9	しかも賢いんですね…。	
-MAP33_e9_p0_2	私も試練には反対したのだが…	
-MAP33_e9_p0_3	ホノオ王子は勝手に行ってしまった。	
-MAP33_e9_p0_4	まったく…思慮の浅いお方で頭が痛い…。	
+MAP33_e9_p0_2	私も試練には反対したのだが…	I opposed the trial as well, but...
+MAP33_e9_p0_3	ホノオ王子は勝手に行ってしまった。	Prince Hono went off on his own.
+MAP33_e9_p0_4	まったく…思慮の浅いお方で頭が痛い…。	Good grief... that thoughtless boy gives me a headache...
 MAP33_e9_p1_2	王子…ウィン殿たちお仲間の言うことを	
 MAP33_e9_p1_3	よく聞いて…あと…決してひとりで勝手な	
 MAP33_e9_p1_4	行動をしないように。いいですね？	
@@ -2322,26 +2322,26 @@ MAP36_e1_p0_15	　　　　　　　　恐ろしい言い伝えがあった…
 MAP36_e1_p0_7	　　　　　　　　　　　エレメント大陸	
 MAP36_e1_p0_9	　　　この大陸は火、水、風のエレメントの加護によって	
 MAP37_e10_p0_11	随分と焦ってるようだが、それも当然だな。	You look quite flustered, and rightly so.
-MAP37_e10_p0_12	西の監視塔なら、毎月サクソン団長代行が	
-MAP37_e10_p0_13	見回りを命じられているはずだからな。	
+MAP37_e10_p0_12	西の監視塔なら、毎月サクソン団長代行が	As for the West Watchtower, Acting Commander Saxon
+MAP37_e10_p0_13	見回りを命じられているはずだからな。	should be ordered to patrol it every month.
 MAP37_e10_p0_16	ええい、ピピンめ、無礼なあああああ！！	Bah! Pipin, you insolent—!
-MAP37_e10_p0_19	確かに前回の見回りでは異常なかったのだ！	
+MAP37_e10_p0_19	確かに前回の見回りでは異常なかったのだ！	It's true that nothing was abnormal during the last patrol!
 MAP37_e10_p0_2	わしは忙しいのだウィン！邪魔を…	I'm a busy man, Win! Don't bother—
-MAP37_e10_p0_20	魔物どころか、ねずみ一匹さえ、クモ一匹さえ	
-MAP37_e10_p0_21	いなかったのだ！！	
+MAP37_e10_p0_20	魔物どころか、ねずみ一匹さえ、クモ一匹さえ	Not a single monster—not even one mouse,
+MAP37_e10_p0_21	いなかったのだ！！	not even one spider!!
 MAP37_e10_p0_24	どうだかね…。	Who can say...
 MAP37_e10_p0_27	しつこいぞ、ピピン！し、しかし…	Persistent, aren't you, Pipin! B-But...
-MAP37_e10_p0_28	もしかすれば、闇のエレメントの復活が	
-MAP37_e10_p0_29	近いのかも知れぬ…	
-MAP37_e10_p0_3	ん？西の監視塔に人食いの魔物が出たから	
+MAP37_e10_p0_28	もしかすれば、闇のエレメントの復活が	Perhaps the revival of the Dark Element is
+MAP37_e10_p0_29	近いのかも知れぬ…	near...
+MAP37_e10_p0_3	ん？西の監視塔に人食いの魔物が出たから	Hm? A man-eating monster appeared at the West Watchtower, so
 MAP37_e10_p0_32	ふたりとも、気を引き締めていくのだ！！	Both of you, stay sharp!!
-MAP37_e10_p0_4	調査に行く、だと…？	
+MAP37_e10_p0_4	調査に行く、だと…？	you're going to investigate...?
 MAP37_e10_p0_7	そ、それは大変だのう！	T-That is serious indeed!
 MAP37_e10_p0_8	気を付けて行ってまいれよ！	Do go carefully!
 MAP37_e10_p1_2	ふたりとも、気を引き締めていくのだ！！	Both of you, stay sharp!!
 MAP37_e11_p0_2	…サクソンめ、なにが闇のエレメントだ。	...That Saxon, what's this about a Dark Element.
-MAP37_e11_p0_3	自分の能無しを、おとぎ話で誤魔化すなんて、	
-MAP37_e11_p0_4	恥知らずにもほどがある。	
+MAP37_e11_p0_3	自分の能無しを、おとぎ話で誤魔化すなんて、	Covering up his own incompetence with fairy tales—
+MAP37_e11_p0_4	恥知らずにもほどがある。	the shamelessness knows no bounds.
 MAP37_e12_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP37_e13_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP37_e14_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -2349,44 +2349,44 @@ MAP37_e15_p0_1	持ち出して役に立つようなものは何も見つけら�
 MAP37_e16_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP37_e17_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP37_e18_p0_1	『ウィンダム王国の歴史』	"""History of the Windam Kingdom"""
-MAP37_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	
-MAP37_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	
-MAP37_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	
+MAP37_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
+MAP37_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
+MAP37_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
 MAP37_e18_p0_15	なので、風のエレメントの加護で出来たお城と国である、	
-MAP37_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	
-MAP37_e18_p0_17	信じられている。	
+MAP37_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
+MAP37_e18_p0_17	信じられている。	outside the Windam Kingdom as well.
 MAP37_e18_p0_18	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
 MAP37_e18_p0_2	…と表紙に書かれた本がある。読んでみようか…・	There's a book with these words on the cover. Should we read it...?
-MAP37_e18_p0_6	大昔からある国だと伝わるが、実際にどのくらい大昔から	
-MAP37_e18_p0_7	あるのかは、あまりよく分からない。	
-MAP37_e18_p0_8	色々な本や言い伝えから、500年くらい前には、	
-MAP37_e18_p0_9	国王がいて、兵士がいて、街があったらしい。	
+MAP37_e18_p0_6	大昔からある国だと伝わるが、実際にどのくらい大昔から	The kingdom is said to have existed since ancient times, though
+MAP37_e18_p0_7	あるのかは、あまりよく分からない。	how ancient exactly isn't well known.
+MAP37_e18_p0_8	色々な本や言い伝えから、500年くらい前には、	From various books and legends, it seems that around 500 years ago,
+MAP37_e18_p0_9	国王がいて、兵士がいて、街があったらしい。	there was a king, soldiers, and a town here.
 MAP37_e19_p0_1	『サクソンの日記』	"""Saxon's Diary"""
 MAP37_e19_p0_12	領内を荒らし回っていた野盗の集団を、遂に追い詰めた。	At last, I cornered the bandit gang that had been ravaging the territory.
-MAP37_e19_p0_13	この戦いで大手柄を挙げることで、あのロイを差し置いて	
-MAP37_e19_p0_14	わしが騎士団長になれないものか…。ううむ。	
+MAP37_e19_p0_13	この戦いで大手柄を挙げることで、あのロイを差し置いて	If I distinguish myself in this battle, ahead of that Roi,
+MAP37_e19_p0_14	わしが騎士団長になれないものか…。ううむ。	perhaps I can become Knight Commander... Hmm.
 MAP37_e19_p0_17	もうずっとわしが騎士団長代行のままだ。	I've been Acting Knight Commander all this time.
 MAP37_e19_p0_18	実質的にはわしが騎士団を率いているとはいえ…	Even if in practice I lead the knight order...
 MAP37_e19_p0_19	紋章のないわしにいざとなった時に国を守れるだろうか…	Without a crest, can I really protect the country in a crisis...?
 MAP37_e19_p0_2	…と、表紙に書かれた本がある。読んでみようか…	There's a book with these words on the cover. Should we read it...
-MAP37_e19_p0_7	代々何度も騎士団長、そして風の紋章を受け継いできた	
-MAP37_e19_p0_8	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	
-MAP37_e19_p0_9	とかいう男がいるせいで…。悔しい。	
+MAP37_e19_p0_7	代々何度も騎士団長、そして風の紋章を受け継いできた	My family has inherited the position of Knight Commander and the Wind Crest
+MAP37_e19_p0_8	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	for generations... I too wanted that honor, but because of that man Roi,
+MAP37_e19_p0_9	とかいう男がいるせいで…。悔しい。	How frustrating.
 MAP37_e20_p0_12	どこの自称天才さんの話だ？おい？	Who's this self-proclaimed genius, huh?
 MAP37_e20_p0_15	げっ！いたのかピピン！！	Gah! Pipin, you're here!!
 MAP37_e20_p0_16	ま、とりあえず、ウィン！がんばれよ！	Well, anyway, Win! Do your best!
 MAP37_e20_p0_17	…ピピンもな。	...You too, Pipin.
 MAP37_e20_p0_2	よう、ウィン。最近どうだ？	Yo, Win. How's it going?
-MAP37_e20_p0_22	なんだなんだ、騎士学校トップで卒業した	
-MAP37_e20_p0_23	お前が、そんなパッとしない顔して。	
+MAP37_e20_p0_22	なんだなんだ、騎士学校トップで卒業した	What's this? You graduated top of the knight academy,
+MAP37_e20_p0_23	お前が、そんなパッとしない顔して。	and you're wearing such a dull face.
 MAP37_e20_p0_24	最近実家のパン食べてないのか？	Haven't been eating your folks' bread lately?
-MAP37_e20_p0_7	そりゃあよかった！俺はお前ならきっと	
-MAP37_e20_p0_8	騎士団長になると思ってるんだ。	
+MAP37_e20_p0_7	そりゃあよかった！俺はお前ならきっと	Glad to hear it! I'm sure you'll
+MAP37_e20_p0_8	騎士団長になると思ってるんだ。	become Knight Commander one day.
 MAP37_e20_p0_9	あんな性格の悪い自称天才でなく…	Not some mean-spirited self-proclaimed genius like that guy...
 MAP37_e21_p0_12	ああ。	Yeah.
 MAP37_e21_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP37_e21_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP37_e21_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP37_e21_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP37_e21_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP37_e21_p0_2	…仕事か？	...More work?
 MAP37_e21_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP37_e21_p0_23	まさかウイン、	Don't tell me, Win,
@@ -2396,13 +2396,13 @@ MAP37_e21_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad fo
 MAP37_e21_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP37_e21_p0_32	…クッ	...Ugh
 MAP37_e21_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP37_e21_p0_7	人食いの獣が住み着いたっていう、	
-MAP37_e21_p0_8	西の監視塔か。	
+MAP37_e21_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP37_e21_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP37_e21_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
 MAP37_e22_p0_12	ああ。	Yeah.
 MAP37_e22_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP37_e22_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP37_e22_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP37_e22_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP37_e22_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP37_e22_p0_2	…仕事か？	...More work?
 MAP37_e22_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP37_e22_p0_23	まさかウイン、	Don't tell me, Win,
@@ -2412,19 +2412,19 @@ MAP37_e22_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad fo
 MAP37_e22_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP37_e22_p0_32	…クッ	...Ugh
 MAP37_e22_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP37_e22_p0_7	人食いの獣が住み着いたっていう、	
-MAP37_e22_p0_8	西の監視塔か。	
+MAP37_e22_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP37_e22_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP37_e22_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
 MAP37_e23_p0_12	どこの自称天才さんの話だ？おい？	Who's this self-proclaimed genius, huh?
 MAP37_e23_p0_15	げっ！いたのかピピン！！	Gah! Pipin, you're here!!
 MAP37_e23_p0_16	ま、とりあえず、ウィン！がんばれよ！	Well, anyway, Win! Do your best!
 MAP37_e23_p0_17	…ピピンもな。	...You too, Pipin.
 MAP37_e23_p0_2	よう、ウィン。最近どうだ？	Yo, Win. How's it going?
-MAP37_e23_p0_22	なんだなんだ、騎士学校トップで卒業した	
-MAP37_e23_p0_23	お前が、そんなパッとしない顔して。	
+MAP37_e23_p0_22	なんだなんだ、騎士学校トップで卒業した	What's this? You graduated top of the knight academy,
+MAP37_e23_p0_23	お前が、そんなパッとしない顔して。	and you're wearing such a dull face.
 MAP37_e23_p0_24	最近実家のパン食べてないのか？	Haven't been eating your folks' bread lately?
-MAP37_e23_p0_7	そりゃあよかった！俺はお前ならきっと	
-MAP37_e23_p0_8	騎士団長になると思ってるんだ。	
+MAP37_e23_p0_7	そりゃあよかった！俺はお前ならきっと	Glad to hear it! I'm sure you'll
+MAP37_e23_p0_8	騎士団長になると思ってるんだ。	become Knight Commander one day.
 MAP37_e23_p0_9	あんな性格の悪い自称天才でなく…	Not some mean-spirited self-proclaimed genius like that guy...
 MAP37_e24_p0_12	ヒソヒソ…	(whisper whisper)...
 MAP37_e24_p0_13	何が天才だ…　ガキの頃に親父からもらった	
@@ -2453,8 +2453,8 @@ MAP37_e24_p0_55	　　　　　　　　　　　　　そう…　　　　	I s
 MAP37_e24_p0_6	騎士団長に命ずる。	
 MAP37_e24_p0_8	…は、謹んで承ります	
 MAP37_e4_p0_2	騎士ウィン、お前にはまだ実戦経験が少ない。	Knight Win, you still lack real combat experience.
-MAP37_e4_p0_3	この任務を良い機会とし、ピピンから多くを	
-MAP37_e4_p0_4	学ぶのだ。よいな…　下がれ。	
+MAP37_e4_p0_3	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
+MAP37_e4_p0_4	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP37_e4_p1_11	お前の働きに期待しているぞ。	
 MAP37_e4_p1_12	下がれ。	
 MAP37_e4_p1_17	…すまぬが少し考え事をしているのだ。	
@@ -2484,8 +2484,8 @@ MAP37_e4_p1_61	…努力します。
 MAP37_e4_p2_10	しかし…	However...
 MAP37_e4_p2_101	長話は終わりにしよう。	
 MAP37_e4_p2_102	ウィンよ、ピピンをよろしく頼む。	Win, I entrust Pipin to you.
-MAP37_e4_p2_103	急ぎ、西の森に住むロイを訪ね、事の次第を	
-MAP37_e4_p2_104	伝え、城に出てくるよう説得するのだ。	
+MAP37_e4_p2_103	急ぎ、西の森に住むロイを訪ね、事の次第を	Hurry to the western forest, visit Roi who lives there,
+MAP37_e4_p2_104	伝え、城に出てくるよう説得するのだ。	tell him what's happened, and persuade him to come to the castle.
 MAP37_e4_p2_107	陛下、それは逆ですよ。	
 MAP37_e4_p2_108	なんで俺がこいつに面倒を見られにゃならんの	
 MAP37_e4_p2_109	です！	
@@ -2546,23 +2546,23 @@ MAP37_e4_p2_95	…な、んだと………？
 MAP37_e4_p2_98	この意味…	
 MAP37_e4_p2_99	分からないお前ではあるまい、ピピン。	
 MAP37_e4_p3_2	ウィンよ、ピピンをよろしく頼む。	Win, I entrust Pipin to you.
-MAP37_e4_p3_3	急ぎ、西の森に住むロイを訪ね、事の次第を	
-MAP37_e4_p3_4	伝え、城に出てくるよう説得するのだ。	
+MAP37_e4_p3_3	急ぎ、西の森に住むロイを訪ね、事の次第を	Hurry to the western forest, visit Roi who lives there,
+MAP37_e4_p3_4	伝え、城に出てくるよう説得するのだ。	tell him what's happened, and persuade him to come to the castle.
 MAP37_e5_p0_12	どこの自称天才さんの話だ？おい？	Who's this self-proclaimed genius, huh?
 MAP37_e5_p0_15	げっ！いたのかピピン！！	Gah! Pipin, you're here!!
 MAP37_e5_p0_16	ま、とりあえず、ウィン！がんばれよ！	Well, anyway, Win! Do your best!
 MAP37_e5_p0_17	…ピピンもな。	...You too, Pipin.
 MAP37_e5_p0_2	よう、ウィン。最近どうだ？	Yo, Win. How's it going?
-MAP37_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	
-MAP37_e5_p0_23	お前が、そんなパッとしない顔して。	
+MAP37_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	What's this? You graduated top of the knight academy,
+MAP37_e5_p0_23	お前が、そんなパッとしない顔して。	and you're wearing such a dull face.
 MAP37_e5_p0_24	最近実家のパン食べてないのか？	Haven't been eating your folks' bread lately?
-MAP37_e5_p0_7	そりゃあよかった！俺はお前ならきっと	
-MAP37_e5_p0_8	騎士団長になると思ってるんだ。	
+MAP37_e5_p0_7	そりゃあよかった！俺はお前ならきっと	Glad to hear it! I'm sure you'll
+MAP37_e5_p0_8	騎士団長になると思ってるんだ。	become Knight Commander one day.
 MAP37_e5_p0_9	あんな性格の悪い自称天才でなく…	Not some mean-spirited self-proclaimed genius like that guy...
 MAP37_e6_p0_12	ああ。	Yeah.
 MAP37_e6_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP37_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP37_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP37_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP37_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP37_e6_p0_2	…仕事か？	...More work?
 MAP37_e6_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP37_e6_p0_23	まさかウイン、	Don't tell me, Win,
@@ -2572,14 +2572,14 @@ MAP37_e6_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad for
 MAP37_e6_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP37_e6_p0_32	…クッ	...Ugh
 MAP37_e6_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP37_e6_p0_7	人食いの獣が住み着いたっていう、	
-MAP37_e6_p0_8	西の監視塔か。	
+MAP37_e6_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP37_e6_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP37_e6_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
-MAP37_e8_p0_2	ここから先は、ウィンダム王とお妃さまの	
-MAP37_e8_p0_3	寝室だぜ　…って、	
+MAP37_e8_p0_2	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP37_e8_p0_3	寝室だぜ　…って、	hey, you know—
 MAP37_e8_p0_4	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
-MAP37_e9_p0_3	ここから先は、ウィンダム王とお妃さまの	
-MAP37_e9_p0_4	寝室だぜ　…って、	
+MAP37_e9_p0_3	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP37_e9_p0_4	寝室だぜ　…って、	hey, you know—
 MAP37_e9_p0_5	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
 MAP38_e4_p0_10	　　　　　　　　　　　　エレサガ	
 MAP38_e4_p0_6	そんなものは、おとぎ話に過ぎなかったんだ…	
@@ -2608,7 +2608,7 @@ MAP39_e6_p1_59	おとう…さん………？
 MAP39_e6_p1_9	おとうさん…どうしたの、そのケガ…	
 MAP39_e8_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP40_e43_p0_10	サクソンが全軍を指揮していたんだ。	
-MAP40_e43_p0_14	サクソン殿！	
+MAP40_e43_p0_14	サクソン殿！	Lord Saxon!
 MAP40_e43_p0_15	なぜ私の許可なしに、全軍を動かしたのです！	
 MAP40_e43_p0_23	これはこれはロイ騎士団長…	
 MAP40_e43_p0_24	あなたの手をわずらわせるのも悪いと思ってな	
@@ -2628,9 +2628,9 @@ MAP40_e44_p1_16	塔の外にいた野党が…森の中の家を
 MAP40_e44_p1_17	襲っているようです…　　その…	
 MAP40_e44_p1_19	ロイ騎士団長の家を…	
 MAP40_e44_p1_22	…なんだと	
-MAP40_e44_p1_30	サクソン殿！	
+MAP40_e44_p1_30	サクソン殿！	Lord Saxon!
 MAP40_e44_p1_31	兵の何人かを救出に向かわせるぞ！いいな！？	
-MAP40_e44_p1_37	サクソン殿！	
+MAP40_e44_p1_37	サクソン殿！	Lord Saxon!
 MAP40_e44_p1_38	騎士団長は私だ！命令には従ってもらう！	
 MAP40_e44_p1_48	サクソン殿…！	
 MAP40_e44_p1_51	…兵は割けませんな。	
@@ -2817,7 +2817,7 @@ MAP49_e2_p0_156	やっぱり不合格か？
 MAP49_e2_p0_159	…………試練は	
 MAP49_e2_p0_162	（また喋った…）	
 MAP49_e2_p0_165	…………我は試練、関係ない	
-MAP49_e2_p0_168	………えっ？	
+MAP49_e2_p0_168	………えっ？	......Huh?
 MAP49_e2_p0_171	…………試練は、我の後ろに	
 MAP49_e2_p0_18	わかってるって…　オレは絶対にこの試練を	
 MAP49_e2_p0_19	乗り越えないといけないんだ…	
@@ -2859,7 +2859,7 @@ MAP49_e2_p1_158	やっぱり不合格か？
 MAP49_e2_p1_161	…………試練は	
 MAP49_e2_p1_164	（また喋った…）	
 MAP49_e2_p1_167	…………我は試練、関係ない	
-MAP49_e2_p1_170	………えっ？	
+MAP49_e2_p1_170	………えっ？	......Huh?
 MAP49_e2_p1_173	…………試練は、我の後ろに	
 MAP49_e2_p1_18	わかってるって…　オレは絶対にこの試練を	
 MAP49_e2_p1_19	乗り越えないといけないんだ…	
@@ -3064,7 +3064,7 @@ MAP50_e35_p1_156	墨か何かで書いてあるのか…？
 MAP50_e35_p1_159	は？	
 MAP50_e35_p1_160	そうだよ。毎朝墨入れするのが、継承者の	
 MAP50_e35_p1_161	役目だからな。	
-MAP50_e35_p1_166	………えっ？	
+MAP50_e35_p1_166	………えっ？	......Huh?
 MAP50_e35_p1_169	……え？	
 MAP50_e35_p1_17	ふーっ…	
 MAP50_e35_p1_173	いやいやいやいやいやいやいやいや…	
@@ -3165,13 +3165,13 @@ MAP50_e35_p2_93	この先すぐの橋を右に渡ったところです。
 MAP50_e35_p2_94	目立つ家なので、すぐわかると思います。	
 MAP50_e35_p2_97	おう、わかった！	
 MAP50_e35_p2_98	なんか色々と、すまなかった…	
-MAP50_e39_p0_2	狩場に魔物が出まくってて、しばらく	
-MAP50_e39_p0_3	ここは通行止めにさせてもらってる。	
+MAP50_e39_p0_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
+MAP50_e39_p0_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP50_e39_p1_10	任せておいてくれると助かるよ。	
 MAP50_e39_p1_13	分かった。でも、狩り以外でも何か助けが	
 MAP50_e39_p1_14	いるなら、気兼ねしないで話してくれよ？	
-MAP50_e39_p1_2	狩場に魔物が出まくってて、しばらく	
-MAP50_e39_p1_3	ここは通行止めにさせてもらってる。	
+MAP50_e39_p1_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
+MAP50_e39_p1_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP50_e39_p1_6	北の村でもか…。助けはいらないのか？	
 MAP50_e39_p1_9	ああ、むしろ狩人たちの邪魔になるから、	
 MAP50_e40_p0_2	　　　　　　上流土砂崩れのため通行禁止中	
@@ -3248,7 +3248,7 @@ MAP53_e10_p0_1	持ち出して役に立つようなものは何も見つけら�
 MAP53_e11_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP53_e12_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP53_e13_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP53_e14_p0_2	　　　　　　見たことのない薬類が入っている	
+MAP53_e14_p0_2	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP53_e4_p0_2	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP53_e4_p0_3	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
 MAP53_e4_p1_10	お前こんなところに何しに…？	
@@ -3263,26 +3263,26 @@ MAP53_e4_p1_3	ここはただの採石場だ。何もないよ。	This is just a
 MAP53_e4_p1_6	よう、バモヤシ。おひさ！	
 MAP53_e4_p1_9	うお！？ナガレ！？	
 MAP53_e5_p0_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
-MAP53_e5_p0_14	まだ村まで結構遠いし、魔物も出るから	
-MAP53_e5_p0_15	気を付けてねー	
+MAP53_e5_p0_14	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
+MAP53_e5_p0_15	気を付けてねー	be careful now~
 MAP53_e5_p0_2	旅人かい？	
-MAP53_e5_p0_20	まだ村まで結構遠いし、魔物も出るから	
-MAP53_e5_p0_21	気を付けてねー	
+MAP53_e5_p0_20	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
+MAP53_e5_p0_21	気を付けてねー	be careful now~
 MAP53_e5_p0_3	なにもなくってガッカリしただろ。	
 MAP53_e5_p0_4	まあ、よかったらお茶でも飲んでいけば？	
 MAP53_e5_p1_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
-MAP53_e5_p1_14	こうやってまた、たまには顔見せに来てよね、	
-MAP53_e5_p1_15	ナガレ。	
+MAP53_e5_p1_14	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
+MAP53_e5_p1_15	ナガレ。	Nagare?
 MAP53_e5_p1_18	うん、ありがとう！	Yeah, thank you!
 MAP53_e5_p1_2	あ、ナガレじゃん。	
-MAP53_e5_p1_23	こうやってまた、たまには顔見せに来てよね、	
-MAP53_e5_p1_24	ナガレ。	
+MAP53_e5_p1_23	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
+MAP53_e5_p1_24	ナガレ。	Nagare?
 MAP53_e5_p1_27	うん、ありがとう！	Yeah, thank you!
 MAP53_e5_p1_3	せっかく来たんだし、よかったら	
 MAP53_e5_p1_4	お茶でも飲んでいけば？	
 MAP53_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP53_e7_p0_2	　　　　セイリューとの連絡に用いられている手紙類だ	
-MAP53_e8_p0_2	　　　　　　見たことのない薬類が入っている	
+MAP53_e8_p0_2	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP53_e9_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP54_e3_p0_2	あらいらっしゃい。	
 MAP54_e3_p0_3	コメならここでは買えないよ。	
@@ -3411,7 +3411,7 @@ MAP55_e12_p0_300	紋章は龍が持っているってことか！？
 MAP55_e12_p0_301	そうなのかオタキ様！！	
 MAP55_e12_p0_304	そうじゃな…そうじゃが…	
 MAP55_e12_p0_305	もう少しで終わるんじゃ…黙ってなさい！！	
-MAP55_e12_p0_308	おう！	
+MAP55_e12_p0_308	おう！	Oh!
 MAP55_e12_p0_311	あーーーー！龍に会いたいーーーーー！！	
 MAP55_e12_p0_315	　　　　　　　水の者から紋章を継承した龍は	
 MAP55_e12_p0_317	　　　　　　　　　元気になったのじゃ	
@@ -3443,7 +3443,7 @@ MAP55_e12_p0_376	うおおお…　あ、そういう話か、これ？
 MAP55_e12_p0_379	ナガレ！そうやってすぐ村の守り神である	
 MAP55_e12_p0_380	龍を、ぶちのめすとか、食べるとか	
 MAP55_e12_p0_381	言っておるから、この話をしなかったんじゃ！	
-MAP55_e12_p0_384	…え？	
+MAP55_e12_p0_384	…え？	...Huh?
 MAP55_e12_p0_389	クスクス…	
 MAP55_e12_p0_394	…え？なに笑ってんの姉さま？	
 MAP55_e12_p0_397	しかし…	However...
@@ -4044,7 +4044,7 @@ MAP58_e5_p0_41	………そうか？
 MAP58_e5_p0_44	さあ、ホノオ、とっととやれ。	
 MAP58_e5_p0_45	あんたの魔法で爆発させればすぐだろう？	
 MAP58_e5_p0_48	…ああ、ちょっと待ってろ。	
-MAP58_e5_p0_6	おう！	
+MAP58_e5_p0_6	おう！	Oh!
 MAP58_e5_p0_7	…で？	
 MAP58_e5_p1_10	なんだ？	
 MAP58_e5_p1_13	こっから龍のいるっていう洞窟に入れるのか？	
@@ -4065,20 +4065,20 @@ MAP58_e5_p1_41	………そうか？
 MAP58_e5_p1_44	さあ、ホノオ、とっととやれ。	
 MAP58_e5_p1_45	あんたの魔法で爆発させればすぐだろう？	
 MAP58_e5_p1_48	…ああ、ちょっと待ってろ。	
-MAP58_e5_p1_6	おう！	
+MAP58_e5_p1_6	おう！	Oh!
 MAP58_e5_p1_7	…で？	
 MAP59_e6_p0_13	おい、なんでこんなに明るいんだ。	Hey, why is it so bright in here?
 MAP59_e6_p0_14	真っ暗闇って話だったはずだが…。	I thought this place was supposed to be pitch black...
-MAP59_e6_p0_17	ああ、それならオレとウィンの紋章を	
-MAP59_e6_p0_18	光らせてるからだ。	
+MAP59_e6_p0_17	ああ、それならオレとウィンの紋章を	Oh, that's because my crest and Win's
+MAP59_e6_p0_18	光らせてるからだ。	are shining.
 MAP59_e6_p0_21	え…？	Huh...?
 MAP59_e6_p0_23	…そうなのか？	...Is that so?
 MAP59_e6_p0_29	　　　　　　　　　　　ウィンは頷いた	Win nodded
 MAP59_e6_p0_32	あ、そう…　べ、便利だな…	O-Oh... H-Handy, huh...
 MAP59_e6_p1_13	おい、なんでこんなに明るいんだ。	Hey, why is it so bright in here?
 MAP59_e6_p1_14	真っ暗闇って話だったはずだが…。	I thought this place was supposed to be pitch black...
-MAP59_e6_p1_17	ああ、それならオレとウィンの紋章を	
-MAP59_e6_p1_18	光らせてるからだ。	
+MAP59_e6_p1_17	ああ、それならオレとウィンの紋章を	Oh, that's because my crest and Win's
+MAP59_e6_p1_18	光らせてるからだ。	are shining.
 MAP59_e6_p1_21	え…？	Huh...?
 MAP59_e6_p1_23	…そうなのか？	...Is that so?
 MAP59_e6_p1_29	　　　　　　　　　　　ウィンは頷いた	Win nodded
@@ -4219,8 +4219,8 @@ MAP60_e6_p0_158	あなた、戦う気はあるの！？
 MAP60_e6_p0_159	四天王のミケーネが命令しているのよ！	
 MAP60_e6_p0_16	さあ、青龍さん。	
 MAP60_e6_p0_162	お、お前の味方になって…た、戦う気なんてない！	
-MAP60_e6_p0_165	…え？	
-MAP60_e6_p0_168	…え？	
+MAP60_e6_p0_165	…え？	...Huh?
+MAP60_e6_p0_168	…え？	...Huh?
 MAP60_e6_p0_17	最強の闇の結晶よ…。	
 MAP60_e6_p0_171	………な、に？	
 MAP60_e6_p0_174	ミケーネの味方をして…	
@@ -4509,13 +4509,13 @@ MAP61_e20_p1_33	おう！！
 MAP61_e20_p1_5	出発するなら、先にここで買い物を済ませて	
 MAP61_e20_p1_6	おこう。向こうに着いたらそれどころじゃない	
 MAP61_e20_p1_7	可能性もあるからな。	
-MAP61_e39_p0_2	狩場に魔物が出まくってて、しばらく	
-MAP61_e39_p0_3	ここは通行止めにさせてもらってる。	
+MAP61_e39_p0_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
+MAP61_e39_p0_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP61_e39_p1_10	任せておいてくれると助かるよ。	
 MAP61_e39_p1_13	分かった。でも、狩り以外でも何か助けが	
 MAP61_e39_p1_14	いるなら、気兼ねしないで話してくれよ？	
-MAP61_e39_p1_2	狩場に魔物が出まくってて、しばらく	
-MAP61_e39_p1_3	ここは通行止めにさせてもらってる。	
+MAP61_e39_p1_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
+MAP61_e39_p1_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP61_e39_p1_6	北の村でもか…。助けはいらないのか？	
 MAP61_e39_p1_9	ああ、むしろ狩人たちの邪魔になるから、	
 MAP61_e49_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -4677,12 +4677,12 @@ MAP63_e35_p3_6	よう！　元気になったみたいでよかったぜ！
 MAP63_e35_p3_9	へ？　あ、王子　どうもっす	
 MAP63_e36_p0_2	親父…　みんな…　生きていてくれ…！	
 MAP63_e40_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP63_e41_p0_2	あそこの店からいい匂いがするんだー	
-MAP63_e41_p0_3	くんくん　何の匂いかわからないけれど	
-MAP63_e41_p0_4	うまそうな匂いだぜー！	
-MAP63_e41_p1_2	あそこの店からいい匂いがするんだー	
-MAP63_e41_p1_3	くんくん　何の匂いかわからないけれど	
-MAP63_e41_p1_4	うまそうな匂いだぜー！	
+MAP63_e41_p0_2	あそこの店からいい匂いがするんだー	That shop over there smells great!
+MAP63_e41_p0_3	くんくん　何の匂いかわからないけれど	sniff sniff... I can't tell what it is,
+MAP63_e41_p0_4	うまそうな匂いだぜー！	but it smells delicious!
+MAP63_e41_p1_2	あそこの店からいい匂いがするんだー	That shop over there smells great!
+MAP63_e41_p1_3	くんくん　何の匂いかわからないけれど	sniff sniff... I can't tell what it is,
+MAP63_e41_p1_4	うまそうな匂いだぜー！	but it smells delicious!
 MAP63_e42_p0_1	『シャムシールの扱い』	
 MAP63_e42_p0_10	少ない力と動きで深く鋭く切り込めるのが特徴である。	
 MAP63_e42_p0_12	その為、腕力だけでなく、技量によっても多様な使い方、	
@@ -4715,54 +4715,54 @@ MAP63_e44_p0_3	燃える岩がたくさん降ってきたってのに…
 MAP63_e44_p0_6	…ああ。	...Yeah.
 MAP63_e44_p0_7	街の方もこれぐらい頑丈に作っておけば…	
 MAP63_e44_p0_8	あんなひでえことにならなかったのによー…	
-MAP63_e45_p0_2	魔物が増えたってんで、最近は行商人も	
-MAP63_e45_p0_3	めっきり来なくなったなあ。	
-MAP63_e45_p1_2	魔物が増えたってんで、最近は行商人も	
-MAP63_e45_p1_3	めっきり来なくなったなあ。	
-MAP63_e46_p0_14	どけちー！！	
-MAP63_e46_p0_15	なんで1Gも渡せないんだよドケチーーー！！！	
-MAP63_e46_p0_18	考えてみろよ　その1Gもらったら俺がどんだけ	
-MAP63_e46_p0_19	よろこぶとおもうんだ？	
-MAP63_e46_p0_2	にーちゃーん	
-MAP63_e46_p0_20	あんたのこと神様だと思うぞ！	
-MAP63_e46_p0_23	お前のたったの1Gが俺にわたすだけで	
-MAP63_e46_p0_24	お前を神様にするんだぞ！？	
-MAP63_e46_p0_25	その価値がわからないのかお前はーーーー！！	
-MAP63_e46_p0_3	少しでいいからお金めぐんでくれなーい？	
-MAP63_e46_p0_8	あっす	
-MAP63_e46_p1_14	どけちー！！	
-MAP63_e46_p1_15	なんで1Gも渡せないんだよドケチーーー！！！	
-MAP63_e46_p1_18	考えてみろよ　その1Gもらったら俺がどんだけ	
-MAP63_e46_p1_19	よろこぶとおもうんだ？	
-MAP63_e46_p1_2	にーちゃーん	
-MAP63_e46_p1_20	あんたのこと神様だと思うぞ！	
-MAP63_e46_p1_23	お前のたったの1Gが俺にわたすだけで	
-MAP63_e46_p1_24	お前を神様にするんだぞ！？	
-MAP63_e46_p1_25	その価値がわからないのかお前はーーーー！！	
-MAP63_e46_p1_3	少しでいいからお金めぐんでくれなーい？	
-MAP63_e46_p1_8	あっす	
-MAP63_e47_p0_2	あんまり活気がないって？	
-MAP63_e47_p0_3	みんな暑くて外に出たがらないのよ。	
-MAP63_e47_p0_4	お天気なのにもったいないと思わない？	
-MAP63_e47_p1_2	あんまり活気がないって？	
-MAP63_e47_p1_3	みんな暑くて外に出たがらないのよ。	
-MAP63_e47_p1_4	お天気なのにもったいないと思わない？	
-MAP63_e48_p0_2	野盗が増えとると兵たちは一年中言うとるが、	
-MAP63_e48_p0_3	別にいまはじまったことじゃない、昔から	
-MAP63_e48_p0_4	一定数おるんじゃ。	
-MAP63_e48_p1_2	野盗が増えとると兵たちは一年中言うとるが、	
-MAP63_e48_p1_3	別にいまはじまったことじゃない、昔から	
-MAP63_e48_p1_4	一定数おるんじゃ。	
-MAP63_e49_p0_2	なんか今年は特に暑い気がしないか？	
-MAP63_e49_p0_3	あたしの気のせいかねえ…	
-MAP63_e49_p1_2	なんか今年は特に暑い気がしないか？	
-MAP63_e49_p1_3	あたしの気のせいかねえ…	
-MAP63_e50_p0_2	野盗が増えとると兵たちは一年中言うとるが、	
-MAP63_e50_p0_3	別にいまはじまったことじゃない、昔から	
-MAP63_e50_p0_4	一定数おるんじゃ。	
-MAP63_e50_p1_2	野盗が増えとると兵たちは一年中言うとるが、	
-MAP63_e50_p1_3	別にいまはじまったことじゃない、昔から	
-MAP63_e50_p1_4	一定数おるんじゃ。	
+MAP63_e45_p0_2	魔物が増えたってんで、最近は行商人も	With monsters on the rise, even the peddlers
+MAP63_e45_p0_3	めっきり来なくなったなあ。	have stopped coming lately.
+MAP63_e45_p1_2	魔物が増えたってんで、最近は行商人も	With monsters on the rise, even the peddlers
+MAP63_e45_p1_3	めっきり来なくなったなあ。	have stopped coming lately.
+MAP63_e46_p0_14	どけちー！！	Move it!!
+MAP63_e46_p0_15	なんで1Gも渡せないんだよドケチーーー！！！	Why can't you spare even 1G, you cheapskate!!?
+MAP63_e46_p0_18	考えてみろよ　その1Gもらったら俺がどんだけ	Think about it—if I got that 1G, just how happy
+MAP63_e46_p0_19	よろこぶとおもうんだ？	do you think I'd be?
+MAP63_e46_p0_2	にーちゃーん	Big bro!
+MAP63_e46_p0_20	あんたのこと神様だと思うぞ！	I'll think of you as a god!
+MAP63_e46_p0_23	お前のたったの1Gが俺にわたすだけで	Just by giving me a single 1G of yours,
+MAP63_e46_p0_24	お前を神様にするんだぞ！？	you'd make yourself a god, you know!?
+MAP63_e46_p0_25	その価値がわからないのかお前はーーーー！！	Can't you see that value!?
+MAP63_e46_p0_3	少しでいいからお金めぐんでくれなーい？	Could you spare a little money?
+MAP63_e46_p0_8	あっす	Yo.
+MAP63_e46_p1_14	どけちー！！	Move it!!
+MAP63_e46_p1_15	なんで1Gも渡せないんだよドケチーーー！！！	Why can't you spare even 1G, you cheapskate!!?
+MAP63_e46_p1_18	考えてみろよ　その1Gもらったら俺がどんだけ	Think about it—if I got that 1G, just how happy
+MAP63_e46_p1_19	よろこぶとおもうんだ？	do you think I'd be?
+MAP63_e46_p1_2	にーちゃーん	Big bro!
+MAP63_e46_p1_20	あんたのこと神様だと思うぞ！	I'll think of you as a god!
+MAP63_e46_p1_23	お前のたったの1Gが俺にわたすだけで	Just by giving me a single 1G of yours,
+MAP63_e46_p1_24	お前を神様にするんだぞ！？	you'd make yourself a god, you know!?
+MAP63_e46_p1_25	その価値がわからないのかお前はーーーー！！	Can't you see that value!?
+MAP63_e46_p1_3	少しでいいからお金めぐんでくれなーい？	Could you spare a little money?
+MAP63_e46_p1_8	あっす	Yo.
+MAP63_e47_p0_2	あんまり活気がないって？	Not much hustle and bustle, you say?
+MAP63_e47_p0_3	みんな暑くて外に出たがらないのよ。	Nobody wants to go outside in this heat.
+MAP63_e47_p0_4	お天気なのにもったいないと思わない？	Don't you think it's a waste, with such nice weather?
+MAP63_e47_p1_2	あんまり活気がないって？	Not much hustle and bustle, you say?
+MAP63_e47_p1_3	みんな暑くて外に出たがらないのよ。	Nobody wants to go outside in this heat.
+MAP63_e47_p1_4	お天気なのにもったいないと思わない？	Don't you think it's a waste, with such nice weather?
+MAP63_e48_p0_2	野盗が増えとると兵たちは一年中言うとるが、	The soldiers talk all year about how the bandits are increasing,
+MAP63_e48_p0_3	別にいまはじまったことじゃない、昔から	but it's nothing new—since long ago
+MAP63_e48_p0_4	一定数おるんじゃ。	there's always been a steady number of them.
+MAP63_e48_p1_2	野盗が増えとると兵たちは一年中言うとるが、	The soldiers talk all year about how the bandits are increasing,
+MAP63_e48_p1_3	別にいまはじまったことじゃない、昔から	but it's nothing new—since long ago
+MAP63_e48_p1_4	一定数おるんじゃ。	there's always been a steady number of them.
+MAP63_e49_p0_2	なんか今年は特に暑い気がしないか？	Don't you think it's especially hot this year?
+MAP63_e49_p0_3	あたしの気のせいかねえ…	Or maybe it's just me...
+MAP63_e49_p1_2	なんか今年は特に暑い気がしないか？	Don't you think it's especially hot this year?
+MAP63_e49_p1_3	あたしの気のせいかねえ…	Or maybe it's just me...
+MAP63_e50_p0_2	野盗が増えとると兵たちは一年中言うとるが、	The soldiers talk all year about how the bandits are increasing,
+MAP63_e50_p0_3	別にいまはじまったことじゃない、昔から	but it's nothing new—since long ago
+MAP63_e50_p0_4	一定数おるんじゃ。	there's always been a steady number of them.
+MAP63_e50_p1_2	野盗が増えとると兵たちは一年中言うとるが、	The soldiers talk all year about how the bandits are increasing,
+MAP63_e50_p1_3	別にいまはじまったことじゃない、昔から	but it's nothing new—since long ago
+MAP63_e50_p1_4	一定数おるんじゃ。	there's always been a steady number of them.
 MAP63_e51_p0_11	えー？　あっ王子！	
 MAP63_e51_p0_12	いやでもこのひとらに城ん中うろうろさせたら	
 MAP63_e51_p0_13	何するかわかんないんすよー	
@@ -4793,12 +4793,12 @@ MAP63_e52_p1_6	城ん中、直せそうか？
 MAP63_e52_p1_9	もともと石積み上げまくってるだけなんで、	
 MAP63_e53_p1_17	もしかして…　武器とか買いに来ました…？	
 MAP63_e53_p2_17	もしかして…　武器とか買いに来ました…？	
-MAP63_e54_p0_2	最近スパイスが高いわねーーー	
-MAP63_e54_p0_3	野菜も高いし…　なのに使えるお金は	
-MAP63_e54_p0_4	変わらないし…	
-MAP63_e54_p1_2	最近スパイスが高いわねーーー	
-MAP63_e54_p1_3	野菜も高いし…　なのに使えるお金は	
-MAP63_e54_p1_4	変わらないし…	
+MAP63_e54_p0_2	最近スパイスが高いわねーーー	Spices are so expensive lately...
+MAP63_e54_p0_3	野菜も高いし…　なのに使えるお金は	Vegetables are pricey too... yet the money we can spend
+MAP63_e54_p0_4	変わらないし…	never changes...
+MAP63_e54_p1_2	最近スパイスが高いわねーーー	Spices are so expensive lately...
+MAP63_e54_p1_3	野菜も高いし…　なのに使えるお金は	Vegetables are pricey too... yet the money we can spend
+MAP63_e54_p1_4	変わらないし…	never changes...
 MAP63_e55_p0_2	えっ？　牢屋じゃないよ。	
 MAP63_e55_p0_3	ここは家畜小屋さ。	
 MAP63_e55_p1_2	あーーーわしの家畜小屋が…！！	
@@ -5183,8 +5183,8 @@ MAP64_e37_p0_2	　　　左　ホノオ王子の部屋　右　ホムラ王子�
 MAP64_e4_p0_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP64_e4_p0_10	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
 MAP64_e4_p0_12	オレが、いつまでたっても本を読まないから	Because I never read any books, no matter how much time passed
-MAP64_e4_p0_13	あにきが本を読みまくってすげえあたまいいのは	
-MAP64_e4_p0_14	オレだってわかってる	
+MAP64_e4_p0_13	あにきが本を読みまくってすげえあたまいいのは	Big bro reads tons of books and is super smart.
+MAP64_e4_p0_14	オレだってわかってる	Even I know that.
 MAP64_e4_p0_15	だけどなんかよめないんだよオレは	But somehow I just can't read them
 MAP64_e4_p0_17	みんなオレをアニキとくらべてダメなやつだって言う	Everyone says I'm a hopeless loser compared to big bro
 MAP64_e4_p0_18	アニキをみならえって言う	They tell me to be more like big bro
@@ -5201,8 +5201,8 @@ MAP64_e4_p0_9	だいじんにもせっきょうされた	Even the minister lectu
 MAP64_e4_p1_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP64_e4_p1_10	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
 MAP64_e4_p1_12	オレが、いつまでたっても本を読まないから	Because I never read any books, no matter how much time passed
-MAP64_e4_p1_13	あにきが本を読みまくってすげえあたまいいのは	
-MAP64_e4_p1_14	オレだってわかってる	
+MAP64_e4_p1_13	あにきが本を読みまくってすげえあたまいいのは	Big bro reads tons of books and is super smart.
+MAP64_e4_p1_14	オレだってわかってる	Even I know that.
 MAP64_e4_p1_15	だけどなんかよめないんだよオレは	But somehow I just can't read them
 MAP64_e4_p1_17	みんなオレをアニキとくらべてダメなやつだって言う	Everyone says I'm a hopeless loser compared to big bro
 MAP64_e4_p1_18	アニキをみならえって言う	They tell me to be more like big bro
@@ -5215,8 +5215,8 @@ MAP64_e4_p1_24	アニキみたいになりたいんだ	I want to be like you, bi
 MAP64_e4_p1_25	くっそーーーーーーーーーーー	Daaaaamn————
 MAP64_e4_p1_28	うお！？うわっ！！えっ！？	
 MAP64_e4_p1_3	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP64_e4_p1_31	てめえウィン…俺がちょっと目を離したスキに	
-MAP64_e4_p1_32	なに勝手に読んでんだよーーー	
+MAP64_e4_p1_31	てめえウィン…俺がちょっと目を離したスキに	You little—! Win... while I wasn't looking,
+MAP64_e4_p1_32	なに勝手に読んでんだよーーー	what are you reading on your own!?
 MAP64_e4_p1_38	おまえなにだまってんだよ…	What are you not saying...?
 MAP64_e4_p1_39	なに黙ってんだよーーーーーー！！	Why aren't you saying anything!?
 MAP64_e4_p1_8	オヤジにめちゃくちゃどなられた	Dad yelled at me like crazy
@@ -5224,8 +5224,8 @@ MAP64_e4_p1_9	だいじんにもせっきょうされた	Even the minister lectu
 MAP64_e4_p2_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP64_e4_p2_10	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
 MAP64_e4_p2_12	オレが、いつまでたっても本を読まないから	Because I never read any books, no matter how much time passed
-MAP64_e4_p2_13	あにきが本を読みまくってすげえあたまいいのは	
-MAP64_e4_p2_14	オレだってわかってる	
+MAP64_e4_p2_13	あにきが本を読みまくってすげえあたまいいのは	Big bro reads tons of books and is super smart.
+MAP64_e4_p2_14	オレだってわかってる	Even I know that.
 MAP64_e4_p2_15	だけどなんかよめないんだよオレは	But somehow I just can't read them
 MAP64_e4_p2_17	みんなオレをアニキとくらべてダメなやつだって言う	Everyone says I'm a hopeless loser compared to big bro
 MAP64_e4_p2_18	アニキをみならえって言う	They tell me to be more like big bro
@@ -5236,8 +5236,8 @@ MAP64_e4_p2_22	だけどアニキちがうんだよ	But big bro, you're wrong
 MAP64_e4_p2_23	オレだって本を読みたいんだよ	I want to read books too
 MAP64_e4_p2_24	アニキみたいになりたいんだ	I want to be like you, big bro
 MAP64_e4_p2_25	くっそーーーーーーーーーーー	Daaaaamn————
-MAP64_e4_p2_28	てめえウィン…俺がちょっと目を離したスキに	
-MAP64_e4_p2_29	なに勝手に読んでんだよーーー	
+MAP64_e4_p2_28	てめえウィン…俺がちょっと目を離したスキに	You little—! Win... while I wasn't looking,
+MAP64_e4_p2_29	なに勝手に読んでんだよーーー	what are you reading on your own!?
 MAP64_e4_p2_3	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP64_e4_p2_35	おまえなにだまってんだよ…	What are you not saying...?
 MAP64_e4_p2_36	なに黙ってんだよーーーーーー！！	Why aren't you saying anything!?
@@ -5248,10 +5248,10 @@ MAP64_e4_p2_49	それならむしろ黙っててくれ…
 MAP64_e4_p2_8	オヤジにめちゃくちゃどなられた	Dad yelled at me like crazy
 MAP64_e4_p2_9	だいじんにもせっきょうされた	Even the minister lectured me
 MAP64_e5_p0_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
-MAP64_e5_p0_11	ポケットに入っていたカラカラに乾いたパンを差し出して	
-MAP64_e5_p0_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	
-MAP64_e5_p0_13	ありがとうとと呟き、涙を流しながらひざまづいたのだ。	
-MAP64_e5_p0_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	
+MAP64_e5_p0_11	ポケットに入っていたカラカラに乾いたパンを差し出して	When I offered him the bone-dry bread from my pocket,
+MAP64_e5_p0_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	he bowed his head and thanked me—
+MAP64_e5_p0_13	ありがとうとと呟き、涙を流しながらひざまづいたのだ。	"He murmured ""thank you"" and knelt down, tears streaming down his face."
+MAP64_e5_p0_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	With a single dry piece of bread, a murderer became a good man in an instant.
 MAP64_e5_p0_16	乾いたパン一つにその力があるのに、僕らが毎日食べている	If one dry piece of bread holds that much power, then the meals we eat every day—
 MAP64_e5_p0_17	食事は、その一食で、あの乾いたパン何個分だろうか…。	
 MAP64_e5_p0_2	『日記　というよりも覚書のようなもの』	"""A Diary — or Rather, Some Scraps of Notes"""
@@ -5259,29 +5259,29 @@ MAP64_e5_p0_3	…と、表紙に書かれた本がある。読んでみようか
 MAP64_e5_p0_8	昨日の朝、散歩をしていたら突然物乞いに襲われた。	Yesterday morning, while out for a walk, I was suddenly attacked by a beggar.
 MAP64_e5_p0_9	恐怖を必死で抑えながら語りかけたが全く要領を得ない。	I spoke to him while desperately suppressing my fear, but he made no sense at all.
 MAP64_e5_p1_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
-MAP64_e5_p1_11	ポケットに入っていたカラカラに乾いたパンを差し出して	
-MAP64_e5_p1_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	
-MAP64_e5_p1_13	ありがとうとと呟き、涙を流しながらひざまづいたのだ。	
-MAP64_e5_p1_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	
+MAP64_e5_p1_11	ポケットに入っていたカラカラに乾いたパンを差し出して	When I offered him the bone-dry bread from my pocket,
+MAP64_e5_p1_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	he bowed his head and thanked me—
+MAP64_e5_p1_13	ありがとうとと呟き、涙を流しながらひざまづいたのだ。	"He murmured ""thank you"" and knelt down, tears streaming down his face."
+MAP64_e5_p1_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	With a single dry piece of bread, a murderer became a good man in an instant.
 MAP64_e5_p1_16	乾いたパン一つにその力があるのに、僕らが毎日食べている	If one dry piece of bread holds that much power, then the meals we eat every day—
 MAP64_e5_p1_17	食事はその一食で、あの乾いたパン何個分だろうか…。	That one meal was worth how many of those dry pieces of bread, I wonder...
 MAP64_e5_p1_2	『日記　というよりも覚書のようなもの』	"""A Diary — or Rather, Some Scraps of Notes"""
-MAP64_e5_p1_20	やっぱ兄貴はすげえ…　何がすげえのかは	
-MAP64_e5_p1_21	よく分からねえんだが…やっぱ兄貴はすげえ。	
+MAP64_e5_p1_20	やっぱ兄貴はすげえ…　何がすげえのかは	Big bro really is amazing... I can't quite say what's so amazing,
+MAP64_e5_p1_21	よく分からねえんだが…やっぱ兄貴はすげえ。	but big bro really is amazing.
 MAP64_e5_p1_22	何かこう、胸にズシンと来るんだ…	Something just hits me right in the chest...
 MAP64_e5_p1_3	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP64_e5_p1_8	昨日の朝、散歩をしていたら突然物乞いに襲われた。	Yesterday morning, while out for a walk, I was suddenly attacked by a beggar.
 MAP64_e5_p1_9	恐怖を必死で抑えながら語りかけたが全く要領を得ない。	I spoke to him while desperately suppressing my fear, but he made no sense at all.
 MAP64_e5_p2_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
-MAP64_e5_p2_11	ポケットに入っていたカラカラに乾いたパンを差し出して	
-MAP64_e5_p2_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	
+MAP64_e5_p2_11	ポケットに入っていたカラカラに乾いたパンを差し出して	When I offered him the bone-dry bread from my pocket,
+MAP64_e5_p2_12	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	he bowed his head and thanked me—
 MAP64_e5_p2_13	ありがとうと呟き、涙を流しながらひざまずいたのだ。	
-MAP64_e5_p2_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	
+MAP64_e5_p2_15	乾いたパンひとつで殺人者が刹那に善人になったのだ。	With a single dry piece of bread, a murderer became a good man in an instant.
 MAP64_e5_p2_16	乾いたパン一つにその力があるのに、僕らが毎日食べている	If one dry piece of bread holds that much power, then the meals we eat every day—
 MAP64_e5_p2_17	食事はその一食で、あの乾いたパン何個分だろうか…。	That one meal was worth how many of those dry pieces of bread, I wonder...
 MAP64_e5_p2_2	『日記　というよりも覚書のようなもの』	"""A Diary — or Rather, Some Scraps of Notes"""
-MAP64_e5_p2_20	やっぱ兄貴はすげえ…　何がすげえのかは	
-MAP64_e5_p2_21	よく分からねえんだが…やっぱ兄貴はすげえ。	
+MAP64_e5_p2_20	やっぱ兄貴はすげえ…　何がすげえのかは	Big bro really is amazing... I can't quite say what's so amazing,
+MAP64_e5_p2_21	よく分からねえんだが…やっぱ兄貴はすげえ。	but big bro really is amazing.
 MAP64_e5_p2_22	何かこう、胸にズシンと来るんだ…	Something just hits me right in the chest...
 MAP64_e5_p2_25	…ホノオ。	...Hono.
 MAP64_e5_p2_26	あんた本当アタマ悪そうな喋り方が…	
@@ -5315,15 +5315,15 @@ MAP64_e7_p0_32	あの聞き分けのない我が息子を連れ戻して
 MAP64_e7_p0_33	ほしい…。試練どころではないと分かれば、	
 MAP64_e7_p0_34	あやつも頭を冷やすだろう。	
 MAP64_e7_p0_9	　　　　ウィンはフレイム王に自己紹介をしてから	
-MAP64_e8_p0_2	本来次期国王は、紋章を継承したあとにすぐ	
-MAP64_e8_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	
-MAP64_e8_p0_4	ならん…	
-MAP64_e8_p0_6	しかし最近南の遺跡に魔物が増えたのと、	
-MAP64_e8_p0_7	何より王子が死んでしまうのを恐れて、	
-MAP64_e8_p0_8	王は今回の試練を見送るつもりだったのだ…	
-MAP64_e9_p0_2	私も試練には反対したのだが…	
-MAP64_e9_p0_3	ホノオ王子は勝手に行ってしまった。	
-MAP64_e9_p0_4	まったく…思慮の浅いお方で頭が痛い…。	
+MAP64_e8_p0_2	本来次期国王は、紋章を継承したあとにすぐ	Normally, the next king must, right after inheriting the crest,
+MAP64_e8_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	journey alone to the Southern Ruins and complete the trial
+MAP64_e8_p0_4	ならん…	—that's the rule...
+MAP64_e8_p0_6	しかし最近南の遺跡に魔物が増えたのと、	But with monsters increasing in the Southern Ruins lately,
+MAP64_e8_p0_7	何より王子が死んでしまうのを恐れて、	and above all fearing the prince might die,
+MAP64_e8_p0_8	王は今回の試練を見送るつもりだったのだ…	the king intended to skip the trial this time...
+MAP64_e9_p0_2	私も試練には反対したのだが…	I opposed the trial as well, but...
+MAP64_e9_p0_3	ホノオ王子は勝手に行ってしまった。	Prince Hono went off on his own.
+MAP64_e9_p0_4	まったく…思慮の浅いお方で頭が痛い…。	Good grief... that thoughtless boy gives me a headache...
 MAP65_e10_p0_105	陛下…	
 MAP65_e10_p0_108	まさか、こやつのことを…？	
 MAP65_e10_p0_111	…ボクのことを、知っているの？	
@@ -5362,8 +5362,8 @@ MAP65_e10_p0_90	…なに！
 MAP65_e10_p0_93	…闇の四天王…　最弱、かつ最強…	
 MAP65_e10_p0_96	…堕天の炎…　ダフィールだと…！！？	
 MAP65_e11_p0_2	…サクソンめ、なにが闇のエレメントだ。	...That Saxon, what's this about a Dark Element.
-MAP65_e11_p0_3	自分の能無しを、おとぎ話で誤魔化すなんて、	
-MAP65_e11_p0_4	恥知らずにもほどがある。	
+MAP65_e11_p0_3	自分の能無しを、おとぎ話で誤魔化すなんて、	Covering up his own incompetence with fairy tales—
+MAP65_e11_p0_4	恥知らずにもほどがある。	the shamelessness knows no bounds.
 MAP65_e12_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP65_e13_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP65_e14_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -5371,48 +5371,48 @@ MAP65_e15_p0_1	持ち出して役に立つようなものは何も見つけら�
 MAP65_e16_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP65_e17_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP65_e18_p0_1	『ウィンダム王国の歴史』	"""History of the Windam Kingdom"""
-MAP65_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	
-MAP65_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	
-MAP65_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	
+MAP65_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
+MAP65_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
+MAP65_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
 MAP65_e18_p0_15	風のエレメントの加護で突然出来たお城と国である、	
-MAP65_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	
-MAP65_e18_p0_17	信じられている。	
+MAP65_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
+MAP65_e18_p0_17	信じられている。	outside the Windam Kingdom as well.
 MAP65_e18_p0_18	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
 MAP65_e18_p0_2	…と表紙に書かれた本がある。読んでみようか…・	There's a book with these words on the cover. Should we read it...?
-MAP65_e18_p0_6	大昔からある国だと伝わるが、実際にどのくらい大昔から	
-MAP65_e18_p0_7	あるのかは、あまりよく分からない。	
-MAP65_e18_p0_8	色々な本や言い伝えから、500年くらい前には、	
-MAP65_e18_p0_9	国王がいて、兵士がいて、街があったらしい。	
+MAP65_e18_p0_6	大昔からある国だと伝わるが、実際にどのくらい大昔から	The kingdom is said to have existed since ancient times, though
+MAP65_e18_p0_7	あるのかは、あまりよく分からない。	how ancient exactly isn't well known.
+MAP65_e18_p0_8	色々な本や言い伝えから、500年くらい前には、	From various books and legends, it seems that around 500 years ago,
+MAP65_e18_p0_9	国王がいて、兵士がいて、街があったらしい。	there was a king, soldiers, and a town here.
 MAP65_e19_p0_1	『サクソンの日記』	"""Saxon's Diary"""
 MAP65_e19_p0_12	領内を荒らし回っていた野盗の集団を、遂に追い詰めた。	At last, I cornered the bandit gang that had been ravaging the territory.
-MAP65_e19_p0_13	この戦いで大手柄を挙げることで、あのロイを差し置いて	
-MAP65_e19_p0_14	わしが騎士団長になれないものか…。ううむ。	
+MAP65_e19_p0_13	この戦いで大手柄を挙げることで、あのロイを差し置いて	If I distinguish myself in this battle, ahead of that Roi,
+MAP65_e19_p0_14	わしが騎士団長になれないものか…。ううむ。	perhaps I can become Knight Commander... Hmm.
 MAP65_e19_p0_17	もうずっとわしが騎士団長代行のままだ。	I've been Acting Knight Commander all this time.
 MAP65_e19_p0_18	実質的にはわしが騎士団を率いているとはいえ…	Even if in practice I lead the knight order...
 MAP65_e19_p0_19	紋章のないわしにいざとなった時に国を守れるだろうか…	Without a crest, can I really protect the country in a crisis...?
 MAP65_e19_p0_2	…と、表紙に書かれた本がある。読んでみようか…	There's a book with these words on the cover. Should we read it...
-MAP65_e19_p0_7	代々何度も騎士団長、そして風の紋章を受け継いできた	
-MAP65_e19_p0_8	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	
-MAP65_e19_p0_9	とかいう男がいるせいで…。悔しい。	
+MAP65_e19_p0_7	代々何度も騎士団長、そして風の紋章を受け継いできた	My family has inherited the position of Knight Commander and the Wind Crest
+MAP65_e19_p0_8	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	for generations... I too wanted that honor, but because of that man Roi,
+MAP65_e19_p0_9	とかいう男がいるせいで…。悔しい。	How frustrating.
 MAP65_e1_p0_2	ウィン、きさまどこへ行くつもりだ！？	
 MAP65_e1_p0_3	王の間へ行かなくていいのか！？	
 MAP65_e2_p0_2	ウィン、きさまどこへ行くつもりだ！？	
 MAP65_e2_p0_3	王の間へ行かなくていいのか！？	
 MAP65_e31_p0_11	随分と焦ってるようだが、それも当然だな。	You look quite flustered, and rightly so.
-MAP65_e31_p0_12	西の監視塔なら、毎月サクソン団長代行が	
-MAP65_e31_p0_13	見回りを命じられているはずだからな。	
+MAP65_e31_p0_12	西の監視塔なら、毎月サクソン団長代行が	As for the West Watchtower, Acting Commander Saxon
+MAP65_e31_p0_13	見回りを命じられているはずだからな。	should be ordered to patrol it every month.
 MAP65_e31_p0_16	ええい、ピピンめ、無礼なあああああ！！	Bah! Pipin, you insolent—!
-MAP65_e31_p0_19	確かに前回の見回りでは異常なかったのだ！	
+MAP65_e31_p0_19	確かに前回の見回りでは異常なかったのだ！	It's true that nothing was abnormal during the last patrol!
 MAP65_e31_p0_2	わしは忙しいのだウィン！邪魔を…	I'm a busy man, Win! Don't bother—
-MAP65_e31_p0_20	魔物どころか、ねずみ一匹さえ、クモ一匹さえ	
-MAP65_e31_p0_21	いなかったのだ！！	
+MAP65_e31_p0_20	魔物どころか、ねずみ一匹さえ、クモ一匹さえ	Not a single monster—not even one mouse,
+MAP65_e31_p0_21	いなかったのだ！！	not even one spider!!
 MAP65_e31_p0_24	どうだかね…。	Who can say...
 MAP65_e31_p0_27	しつこいぞ、ピピン！し、しかし…	Persistent, aren't you, Pipin! B-But...
-MAP65_e31_p0_28	もしかすれば、闇のエレメントの復活が	
-MAP65_e31_p0_29	近いのかも知れぬ…	
-MAP65_e31_p0_3	ん？西の監視塔に人食いの魔物が出たから	
+MAP65_e31_p0_28	もしかすれば、闇のエレメントの復活が	Perhaps the revival of the Dark Element is
+MAP65_e31_p0_29	近いのかも知れぬ…	near...
+MAP65_e31_p0_3	ん？西の監視塔に人食いの魔物が出たから	Hm? A man-eating monster appeared at the West Watchtower, so
 MAP65_e31_p0_32	ふたりとも、気を引き締めていくのだ！！	Both of you, stay sharp!!
-MAP65_e31_p0_4	調査に行く、だと…？	
+MAP65_e31_p0_4	調査に行く、だと…？	you're going to investigate...?
 MAP65_e31_p0_7	そ、それは大変だのう！	T-That is serious indeed!
 MAP65_e31_p0_8	気を付けて行ってまいれよ！	Do go carefully!
 MAP65_e32_p0_10	派手なバケモノが…王の間に…！	
@@ -6036,8 +6036,8 @@ MAP65_e44_p1_71	助かります。
 MAP65_e44_p1_74	も！　もちろんですぞーーー！！	
 MAP65_e44_p1_77	行け！！　サクソン！！	
 MAP65_e4_p0_2	騎士ウィン、お前にはまだ実戦経験がない。	
-MAP65_e4_p0_3	この任務を良い機会とし、ピピンから多くを	
-MAP65_e4_p0_4	学ぶのだ。よいな…　下がれ。	
+MAP65_e4_p0_3	この任務を良い機会とし、ピピンから多くを	Use this mission as a good opportunity to learn much from Pipin.
+MAP65_e4_p0_4	学ぶのだ。よいな…　下がれ。	Understood... You're dismissed.
 MAP65_e5_p0_11	とは言え、きついときはきついって言えよ？	
 MAP65_e5_p0_12	継承者は誰よりも我慢しなきゃいけないって、	
 MAP65_e5_p0_13	誰かに言われたわけでもないだろ？	
@@ -6467,19 +6467,19 @@ MAP67_e25_p0_12	よかったー　あれ、騎士であるあなたが
 MAP67_e25_p0_13	持っていても、何の役にも立ちませんし、	
 MAP67_e25_p0_14	そりゃ売りますよね。　よかったー	
 MAP67_e25_p0_19	あー…　素材や財宝はためこんでも、	
-MAP67_e25_p0_2	ウィンさん、魔物をたおしたときにたまに	
+MAP67_e25_p0_2	ウィンさん、魔物をたおしたときにたまに	Win, sometimes when you defeat monsters,
 MAP67_e25_p0_20	俺ら兵士や騎士には、役に立ちません。	
 MAP67_e25_p0_21	お店で売ってお金に変えた方がいいですよ？	
-MAP67_e25_p0_3	手に入る、魔物の素材とか財宝…	
+MAP67_e25_p0_3	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
 MAP67_e25_p0_4	ちゃんと売ってますよね？	
 MAP67_e25_p1_12	そうでしょう？	
 MAP67_e25_p1_13	確かに魔物がお金持ってるわけないですけど、	
 MAP67_e25_p1_14	そんなところまでリアルにしなくてもなあ…	
 MAP67_e25_p1_19	そうですかー？	
-MAP67_e25_p1_2	ウィンさん、魔物をたおしたときにたまに	
+MAP67_e25_p1_2	ウィンさん、魔物をたおしたときにたまに	Win, sometimes when you defeat monsters,
 MAP67_e25_p1_20	まあ、店でまとめて売って、一気にお金持ちに	
 MAP67_e25_p1_21	なるの、ちょっと楽しいですよね…	
-MAP67_e25_p1_3	手に入る、魔物の素材とか財宝…	
+MAP67_e25_p1_3	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
 MAP67_e25_p1_4	いちいち売るの面倒ですよねえ？	
 MAP68_e2_p1_14	…ロイ騎士団長がお呼びだ。	
 MAP68_e2_p1_15	先日の光の柱の件で、話があるらしい…。	
@@ -6627,19 +6627,19 @@ MAP71_e7_p1_2	　　　　　　　　　　閉店しました
 MAP71_e7_p1_3	　　　　　　　　　…と、書いてある	
 MAP71_e8_p1_2	　　　　　扉が打ちつけられていて開かない	
 MAP71_e9_p0_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
-MAP71_e9_p0_3	どうしたんだ？ここは通行手形がないと	
-MAP71_e9_p0_4	騎士でも通ることはできないぞ。	
+MAP71_e9_p0_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
+MAP71_e9_p0_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
 MAP71_e9_p0_7	ここはフレイム王国への関所だ。	
 MAP71_e9_p0_8	…おい、ウィン。なんでここへ来たんだ？	
 MAP71_e9_p1_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
-MAP71_e9_p1_3	どうしたんだ？ここは通行手形がないと	
-MAP71_e9_p1_4	騎士でも通ることはできないぞ。	
+MAP71_e9_p1_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
+MAP71_e9_p1_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
 MAP71_e9_p2_10	それはまさに国王陛下の発行する通行手形！！	
 MAP71_e9_p2_11	ははーーーっ	
 MAP71_e9_p2_12	騎士ウィン様どうぞお通りくださいませー	
 MAP71_e9_p2_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
-MAP71_e9_p2_3	どうしたんだ？ここは通行手形がないと	
-MAP71_e9_p2_4	騎士でも通ることはできないぞ。	
+MAP71_e9_p2_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
+MAP71_e9_p2_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
 MAP71_e9_p2_7	　　　　　　　　ウィンは通行手形を見せた！	
 MAP72_e10_p0_10	騎士さま、ヘビに噛まれるみたいですぞ	
 MAP72_e10_p0_17	えー　ああ　そう…	
@@ -6682,13 +6682,13 @@ MAP72_e6_p0_8	はいはい、一泊で５０Ｇだよ。
 MAP72_e6_p0_9	休んでいきなさるかい？	
 MAP72_e8_p0_11	私はしばらくここで足止めですから…	I'll be stuck here for a while...
 MAP72_e8_p0_12	もし品を気に入ったら、また来てくださいね！	If you like anything, please come again!
-MAP72_e8_p0_2	いやー困りました。	
-MAP72_e8_p0_3	まさかセイリューの橋が壊れるなんてね。	
-MAP72_e8_p0_4	虫の知らせみたいなの感じるなあ。	
+MAP72_e8_p0_2	いやー困りました。	Oh dear, this is a problem.
+MAP72_e8_p0_3	まさかセイリューの橋が壊れるなんてね。	I never expected the Seiryu bridge to break.
+MAP72_e8_p0_4	虫の知らせみたいなの感じるなあ。	I have a sense of foreboding...
 MAP72_e8_p0_6	おっと失礼、よかったら少し品を見て下さい！	Oh, pardon me! Have a look at my wares!
-MAP72_e8_p1_11	もし品を気に入ったら、また来てください。	
-MAP72_e8_p1_2	壊れていた橋が直ったらしいです。	
-MAP72_e8_p1_3	よかった…これで帰ることができる…	
+MAP72_e8_p1_11	もし品を気に入ったら、また来てください。	If you like anything, please come again.
+MAP72_e8_p1_2	壊れていた橋が直ったらしいです。	It seems the broken bridge has been repaired.
+MAP72_e8_p1_3	よかった…これで帰ることができる…	Thank goodness... now I can go home...
 MAP72_e8_p1_5	おっと失礼、よかったら少し品を見て下さい！	Oh, pardon me! Have a look at my wares!
 MAP72_e9_p0_2	西にも行けない、国にも帰れない…	
 MAP72_e9_p0_3	あー、ウィンダムに行ってみるかー	
@@ -6718,26 +6718,26 @@ MAP74_e4_p1_3	ここはただの採石場だ。何もないよ。	This is just a
 MAP74_e4_p1_6	よう、バモヤシ。おひさ！	
 MAP74_e4_p1_9	うお！？ナガレ！？	
 MAP74_e5_p0_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
-MAP74_e5_p0_14	まだ村まで結構遠いし、魔物も出るから	
-MAP74_e5_p0_15	気を付けてねー	
+MAP74_e5_p0_14	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
+MAP74_e5_p0_15	気を付けてねー	be careful now~
 MAP74_e5_p0_2	旅人かい？	
-MAP74_e5_p0_20	まだ村まで結構遠いし、魔物も出るから	
-MAP74_e5_p0_21	気を付けてねー	
+MAP74_e5_p0_20	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
+MAP74_e5_p0_21	気を付けてねー	be careful now~
 MAP74_e5_p0_3	なにもなくってガッカリしただろ。	
 MAP74_e5_p0_4	まあ、よかったらお茶でも飲んでいけば？	
 MAP74_e5_p1_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
-MAP74_e5_p1_14	こうやってまた、たまには顔見せに来てよね、	
-MAP74_e5_p1_15	ナガレ。	
+MAP74_e5_p1_14	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
+MAP74_e5_p1_15	ナガレ。	Nagare?
 MAP74_e5_p1_18	うん、ありがとう！	Yeah, thank you!
 MAP74_e5_p1_2	あ、ナガレじゃん。	
-MAP74_e5_p1_23	こうやってまた、たまには顔見せに来てよね、	
-MAP74_e5_p1_24	ナガレ。	
+MAP74_e5_p1_23	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
+MAP74_e5_p1_24	ナガレ。	Nagare?
 MAP74_e5_p1_27	うん、ありがとう！	Yeah, thank you!
 MAP74_e5_p1_3	せっかく来たんだし、よかったら	
 MAP74_e5_p1_4	お茶でも飲んでいけば？	
 MAP74_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP74_e7_p0_2	　　　　セイリューとの連絡に用いられている手紙類だ	
-MAP74_e8_p0_2	　　　　　　見たことのない薬類が入っている	
+MAP74_e8_p0_2	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP74_e9_p0_2	　　　　　　　　　編みかけのマフラーだ	
 MAP75_e10_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e12_p0_11	ちなみに、転倒させられるスキルも、	
@@ -7820,8 +7820,8 @@ MAP83_e14_p5_88	正直なところ、気まずいったらないんだが…、
 MAP83_e14_p5_89	…俺と一緒に戦えるな？	
 MAP83_e14_p5_9	何が起こった…！！？？	
 MAP83_e14_p5_95	　　　　　　　　　ウィンは大きく頷いた！	
-MAP85_e1_p0_2	ここから先は、ウィンダム王とお妃さまの	
-MAP85_e1_p0_3	寝室だぜ　…って、	
+MAP85_e1_p0_2	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP85_e1_p0_3	寝室だぜ　…って、	hey, you know—
 MAP85_e1_p0_4	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
 MAP85_e4_p0_15	も、申し上げます！！	
 MAP85_e4_p0_18	暗黒大陸に…また光の柱が立ちました…！！	
@@ -7832,11 +7832,11 @@ MAP85_e5_p0_15	げっ！いたのかピピン！！	Gah! Pipin, you're here!!
 MAP85_e5_p0_16	ま、とりあえず、ウィン！がんばれよ！	Well, anyway, Win! Do your best!
 MAP85_e5_p0_17	…ピピンもな。	...You too, Pipin.
 MAP85_e5_p0_2	よう、ウィン。最近どうだ？	Yo, Win. How's it going?
-MAP85_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	
-MAP85_e5_p0_23	お前が、そんなパッとしない顔して。	
+MAP85_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	What's this? You graduated top of the knight academy,
+MAP85_e5_p0_23	お前が、そんなパッとしない顔して。	and you're wearing such a dull face.
 MAP85_e5_p0_24	最近実家のパン食べてないのか？	Haven't been eating your folks' bread lately?
-MAP85_e5_p0_7	そりゃあよかった！俺はお前ならきっと	
-MAP85_e5_p0_8	騎士団長になると思ってるんだ。	
+MAP85_e5_p0_7	そりゃあよかった！俺はお前ならきっと	Glad to hear it! I'm sure you'll
+MAP85_e5_p0_8	騎士団長になると思ってるんだ。	become Knight Commander one day.
 MAP85_e5_p0_9	あんな性格の悪い自称天才でなく…	Not some mean-spirited self-proclaimed genius like that guy...
 MAP85_e5_p1_13	そうか…。	I see...
 MAP85_e5_p1_14	俺はてっきりケンカでもしたのかと。	I figured you two had gotten into a fight.
@@ -7851,8 +7851,8 @@ MAP85_e5_p2_8	てことはお前…将来の騎士団長じゃねえか…	That 
 MAP85_e5_p2_9	出世早すぎるだろ！すげえな！	Talk about a fast promotion! Amazing!
 MAP85_e6_p0_12	ああ。	Yeah.
 MAP85_e6_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP85_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP85_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP85_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP85_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP85_e6_p0_2	…仕事か？	...More work?
 MAP85_e6_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP85_e6_p0_23	まさかウイン、	Don't tell me, Win,
@@ -7862,16 +7862,16 @@ MAP85_e6_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad for
 MAP85_e6_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP85_e6_p0_32	…クッ	...Ugh
 MAP85_e6_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP85_e6_p0_7	人食いの獣が住み着いたっていう、	
-MAP85_e6_p0_8	西の監視塔か。	
+MAP85_e6_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP85_e6_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP85_e6_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
 MAP85_e6_p1_14	なら、なんでそんな難しい顔をしてるんだ？	Then why the long face?
-MAP85_e6_p1_15	なあ、もしつらいことがあったら、	
-MAP85_e6_p1_16	ひとりで抱え込むんじゃないぞ…？	
+MAP85_e6_p1_15	なあ、もしつらいことがあったら、	Hey, if something's weighing on you,
+MAP85_e6_p1_16	ひとりで抱え込むんじゃないぞ…？	don't shoulder it alone, alright...?
 MAP85_e6_p1_2	…また仕事か？	...Work again?
 MAP85_e6_p1_7	どんな仕事かはあえて聞かないさ。	I won't bother asking what it is.
-MAP85_e6_p1_8	しかし、ウィン、お前なんだか顔つきが	
-MAP85_e6_p1_9	変わったな…。	
+MAP85_e6_p1_8	しかし、ウィン、お前なんだか顔つきが	But Win, your expression seems different
+MAP85_e6_p1_9	変わったな…。	somehow...
 MAP85_e6_p2_14	すまん、冗談さ、ウィン。	Sorry, just kidding, Win.
 MAP85_e6_p2_15	闇のエレメントの復活…	The revival of the Dark Element...
 MAP85_e6_p2_16	止めてくれよ。お前なら、きっと出来るさ。	Come on. You've got this, I'm sure.
@@ -7947,12 +7947,12 @@ MAP86_e33_p3_3	皆の救世主、戦場の女神です。
 MAP86_e33_p3_6	よかったら兵たちに声をかけてやって下され。	
 MAP86_e33_p3_7	全軍の士気がおおいに上がると思います。	
 MAP86_e37_p0_2	　　　左　ホノオ王子の部屋　右　ホムラ王子の部屋	Left: Prince Hono's room  Right: Prince Homura's room
-MAP86_e4_p0_2	本来次期国王は、紋章を継承したあとにすぐ	
-MAP86_e4_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	
-MAP86_e4_p0_4	ならん…	
-MAP86_e4_p0_6	しかし最近南の遺跡に魔物が増えたのと、	
-MAP86_e4_p0_7	何より王子が死んでしまうのを恐れて、	
-MAP86_e4_p0_8	王は今回の試練を見送るつもりだったのだ…	
+MAP86_e4_p0_2	本来次期国王は、紋章を継承したあとにすぐ	Normally, the next king must, right after inheriting the crest,
+MAP86_e4_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	journey alone to the Southern Ruins and complete the trial
+MAP86_e4_p0_4	ならん…	—that's the rule...
+MAP86_e4_p0_6	しかし最近南の遺跡に魔物が増えたのと、	But with monsters increasing in the Southern Ruins lately,
+MAP86_e4_p0_7	何より王子が死んでしまうのを恐れて、	and above all fearing the prince might die,
+MAP86_e4_p0_8	王は今回の試練を見送るつもりだったのだ…	the king intended to skip the trial this time...
 MAP86_e5_p0_19	陛下…！！	
 MAP86_e5_p0_20	お休み中失礼いたします…！	
 MAP86_e5_p0_23	光の柱が…	
@@ -8452,12 +8452,12 @@ MAP92_e15_p3_6	って、オマエなんでそんなモン咥えてんだ！？
 MAP92_e15_p3_9	　　　　　　ホノオは犬からそれを奪い取った！	
 MAP92_e15_p4_2	クッーン！ッっクーン！	Yip! Yip!
 MAP92_e15_p4_5	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
-MAP92_e1_p0_2	本来次期国王は、紋章を継承したあとにすぐ	
-MAP92_e1_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	
-MAP92_e1_p0_4	ならん…	
-MAP92_e1_p0_6	しかし最近南の遺跡に魔物が増えたのと、	
-MAP92_e1_p0_7	何より王子が死んでしまうのを恐れて、	
-MAP92_e1_p0_8	王は今回の試練を見送るつもりだったのだ…	
+MAP92_e1_p0_2	本来次期国王は、紋章を継承したあとにすぐ	Normally, the next king must, right after inheriting the crest,
+MAP92_e1_p0_3	南の遺跡へひとりで赴き、試練を果たさねば	journey alone to the Southern Ruins and complete the trial
+MAP92_e1_p0_4	ならん…	—that's the rule...
+MAP92_e1_p0_6	しかし最近南の遺跡に魔物が増えたのと、	But with monsters increasing in the Southern Ruins lately,
+MAP92_e1_p0_7	何より王子が死んでしまうのを恐れて、	and above all fearing the prince might die,
+MAP92_e1_p0_8	王は今回の試練を見送るつもりだったのだ…	the king intended to skip the trial this time...
 MAP92_e1_p1_10	王子、必ず生きてお帰り下さい。	
 MAP92_e1_p1_13	お、おい…急になんかそういうの、よそうよ…	
 MAP92_e1_p1_14	ちょっと、キツイ…	
@@ -8471,9 +8471,9 @@ MAP92_e1_p2_2	ホノオ王子！あの犬は一体なんですか！？
 MAP92_e1_p2_5	なにって…　犬は犬だろ？	
 MAP92_e1_p2_8	とてもふさふさですし…	
 MAP92_e1_p2_9	しかも賢いんですね…。	
-MAP92_e2_p0_2	私も試練には反対したのだが…	
-MAP92_e2_p0_3	ホノオ王子は勝手に行ってしまった。	
-MAP92_e2_p0_4	まったく…思慮の浅いお方で頭が痛い…。	
+MAP92_e2_p0_2	私も試練には反対したのだが…	I opposed the trial as well, but...
+MAP92_e2_p0_3	ホノオ王子は勝手に行ってしまった。	Prince Hono went off on his own.
+MAP92_e2_p0_4	まったく…思慮の浅いお方で頭が痛い…。	Good grief... that thoughtless boy gives me a headache...
 MAP92_e2_p1_2	王子…ウィン殿たちお仲間の言うことを	
 MAP92_e2_p1_3	よく聞いて…あと…決してひとりで勝手な	
 MAP92_e2_p1_4	行動をしないように。いいですね？	
@@ -8862,25 +8862,25 @@ MAP93_e10_p1_84	フン…　ったく………
 MAP93_e10_p1_93	…陛下、ロイ騎士団長…	
 MAP93_e10_p1_94	騎士ではない俺が、意見を言ってもいいか…？	
 MAP93_e10_p1_97	…なんだ、ピピン？	
-MAP93_e12_p0_2	ここから先は、ウィンダム王とお妃さまの	
-MAP93_e12_p0_3	寝室だぜ　…って、	
+MAP93_e12_p0_2	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP93_e12_p0_3	寝室だぜ　…って、	hey, you know—
 MAP93_e12_p0_4	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
-MAP93_e1_p0_2	ここから先は、ウィンダム王とお妃さまの	
-MAP93_e1_p0_3	寝室だぜ　…って、	
+MAP93_e1_p0_2	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP93_e1_p0_3	寝室だぜ　…って、	hey, you know—
 MAP93_e1_p0_4	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
-MAP93_e4_p0_2	ここから先は、ウィンダム王とお妃さまの	
-MAP93_e4_p0_3	寝室だぜ　…って、	
+MAP93_e4_p0_2	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
+MAP93_e4_p0_3	寝室だぜ　…って、	hey, you know—
 MAP93_e4_p0_4	お前そんなこと知ってるだろ。あっち行った。	you already know that. Let's go.
 MAP93_e5_p0_12	どこの自称天才さんの話だ？おい？	Who's this self-proclaimed genius, huh?
 MAP93_e5_p0_15	げっ！いたのかピピン！！	Gah! Pipin, you're here!!
 MAP93_e5_p0_16	ま、とりあえず、ウィン！がんばれよ！	Well, anyway, Win! Do your best!
 MAP93_e5_p0_17	…ピピンもな。	...You too, Pipin.
 MAP93_e5_p0_2	よう、ウィン。最近どうだ？	Yo, Win. How's it going?
-MAP93_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	
-MAP93_e5_p0_23	お前が、そんなパッとしない顔して。	
+MAP93_e5_p0_22	なんだなんだ、騎士学校トップで卒業した	What's this? You graduated top of the knight academy,
+MAP93_e5_p0_23	お前が、そんなパッとしない顔して。	and you're wearing such a dull face.
 MAP93_e5_p0_24	最近実家のパン食べてないのか？	Haven't been eating your folks' bread lately?
-MAP93_e5_p0_7	そりゃあよかった！俺はお前ならきっと	
-MAP93_e5_p0_8	騎士団長になると思ってるんだ。	
+MAP93_e5_p0_7	そりゃあよかった！俺はお前ならきっと	Glad to hear it! I'm sure you'll
+MAP93_e5_p0_8	騎士団長になると思ってるんだ。	become Knight Commander one day.
 MAP93_e5_p0_9	あんな性格の悪い自称天才でなく…	Not some mean-spirited self-proclaimed genius like that guy...
 MAP93_e5_p1_13	そうか…。	I see...
 MAP93_e5_p1_14	俺はてっきりケンカでもしたのかと。	I figured you two had gotten into a fight.
@@ -8895,8 +8895,8 @@ MAP93_e5_p2_8	てことはお前…将来の騎士団長じゃねえか…	That 
 MAP93_e5_p2_9	出世早すぎるだろ！すげえな！	Talk about a fast promotion! Amazing!
 MAP93_e6_p0_12	ああ。	Yeah.
 MAP93_e6_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP93_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP93_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP93_e6_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP93_e6_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP93_e6_p0_2	…仕事か？	...More work?
 MAP93_e6_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP93_e6_p0_23	まさかウイン、	Don't tell me, Win,
@@ -8906,16 +8906,16 @@ MAP93_e6_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad for
 MAP93_e6_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP93_e6_p0_32	…クッ	...Ugh
 MAP93_e6_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP93_e6_p0_7	人食いの獣が住み着いたっていう、	
-MAP93_e6_p0_8	西の監視塔か。	
+MAP93_e6_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP93_e6_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP93_e6_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
 MAP93_e6_p1_14	なら、なんでそんな難しい顔をしてるんだ？	Then why the long face?
-MAP93_e6_p1_15	なあ、もしつらいことがあったら、	
-MAP93_e6_p1_16	ひとりで抱え込むんじゃないぞ…？	
+MAP93_e6_p1_15	なあ、もしつらいことがあったら、	Hey, if something's weighing on you,
+MAP93_e6_p1_16	ひとりで抱え込むんじゃないぞ…？	don't shoulder it alone, alright...?
 MAP93_e6_p1_2	…また仕事か？	...Work again?
 MAP93_e6_p1_7	どんな仕事かはあえて聞かないさ。	I won't bother asking what it is.
-MAP93_e6_p1_8	しかし、ウィン、お前なんだか顔つきが	
-MAP93_e6_p1_9	変わったな…。	
+MAP93_e6_p1_8	しかし、ウィン、お前なんだか顔つきが	But Win, your expression seems different
+MAP93_e6_p1_9	変わったな…。	somehow...
 MAP93_e6_p2_14	すまん、冗談さ、ウィン。	Sorry, just kidding, Win.
 MAP93_e6_p2_15	闇のエレメントの復活…	The revival of the Dark Element...
 MAP93_e6_p2_16	止めてくれよ。お前なら、きっと出来るさ。	Come on. You've got this, I'm sure.
@@ -8925,8 +8925,8 @@ MAP93_e6_p2_8	浮かれている場合か、若造。	This is no time to be gidd
 MAP93_e6_p2_9	…がんばれよ。	...Do your best.
 MAP93_e8_p0_12	ああ。	Yeah.
 MAP93_e8_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP93_e8_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP93_e8_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP93_e8_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP93_e8_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP93_e8_p0_2	…仕事か？	...More work?
 MAP93_e8_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP93_e8_p0_23	まさかウイン、	Don't tell me, Win,
@@ -8936,16 +8936,16 @@ MAP93_e8_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad for
 MAP93_e8_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP93_e8_p0_32	…クッ	...Ugh
 MAP93_e8_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP93_e8_p0_7	人食いの獣が住み着いたっていう、	
-MAP93_e8_p0_8	西の監視塔か。	
+MAP93_e8_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP93_e8_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP93_e8_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
 MAP93_e8_p1_14	なら、なんでそんな難しい顔をしてるんだ？	Then why the long face?
-MAP93_e8_p1_15	なあ、もしつらいことがあったら、	
-MAP93_e8_p1_16	ひとりで抱え込むんじゃないぞ…？	
+MAP93_e8_p1_15	なあ、もしつらいことがあったら、	Hey, if something's weighing on you,
+MAP93_e8_p1_16	ひとりで抱え込むんじゃないぞ…？	don't shoulder it alone, alright...?
 MAP93_e8_p1_2	…また仕事か？	...Work again?
 MAP93_e8_p1_7	どんな仕事かはあえて聞かないさ。	I won't bother asking what it is.
-MAP93_e8_p1_8	しかし、ウィン、お前なんだか顔つきが	
-MAP93_e8_p1_9	変わったな…。	
+MAP93_e8_p1_8	しかし、ウィン、お前なんだか顔つきが	But Win, your expression seems different
+MAP93_e8_p1_9	変わったな…。	somehow...
 MAP93_e8_p2_14	すまん、冗談さ、ウィン。	Sorry, just kidding, Win.
 MAP93_e8_p2_15	闇のエレメントの復活…	The revival of the Dark Element...
 MAP93_e8_p2_16	止めてくれよ。お前なら、きっと出来るさ。	Come on. You've got this, I'm sure.
@@ -8955,8 +8955,8 @@ MAP93_e8_p2_8	浮かれている場合か、若造。	This is no time to be gidd
 MAP93_e8_p2_9	…がんばれよ。	...Do your best.
 MAP93_e9_p0_12	ああ。	Yeah.
 MAP93_e9_p0_15	…それなら安心だ。	...Then I'm relieved.
-MAP93_e9_p0_16	ピピンと一緒なら、ウィンも色々勉強に	
-MAP93_e9_p0_17	なるだろう。ピピン、ウィンをよろしくな。	
+MAP93_e9_p0_16	ピピンと一緒なら、ウィンも色々勉強に	With Pipin alongside you, Win will learn a great deal.
+MAP93_e9_p0_17	なるだろう。ピピン、ウィンをよろしくな。	Pipin, take good care of Win.
 MAP93_e9_p0_2	…仕事か？	...More work?
 MAP93_e9_p0_22	なんでだ！仕事だろう！？	Why!? It's a mission, right!?
 MAP93_e9_p0_23	まさかウイン、	Don't tell me, Win,
@@ -8966,16 +8966,16 @@ MAP93_e9_p0_28	知っていて聞いた俺が悪かったよ。	Fine, my bad for
 MAP93_e9_p0_29	…しかしピピンは怒り過ぎだ。うるさい。	...But Pipin's overreacting. So loud.
 MAP93_e9_p0_32	…クッ	...Ugh
 MAP93_e9_p0_33	どうして俺が怒られたんだ…	Why did I get scolded...
-MAP93_e9_p0_7	人食いの獣が住み着いたっていう、	
-MAP93_e9_p0_8	西の監視塔か。	
+MAP93_e9_p0_7	人食いの獣が住み着いたっていう、	A man-eating beast has moved in there, you said?
+MAP93_e9_p0_8	西の監視塔か。	The West Watchtower, huh.
 MAP93_e9_p0_9	ピピンも一緒なんだな？	Pipin's coming along, right?
 MAP93_e9_p1_14	なら、なんでそんな難しい顔をしてるんだ？	Then why the long face?
-MAP93_e9_p1_15	なあ、もしつらいことがあったら、	
-MAP93_e9_p1_16	ひとりで抱え込むんじゃないぞ…？	
+MAP93_e9_p1_15	なあ、もしつらいことがあったら、	Hey, if something's weighing on you,
+MAP93_e9_p1_16	ひとりで抱え込むんじゃないぞ…？	don't shoulder it alone, alright...?
 MAP93_e9_p1_2	…また仕事か？	...Work again?
 MAP93_e9_p1_7	どんな仕事かはあえて聞かないさ。	I won't bother asking what it is.
-MAP93_e9_p1_8	しかし、ウィン、お前なんだか顔つきが	
-MAP93_e9_p1_9	変わったな…。	
+MAP93_e9_p1_8	しかし、ウィン、お前なんだか顔つきが	But Win, your expression seems different
+MAP93_e9_p1_9	変わったな…。	somehow...
 MAP93_e9_p2_14	すまん、冗談さ、ウィン。	Sorry, just kidding, Win.
 MAP93_e9_p2_15	闇のエレメントの復活…	The revival of the Dark Element...
 MAP93_e9_p2_16	止めてくれよ。お前なら、きっと出来るさ。	Come on. You've got this, I'm sure.
@@ -9031,16 +9031,16 @@ MAP101_e10_p0_10	水のエレメントを手に入れた！
 MAP101_e11_p0_10	守りのエレメントを手に入れた！	
 MAP101_e6_p0_13	おい、なんでこんなに明るいんだ。	Hey, why is it so bright in here?
 MAP101_e6_p0_14	真っ暗闇って話だったはずだが…。	I thought this place was supposed to be pitch black...
-MAP101_e6_p0_17	ああ、それならオレとウィンの紋章を	
-MAP101_e6_p0_18	光らせてるからだ。	
+MAP101_e6_p0_17	ああ、それならオレとウィンの紋章を	Oh, that's because my crest and Win's
+MAP101_e6_p0_18	光らせてるからだ。	are shining.
 MAP101_e6_p0_21	え…？	Huh...?
 MAP101_e6_p0_23	…そうなのか？	...Is that so?
 MAP101_e6_p0_29	　　　　　　　　　　　ウィンは頷いた	Win nodded
 MAP101_e6_p0_32	あ、そう…　べ、便利だな…	O-Oh... H-Handy, huh...
 MAP101_e6_p1_13	おい、なんでこんなに明るいんだ。	Hey, why is it so bright in here?
 MAP101_e6_p1_14	真っ暗闇って話だったはずだが…。	I thought this place was supposed to be pitch black...
-MAP101_e6_p1_17	ああ、それならオレとウィンの紋章を	
-MAP101_e6_p1_18	光らせてるからだ。	
+MAP101_e6_p1_17	ああ、それならオレとウィンの紋章を	Oh, that's because my crest and Win's
+MAP101_e6_p1_18	光らせてるからだ。	are shining.
 MAP101_e6_p1_21	え…？	Huh...?
 MAP101_e6_p1_23	…そうなのか？	...Is that so?
 MAP101_e6_p1_29	　　　　　　　　　　　ウィンは頷いた	Win nodded
