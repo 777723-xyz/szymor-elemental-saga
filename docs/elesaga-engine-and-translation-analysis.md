@@ -99,12 +99,20 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
 - `type=script` rows are skipped unless `--apply-scripts` (code — dangerous).
 - `type=note` rows are applied but listed under "Noted" for manual review.
 - Backs up every modified file to `docs/text/backups/<timestamp>/` (`--no-backup` to skip).
+- Escapes in the translation column are unescaped when applied: `\n` becomes a real
+  newline (the engine's line break — a literal `\n` is swallowed by MV and long lines
+  get clipped), `\t` a tab, `\\` a literal backslash.
 - Tested round-trip on a copy: translations land on the correct IDs, JSON stays valid,
   and re-extraction shows exactly the translated rows.
 
 ### Known quirks / leftovers
 - Choice branches (code 402) are matched by **index** (`params[0]`), not by text.
 - `docs/text/plugin.tsv` (lowercase) is a stale leftover from an earlier run; ignore it.
+- The `EndGme` plugin (title-screen "Close Game" command) originally read its
+  parameter via `PluginManager.parameters('gameEnd')` although the plugin is
+  registered as `EndGme`, so the entry always fell back to the Japanese default.
+  The key is fixed in `www/js/plugins/EndGme.js` (and mirrored in the build); a
+  freshly copied build must carry that fix too.
 
 ### Translation progress (FINAL)
 - **17,831 / 17,832 strings translated.** The single untranslated string is the
@@ -121,6 +129,10 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
   RetryBattle plugin script identifiers (code — must not be translated).
 - Line fitting (Phase 2): 2,033 rows rewrapped with `\n`; fit check flags **0**
   overflowing lines.
+- Newline fix (2026-08-11): the injector used to store literal `\n` in the data,
+  which MV renders as nothing, so long English lines overflowed the message window
+  and were clipped. The injector now writes real newlines; the regenerated build was
+  measured on the actual data (15,765 dialogue commands) with **0** overflows.
 - English build: `build/english/www` (gitignored; regenerate with
   `python3 tools/inject_text.py docs/text/translated.tsv --data build/english/www/data --plugins build/english/www/js/plugins.js --no-backup`).
   Playtest by opening `build/english/www/index.html` in a browser.
