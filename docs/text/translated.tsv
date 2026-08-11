@@ -9164,47 +9164,47 @@ MAP66_e41_p1_2	Map066.json	0	dialogue	無料の支給品はもう当分回せな
 MAP66_e41_p1_3	Map066.json	0	dialogue	すまんな、これでも俺は全体を見てちゃんと	Sorry, but I do look at the big picture and
 MAP66_e41_p1_4	Map066.json	0	dialogue	管理しているつもりだよ。	I try to manage things, you know.
 MAP66_e42_p0_1	Map066.json	0	dialogue	市民オードリー：	Audrey, Citizen:
-MAP66_e42_p0_2	Map066.json	0	dialogue	雨漏りどころじゃなくなっちゃったね…	
-MAP66_e42_p0_3	Map066.json	0	dialogue	でもお城が無事でよかったよ…　うん…	
+MAP66_e42_p0_2	Map066.json	0	dialogue	雨漏りどころじゃなくなっちゃったね…	It's gone well past a leak now...
+MAP66_e42_p0_3	Map066.json	0	dialogue	でもお城が無事でよかったよ…　うん…	But I'm glad the castle is safe... yeah...
 MAP66_e43_p0_1	Map066.json	0	dialogue	巡回兵カイル：	Kyle, Patrolman:
 MAP66_e43_p0_13	Map066.json	1	dialogue	巡回兵カイル：	Kyle, Patrolman:
-MAP66_e43_p0_14	Map066.json	1	dialogue	だよな…。	
-MAP66_e43_p0_15	Map066.json	1	dialogue	でもオレ、あのとき、なんかグッと来たぜ…	
-MAP66_e43_p0_16	Map066.json	1	dialogue	お前は正しかったと思うよ！	
-MAP66_e43_p0_2	Map066.json	0	dialogue	ウィン！　大丈夫か！？	
-MAP66_e43_p0_3	Map066.json	0	dialogue	ピピンの件…　大変だったな。	
+MAP66_e43_p0_14	Map066.json	1	dialogue	だよな…。	Yeah...
+MAP66_e43_p0_15	Map066.json	1	dialogue	でもオレ、あのとき、なんかグッと来たぜ…	But man, that moment really hit me...
+MAP66_e43_p0_16	Map066.json	1	dialogue	お前は正しかったと思うよ！	I think you were right!
+MAP66_e43_p0_2	Map066.json	0	dialogue	ウィン！　大丈夫か！？	Win! Are you all right!?
+MAP66_e43_p0_3	Map066.json	0	dialogue	ピピンの件…　大変だったな。	The Pipin matter... that must've been rough.
 MAP66_e43_p0_4_c0	Map066.json	choice	choice	大丈夫	It's fine
 MAP66_e43_p0_4_c1	Map066.json	choice	choice	きつい	Too much
 MAP66_e43_p0_7	Map066.json	1	dialogue	巡回兵カイル：	Kyle, Patrolman:
-MAP66_e43_p0_8	Map066.json	1	dialogue	マジかよ…お前、タフだなあ。	
+MAP66_e43_p0_8	Map066.json	1	dialogue	マジかよ…お前、タフだなあ。	For real... you're tough, man.
 MAP66_e44_p0_1	Map066.json	0	dialogue	料理長コッコ：	Kokko, Head Cook:
 MAP66_e44_p0_2	Map066.json	0	dialogue	あーいそがしい！いそがしい！	Ah, so busy! So busy!
 MAP66_e44_p0_3	Map066.json	0	dialogue	ちょっと、どいてちょうだい！	Excuse me, move aside!
 MAP66_e44_p0_4	Map066.json	0	dialogue	…って継承者さま！　失礼しましたーーー！！	...oh, Inheritor-sama! Forgive me—!!
 MAP66_e44_p1_1	Map066.json	0	dialogue	料理長コッコ：	Kokko, Head Cook:
-MAP66_e44_p1_10	Map066.json	0	dialogue	なんだか、自分が偉くなった気がするよな！	
+MAP66_e44_p1_10	Map066.json	0	dialogue	なんだか、自分が偉くなった気がするよな！	Makes you feel all important, huh!
 MAP66_e44_p1_12	Map066.json	0	dialogue	ナガレ：	Nagare:
-MAP66_e44_p1_13	Map066.json	0	dialogue	いや、あんた元々王子さまだから…。	
-MAP66_e44_p1_2	Map066.json	0	dialogue	あーいそがしいいそがいい！	
+MAP66_e44_p1_13	Map066.json	0	dialogue	いや、あんた元々王子さまだから…。	No, you were already a prince...
+MAP66_e44_p1_2	Map066.json	0	dialogue	あーいそがしいいそがいい！	Ah, so busy, so busy!
 MAP66_e44_p1_3	Map066.json	0	dialogue	ちょっと、どいてちょうだい！	Excuse me, move aside!
 MAP66_e44_p1_4	Map066.json	0	dialogue	…って継承者さま！　失礼しましたーーー！！	...oh, Inheritor-sama! Forgive me—!!
 MAP66_e44_p1_6	Map066.json	0	dialogue	ナガレ：	Nagare:
-MAP66_e44_p1_7	Map066.json	0	dialogue	継承者さまって、なにげに初めて言われた。	
+MAP66_e44_p1_7	Map066.json	0	dialogue	継承者さまって、なにげに初めて言われた。	I've been called 'inheritor-sama' for the first time in a while.
 MAP66_e44_p1_9	Map066.json	0	dialogue	ホノオ：	Hono:
 MAP66_e45_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e46_p0_1	Map066.json	0	dialogue	大臣イワノフ：	Ivanov, Minister:
-MAP66_e46_p0_10	Map066.json	1	dialogue	忙しいんですよーーー！！！！！！！！！	
+MAP66_e46_p0_10	Map066.json	1	dialogue	忙しいんですよーーー！！！！！！！！！	I'm busy—!!!!!!!
 MAP66_e46_p0_15	Map066.json	1	dialogue	大臣イワノフ：	Ivanov, Minister:
-MAP66_e46_p0_16	Map066.json	1	dialogue	私はあなたの騎士団長就任の際については、	
-MAP66_e46_p0_17	Map066.json	1	dialogue	断固反対させていただきますからね………	
-MAP66_e46_p0_18	Map066.json	1	dialogue	覚悟しておいてくだされ！！！！！！！！	
-MAP66_e46_p0_2	Map066.json	0	dialogue	騎士どの…	
-MAP66_e46_p0_3	Map066.json	0	dialogue	さすがにいまは、お分かりいただけるはず…	
+MAP66_e46_p0_16	Map066.json	1	dialogue	私はあなたの騎士団長就任の際については、	As for your appointment as Knight Commander,
+MAP66_e46_p0_17	Map066.json	1	dialogue	断固反対させていただきますからね………	I shall firmly oppose it......
+MAP66_e46_p0_18	Map066.json	1	dialogue	覚悟しておいてくだされ！！！！！！！！	Be prepared for that!!!!!!!
+MAP66_e46_p0_2	Map066.json	0	dialogue	騎士どの…	Sir Knight...
+MAP66_e46_p0_3	Map066.json	0	dialogue	さすがにいまは、お分かりいただけるはず…	Surely now, you must understand...
 MAP66_e46_p0_4_c0	Map066.json	choice	choice	分かります	I understand
 MAP66_e46_p0_4_c1	Map066.json	choice	choice	分かりません	I don't understand
 MAP66_e46_p0_7	Map066.json	1	dialogue	大臣イワノフ：	Ivanov, Minister:
-MAP66_e46_p0_8	Map066.json	1	dialogue	お分かりになるなら、なぜ！！？	
-MAP66_e46_p0_9	Map066.json	1	dialogue	わたしに！？　話しかけたのです？？？？	
+MAP66_e46_p0_8	Map066.json	1	dialogue	お分かりになるなら、なぜ！！？	If you understand, then why!!?
+MAP66_e46_p0_9	Map066.json	1	dialogue	わたしに！？　話しかけたのです？？？？	Me!? You spoke to me???
 MAP66_e47_p0_1	Map066.json	0	dialogue	何かのメモ…	A note of some kind...
 MAP66_e47_p0_2	Map066.json	0	dialogue	私の隣の家の人が夜中に歌を歌います。	My neighbor sings in the middle of the night.
 MAP66_e47_p0_3	Map066.json	0	dialogue	文句を言ったら笛を吹き出しました。	When I complained, he started playing the flute.
@@ -9232,8 +9232,8 @@ MAP66_e51_p1_4	Map066.json	0	dialogue	ピピンが俺の剣術をバカにした
 MAP66_e51_p1_5	Map066.json	0	dialogue	ピピンが俺の喋り方をバカにした…	Pipin mocked the way I talk...
 MAP66_e51_p1_6	Map066.json	0	dialogue	ピピンが小鳥に話し掛けていた…	Pipin was talking to a little bird...
 MAP66_e52_p0_1	Map066.json	0	dialogue	市民ハンナ：	Hannah, Citizen:
-MAP66_e52_p0_2	Map066.json	0	dialogue	あんなに立派だったお城が…	
-MAP66_e52_p0_3	Map066.json	0	dialogue	ひどいもんだねえ…	
+MAP66_e52_p0_2	Map066.json	0	dialogue	あんなに立派だったお城が…	That magnificent castle...
+MAP66_e52_p0_3	Map066.json	0	dialogue	ひどいもんだねえ…	what a mess...
 MAP66_e53_p0_1	Map066.json	0	dialogue	道具屋アレクセイ：	Alexei, Item Shop Owner:
 MAP66_e53_p0_10	Map066.json	0	dialogue	道具屋アレクセイ：	Alexei, Item Shop Owner:
 MAP66_e53_p0_11	Map066.json	0	dialogue	いやー…　	Well...
@@ -9268,54 +9268,54 @@ MAP66_e57_p0_6	Map066.json	1	dialogue	スキルとは、装備している武器
 MAP66_e57_p0_7	Map066.json	1	dialogue	スキルポイント（SP)を消費して使うことのできる、	They cost Skill Points (SP) to use,
 MAP66_e57_p0_8	Map066.json	1	dialogue	強力だったり、便利な技の数々である。	and include powerful and handy techniques.
 MAP66_e58_p0_1	Map066.json	0	dialogue	市民レクサス：	Lexus, Citizen:
-MAP66_e58_p0_2	Map066.json	0	dialogue	南の空が真っ赤に燃えるのを見たという者も	
-MAP66_e58_p0_3	Map066.json	0	dialogue	おるとか…　	
-MAP66_e58_p0_4	Map066.json	0	dialogue	じゃが、この子らにそんなことは言えん…	
+MAP66_e58_p0_2	Map066.json	0	dialogue	南の空が真っ赤に燃えるのを見たという者も	Some say they saw the southern sky
+MAP66_e58_p0_3	Map066.json	0	dialogue	おるとか…　	burn bright red...
+MAP66_e58_p0_4	Map066.json	0	dialogue	じゃが、この子らにそんなことは言えん…	But I can't say such things to these children...
 MAP66_e59_p0_1	Map066.json	0	dialogue	市民マイ：	Mai, Citizen:
 MAP66_e59_p0_2	Map066.json	0	dialogue	フレイムのみんなは大丈夫かなあ…？	I wonder if everyone in Flame is okay...?
 MAP66_e59_p1_1	Map066.json	0	dialogue	市民マイ：	Mai, Citizen:
-MAP66_e59_p1_10	Map066.json	0	dialogue	わたし、マイ、よろしくね！	
+MAP66_e59_p1_10	Map066.json	0	dialogue	わたし、マイ、よろしくね！	I'm Mai, nice to meet you!
 MAP66_e59_p1_12	Map066.json	0	dialogue	ナガレ：	Nagare:
 MAP66_e59_p1_2	Map066.json	0	dialogue	フレイムのみんなは大丈夫かなあ…？	I wonder if everyone in Flame is okay...?
 MAP66_e59_p1_4	Map066.json	0	dialogue	ホノオ：	Hono:
-MAP66_e59_p1_5	Map066.json	0	dialogue	フレイムの王子のオレがこんなに元気だぜ！	
-MAP66_e59_p1_6	Map066.json	0	dialogue	きっとみんなも元気だ！	
+MAP66_e59_p1_5	Map066.json	0	dialogue	フレイムの王子のオレがこんなに元気だぜ！	I'm the Flame prince, and I'm full of energy!
+MAP66_e59_p1_6	Map066.json	0	dialogue	きっとみんなも元気だ！	Everyone's surely fine too!
 MAP66_e59_p1_8	Map066.json	0	dialogue	市民マイ：	Mai, Citizen:
-MAP66_e59_p1_9	Map066.json	0	dialogue	わーい、王子さまだ！	
+MAP66_e59_p1_9	Map066.json	0	dialogue	わーい、王子さまだ！	Yay, it's the prince!
 MAP66_e60_p0_1	Map066.json	0	dialogue	市民サラ：	Sarah, Citizen:
-MAP66_e60_p0_2	Map066.json	0	dialogue	フレイムの家族が気になるけれど…	
-MAP66_e60_p0_3	Map066.json	0	dialogue	しばらくはここを出られないみたいで…	
+MAP66_e60_p0_2	Map066.json	0	dialogue	フレイムの家族が気になるけれど…	I'm worried about my family in Flame, but...
+MAP66_e60_p0_3	Map066.json	0	dialogue	しばらくはここを出られないみたいで…	it seems I can't leave here for a while...
 MAP66_e61_p0_1	Map066.json	0	dialogue	休憩中の兵士ステイ：	Stay, Off-Duty Soldier:
 MAP66_e61_p0_15	Map066.json	1	dialogue	休憩中の兵士ステイ：	Stay, Off-Duty Soldier:
 MAP66_e61_p0_16	Map066.json	1	dialogue	いいねえ　若いってのは！	Ah, youth is a wonderful thing!
 MAP66_e61_p0_17	Map066.json	1	dialogue	でも、遠慮すんなよ。このくらいしか、	But don't hold back. This is about all
-MAP66_e61_p0_18	Map066.json	1	dialogue	俺たちにはおまえにしてやれないんだからさ	
-MAP66_e61_p0_2	Map066.json	0	dialogue	おっ、疲れたかー？	
+MAP66_e61_p0_18	Map066.json	1	dialogue	俺たちにはおまえにしてやれないんだからさ	There's nothing we can do for you, you know.
+MAP66_e61_p0_2	Map066.json	0	dialogue	おっ、疲れたかー？	Oh, tired?
 MAP66_e61_p0_3_c0	Map066.json	choice	choice	疲れたー	I'm beat
 MAP66_e61_p0_3_c1	Map066.json	choice	choice	元気だよ	I'm fine
 MAP66_e61_p0_6	Map066.json	1	dialogue	休憩中の兵士ステイ：	Stay, Off-Duty Soldier:
 MAP66_e61_p0_7	Map066.json	1	dialogue	それなら隣のベッドで休んで行けよ？	In that case, rest in the next bed over, why don't you?
-MAP66_e61_p0_8	Map066.json	1	dialogue	おまえが来たら、優先してベッドを	
+MAP66_e61_p0_8	Map066.json	1	dialogue	おまえが来たら、優先してベッドを	When you come, we'll give you
 MAP66_e61_p0_9	Map066.json	1	dialogue	使わせるように言われているからな！	I've been told to let you use it!
 MAP66_e61_p1_1	Map066.json	0	dialogue	休憩中の兵士ステイ：	Stay, Off-Duty Soldier:
 MAP66_e61_p1_10	Map066.json	1	dialogue	使わせるように言われているからな！	I've been told to let you use it!
 MAP66_e61_p1_16	Map066.json	1	dialogue	ホノオ：	Hono:
-MAP66_e61_p1_17	Map066.json	1	dialogue	オレらはまだまだ元気だぜ！	
+MAP66_e61_p1_17	Map066.json	1	dialogue	オレらはまだまだ元気だぜ！	We're still full of energy!
 MAP66_e61_p1_19	Map066.json	1	dialogue	休憩中の兵士ステイ：	Stay, Off-Duty Soldier:
-MAP66_e61_p1_2	Map066.json	0	dialogue	おっ、おまえら！	
+MAP66_e61_p1_2	Map066.json	0	dialogue	おっ、おまえら！	Oh, you lot!
 MAP66_e61_p1_20	Map066.json	1	dialogue	いいねえ　若いってのは！	Ah, youth is a wonderful thing!
 MAP66_e61_p1_21	Map066.json	1	dialogue	でも、遠慮すんなよ。このくらいしか、	But don't hold back. This is about all
-MAP66_e61_p1_22	Map066.json	1	dialogue	俺たちにはおまえらにしてやれないんだからさ	
-MAP66_e61_p1_3	Map066.json	0	dialogue	疲れたかー？	
+MAP66_e61_p1_22	Map066.json	1	dialogue	俺たちにはおまえらにしてやれないんだからさ	There's nothing we can do for you, you know.
+MAP66_e61_p1_3	Map066.json	0	dialogue	疲れたかー？	Tired?
 MAP66_e61_p1_4_c0	Map066.json	choice	choice	疲れたー	I'm beat
 MAP66_e61_p1_4_c1	Map066.json	choice	choice	元気だよ	I'm fine
 MAP66_e61_p1_7	Map066.json	1	dialogue	休憩中の兵士ステイ：	Stay, Off-Duty Soldier:
 MAP66_e61_p1_8	Map066.json	1	dialogue	それなら隣のベッドで休んで行けよ？	In that case, rest in the next bed over, why don't you?
-MAP66_e61_p1_9	Map066.json	1	dialogue	おまえらが来たら、優先してベッドを	
+MAP66_e61_p1_9	Map066.json	1	dialogue	おまえらが来たら、優先してベッドを	When you come, we'll give you
 MAP66_e62_p0_1	Map066.json	0	dialogue	宿屋の主人ドゥイン：	Duin, Innkeeper:
-MAP66_e62_p0_2	Map066.json	0	dialogue	宿に置いてきた食材…もう全部腐ってしまった	
-MAP66_e62_p0_3	Map066.json	0	dialogue	ろうなあ…。	
-MAP66_e62_p0_4	Map066.json	0	dialogue	帰宅許可が出るまで、城から出られないんです…	
+MAP66_e62_p0_2	Map066.json	0	dialogue	宿に置いてきた食材…もう全部腐ってしまった	The ingredients I left at the inn... they've all
+MAP66_e62_p0_3	Map066.json	0	dialogue	ろうなあ…。	rotted by now, surely...
+MAP66_e62_p0_4	Map066.json	0	dialogue	帰宅許可が出るまで、城から出られないんです…	I can't leave the castle until I'm given leave to go home...
 MAP66_e63_p0_1	Map066.json	0	dialogue	手伝わされている兵士ハング：	Hang, Conscripted Soldier:
 MAP66_e63_p0_2	Map066.json	0	dialogue	こっちの皿はこっち！　この器はこっち！	This plate goes here! This bowl goes here!
 MAP66_e63_p0_3	Map066.json	0	dialogue	速い、俺速い！　まるで風の紋章を使う	I'm fast, I'm fast! Just like Win
@@ -9325,37 +9325,37 @@ MAP66_e63_p1_2	Map066.json	0	dialogue	こっちの皿はこっち！　この器
 MAP66_e63_p1_3	Map066.json	0	dialogue	速い、俺速い！　まるで風の紋章を使う	I'm fast, I'm fast! Just like Win
 MAP66_e63_p1_4	Map066.json	0	dialogue	ウィンのように！	using the Wind Crest!
 MAP66_e63_p1_6	Map066.json	0	dialogue	ナガレ：	Nagare:
-MAP66_e63_p1_7	Map066.json	0	dialogue	こいつ本当に兵士かよ、極めてるぞ。	
+MAP66_e63_p1_7	Map066.json	0	dialogue	こいつ本当に兵士かよ、極めてるぞ。	Is this guy really a soldier? He's extreme.
 MAP66_e64_p0_1	Map066.json	0	dialogue	市民ユージーン：	Eugene, Citizen:
-MAP66_e64_p0_2	Map066.json	0	dialogue	わーいおしろだおしろだーーーー！！	
+MAP66_e64_p0_2	Map066.json	0	dialogue	わーいおしろだおしろだーーーー！！	Yay, a castle, a castle—!!
 MAP66_e65_p0_1	Map066.json	0	dialogue	ウィンの母マリア：	Maria, Win's Mother:
-MAP66_e65_p0_13	Map066.json	1	dialogue	ありがとう、ウィン！	
-MAP66_e65_p0_14	Map066.json	1	dialogue	お城のみんながお腹いっぱいでいられるよう、	
-MAP66_e65_p0_15	Map066.json	1	dialogue	私もがんばるから、ウィンもがんばんなさい！	
-MAP66_e65_p0_19	Map066.json	1	dialogue	あら、まだパンが嫌いなの？	
+MAP66_e65_p0_13	Map066.json	1	dialogue	ありがとう、ウィン！	Thanks, Win!
+MAP66_e65_p0_14	Map066.json	1	dialogue	お城のみんながお腹いっぱいでいられるよう、	So everyone in the castle can eat their fill,
+MAP66_e65_p0_15	Map066.json	1	dialogue	私もがんばるから、ウィンもがんばんなさい！	I'll do my best too—you do your best as well!
+MAP66_e65_p0_19	Map066.json	1	dialogue	あら、まだパンが嫌いなの？	Oh, still not fond of bread?
 MAP66_e65_p0_2	Map066.json	0	dialogue	ウィン…！	Win...!
-MAP66_e65_p0_20	Map066.json	1	dialogue	騎士様になって、普段いいものばかり	
-MAP66_e65_p0_21	Map066.json	1	dialogue	食べているのかしら！？	
-MAP66_e65_p0_3	Map066.json	0	dialogue	元気そうね…　よかった！！	
+MAP66_e65_p0_20	Map066.json	1	dialogue	騎士様になって、普段いいものばかり	Now that you're a knight, are you eating
+MAP66_e65_p0_21	Map066.json	1	dialogue	食べているのかしら！？	nothing but the fine stuff!?
+MAP66_e65_p0_3	Map066.json	0	dialogue	元気そうね…　よかった！！	You look well... what a relief!!
 MAP66_e65_p0_5	Map066.json	0	dialogue	ウィンの母マリア：	Maria, Win's Mother:
-MAP66_e65_p0_6	Map066.json	0	dialogue	ほら、パン持っていきなさい！	
-MAP66_e65_p0_7	Map066.json	0	dialogue	あ、でもお金は貰うよ！	
-MAP66_e65_p0_8	Map066.json	0	dialogue	おとなだからね、自分のお金で払おう！	
+MAP66_e65_p0_6	Map066.json	0	dialogue	ほら、パン持っていきなさい！	Here, take some bread!
+MAP66_e65_p0_7	Map066.json	0	dialogue	あ、でもお金は貰うよ！	Ah, but I'll take your money!
+MAP66_e65_p0_8	Map066.json	0	dialogue	おとなだからね、自分のお金で払おう！	You're an adult now—pay with your own money!
 MAP66_e65_p0_9_c0	Map066.json	choice	choice	パン買います	I'll buy bread
 MAP66_e65_p0_9_c1	Map066.json	choice	choice	パンいらない	No bread for me
 MAP66_e66_p0_1	Map066.json	0	dialogue	ウィンの父ジョン：	John, Win's Father:
-MAP66_e66_p0_2	Map066.json	0	dialogue	ウィン！！　無事だったな！！	
-MAP66_e66_p0_3	Map066.json	0	dialogue	よかった！！	
+MAP66_e66_p0_2	Map066.json	0	dialogue	ウィン！！　無事だったな！！	Win!! You're safe!!
+MAP66_e66_p0_3	Map066.json	0	dialogue	よかった！！	What a relief!!
 MAP66_e66_p0_5	Map066.json	0	dialogue	ウィンの父ジョン：	John, Win's Father:
-MAP66_e66_p0_6	Map066.json	0	dialogue	父さんたちもこの通り元気だ！	
-MAP66_e66_p0_7	Map066.json	0	dialogue	心配しないで、仕事に精を出しなさい。	
+MAP66_e66_p0_6	Map066.json	0	dialogue	父さんたちもこの通り元気だ！	Your dad and the others are all well, see!
+MAP66_e66_p0_7	Map066.json	0	dialogue	心配しないで、仕事に精を出しなさい。	Don't worry—just focus on your duties.
 MAP66_e67_p0_1	Map066.json	0	dialogue	錬金術師サラ：	Sarah, Alchemist:
 MAP66_e67_p0_10	Map066.json	0	dialogue	錬金術師サラ：	Sarah, Alchemist:
-MAP66_e67_p0_11	Map066.json	0	dialogue	こんな時代だけど、夢は諦めてないんです…	
-MAP66_e67_p0_12	Map066.json	0	dialogue	お金貯めて、大きなラボを作るんだ！	
+MAP66_e67_p0_11	Map066.json	0	dialogue	こんな時代だけど、夢は諦めてないんです…	Troubled times as these, but I haven't given up my dream...
+MAP66_e67_p0_12	Map066.json	0	dialogue	お金貯めて、大きなラボを作るんだ！	I'll save up and build a big lab!
 MAP66_e67_p0_2	Map066.json	0	dialogue	いらっしゃいませ騎士様！	Welcome, Sir Knight!
-MAP66_e67_p0_3	Map066.json	0	dialogue	めっちゃ在庫少なくなっちゃったんだけど…	
-MAP66_e67_p0_4	Map066.json	0	dialogue	仕方ない！　騎士様には売っちゃいます！	
+MAP66_e67_p0_3	Map066.json	0	dialogue	めっちゃ在庫少なくなっちゃったんだけど…	My stock's gotten awfully low, but...
+MAP66_e67_p0_4	Map066.json	0	dialogue	仕方ない！　騎士様には売っちゃいます！	Oh well! I'll sell to the Sir Knight anyway!
 MAP66_e9_p0_2	Map066.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP66_e9_p0_3	Map066.json	0	dialogue	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP66_e9_p0_4_c0	Map066.json	choice	choice	ハヤテを使おう	Use Hayate
@@ -9479,95 +9479,95 @@ MAP67_e17_p0_9	Map067.json	1	dialogue	よく見えない！近付くこともで
 MAP67_e18_p0_1	Map067.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP67_e19_p0_1	Map067.json	0	dialogue	書記官デアール：	Dear, Scribe:
 MAP67_e19_p0_2	Map067.json	0	dialogue	吾輩は王国書記官のデアール卿であーる。	I am Lord Dear, the kingdom's scribe, yessir.
-MAP67_e19_p0_4	Map067.json	0	dialogue	吾輩は現在王国の被害状況を調べているので	
-MAP67_e19_p0_5	Map067.json	0	dialogue	あーる！	
-MAP67_e19_p0_6	Map067.json	0	dialogue	他国の情報もまとめているのであーる！	
+MAP67_e19_p0_4	Map067.json	0	dialogue	吾輩は現在王国の被害状況を調べているので	I am currently surveying the kingdom's damage,
+MAP67_e19_p0_5	Map067.json	0	dialogue	あーる！	yessir!
+MAP67_e19_p0_6	Map067.json	0	dialogue	他国の情報もまとめているのであーる！	I am also compiling intel on other lands, yessir!
 MAP67_e20_p0_1	Map067.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
 MAP67_e20_p0_2	Map067.json	0	dialogue	この食堂もすっかり使われなくなりました…	Even this dining hall has fallen into disuse...
 MAP67_e20_p0_3	Map067.json	0	dialogue	王でさえ、いまは兵と同じ食事を食べて	Even the king now eats the same rations
 MAP67_e20_p0_4	Map067.json	0	dialogue	らっしゃいます。	as the soldiers.
 MAP67_e20_p1_1	Map067.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
 MAP67_e20_p1_10	Map067.json	0	dialogue	ナガレ：	Nagare:
-MAP67_e20_p1_11	Map067.json	0	dialogue	民が苦しんでいるときに、領主だけいいモン	
-MAP67_e20_p1_12	Map067.json	0	dialogue	食っていいわけないだろ。当たり前だ。	
+MAP67_e20_p1_11	Map067.json	0	dialogue	民が苦しんでいるときに、領主だけいいモン	When the people suffer, the lord can't be the only
+MAP67_e20_p1_12	Map067.json	0	dialogue	食っていいわけないだろ。当たり前だ。	one eating well. That's only natural.
 MAP67_e20_p1_14	Map067.json	0	dialogue	ホノオ：	Hono:
-MAP67_e20_p1_15	Map067.json	0	dialogue	え…？　あ、そうか…　そう、だよな…。	
+MAP67_e20_p1_15	Map067.json	0	dialogue	え…？　あ、そうか…　そう、だよな…。	Huh...? Ah, right... yes, that's true...
 MAP67_e20_p1_17	Map067.json	0	dialogue	ナガレ：	Nagare:
-MAP67_e20_p1_18	Map067.json	0	dialogue	そうだぞ。	
+MAP67_e20_p1_18	Map067.json	0	dialogue	そうだぞ。	Exactly.
 MAP67_e20_p1_2	Map067.json	0	dialogue	この食堂もすっかり使われなくなりました…	Even this dining hall has fallen into disuse...
 MAP67_e20_p1_3	Map067.json	0	dialogue	王でさえ、いまは兵と同じ食事を食べて	Even the king now eats the same rations
 MAP67_e20_p1_4	Map067.json	0	dialogue	らっしゃいます。	as the soldiers.
 MAP67_e20_p1_6	Map067.json	0	dialogue	ホノオ：	Hono:
-MAP67_e20_p1_7	Map067.json	0	dialogue	うげ…　ただでさえこの国のメシは、その…	
-MAP67_e20_p1_8	Map067.json	0	dialogue	あれだってのによー…　	
+MAP67_e20_p1_7	Map067.json	0	dialogue	うげ…　ただでさえこの国のメシは、その…	Ugh... this country's food was already, well...
+MAP67_e20_p1_8	Map067.json	0	dialogue	あれだってのによー…　	you know...
 MAP67_e21_p0_1	Map067.json	0	dialogue	城内の見回り兵ロール：	Rohr, Palace Patrolman:
 MAP67_e21_p0_2	Map067.json	0	dialogue	城の壊れた部分を調べて回っているんだけれど	I've been checking the castle's damaged sections, and
 MAP67_e21_p0_3	Map067.json	0	dialogue	ひどいなあ…	it's awful...
 MAP67_e21_p0_4	Map067.json	0	dialogue	ぜんぶ直るのに何年かかることやら…	How many years will it take to repair everything...
 MAP67_e21_p1_1	Map067.json	0	dialogue	城内の見回り兵ロール：	Rohr, Palace Patrolman:
-MAP67_e21_p1_10	Map067.json	0	dialogue	あっ、すいません…　フレイムのホノオ殿下…	
-MAP67_e21_p1_11	Map067.json	0	dialogue	フレイムはもっとひどいんでしたね…。	
+MAP67_e21_p1_10	Map067.json	0	dialogue	あっ、すいません…　フレイムのホノオ殿下…	Ah, sorry... Prince Hono of Flame...
+MAP67_e21_p1_11	Map067.json	0	dialogue	フレイムはもっとひどいんでしたね…。	Flame's is even worse, isn't it...
 MAP67_e21_p1_13	Map067.json	0	dialogue	ナガレ：	Nagare:
-MAP67_e21_p1_14	Map067.json	0	dialogue	セイリューの木材や石材を川で運べば…	
-MAP67_e21_p1_15	Map067.json	0	dialogue	ここもフレイムもすぐに復興できるかも知れない	
+MAP67_e21_p1_14	Map067.json	0	dialogue	セイリューの木材や石材を川で運べば…	If we float Seiryu's lumber and stone down the river...
+MAP67_e21_p1_15	Map067.json	0	dialogue	ここもフレイムもすぐに復興できるかも知れない	both this land and Flame could be rebuilt quickly.
 MAP67_e21_p1_17	Map067.json	0	dialogue	ホノオ：	Hono:
-MAP67_e21_p1_18	Map067.json	0	dialogue	そんなことができるのか、ナガレ！？	
+MAP67_e21_p1_18	Map067.json	0	dialogue	そんなことができるのか、ナガレ！？	Can you do that, Nagare!?
 MAP67_e21_p1_2	Map067.json	0	dialogue	城の壊れた部分を調べて回っているんだけれど	I've been checking the castle's damaged sections, and
 MAP67_e21_p1_20	Map067.json	0	dialogue	ナガレ：	Nagare:
-MAP67_e21_p1_21	Map067.json	0	dialogue	うん。だけど、この悪天候と魔物の増加が	
-MAP67_e21_p1_22	Map067.json	0	dialogue	止まってからじゃないと無理だ。	
+MAP67_e21_p1_21	Map067.json	0	dialogue	うん。だけど、この悪天候と魔物の増加が	Yeah. But not until the bad weather and
+MAP67_e21_p1_22	Map067.json	0	dialogue	止まってからじゃないと無理だ。	surge of monsters stop.
 MAP67_e21_p1_24	Map067.json	0	dialogue	ホノオ：	Hono:
-MAP67_e21_p1_25	Map067.json	0	dialogue	闇のエレメントだな…　とにかくよー	
+MAP67_e21_p1_25	Map067.json	0	dialogue	闇のエレメントだな…　とにかくよー	It's the Dark Element... well, anyway—
 MAP67_e21_p1_27	Map067.json	0	dialogue	城内の見回り兵ロール：	Rohr, Palace Patrolman:
-MAP67_e21_p1_28	Map067.json	0	dialogue	み、みなさんのご武運をお祈りしております！	
+MAP67_e21_p1_28	Map067.json	0	dialogue	み、みなさんのご武運をお祈りしております！	I-I pray for your fortune in battle!
 MAP67_e21_p1_3	Map067.json	0	dialogue	ひどいなあ…	it's awful...
 MAP67_e21_p1_4	Map067.json	0	dialogue	ぜんぶ直るのに何年かかることやら…	How many years will it take to repair everything...
 MAP67_e21_p1_6	Map067.json	0	dialogue	ホノオ：	Hono:
 MAP67_e21_p1_9	Map067.json	0	dialogue	城内の見回り兵ロール：	Rohr, Palace Patrolman:
 MAP67_e22_p0_1	Map067.json	0	dialogue	宿屋のバイト　ウェンディ：	Wendy, Inn Part-Timer:
-MAP67_e22_p0_2	Map067.json	0	dialogue	あーいそがしいいそがしい！	
+MAP67_e22_p0_2	Map067.json	0	dialogue	あーいそがしいいそがしい！	Ah, so busy, so busy!
 MAP67_e22_p0_6	Map067.json	0	dialogue	宿屋のバイト　ウェンディ：	Wendy, Inn Part-Timer:
-MAP67_e22_p0_7	Map067.json	0	dialogue	どの食器もクロスも綺麗で見るのに忙しい！	
+MAP67_e22_p0_7	Map067.json	0	dialogue	どの食器もクロスも綺麗で見るのに忙しい！	All these dishes and cloths are so clean, I'm busy inspecting them!
 MAP67_e23_p0_1	Map067.json	0	dialogue	市民ボブ：	Bob, Citizen:
-MAP67_e23_p0_2	Map067.json	0	dialogue	ヒマじゃのう…	
-MAP67_e23_p0_3	Map067.json	0	dialogue	家に帰りたいんじゃがのう…	
-MAP67_e23_p0_4	Map067.json	0	dialogue	魔物が出るっていうんで、街に入れんのじゃあ	
+MAP67_e23_p0_2	Map067.json	0	dialogue	ヒマじゃのう…	So bored...
+MAP67_e23_p0_3	Map067.json	0	dialogue	家に帰りたいんじゃがのう…	I wish I could go home...
+MAP67_e23_p0_4	Map067.json	0	dialogue	魔物が出るっていうんで、街に入れんのじゃあ	They say monsters appear, so I can't get into town
 MAP67_e24_p0_1	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
 MAP67_e24_p0_10	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p0_11	Map067.json	0	dialogue	あなたほど世界中を飛び回っても見つからない	
-MAP67_e24_p0_12	Map067.json	0	dialogue	のね…	
+MAP67_e24_p0_11	Map067.json	0	dialogue	あなたほど世界中を飛び回っても見つからない	Even flying around the world like you, you'd never
+MAP67_e24_p0_12	Map067.json	0	dialogue	のね…	find another...
 MAP67_e24_p0_2	Map067.json	0	dialogue	ウィン！　面白い本は見つかった？	Win! Did you find any interesting books?
 MAP67_e24_p0_4	Map067.json	0	dialogue	ウィン：	Win:
-MAP67_e24_p0_8	Map067.json	0	dialogue	　　　　　　　　　　ウィンは首を振った	
+MAP67_e24_p0_8	Map067.json	0	dialogue	　　　　　　　　　　ウィンは首を振った	Win shook his head.
 MAP67_e24_p1_1	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
 MAP67_e24_p1_10	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p1_11	Map067.json	0	dialogue	…なにこれ。	
-MAP67_e24_p1_12	Map067.json	0	dialogue	こんな装丁の本なんて見たことない…。	
-MAP67_e24_p1_13	Map067.json	0	dialogue	なんて綺麗で頑丈な…どこで作られた本なの？	
+MAP67_e24_p1_11	Map067.json	0	dialogue	…なにこれ。	...What is this?
+MAP67_e24_p1_12	Map067.json	0	dialogue	こんな装丁の本なんて見たことない…。	I've never seen a book bound like this...
+MAP67_e24_p1_13	Map067.json	0	dialogue	なんて綺麗で頑丈な…どこで作られた本なの？	So beautiful and sturdy... where was it made?
 MAP67_e24_p1_15	Map067.json	0	dialogue	ウィン：	Win:
 MAP67_e24_p1_18	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p1_19	Map067.json	0	dialogue	…分からないのね？	
+MAP67_e24_p1_19	Map067.json	0	dialogue	…分からないのね？	...You don't know, do you?
 MAP67_e24_p1_2	Map067.json	0	dialogue	ウィン！　面白い本は見つかった？	Win! Did you find any interesting books?
-MAP67_e24_p1_20	Map067.json	0	dialogue	どういうことかしら…　しかも新しく見えるし	
+MAP67_e24_p1_20	Map067.json	0	dialogue	どういうことかしら…　しかも新しく見えるし	How strange... and it looks new, at that.
 MAP67_e24_p1_22	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p1_23	Map067.json	0	dialogue	ウィン…　この本て、私にくれるの？	
+MAP67_e24_p1_23	Map067.json	0	dialogue	ウィン…　この本て、私にくれるの？	Win... are you giving me this book?
 MAP67_e24_p1_24_c0	Map067.json	choice	choice	あげます	I'll give it
 MAP67_e24_p1_24_c1	Map067.json	choice	choice	あげられないな	I can't give it
 MAP67_e24_p1_27	Map067.json	1	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p1_28	Map067.json	1	dialogue	ありがとう！　ウィン！！	
-MAP67_e24_p1_29	Map067.json	1	dialogue	じゃあ早速読むから、しばらく私に近付かない	
-MAP67_e24_p1_30	Map067.json	1	dialogue	ようにしてね！！	
+MAP67_e24_p1_28	Map067.json	1	dialogue	ありがとう！　ウィン！！	Thank you! Win!!
+MAP67_e24_p1_29	Map067.json	1	dialogue	じゃあ早速読むから、しばらく私に近付かない	I'll start reading right away, so don't come near me
+MAP67_e24_p1_30	Map067.json	1	dialogue	ようにしてね！！	for a while!!
 MAP67_e24_p1_36	Map067.json	1	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p1_37	Map067.json	1	dialogue	そ！　そう……………	
-MAP67_e24_p1_38	Map067.json	1	dialogue	ものすごく…貴重なもののようだしね…	
-MAP67_e24_p1_39	Map067.json	1	dialogue	…今後夜道に気を付けてとだけ言っておく…	
+MAP67_e24_p1_37	Map067.json	1	dialogue	そ！　そう……………	R-Right......
+MAP67_e24_p1_38	Map067.json	1	dialogue	ものすごく…貴重なもののようだしね…	It seems... extremely valuable...
+MAP67_e24_p1_39	Map067.json	1	dialogue	…今後夜道に気を付けてとだけ言っておく…	...I'll just say this: be careful on the roads at night...
 MAP67_e24_p1_4	Map067.json	0	dialogue	ウィン：	Win:
-MAP67_e24_p1_8	Map067.json	0	dialogue	　　　　　　ウィンは奇書を取り出して見せた	
+MAP67_e24_p1_8	Map067.json	0	dialogue	　　　　　　ウィンは奇書を取り出して見せた	Win took out the rare tome and showed it.
 MAP67_e24_p2_1	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p2_10	Map067.json	0	dialogue	あっちいけ！！！！	
+MAP67_e24_p2_10	Map067.json	0	dialogue	あっちいけ！！！！	Go away!!!!
 MAP67_e24_p2_4	Map067.json	0	dialogue	ウィン：	Win:
 MAP67_e24_p2_7	Map067.json	0	dialogue	市民ウィング：	Wing, Citizen:
-MAP67_e24_p2_9	Map067.json	0	dialogue	じゃますんなっていっただろ！！！！！？？	
+MAP67_e24_p2_9	Map067.json	0	dialogue	じゃますんなっていっただろ！！！！！？？	I told you not to bother me, didn't I!!!??
 MAP67_e25_p0_1	Map067.json	0	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
 MAP67_e25_p0_11	Map067.json	1	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
 MAP67_e25_p0_12	Map067.json	1	dialogue	よかったー　あれ、騎士であるあなたが	Oh good~ ...but as a knight,
@@ -9579,7 +9579,7 @@ MAP67_e25_p0_2	Map067.json	0	dialogue	ウィンさん、魔物をたおしたと
 MAP67_e25_p0_20	Map067.json	1	dialogue	俺ら兵士や騎士には、役に立ちません。	doesn't do us soldiers or knights any good.
 MAP67_e25_p0_21	Map067.json	1	dialogue	お店で売ってお金に変えた方がいいですよ？	Better to sell them at a shop and turn them into money, right?
 MAP67_e25_p0_3	Map067.json	0	dialogue	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
-MAP67_e25_p0_4	Map067.json	0	dialogue	ちゃんと売ってますよね？	
+MAP67_e25_p0_4	Map067.json	0	dialogue	ちゃんと売ってますよね？	You are selling properly, right?
 MAP67_e25_p0_6	Map067.json	0	dialogue	ウィン：	Win:
 MAP67_e25_p0_8_c0	Map067.json	choice	choice	売ってるよ	We do sell it
 MAP67_e25_p0_8_c1	Map067.json	choice	choice	えっ　なんのこと	Huh? What do you mean?
