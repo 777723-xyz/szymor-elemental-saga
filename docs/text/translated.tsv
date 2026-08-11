@@ -7574,12 +7574,12 @@ MAP64_e33_p3_8	Map064.json	0	dialogue	このご恩、わしだけでなく皆忘
 MAP64_e33_p4_1	Map064.json	0	dialogue	フレイム王：	King Flame:
 MAP64_e33_p4_10	Map064.json	0	dialogue	ああ…　はい、わかりました。	Ah... yes, understood.
 MAP64_e33_p4_12	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p4_13	Map064.json	0	dialogue	オレは？　一応次の王様なんだけど…？	
-MAP64_e33_p4_2	Map064.json	0	dialogue	我が兵たちにとって、ナガレ殿はいまや	
-MAP64_e33_p4_3	Map064.json	0	dialogue	皆の救世主、戦場の女神です。	
+MAP64_e33_p4_13	Map064.json	0	dialogue	オレは？　一応次の王様なんだけど…？	What about me? I'm the next king, you know...?
+MAP64_e33_p4_2	Map064.json	0	dialogue	我が兵たちにとって、ナガレ殿はいまや	To my soldiers, you, Lord Nagare, are now
+MAP64_e33_p4_3	Map064.json	0	dialogue	皆の救世主、戦場の女神です。	everyone's savior, the goddess of the battlefield.
 MAP64_e33_p4_5	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p4_6	Map064.json	0	dialogue	よかったら兵たちに声をかけてやって下され。	
-MAP64_e33_p4_7	Map064.json	0	dialogue	全軍の士気がおおいに上がると思います。	
+MAP64_e33_p4_6	Map064.json	0	dialogue	よかったら兵たちに声をかけてやって下され。	If you would, please say a few words to the soldiers.
+MAP64_e33_p4_7	Map064.json	0	dialogue	全軍の士気がおおいに上がると思います。	I believe it would greatly lift the morale of the whole army.
 MAP64_e33_p4_9	Map064.json	0	dialogue	ナガレ：	Nagare:
 MAP64_e34_p0_1	Map064.json	0	dialogue	『我々のエレメントと呼ぶもの』	"""What We Call Elements"""
 MAP64_e34_p0_11	Map064.json	1	dialogue	漠然と、火の恵み、水の恵、風の恵み…自然からの恩恵、	
@@ -7951,41 +7951,41 @@ MAP65_e31_p0_6	Map065.json	0	dialogue	騎士団長代行サクソン：	Saxon, A
 MAP65_e31_p0_7	Map065.json	0	dialogue	そ、それは大変だのう！	T-That is serious indeed!
 MAP65_e31_p0_8	Map065.json	0	dialogue	気を付けて行ってまいれよ！	Do go carefully!
 MAP65_e32_p0_1	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p0_10	Map065.json	0	dialogue	派手なバケモノが…王の間に…！	
+MAP65_e32_p0_10	Map065.json	0	dialogue	派手なバケモノが…王の間に…！	A flashy monster... in the throne room...!
 MAP65_e32_p0_12	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e32_p0_13	Map065.json	0	dialogue	仕方ない…　このままもうしばらく隠れていろ。	
+MAP65_e32_p0_13	Map065.json	0	dialogue	仕方ない…　このままもうしばらく隠れていろ。	Can't be helped... stay hidden a while longer.
 MAP65_e32_p0_15	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p0_16	Map065.json	0	dialogue	あっ！　騎士さま、お待ちを…！！	
-MAP65_e32_p0_2	Map065.json	0	dialogue	ひ…ひい！　　…って、騎士さま…？	
+MAP65_e32_p0_16	Map065.json	0	dialogue	あっ！　騎士さま、お待ちを…！！	Ah! Sir Knight, wait...!!
+MAP65_e32_p0_2	Map065.json	0	dialogue	ひ…ひい！　　…って、騎士さま…？	E-Eek! ...Wait, Sir Knight...?
 MAP65_e32_p0_20	Map065.json	0	dialogue	　　　　　美味しいパンを　３個　もらった！	
 MAP65_e32_p0_22	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p0_23	Map065.json	0	dialogue	私にはこれしかできることがありません…	
-MAP65_e32_p0_24	Map065.json	0	dialogue	たいしたものではないですが…お持ちください	
+MAP65_e32_p0_23	Map065.json	0	dialogue	私にはこれしかできることがありません…	This is all I can do...
+MAP65_e32_p0_24	Map065.json	0	dialogue	たいしたものではないですが…お持ちください	It's not much, but... please take it.
 MAP65_e32_p0_26	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e32_p0_27	Map065.json	0	dialogue	フン…　ないよりはいいだろう。	
+MAP65_e32_p0_27	Map065.json	0	dialogue	フン…　ないよりはいいだろう。	Hmph... better than nothing, I suppose.
 MAP65_e32_p0_4	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e32_p0_5	Map065.json	0	dialogue	おい、料理人！　	
-MAP65_e32_p0_6	Map065.json	0	dialogue	逃げ遅れたのか？	
+MAP65_e32_p0_5	Map065.json	0	dialogue	おい、料理人！　	Hey, cook!
+MAP65_e32_p0_6	Map065.json	0	dialogue	逃げ遅れたのか？	Didn't make it out in time?
 MAP65_e32_p0_8	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p0_9	Map065.json	0	dialogue	は…はい…　仕事を終えて戻ろうとしたら…	
+MAP65_e32_p0_9	Map065.json	0	dialogue	は…はい…　仕事を終えて戻ろうとしたら…	Y-Yes... I was heading back after work, and then...
 MAP65_e32_p1_1	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p1_10	Map065.json	0	dialogue	派手なバケモノが…王の間に…！	
+MAP65_e32_p1_10	Map065.json	0	dialogue	派手なバケモノが…王の間に…！	A flashy monster... in the throne room...!
 MAP65_e32_p1_12	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e32_p1_13	Map065.json	0	dialogue	仕方ない…　このままもうしばらく隠れていろ。	
+MAP65_e32_p1_13	Map065.json	0	dialogue	仕方ない…　このままもうしばらく隠れていろ。	Can't be helped... stay hidden a while longer.
 MAP65_e32_p1_15	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p1_16	Map065.json	0	dialogue	あっ！　騎士さま、お待ちを…！！	
-MAP65_e32_p1_2	Map065.json	0	dialogue	ひ…ひい！　　…って、騎士さま…？	
+MAP65_e32_p1_16	Map065.json	0	dialogue	あっ！　騎士さま、お待ちを…！！	Ah! Sir Knight, wait...!!
+MAP65_e32_p1_2	Map065.json	0	dialogue	ひ…ひい！　　…って、騎士さま…？	E-Eek! ...Wait, Sir Knight...?
 MAP65_e32_p1_20	Map065.json	0	dialogue	　　　　　高級医療キットを　３個　もらった！	
 MAP65_e32_p1_22	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p1_23	Map065.json	0	dialogue	私にはこれしかできることがありません…	
-MAP65_e32_p1_24	Map065.json	0	dialogue	たいしたものではないですが…お持ちください	
+MAP65_e32_p1_23	Map065.json	0	dialogue	私にはこれしかできることがありません…	This is all I can do...
+MAP65_e32_p1_24	Map065.json	0	dialogue	たいしたものではないですが…お持ちください	It's not much, but... please take it.
 MAP65_e32_p1_26	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e32_p1_27	Map065.json	0	dialogue	フン…　ないよりはいいだろう。	
+MAP65_e32_p1_27	Map065.json	0	dialogue	フン…　ないよりはいいだろう。	Hmph... better than nothing, I suppose.
 MAP65_e32_p1_4	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e32_p1_5	Map065.json	0	dialogue	おい、料理人！　	
-MAP65_e32_p1_6	Map065.json	0	dialogue	逃げ遅れたのか？	
+MAP65_e32_p1_5	Map065.json	0	dialogue	おい、料理人！　	Hey, cook!
+MAP65_e32_p1_6	Map065.json	0	dialogue	逃げ遅れたのか？	Didn't make it out in time?
 MAP65_e32_p1_8	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
-MAP65_e32_p1_9	Map065.json	0	dialogue	は…はい…　仕事を終えて戻ろうとしたら…	
+MAP65_e32_p1_9	Map065.json	0	dialogue	は…はい…　仕事を終えて戻ろうとしたら…	Y-Yes... I was heading back after work, and then...
 MAP65_e32_p2_1	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Cook's Assistant:
 MAP65_e32_p2_2	Map065.json	0	dialogue	ウィンさま…　	
 MAP65_e32_p2_3	Map065.json	0	dialogue	私はいつも、ウィンさまのお家のパンの味を	
@@ -8031,164 +8031,164 @@ MAP65_e35_p0_9_c0	Map065.json	choice	choice	もちろん	Of course
 MAP65_e35_p0_9_c1	Map065.json	choice	choice	まだです	Not yet
 MAP65_e36_p1_10	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p1_100	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_101	Map065.json	0	dialogue	だはは！！	
-MAP65_e36_p1_102	Map065.json	0	dialogue	いや、だからー　継承者じゃない人間なんて…	
+MAP65_e36_p1_101	Map065.json	0	dialogue	だはは！！	Bahaha!!
+MAP65_e36_p1_102	Map065.json	0	dialogue	いや、だからー　継承者じゃない人間なんて…	No, see—people who aren't inheritors...
 MAP65_e36_p1_104	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_105	Map065.json	0	dialogue	ボクにとっては、ハエ以下の存在なわけー	
-MAP65_e36_p1_106	Map065.json	0	dialogue	むしろハエよりずっとうるさいから…　	
-MAP65_e36_p1_107	Map065.json	0	dialogue	もっとムカつくんだよねーーーーーー？？	
+MAP65_e36_p1_105	Map065.json	0	dialogue	ボクにとっては、ハエ以下の存在なわけー	are less than flies to me—
+MAP65_e36_p1_106	Map065.json	0	dialogue	むしろハエよりずっとうるさいから…　	actually, they're way noisier than flies...
+MAP65_e36_p1_107	Map065.json	0	dialogue	もっとムカつくんだよねーーーーーー？？	so they annoy me even more, you know??
 MAP65_e36_p1_109	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_11	Map065.json	0	dialogue	んーーーーー？？	
-MAP65_e36_p1_110	Map065.json	0	dialogue	キサマのそのクドい喋り方にはウンザリだ…	
-MAP65_e36_p1_111	Map065.json	0	dialogue	もういい！　ダフィール、かかってこい！！	
+MAP65_e36_p1_11	Map065.json	0	dialogue	んーーーーー？？	Riiight??
+MAP65_e36_p1_110	Map065.json	0	dialogue	キサマのそのクドい喋り方にはウンザリだ…	I'm sick of your wordy way of talking...
+MAP65_e36_p1_111	Map065.json	0	dialogue	もういい！　ダフィール、かかってこい！！	Enough! Dafill, come at me!!
 MAP65_e36_p1_113	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_114	Map065.json	0	dialogue	ウィン、さっきのバトルの感覚を忘れるな！	
-MAP65_e36_p1_115	Map065.json	0	dialogue	俺が攻撃で、お前がサポートだ！！	
+MAP65_e36_p1_114	Map065.json	0	dialogue	ウィン、さっきのバトルの感覚を忘れるな！	Win, don't forget that feeling from the last battle!
+MAP65_e36_p1_115	Map065.json	0	dialogue	俺が攻撃で、お前がサポートだ！！	I attack, and you support!!
 MAP65_e36_p1_117	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p1_121	Map065.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP65_e36_p1_123	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_124	Map065.json	0	dialogue	あーーー　やるのねーーー	
-MAP65_e36_p1_125	Map065.json	0	dialogue	継承者がひとりってのが残念だったけど…	
-MAP65_e36_p1_126	Map065.json	0	dialogue	まあ、いっかーーー！！	
+MAP65_e36_p1_124	Map065.json	0	dialogue	あーーー　やるのねーーー	Awww, so we're doing this~
+MAP65_e36_p1_125	Map065.json	0	dialogue	継承者がひとりってのが残念だったけど…	Too bad there's only one inheritor, but...
+MAP65_e36_p1_126	Map065.json	0	dialogue	まあ、いっかーーー！！	well, whatever!!
 MAP65_e36_p1_128	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_129	Map065.json	0	dialogue	じゃあ　いくよー	
-MAP65_e36_p1_130	Map065.json	0	dialogue	せーの…	
+MAP65_e36_p1_129	Map065.json	0	dialogue	じゃあ　いくよー	Here I go~
+MAP65_e36_p1_130	Map065.json	0	dialogue	せーの…	Ready... set...
 MAP65_e36_p1_132	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_133	Map065.json	0	dialogue	プレイボ―――――――ル！！	
+MAP65_e36_p1_133	Map065.json	0	dialogue	プレイボ―――――――ル！！	Play ba——all!!
 MAP65_e36_p1_182	Map065.json	0	dialogue	近衛兵ブロウニング：	Browning, Royal Guard:
-MAP65_e36_p1_183	Map065.json	0	dialogue	うわーーーなんだ！	
-MAP65_e36_p1_184	Map065.json	0	dialogue	突然まものがたくさん…！	
+MAP65_e36_p1_183	Map065.json	0	dialogue	うわーーーなんだ！	Whoa— what is this!
+MAP65_e36_p1_184	Map065.json	0	dialogue	突然まものがたくさん…！	Suddenly, a swarm of monsters...!
 MAP65_e36_p1_193	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p1_194	Map065.json	0	dialogue	ぐおおおおおお！！	
-MAP65_e36_p1_195	Map065.json	0	dialogue	突然魔物の大群が！！！！！	
-MAP65_e36_p1_196	Map065.json	0	dialogue	えーーーーい、戦えーーーーい！！	
+MAP65_e36_p1_194	Map065.json	0	dialogue	ぐおおおおおお！！	Gwaaaaah!!
+MAP65_e36_p1_195	Map065.json	0	dialogue	突然魔物の大群が！！！！！	A huge horde of monsters, all at once!!!!
+MAP65_e36_p1_196	Map065.json	0	dialogue	えーーーーい、戦えーーーーい！！	Fight, I say—!!
 MAP65_e36_p1_199	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p1_200	Map065.json	0	dialogue	くっ！！まずい…！　こうなっては…	
-MAP65_e36_p1_201	Map065.json	0	dialogue	俺もどうにかして剣を抜かねば…！	
+MAP65_e36_p1_200	Map065.json	0	dialogue	くっ！！まずい…！　こうなっては…	Guh! This is bad...! At this rate...
+MAP65_e36_p1_201	Map065.json	0	dialogue	俺もどうにかして剣を抜かねば…！	I've got to find a way to draw my sword...!
 MAP65_e36_p1_204	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_205	Map065.json	0	dialogue	な、なにが起こっている！？	
-MAP65_e36_p1_206	Map065.json	0	dialogue	やめろ！　お前ら！！	
+MAP65_e36_p1_205	Map065.json	0	dialogue	な、なにが起こっている！？	Wh-What's happening!?
+MAP65_e36_p1_206	Map065.json	0	dialogue	やめろ！　お前ら！！	Stop it, all of you!!
 MAP65_e36_p1_208	Map065.json	0	dialogue	ウィンダム王：	King Windam:
-MAP65_e36_p1_209	Map065.json	0	dialogue	人間はもはや私しかおらぬのか…！	
-MAP65_e36_p1_210	Map065.json	0	dialogue	ええいっ！　ならば一匹でも多く道連れに…！	
+MAP65_e36_p1_209	Map065.json	0	dialogue	人間はもはや私しかおらぬのか…！	Am I the only human left...!
+MAP65_e36_p1_210	Map065.json	0	dialogue	ええいっ！　ならば一匹でも多く道連れに…！	Bah! Then I'll take as many of you with me as I can...!
 MAP65_e36_p1_213	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p1_216	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_217	Map065.json	0	dialogue	ハーイ　みんながんばってーーー	
+MAP65_e36_p1_217	Map065.json	0	dialogue	ハーイ　みんながんばってーーー	Hii, everyone, keep it up~
 MAP65_e36_p1_219	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p1_220	Map065.json	0	dialogue	そう…	I see...
-MAP65_e36_p1_221	Map065.json	0	dialogue	戦うのはボクじゃなくって　みなさんでーす！	
+MAP65_e36_p1_221	Map065.json	0	dialogue	戦うのはボクじゃなくって　みなさんでーす！	It's not me fighting—it's all of you!
 MAP65_e36_p1_227	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_228	Map065.json	0	dialogue	クッ…！	
-MAP65_e36_p1_229	Map065.json	0	dialogue	これはキサマの仕業なのか…　ダフィール！！	
+MAP65_e36_p1_228	Map065.json	0	dialogue	クッ…！	Hmph...!
+MAP65_e36_p1_229	Map065.json	0	dialogue	これはキサマの仕業なのか…　ダフィール！！	Is this your doing... Dafill!!
 MAP65_e36_p1_231	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_232	Map065.json	0	dialogue	そうだよーん　ボクはひとっていうかー	
-MAP65_e36_p1_233	Map065.json	0	dialogue	いきもの全般を操ったり惑わしたりするのが	
-MAP65_e36_p1_234	Map065.json	0	dialogue	得意なのさーーー	
+MAP65_e36_p1_232	Map065.json	0	dialogue	そうだよーん　ボクはひとっていうかー	That's right~! I'm good at manipulating,
+MAP65_e36_p1_233	Map065.json	0	dialogue	いきもの全般を操ったり惑わしたりするのが	or rather, bewitching all living things,
+MAP65_e36_p1_234	Map065.json	0	dialogue	得意なのさーーー	you see~
 MAP65_e36_p1_236	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p1_237	Map065.json	0	dialogue	みんな目を覚ませ…！！	
 MAP65_e36_p1_238	Map065.json	0	dialogue	俺たちは同士討ちをしている…！！	
 MAP65_e36_p1_240	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_241	Map065.json	0	dialogue	この術は継承者には通用しないんだけどーーー	
+MAP65_e36_p1_241	Map065.json	0	dialogue	この術は継承者には通用しないんだけどーーー	This art doesn't work on inheritors, though~
 MAP65_e36_p1_243	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_244	Map065.json	0	dialogue	ふつうのニンゲンだと効いちゃうワケー	
-MAP65_e36_p1_245	Map065.json	0	dialogue	さあ継承者さーん　ふつうのニンゲンに	
-MAP65_e36_p1_246	Map065.json	0	dialogue	ころされちゃうよー？　いいのーーー？	
+MAP65_e36_p1_244	Map065.json	0	dialogue	ふつうのニンゲンだと効いちゃうワケー	but it works fine on ordinary humans~
+MAP65_e36_p1_245	Map065.json	0	dialogue	さあ継承者さーん　ふつうのニンゲンに	So, Mr. Inheritor~ are you going to be
+MAP65_e36_p1_246	Map065.json	0	dialogue	ころされちゃうよー？　いいのーーー？	killed by ordinary humans? Is that okay~?
 MAP65_e36_p1_25	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p1_252	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p1_253	Map065.json	0	dialogue	ウィン…！	Win...!
-MAP65_e36_p1_254	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！	
+MAP65_e36_p1_254	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！	We have no choice but to escape with Hayate's magic...!
 MAP65_e36_p1_256	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p1_259	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_26	Map065.json	0	dialogue	おお…　ピピン！！　それに、ウィン！！	
-MAP65_e36_p1_260	Map065.json	0	dialogue	どうせお前にこいつらは殺せないだろうが…	
-MAP65_e36_p1_261	Map065.json	0	dialogue	なら、逃げるしかないだろ…！！	
+MAP65_e36_p1_26	Map065.json	0	dialogue	おお…　ピピン！！　それに、ウィン！！	Oh... Pipin!! And Win!!
+MAP65_e36_p1_260	Map065.json	0	dialogue	どうせお前にこいつらは殺せないだろうが…	You couldn't kill these people anyway...
+MAP65_e36_p1_261	Map065.json	0	dialogue	なら、逃げるしかないだろ…！！	so running is the only option...!!
 MAP65_e36_p1_263	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p1_266	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_267	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…	
-MAP65_e36_p1_268	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！	
+MAP65_e36_p1_267	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…	But if we run, these people won't be saved...
+MAP65_e36_p1_268	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！	You idiot...!! Always the same, aren't you...!!
 MAP65_e36_p1_274	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p1_275	Map065.json	0	dialogue	いやいやいやいやいや…	No no no no no...
 MAP65_e36_p1_277	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_278	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…	
-MAP65_e36_p1_279	Map065.json	0	dialogue	お前といると…　焼きがまわりっ放しだ！	
+MAP65_e36_p1_278	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…	...Jeez, I can't believe I slipped up like this...
+MAP65_e36_p1_279	Map065.json	0	dialogue	お前といると…　焼きがまわりっ放しだ！	Being with you... brings me nothing but bad luck!
 MAP65_e36_p1_28	Map065.json	0	dialogue	サクソン：	Saxon:
 MAP65_e36_p1_281	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p1_288	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_289	Map065.json	0	dialogue	おい、赤いのさー	
-MAP65_e36_p1_29	Map065.json	0	dialogue	ピピンだとーーー！？	
-MAP65_e36_p1_290	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？	
+MAP65_e36_p1_289	Map065.json	0	dialogue	おい、赤いのさー	Hey, red one~
+MAP65_e36_p1_29	Map065.json	0	dialogue	ピピンだとーーー！？	Pipin, you say—!?
+MAP65_e36_p1_290	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？	Why are you unaffected?
 MAP65_e36_p1_292	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p1_293	Map065.json	0	dialogue	…なに？	...What?
 MAP65_e36_p1_295	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_296	Map065.json	0	dialogue	オマエ、継承者じゃないだろ？	
-MAP65_e36_p1_297	Map065.json	0	dialogue	なんでボクの術効いてないワケー？	
+MAP65_e36_p1_296	Map065.json	0	dialogue	オマエ、継承者じゃないだろ？	You're not an inheritor, right?
+MAP65_e36_p1_297	Map065.json	0	dialogue	なんでボクの術効いてないワケー？	Why isn't my art working on you?
 MAP65_e36_p1_299	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_30	Map065.json	0	dialogue	騎士を突然やめたきさまが…	
-MAP65_e36_p1_300	Map065.json	0	dialogue	…さあな。	
-MAP65_e36_p1_301	Map065.json	0	dialogue	キサマの術が、キサマの思っているよりも	
-MAP65_e36_p1_302	Map065.json	0	dialogue	全然大したことない証拠じゃないのか？	
+MAP65_e36_p1_30	Map065.json	0	dialogue	騎士を突然やめたきさまが…	You, who quit being a knight all of a sudden...
+MAP65_e36_p1_300	Map065.json	0	dialogue	…さあな。	...Who knows.
+MAP65_e36_p1_301	Map065.json	0	dialogue	キサマの術が、キサマの思っているよりも	Maybe it's proof that your art isn't
+MAP65_e36_p1_302	Map065.json	0	dialogue	全然大したことない証拠じゃないのか？	nearly as impressive as you think.
 MAP65_e36_p1_305	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_306	Map065.json	0	dialogue	やめやめーーー	
-MAP65_e36_p1_307	Map065.json	0	dialogue	試合中断しまーーーーーーーーす	
-MAP65_e36_p1_31	Map065.json	0	dialogue	今更どの顔を下げてやってきたのだー！！？？	
+MAP65_e36_p1_306	Map065.json	0	dialogue	やめやめーーー	Stop, stop~
+MAP65_e36_p1_307	Map065.json	0	dialogue	試合中断しまーーーーーーーーす	Match suspended—!!
+MAP65_e36_p1_31	Map065.json	0	dialogue	今更どの顔を下げてやってきたのだー！！？？	How dare you show your face here now—!!??
 MAP65_e36_p1_33	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_34	Map065.json	0	dialogue	フン…　無能のお前に代わって…	
+MAP65_e36_p1_34	Map065.json	0	dialogue	フン…　無能のお前に代わって…	Hmph... I've come to slay this monster
 MAP65_e36_p1_35	Map065.json	0	dialogue	このバケモンを俺が退治しに来てやったのさ。	
 MAP65_e36_p1_369	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p1_37	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p1_370	Map065.json	0	dialogue	はっ…！　俺は…一体…？	
+MAP65_e36_p1_370	Map065.json	0	dialogue	はっ…！　俺は…一体…？	Hah...! What... what was I...?
 MAP65_e36_p1_378	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p1_379	Map065.json	0	dialogue	な…何が起こったんだ？　	
-MAP65_e36_p1_38	Map065.json	0	dialogue	ぐぬぬぬ…　きさまああああーーー！！	
+MAP65_e36_p1_379	Map065.json	0	dialogue	な…何が起こったんだ？　	Wh-What happened?
+MAP65_e36_p1_38	Map065.json	0	dialogue	ぐぬぬぬ…　きさまああああーーー！！	Grrr... you—!!
 MAP65_e36_p1_387	Map065.json	0	dialogue	ウィンダム王：	King Windam:
-MAP65_e36_p1_388	Map065.json	0	dialogue	どうした…？　なぜ皆　傷を負っている！？	
+MAP65_e36_p1_388	Map065.json	0	dialogue	どうした…？　なぜ皆　傷を負っている！？	What's this...? Why is everyone wounded!?
 MAP65_e36_p1_390	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_391	Map065.json	0	dialogue	…術を、解いたのか？	
+MAP65_e36_p1_391	Map065.json	0	dialogue	…術を、解いたのか？	...You dispelled the art?
 MAP65_e36_p1_398	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p1_399	Map065.json	0	dialogue	ピピン…　ウィン…	
+MAP65_e36_p1_399	Map065.json	0	dialogue	ピピン…　ウィン…	Pipin... Win...
 MAP65_e36_p1_40	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p1_400	Map065.json	0	dialogue	何が起こった…？	
+MAP65_e36_p1_400	Map065.json	0	dialogue	何が起こった…？	What happened...?
 MAP65_e36_p1_402	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_403	Map065.json	0	dialogue	…そいつが幻惑の術みたいなものを使った。	
-MAP65_e36_p1_404	Map065.json	0	dialogue	それで、俺とウィン以外のお前らは…	
-MAP65_e36_p1_405	Map065.json	0	dialogue	味方を魔物と思って、同士討ちを始めたのさ。	
+MAP65_e36_p1_403	Map065.json	0	dialogue	…そいつが幻惑の術みたいなものを使った。	...That guy used some kind of illusion art.
+MAP65_e36_p1_404	Map065.json	0	dialogue	それで、俺とウィン以外のお前らは…	Because of it, everyone but me and Win...
+MAP65_e36_p1_405	Map065.json	0	dialogue	味方を魔物と思って、同士討ちを始めたのさ。	saw allies as monsters and started fighting each other.
 MAP65_e36_p1_407	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p1_408	Map065.json	0	dialogue	な…なんと！	
-MAP65_e36_p1_41	Map065.json	0	dialogue	サクソン殿！　ここはこらえて下され！！	
+MAP65_e36_p1_408	Map065.json	0	dialogue	な…なんと！	Wh-What!
+MAP65_e36_p1_41	Map065.json	0	dialogue	サクソン殿！　ここはこらえて下され！！	Lord Saxon! Hold yourself together!!
 MAP65_e36_p1_410	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_411	Map065.json	0	dialogue	そうなんだけどー	
+MAP65_e36_p1_411	Map065.json	0	dialogue	そうなんだけどー	That's true, but~
 MAP65_e36_p1_412	Map065.json	0	dialogue	やめたーーーーーーーー	
 MAP65_e36_p1_414	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_415	Map065.json	0	dialogue	なぜやめた！？	
+MAP65_e36_p1_415	Map065.json	0	dialogue	なぜやめた！？	Why did you stop!?
 MAP65_e36_p1_417	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_418	Map065.json	0	dialogue	もっといいこと思い付いたからさーーー	
+MAP65_e36_p1_418	Map065.json	0	dialogue	もっといいこと思い付いたからさーーー	Because I thought of something even better~
 MAP65_e36_p1_420	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_421	Map065.json	0	dialogue	なに…？	
+MAP65_e36_p1_421	Map065.json	0	dialogue	なに…？	What...?
 MAP65_e36_p1_425	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p1_426	Map065.json	0	dialogue	さすがに時間を食いすぎちゃったからー	
 MAP65_e36_p1_427	Map065.json	0	dialogue	最後まで見られないのは残念なんだけどーーー	
 MAP65_e36_p1_429	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p1_43	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p1_430	Map065.json	0	dialogue	もっと面白い方を操ることにしたよー	
-MAP65_e36_p1_431	Map065.json	0	dialogue	これはきっと、みんなも楽しめると思うなー	
+MAP65_e36_p1_431	Map065.json	0	dialogue	これはきっと、みんなも楽しめると思うなー	I'm sure everyone will enjoy this~
 MAP65_e36_p1_433	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_434	Map065.json	0	dialogue	なにを言っている…！	
+MAP65_e36_p1_434	Map065.json	0	dialogue	なにを言っている…！	What are you talking about...!
 MAP65_e36_p1_436	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_437	Map065.json	0	dialogue	そこの赤いのさー　天才なんだってー？	
-MAP65_e36_p1_438	Map065.json	0	dialogue	なのにずいぶんと…　	
-MAP65_e36_p1_44	Map065.json	0	dialogue	風の紋章の継承者ウィンと…	
+MAP65_e36_p1_437	Map065.json	0	dialogue	そこの赤いのさー　天才なんだってー？	Hey, red one~ you're supposed to be a genius, right?
+MAP65_e36_p1_438	Map065.json	0	dialogue	なのにずいぶんと…　	And yet...
+MAP65_e36_p1_44	Map065.json	0	dialogue	風の紋章の継承者ウィンと…	The Wind Crest's inheritor, Win, and...
 MAP65_e36_p1_440	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_441	Map065.json	0	dialogue	内に…　闇を抱えているみたいだねー…	
-MAP65_e36_p1_442	Map065.json	0	dialogue	そういう子には…　とっておきのがあるのさ	
+MAP65_e36_p1_441	Map065.json	0	dialogue	内に…　闇を抱えているみたいだねー…	it seems you hold darkness within...
+MAP65_e36_p1_442	Map065.json	0	dialogue	そういう子には…　とっておきのがあるのさ	For kids like you... I've got something special.
 MAP65_e36_p1_448	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p1_449	Map065.json	0	dialogue	今度はなんだ…？	
-MAP65_e36_p1_45	Map065.json	0	dialogue	天才騎士ピピンが来てくれたのであれば、	
+MAP65_e36_p1_449	Map065.json	0	dialogue	今度はなんだ…？	What now...?
+MAP65_e36_p1_45	Map065.json	0	dialogue	天才騎士ピピンが来てくれたのであれば、	Since the genius knight Pipin has come,
 MAP65_e36_p1_451	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_452	Map065.json	0	dialogue	じゃあねー　みんなーーー	
-MAP65_e36_p1_453	Map065.json	0	dialogue	ボクはあんまりみんなを楽しませてあげられ	
-MAP65_e36_p1_454	Map065.json	0	dialogue	なかったけどー	
+MAP65_e36_p1_452	Map065.json	0	dialogue	じゃあねー　みんなーーー	well then, later, everyone~
+MAP65_e36_p1_453	Map065.json	0	dialogue	ボクはあんまりみんなを楽しませてあげられ	I couldn't entertain you all
+MAP65_e36_p1_454	Map065.json	0	dialogue	なかったけどー	that much, but~
 MAP65_e36_p1_456	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_457	Map065.json	0	dialogue	この子がみんなを楽しませてくれるからーーー	
+MAP65_e36_p1_457	Map065.json	0	dialogue	この子がみんなを楽しませてくれるからーーー	this one here will entertain you all~
 MAP65_e36_p1_458	Map065.json	0	dialogue	じゃあねーーーー	
 MAP65_e36_p1_46	Map065.json	0	dialogue	四天王ダフィールをも、きっと倒せますぞ！！	
 MAP65_e36_p1_50	Map065.json	0	dialogue	サクソン：	Saxon:
@@ -8225,139 +8225,139 @@ MAP65_e36_p1_97	Map065.json	0	dialogue	継承者がウィンだけでも…
 MAP65_e36_p1_98	Map065.json	0	dialogue	ピピンもいるのだ！　負けるわけがないわい！	
 MAP65_e36_p2_10	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_100	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_101	Map065.json	0	dialogue	だはは！！	
-MAP65_e36_p2_102	Map065.json	0	dialogue	いや、だからー　継承者じゃない人間なんて…	
+MAP65_e36_p2_101	Map065.json	0	dialogue	だはは！！	Bahaha!!
+MAP65_e36_p2_102	Map065.json	0	dialogue	いや、だからー　継承者じゃない人間なんて…	No, see—people who aren't inheritors...
 MAP65_e36_p2_104	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_105	Map065.json	0	dialogue	ボクにとっては、ハエ以下の存在なわけー	
-MAP65_e36_p2_106	Map065.json	0	dialogue	むしろハエよりずっとうるさいから…　	
-MAP65_e36_p2_107	Map065.json	0	dialogue	もっとムカつくんだよねーーーーーー？？	
+MAP65_e36_p2_105	Map065.json	0	dialogue	ボクにとっては、ハエ以下の存在なわけー	are less than flies to me—
+MAP65_e36_p2_106	Map065.json	0	dialogue	むしろハエよりずっとうるさいから…　	actually, they're way noisier than flies...
+MAP65_e36_p2_107	Map065.json	0	dialogue	もっとムカつくんだよねーーーーーー？？	so they annoy me even more, you know??
 MAP65_e36_p2_109	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_11	Map065.json	0	dialogue	んーーーーー？？	
-MAP65_e36_p2_110	Map065.json	0	dialogue	キサマのそのクドい喋り方にはウンザリだ…	
-MAP65_e36_p2_111	Map065.json	0	dialogue	もういい！　ダフィール、かかってこい！！	
+MAP65_e36_p2_11	Map065.json	0	dialogue	んーーーーー？？	Riiight??
+MAP65_e36_p2_110	Map065.json	0	dialogue	キサマのそのクドい喋り方にはウンザリだ…	I'm sick of your wordy way of talking...
+MAP65_e36_p2_111	Map065.json	0	dialogue	もういい！　ダフィール、かかってこい！！	Enough! Dafill, come at me!!
 MAP65_e36_p2_113	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_114	Map065.json	0	dialogue	ウィン、さっきのバトルの感覚を忘れるな！	
-MAP65_e36_p2_115	Map065.json	0	dialogue	俺が攻撃で、お前がサポートだ！！	
+MAP65_e36_p2_114	Map065.json	0	dialogue	ウィン、さっきのバトルの感覚を忘れるな！	Win, don't forget that feeling from the last battle!
+MAP65_e36_p2_115	Map065.json	0	dialogue	俺が攻撃で、お前がサポートだ！！	I attack, and you support!!
 MAP65_e36_p2_117	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p2_121	Map065.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP65_e36_p2_123	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_124	Map065.json	0	dialogue	あーーー　やるのねーーー	
-MAP65_e36_p2_125	Map065.json	0	dialogue	継承者がひとりってのが残念だったけど…	
-MAP65_e36_p2_126	Map065.json	0	dialogue	まあ、いっかーーー！！	
+MAP65_e36_p2_124	Map065.json	0	dialogue	あーーー　やるのねーーー	Awww, so we're doing this~
+MAP65_e36_p2_125	Map065.json	0	dialogue	継承者がひとりってのが残念だったけど…	Too bad there's only one inheritor, but...
+MAP65_e36_p2_126	Map065.json	0	dialogue	まあ、いっかーーー！！	well, whatever!!
 MAP65_e36_p2_128	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_129	Map065.json	0	dialogue	じゃあ　いくよー	
-MAP65_e36_p2_130	Map065.json	0	dialogue	せーの…	
+MAP65_e36_p2_129	Map065.json	0	dialogue	じゃあ　いくよー	Here I go~
+MAP65_e36_p2_130	Map065.json	0	dialogue	せーの…	Ready... set...
 MAP65_e36_p2_132	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_133	Map065.json	0	dialogue	プレイボ―――――――ル！！	
+MAP65_e36_p2_133	Map065.json	0	dialogue	プレイボ―――――――ル！！	Play ba——all!!
 MAP65_e36_p2_183	Map065.json	0	dialogue	近衛兵ブロウニング：	Browning, Royal Guard:
-MAP65_e36_p2_184	Map065.json	0	dialogue	うわーーーなんだ！	
-MAP65_e36_p2_185	Map065.json	0	dialogue	突然まものがたくさん…！	
+MAP65_e36_p2_184	Map065.json	0	dialogue	うわーーーなんだ！	Whoa— what is this!
+MAP65_e36_p2_185	Map065.json	0	dialogue	突然まものがたくさん…！	Suddenly, a swarm of monsters...!
 MAP65_e36_p2_194	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p2_195	Map065.json	0	dialogue	ぐおおおおおお！！	
-MAP65_e36_p2_196	Map065.json	0	dialogue	突然魔物の大群が！！！！！	
-MAP65_e36_p2_197	Map065.json	0	dialogue	えーーーーい、戦えーーーーい！！	
+MAP65_e36_p2_195	Map065.json	0	dialogue	ぐおおおおおお！！	Gwaaaaah!!
+MAP65_e36_p2_196	Map065.json	0	dialogue	突然魔物の大群が！！！！！	A huge horde of monsters, all at once!!!!
+MAP65_e36_p2_197	Map065.json	0	dialogue	えーーーーい、戦えーーーーい！！	Fight, I say—!!
 MAP65_e36_p2_200	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p2_201	Map065.json	0	dialogue	くっ！！まずい…！　こうなっては…	
-MAP65_e36_p2_202	Map065.json	0	dialogue	俺もどうにかして剣を抜かねば…！	
+MAP65_e36_p2_201	Map065.json	0	dialogue	くっ！！まずい…！　こうなっては…	Guh! This is bad...! At this rate...
+MAP65_e36_p2_202	Map065.json	0	dialogue	俺もどうにかして剣を抜かねば…！	I've got to find a way to draw my sword...!
 MAP65_e36_p2_205	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_206	Map065.json	0	dialogue	な、なにが起こっている！？	
-MAP65_e36_p2_207	Map065.json	0	dialogue	やめろ！　お前ら！！	
+MAP65_e36_p2_206	Map065.json	0	dialogue	な、なにが起こっている！？	Wh-What's happening!?
+MAP65_e36_p2_207	Map065.json	0	dialogue	やめろ！　お前ら！！	Stop it, all of you!!
 MAP65_e36_p2_209	Map065.json	0	dialogue	ウィンダム王：	King Windam:
-MAP65_e36_p2_210	Map065.json	0	dialogue	人間はもはや私しかおらぬのか…！	
-MAP65_e36_p2_211	Map065.json	0	dialogue	ええいっ！　ならば一匹でも多く道連れに…！	
+MAP65_e36_p2_210	Map065.json	0	dialogue	人間はもはや私しかおらぬのか…！	Am I the only human left...!
+MAP65_e36_p2_211	Map065.json	0	dialogue	ええいっ！　ならば一匹でも多く道連れに…！	Bah! Then I'll take as many of you with me as I can...!
 MAP65_e36_p2_214	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p2_217	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_218	Map065.json	0	dialogue	ハーイ　みんながんばってーーー	
+MAP65_e36_p2_218	Map065.json	0	dialogue	ハーイ　みんながんばってーーー	Hii, everyone, keep it up~
 MAP65_e36_p2_220	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_221	Map065.json	0	dialogue	そう…	I see...
-MAP65_e36_p2_222	Map065.json	0	dialogue	戦うのはボクじゃなくって　みなさんでーす！	
+MAP65_e36_p2_222	Map065.json	0	dialogue	戦うのはボクじゃなくって　みなさんでーす！	It's not me fighting—it's all of you!
 MAP65_e36_p2_228	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_229	Map065.json	0	dialogue	クッ…！	
-MAP65_e36_p2_230	Map065.json	0	dialogue	これはキサマの仕業なのか…　ダフィール！！	
+MAP65_e36_p2_229	Map065.json	0	dialogue	クッ…！	Hmph...!
+MAP65_e36_p2_230	Map065.json	0	dialogue	これはキサマの仕業なのか…　ダフィール！！	Is this your doing... Dafill!!
 MAP65_e36_p2_232	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_233	Map065.json	0	dialogue	そうだよーん　ボクはひとっていうかー	
-MAP65_e36_p2_234	Map065.json	0	dialogue	いきもの全般を操ったり惑わしたりするのが	
-MAP65_e36_p2_235	Map065.json	0	dialogue	得意なのさーーー	
+MAP65_e36_p2_233	Map065.json	0	dialogue	そうだよーん　ボクはひとっていうかー	That's right~! I'm good at manipulating,
+MAP65_e36_p2_234	Map065.json	0	dialogue	いきもの全般を操ったり惑わしたりするのが	or rather, bewitching all living things,
+MAP65_e36_p2_235	Map065.json	0	dialogue	得意なのさーーー	you see~
 MAP65_e36_p2_237	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_238	Map065.json	0	dialogue	みんな目を覚ませー！！	
 MAP65_e36_p2_239	Map065.json	0	dialogue	俺たちは同士討ちをしている！！	
 MAP65_e36_p2_241	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_242	Map065.json	0	dialogue	この術は継承者には通用しないんだけどーーー	
+MAP65_e36_p2_242	Map065.json	0	dialogue	この術は継承者には通用しないんだけどーーー	This art doesn't work on inheritors, though~
 MAP65_e36_p2_244	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_245	Map065.json	0	dialogue	ふつうのニンゲンだと効いちゃうワケー	
-MAP65_e36_p2_246	Map065.json	0	dialogue	さあ継承者さーん　ふつうのニンゲンに	
-MAP65_e36_p2_247	Map065.json	0	dialogue	ころされちゃうよー？　いいのーーー？	
+MAP65_e36_p2_245	Map065.json	0	dialogue	ふつうのニンゲンだと効いちゃうワケー	but it works fine on ordinary humans~
+MAP65_e36_p2_246	Map065.json	0	dialogue	さあ継承者さーん　ふつうのニンゲンに	So, Mr. Inheritor~ are you going to be
+MAP65_e36_p2_247	Map065.json	0	dialogue	ころされちゃうよー？　いいのーーー？	killed by ordinary humans? Is that okay~?
 MAP65_e36_p2_25	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p2_253	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_254	Map065.json	0	dialogue	ウィン…！	Win...!
-MAP65_e36_p2_255	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！	
+MAP65_e36_p2_255	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！	We have no choice but to escape with Hayate's magic...!
 MAP65_e36_p2_257	Map065.json	0	dialogue	ウィン：	Win:
-MAP65_e36_p2_26	Map065.json	0	dialogue	おお…　ピピン！！　それに、ウィン！！	
+MAP65_e36_p2_26	Map065.json	0	dialogue	おお…　ピピン！！　それに、ウィン！！	Oh... Pipin!! And Win!!
 MAP65_e36_p2_260	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_261	Map065.json	0	dialogue	どうせお前にこいつらは殺せないだろうが…	
-MAP65_e36_p2_262	Map065.json	0	dialogue	なら、逃げるしかないだろ…！！	
+MAP65_e36_p2_261	Map065.json	0	dialogue	どうせお前にこいつらは殺せないだろうが…	You couldn't kill these people anyway...
+MAP65_e36_p2_262	Map065.json	0	dialogue	なら、逃げるしかないだろ…！！	so running is the only option...!!
 MAP65_e36_p2_264	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p2_267	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_268	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…	
-MAP65_e36_p2_269	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！	
+MAP65_e36_p2_268	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…	But if we run, these people won't be saved...
+MAP65_e36_p2_269	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！	You idiot...!! Always the same, aren't you...!!
 MAP65_e36_p2_275	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_276	Map065.json	0	dialogue	いやいやいやいやいや…	No no no no no...
 MAP65_e36_p2_278	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_279	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…	
+MAP65_e36_p2_279	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…	...Jeez, I can't believe I slipped up like this...
 MAP65_e36_p2_28	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p2_280	Map065.json	0	dialogue	お前といると…　焼きがまわりっ放しだ！	
+MAP65_e36_p2_280	Map065.json	0	dialogue	お前といると…　焼きがまわりっ放しだ！	Being with you... brings me nothing but bad luck!
 MAP65_e36_p2_282	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p2_289	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_29	Map065.json	0	dialogue	ピピンだとーーー！？	
-MAP65_e36_p2_290	Map065.json	0	dialogue	おい、赤いのさー	
-MAP65_e36_p2_291	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？	
+MAP65_e36_p2_29	Map065.json	0	dialogue	ピピンだとーーー！？	Pipin, you say—!?
+MAP65_e36_p2_290	Map065.json	0	dialogue	おい、赤いのさー	Hey, red one~
+MAP65_e36_p2_291	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？	Why are you unaffected?
 MAP65_e36_p2_293	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_294	Map065.json	0	dialogue	…なに？	...What?
 MAP65_e36_p2_296	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_297	Map065.json	0	dialogue	オマエ、継承者じゃないだろ？	
-MAP65_e36_p2_298	Map065.json	0	dialogue	なんでボクの術効いてないワケー？	
-MAP65_e36_p2_30	Map065.json	0	dialogue	騎士を突然やめたきさまが…	
+MAP65_e36_p2_297	Map065.json	0	dialogue	オマエ、継承者じゃないだろ？	You're not an inheritor, right?
+MAP65_e36_p2_298	Map065.json	0	dialogue	なんでボクの術効いてないワケー？	Why isn't my art working on you?
+MAP65_e36_p2_30	Map065.json	0	dialogue	騎士を突然やめたきさまが…	You, who quit being a knight all of a sudden...
 MAP65_e36_p2_300	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_301	Map065.json	0	dialogue	…さあな。	
-MAP65_e36_p2_302	Map065.json	0	dialogue	キサマの術が、キサマの思っているよりも	
-MAP65_e36_p2_303	Map065.json	0	dialogue	全然大したことない証拠じゃないのか？	
+MAP65_e36_p2_301	Map065.json	0	dialogue	…さあな。	...Who knows.
+MAP65_e36_p2_302	Map065.json	0	dialogue	キサマの術が、キサマの思っているよりも	Maybe it's proof that your art isn't
+MAP65_e36_p2_303	Map065.json	0	dialogue	全然大したことない証拠じゃないのか？	nearly as impressive as you think.
 MAP65_e36_p2_306	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_307	Map065.json	0	dialogue	やめやめーーー	
-MAP65_e36_p2_308	Map065.json	0	dialogue	試合中断しまーーーーーーーーす	
-MAP65_e36_p2_31	Map065.json	0	dialogue	今更どの顔を下げてやってきたのだー！！？？	
+MAP65_e36_p2_307	Map065.json	0	dialogue	やめやめーーー	Stop, stop~
+MAP65_e36_p2_308	Map065.json	0	dialogue	試合中断しまーーーーーーーーす	Match suspended—!!
+MAP65_e36_p2_31	Map065.json	0	dialogue	今更どの顔を下げてやってきたのだー！！？？	How dare you show your face here now—!!??
 MAP65_e36_p2_33	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_34	Map065.json	0	dialogue	フン…　無能のお前に代わって…	
+MAP65_e36_p2_34	Map065.json	0	dialogue	フン…　無能のお前に代わって…	Hmph... I've come to slay this monster
 MAP65_e36_p2_35	Map065.json	0	dialogue	このバケモンを俺が退治しに来てやったのさ。	
 MAP65_e36_p2_37	Map065.json	0	dialogue	サクソン：	Saxon:
 MAP65_e36_p2_370	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p2_371	Map065.json	0	dialogue	はっ…！　俺は…一体…？	
+MAP65_e36_p2_371	Map065.json	0	dialogue	はっ…！　俺は…一体…？	Hah...! What... what was I...?
 MAP65_e36_p2_379	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p2_38	Map065.json	0	dialogue	ぐぬぬぬ…　きさまああああーーー！！	
-MAP65_e36_p2_380	Map065.json	0	dialogue	な…何が起こったんだ？　	
+MAP65_e36_p2_38	Map065.json	0	dialogue	ぐぬぬぬ…　きさまああああーーー！！	Grrr... you—!!
+MAP65_e36_p2_380	Map065.json	0	dialogue	な…何が起こったんだ？　	Wh-What happened?
 MAP65_e36_p2_388	Map065.json	0	dialogue	ウィンダム王：	King Windam:
-MAP65_e36_p2_389	Map065.json	0	dialogue	どうした…？　なぜ皆　傷を負っている！？	
+MAP65_e36_p2_389	Map065.json	0	dialogue	どうした…？　なぜ皆　傷を負っている！？	What's this...? Why is everyone wounded!?
 MAP65_e36_p2_391	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_392	Map065.json	0	dialogue	…術を、解いたのか？	
+MAP65_e36_p2_392	Map065.json	0	dialogue	…術を、解いたのか？	...You dispelled the art?
 MAP65_e36_p2_399	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p2_40	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p2_400	Map065.json	0	dialogue	ピピン…　ウィン…	
-MAP65_e36_p2_401	Map065.json	0	dialogue	何が起こった…？	
+MAP65_e36_p2_400	Map065.json	0	dialogue	ピピン…　ウィン…	Pipin... Win...
+MAP65_e36_p2_401	Map065.json	0	dialogue	何が起こった…？	What happened...?
 MAP65_e36_p2_403	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_404	Map065.json	0	dialogue	…そいつが幻惑の術みたいなものを使った。	
-MAP65_e36_p2_405	Map065.json	0	dialogue	それで、俺とウィン以外のお前らは…	
-MAP65_e36_p2_406	Map065.json	0	dialogue	味方を魔物と思って、同士討ちを始めたのさ。	
+MAP65_e36_p2_404	Map065.json	0	dialogue	…そいつが幻惑の術みたいなものを使った。	...That guy used some kind of illusion art.
+MAP65_e36_p2_405	Map065.json	0	dialogue	それで、俺とウィン以外のお前らは…	Because of it, everyone but me and Win...
+MAP65_e36_p2_406	Map065.json	0	dialogue	味方を魔物と思って、同士討ちを始めたのさ。	saw allies as monsters and started fighting each other.
 MAP65_e36_p2_408	Map065.json	0	dialogue	サクソン：	Saxon:
-MAP65_e36_p2_409	Map065.json	0	dialogue	な…なんと！	
-MAP65_e36_p2_41	Map065.json	0	dialogue	サクソン殿！　ここはこらえて下され！！	
+MAP65_e36_p2_409	Map065.json	0	dialogue	な…なんと！	Wh-What!
+MAP65_e36_p2_41	Map065.json	0	dialogue	サクソン殿！　ここはこらえて下され！！	Lord Saxon! Hold yourself together!!
 MAP65_e36_p2_411	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_412	Map065.json	0	dialogue	そうなんだけどー	
+MAP65_e36_p2_412	Map065.json	0	dialogue	そうなんだけどー	That's true, but~
 MAP65_e36_p2_413	Map065.json	0	dialogue	やめたーーーーーーーー	
 MAP65_e36_p2_415	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_416	Map065.json	0	dialogue	なぜやめた！？	
+MAP65_e36_p2_416	Map065.json	0	dialogue	なぜやめた！？	Why did you stop!?
 MAP65_e36_p2_418	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_419	Map065.json	0	dialogue	もっといいこと思い付いたからさーーー	
+MAP65_e36_p2_419	Map065.json	0	dialogue	もっといいこと思い付いたからさーーー	Because I thought of something even better~
 MAP65_e36_p2_421	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_422	Map065.json	0	dialogue	なに…？	
+MAP65_e36_p2_422	Map065.json	0	dialogue	なに…？	What...?
 MAP65_e36_p2_426	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_427	Map065.json	0	dialogue	キミ…　何者だい？	
 MAP65_e36_p2_429	Map065.json	0	dialogue	ピピン：	Pipin:
@@ -8370,7 +8370,7 @@ MAP65_e36_p2_436	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_437	Map065.json	0	dialogue	ひさびさにー	
 MAP65_e36_p2_438	Map065.json	0	dialogue	ボクの炎で焼けるニンゲンの匂いをかいで	
 MAP65_e36_p2_439	Map065.json	0	dialogue	みたくなったからーーーー！！！！？	
-MAP65_e36_p2_44	Map065.json	0	dialogue	風の紋章の継承者ウィンと…	
+MAP65_e36_p2_44	Map065.json	0	dialogue	風の紋章の継承者ウィンと…	The Wind Crest's inheritor, Win, and...
 MAP65_e36_p2_441	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_442	Map065.json	0	dialogue	フン、いいだろう。	
 MAP65_e36_p2_443	Map065.json	0	dialogue	俺もバケモンの血が何色なのかを、	
@@ -8378,7 +8378,7 @@ MAP65_e36_p2_444	Map065.json	0	dialogue	確かめてみたくなったからな�
 MAP65_e36_p2_446	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_447	Map065.json	0	dialogue	来いよーー？	
 MAP65_e36_p2_448	Map065.json	0	dialogue	赤いのーーーーーーと金髪ーーーーー！！？？	
-MAP65_e36_p2_45	Map065.json	0	dialogue	天才騎士ピピンが来てくれたのであれば、	
+MAP65_e36_p2_45	Map065.json	0	dialogue	天才騎士ピピンが来てくれたのであれば、	Since the genius knight Pipin has come,
 MAP65_e36_p2_456	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_457	Map065.json	0	dialogue	さすがに時間を食いすぎちゃったなー　更に、	
 MAP65_e36_p2_458	Map065.json	0	dialogue	ボクら以外のみんなを退屈させちゃったねー？	
@@ -8386,23 +8386,23 @@ MAP65_e36_p2_46	Map065.json	0	dialogue	四天王ダフィールをも、きっ�
 MAP65_e36_p2_460	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_461	Map065.json	0	dialogue	お待たせーーー	
 MAP65_e36_p2_462	Map065.json	0	dialogue	さっきのより面白い方を操ることにしたからー	
-MAP65_e36_p2_463	Map065.json	0	dialogue	これはきっと、みんなも楽しめると思うなー	
+MAP65_e36_p2_463	Map065.json	0	dialogue	これはきっと、みんなも楽しめると思うなー	I'm sure everyone will enjoy this~
 MAP65_e36_p2_465	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_466	Map065.json	0	dialogue	なにを言っている…！	
+MAP65_e36_p2_466	Map065.json	0	dialogue	なにを言っている…！	What are you talking about...!
 MAP65_e36_p2_468	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_469	Map065.json	0	dialogue	そこの赤いのさー　天才なんだってー？	
-MAP65_e36_p2_470	Map065.json	0	dialogue	なのにずいぶんと…　	
+MAP65_e36_p2_469	Map065.json	0	dialogue	そこの赤いのさー　天才なんだってー？	Hey, red one~ you're supposed to be a genius, right?
+MAP65_e36_p2_470	Map065.json	0	dialogue	なのにずいぶんと…　	And yet...
 MAP65_e36_p2_472	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_473	Map065.json	0	dialogue	内に…　闇を抱えているみたいだねー…	
-MAP65_e36_p2_474	Map065.json	0	dialogue	そういう子には…　とっておきのがあるのさ	
+MAP65_e36_p2_473	Map065.json	0	dialogue	内に…　闇を抱えているみたいだねー…	it seems you hold darkness within...
+MAP65_e36_p2_474	Map065.json	0	dialogue	そういう子には…　とっておきのがあるのさ	For kids like you... I've got something special.
 MAP65_e36_p2_480	Map065.json	0	dialogue	ロイ：	Roi:
-MAP65_e36_p2_481	Map065.json	0	dialogue	今度はなんだ…？	
+MAP65_e36_p2_481	Map065.json	0	dialogue	今度はなんだ…？	What now...?
 MAP65_e36_p2_483	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_484	Map065.json	0	dialogue	じゃあねー　みんなーーー	
-MAP65_e36_p2_485	Map065.json	0	dialogue	ボクはあんまりみんなを楽しませてあげられ	
-MAP65_e36_p2_486	Map065.json	0	dialogue	なかったけどー	
+MAP65_e36_p2_484	Map065.json	0	dialogue	じゃあねー　みんなーーー	well then, later, everyone~
+MAP65_e36_p2_485	Map065.json	0	dialogue	ボクはあんまりみんなを楽しませてあげられ	I couldn't entertain you all
+MAP65_e36_p2_486	Map065.json	0	dialogue	なかったけどー	that much, but~
 MAP65_e36_p2_488	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_489	Map065.json	0	dialogue	この子がみんなを楽しませてくれるからーーー	
+MAP65_e36_p2_489	Map065.json	0	dialogue	この子がみんなを楽しませてくれるからーーー	this one here will entertain you all~
 MAP65_e36_p2_490	Map065.json	0	dialogue	じゃあねーーーー	
 MAP65_e36_p2_50	Map065.json	0	dialogue	サクソン：	Saxon:
 MAP65_e36_p2_51	Map065.json	0	dialogue	ぐぬぬ…	
@@ -11862,12 +11862,12 @@ MAP86_e33_p2_8	Map086.json	0	dialogue	このご恩、わしだけでなく皆忘
 MAP86_e33_p3_1	Map086.json	0	dialogue	フレイム王：	King Flame:
 MAP86_e33_p3_10	Map086.json	0	dialogue	ああ…　はい、わかりました。	Ah... yes, understood.
 MAP86_e33_p3_12	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p3_13	Map086.json	0	dialogue	オレは？　一応次の王様なんだけど…？	
-MAP86_e33_p3_2	Map086.json	0	dialogue	我が兵たちにとって、ナガレ殿はいまや	
-MAP86_e33_p3_3	Map086.json	0	dialogue	皆の救世主、戦場の女神です。	
+MAP86_e33_p3_13	Map086.json	0	dialogue	オレは？　一応次の王様なんだけど…？	What about me? I'm the next king, you know...?
+MAP86_e33_p3_2	Map086.json	0	dialogue	我が兵たちにとって、ナガレ殿はいまや	To my soldiers, you, Lord Nagare, are now
+MAP86_e33_p3_3	Map086.json	0	dialogue	皆の救世主、戦場の女神です。	everyone's savior, the goddess of the battlefield.
 MAP86_e33_p3_5	Map086.json	0	dialogue	フレイム王：	King Flame:
-MAP86_e33_p3_6	Map086.json	0	dialogue	よかったら兵たちに声をかけてやって下され。	
-MAP86_e33_p3_7	Map086.json	0	dialogue	全軍の士気がおおいに上がると思います。	
+MAP86_e33_p3_6	Map086.json	0	dialogue	よかったら兵たちに声をかけてやって下され。	If you would, please say a few words to the soldiers.
+MAP86_e33_p3_7	Map086.json	0	dialogue	全軍の士気がおおいに上がると思います。	I believe it would greatly lift the morale of the whole army.
 MAP86_e33_p3_9	Map086.json	0	dialogue	ナガレ：	Nagare:
 MAP86_e37_p0_2	Map086.json	0	dialogue	　　　左　ホノオ王子の部屋　右　ホムラ王子の部屋	Left: Prince Hono's room  Right: Prince Homura's room
 MAP86_e4_p0_1	Map086.json	0	dialogue	フレイム王国大臣リマル：	Rimal, Minister of the Flame Kingdom:
