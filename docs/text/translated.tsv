@@ -4615,55 +4615,55 @@ MAP51_e3_p0_10_c0	Map051.json	choice	choice	泊まらせてもらいます	We'll
 MAP51_e3_p0_10_c1	Map051.json	choice	choice	やっぱりやめます	Actually, never mind
 MAP51_e3_p0_14	Map051.json	3	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
 MAP51_e3_p0_15	Map051.json	3	dialogue	はい、確かに50Gいただきました。	Yes, I've received the 50G.
-MAP51_e3_p0_16	Map051.json	3	dialogue	では、どうぞごゆるりと…	
-MAP51_e3_p0_2	Map051.json	0	dialogue	長旅だったでしょう。	
+MAP51_e3_p0_16	Map051.json	3	dialogue	では、どうぞごゆるりと…	Then please, make yourself at ease...
+MAP51_e3_p0_2	Map051.json	0	dialogue	長旅だったでしょう。	It must have been a long journey.
 MAP51_e3_p0_24	Map051.json	3	dialogue	またのご利用をお待ちしております。	We look forward to your next visit.
 MAP51_e3_p0_25	Map051.json	3	dialogue	道中どうぞお気をつけて…	please do be careful on the road...
 MAP51_e3_p0_29	Map051.json	3	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
-MAP51_e3_p0_3	Map051.json	0	dialogue	お疲れでしたら、どうぞ私どもの宿を	
+MAP51_e3_p0_3	Map051.json	0	dialogue	お疲れでしたら、どうぞ私どもの宿を	If you're weary, please avail yourself
 MAP51_e3_p0_30	Map051.json	3	dialogue	お手持ちのお金がたりませんね…	You don't have enough money...
-MAP51_e3_p0_4	Map051.json	0	dialogue	ご利用ください。	
+MAP51_e3_p0_4	Map051.json	0	dialogue	ご利用ください。	of our inn.
 MAP51_e3_p0_5_c0	Map051.json	choice	choice	泊まりたい	I'd like to stay
 MAP51_e3_p0_5_c1	Map051.json	choice	choice	ちょっと寄ってみただけ	Just stopping by
 MAP51_e3_p0_8	Map051.json	1	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
-MAP51_e3_p0_9	Map051.json	1	dialogue	一泊料金、皆さま合計で５０Ｇになります。	
+MAP51_e3_p0_9	Map051.json	1	dialogue	一泊料金、皆さま合計で５０Ｇになります。	The nightly rate for all of you comes to 50G.
 MAP51_e3_p1_1	Map051.json	0	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
 MAP51_e3_p1_11	Map051.json	1	dialogue	ナガレ：	Nagare:
-MAP51_e3_p1_12	Map051.json	1	dialogue	悪い、ありがとう、オジリ。	
+MAP51_e3_p1_12	Map051.json	1	dialogue	悪い、ありがとう、オジリ。	Sorry, and thanks, Ojiri.
 MAP51_e3_p1_13_c0	Map051.json	choice	choice	泊まらせてもらいます	We'll stay then
 MAP51_e3_p1_13_c1	Map051.json	choice	choice	やっぱりやめます	Actually, never mind
 MAP51_e3_p1_17	Map051.json	3	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
-MAP51_e3_p1_18	Map051.json	3	dialogue	いいのいいの、あなたたちが頑張らなきゃ	
-MAP51_e3_p1_19	Map051.json	3	dialogue	世界は終わりなんだろう？	
-MAP51_e3_p1_2	Map051.json	0	dialogue	あら、ナガレ！久し振り！	
-MAP51_e3_p1_20	Map051.json	3	dialogue	お金なんかいらないよ！	
+MAP51_e3_p1_18	Map051.json	3	dialogue	いいのいいの、あなたたちが頑張らなきゃ	Don't mention it—if you all don't fight on,
+MAP51_e3_p1_19	Map051.json	3	dialogue	世界は終わりなんだろう？	the world will end, right?
+MAP51_e3_p1_2	Map051.json	0	dialogue	あら、ナガレ！久し振り！	Oh, Nagare! Long time no see!
+MAP51_e3_p1_20	Map051.json	3	dialogue	お金なんかいらないよ！	No need to pay!
 MAP51_e3_p1_28	Map051.json	3	dialogue	またのご利用をお待ちしております。	We look forward to your next visit.
 MAP51_e3_p1_29	Map051.json	3	dialogue	道中どうぞお気をつけて…	please do be careful on the road...
-MAP51_e3_p1_3	Map051.json	0	dialogue	皆さん、お疲れでしょう。	
+MAP51_e3_p1_3	Map051.json	0	dialogue	皆さん、お疲れでしょう。	You must all be tired.
 MAP51_e3_p1_33	Map051.json	3	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
 MAP51_e3_p1_34	Map051.json	3	dialogue	お手持ちのお金がたりませんね…	You don't have enough money...
-MAP51_e3_p1_4	Map051.json	0	dialogue	どうぞ休んでかれてくださいな。	
+MAP51_e3_p1_4	Map051.json	0	dialogue	どうぞ休んでかれてくださいな。	Please, do take your rest.
 MAP51_e3_p1_5_c0	Map051.json	choice	choice	泊まりたい	I'd like to stay
 MAP51_e3_p1_5_c1	Map051.json	choice	choice	ちょっと寄ってみただけ	Just stopping by
 MAP51_e3_p1_8	Map051.json	1	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
-MAP51_e3_p1_9	Map051.json	1	dialogue	もちろん、お代はいりませんよ！	
+MAP51_e3_p1_9	Map051.json	1	dialogue	もちろん、お代はいりませんよ！	Of course, there's no charge!
 MAP51_e4_p0_1	Map051.json	0	dialogue	板前キエヤマ：	Kiyeyama, Chef:
-MAP51_e4_p0_2	Map051.json	0	dialogue	あ！ダメだよこんなところまで入ったら！	
-MAP51_e4_p0_3	Map051.json	0	dialogue	でも、一応、お客さんいらっしゃい！	
+MAP51_e4_p0_2	Map051.json	0	dialogue	あ！ダメだよこんなところまで入ったら！	Ah! You can't come in this far!
+MAP51_e4_p0_3	Map051.json	0	dialogue	でも、一応、お客さんいらっしゃい！	But still, welcome in!
 MAP51_e4_p1_1	Map051.json	0	dialogue	板前キエヤマ：	Kiyeyama, Chef:
-MAP51_e4_p1_10	Map051.json	0	dialogue	すまないな、苦労をかけてる…	
+MAP51_e4_p1_10	Map051.json	0	dialogue	すまないな、苦労をかけてる…	Sorry for all the trouble...
 MAP51_e4_p1_12	Map051.json	0	dialogue	板前キエヤマ：	Kiyeyama, Chef:
-MAP51_e4_p1_13	Map051.json	0	dialogue	ナガレが謝る事じゃないだろー？	
-MAP51_e4_p1_14	Map051.json	0	dialogue	大丈夫、草とかいっぱい生えてるだろう？	
-MAP51_e4_p1_15	Map051.json	0	dialogue	レパートリー自体はたくさんあるんだ！	
+MAP51_e4_p1_13	Map051.json	0	dialogue	ナガレが謝る事じゃないだろー？	This isn't something for you to apologize for, right?
+MAP51_e4_p1_14	Map051.json	0	dialogue	大丈夫、草とかいっぱい生えてるだろう？	It's fine—plenty of herbs grow around here, right?
+MAP51_e4_p1_15	Map051.json	0	dialogue	レパートリー自体はたくさんあるんだ！	I've got plenty of recipes!
 MAP51_e4_p1_17	Map051.json	0	dialogue	ナガレ：	Nagare:
-MAP51_e4_p1_18	Map051.json	0	dialogue	さすがキエヤマだな！	
-MAP51_e4_p1_19	Map051.json	0	dialogue	もう少しの辛抱だから、しっかり頼んだ！	
-MAP51_e4_p1_2	Map051.json	0	dialogue	うーん…　コメがたりないなあ…	
-MAP51_e4_p1_3	Map051.json	0	dialogue	どうやってやり繰りしよう…	
+MAP51_e4_p1_18	Map051.json	0	dialogue	さすがキエヤマだな！	As expected of Kiyeyama!
+MAP51_e4_p1_19	Map051.json	0	dialogue	もう少しの辛抱だから、しっかり頼んだ！	It's just a little longer—stay strong!
+MAP51_e4_p1_2	Map051.json	0	dialogue	うーん…　コメがたりないなあ…	Hmm... we're short on rice...
+MAP51_e4_p1_3	Map051.json	0	dialogue	どうやってやり繰りしよう…	How am I going to make it work...
 MAP51_e4_p1_5	Map051.json	0	dialogue	板前キエヤマ：	Kiyeyama, Chef:
-MAP51_e4_p1_6	Map051.json	0	dialogue	…って、ナガレ！？	
-MAP51_e4_p1_7	Map051.json	0	dialogue	あんた、なにしてんの、こんなところで！？	
+MAP51_e4_p1_6	Map051.json	0	dialogue	…って、ナガレ！？	...Huh, Nagare!?
+MAP51_e4_p1_7	Map051.json	0	dialogue	あんた、なにしてんの、こんなところで！？	What are you doing in a place like this!?
 MAP51_e4_p1_9	Map051.json	0	dialogue	ナガレ：	Nagare:
 MAP51_e5_p0_1	Map051.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP51_e6_p0_1	Map051.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -4680,14 +4680,14 @@ MAP52_e8_p0_4	Map052.json	0	dialogue	わかってるよ、領主の村に行き�
 MAP52_e8_p0_6	Map052.json	0	dialogue	ここからどんどん北に行けば着くよ。	Head north from here and you'll reach it.
 MAP52_e8_p0_7	Map052.json	0	dialogue	大きな村が見えてくるからすぐ分かる。	You'll see a big village, so it's easy to tell.
 MAP52_e8_p1_1	Map052.json	0	dialogue	採石場のヤルモリ：	Yarmori, Quarry Worker:
-MAP52_e8_p1_10	Map052.json	0	dialogue	あんた、もしかしてそうやって毎回	
-MAP52_e8_p1_11	Map052.json	0	dialogue	旅人に教えてあげてんのか…？	
+MAP52_e8_p1_10	Map052.json	0	dialogue	あんた、もしかしてそうやって毎回	Wait—is that how you've been
+MAP52_e8_p1_11	Map052.json	0	dialogue	旅人に教えてあげてんのか…？	helping travelers every time...?
 MAP52_e8_p1_13	Map052.json	0	dialogue	採石場のヤルモリ：	Yarmori, Quarry Worker:
-MAP52_e8_p1_14	Map052.json	0	dialogue	そうだよ。嫌になるときもあるけど、	
-MAP52_e8_p1_15	Map052.json	0	dialogue	まあ、最近はそんなに忙しくないし…	
+MAP52_e8_p1_14	Map052.json	0	dialogue	そうだよ。嫌になるときもあるけど、	Yeah. There are times it wears on me, but,
+MAP52_e8_p1_15	Map052.json	0	dialogue	まあ、最近はそんなに忙しくないし…	well, I haven't been that busy lately...
 MAP52_e8_p1_17	Map052.json	0	dialogue	ナガレ：	Nagare:
-MAP52_e8_p1_18	Map052.json	0	dialogue	みんなあたしの知らないところで色々	
-MAP52_e8_p1_19	Map052.json	0	dialogue	働いてくれてるんだねえ。	
+MAP52_e8_p1_18	Map052.json	0	dialogue	みんなあたしの知らないところで色々	Everyone's been working so hard
+MAP52_e8_p1_19	Map052.json	0	dialogue	働いてくれてるんだねえ。	behind my back...
 MAP52_e8_p1_2	Map052.json	0	dialogue	セイリューに行きたい？	You want to go to Seiryu?
 MAP52_e8_p1_3	Map052.json	0	dialogue	ここも一応セイリューだけど。	This is Seiryu too, technically.
 MAP52_e8_p1_4	Map052.json	0	dialogue	わかってるよ、領主の村に行きたいんだろ。	I know, you want to go to the lord's village.
@@ -4765,111 +4765,111 @@ MAP54_e5_p0_1	Map054.json	0	dialogue	持ち出して役に立つようなもの�
 MAP54_e6_p0_1	Map054.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP54_e7_p0_1	Map054.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP55_e10_p0_1	Map055.json	0	dialogue	トリカゼ：	Torikaze:
-MAP55_e10_p0_2	Map055.json	0	dialogue	おう、来たか。オタキ様もシズク様も、	
-MAP55_e10_p0_3	Map055.json	0	dialogue	アンタらが来てからじゃないと話さない	
-MAP55_e10_p0_4	Map055.json	0	dialogue	らしくて、ナガレが死にかけてる…。	
+MAP55_e10_p0_2	Map055.json	0	dialogue	おう、来たか。オタキ様もシズク様も、	Oh, you're here. Lady Otaki and Lady Shizuku
+MAP55_e10_p0_3	Map055.json	0	dialogue	アンタらが来てからじゃないと話さない	refuse to speak until you arrive,
+MAP55_e10_p0_4	Map055.json	0	dialogue	らしくて、ナガレが死にかけてる…。	and Nagare's about to die of curiosity...
 MAP55_e10_p1_1	Map055.json	0	dialogue	トリカゼ：	Torikaze:
-MAP55_e10_p1_11	Map055.json	0	dialogue	　　　　　　　お金　1500G　を手渡された！	
+MAP55_e10_p1_11	Map055.json	0	dialogue	　　　　　　　お金　1500G　を手渡された！	Handed 1500G!
 MAP55_e10_p1_13	Map055.json	0	dialogue	トリカゼ：	Torikaze:
-MAP55_e10_p1_14	Map055.json	0	dialogue	現金の方が便利だと思ってさ。	
-MAP55_e10_p1_15	Map055.json	0	dialogue	うちの店…　ああ、村の北の方に	
-MAP55_e10_p1_16	Map055.json	0	dialogue	うちの一族の店があるから、	
+MAP55_e10_p1_14	Map055.json	0	dialogue	現金の方が便利だと思ってさ。	Figured cash would be more convenient.
+MAP55_e10_p1_15	Map055.json	0	dialogue	うちの店…　ああ、村の北の方に	Our shop... ah, in the north of the village
+MAP55_e10_p1_16	Map055.json	0	dialogue	うちの一族の店があるから、	our clan has a shop—
 MAP55_e10_p1_18	Map055.json	0	dialogue	トリカゼ：	Torikaze:
-MAP55_e10_p1_19	Map055.json	0	dialogue	そこで必要なものをそろえてから行きなよ。	
-MAP55_e10_p1_2	Map055.json	0	dialogue	話は聞いてたよ、あんたたち。	
+MAP55_e10_p1_19	Map055.json	0	dialogue	そこで必要なものをそろえてから行きなよ。	stock up there before you head out.
+MAP55_e10_p1_2	Map055.json	0	dialogue	話は聞いてたよ、あんたたち。	I've heard about you lot.
 MAP55_e10_p1_21	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e10_p1_22	Map055.json	0	dialogue	トリカゼ、ありがとう、恩に着る！	
+MAP55_e10_p1_22	Map055.json	0	dialogue	トリカゼ、ありがとう、恩に着る！	Torikaze, thanks, I owe you one!
 MAP55_e10_p1_24	Map055.json	0	dialogue	トリカゼ：	Torikaze:
-MAP55_e10_p1_25	Map055.json	0	dialogue	何言ってんだ、助け合うのがセイリューだろ？	
-MAP55_e10_p1_26	Map055.json	0	dialogue	それにあんたはセイリューの頭領だ！	
-MAP55_e10_p1_27	Map055.json	0	dialogue	堂々とあたしらを使ってくんな！	
+MAP55_e10_p1_25	Map055.json	0	dialogue	何言ってんだ、助け合うのがセイリューだろ？	What are you saying—helping each other is Seiryu's way, right?
+MAP55_e10_p1_26	Map055.json	0	dialogue	それにあんたはセイリューの頭領だ！	Besides, you're the leader of Seiryu!
+MAP55_e10_p1_27	Map055.json	0	dialogue	堂々とあたしらを使ってくんな！	Use us without a second thought!
 MAP55_e10_p1_29	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e10_p1_3	Map055.json	0	dialogue	旅立ちだろ？	
-MAP55_e10_p1_30	Map055.json	0	dialogue	頭領って、野盗みたいな呼び方だな！	
-MAP55_e10_p1_5	Map055.json	0	dialogue	これはあたし…というかあたしら鍛冶屋の	
-MAP55_e10_p1_6	Map055.json	0	dialogue	一族からの餞別だ。	
-MAP55_e10_p1_7	Map055.json	0	dialogue	少しでも役立ててくれ。	
+MAP55_e10_p1_3	Map055.json	0	dialogue	旅立ちだろ？	You're setting out, right?
+MAP55_e10_p1_30	Map055.json	0	dialogue	頭領って、野盗みたいな呼び方だな！	'Leader' makes it sound like bandits!
+MAP55_e10_p1_5	Map055.json	0	dialogue	これはあたし…というかあたしら鍛冶屋の	This is a going-away gift from me—
+MAP55_e10_p1_6	Map055.json	0	dialogue	一族からの餞別だ。	rather, from our blacksmith clan.
+MAP55_e10_p1_7	Map055.json	0	dialogue	少しでも役立ててくれ。	Put it to good use, even a little.
 MAP55_e10_p2_1	Map055.json	0	dialogue	トリカゼ：	Torikaze:
 MAP55_e10_p2_10	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e10_p2_11	Map055.json	0	dialogue	心配すんな！オレとウィンもいる。	
-MAP55_e10_p2_12	Map055.json	0	dialogue	絶対に大丈夫だ！	
+MAP55_e10_p2_11	Map055.json	0	dialogue	心配すんな！オレとウィンもいる。	Don't worry! Me and Win are here too.
+MAP55_e10_p2_12	Map055.json	0	dialogue	絶対に大丈夫だ！	It'll definitely be fine!
 MAP55_e10_p2_14	Map055.json	0	dialogue	トリカゼ：	Torikaze:
-MAP55_e10_p2_15	Map055.json	0	dialogue	ああ、信じてるぜ！	
-MAP55_e10_p2_2	Map055.json	0	dialogue	ナガレちゃん、必ず生きて帰ってこいよ	
+MAP55_e10_p2_15	Map055.json	0	dialogue	ああ、信じてるぜ！	Yeah, I believe you!
+MAP55_e10_p2_2	Map055.json	0	dialogue	ナガレちゃん、必ず生きて帰ってこいよ	Nagare, make sure you come back alive.
 MAP55_e10_p2_4	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e10_p2_5	Map055.json	0	dialogue	当たり前だろ。トリカゼらしくない弱気だな。	
+MAP55_e10_p2_5	Map055.json	0	dialogue	当たり前だろ。トリカゼらしくない弱気だな。	Of course. That timidity isn't like you, Torikaze.
 MAP55_e10_p2_7	Map055.json	0	dialogue	トリカゼ：	Torikaze:
-MAP55_e10_p2_8	Map055.json	0	dialogue	ハハ…　だな？	
+MAP55_e10_p2_8	Map055.json	0	dialogue	ハハ…　だな？	Haha... right?
 MAP55_e11_p0_1	Map055.json	0	dialogue	マハリ：	Mahari:
-MAP55_e11_p0_2	Map055.json	0	dialogue	皆さんお待ちかねですよ。	
-MAP55_e11_p0_3	Map055.json	0	dialogue	特に…何も教えてもらえないまま放置されてる	
-MAP55_e11_p0_4	Map055.json	0	dialogue	ナガレがね…	
-MAP55_e12_p0_10	Map055.json	0	dialogue	遅いぞあんたら…	
+MAP55_e11_p0_2	Map055.json	0	dialogue	皆さんお待ちかねですよ。	Everyone's been waiting.
+MAP55_e11_p0_3	Map055.json	0	dialogue	特に…何も教えてもらえないまま放置されてる	Especially Nagare, who's been left in the dark
+MAP55_e11_p0_4	Map055.json	0	dialogue	ナガレがね…	without being told anything...
+MAP55_e12_p0_10	Map055.json	0	dialogue	遅いぞあんたら…	You're late...
 MAP55_e12_p0_100	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e12_p0_101	Map055.json	0	dialogue	話してくれ、オタキ様。	
+MAP55_e12_p0_101	Map055.json	0	dialogue	話してくれ、オタキ様。	Please tell us, Lady Otaki.
 MAP55_e12_p0_103	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
-MAP55_e12_p0_104	Map055.json	0	dialogue	うむ…	
-MAP55_e12_p0_107	Map055.json	0	dialogue	ホノオどのとウィンどのも、	
-MAP55_e12_p0_108	Map055.json	0	dialogue	どうぞお聞き下され…。	
-MAP55_e12_p0_109	Map055.json	0	dialogue	これは本来セイリュー当主のみに伝えられる	
-MAP55_e12_p0_110	Map055.json	0	dialogue	秘密じゃが…　	
-MAP55_e12_p0_112	Map055.json	0	dialogue	闇のエレメントの復活がはじまったいま…	
-MAP55_e12_p0_113	Map055.json	0	dialogue	もう隠す必要はないとわしは判断しますじゃ	
+MAP55_e12_p0_104	Map055.json	0	dialogue	うむ…	Indeed...
+MAP55_e12_p0_107	Map055.json	0	dialogue	ホノオどのとウィンどのも、	Lord Hono and Lord Win,
+MAP55_e12_p0_108	Map055.json	0	dialogue	どうぞお聞き下され…。	please, do listen...
+MAP55_e12_p0_109	Map055.json	0	dialogue	これは本来セイリュー当主のみに伝えられる	This is a secret meant only for Seiryu's head,
+MAP55_e12_p0_110	Map055.json	0	dialogue	秘密じゃが…　	but...
+MAP55_e12_p0_112	Map055.json	0	dialogue	闇のエレメントの復活がはじまったいま…	with the Dark Element's revival now begun...
+MAP55_e12_p0_113	Map055.json	0	dialogue	もう隠す必要はないとわしは判断しますじゃ	I judge there's no longer a need to hide it.
 MAP55_e12_p0_115	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e12_p0_116	Map055.json	0	dialogue	お、おう…	
+MAP55_e12_p0_116	Map055.json	0	dialogue	お、おう…	O-Oh...
 MAP55_e12_p0_118	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e12_p0_119	Map055.json	0	dialogue	秘密って…いったい…	
+MAP55_e12_p0_119	Map055.json	0	dialogue	秘密って…いったい…	A secret... about what...
 MAP55_e12_p0_121	Map055.json	0	dialogue	ウィン：	Win:
-MAP55_e12_p0_127	Map055.json	scrolling text	dialogue	　　　　代々セイリュー当主に口伝でのみ伝わる、	
-MAP55_e12_p0_129	Map055.json	scrolling text	dialogue	　　　　　　この地セイリューの伝説じゃ	
-MAP55_e12_p0_132	Map055.json	scrolling text	dialogue	　　　その昔、この地にひとびとが集い集落を作る前	
-MAP55_e12_p0_135	Map055.json	scrolling text	dialogue	　　　　この地は日夜大雨が降り続き、川は溢れ	
-MAP55_e12_p0_138	Map055.json	scrolling text	dialogue	　　　木は腐り、とてもひとが住める地ではなかった	
-MAP55_e12_p0_142	Map055.json	scrolling text	dialogue	　　　　　その地にはじまりの水の者が現れた	
+MAP55_e12_p0_127	Map055.json	scrolling text	dialogue	　　　　代々セイリュー当主に口伝でのみ伝わる、	A legend of this land, Seiryu, passed down only by word of mouth
+MAP55_e12_p0_129	Map055.json	scrolling text	dialogue	　　　　　　この地セイリューの伝説じゃ	from head to head, for generations.
+MAP55_e12_p0_132	Map055.json	scrolling text	dialogue	　　　その昔、この地にひとびとが集い集落を作る前	Long ago, before people gathered here to form a village,
+MAP55_e12_p0_135	Map055.json	scrolling text	dialogue	　　　　この地は日夜大雨が降り続き、川は溢れ	this land was battered by rain day and night; rivers overflowed,
+MAP55_e12_p0_138	Map055.json	scrolling text	dialogue	　　　木は腐り、とてもひとが住める地ではなかった	trees rotted, and it was no place for people to live.
+MAP55_e12_p0_142	Map055.json	scrolling text	dialogue	　　　　　その地にはじまりの水の者が現れた	And there, the First Being of Water appeared.
 MAP55_e12_p0_146	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e12_p0_147	Map055.json	0	dialogue	はじまりの、水の者？	
-MAP55_e12_p0_148	Map055.json	0	dialogue	なんだそれ？？聞いたことないぞ。	
+MAP55_e12_p0_147	Map055.json	0	dialogue	はじまりの、水の者？	The First Being of Water?
+MAP55_e12_p0_148	Map055.json	0	dialogue	なんだそれ？？聞いたことないぞ。	What's that?? Never heard of it.
 MAP55_e12_p0_150	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e12_p0_151	Map055.json	0	dialogue	そんな伝説、フレイムでも聞いたことがねえ。	
-MAP55_e12_p0_152	Map055.json	0	dialogue	なんだなんだ、どうなるんだ！？	
+MAP55_e12_p0_151	Map055.json	0	dialogue	そんな伝説、フレイムでも聞いたことがねえ。	Never heard such a legend in Flame either.
+MAP55_e12_p0_152	Map055.json	0	dialogue	なんだなんだ、どうなるんだ！？	What, what—how does it go!?
 MAP55_e12_p0_154	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
-MAP55_e12_p0_155	Map055.json	0	dialogue	うるさい！	
-MAP55_e12_p0_156	Map055.json	0	dialogue	あんたら話の腰を折るんじゃない！	
-MAP55_e12_p0_157	Map055.json	0	dialogue	ただでさえ長くなるんじゃ！！	
+MAP55_e12_p0_155	Map055.json	0	dialogue	うるさい！	Quiet!
+MAP55_e12_p0_156	Map055.json	0	dialogue	あんたら話の腰を折るんじゃない！	You lot, stop interrupting!
+MAP55_e12_p0_157	Map055.json	0	dialogue	ただでさえ長くなるんじゃ！！	This is already going to be long!!
 MAP55_e12_p0_159	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e12_p0_16	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
 MAP55_e12_p0_160	Map055.json	0	dialogue	はい…	Yes...
 MAP55_e12_p0_162	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e12_p0_163	Map055.json	0	dialogue	すんません…	
-MAP55_e12_p0_167	Map055.json	scrolling text	dialogue	　　　　　はじまりの水の者はとても疲れていた	
-MAP55_e12_p0_17	Map055.json	0	dialogue	よういらっしゃった、火と風の紋章の継承者	
-MAP55_e12_p0_170	Map055.json	scrolling text	dialogue	　　　　　　長い旅の末にこの地に迷い込み	
-MAP55_e12_p0_171	Map055.json	scrolling text	dialogue	　　遂には動けなくなって、洞窟の中で身をよこたえた	
-MAP55_e12_p0_174	Map055.json	scrolling text	dialogue	　　　　　　何度も眠り、何度も目を覚ましたが	
-MAP55_e12_p0_176	Map055.json	scrolling text	dialogue	　　　　　すさまじい雨は全くやむ気配がなかった	
-MAP55_e12_p0_179	Map055.json	scrolling text	dialogue	　　　　死ぬこともできず、かといって身体も動かず	
-MAP55_e12_p0_18	Map055.json	0	dialogue	のかたがた…	
-MAP55_e12_p0_182	Map055.json	scrolling text	dialogue	　　　　　　　やがてはじまりの水の者は	
-MAP55_e12_p0_184	Map055.json	scrolling text	dialogue	　　　　　　　　何か食べ物でもないかと	
-MAP55_e12_p0_186	Map055.json	scrolling text	dialogue	　　　　　　　　真っ暗闇の洞窟の奥へと	
-MAP55_e12_p0_188	Map055.json	scrolling text	dialogue	　　　　　　　　　歩き出したのじゃ	
-MAP55_e12_p0_19	Map055.json	0	dialogue	わしが先々代当主、オタキですじゃ	
+MAP55_e12_p0_163	Map055.json	0	dialogue	すんません…	Sorry...
+MAP55_e12_p0_167	Map055.json	scrolling text	dialogue	　　　　　はじまりの水の者はとても疲れていた	The First Being of Water was utterly weary.
+MAP55_e12_p0_17	Map055.json	0	dialogue	よういらっしゃった、火と風の紋章の継承者	Welcome, inheritors of the Fire and Wind crests,
+MAP55_e12_p0_170	Map055.json	scrolling text	dialogue	　　　　　　長い旅の末にこの地に迷い込み	After a long journey, it wandered into this land
+MAP55_e12_p0_171	Map055.json	scrolling text	dialogue	　　遂には動けなくなって、洞窟の中で身をよこたえた	and, at last unable to move, lay down within a cave.
+MAP55_e12_p0_174	Map055.json	scrolling text	dialogue	　　　　　　何度も眠り、何度も目を覚ましたが	It slept and woke, again and again,
+MAP55_e12_p0_176	Map055.json	scrolling text	dialogue	　　　　　すさまじい雨は全くやむ気配がなかった	yet the fierce rain showed no sign of stopping.
+MAP55_e12_p0_179	Map055.json	scrolling text	dialogue	　　　　死ぬこともできず、かといって身体も動かず	Unable to die, yet unable to move either,
+MAP55_e12_p0_18	Map055.json	0	dialogue	のかたがた…	the both of you...
+MAP55_e12_p0_182	Map055.json	scrolling text	dialogue	　　　　　　　やがてはじまりの水の者は	at length, the First Being of Water
+MAP55_e12_p0_184	Map055.json	scrolling text	dialogue	　　　　　　　　何か食べ物でもないかと	set out into the depths of the pitch-black cave,
+MAP55_e12_p0_186	Map055.json	scrolling text	dialogue	　　　　　　　　真っ暗闇の洞窟の奥へと	searching for anything to eat,
+MAP55_e12_p0_188	Map055.json	scrolling text	dialogue	　　　　　　　　　歩き出したのじゃ	it began to walk.
+MAP55_e12_p0_19	Map055.json	0	dialogue	わしが先々代当主、オタキですじゃ	I am Otaki, head two generations back.
 MAP55_e12_p0_191	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e12_p0_192	Map055.json	0	dialogue	ちょっと待ってこの話、	
-MAP55_e12_p0_193	Map055.json	0	dialogue	龍の話か？龍出てくる話っぽいな！	
+MAP55_e12_p0_192	Map055.json	0	dialogue	ちょっと待ってこの話、	Hold on, this story—
+MAP55_e12_p0_193	Map055.json	0	dialogue	龍の話か？龍出てくる話っぽいな！	is it about a dragon? Sounds like a dragon story!
 MAP55_e12_p0_195	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e12_p0_196	Map055.json	0	dialogue	そうなのか？りゅう？	
-MAP55_e12_p0_197	Map055.json	0	dialogue	なんだなんだどうなるんだ？？	
+MAP55_e12_p0_196	Map055.json	0	dialogue	そうなのか？りゅう？	Is it? A dragon?
+MAP55_e12_p0_197	Map055.json	0	dialogue	なんだなんだどうなるんだ？？	What, what—how does it go??
 MAP55_e12_p0_199	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
-MAP55_e12_p0_200	Map055.json	0	dialogue	だまらっしゃい！！	
-MAP55_e12_p0_201	Map055.json	0	dialogue	ナガレも黙って聞きなさい！！	
-MAP55_e12_p0_202	Map055.json	0	dialogue	長くなると言っておるじゃろ！！	
+MAP55_e12_p0_200	Map055.json	0	dialogue	だまらっしゃい！！	Silence!!
+MAP55_e12_p0_201	Map055.json	0	dialogue	ナガレも黙って聞きなさい！！	You too, Nagare—listen quietly!!
+MAP55_e12_p0_202	Map055.json	0	dialogue	長くなると言っておるじゃろ！！	I told you this would be long!!
 MAP55_e12_p0_204	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e12_p0_205	Map055.json	0	dialogue	はい…	Yes...
-MAP55_e12_p0_208	Map055.json	scrolling text	dialogue	　　　　　　　　真っ暗闇の中をふらふらと	
+MAP55_e12_p0_208	Map055.json	scrolling text	dialogue	　　　　　　　　真っ暗闇の中をふらふらと	Wandering through the pitch black,
 MAP55_e12_p0_21	Map055.json	0	dialogue	シズク様：	Lady Shizuku:
-MAP55_e12_p0_210	Map055.json	scrolling text	dialogue	　　　　　　　　　　歩いていると…	
-MAP55_e12_p0_212	Map055.json	scrolling text	dialogue	　　　　　　突然足元の感覚が、地面がなくなった	
+MAP55_e12_p0_210	Map055.json	scrolling text	dialogue	　　　　　　　　　　歩いていると…	it walked on...
+MAP55_e12_p0_212	Map055.json	scrolling text	dialogue	　　　　　　突然足元の感覚が、地面がなくなった	when suddenly the ground beneath its feet vanished.
 MAP55_e12_p0_216	Map055.json	scrolling text	dialogue	　　　　　　　　　はじまりの水の者は	
 MAP55_e12_p0_218	Map055.json	scrolling text	dialogue	　　　　　　　洞窟の奥で穴に落ちたのじゃな	
 MAP55_e12_p0_22	Map055.json	0	dialogue	私が先代当主のシズクです。	
@@ -5389,7 +5389,7 @@ MAP55_e7_p2_192	Map055.json	0	dialogue	っていう可能性はある…。
 MAP55_e7_p2_194	Map055.json	0	dialogue	ホノオ：	Hono:
 MAP55_e7_p2_195	Map055.json	0	dialogue	そ、そうなのか…？	
 MAP55_e7_p2_197	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
-MAP55_e7_p2_198	Map055.json	0	dialogue	うむ…　	
+MAP55_e7_p2_198	Map055.json	0	dialogue	うむ…　	Indeed...
 MAP55_e7_p2_199	Map055.json	0	dialogue	わしも、ナガレと同じように考えたのじゃ。	
 MAP55_e7_p2_2	Map055.json	0	dialogue	ようお帰りになられましたな、継承者の皆様。	
 MAP55_e7_p2_20	Map055.json	0	dialogue	殺したんじゃない…　殺したんじゃないけど…	
