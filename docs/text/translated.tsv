@@ -1668,96 +1668,96 @@ MAP17_e5_p1_12	Map017.json	1	dialogue	あの砂漠の戦士が戦の前に食べ
 MAP17_e5_p1_13	Map017.json	1	dialogue	それを食べて娘はすごく強くなっていた	So eating it made my daughter incredibly strong
 MAP17_e5_p1_14	Map017.json	1	dialogue	んですか！？	did it!?
 MAP17_e5_p1_15	Map017.json	1	dialogue	私も食べたかった…	I wanted to eat it too...
-MAP17_e5_p1_19	Map017.json	1	dialogue	騎士様、お仕事の報告はちゃんとしてください。	
-MAP17_e5_p1_2	Map017.json	0	dialogue	ほら、あたしの言った通りジャクリーンは	
-MAP17_e5_p1_20	Map017.json	1	dialogue	教えてくれないなら、騎士団に報告しますよ。	
-MAP17_e5_p1_3	Map017.json	0	dialogue	無事に帰って来ましたよ。	
-MAP17_e5_p1_5	Map017.json	0	dialogue	えっ、騎士様が助けてくれたんですか！	
-MAP17_e5_p1_6	Map017.json	0	dialogue	それはどうもありがとうございました！	
-MAP17_e5_p1_7	Map017.json	0	dialogue	え、キノコ…？騎士様それは一体どんな	
-MAP17_e5_p1_8	Map017.json	0	dialogue	キノコだったんですか！？	
+MAP17_e5_p1_19	Map017.json	1	dialogue	騎士様、お仕事の報告はちゃんとしてください。	Sir Knight, please file proper reports on your work.
+MAP17_e5_p1_2	Map017.json	0	dialogue	ほら、あたしの言った通りジャクリーンは	See, just as I said, Jacqueline
+MAP17_e5_p1_20	Map017.json	1	dialogue	教えてくれないなら、騎士団に報告しますよ。	If you won't tell me, I'll report this to the knight order.
+MAP17_e5_p1_3	Map017.json	0	dialogue	無事に帰って来ましたよ。	She's come home safe.
+MAP17_e5_p1_5	Map017.json	0	dialogue	えっ、騎士様が助けてくれたんですか！	Huh, the Sir Knight saved her!
+MAP17_e5_p1_6	Map017.json	0	dialogue	それはどうもありがとうございました！	Thank you so much!
+MAP17_e5_p1_7	Map017.json	0	dialogue	え、キノコ…？騎士様それは一体どんな	Huh, a mushroom...? Sir Knight, what kind of
+MAP17_e5_p1_8	Map017.json	0	dialogue	キノコだったんですか！？	mushroom was it!?
 MAP17_e5_p1_9_c0	Map017.json	choice	choice	狂戦士のキノコです	It's a Berserker Mushroom
 MAP17_e5_p1_9_c1	Map017.json	choice	choice	内緒です	It's a secret
 MAP17_e6_p1_1	Map017.json	0	dialogue	ハリスの娘ジャクリーン：	Jacqueline, Harris's Daughter:
-MAP17_e6_p1_2	Map017.json	0	dialogue	あっ、この度はどうもお世話になりました…	
-MAP17_e6_p1_3	Map017.json	0	dialogue	いまでも自分がどうなっていたのか、	
-MAP17_e6_p1_4	Map017.json	0	dialogue	よく思い出せませんが…でも元気です！	
-MAP17_e7_p0_2	Map017.json	0	dialogue	　　　　　手の込んだ作りのブローチがある	
-MAP17_e7_p0_3	Map017.json	0	dialogue	　　　　　　　　　贈り物だろうか	
+MAP17_e6_p1_2	Map017.json	0	dialogue	あっ、この度はどうもお世話になりました…	Ah, thank you so much for your help...
+MAP17_e6_p1_3	Map017.json	0	dialogue	いまでも自分がどうなっていたのか、	Even now, I can't quite remember
+MAP17_e6_p1_4	Map017.json	0	dialogue	よく思い出せませんが…でも元気です！	what came over me... but I'm fine now!
+MAP17_e7_p0_2	Map017.json	0	dialogue	　　　　　手の込んだ作りのブローチがある	There's an intricately crafted brooch here.
+MAP17_e7_p0_3	Map017.json	0	dialogue	　　　　　　　　　贈り物だろうか	It might be a gift.
 MAP17_e8_p0_1	Map017.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP17_e9_p0_1	Map017.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP18_e10_p0_1	Map018.json	0	dialogue	行商人アバ：	Abba, Peddler:
-MAP18_e10_p0_2	Map018.json	0	dialogue	ここでご飯を食べると、	
-MAP18_e10_p0_3	Map018.json	0	dialogue	早く家に帰りたくなるんだ。	
+MAP18_e10_p0_2	Map018.json	0	dialogue	ここでご飯を食べると、	When I eat here,
+MAP18_e10_p0_3	Map018.json	0	dialogue	早く家に帰りたくなるんだ。	I start wanting to hurry home.
 MAP18_e11_p0_1	Map018.json	0	dialogue	行政官グラス：	Glass, Administrator:
-MAP18_e11_p0_2	Map018.json	0	dialogue	フッ…	
-MAP18_e11_p0_3	Map018.json	0	dialogue	僕はこの店ではコーヒーしか飲まないんだ。	
-MAP18_e11_p0_5	Map018.json	0	dialogue	暗い顔でフォークやスプーンを	
-MAP18_e11_p0_6	Map018.json	0	dialogue	口元に運んでいる、哀れな市民たちを横目にね	
-MAP18_e11_p0_8	Map018.json	0	dialogue	ぐーーーーーーーーー（お腹の音）	
-MAP18_e12_p0_2	Map018.json	0	dialogue	　　　　　　　半分くらいつぶれている野菜だ	
-MAP18_e13_p0_2	Map018.json	0	dialogue	　　　　　　　小麦粉か何かだと思う	
+MAP18_e11_p0_2	Map018.json	0	dialogue	フッ…	Heh...
+MAP18_e11_p0_3	Map018.json	0	dialogue	僕はこの店ではコーヒーしか飲まないんだ。	I only drink coffee at this establishment.
+MAP18_e11_p0_5	Map018.json	0	dialogue	暗い顔でフォークやスプーンを	All the while glancing sidelong at the poor citizens
+MAP18_e11_p0_6	Map018.json	0	dialogue	口元に運んでいる、哀れな市民たちを横目にね	carrying forks and spoons to their lips with grim faces.
+MAP18_e11_p0_8	Map018.json	0	dialogue	ぐーーーーーーーーー（お腹の音）	GRRRRR (stomach growling)
+MAP18_e12_p0_2	Map018.json	0	dialogue	　　　　　　　半分くらいつぶれている野菜だ	Vegetables, about half of them crushed.
+MAP18_e13_p0_2	Map018.json	0	dialogue	　　　　　　　小麦粉か何かだと思う	I think it's flour or something.
 MAP18_e14_p0_1	Map018.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP18_e15_p0_2	Map018.json	0	dialogue	　　　　　　　食器がたくさん入っている	
-MAP18_e16_p0_2	Map018.json	0	dialogue	　　　　　美味しそうなお酒がたくさん入っている	
+MAP18_e15_p0_2	Map018.json	0	dialogue	　　　　　　　食器がたくさん入っている	It's full of dishware.
+MAP18_e16_p0_2	Map018.json	0	dialogue	　　　　　美味しそうなお酒がたくさん入っている	It's full of delicious-looking liquor.
 MAP18_e3_p0_1	Map018.json	0	dialogue	レストラン主人メアリ―：	Mary, Restaurant Owner:
-MAP18_e3_p0_10	Map018.json	2	dialogue	ありがとうございます、すぐに用意しますよ。	
+MAP18_e3_p0_10	Map018.json	2	dialogue	ありがとうございます、すぐに用意しますよ。	Thank you, I'll have it ready right away.
 MAP18_e3_p0_14	Map018.json	2	dialogue	お腹いっぱい食べて、みんなのＨＰが回復した！	Everyone ate their fill and recovered HP!
 MAP18_e3_p0_17	Map018.json	2	dialogue	レストラン主人メアリ―：	Mary, Restaurant Owner:
-MAP18_e3_p0_18	Map018.json	2	dialogue	また食べにおいでね、ウィンくん…	
-MAP18_e3_p0_19	Map018.json	2	dialogue	じゃなかった、騎士様！	
-MAP18_e3_p0_2	Map018.json	0	dialogue	いらっしゃい！あらあら騎士様じゃないか！	
+MAP18_e3_p0_18	Map018.json	2	dialogue	また食べにおいでね、ウィンくん…	Come eat again, Win...
+MAP18_e3_p0_19	Map018.json	2	dialogue	じゃなかった、騎士様！	I mean, Sir Knight!
+MAP18_e3_p0_2	Map018.json	0	dialogue	いらっしゃい！あらあら騎士様じゃないか！	Welcome! Oh my, if it isn't the Sir Knight!
 MAP18_e3_p0_23	Map018.json	2	dialogue	レストラン主人メアリ―：	Mary, Restaurant Owner:
-MAP18_e3_p0_24	Map018.json	2	dialogue	おやおや、お金が足りないみたいだね…。	
-MAP18_e3_p0_25	Map018.json	2	dialogue	大丈夫かい、ウィン君？	
-MAP18_e3_p0_26	Map018.json	2	dialogue	ちゃんとお給金はもらえているのかい…？	
-MAP18_e3_p0_3	Map018.json	0	dialogue	食べていくかい？	
+MAP18_e3_p0_24	Map018.json	2	dialogue	おやおや、お金が足りないみたいだね…。	Oh dear, it seems you're short on money...
+MAP18_e3_p0_25	Map018.json	2	dialogue	大丈夫かい、ウィン君？	Are you alright, Win?
+MAP18_e3_p0_26	Map018.json	2	dialogue	ちゃんとお給金はもらえているのかい…？	Are you being paid properly...?
+MAP18_e3_p0_3	Map018.json	0	dialogue	食べていくかい？	Care to eat?
 MAP18_e3_p0_32	Map018.json	1	dialogue	レストラン主人メアリ―：	Mary, Restaurant Owner:
-MAP18_e3_p0_33	Map018.json	1	dialogue	そうですか、	
-MAP18_e3_p0_34	Map018.json	1	dialogue	じゃあまた今度食べに来て下さいねえ。	
-MAP18_e3_p0_4	Map018.json	0	dialogue	ウチの名物ランチ、全員で50Gになりますよ。	
+MAP18_e3_p0_33	Map018.json	1	dialogue	そうですか、	I see,
+MAP18_e3_p0_34	Map018.json	1	dialogue	じゃあまた今度食べに来て下さいねえ。	then please come eat another time.
+MAP18_e3_p0_4	Map018.json	0	dialogue	ウチの名物ランチ、全員で50Gになりますよ。	Our signature lunch is 50G for the whole party.
 MAP18_e3_p0_5_c0	Map018.json	choice	choice	食べます	I'll eat it
 MAP18_e3_p0_5_c1	Map018.json	choice	choice	また今度来ます	I'll come again
 MAP18_e3_p0_9	Map018.json	2	dialogue	レストラン主人メアリ―：	Mary, Restaurant Owner:
 MAP18_e4_p0_1	Map018.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP18_e5_p0_2	Map018.json	0	dialogue	　　　　何に使うのか　石がたくさん入っている	
+MAP18_e5_p0_2	Map018.json	0	dialogue	　　　　何に使うのか　石がたくさん入っている	It's full of stones—for some purpose.
 MAP18_e6_p0_1	Map018.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP18_e7_p0_2	Map018.json	0	dialogue	　　　　　　　少し変なにおいのする水だ	
+MAP18_e7_p0_2	Map018.json	0	dialogue	　　　　　　　少し変なにおいのする水だ	Water with a slightly odd smell.
 MAP18_e8_p0_1	Map018.json	0	dialogue	市民ハング：	Hang, Citizen:
-MAP18_e8_p0_2	Map018.json	0	dialogue	うーん…すごくお腹が減っていたんだが…	
-MAP18_e8_p0_3	Map018.json	0	dialogue	もういいかなあ	
+MAP18_e8_p0_2	Map018.json	0	dialogue	うーん…すごくお腹が減っていたんだが…	Hmm... I was really hungry, but...
+MAP18_e8_p0_3	Map018.json	0	dialogue	もういいかなあ	maybe I'll pass.
 MAP18_e9_p0_1	Map018.json	0	dialogue	市民ミドル：	Middle, Citizen:
-MAP18_e9_p0_2	Map018.json	0	dialogue	……うーむ	
-MAP18_e9_p0_3	Map018.json	0	dialogue	まあ、お腹はふくれたかなあ…	
-MAP19_e10_p0_2	Map019.json	0	dialogue	　　　　ひとつだけ傷薬をもらっていくことにした！	
-MAP19_e10_p1_2	Map019.json	0	dialogue	　　　　　　　　　備蓄された薬類がある	
+MAP18_e9_p0_2	Map018.json	0	dialogue	……うーむ	......Hmm
+MAP18_e9_p0_3	Map018.json	0	dialogue	まあ、お腹はふくれたかなあ…	Well, my stomach's full, I suppose...
+MAP19_e10_p0_2	Map019.json	0	dialogue	　　　　ひとつだけ傷薬をもらっていくことにした！	I decided to take just one Healing Herb!
+MAP19_e10_p1_2	Map019.json	0	dialogue	　　　　　　　　　備蓄された薬類がある	There are stockpiled medicines here.
 MAP19_e11_p0_1	Map019.json	0	dialogue	休憩中の兵デニー：	Denny, Off-Duty Soldier:
-MAP19_e11_p0_13	Map019.json	1	dialogue	いや、パン屋の息子のお前になれて	
-MAP19_e11_p0_14	Map019.json	1	dialogue	僕になれないわけないだろ…？	
-MAP19_e11_p0_15	Map019.json	1	dialogue	そうだろー　なあ　そうだろー	
-MAP19_e11_p0_2	Map019.json	0	dialogue	あっ、ウィン！じゃなかった騎士ウィンどの！	
-MAP19_e11_p0_3	Map019.json	0	dialogue	ぼくでも騎士になれるかなあ？	
+MAP19_e11_p0_13	Map019.json	1	dialogue	いや、パン屋の息子のお前になれて	No way—if the baker's son can do it,
+MAP19_e11_p0_14	Map019.json	1	dialogue	僕になれないわけないだろ…？	then there's no way I can't, right...?
+MAP19_e11_p0_15	Map019.json	1	dialogue	そうだろー　なあ　そうだろー	Right~? Huh, right?
+MAP19_e11_p0_2	Map019.json	0	dialogue	あっ、ウィン！じゃなかった騎士ウィンどの！	Oh, Win! I mean, Sir Knight Win!
+MAP19_e11_p0_3	Map019.json	0	dialogue	ぼくでも騎士になれるかなあ？	Do you think I could become a knight too?
 MAP19_e11_p0_4_c0	Map019.json	choice	choice	もちろん	Of course
 MAP19_e11_p0_4_c1	Map019.json	choice	choice	どうかな	I wonder
-MAP19_e11_p0_7	Map019.json	1	dialogue	寝る前には勉強してるし…	
-MAP19_e11_p0_8	Map019.json	1	dialogue	筋トレも毎日かかしていないし…	
-MAP19_e11_p0_9	Map019.json	1	dialogue	何か他にアドバイスあったら教えてくれよな？	
+MAP19_e11_p0_7	Map019.json	1	dialogue	寝る前には勉強してるし…	I study before bed...
+MAP19_e11_p0_8	Map019.json	1	dialogue	筋トレも毎日かかしていないし…	and I do my muscle training every day...
+MAP19_e11_p0_9	Map019.json	1	dialogue	何か他にアドバイスあったら教えてくれよな？	Got any other advice for me?
 MAP19_e12_p0_1	Map019.json	0	dialogue	休憩中の兵トム：	Tom, Off-Duty Soldier:
-MAP19_e12_p0_11	Map019.json	1	dialogue	まず、敵の急所を点で突けるのが一番に違い。	
-MAP19_e12_p0_12	Map019.json	1	dialogue	会心率が高く、防御力の高い敵に特に	
-MAP19_e12_p0_13	Map019.json	1	dialogue	有効だ。	
-MAP19_e12_p0_14	Map019.json	1	dialogue	重いのが嫌なら、レイピアやダガーもいい。	
-MAP19_e12_p0_18	Map019.json	1	dialogue	そうか、うん。	
-MAP19_e12_p0_19	Map019.json	1	dialogue	皆が剣ばかり使っている中で、すでに	
-MAP19_e12_p0_2	Map019.json	0	dialogue	ん、ウィン？	
-MAP19_e12_p0_20	Map019.json	1	dialogue	槍の良さに	
-MAP19_e12_p0_21	Map019.json	1	dialogue	気付いているとはな。さすがだ。	
-MAP19_e12_p0_3	Map019.json	0	dialogue	君も槍よりも剣を使うかい？	
+MAP19_e12_p0_11	Map019.json	1	dialogue	まず、敵の急所を点で突けるのが一番に違い。	First, nothing beats being able to strike an enemy's vital point with pinpoint precision.
+MAP19_e12_p0_12	Map019.json	1	dialogue	会心率が高く、防御力の高い敵に特に	It's especially effective against enemies with high
+MAP19_e12_p0_13	Map019.json	1	dialogue	有効だ。	defense and critical rates.
+MAP19_e12_p0_14	Map019.json	1	dialogue	重いのが嫌なら、レイピアやダガーもいい。	If you dislike heavy weapons, a rapier or dagger works too.
+MAP19_e12_p0_18	Map019.json	1	dialogue	そうか、うん。	I see, yeah.
+MAP19_e12_p0_19	Map019.json	1	dialogue	皆が剣ばかり使っている中で、すでに	While everyone else uses only swords, you've already
+MAP19_e12_p0_2	Map019.json	0	dialogue	ん、ウィン？	Hm, Win?
+MAP19_e12_p0_20	Map019.json	1	dialogue	槍の良さに	noticed the merits
+MAP19_e12_p0_21	Map019.json	1	dialogue	気付いているとはな。さすがだ。	of the spear. Impressive.
+MAP19_e12_p0_3	Map019.json	0	dialogue	君も槍よりも剣を使うかい？	Do you prefer the sword to the spear as well?
 MAP19_e12_p0_4_c0	Map019.json	choice	choice	そうだよ	That's right
 MAP19_e12_p0_4_c1	Map019.json	choice	choice	そうでもない	Not really
-MAP19_e12_p0_7	Map019.json	1	dialogue	君もか…	
-MAP19_e12_p0_8	Map019.json	1	dialogue	最近は皆、すっかり剣しか使わないが、	
-MAP19_e12_p0_9	Map019.json	1	dialogue	槍は有効な武器だぞ。	
+MAP19_e12_p0_7	Map019.json	1	dialogue	君もか…	You too, huh...
+MAP19_e12_p0_8	Map019.json	1	dialogue	最近は皆、すっかり剣しか使わないが、	Lately everyone uses nothing but swords, but
+MAP19_e12_p0_9	Map019.json	1	dialogue	槍は有効な武器だぞ。	the spear is a fine weapon.
 MAP19_e13_p0_1	Map019.json	0	dialogue	『七転び七起きれず』	"""Seven Falls, Can't Get Up Eight Times"""
 MAP19_e13_p0_10	Map019.json	1	dialogue	毒にかかったり、眠ってしまったり、混乱したり…	Getting poisoned, falling asleep, being confused...
 MAP19_e13_p0_11	Map019.json	1	dialogue	そういった状態異常は、すぐに死にはつながらないが、	These ailments won't kill you right away, but
@@ -1818,40 +1818,40 @@ MAP19_e18_p0_7	Map019.json	1	dialogue	中型、大型の盾とは異なった技
 MAP19_e18_p0_8	Map019.json	1	dialogue	受け止めるのではなく、受け流す、絡めとるなどして、	Rather than blocking, it deflects and entangles,
 MAP19_e18_p0_9	Map019.json	1	dialogue	回避やカウンターの布石にする盾である。	serving as a setup for evasions and counters.
 MAP19_e3_p0_1	Map019.json	0	dialogue	駐屯隊長ジョセフ：	Joseph, Garrison Captain:
-MAP19_e3_p0_10	Map019.json	1	dialogue	キノコを採りに行ったらしいんだが、	
+MAP19_e3_p0_10	Map019.json	1	dialogue	キノコを採りに行ったらしいんだが、	She went out to gather mushrooms, apparently, but
 MAP19_e3_p0_12	Map019.json	1	dialogue	ジョセフ：	Joseph:
-MAP19_e3_p0_13	Map019.json	1	dialogue	もう丸一日戻ってきていないらしい。しかし、	
-MAP19_e3_p0_14	Map019.json	1	dialogue	人手が足りなくてすぐに捜索隊を出せない。	
-MAP19_e3_p0_15	Map019.json	1	dialogue	もしよかったら見てきてくれないか？	
+MAP19_e3_p0_13	Map019.json	1	dialogue	もう丸一日戻ってきていないらしい。しかし、	she hasn't come back for over a day now. However,
+MAP19_e3_p0_14	Map019.json	1	dialogue	人手が足りなくてすぐに捜索隊を出せない。	we're too short-handed to send a search party right away.
+MAP19_e3_p0_15	Map019.json	1	dialogue	もしよかったら見てきてくれないか？	If you wouldn't mind, could you go look?
 MAP19_e3_p0_16_c0	Map019.json	choice	choice	わかった	Got it
 MAP19_e3_p0_16_c1	Map019.json	choice	choice	ちょっと無理かな	That might be a stretch
 MAP19_e3_p0_19	Map019.json	2	dialogue	ジョセフ：	Joseph:
-MAP19_e3_p0_2	Map019.json	0	dialogue	ウィンじゃないか。	
-MAP19_e3_p0_20	Map019.json	2	dialogue	助かるよ。きっと足をくじいたとか、そんな	
-MAP19_e3_p0_21	Map019.json	2	dialogue	ことだろうとは思うんだが…。お前が引き受け	
-MAP19_e3_p0_22	Map019.json	2	dialogue	てくれたと、ハリスさんにも伝えとくよ。	
+MAP19_e3_p0_2	Map019.json	0	dialogue	ウィンじゃないか。	If it isn't Win.
+MAP19_e3_p0_20	Map019.json	2	dialogue	助かるよ。きっと足をくじいたとか、そんな	Thanks. I'm sure she just twisted her ankle or something, but...
+MAP19_e3_p0_21	Map019.json	2	dialogue	ことだろうとは思うんだが…。お前が引き受け	I'll let Harris know that you've
+MAP19_e3_p0_22	Map019.json	2	dialogue	てくれたと、ハリスさんにも伝えとくよ。	agreed to take it on.
 MAP19_e3_p0_24	Map019.json	2	dialogue	ピピン：	Pipin:
-MAP19_e3_p0_25	Map019.json	2	dialogue	何を勝手に面倒なこと引き受けてるんだ！？	
-MAP19_e3_p0_26	Map019.json	2	dialogue	陛下から直々に下された任務があるだろ！	
+MAP19_e3_p0_25	Map019.json	2	dialogue	何を勝手に面倒なこと引き受けてるんだ！？	Why are you volunteering for troublesome tasks on your own!?
+MAP19_e3_p0_26	Map019.json	2	dialogue	陛下から直々に下された任務があるだろ！	You have a direct order from His Majesty, don't you!
 MAP19_e3_p0_28	Map019.json	2	dialogue	ピピン：	Pipin:
-MAP19_e3_p0_29	Map019.json	2	dialogue	行くなら、ひとりで行くんだな。	
-MAP19_e3_p0_3	Map019.json	0	dialogue	こんなところで油売ってていいのか？	
-MAP19_e3_p0_30	Map019.json	2	dialogue	俺は知らん…。	
+MAP19_e3_p0_29	Map019.json	2	dialogue	行くなら、ひとりで行くんだな。	If you're going, you're going alone.
+MAP19_e3_p0_3	Map019.json	0	dialogue	こんなところで油売ってていいのか？	Should you really be slacking off here?
+MAP19_e3_p0_30	Map019.json	2	dialogue	俺は知らん…。	I don't care...
 MAP19_e3_p0_34	Map019.json	2	dialogue	ジョセフ：	Joseph:
-MAP19_e3_p0_35	Map019.json	2	dialogue	そうだよなあ…。	
-MAP19_e3_p0_36	Map019.json	2	dialogue	とりあえず、俺の方でかき集めてみるよ。	
-MAP19_e3_p0_37	Map019.json	2	dialogue	無理を言って悪かったな。	
+MAP19_e3_p0_35	Map019.json	2	dialogue	そうだよなあ…。	You're right...
+MAP19_e3_p0_36	Map019.json	2	dialogue	とりあえず、俺の方でかき集めてみるよ。	For now, I'll try to scrape together what I can on my end.
+MAP19_e3_p0_37	Map019.json	2	dialogue	無理を言って悪かったな。	Sorry for asking too much.
 MAP19_e3_p0_43	Map019.json	1	dialogue	ジョセフ：	Joseph:
-MAP19_e3_p0_44	Map019.json	1	dialogue	ここの仕事は俺たちに任せて、お前は自分の	
-MAP19_e3_p0_45	Map019.json	1	dialogue	任務に集中しろ。	
-MAP19_e3_p0_46	Map019.json	1	dialogue	なあに、心配すんなって…。	
+MAP19_e3_p0_44	Map019.json	1	dialogue	ここの仕事は俺たちに任せて、お前は自分の	Leave the work here to us, and focus
+MAP19_e3_p0_45	Map019.json	1	dialogue	任務に集中しろ。	on your own mission.
+MAP19_e3_p0_46	Map019.json	1	dialogue	なあに、心配すんなって…。	Ah, don't worry about it...
 MAP19_e3_p0_4_c0	Map019.json	choice	choice	何か困りごとないか？	Any trouble?
 MAP19_e3_p0_4_c1	Map019.json	choice	choice	ごめんなさい	I'm sorry
 MAP19_e3_p0_7	Map019.json	1	dialogue	ジョセフ：	Joseph:
-MAP19_e3_p0_8	Map019.json	1	dialogue	いやあ、ちょっとな…	
-MAP19_e3_p0_9	Map019.json	1	dialogue	ハリスさんちの娘さんが南の旧坑道へ	
+MAP19_e3_p0_8	Map019.json	1	dialogue	いやあ、ちょっとな…	Well, it's just...
+MAP19_e3_p0_9	Map019.json	1	dialogue	ハリスさんちの娘さんが南の旧坑道へ	Harris's daughter headed to the Old Southern Mine
 MAP19_e3_p1_1	Map019.json	0	dialogue	駐屯隊長ジョセフ：	Joseph, Garrison Captain:
-MAP19_e3_p1_12	Map019.json	0	dialogue	チェインメイルを　１着　貰った！	
+MAP19_e3_p1_12	Map019.json	0	dialogue	チェインメイルを　１着　貰った！	Received a Chain Mail!
 MAP19_e3_p1_14	Map019.json	0	dialogue	最近すっかり外に行くこともなくなってな。	I've stopped going out entirely lately.
 MAP19_e3_p1_15	Map019.json	0	dialogue	着る機会もなさそうだから、お前で有効活用	Looks like I won't get to wear it, so put it to
 MAP19_e3_p1_16	Map019.json	0	dialogue	してくれよ。	good use yourself.
@@ -1866,7 +1866,7 @@ MAP19_e3_p1_7	Map019.json	0	dialogue	本当にありがとな！	thanks a lot!
 MAP19_e3_p1_8	Map019.json	0	dialogue	これ、俺からの気持ちだ、	This is a token of my gratitude,
 MAP19_e3_p1_9	Map019.json	0	dialogue	まあまあ、受け取ってくれよ！	come on, just take it!
 MAP19_e3_p2_1	Map019.json	0	dialogue	駐屯隊長ジョセフ：	Joseph, Garrison Captain:
-MAP19_e3_p2_12	Map019.json	0	dialogue	チェインメイル(匠)を　１着　貰った！	
+MAP19_e3_p2_12	Map019.json	0	dialogue	チェインメイル(匠)を　１着　貰った！	Received a Chain Mail (Master's)!
 MAP19_e3_p2_14	Map019.json	0	dialogue	最近すっかり外に行くこともなくなってな。	I've stopped going out entirely lately.
 MAP19_e3_p2_15	Map019.json	0	dialogue	着る機会もなさそうだから、お前で有効活用	Looks like I won't get to wear it, so put it to
 MAP19_e3_p2_16	Map019.json	0	dialogue	してくれよ。	good use yourself.
@@ -1892,7 +1892,7 @@ MAP19_e4_p0_1	Map019.json	0	dialogue	持ち出して役に立つようなもの�
 MAP19_e5_p0_1	Map019.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP19_e6_p0_1	Map019.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP19_e7_p0_1	Map019.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP19_e8_p0_2	Map019.json	0	dialogue	　　　　　　　　貯蓄用の飲料水だと思う	
+MAP19_e8_p0_2	Map019.json	0	dialogue	　　　　　　　　貯蓄用の飲料水だと思う	I think it's drinking water stored up.
 MAP19_e9_p0_1	Map019.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP20_e3_p0_1	Map020.json	0	dialogue	武器屋ドミトリー：	Dmitri, Weapon Shop Owner:
 MAP20_e3_p0_14	Map020.json	0	dialogue	武器屋ドミトリー：	Dmitri, Weapon Shop Owner:
@@ -1912,30 +1912,30 @@ MAP20_e3_p1_3	Map020.json	0	dialogue	支給品とはちょっと違う品々を�
 MAP20_e3_p1_4	Map020.json	0	dialogue	ウィン、ちゃんと金は持ってきたか？	Win, did you bring enough money?
 MAP20_e4_p0_1	Map020.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP20_e5_p0_1	Map020.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP21_e10_p0_2	Map021.json	0	dialogue	　　　　　　王国の騎士団のリストが入っている	
+MAP21_e10_p0_2	Map021.json	0	dialogue	　　　　　　王国の騎士団のリストが入っている	It contains a list of the kingdom's knight order.
 MAP21_e11_p0_1	Map021.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP21_e12_p0_1	Map021.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP21_e13_p1_1	Map021.json	0	dialogue	ロイ：	Roi:
-MAP21_e13_p2_10	Map021.json	0	dialogue	俺のやり方が悪かったことは、分かっている…	
-MAP21_e13_p2_12	Map021.json	0	dialogue	さあ、手を差し出せ。	
-MAP21_e13_p2_13	Map021.json	0	dialogue	風の紋章を、お前に継承する。	
-MAP21_e13_p2_16	Map021.json	0	dialogue	　　　　　　ウィンは左手をロイに差し出した	
-MAP21_e13_p2_18	Map021.json	0	dialogue	よし、そのまま、しばらくじっとしていろ…。	
+MAP21_e13_p2_10	Map021.json	0	dialogue	俺のやり方が悪かったことは、分かっている…	I know my methods weren't right...
+MAP21_e13_p2_12	Map021.json	0	dialogue	さあ、手を差し出せ。	Now, hold out your hand.
+MAP21_e13_p2_13	Map021.json	0	dialogue	風の紋章を、お前に継承する。	I hereby pass the Wind Crest to you.
+MAP21_e13_p2_16	Map021.json	0	dialogue	　　　　　　ウィンは左手をロイに差し出した	Win held out his left hand to Roi.
+MAP21_e13_p2_18	Map021.json	0	dialogue	よし、そのまま、しばらくじっとしていろ…。	Good, now stay still for a while...
 MAP21_e13_p2_2	Map021.json	0	dialogue	ロイ：	Roi:
-MAP21_e13_p2_21	Map021.json	0	dialogue	　　　ロイは自分の手のひらをウィンの手の甲にのせた　　　　　　　	
+MAP21_e13_p2_21	Map021.json	0	dialogue	　　　ロイは自分の手のひらをウィンの手の甲にのせた　　　　　　　	Roi placed his palm upon the back of Win's hand.
 MAP21_e13_p2_30	Map021.json	0	dialogue	ロイ：	Roi:
-MAP21_e13_p2_31	Map021.json	0	dialogue	…無事に、継承できたようだ。	
-MAP21_e13_p2_34	Map021.json	0	dialogue	おそらく、まだ自覚できるような力を	
-MAP21_e13_p2_35	Map021.json	0	dialogue	感じることはないだろう…。	
-MAP21_e13_p2_36	Map021.json	0	dialogue	しかし紋章は、闇の力が強まるにつれて、	
-MAP21_e13_p2_37	Map021.json	0	dialogue	その輝きを増すと言われる。	
-MAP21_e13_p2_39	Map021.json	0	dialogue	その力…	
-MAP21_e13_p2_40	Map021.json	0	dialogue	エレメンタルパワーが、具体的に、	
-MAP21_e13_p2_41	Map021.json	0	dialogue	どういった力なのかは、俺にも分からん。	
-MAP21_e13_p2_43	Map021.json	0	dialogue	紋章の力が強まったとしても…	
-MAP21_e13_p2_44	Map021.json	0	dialogue	それは、闇の力もまた強まっている事を	
-MAP21_e13_p2_45	Map021.json	0	dialogue	意味する。	
-MAP21_e13_p2_47	Map021.json	0	dialogue	とは言え…これは俺が古文書を調べて何とか	
+MAP21_e13_p2_31	Map021.json	0	dialogue	…無事に、継承できたようだ。	...It seems the succession succeeded.
+MAP21_e13_p2_34	Map021.json	0	dialogue	おそらく、まだ自覚できるような力を	You likely won't feel any power you can
+MAP21_e13_p2_35	Map021.json	0	dialogue	感じることはないだろう…。	perceive yet...
+MAP21_e13_p2_36	Map021.json	0	dialogue	しかし紋章は、闇の力が強まるにつれて、	But the crest is said to shine brighter as
+MAP21_e13_p2_37	Map021.json	0	dialogue	その輝きを増すと言われる。	the Dark power strengthens.
+MAP21_e13_p2_39	Map021.json	0	dialogue	その力…	That power...
+MAP21_e13_p2_40	Map021.json	0	dialogue	エレメンタルパワーが、具体的に、	Elemental Power—what it truly is, specifically,
+MAP21_e13_p2_41	Map021.json	0	dialogue	どういった力なのかは、俺にも分からん。	I don't know either.
+MAP21_e13_p2_43	Map021.json	0	dialogue	紋章の力が強まったとしても…	Even if the crest's power grows...
+MAP21_e13_p2_44	Map021.json	0	dialogue	それは、闇の力もまた強まっている事を	it also means the Dark power is growing
+MAP21_e13_p2_45	Map021.json	0	dialogue	意味する。	in turn.
+MAP21_e13_p2_47	Map021.json	0	dialogue	とは言え…これは俺が古文書を調べて何とか	That said... this is a reconstruction I managed
 MAP21_e13_p2_48	Map021.json	0	dialogue	得た知識に過ぎん。	
 MAP21_e13_p2_49	Map021.json	0	dialogue	実際にどうなるのかは…誰にも分からんのだ。	
 MAP21_e13_p2_51	Map021.json	0	dialogue	ウィンよ。直ちにお前が継承者になった事を	Win. Report your succession to King Windam at once,
