@@ -10165,7 +10165,7 @@ MAP77_e6_p0_4_c0	Map077.json	choice	choice	よろしく	Nice to meet you
 MAP77_e6_p0_4_c1	Map077.json	choice	choice	しっかりしろ	Pull yourself together
 MAP77_e6_p0_7	Map077.json	1	dialogue	新参兵のトール：	Thor, New Recruit:
 MAP77_e6_p0_8	Map077.json	1	dialogue	ふわあああおおおおおおおおおおお！！	Fwaaaaooooooh!!
-MAP77_e6_p0_9	Map077.json	1	dialogue	よろしくおなながいいしままーーーーす！！！	
+MAP77_e6_p0_9	Map077.json	1	dialogue	よろしくおなながいいしままーーーーす！！！	Pleased to meet you, now I'll bow bow—!!!
 MAP77_e7_p0_2	Map077.json	0	dialogue	　　　　　　刃こぼれした剣が乱雑にしまってある	Chipped swords are stored here, carelessly.
 MAP77_e8_p0_1	Map077.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP77_e9_p0_2	Map077.json	0	dialogue	　　　　　　　　中にはコメが入っている	There's rice inside.
@@ -10783,126 +10783,126 @@ MAP79_e1_p4_37	Map079.json	0	dialogue	ピ………ＱＥ…　ピ……Ｑ……
 MAP79_e1_p4_39	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p4_40	Map079.json	0	dialogue	ウッ！！！！！！！！！！！！！！！！	UGH!!!!!!!!!!!!!
 MAP79_e1_p4_5	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p4_6	Map079.json	0	dialogue	人間たちよ…　最後に………	
-MAP79_e1_p4_7	Map079.json	0	dialogue	ひとつだけ………	
+MAP79_e1_p4_6	Map079.json	0	dialogue	人間たちよ…　最後に………	O, humans... at the end......
+MAP79_e1_p4_7	Map079.json	0	dialogue	ひとつだけ………	just one thing......
 MAP79_e1_p4_9	Map079.json	0	dialogue	ホノオ：	Hono:
 MAP79_e1_p5_12	Map079.json	0	dialogue	ホノオ：	Hono:
 MAP79_e1_p5_15	Map079.json	0	dialogue	ナガレ：	Nagare:
 MAP79_e1_p5_2	Map079.json	0	dialogue	ホノオ：	Hono:
 MAP79_e1_p5_21	Map079.json	0	dialogue	ウィン：	Win:
 MAP79_e1_p5_25	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p5_26	Map079.json	0	dialogue	で…　次はどうすればいいんだ？	
-MAP79_e1_p5_27	Map079.json	0	dialogue	行き止まりに見えるぞ？	
+MAP79_e1_p5_26	Map079.json	0	dialogue	で…　次はどうすればいいんだ？	So... what do we do next?
+MAP79_e1_p5_27	Map079.json	0	dialogue	行き止まりに見えるぞ？	Looks like a dead end?
 MAP79_e1_p5_29	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p5_3	Map079.json	0	dialogue	発音が難しいんだよなあ…	
-MAP79_e1_p5_30	Map079.json	0	dialogue	アイツがいた後ろの地面に、	
-MAP79_e1_p5_31	Map079.json	0	dialogue	なんだか青い模様が描かれているな。	
-MAP79_e1_p5_32	Map079.json	0	dialogue	あれに乗ったら何か起こりそうじゃないか？	
+MAP79_e1_p5_3	Map079.json	0	dialogue	発音が難しいんだよなあ…	The pronunciation is just so hard...
+MAP79_e1_p5_30	Map079.json	0	dialogue	アイツがいた後ろの地面に、	On the ground behind where that guy stood,
+MAP79_e1_p5_31	Map079.json	0	dialogue	なんだか青い模様が描かれているな。	there's some kind of blue pattern drawn.
+MAP79_e1_p5_32	Map079.json	0	dialogue	あれに乗ったら何か起こりそうじゃないか？	Wouldn't something happen if we stood on it?
 MAP79_e1_p5_34	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p5_35	Map079.json	0	dialogue	えー？　そんなことあるかよー？	
+MAP79_e1_p5_35	Map079.json	0	dialogue	えー？　そんなことあるかよー？	Huh? Would it?
 MAP79_e1_p5_37	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p5_38	Map079.json	0	dialogue	他に何かヒントがあるわけでもないし、	
-MAP79_e1_p5_39	Map079.json	0	dialogue	何より急がないといけないんだ。	
-MAP79_e1_p5_40	Map079.json	0	dialogue	なんでもやってみよう！	
+MAP79_e1_p5_38	Map079.json	0	dialogue	他に何かヒントがあるわけでもないし、	There's no other hint anyway, and
+MAP79_e1_p5_39	Map079.json	0	dialogue	何より急がないといけないんだ。	more than anything, we're in a hurry.
+MAP79_e1_p5_40	Map079.json	0	dialogue	なんでもやってみよう！	Let's just try it!
 MAP79_e1_p5_42	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p5_43	Map079.json	0	dialogue	お、おう…！	
+MAP79_e1_p5_43	Map079.json	0	dialogue	お、おう…！	O-Okay...!
 MAP79_e1_p5_5	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p5_6	Map079.json	0	dialogue	聞いたことのない発音なんだよ…	
+MAP79_e1_p5_6	Map079.json	0	dialogue	聞いたことのない発音なんだよ…	It's a pronunciation I've never heard...
 MAP79_e1_p5_8	Map079.json	0	dialogue	ウィン：	Win:
-MAP79_e1_p5_9	Map079.json	0	dialogue	さようなら、ピＱＥピＱＥ…	
+MAP79_e1_p5_9	Map079.json	0	dialogue	さようなら、ピＱＥピＱＥ…	Farewell, PiQE PiQE...
 MAP79_e3_p0_11	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e3_p0_12	Map079.json	0	dialogue	うわっ、なんだよココはー…	
+MAP79_e3_p0_12	Map079.json	0	dialogue	うわっ、なんだよココはー…	Whoa, what is this place...
 MAP79_e3_p0_14	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e3_p0_15	Map079.json	0	dialogue	いかにも、ここは闇の何かですって感じだな…	
+MAP79_e3_p0_15	Map079.json	0	dialogue	いかにも、ここは闇の何かですって感じだな…	This place screams 'dark something,' doesn't it...
 MAP79_e3_p0_17	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e3_p0_18	Map079.json	0	dialogue	しかしなんつーか…　静かだな。	
+MAP79_e3_p0_18	Map079.json	0	dialogue	しかしなんつーか…　静かだな。	But man... it's quiet.
 MAP79_e3_p0_20	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e3_p0_21	Map079.json	0	dialogue	魔物の気配がしない…。	
-MAP79_e3_p0_22	Map079.json	0	dialogue	闇に近付いているはずなのに。	
+MAP79_e3_p0_21	Map079.json	0	dialogue	魔物の気配がしない…。	No sign of monsters...
+MAP79_e3_p0_22	Map079.json	0	dialogue	闇に近付いているはずなのに。	Even though we should be nearing the Dark.
 MAP79_e3_p0_24	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e3_p0_25	Map079.json	0	dialogue	とはいえ、落ち着く場所ってワケでもねー…	
+MAP79_e3_p0_25	Map079.json	0	dialogue	とはいえ、落ち着く場所ってワケでもねー…	Still, it's not exactly a place to relax...
 MAP79_e3_p0_27	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e3_p0_28	Map079.json	0	dialogue	一応気を引き締めていこうぜ！	
+MAP79_e3_p0_28	Map079.json	0	dialogue	一応気を引き締めていこうぜ！	Let's stay on our guard, alright!
 MAP79_e3_p0_30	Map079.json	0	dialogue	ウィン：	Win:
-MAP79_e3_p0_34	Map079.json	0	dialogue	　　　　　　　　　ウィンはうなずいた	
+MAP79_e3_p0_34	Map079.json	0	dialogue	　　　　　　　　　ウィンはうなずいた	Win nodded.
 MAP79_e6_p0_10	Map079.json	0	dialogue	ヒールポーションを手に入れた！	Obtained a Heal Potion!
-MAP79_e7_p0_1	Map079.json	0	dialogue	あ	
+MAP79_e7_p0_1	Map079.json	0	dialogue	あ	Ah.
 MAP80_e2_p0_1	Map080.json	0	dialogue	ホノオ：	Hono:
-MAP80_e2_p0_2	Map080.json	0	dialogue	あれ？　何も起こらねえぞ？	
+MAP80_e2_p0_2	Map080.json	0	dialogue	あれ？　何も起こらねえぞ？	Huh? Nothing happened?
 MAP80_e2_p0_4	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e2_p0_5	Map080.json	0	dialogue	一方通行なんだろうな。	
-MAP80_e2_p0_6	Map080.json	0	dialogue	どの道、もう引き返すわけにはいかない！	
+MAP80_e2_p0_5	Map080.json	0	dialogue	一方通行なんだろうな。	It's probably one-way.
+MAP80_e2_p0_6	Map080.json	0	dialogue	どの道、もう引き返すわけにはいかない！	Either way, we can't turn back now!
 MAP80_e3_p0_11	Map080.json	0	dialogue	ホノオ：	Hono:
-MAP80_e3_p0_12	Map080.json	0	dialogue	まあ他に道があるわけでもないしな…	
-MAP80_e3_p0_13	Map080.json	0	dialogue	急ぐぞ！　いつ闇いんふるなんとかが	
-MAP80_e3_p0_14	Map080.json	0	dialogue	始まってもおかしくねえ！！	
+MAP80_e3_p0_12	Map080.json	0	dialogue	まあ他に道があるわけでもないしな…	Well, there's no other path anyway...
+MAP80_e3_p0_13	Map080.json	0	dialogue	急ぐぞ！　いつ闇いんふるなんとかが	Hurry! The Dark Flu-whatever could start
+MAP80_e3_p0_14	Map080.json	0	dialogue	始まってもおかしくねえ！！	any moment!!
 MAP80_e3_p0_16	Map080.json	0	dialogue	ウィン：	Win:
-MAP80_e3_p0_20	Map080.json	0	dialogue	　　　　　　　　ウィンはうなずいた	
+MAP80_e3_p0_20	Map080.json	0	dialogue	　　　　　　　　ウィンはうなずいた	Win nodded.
 MAP80_e3_p0_5	Map080.json	0	dialogue	ホノオ：	Hono:
-MAP80_e3_p0_6	Map080.json	0	dialogue	あれ？　さっきと同じところじゃねえか！？	
+MAP80_e3_p0_6	Map080.json	0	dialogue	あれ？　さっきと同じところじゃねえか！？	Huh? Isn't this the same place as before!?
 MAP80_e3_p0_8	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e3_p0_9	Map080.json	0	dialogue	ちょっと違う気がする…　壁の色とか…	
+MAP80_e3_p0_9	Map080.json	0	dialogue	ちょっと違う気がする…　壁の色とか…	It feels a bit different... the wall color and all...
 MAP80_e4_p0_11	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e4_p0_12	Map080.json	0	dialogue	ミケーネ…!!!	
+MAP80_e4_p0_12	Map080.json	0	dialogue	ミケーネ…!!!	Mycenae...!!!
 MAP80_e4_p0_15	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_16	Map080.json	0	dialogue	…まさかピケピケが負けるなんて思わなったわ。	
+MAP80_e4_p0_16	Map080.json	0	dialogue	…まさかピケピケが負けるなんて思わなったわ。	...I never thought Pikepike would lose.
 MAP80_e4_p0_18	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_19	Map080.json	0	dialogue	あたしたちの産み出そうとする闇の力が、	
-MAP80_e4_p0_20	Map080.json	0	dialogue	これまでのものよりも大きいのだから…	
-MAP80_e4_p0_21	Map080.json	0	dialogue	継承者の力の増大もまた大きくて当然、か…	
+MAP80_e4_p0_19	Map080.json	0	dialogue	あたしたちの産み出そうとする闇の力が、	The Dark power we seek to birth is greater
+MAP80_e4_p0_20	Map080.json	0	dialogue	これまでのものよりも大きいのだから…	than ever before, so...
+MAP80_e4_p0_21	Map080.json	0	dialogue	継承者の力の増大もまた大きくて当然、か…	it's only natural the inheritors' power grew too, I suppose...
 MAP80_e4_p0_23	Map080.json	0	dialogue	ホノオ：	Hono:
-MAP80_e4_p0_24	Map080.json	0	dialogue	ピケピケはアンタらの為にめちゃくちゃ	
-MAP80_e4_p0_25	Map080.json	0	dialogue	時間稼いでから…　	
+MAP80_e4_p0_24	Map080.json	0	dialogue	ピケピケはアンタらの為にめちゃくちゃ	Pikepike bought you all an enormous
+MAP80_e4_p0_25	Map080.json	0	dialogue	時間稼いでから…　	amount of time before...
 MAP80_e4_p0_27	Map080.json	0	dialogue	ホノオ：	Hono:
-MAP80_e4_p0_28	Map080.json	0	dialogue	死んだぜーーーーミケーネーーーー！！	
+MAP80_e4_p0_28	Map080.json	0	dialogue	死んだぜーーーーミケーネーーーー！！	he died—!! Mycenae—!!
 MAP80_e4_p0_30	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_31	Map080.json	0	dialogue	おバカめ！！　知ってるわよ！！	
+MAP80_e4_p0_31	Map080.json	0	dialogue	おバカめ！！　知ってるわよ！！	You fool!! I know that!!
 MAP80_e4_p0_33	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e4_p0_34	Map080.json	0	dialogue	あんたは、なんでここにいるんだ！？	
-MAP80_e4_p0_35	Map080.json	0	dialogue	闇いんふるやら魔王やらはまだなのか！？	
+MAP80_e4_p0_34	Map080.json	0	dialogue	あんたは、なんでここにいるんだ！？	And you—why are you here!?
+MAP80_e4_p0_35	Map080.json	0	dialogue	闇いんふるやら魔王やらはまだなのか！？	The Dark Flu and the Demon King—aren't they ready yet!?
 MAP80_e4_p0_37	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_38	Map080.json	0	dialogue	ちっ………	
-MAP80_e4_p0_39	Map080.json	0	dialogue	間に合っているならあたしはここにいないよ！	
+MAP80_e4_p0_38	Map080.json	0	dialogue	ちっ………	Tch.........
+MAP80_e4_p0_39	Map080.json	0	dialogue	間に合っているならあたしはここにいないよ！	If we were on schedule, I wouldn't be here!
 MAP80_e4_p0_41	Map080.json	0	dialogue	ホノオ：	Hono:
-MAP80_e4_p0_42	Map080.json	0	dialogue	なら、アンタも時間稼ぎに来たってワケかい？	
-MAP80_e4_p0_43	Map080.json	0	dialogue	へへ…アンタら、思ったよりも余裕ねえんだな	
+MAP80_e4_p0_42	Map080.json	0	dialogue	なら、アンタも時間稼ぎに来たってワケかい？	So you came to buy time too, huh?
+MAP80_e4_p0_43	Map080.json	0	dialogue	へへ…アンタら、思ったよりも余裕ねえんだな	Hehe... you lot aren't as relaxed as you thought.
 MAP80_e4_p0_45	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_46	Map080.json	0	dialogue	やっぱりピケピケの存在は重要だったわ…	
-MAP80_e4_p0_47	Map080.json	0	dialogue	あたしたちだけで無理に闇の復活を早めるには	
-MAP80_e4_p0_48	Map080.json	0	dialogue	魔力が不足していたのよね…。	
+MAP80_e4_p0_46	Map080.json	0	dialogue	やっぱりピケピケの存在は重要だったわ…	Pikepike's presence really was crucial...
+MAP80_e4_p0_47	Map080.json	0	dialogue	あたしたちだけで無理に闇の復活を早めるには	To force the Dark's revival early on our own,
+MAP80_e4_p0_48	Map080.json	0	dialogue	魔力が不足していたのよね…。	we simply lacked the magic power...
 MAP80_e4_p0_50	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e4_p0_51	Map080.json	0	dialogue	黙れミケーネ！！	
-MAP80_e4_p0_52	Map080.json	0	dialogue	話をする気はない！！	
-MAP80_e4_p0_53	Map080.json	0	dialogue	さっさとバトル準備をしろ！！	
+MAP80_e4_p0_51	Map080.json	0	dialogue	黙れミケーネ！！	Silence, Mycenae!!
+MAP80_e4_p0_52	Map080.json	0	dialogue	話をする気はない！！	I've no intention of talking!!
+MAP80_e4_p0_53	Map080.json	0	dialogue	さっさとバトル準備をしろ！！	Get ready for battle, now!!
 MAP80_e4_p0_55	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_56	Map080.json	0	dialogue	あんだあ…このガキィ…？	
-MAP80_e4_p0_57	Map080.json	0	dialogue	どうもてめえは無駄に頭が回るみてえだなあ…	
-MAP80_e4_p0_58	Map080.json	0	dialogue	早死にすんぞコラァ…？	
+MAP80_e4_p0_56	Map080.json	0	dialogue	あんだあ…このガキィ…？	What was that... you brat...?
+MAP80_e4_p0_57	Map080.json	0	dialogue	どうもてめえは無駄に頭が回るみてえだなあ…	You've got a smart head on you, don't you...
+MAP80_e4_p0_58	Map080.json	0	dialogue	早死にすんぞコラァ…？	That'll get you killed early, punk...?
 MAP80_e4_p0_60	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e4_p0_61	Map080.json	0	dialogue	こっちはあんたに時間を稼がせたくないんだ、	
-MAP80_e4_p0_62	Map080.json	0	dialogue	当然だろ！！	
+MAP80_e4_p0_61	Map080.json	0	dialogue	こっちはあんたに時間を稼がせたくないんだ、	We don't want you stalling us,
+MAP80_e4_p0_62	Map080.json	0	dialogue	当然だろ！！	obviously!!
 MAP80_e4_p0_64	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e4_p0_65	Map080.json	0	dialogue	稼ぎたいならバトルで稼げ！	
-MAP80_e4_p0_66	Map080.json	0	dialogue	いくぞ、ミケーネ！！	
+MAP80_e4_p0_65	Map080.json	0	dialogue	稼ぎたいならバトルで稼げ！	If you want time, earn it in battle!
+MAP80_e4_p0_66	Map080.json	0	dialogue	いくぞ、ミケーネ！！	Here we come, Mycenae!!
 MAP80_e4_p0_68	Map080.json	0	dialogue	ミケーネ：	Mycenae:
 MAP80_e4_p0_69	Map080.json	0	dialogue	ふーん…	Hmm...
-MAP80_e4_p0_70	Map080.json	0	dialogue	まあ、あたしは別にいいんだけどねえ…	
+MAP80_e4_p0_70	Map080.json	0	dialogue	まあ、あたしは別にいいんだけどねえ…	Well, I don't really mind...
 MAP80_e4_p0_72	Map080.json	0	dialogue	ナガレ：	Nagare:
-MAP80_e4_p0_73	Map080.json	0	dialogue	ウィン！　ホノオ！　問答無用でいくぞ！！	
-MAP80_e4_p0_74	Map080.json	0	dialogue	いまのあたし達なら、こいつくらい…	
-MAP80_e4_p0_75	Map080.json	0	dialogue	きっと楽勝だ！！	
+MAP80_e4_p0_73	Map080.json	0	dialogue	ウィン！　ホノオ！　問答無用でいくぞ！！	Win! Hono! Let's go, no questions asked!!
+MAP80_e4_p0_74	Map080.json	0	dialogue	いまのあたし達なら、こいつくらい…	With our current strength, this one's...
+MAP80_e4_p0_75	Map080.json	0	dialogue	きっと楽勝だ！！	surely an easy win!!
 MAP80_e4_p0_77	Map080.json	0	dialogue	ホノオ：	Hono:
-MAP80_e4_p0_78	Map080.json	0	dialogue	お、おう！　そうだな…　さっさと倒すぜ！！	
+MAP80_e4_p0_78	Map080.json	0	dialogue	お、おう！　そうだな…　さっさと倒すぜ！！	O-Okay! Right... let's take her down fast!!
 MAP80_e4_p0_8	Map080.json	0	dialogue	ホノオ：	Hono:
 MAP80_e4_p0_80	Map080.json	0	dialogue	ウィン：	Win:
 MAP80_e4_p0_84	Map080.json	0	dialogue	　　　　　　　　　　ウィンはうなずいた！	Win nodded!
 MAP80_e4_p0_86	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_87	Map080.json	0	dialogue	そう、仕方ないわ…	
-MAP80_e4_p0_88	Map080.json	0	dialogue	そんなに急いでいるのね…　	
-MAP80_e4_p0_89	Map080.json	0	dialogue	あなたたちの…　死を	
-MAP80_e4_p0_9	Map080.json	0	dialogue	な…　コイツは…！！	
+MAP80_e4_p0_87	Map080.json	0	dialogue	そう、仕方ないわ…	Very well, it can't be helped...
+MAP80_e4_p0_88	Map080.json	0	dialogue	そんなに急いでいるのね…　	In such a hurry, are you...
+MAP80_e4_p0_89	Map080.json	0	dialogue	あなたたちの…　死を	to meet your... deaths
+MAP80_e4_p0_9	Map080.json	0	dialogue	な…　コイツは…！！	N-...This one is...!!
 MAP80_e4_p0_91	Map080.json	0	dialogue	ミケーネ：	Mycenae:
-MAP80_e4_p0_92	Map080.json	0	dialogue	ミッッケェーーネッブリザーードッ！！！！	
+MAP80_e4_p0_92	Map080.json	0	dialogue	ミッッケェーーネッブリザーードッ！！！！	Myyycenaeee—Bliiizzard!!!!
 MAP80_e5_p0_10	Map080.json	0	dialogue	狂戦士のキノコを手に入れた！	Obtained a Berserker Mushroom!
 MAP80_e5_p2_10	Map080.json	0	dialogue	狂戦士のキノコを手に入れた！	Obtained a Berserker Mushroom!
 MAP81_e1_p1_14	Map081.json	0	dialogue	ナガレ：	Nagare:
@@ -10967,62 +10967,62 @@ MAP81_e1_p2_46	Map081.json	0	dialogue	この真剣勝負、受けて立つわ！
 MAP81_e1_p2_47	Map081.json	0	dialogue	ナガレ、勝負ッ……！！！！！	Nagare, let's settle this!!
 MAP81_e1_p2_49	Map081.json	0	dialogue	ナガレ：	Nagare:
 MAP81_e1_p2_50	Map081.json	0	dialogue	うおおおおおおお！！！！	Whooooooa!!
-MAP81_e1_p3_10	Map081.json	0	dialogue	ああ…　早くしてくれ…　苦しいんだ…	
+MAP81_e1_p3_10	Map081.json	0	dialogue	ああ…　早くしてくれ…　苦しいんだ…	Ah... hurry up... it hurts...
 MAP81_e1_p3_12	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e1_p3_13	Map081.json	0	dialogue	………さらば、ミケーネ	
+MAP81_e1_p3_13	Map081.json	0	dialogue	………さらば、ミケーネ	.........Farewell, Mycenae.
 MAP81_e1_p3_15	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e1_p3_16	Map081.json	0	dialogue	…秘剣！　つばめ返し！！	
+MAP81_e1_p3_16	Map081.json	0	dialogue	…秘剣！　つばめ返し！！	...Secret art! Swallow Reversal!!
 MAP81_e1_p3_21	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e1_p3_22	Map081.json	0	dialogue	な…なんだと…！！？？	
+MAP81_e1_p3_22	Map081.json	0	dialogue	な…なんだと…！！？？	Wh-What...!!??
 MAP81_e1_p3_24	Map081.json	0	dialogue	ミケーネ：	Mycenae:
-MAP81_e1_p3_25	Map081.json	0	dialogue	つ、かまえた……	
+MAP81_e1_p3_25	Map081.json	0	dialogue	つ、かまえた……	Sh-Sh-she...
 MAP81_e1_p3_27	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e1_p3_28	Map081.json	0	dialogue	斬られながら…　剣を握るあたしの腕を…！？	
+MAP81_e1_p3_28	Map081.json	0	dialogue	斬られながら…　剣を握るあたしの腕を…！？	Even as she was cut... she caught the arm holding my sword...!?
 MAP81_e1_p3_3	Map081.json	0	dialogue	ミケーネ：	Mycenae:
 MAP81_e1_p3_30	Map081.json	0	dialogue	ミケーネ：	Mycenae:
-MAP81_e1_p3_31	Map081.json	0	dialogue	直につかまれてのブリザードを…	
-MAP81_e1_p3_32	Map081.json	0	dialogue	ツナミで防げはしまい…	
-MAP81_e1_p3_33	Map081.json	0	dialogue	つばめ返し…返し！！	
+MAP81_e1_p3_31	Map081.json	0	dialogue	直につかまれてのブリザードを…	A Blizzard cast at point-blank range...
+MAP81_e1_p3_32	Map081.json	0	dialogue	ツナミで防げはしまい…	I can't block it with a Tsunami...
+MAP81_e1_p3_33	Map081.json	0	dialogue	つばめ返し…返し！！	Swallow Reversal... reversal!!
 MAP81_e1_p3_35	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e1_p3_36	Map081.json	0	dialogue	ごめん…ホノオ…！　ウィン…！！	
-MAP81_e1_p3_4	Map081.json	0	dialogue	あ…　あたしの…　ま、負け…だ…	
+MAP81_e1_p3_36	Map081.json	0	dialogue	ごめん…ホノオ…！　ウィン…！！	Sorry... Hono...! Win...!!
+MAP81_e1_p3_4	Map081.json	0	dialogue	あ…　あたしの…　ま、負け…だ…	Ah... my... d-defeat......
 MAP81_e1_p3_6	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e1_p3_7	Map081.json	0	dialogue	悪いけど、トドメを刺させてもらう。	
+MAP81_e1_p3_7	Map081.json	0	dialogue	悪いけど、トドメを刺させてもらう。	Sorry, but I'll finish you off.
 MAP81_e1_p3_9	Map081.json	0	dialogue	ミケーネ：	Mycenae:
 MAP81_e4_p0_10	Map081.json	0	dialogue	ウィン：	Win:
-MAP81_e4_p0_100	Map081.json	0	dialogue	さっきのだって殆どマグレなんだ！！	
+MAP81_e4_p0_100	Map081.json	0	dialogue	さっきのだって殆どマグレなんだ！！	Even that last one was mostly luck!!
 MAP81_e4_p0_102	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e4_p0_103	Map081.json	0	dialogue	だけど、あたしひとりなら…	
-MAP81_e4_p0_104	Map081.json	0	dialogue	全く負ける気がしないんだよ。	
-MAP81_e4_p0_105	Map081.json	0	dialogue	分かるな！？	
+MAP81_e4_p0_103	Map081.json	0	dialogue	だけど、あたしひとりなら…	But if it's just me...
+MAP81_e4_p0_104	Map081.json	0	dialogue	全く負ける気がしないんだよ。	I don't feel like I could lose.
+MAP81_e4_p0_105	Map081.json	0	dialogue	分かるな！？	You get that!?
 MAP81_e4_p0_107	Map081.json	0	dialogue	ホノオ：	Hono:
-MAP81_e4_p0_108	Map081.json	0	dialogue	…わ、わかるけど…よ…	
+MAP81_e4_p0_108	Map081.json	0	dialogue	…わ、わかるけど…よ…	...I-I get it... but...
 MAP81_e4_p0_117	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e4_p0_118	Map081.json	0	dialogue	いまだ！！　行け！！	
+MAP81_e4_p0_118	Map081.json	0	dialogue	いまだ！！　行け！！	Now!! Go!!
 MAP81_e4_p0_120	Map081.json	0	dialogue	ホノオ：	Hono:
-MAP81_e4_p0_121	Map081.json	0	dialogue	…くっ！！	
+MAP81_e4_p0_121	Map081.json	0	dialogue	…くっ！！	...Ugh!!
 MAP81_e4_p0_13	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e4_p0_14	Map081.json	0	dialogue	ハァ…　ハァ…	
+MAP81_e4_p0_14	Map081.json	0	dialogue	ハァ…　ハァ…	Hah... hah...
 MAP81_e4_p0_147	Map081.json	0	dialogue	ミケーネ：	Mycenae:
-MAP81_e4_p0_148	Map081.json	0	dialogue	なめたマネしやがって………	
-MAP81_e4_p0_149	Map081.json	0	dialogue	ガキンチョどもがああああ！！！！！！	
+MAP81_e4_p0_148	Map081.json	0	dialogue	なめたマネしやがって………	You dare mock me.........
+MAP81_e4_p0_149	Map081.json	0	dialogue	ガキンチョどもがああああ！！！！！！	You brats—!!!!!!
 MAP81_e4_p0_151	Map081.json	0	dialogue	ホノオ：	Hono:
-MAP81_e4_p0_152	Map081.json	0	dialogue	ナガレ…　死ぬなよ………	
+MAP81_e4_p0_152	Map081.json	0	dialogue	ナガレ…　死ぬなよ………	Nagare... don't you die......
 MAP81_e4_p0_16	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e4_p0_17	Map081.json	0	dialogue	ウィン…　ホノオ…　無事だな？	
+MAP81_e4_p0_17	Map081.json	0	dialogue	ウィン…　ホノオ…　無事だな？	Win... Hono... you're safe, right?
 MAP81_e4_p0_24	Map081.json	0	dialogue	ホノオ：	Hono:
-MAP81_e4_p0_25	Map081.json	0	dialogue	あ、ああ…！　髪の毛ちょっと凍ったけどな！	
+MAP81_e4_p0_25	Map081.json	0	dialogue	あ、ああ…！　髪の毛ちょっと凍ったけどな！	Ah, yeah...! My hair froze a bit, but!
 MAP81_e4_p0_27	Map081.json	0	dialogue	ナガレ：	Nagare:
-MAP81_e4_p0_28	Map081.json	0	dialogue	よし…　間に合った！！	
+MAP81_e4_p0_28	Map081.json	0	dialogue	よし…　間に合った！！	Good... we made it!!
 MAP81_e4_p0_32	Map081.json	0	dialogue	ミケーネ：	Mycenae:
-MAP81_e4_p0_33	Map081.json	0	dialogue	こ…ここの…グァガガガキィ…ててめええ…	
-MAP81_e4_p0_34	Map081.json	0	dialogue	なあにしやがったあああああ！！！！？？？	
+MAP81_e4_p0_33	Map081.json	0	dialogue	こ…ここの…グァガガガキィ…ててめええ…	Th-This... Gwaaagh... y-you......
+MAP81_e4_p0_34	Map081.json	0	dialogue	なあにしやがったあああああ！！！！？？？	What did you do—!!!!???
 MAP81_e4_p0_36	Map081.json	0	dialogue	ミケーネ：	Mycenae:
-MAP81_e4_p0_37	Map081.json	0	dialogue	あたしの最大出力ミケーネブリザードはあああ	
-MAP81_e4_p0_38	Map081.json	0	dialogue	絶対零度ッ！！　その固さは永久凍土ッ…！！	
+MAP81_e4_p0_37	Map081.json	0	dialogue	あたしの最大出力ミケーネブリザードはあああ	My maximum-output Mycenae Blizzard is
+MAP81_e4_p0_38	Map081.json	0	dialogue	絶対零度ッ！！　その固さは永久凍土ッ…！！	absolute zero!! As hard as permafrost...!!
 MAP81_e4_p0_40	Map081.json	0	dialogue	ミケーネ：	Mycenae:
-MAP81_e4_p0_41	Map081.json	0	dialogue	いまのでてめえらは秒で全員カッチンコチンに	
-MAP81_e4_p0_42	Map081.json	0	dialogue	なってたハズなんだよー………　それをよー…	
+MAP81_e4_p0_41	Map081.json	0	dialogue	いまのでてめえらは秒で全員カッチンコチンに	That should've frozen you all solid
+MAP81_e4_p0_42	Map081.json	0	dialogue	なってたハズなんだよー………　それをよー…	in seconds...... and yet...
 MAP81_e4_p0_43	Map081.json	0	dialogue	なにしてくれたんだああ！？ああああ！！？？	
 MAP81_e4_p0_45	Map081.json	0	dialogue	ナガレ：	Nagare:
 MAP81_e4_p0_46	Map081.json	0	dialogue	とっさにツナミを起こして…	
