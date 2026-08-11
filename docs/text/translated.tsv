@@ -9585,31 +9585,31 @@ MAP67_e25_p0_8_c0	Map067.json	choice	choice	売ってるよ	We do sell it
 MAP67_e25_p0_8_c1	Map067.json	choice	choice	えっ　なんのこと	Huh? What do you mean?
 MAP67_e25_p1_1	Map067.json	0	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
 MAP67_e25_p1_11	Map067.json	1	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
-MAP67_e25_p1_12	Map067.json	1	dialogue	そうでしょう？	
-MAP67_e25_p1_13	Map067.json	1	dialogue	確かに魔物がお金持ってるわけないですけど、	
-MAP67_e25_p1_14	Map067.json	1	dialogue	そんなところまでリアルにしなくてもなあ…	
+MAP67_e25_p1_12	Map067.json	1	dialogue	そうでしょう？	Right?
+MAP67_e25_p1_13	Map067.json	1	dialogue	確かに魔物がお金持ってるわけないですけど、	True, monsters don't carry money, but
+MAP67_e25_p1_14	Map067.json	1	dialogue	そんなところまでリアルにしなくてもなあ…	they didn't have to make it that realistic...
 MAP67_e25_p1_18	Map067.json	1	dialogue	新米兵士ヤーボ：	Yabo, Rookie Soldier:
-MAP67_e25_p1_19	Map067.json	1	dialogue	そうですかー？	
+MAP67_e25_p1_19	Map067.json	1	dialogue	そうですかー？	Is that so?
 MAP67_e25_p1_2	Map067.json	0	dialogue	ウィンさん、魔物をたおしたときにたまに	Win, sometimes when you defeat monsters,
-MAP67_e25_p1_20	Map067.json	1	dialogue	まあ、店でまとめて売って、一気にお金持ちに	
-MAP67_e25_p1_21	Map067.json	1	dialogue	なるの、ちょっと楽しいですよね…	
+MAP67_e25_p1_20	Map067.json	1	dialogue	まあ、店でまとめて売って、一気にお金持ちに	Well, selling it all at a shop and getting rich
+MAP67_e25_p1_21	Map067.json	1	dialogue	なるの、ちょっと楽しいですよね…	all at once is kind of fun...
 MAP67_e25_p1_3	Map067.json	0	dialogue	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
-MAP67_e25_p1_4	Map067.json	0	dialogue	いちいち売るの面倒ですよねえ？	
+MAP67_e25_p1_4	Map067.json	0	dialogue	いちいち売るの面倒ですよねえ？	Selling them one by one is a hassle, right?
 MAP67_e25_p1_6	Map067.json	0	dialogue	ウィン：	Win:
 MAP67_e25_p1_8_c0	Map067.json	choice	choice	そうだね	Yeah, you're right
 MAP67_e25_p1_8_c1	Map067.json	choice	choice	そんなことないよ	That's not true
 MAP68_e2_p1_10	Map068.json	0	dialogue	ウィン：	Win:
 MAP68_e2_p1_13	Map068.json	0	dialogue	近衛兵ライトニング：	Lightning, Royal Guard:
-MAP68_e2_p1_14	Map068.json	0	dialogue	…ロイ騎士団長がお呼びだ。	
-MAP68_e2_p1_15	Map068.json	0	dialogue	先日の光の柱の件で、話があるらしい…。	
+MAP68_e2_p1_14	Map068.json	0	dialogue	…ロイ騎士団長がお呼びだ。	...Commander Roi summons you.
+MAP68_e2_p1_15	Map068.json	0	dialogue	先日の光の柱の件で、話があるらしい…。	It seems there's word about the Pillar of Light...
 MAP68_e2_p1_19	Map068.json	0	dialogue	ウィン：	Win:
 MAP68_e2_p1_23	Map068.json	0	dialogue	　　　　　　　　　ウィンは頷いた	Win nodded
 MAP68_e2_p1_6	Map068.json	0	dialogue	近衛兵ライトニング：	Lightning, Royal Guard:
-MAP68_e2_p1_7	Map068.json	0	dialogue	…ウィン、外は危ないぞ。	
-MAP68_e2_p1_8	Map068.json	0	dialogue	長居するのはよくないと、忠告させてもらう。	
-MAP69_e1_p0_12	Map069.json	scrolling text	dialogue	　　　　　　　　　　南の暗黒大陸に	
-MAP69_e1_p0_14	Map069.json	scrolling text	dialogue	　　　　　　　　巨大な光の柱が立つのを	
-MAP69_e1_p0_16	Map069.json	scrolling text	dialogue	　　　　　　　　　　　見るまでは…	
+MAP68_e2_p1_7	Map068.json	0	dialogue	…ウィン、外は危ないぞ。	...Win, it's dangerous out there.
+MAP68_e2_p1_8	Map068.json	0	dialogue	長居するのはよくないと、忠告させてもらう。	I'd advise you not to linger long.
+MAP69_e1_p0_12	Map069.json	scrolling text	dialogue	　　　　　　　　　　南の暗黒大陸に	Over the southern Dark Continent,
+MAP69_e1_p0_14	Map069.json	scrolling text	dialogue	　　　　　　　　巨大な光の柱が立つのを	a colossal pillar of light
+MAP69_e1_p0_16	Map069.json	scrolling text	dialogue	　　　　　　　　　　　見るまでは…	before they saw it rise...
 MAP70_e11_p1_1	Map070.json	0	dialogue	ホノオ：	Hono:
 MAP70_e11_p1_2	Map070.json	0	dialogue	…街には入らない方がいい、ウィン…	...Better not go into town, Win...
 MAP70_e11_p1_4	Map070.json	0	dialogue	ナガレ：	Nagare:
@@ -9617,7 +9617,7 @@ MAP70_e11_p1_5	Map070.json	0	dialogue	あのとき、燃え盛る岩がたくさ
 MAP70_e11_p1_6	Map070.json	0	dialogue	この街はがれきの山になってしまったんだ。	This town was reduced to a mountain of rubble.
 MAP70_e11_p1_8	Map070.json	0	dialogue	ウィン：	Win:
 MAP70_e14_p0_1	Map070.json	0	dialogue	ホノオ：	Hono:
-MAP70_e14_p0_2	Map070.json	0	dialogue	いまはこんなところに用はないんじゃねーか？	
+MAP70_e14_p0_2	Map070.json	0	dialogue	いまはこんなところに用はないんじゃねーか？	No business for you in a place like this now, is there?
 MAP70_e15_p0_102	Map070.json	0	dialogue	ホノオ：	Hono:
 MAP70_e15_p0_103	Map070.json	0	dialogue	ひ、ひでえ目にあった…	I-I had a terrible time...
 MAP70_e15_p0_105	Map070.json	0	dialogue	ナガレ：	Nagare:
@@ -9634,8 +9634,8 @@ MAP70_e15_p0_26	Map070.json	0	dialogue	　　　　　　ウィンはシップ�
 MAP70_e15_p0_29	Map070.json	0	dialogue	　　　　　ホノオはダイバクハツの魔法をおぼえた！	Hono learned the Great Explosion spell!
 MAP70_e15_p0_32	Map070.json	0	dialogue	　　　　　ナガレはイヤシノアメの魔法をおぼえた！	Nagare learned the Healing Rain spell!
 MAP70_e15_p0_51	Map070.json	0	dialogue	ナガレ：	Nagare:
-MAP70_e15_p0_52	Map070.json	0	dialogue	な、なんだ！？　紋章がずっと光ってるぞ！？	
-MAP70_e15_p0_55	Map070.json	0	dialogue	　　　　ウィンたちのステータスが幾つかアップした！	
+MAP70_e15_p0_52	Map070.json	0	dialogue	な、なんだ！？　紋章がずっと光ってるぞ！？	Wh-What!? The crest keeps glowing!?
+MAP70_e15_p0_55	Map070.json	0	dialogue	　　　　ウィンたちのステータスが幾つかアップした！	Some of the party's stats increased!
 MAP70_e15_p0_61	Map070.json	0	dialogue	ホノオ：	Hono:
 MAP70_e15_p0_62	Map070.json	0	dialogue	なんだよ突然…この急激なパワーアップ感は…	What's with this sudden... surge of power...
 MAP70_e15_p0_63	Map070.json	0	dialogue	いまならどんな敵が相手でも負ける気が…	Right now I feel like I could beat any enemy...
@@ -9709,7 +9709,7 @@ MAP70_e25_p0_20	Map070.json	0	dialogue	おい、まただ！　さっきより�
 MAP70_e25_p0_27	Map070.json	0	dialogue	　　　　　ウィンはイカヅチの魔法をおぼえた！	Win learned the Thunderclap spell!
 MAP70_e25_p0_30	Map070.json	0	dialogue	　　　　　ホノオはドコンジョウの魔法をおぼえた！	Hono learned the Guts spell!
 MAP70_e25_p0_33	Map070.json	0	dialogue	　　ナガレはマンキンタンとツナミの魔法をおぼえた！	Nagare learned the Mankintan and Tsunami spells!
-MAP70_e25_p0_36	Map070.json	0	dialogue	　　　　　全員のステータスが幾つかアップした！	
+MAP70_e25_p0_36	Map070.json	0	dialogue	　　　　　全員のステータスが幾つかアップした！	Some of everyone's stats increased!
 MAP70_e25_p0_42	Map070.json	0	dialogue	ホノオ：	Hono:
 MAP70_e25_p0_43	Map070.json	0	dialogue	なんだこの感じ…　オレ強過ぎになったぞ！！	What is this feeling... I've gotten way too strong!!
 MAP70_e25_p0_45	Map070.json	0	dialogue	ナガレ：	Nagare:
@@ -9730,7 +9730,7 @@ MAP70_e25_p0_65	Map070.json	0	dialogue	しかしこの無敵感は、確かに�
 MAP70_e25_p0_66	Map070.json	0	dialogue	不気味なくらいだぜー………	downright eerie.......
 MAP70_e25_p0_71	Map070.json	0	dialogue	ホノオ：	Hono:
 MAP70_e25_p0_72	Map070.json	0	dialogue	…こりゃまたスゲーのが飛んで来たぜ。	...Well, here comes another huge one.
-MAP70_e25_p0_73	Map070.json	0	dialogue	ありゃあ…　龍みてーな形してんなー？	
+MAP70_e25_p0_73	Map070.json	0	dialogue	ありゃあ…　龍みてーな形してんなー？	Well now... that's shaped like a dragon, huh?
 MAP70_e25_p0_75	Map070.json	0	dialogue	ナガレ：	Nagare:
 MAP70_e25_p0_76	Map070.json	0	dialogue	あれもさっさと片付けて、闇も封じて…	Let's deal with that one quick, seal away the Dark...
 MAP70_e25_p0_77	Map070.json	0	dialogue	これを終わりにするぞ！！	and end all this!!
@@ -9772,7 +9772,7 @@ MAP70_e25_p1_60	Map070.json	0	dialogue	しかしこの無敵感は、確かに�
 MAP70_e25_p1_61	Map070.json	0	dialogue	不気味なくらいだぜー………	downright eerie.......
 MAP70_e25_p1_66	Map070.json	0	dialogue	ホノオ：	Hono:
 MAP70_e25_p1_67	Map070.json	0	dialogue	…こりゃまたスゲーのが飛んで来たぜ。	...Well, here comes another huge one.
-MAP70_e25_p1_68	Map070.json	0	dialogue	ありゃあ…　イヌ…？みてーな形してんなー？	
+MAP70_e25_p1_68	Map070.json	0	dialogue	ありゃあ…　イヌ…？みてーな形してんなー？	Well now... that's shaped like a dog...?
 MAP70_e25_p1_70	Map070.json	0	dialogue	ナガレ：	Nagare:
 MAP70_e25_p1_71	Map070.json	0	dialogue	あれもさっさと片付けて、闇も封じて…	Let's deal with that one quick, seal away the Dark...
 MAP70_e25_p1_72	Map070.json	0	dialogue	これを終わりにするぞ！！	and end all this!!
@@ -9791,8 +9791,8 @@ MAP70_e25_p1_93	Map070.json	0	dialogue	さっさと行こうぜ！　ウィン�
 MAP70_e25_p1_95	Map070.json	0	dialogue	ウィン：	Win:
 MAP70_e25_p1_99	Map070.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた	Win nodded
 MAP70_e6_p0_1	Map070.json	0	dialogue	ナガレ：	Nagare:
-MAP70_e6_p0_2	Map070.json	0	dialogue	かなり崩壊している…	
-MAP70_e6_p0_3	Map070.json	0	dialogue	これ以上近付くのは危険だ。	
+MAP70_e6_p0_2	Map070.json	0	dialogue	かなり崩壊している…	It's quite collapsed...
+MAP70_e6_p0_3	Map070.json	0	dialogue	これ以上近付くのは危険だ。	Getting any closer is dangerous.
 MAP71_e14_p0_1	Map071.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP71_e15_p0_1	Map071.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP71_e16_p0_1	Map071.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -9801,9 +9801,9 @@ MAP71_e17_p1_2	Map071.json	0	dialogue	ここから南…フレイム砂漠はマ
 MAP71_e17_p1_3	Map071.json	0	dialogue	そんで魔物も強い。野盗も出る。	And the monsters are strong. Bandits too.
 MAP71_e17_p1_4	Map071.json	0	dialogue	ウィン、マジで気をつけて行けよ。	Win, be really careful out there.
 MAP71_e17_p2_1	Map071.json	0	dialogue	関所の見張りノーマン：	Norman, Gate Watchman:
-MAP71_e17_p2_2	Map071.json	0	dialogue	ここも近々閉鎖されると思うよ…	
-MAP71_e17_p2_3	Map071.json	0	dialogue	火の岩もそうだけれど…	
-MAP71_e17_p2_4	Map071.json	0	dialogue	魔物の侵入を防げなくなってきたんだ。	
+MAP71_e17_p2_2	Map071.json	0	dialogue	ここも近々閉鎖されると思うよ…	I think this place will be closed soon too...
+MAP71_e17_p2_3	Map071.json	0	dialogue	火の岩もそうだけれど…	Same with the fire rocks...
+MAP71_e17_p2_4	Map071.json	0	dialogue	魔物の侵入を防げなくなってきたんだ。	we can no longer keep monsters out.
 MAP71_e18_p0_1	Map071.json	0	dialogue	フレイムの民バス：	Bas, Flame Citizen:
 MAP71_e18_p0_2	Map071.json	0	dialogue	いやあまいったよー	Man, this is rough.
 MAP71_e18_p0_3	Map071.json	0	dialogue	こう入出国が厳しいとなると	With entry and exit being this strict,
@@ -9818,9 +9818,9 @@ MAP71_e22_p0_4	Map071.json	0	dialogue	ならなそうじゃのう	before sundown
 MAP71_e23_p0_1	Map071.json	0	dialogue	宿屋の子ストール：	Stall, Inn Helper:
 MAP71_e23_p0_2	Map071.json	0	dialogue	騎士さまも　とおせんぼされたの？	Did they stop you too, Sir Knight?
 MAP71_e23_p0_3	Map071.json	0	dialogue	だったらうちの宿に泊まっていきなよ！	Then stay at our inn!
-MAP71_e7_p1_2	Map071.json	0	dialogue	　　　　　　　　　　閉店しました	
-MAP71_e7_p1_3	Map071.json	0	dialogue	　　　　　　　　　…と、書いてある	
-MAP71_e8_p1_2	Map071.json	0	dialogue	　　　　　扉が打ちつけられていて開かない	
+MAP71_e7_p1_2	Map071.json	0	dialogue	　　　　　　　　　　閉店しました	Closed
+MAP71_e7_p1_3	Map071.json	0	dialogue	　　　　　　　　　…と、書いてある	...it says.
+MAP71_e8_p1_2	Map071.json	0	dialogue	　　　　　扉が打ちつけられていて開かない	The door is nailed shut and won't open.
 MAP71_e9_p0_1	Map071.json	0	dialogue	関所の見張りノーマン：	Norman, Gate Watchman:
 MAP71_e9_p0_2	Map071.json	0	dialogue	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP71_e9_p0_3	Map071.json	0	dialogue	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
@@ -9852,18 +9852,18 @@ MAP72_e10_p0_4_c1	Map072.json	choice	choice	また今度で	Some other time
 MAP72_e10_p0_7	Map072.json	1	dialogue	うーむ　むむむむ…　見えてきた	Hmm, mmm... I can see it now.
 MAP72_e10_p0_9	Map072.json	1	dialogue	ヘビに噛まれるのが見えるー…	I see you getting bitten by a snake~...
 MAP72_e11_p0_1	Map072.json	0	dialogue	市民エヴァ：	Eva, Citizen:
-MAP72_e11_p0_2	Map072.json	0	dialogue	んー？あら、ウィンじゃないか！	
-MAP72_e11_p0_3	Map072.json	0	dialogue	元気だったかい？	
+MAP72_e11_p0_2	Map072.json	0	dialogue	んー？あら、ウィンじゃないか！	Hm? Oh, if it isn't Win!
+MAP72_e11_p0_3	Map072.json	0	dialogue	元気だったかい？	Been well?
 MAP72_e11_p0_5	Map072.json	0	dialogue	市民エヴァ：	Eva, Citizen:
-MAP72_e11_p0_6	Map072.json	0	dialogue	あたしらは街に嵐がきたときに避難してきた	
-MAP72_e11_p0_7	Map072.json	0	dialogue	んだけれど…　この通りどこへも行けずじまい	
-MAP72_e11_p0_8	Map072.json	0	dialogue	になっちまったよ。バカだねえ	
+MAP72_e11_p0_6	Map072.json	0	dialogue	あたしらは街に嵐がきたときに避難してきた	We took shelter when the storm hit the town,
+MAP72_e11_p0_7	Map072.json	0	dialogue	んだけれど…　この通りどこへも行けずじまい	but... as you can see, we're stuck
+MAP72_e11_p0_8	Map072.json	0	dialogue	になっちまったよ。バカだねえ	with nowhere to go. Silly us.
 MAP72_e12_p0_1	Map072.json	0	dialogue	市民デイビッド：	David, Citizen:
-MAP72_e12_p0_2	Map072.json	0	dialogue	おお、ウィン…！	
-MAP72_e12_p0_3	Map072.json	0	dialogue	勇者様なんだってなあ	
-MAP72_e12_p0_4	Map072.json	0	dialogue	…立派になって！	
-MAP72_e12_p0_6	Map072.json	0	dialogue	もう、以前のウィンとは見違えるのう…	
-MAP72_e12_p0_7	Map072.json	0	dialogue	お前に会えて、希望が持てたぞ…	
+MAP72_e12_p0_2	Map072.json	0	dialogue	おお、ウィン…！	Oh, Win...!
+MAP72_e12_p0_3	Map072.json	0	dialogue	勇者様なんだってなあ	So you're a hero now, they say.
+MAP72_e12_p0_4	Map072.json	0	dialogue	…立派になって！	...You've become quite the man!
+MAP72_e12_p0_6	Map072.json	0	dialogue	もう、以前のウィンとは見違えるのう…	You're a far cry from the Win of old...
+MAP72_e12_p0_7	Map072.json	0	dialogue	お前に会えて、希望が持てたぞ…	Seeing you gives me hope...
 MAP72_e13_p0_1	Map072.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP72_e14_p0_1	Map072.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP72_e15_p0_1	Map072.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -9919,10 +9919,10 @@ MAP74_e11_p0_1	Map074.json	0	dialogue	持ち出して役に立つようなもの
 MAP74_e12_p0_1	Map074.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP74_e13_p0_1	Map074.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP74_e14_p0_1	Map074.json	0	dialogue	採石場のヤルモリ：	Yarmori, Quarry Worker:
-MAP74_e14_p0_2	Map074.json	0	dialogue	この辺りはほとんど洪水の影響ないよ。	
-MAP74_e14_p0_3	Map074.json	0	dialogue	だけど、しばらく石堀りはお休みだな。	
-MAP74_e14_p0_4	Map074.json	0	dialogue	魔物が増えてるから。	
-MAP74_e14_p0_6	Map074.json	0	dialogue	ああ、完成した橋なら、南に行けばすぐ分かる。	
+MAP74_e14_p0_2	Map074.json	0	dialogue	この辺りはほとんど洪水の影響ないよ。	This area's barely affected by the flood.
+MAP74_e14_p0_3	Map074.json	0	dialogue	だけど、しばらく石堀りはお休みだな。	But quarrying's on hold for a while.
+MAP74_e14_p0_4	Map074.json	0	dialogue	魔物が増えてるから。	Because of the monsters.
+MAP74_e14_p0_6	Map074.json	0	dialogue	ああ、完成した橋なら、南に行けばすぐ分かる。	Ah, the finished bridge—head south and you'll spot it right away.
 MAP74_e4_p0_1	Map074.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi, Quarry Owner:
 MAP74_e4_p0_2	Map074.json	0	dialogue	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP74_e4_p0_3	Map074.json	0	dialogue	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
@@ -9976,28 +9976,28 @@ MAP74_e5_p1_5_c1	Map074.json	choice	choice	遠慮しておきます	I'll pass
 MAP74_e6_p0_1	Map074.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP74_e7_p0_2	Map074.json	0	dialogue	　　　　セイリューとの連絡に用いられている手紙類だ	These are letters used to keep in touch with Seiryu.
 MAP74_e8_p0_2	Map074.json	0	dialogue	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
-MAP74_e9_p0_2	Map074.json	0	dialogue	　　　　　　　　　編みかけのマフラーだ	
+MAP74_e9_p0_2	Map074.json	0	dialogue	　　　　　　　　　編みかけのマフラーだ	It's a half-knitted scarf.
 MAP75_e10_p0_1	Map075.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e12_p0_1	Map075.json	0	dialogue	休憩中の兵トム：	Tom, Off-Duty Soldier:
-MAP75_e12_p0_11	Map075.json	1	dialogue	ちなみに、転倒させられるスキルも、	
-MAP75_e12_p0_12	Map075.json	1	dialogue	使えるのは槍だけだ。	
-MAP75_e12_p0_13	Map075.json	1	dialogue	転倒させれば味方全体の通常攻撃の威力が	
-MAP75_e12_p0_14	Map075.json	1	dialogue	増すから、EP節約にもなるぜ！	
-MAP75_e12_p0_18	Map075.json	1	dialogue	まあ確かに、スキルとかも他の武器の方が	
-MAP75_e12_p0_19	Map075.json	1	dialogue	使いやすかったりするよな。	
-MAP75_e12_p0_2	Map075.json	0	dialogue	ウィン！　どうだい、槍は使ってる？	
-MAP75_e12_p0_20	Map075.json	1	dialogue	だけどお前、紋章ですばやく動けるだろ？	
-MAP75_e12_p0_21	Map075.json	1	dialogue	だから槍の重さも気にならないはずだ。	
-MAP75_e12_p0_23	Map075.json	1	dialogue	重さが気にならないとなれば、槍は単純に、	
-MAP75_e12_p0_24	Map075.json	1	dialogue	素の威力が高いダガー、レイピアと同じだ。	
-MAP75_e12_p0_25	Map075.json	1	dialogue	会心率を考えれば、実は最強の威力の武器	
-MAP75_e12_p0_26	Map075.json	1	dialogue	にもなるんだぜ？	
-MAP75_e12_p0_3	Map075.json	0	dialogue	いまはどっち派だい？	
+MAP75_e12_p0_11	Map075.json	1	dialogue	ちなみに、転倒させられるスキルも、	By the way, skills that can knock down enemies
+MAP75_e12_p0_12	Map075.json	1	dialogue	使えるのは槍だけだ。	can only be used with a spear.
+MAP75_e12_p0_13	Map075.json	1	dialogue	転倒させれば味方全体の通常攻撃の威力が	Knocking them down boosts the whole party's
+MAP75_e12_p0_14	Map075.json	1	dialogue	増すから、EP節約にもなるぜ！	normal attack power—saves EP too!
+MAP75_e12_p0_18	Map075.json	1	dialogue	まあ確かに、スキルとかも他の武器の方が	True, other weapons do have easier-to-use
+MAP75_e12_p0_19	Map075.json	1	dialogue	使いやすかったりするよな。	skills and such.
+MAP75_e12_p0_2	Map075.json	0	dialogue	ウィン！　どうだい、槍は使ってる？	Win! How's it going—using the spear?
+MAP75_e12_p0_20	Map075.json	1	dialogue	だけどお前、紋章ですばやく動けるだろ？	But you can move quickly with your crest, right?
+MAP75_e12_p0_21	Map075.json	1	dialogue	だから槍の重さも気にならないはずだ。	So the spear's weight shouldn't bother you.
+MAP75_e12_p0_23	Map075.json	1	dialogue	重さが気にならないとなれば、槍は単純に、	With no weight issue, the spear is simply
+MAP75_e12_p0_24	Map075.json	1	dialogue	素の威力が高いダガー、レイピアと同じだ。	a dagger or rapier with higher base power.
+MAP75_e12_p0_25	Map075.json	1	dialogue	会心率を考えれば、実は最強の威力の武器	Factoring in crit rate, it's actually one of
+MAP75_e12_p0_26	Map075.json	1	dialogue	にもなるんだぜ？	the strongest weapons around, you know?
+MAP75_e12_p0_3	Map075.json	0	dialogue	いまはどっち派だい？	Which side are you on now?
 MAP75_e12_p0_4_c0	Map075.json	choice	choice	槍派だね	You're a spear man
 MAP75_e12_p0_4_c1	Map075.json	choice	choice	槍は使わない	I don't use spears
-MAP75_e12_p0_7	Map075.json	1	dialogue	やっぱりな！	
-MAP75_e12_p0_8	Map075.json	1	dialogue	特に紋章の力で素早く動けるお前なら、	
-MAP75_e12_p0_9	Map075.json	1	dialogue	槍の取り回しの悪さもほとんど影響しないしな	
+MAP75_e12_p0_7	Map075.json	1	dialogue	やっぱりな！	Just as I thought!
+MAP75_e12_p0_8	Map075.json	1	dialogue	特に紋章の力で素早く動けるお前なら、	Especially with your crest-powered speed,
+MAP75_e12_p0_9	Map075.json	1	dialogue	槍の取り回しの悪さもほとんど影響しないしな	the spear's unwieldiness barely matters.
 MAP75_e13_p0_1	Map075.json	0	dialogue	『七転び七起きれず』	"""Seven Falls, Can't Get Up Eight Times"""
 MAP75_e13_p0_10	Map075.json	1	dialogue	毒にかかったり、眠ってしまったり、混乱したり…	Getting poisoned, falling asleep, being confused...
 MAP75_e13_p0_11	Map075.json	1	dialogue	そういった状態異常は、すぐに死にはつながらないが、	These ailments won't kill you right away, but
@@ -10059,13 +10059,13 @@ MAP75_e18_p0_7	Map075.json	1	dialogue	中型、大型の盾とは異なった技
 MAP75_e18_p0_8	Map075.json	1	dialogue	受け止めるのではなく、受け流す、絡めとるなどして、	Rather than blocking, it deflects and entangles,
 MAP75_e18_p0_9	Map075.json	1	dialogue	回避やカウンターの布石にする盾である。	serving as a setup for evasions and counters.
 MAP75_e3_p0_1	Map075.json	0	dialogue	駐屯隊長ジョセフ：	Joseph, Garrison Captain:
-MAP75_e3_p0_2	Map075.json	0	dialogue	ウィン、いまのところ街は大丈夫だ。	
-MAP75_e3_p0_3	Map075.json	0	dialogue	各家の見回りも計画通り出来ている。	
-MAP75_e3_p0_4	Map075.json	0	dialogue	略奪等の悪さも、一件もない。	
+MAP75_e3_p0_2	Map075.json	0	dialogue	ウィン、いまのところ街は大丈夫だ。	Win, the town's fine for now.
+MAP75_e3_p0_3	Map075.json	0	dialogue	各家の見回りも計画通り出来ている。	House-to-house patrols are on schedule.
+MAP75_e3_p0_4	Map075.json	0	dialogue	略奪等の悪さも、一件もない。	Not a single case of looting or mischief.
 MAP75_e3_p0_6	Map075.json	0	dialogue	駐屯隊長ジョセフ：	Joseph, Garrison Captain:
-MAP75_e3_p0_7	Map075.json	0	dialogue	それより、お前んちの親御さん、城で	
-MAP75_e3_p0_8	Map075.json	0	dialogue	働いてるってな。みんなうまいパンが	
-MAP75_e3_p0_9	Map075.json	0	dialogue	食べられるってよろこんでるよ。	
+MAP75_e3_p0_7	Map075.json	0	dialogue	それより、お前んちの親御さん、城で	Anyway, your parents work at the castle, don't they.
+MAP75_e3_p0_8	Map075.json	0	dialogue	働いてるってな。みんなうまいパンが	Everyone's delighted they can eat
+MAP75_e3_p0_9	Map075.json	0	dialogue	食べられるってよろこんでるよ。	their good bread.
 MAP75_e4_p0_1	Map075.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e5_p0_1	Map075.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e6_p0_1	Map075.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -10090,7 +10090,7 @@ MAP76_e29_p0_2	Map076.json	0	dialogue	紋章の継承者だと、暗黒大陸の
 MAP76_e29_p0_3	Map076.json	0	dialogue	って本当か？　羨ましいな…	on crest inheritors? Lucky...
 MAP76_e29_p0_4	Map076.json	0	dialogue	誰も見たことのない土地へ行けるんだからな。	You get to go where no one's ever set foot.
 MAP76_e30_p0_1	Map076.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP76_e31_p0_2	Map076.json	0	dialogue	　　　　　　すごく強そうなお酒が入っている	
+MAP76_e31_p0_2	Map076.json	0	dialogue	　　　　　　すごく強そうなお酒が入っている	It's full of terrifyingly strong liquor.
 MAP76_e7_p0_1	Map076.json	0	dialogue	城門係スカイ：	Sky, Gatekeeper:
 MAP76_e7_p0_12	Map076.json	1	dialogue	ナガレ：	Nagare:
 MAP76_e7_p0_13	Map076.json	1	dialogue	騎士団のみんな、橋の警備よろしくな！	Knight Order, the bridge guard is in your hands!
@@ -10102,10 +10102,10 @@ MAP76_e7_p0_7	Map076.json	1	dialogue	おっ！　なんだそれ！	Oh! What's t
 MAP76_e7_p0_8	Map076.json	1	dialogue	騎士団はそうやってあいさつすんのか！？	Is that how the knight order greets people!?
 MAP76_e8_p0_1	Map076.json	0	dialogue	城門係クロウ：	Crow, Gatekeeper:
 MAP76_e8_p0_2	Map076.json	0	dialogue	継承者御一行様、お通りー！	Make way for the inheritors—!
-MAP77_e10_p0_2	Map077.json	0	dialogue	　　　　　　固いパンがたくさん入っている	
+MAP77_e10_p0_2	Map077.json	0	dialogue	　　　　　　固いパンがたくさん入っている	It's full of hard bread.
 MAP77_e11_p0_1	Map077.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP77_e3_p0_1	Map077.json	0	dialogue	サクソン：	Saxon:
-MAP77_e3_p0_12	Map077.json	0	dialogue	　　　　　　　ウィンは蜻蛉斬を受け取った！	
+MAP77_e3_p0_12	Map077.json	0	dialogue	　　　　　　　ウィンは蜻蛉斬を受け取った！	Win received a Tonbogiri!
 MAP77_e3_p0_15	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p0_16	Map077.json	0	dialogue	この巨大な槍はわしが若い頃から愛用していた	This great spear has been my beloved weapon
 MAP77_e3_p0_17	Map077.json	0	dialogue	すごく強力な槍だ！	since my youth—a very powerful spear!
@@ -10124,7 +10124,7 @@ MAP77_e3_p0_6	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p0_7	Map077.json	0	dialogue	そうだ、ウィン！	Oh, right, Win!
 MAP77_e3_p0_8	Map077.json	0	dialogue	お前に良いものをやろう！	I'll give you something good!
 MAP77_e3_p1_1	Map077.json	0	dialogue	サクソン：	Saxon:
-MAP77_e3_p1_12	Map077.json	0	dialogue	　　　　ウィンは本物の蜻蛉斬を受け取った！	
+MAP77_e3_p1_12	Map077.json	0	dialogue	　　　　ウィンは本物の蜻蛉斬を受け取った！	Win received a genuine Tonbogiri!
 MAP77_e3_p1_15	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p1_16	Map077.json	0	dialogue	この巨大な槍はわしが若い頃から愛用していた	This great spear has been my beloved weapon
 MAP77_e3_p1_17	Map077.json	0	dialogue	すごく強力な槍だ！	since my youth—a very powerful spear!
@@ -10147,29 +10147,29 @@ MAP77_e3_p2_2	Map077.json	0	dialogue	人数は足りないが…	We're short on 
 MAP77_e3_p2_3	Map077.json	0	dialogue	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
 MAP77_e3_p2_4	Map077.json	0	dialogue	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p2_6	Map077.json	0	dialogue	サクソン：	Saxon:
-MAP77_e3_p2_7	Map077.json	0	dialogue	セイリューから支給されたライスボールで	
-MAP77_e3_p2_8	Map077.json	0	dialogue	我が兵たちの士気も上々！	
-MAP77_e3_p2_9	Map077.json	0	dialogue	ここはわしらに安心してまかせい！	
+MAP77_e3_p2_7	Map077.json	0	dialogue	セイリューから支給されたライスボールで	With the Rice Balls supplied by Seiryu,
+MAP77_e3_p2_8	Map077.json	0	dialogue	我が兵たちの士気も上々！	our soldiers' morale is high!
+MAP77_e3_p2_9	Map077.json	0	dialogue	ここはわしらに安心してまかせい！	Leave this to us without worry!
 MAP77_e4_p0_1	Map077.json	0	dialogue	橋の警備兵ネサン：	Nesan, Bridge Guard:
-MAP77_e4_p0_2	Map077.json	0	dialogue	昨日なんかめちゃくちゃ火吐くイヌ来ました！	
-MAP77_e4_p0_3	Map077.json	0	dialogue	やばいっすよアレ！！	
+MAP77_e4_p0_2	Map077.json	0	dialogue	昨日なんかめちゃくちゃ火吐くイヌ来ました！	Yesterday, a dog that spits fire like crazy showed up!
+MAP77_e4_p0_3	Map077.json	0	dialogue	やばいっすよアレ！！	That thing's no joke!!
 MAP77_e5_p0_1	Map077.json	0	dialogue	橋の警備兵ハサン：	Hasan, Bridge Guard:
-MAP77_e5_p0_2	Map077.json	0	dialogue	ちょっと剣が足りないすねー	
-MAP77_e5_p0_3	Map077.json	0	dialogue	魔物が固くってすぐ刃こぼれしちゃうんすよ	
+MAP77_e5_p0_2	Map077.json	0	dialogue	ちょっと剣が足りないすねー	We're a bit short on swords, you know~
+MAP77_e5_p0_3	Map077.json	0	dialogue	魔物が固くってすぐ刃こぼれしちゃうんすよ	The monsters are so tough, our blades chip right away.
 MAP77_e6_p0_1	Map077.json	0	dialogue	新参兵のトール：	Thor, New Recruit:
 MAP77_e6_p0_13	Map077.json	1	dialogue	新参兵のトール：	Thor, New Recruit:
-MAP77_e6_p0_14	Map077.json	1	dialogue	は、はははは、はひいひいいいいいいいい！！！	
-MAP77_e6_p0_2	Map077.json	0	dialogue	あ…騎士さまお疲れ様です！！	
-MAP77_e6_p0_3	Map077.json	0	dialogue	ぼく新人のトールです……！！	
+MAP77_e6_p0_14	Map077.json	1	dialogue	は、はははは、はひいひいいいいいいいい！！！	H-Hahaha, haaahiii!!!
+MAP77_e6_p0_2	Map077.json	0	dialogue	あ…騎士さまお疲れ様です！！	Ah... Sir Knight, good work out there!!
+MAP77_e6_p0_3	Map077.json	0	dialogue	ぼく新人のトールです……！！	I'm Thor, the new recruit......!!
 MAP77_e6_p0_4_c0	Map077.json	choice	choice	よろしく	Nice to meet you
 MAP77_e6_p0_4_c1	Map077.json	choice	choice	しっかりしろ	Pull yourself together
 MAP77_e6_p0_7	Map077.json	1	dialogue	新参兵のトール：	Thor, New Recruit:
-MAP77_e6_p0_8	Map077.json	1	dialogue	ふわあああおおおおおおおおおおお！！	
+MAP77_e6_p0_8	Map077.json	1	dialogue	ふわあああおおおおおおおおおおお！！	Fwaaaaooooooh!!
 MAP77_e6_p0_9	Map077.json	1	dialogue	よろしくおなながいいしままーーーーす！！！	
-MAP77_e7_p0_2	Map077.json	0	dialogue	　　　　　　刃こぼれした剣が乱雑にしまってある	
+MAP77_e7_p0_2	Map077.json	0	dialogue	　　　　　　刃こぼれした剣が乱雑にしまってある	Chipped swords are stored here, carelessly.
 MAP77_e8_p0_1	Map077.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP77_e9_p0_2	Map077.json	0	dialogue	　　　　　　　　中にはコメが入っている	
-MAP78_e1_p0_11	Map078.json	0	dialogue	ツヴァイハンダーを手に入れた！	
+MAP77_e9_p0_2	Map077.json	0	dialogue	　　　　　　　　中にはコメが入っている	There's rice inside.
+MAP78_e1_p0_11	Map078.json	0	dialogue	ツヴァイハンダーを手に入れた！	Obtained a Zweihander!
 MAP78_e2_p0_11	Map078.json	0	dialogue	にっかり青江を手に入れた！	Obtained Nikkari Aoe!
 MAP78_e3_p0_2	Map078.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP78_e3_p0_3	Map078.json	0	dialogue	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
@@ -10233,7 +10233,7 @@ MAP78_e7_p0_21	Map078.json	0	dialogue	なんか建物とかも…見た事ねえ
 MAP78_e7_p0_22	Map078.json	0	dialogue	オレらもしかして、歴史上の大発見してる…？	Are we making a huge historical discovery...?
 MAP78_e7_p0_24	Map078.json	0	dialogue	ナガレ：	Nagare:
 MAP78_e7_p0_25	Map078.json	0	dialogue	そうかもな。	Maybe.
-MAP78_e8_p0_11	Map078.json	0	dialogue	グラディウスを手に入れた！	
+MAP78_e8_p0_11	Map078.json	0	dialogue	グラディウスを手に入れた！	Obtained a Gladius!
 MAP79_e1_p0_100	Map079.json	0	dialogue	色々教えてあげちゃっても構わないんだよねえ。	I don't mind telling you all sorts of things, you know.
 MAP79_e1_p0_102	Map079.json	0	dialogue	ナガレ：	Nagare:
 MAP79_e1_p0_103	Map079.json	0	dialogue	ホノオ、乗せられるなって！	Hono, don't get roped in!
@@ -10304,7 +10304,7 @@ MAP79_e1_p0_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギ�
 MAP79_e1_p0_184	Map079.json	0	dialogue	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p0_186	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p0_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
-MAP79_e1_p0_188	Map079.json	0	dialogue	から生まれ出た闇の結晶に過ぎない…	
+MAP79_e1_p0_188	Map079.json	0	dialogue	から生まれ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
 MAP79_e1_p0_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
 MAP79_e1_p0_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
 MAP79_e1_p0_191	Map079.json	0	dialogue	ピケピケ：	Pikepike:
@@ -10556,7 +10556,7 @@ MAP79_e1_p1_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギ�
 MAP79_e1_p1_184	Map079.json	0	dialogue	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p1_186	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p1_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
-MAP79_e1_p1_188	Map079.json	0	dialogue	から生れ出た闇の結晶に過ぎない…	
+MAP79_e1_p1_188	Map079.json	0	dialogue	から生れ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
 MAP79_e1_p1_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
 MAP79_e1_p1_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
 MAP79_e1_p1_191	Map079.json	0	dialogue	ピケピケ：	Pikepike:
@@ -10746,8 +10746,8 @@ MAP79_e1_p2_21	Map079.json	0	dialogue	そして夢…　願い…　熱い思い
 MAP79_e1_p2_23	Map079.json	0	dialogue	大魔道士ピケピケ：	Grand Mage Pikepike:
 MAP79_e1_p2_24	Map079.json	0	dialogue	すべて出し切ったああああああああ！！！！	I've poured it ALL out—!!!
 MAP79_e1_p2_5	Map079.json	0	dialogue	大魔道士ピケピケ：	Grand Mage Pikepike:
-MAP79_e1_p2_6	Map079.json	0	dialogue	ではではではー………	
-MAP79_e1_p2_7	Map079.json	0	dialogue	さらば！！	
+MAP79_e1_p2_6	Map079.json	0	dialogue	ではではではー………	Well then, then, then...
+MAP79_e1_p2_7	Map079.json	0	dialogue	さらば！！	Farewell!!
 MAP79_e1_p2_8	Map079.json	0	dialogue	世界よ…………グッドバイ！！！！！！！！！	World... good... bye!!!!!!!
 MAP79_e1_p3_14	Map079.json	0	dialogue	大魔道士ピケピケ：	Grand Mage Pikepike:
 MAP79_e1_p3_15	Map079.json	0	dialogue	だ……出し切ったああああああああああああ	I've...... poured it all out—!!
@@ -10758,30 +10758,30 @@ MAP79_e1_p3_21	Map079.json	0	dialogue	大魔道士ピケピケ：	Grand Mage Pik
 MAP79_e1_p3_22	Map079.json	0	dialogue	すべて出し切ったああああああああ！！！！	I've poured it ALL out—!!!
 MAP79_e1_p3_5	Map079.json	0	dialogue	大魔道士ピケピケ：	Grand Mage Pikepike:
 MAP79_e1_p3_6	Map079.json	0	dialogue	世界よ…………グッドバイ！！！！！！！！！	World... good... bye!!!!!!!
-MAP79_e1_p4_10	Map079.json	0	dialogue	…なんだ？	
+MAP79_e1_p4_10	Map079.json	0	dialogue	…なんだ？	...What?
 MAP79_e1_p4_12	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p4_13	Map079.json	0	dialogue	最後に………　一回でいい……	
-MAP79_e1_p4_14	Map079.json	0	dialogue	私の名前をちゃんと呼んでくれえええ………！	
+MAP79_e1_p4_13	Map079.json	0	dialogue	最後に………　一回でいい……	At the end...... just once...
+MAP79_e1_p4_14	Map079.json	0	dialogue	私の名前をちゃんと呼んでくれえええ………！	call my name properly......!
 MAP79_e1_p4_16	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p4_17	Map079.json	0	dialogue	…え、いや…　	
-MAP79_e1_p4_18	Map079.json	0	dialogue	でもうまく呼べる気が一切しないんだよな…	
+MAP79_e1_p4_17	Map079.json	0	dialogue	…え、いや…　	...Uh, well...
+MAP79_e1_p4_18	Map079.json	0	dialogue	でもうまく呼べる気が一切しないんだよな…	but I don't think I can say it right at all...
 MAP79_e1_p4_2	Map079.json	0	dialogue	ホノオ：	Hono:
 MAP79_e1_p4_20	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p4_21	Map079.json	0	dialogue	ごめん	
+MAP79_e1_p4_21	Map079.json	0	dialogue	ごめん	Sorry.
 MAP79_e1_p4_23	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p4_24	Map079.json	0	dialogue	ゆっくり言うから……！！	
-MAP79_e1_p4_25	Map079.json	0	dialogue	最後のちからを振り絞って…一回だけ言うから	
+MAP79_e1_p4_24	Map079.json	0	dialogue	ゆっくり言うから……！！	I'll say it slowly......!!
+MAP79_e1_p4_25	Map079.json	0	dialogue	最後のちからを振り絞って…一回だけ言うから	With my last strength... I'll say it just once,
 MAP79_e1_p4_27	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p4_28	Map079.json	0	dialogue	よく…　聞いてね……　いい…か…？	
-MAP79_e1_p4_3	Map079.json	0	dialogue	…めちゃくちゃ強かったぜ…　ピ…ピｋ…！！	
+MAP79_e1_p4_28	Map079.json	0	dialogue	よく…　聞いてね……　いい…か…？	so listen... closely...... alright......?
+MAP79_e1_p4_3	Map079.json	0	dialogue	…めちゃくちゃ強かったぜ…　ピ…ピｋ…！！	...You were incredibly strong... Pi... Pik...!!
 MAP79_e1_p4_30	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p4_31	Map079.json	0	dialogue	…え、お、おう…！	
+MAP79_e1_p4_31	Map079.json	0	dialogue	…え、お、おう…！	...Eh, o-oh...!
 MAP79_e1_p4_33	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p4_34	Map079.json	0	dialogue	わ…　私の名前は………………	
+MAP79_e1_p4_34	Map079.json	0	dialogue	わ…　私の名前は………………	M-My name is..............
 MAP79_e1_p4_36	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p4_37	Map079.json	0	dialogue	ピ………ＱＥ…　ピ……Ｑ………	
+MAP79_e1_p4_37	Map079.json	0	dialogue	ピ………ＱＥ…　ピ……Ｑ………	Pi...... QE... Pi...... Q.........
 MAP79_e1_p4_39	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p4_40	Map079.json	0	dialogue	ウッ！！！！！！！！！！！！！！！！	
+MAP79_e1_p4_40	Map079.json	0	dialogue	ウッ！！！！！！！！！！！！！！！！	UGH!!!!!!!!!!!!!
 MAP79_e1_p4_5	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p4_6	Map079.json	0	dialogue	人間たちよ…　最後に………	
 MAP79_e1_p4_7	Map079.json	0	dialogue	ひとつだけ………	

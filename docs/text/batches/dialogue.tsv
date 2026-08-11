@@ -6472,27 +6472,27 @@ MAP67_e25_p0_20	俺ら兵士や騎士には、役に立ちません。	doesn't d
 MAP67_e25_p0_21	お店で売ってお金に変えた方がいいですよ？	Better to sell them at a shop and turn them into money, right?
 MAP67_e25_p0_3	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
 MAP67_e25_p0_4	ちゃんと売ってますよね？	You are selling properly, right?
-MAP67_e25_p1_12	そうでしょう？	
-MAP67_e25_p1_13	確かに魔物がお金持ってるわけないですけど、	
-MAP67_e25_p1_14	そんなところまでリアルにしなくてもなあ…	
-MAP67_e25_p1_19	そうですかー？	
+MAP67_e25_p1_12	そうでしょう？	Right?
+MAP67_e25_p1_13	確かに魔物がお金持ってるわけないですけど、	True, monsters don't carry money, but
+MAP67_e25_p1_14	そんなところまでリアルにしなくてもなあ…	they didn't have to make it that realistic...
+MAP67_e25_p1_19	そうですかー？	Is that so?
 MAP67_e25_p1_2	ウィンさん、魔物をたおしたときにたまに	Win, sometimes when you defeat monsters,
-MAP67_e25_p1_20	まあ、店でまとめて売って、一気にお金持ちに	
-MAP67_e25_p1_21	なるの、ちょっと楽しいですよね…	
+MAP67_e25_p1_20	まあ、店でまとめて売って、一気にお金持ちに	Well, selling it all at a shop and getting rich
+MAP67_e25_p1_21	なるの、ちょっと楽しいですよね…	all at once is kind of fun...
 MAP67_e25_p1_3	手に入る、魔物の素材とか財宝…	you get monster materials or treasure...
-MAP67_e25_p1_4	いちいち売るの面倒ですよねえ？	
-MAP68_e2_p1_14	…ロイ騎士団長がお呼びだ。	
-MAP68_e2_p1_15	先日の光の柱の件で、話があるらしい…。	
+MAP67_e25_p1_4	いちいち売るの面倒ですよねえ？	Selling them one by one is a hassle, right?
+MAP68_e2_p1_14	…ロイ騎士団長がお呼びだ。	...Commander Roi summons you.
+MAP68_e2_p1_15	先日の光の柱の件で、話があるらしい…。	It seems there's word about the Pillar of Light...
 MAP68_e2_p1_23	　　　　　　　　　ウィンは頷いた	Win nodded
-MAP68_e2_p1_7	…ウィン、外は危ないぞ。	
-MAP68_e2_p1_8	長居するのはよくないと、忠告させてもらう。	
-MAP69_e1_p0_12	　　　　　　　　　　南の暗黒大陸に	
-MAP69_e1_p0_14	　　　　　　　　巨大な光の柱が立つのを	
-MAP69_e1_p0_16	　　　　　　　　　　　見るまでは…	
+MAP68_e2_p1_7	…ウィン、外は危ないぞ。	...Win, it's dangerous out there.
+MAP68_e2_p1_8	長居するのはよくないと、忠告させてもらう。	I'd advise you not to linger long.
+MAP69_e1_p0_12	　　　　　　　　　　南の暗黒大陸に	Over the southern Dark Continent,
+MAP69_e1_p0_14	　　　　　　　　巨大な光の柱が立つのを	a colossal pillar of light
+MAP69_e1_p0_16	　　　　　　　　　　　見るまでは…	before they saw it rise...
 MAP70_e11_p1_2	…街には入らない方がいい、ウィン…	...Better not go into town, Win...
 MAP70_e11_p1_5	あのとき、燃え盛る岩がたくさん降ってきて…	Back then, burning rocks rained down in droves...
 MAP70_e11_p1_6	この街はがれきの山になってしまったんだ。	This town was reduced to a mountain of rubble.
-MAP70_e14_p0_2	いまはこんなところに用はないんじゃねーか？	
+MAP70_e14_p0_2	いまはこんなところに用はないんじゃねーか？	No business for you in a place like this now, is there?
 MAP70_e15_p0_103	ひ、ひでえ目にあった…	I-I had a terrible time...
 MAP70_e15_p0_106	きっとこの先、もっと酷い目が待ってる…	Surely worse awaits ahead...
 MAP70_e15_p0_107	何が起こるか分からないな…。	You never know what will happen...
@@ -6502,8 +6502,8 @@ MAP70_e15_p0_23	これは…	This is...
 MAP70_e15_p0_26	　　　　　　ウィンはシップウの魔法をおぼえた！	Win learned the Gale spell!
 MAP70_e15_p0_29	　　　　　ホノオはダイバクハツの魔法をおぼえた！	Hono learned the Great Explosion spell!
 MAP70_e15_p0_32	　　　　　ナガレはイヤシノアメの魔法をおぼえた！	Nagare learned the Healing Rain spell!
-MAP70_e15_p0_52	な、なんだ！？　紋章がずっと光ってるぞ！？	
-MAP70_e15_p0_55	　　　　ウィンたちのステータスが幾つかアップした！	
+MAP70_e15_p0_52	な、なんだ！？　紋章がずっと光ってるぞ！？	Wh-What!? The crest keeps glowing!?
+MAP70_e15_p0_55	　　　　ウィンたちのステータスが幾つかアップした！	Some of the party's stats increased!
 MAP70_e15_p0_62	なんだよ突然…この急激なパワーアップ感は…	What's with this sudden... surge of power...
 MAP70_e15_p0_63	いまならどんな敵が相手でも負ける気が…	Right now I feel like I could beat any enemy...
 MAP70_e15_p0_67	ちょっと黙れ、ホノオ！！	Quiet, Hono!!
@@ -6548,7 +6548,7 @@ MAP70_e25_p0_20	おい、まただ！　さっきよりも激しい…！	Hey, a
 MAP70_e25_p0_27	　　　　　ウィンはイカヅチの魔法をおぼえた！	Win learned the Thunderclap spell!
 MAP70_e25_p0_30	　　　　　ホノオはドコンジョウの魔法をおぼえた！	Hono learned the Guts spell!
 MAP70_e25_p0_33	　　ナガレはマンキンタンとツナミの魔法をおぼえた！	Nagare learned the Mankintan and Tsunami spells!
-MAP70_e25_p0_36	　　　　　全員のステータスが幾つかアップした！	
+MAP70_e25_p0_36	　　　　　全員のステータスが幾つかアップした！	Some of everyone's stats increased!
 MAP70_e25_p0_43	なんだこの感じ…　オレ強過ぎになったぞ！！	What is this feeling... I've gotten way too strong!!
 MAP70_e25_p0_46	…まるで神様にでもなったような、か…？	...It's like I've become a god or something...?
 MAP70_e25_p0_49	そんな感じだぜナガレ！	Exactly, Nagare!
@@ -6561,7 +6561,7 @@ MAP70_e25_p0_64	あ、ああ…　そうだったな…！	Ah, right... that's t
 MAP70_e25_p0_65	しかしこの無敵感は、確かにちょっとな…	But this feeling of invincibility is honestly...
 MAP70_e25_p0_66	不気味なくらいだぜー………	downright eerie.......
 MAP70_e25_p0_72	…こりゃまたスゲーのが飛んで来たぜ。	...Well, here comes another huge one.
-MAP70_e25_p0_73	ありゃあ…　龍みてーな形してんなー？	
+MAP70_e25_p0_73	ありゃあ…　龍みてーな形してんなー？	Well now... that's shaped like a dragon, huh?
 MAP70_e25_p0_76	あれもさっさと片付けて、闇も封じて…	Let's deal with that one quick, seal away the Dark...
 MAP70_e25_p0_77	これを終わりにするぞ！！	and end all this!!
 MAP70_e25_p0_86	これからあんなのがガンガンこの大陸に	From now on, things like that will keep slamming
@@ -6589,7 +6589,7 @@ MAP70_e25_p1_59	あ、ああ…　そうだったな…！	Ah, right... that's t
 MAP70_e25_p1_60	しかしこの無敵感は、確かにちょっとな…	But this feeling of invincibility is honestly...
 MAP70_e25_p1_61	不気味なくらいだぜー………	downright eerie.......
 MAP70_e25_p1_67	…こりゃまたスゲーのが飛んで来たぜ。	...Well, here comes another huge one.
-MAP70_e25_p1_68	ありゃあ…　イヌ…？みてーな形してんなー？	
+MAP70_e25_p1_68	ありゃあ…　イヌ…？みてーな形してんなー？	Well now... that's shaped like a dog...?
 MAP70_e25_p1_71	あれもさっさと片付けて、闇も封じて…	Let's deal with that one quick, seal away the Dark...
 MAP70_e25_p1_72	これを終わりにするぞ！！	and end all this!!
 MAP70_e25_p1_81	これからあんなのがガンガンこの大陸に	From now on, things like that will keep slamming
@@ -6602,17 +6602,17 @@ MAP70_e25_p1_91	そんなん言うなよ、ナガレ！	Don't say that, Nagare!
 MAP70_e25_p1_92	くっそーーーー………	Dammit.......
 MAP70_e25_p1_93	さっさと行こうぜ！　ウィン！！	Let's go already! Win!!
 MAP70_e25_p1_99	　　　　　　　　　　　ウィンは頷いた	Win nodded
-MAP70_e6_p0_2	かなり崩壊している…	
-MAP70_e6_p0_3	これ以上近付くのは危険だ。	
+MAP70_e6_p0_2	かなり崩壊している…	It's quite collapsed...
+MAP70_e6_p0_3	これ以上近付くのは危険だ。	Getting any closer is dangerous.
 MAP71_e14_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP71_e15_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP71_e16_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP71_e17_p1_2	ここから南…フレイム砂漠はマジで暑いぜ。	South of here... the Flame Desert is seriously hot.
 MAP71_e17_p1_3	そんで魔物も強い。野盗も出る。	And the monsters are strong. Bandits too.
 MAP71_e17_p1_4	ウィン、マジで気をつけて行けよ。	Win, be really careful out there.
-MAP71_e17_p2_2	ここも近々閉鎖されると思うよ…	
-MAP71_e17_p2_3	火の岩もそうだけれど…	
-MAP71_e17_p2_4	魔物の侵入を防げなくなってきたんだ。	
+MAP71_e17_p2_2	ここも近々閉鎖されると思うよ…	I think this place will be closed soon too...
+MAP71_e17_p2_3	火の岩もそうだけれど…	Same with the fire rocks...
+MAP71_e17_p2_4	魔物の侵入を防げなくなってきたんだ。	we can no longer keep monsters out.
 MAP71_e18_p0_2	いやあまいったよー	Man, this is rough.
 MAP71_e18_p0_3	こう入出国が厳しいとなると	With entry and exit being this strict,
 MAP71_e18_p0_4	商売あがったりさー	my business is going under.
@@ -6623,9 +6623,9 @@ MAP71_e22_p0_3	日が暮れる前に通れるようには	there's no way I'll ge
 MAP71_e22_p0_4	ならなそうじゃのう	before sundown.
 MAP71_e23_p0_2	騎士さまも　とおせんぼされたの？	Did they stop you too, Sir Knight?
 MAP71_e23_p0_3	だったらうちの宿に泊まっていきなよ！	Then stay at our inn!
-MAP71_e7_p1_2	　　　　　　　　　　閉店しました	
-MAP71_e7_p1_3	　　　　　　　　　…と、書いてある	
-MAP71_e8_p1_2	　　　　　扉が打ちつけられていて開かない	
+MAP71_e7_p1_2	　　　　　　　　　　閉店しました	Closed
+MAP71_e7_p1_3	　　　　　　　　　…と、書いてある	...it says.
+MAP71_e8_p1_2	　　　　　扉が打ちつけられていて開かない	The door is nailed shut and won't open.
 MAP71_e9_p0_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP71_e9_p0_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
 MAP71_e9_p0_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
@@ -6647,16 +6647,16 @@ MAP72_e10_p0_2	おー、騎士さま、ここでお会いしたのも運命！	O
 MAP72_e10_p0_3	よかったら占ってさしあげましょうぞ！	Shall I tell your fortune?
 MAP72_e10_p0_7	うーむ　むむむむ…　見えてきた	Hmm, mmm... I can see it now.
 MAP72_e10_p0_9	ヘビに噛まれるのが見えるー…	I see you getting bitten by a snake~...
-MAP72_e11_p0_2	んー？あら、ウィンじゃないか！	
-MAP72_e11_p0_3	元気だったかい？	
-MAP72_e11_p0_6	あたしらは街に嵐がきたときに避難してきた	
-MAP72_e11_p0_7	んだけれど…　この通りどこへも行けずじまい	
-MAP72_e11_p0_8	になっちまったよ。バカだねえ	
-MAP72_e12_p0_2	おお、ウィン…！	
-MAP72_e12_p0_3	勇者様なんだってなあ	
-MAP72_e12_p0_4	…立派になって！	
-MAP72_e12_p0_6	もう、以前のウィンとは見違えるのう…	
-MAP72_e12_p0_7	お前に会えて、希望が持てたぞ…	
+MAP72_e11_p0_2	んー？あら、ウィンじゃないか！	Hm? Oh, if it isn't Win!
+MAP72_e11_p0_3	元気だったかい？	Been well?
+MAP72_e11_p0_6	あたしらは街に嵐がきたときに避難してきた	We took shelter when the storm hit the town,
+MAP72_e11_p0_7	んだけれど…　この通りどこへも行けずじまい	but... as you can see, we're stuck
+MAP72_e11_p0_8	になっちまったよ。バカだねえ	with nowhere to go. Silly us.
+MAP72_e12_p0_2	おお、ウィン…！	Oh, Win...!
+MAP72_e12_p0_3	勇者様なんだってなあ	So you're a hero now, they say.
+MAP72_e12_p0_4	…立派になって！	...You've become quite the man!
+MAP72_e12_p0_6	もう、以前のウィンとは見違えるのう…	You're a far cry from the Win of old...
+MAP72_e12_p0_7	お前に会えて、希望が持てたぞ…	Seeing you gives me hope...
 MAP72_e13_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP72_e14_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP72_e15_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -6700,10 +6700,10 @@ MAP74_e10_p0_1	持ち出して役に立つようなものは何も見つけら�
 MAP74_e11_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP74_e12_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP74_e13_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP74_e14_p0_2	この辺りはほとんど洪水の影響ないよ。	
-MAP74_e14_p0_3	だけど、しばらく石堀りはお休みだな。	
-MAP74_e14_p0_4	魔物が増えてるから。	
-MAP74_e14_p0_6	ああ、完成した橋なら、南に行けばすぐ分かる。	
+MAP74_e14_p0_2	この辺りはほとんど洪水の影響ないよ。	This area's barely affected by the flood.
+MAP74_e14_p0_3	だけど、しばらく石堀りはお休みだな。	But quarrying's on hold for a while.
+MAP74_e14_p0_4	魔物が増えてるから。	Because of the monsters.
+MAP74_e14_p0_6	ああ、完成した橋なら、南に行けばすぐ分かる。	Ah, the finished bridge—head south and you'll spot it right away.
 MAP74_e4_p0_2	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP74_e4_p0_3	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
 MAP74_e4_p1_10	お前こんなところに何しに…？	What are you doing in a place like this...?
@@ -6738,25 +6738,25 @@ MAP74_e5_p1_4	お茶でも飲んでいけば？	have some tea?
 MAP74_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP74_e7_p0_2	　　　　セイリューとの連絡に用いられている手紙類だ	These are letters used to keep in touch with Seiryu.
 MAP74_e8_p0_2	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
-MAP74_e9_p0_2	　　　　　　　　　編みかけのマフラーだ	
+MAP74_e9_p0_2	　　　　　　　　　編みかけのマフラーだ	It's a half-knitted scarf.
 MAP75_e10_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP75_e12_p0_11	ちなみに、転倒させられるスキルも、	
-MAP75_e12_p0_12	使えるのは槍だけだ。	
-MAP75_e12_p0_13	転倒させれば味方全体の通常攻撃の威力が	
-MAP75_e12_p0_14	増すから、EP節約にもなるぜ！	
-MAP75_e12_p0_18	まあ確かに、スキルとかも他の武器の方が	
-MAP75_e12_p0_19	使いやすかったりするよな。	
-MAP75_e12_p0_2	ウィン！　どうだい、槍は使ってる？	
-MAP75_e12_p0_20	だけどお前、紋章ですばやく動けるだろ？	
-MAP75_e12_p0_21	だから槍の重さも気にならないはずだ。	
-MAP75_e12_p0_23	重さが気にならないとなれば、槍は単純に、	
-MAP75_e12_p0_24	素の威力が高いダガー、レイピアと同じだ。	
-MAP75_e12_p0_25	会心率を考えれば、実は最強の威力の武器	
-MAP75_e12_p0_26	にもなるんだぜ？	
-MAP75_e12_p0_3	いまはどっち派だい？	
-MAP75_e12_p0_7	やっぱりな！	
-MAP75_e12_p0_8	特に紋章の力で素早く動けるお前なら、	
-MAP75_e12_p0_9	槍の取り回しの悪さもほとんど影響しないしな	
+MAP75_e12_p0_11	ちなみに、転倒させられるスキルも、	By the way, skills that can knock down enemies
+MAP75_e12_p0_12	使えるのは槍だけだ。	can only be used with a spear.
+MAP75_e12_p0_13	転倒させれば味方全体の通常攻撃の威力が	Knocking them down boosts the whole party's
+MAP75_e12_p0_14	増すから、EP節約にもなるぜ！	normal attack power—saves EP too!
+MAP75_e12_p0_18	まあ確かに、スキルとかも他の武器の方が	True, other weapons do have easier-to-use
+MAP75_e12_p0_19	使いやすかったりするよな。	skills and such.
+MAP75_e12_p0_2	ウィン！　どうだい、槍は使ってる？	Win! How's it going—using the spear?
+MAP75_e12_p0_20	だけどお前、紋章ですばやく動けるだろ？	But you can move quickly with your crest, right?
+MAP75_e12_p0_21	だから槍の重さも気にならないはずだ。	So the spear's weight shouldn't bother you.
+MAP75_e12_p0_23	重さが気にならないとなれば、槍は単純に、	With no weight issue, the spear is simply
+MAP75_e12_p0_24	素の威力が高いダガー、レイピアと同じだ。	a dagger or rapier with higher base power.
+MAP75_e12_p0_25	会心率を考えれば、実は最強の威力の武器	Factoring in crit rate, it's actually one of
+MAP75_e12_p0_26	にもなるんだぜ？	the strongest weapons around, you know?
+MAP75_e12_p0_3	いまはどっち派だい？	Which side are you on now?
+MAP75_e12_p0_7	やっぱりな！	Just as I thought!
+MAP75_e12_p0_8	特に紋章の力で素早く動けるお前なら、	Especially with your crest-powered speed,
+MAP75_e12_p0_9	槍の取り回しの悪さもほとんど影響しないしな	the spear's unwieldiness barely matters.
 MAP75_e13_p0_1	『七転び七起きれず』	"""Seven Falls, Can't Get Up Eight Times"""
 MAP75_e13_p0_10	毒にかかったり、眠ってしまったり、混乱したり…	Getting poisoned, falling asleep, being confused...
 MAP75_e13_p0_11	そういった状態異常は、すぐに死にはつながらないが、	These ailments won't kill you right away, but
@@ -6807,12 +6807,12 @@ MAP75_e18_p0_6	相手に突きつけるように構える小型の盾で、	A sm
 MAP75_e18_p0_7	中型、大型の盾とは異なった技術を要する。	requiring different technique than medium or large shields.
 MAP75_e18_p0_8	受け止めるのではなく、受け流す、絡めとるなどして、	Rather than blocking, it deflects and entangles,
 MAP75_e18_p0_9	回避やカウンターの布石にする盾である。	serving as a setup for evasions and counters.
-MAP75_e3_p0_2	ウィン、いまのところ街は大丈夫だ。	
-MAP75_e3_p0_3	各家の見回りも計画通り出来ている。	
-MAP75_e3_p0_4	略奪等の悪さも、一件もない。	
-MAP75_e3_p0_7	それより、お前んちの親御さん、城で	
-MAP75_e3_p0_8	働いてるってな。みんなうまいパンが	
-MAP75_e3_p0_9	食べられるってよろこんでるよ。	
+MAP75_e3_p0_2	ウィン、いまのところ街は大丈夫だ。	Win, the town's fine for now.
+MAP75_e3_p0_3	各家の見回りも計画通り出来ている。	House-to-house patrols are on schedule.
+MAP75_e3_p0_4	略奪等の悪さも、一件もない。	Not a single case of looting or mischief.
+MAP75_e3_p0_7	それより、お前んちの親御さん、城で	Anyway, your parents work at the castle, don't they.
+MAP75_e3_p0_8	働いてるってな。みんなうまいパンが	Everyone's delighted they can eat
+MAP75_e3_p0_9	食べられるってよろこんでるよ。	their good bread.
 MAP75_e4_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e5_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -6832,15 +6832,15 @@ MAP76_e29_p0_2	紋章の継承者だと、暗黒大陸の病気が効かない	I
 MAP76_e29_p0_3	って本当か？　羨ましいな…	on crest inheritors? Lucky...
 MAP76_e29_p0_4	誰も見たことのない土地へ行けるんだからな。	You get to go where no one's ever set foot.
 MAP76_e30_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP76_e31_p0_2	　　　　　　すごく強そうなお酒が入っている	
+MAP76_e31_p0_2	　　　　　　すごく強そうなお酒が入っている	It's full of terrifyingly strong liquor.
 MAP76_e7_p0_13	騎士団のみんな、橋の警備よろしくな！	Knight Order, the bridge guard is in your hands!
 MAP76_e7_p0_2	け、継承者の皆様に…敬礼！	S-Salute to the inheritors...!
 MAP76_e7_p0_7	おっ！　なんだそれ！	Oh! What's that!
 MAP76_e7_p0_8	騎士団はそうやってあいさつすんのか！？	Is that how the knight order greets people!?
 MAP76_e8_p0_2	継承者御一行様、お通りー！	Make way for the inheritors—!
-MAP77_e10_p0_2	　　　　　　固いパンがたくさん入っている	
+MAP77_e10_p0_2	　　　　　　固いパンがたくさん入っている	It's full of hard bread.
 MAP77_e11_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP77_e3_p0_12	　　　　　　　ウィンは蜻蛉斬を受け取った！	
+MAP77_e3_p0_12	　　　　　　　ウィンは蜻蛉斬を受け取った！	Win received a Tonbogiri!
 MAP77_e3_p0_16	この巨大な槍はわしが若い頃から愛用していた	This great spear has been my beloved weapon
 MAP77_e3_p0_17	すごく強力な槍だ！	since my youth—a very powerful spear!
 MAP77_e3_p0_18	我が一族に代々伝わる品だ！	It's been passed down my family for generations!
@@ -6854,7 +6854,7 @@ MAP77_e3_p0_3	未知の魔物が相手では、数を揃えればいいという
 MAP77_e3_p0_4	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p0_7	そうだ、ウィン！	Oh, right, Win!
 MAP77_e3_p0_8	お前に良いものをやろう！	I'll give you something good!
-MAP77_e3_p1_12	　　　　ウィンは本物の蜻蛉斬を受け取った！	
+MAP77_e3_p1_12	　　　　ウィンは本物の蜻蛉斬を受け取った！	Win received a genuine Tonbogiri!
 MAP77_e3_p1_16	この巨大な槍はわしが若い頃から愛用していた	This great spear has been my beloved weapon
 MAP77_e3_p1_17	すごく強力な槍だ！	since my youth—a very powerful spear!
 MAP77_e3_p1_18	我が一族に代々伝わる品だ！	It's been passed down my family for generations!
@@ -6871,22 +6871,22 @@ MAP77_e3_p1_8	お前に良いものをやろう！	I'll give you something good!
 MAP77_e3_p2_2	人数は足りないが…	We're short on numbers, but...
 MAP77_e3_p2_3	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
 MAP77_e3_p2_4	ものでもなかろう…	necessarily the answer...
-MAP77_e3_p2_7	セイリューから支給されたライスボールで	
-MAP77_e3_p2_8	我が兵たちの士気も上々！	
-MAP77_e3_p2_9	ここはわしらに安心してまかせい！	
-MAP77_e4_p0_2	昨日なんかめちゃくちゃ火吐くイヌ来ました！	
-MAP77_e4_p0_3	やばいっすよアレ！！	
-MAP77_e5_p0_2	ちょっと剣が足りないすねー	
-MAP77_e5_p0_3	魔物が固くってすぐ刃こぼれしちゃうんすよ	
-MAP77_e6_p0_14	は、はははは、はひいひいいいいいいいい！！！	
-MAP77_e6_p0_2	あ…騎士さまお疲れ様です！！	
-MAP77_e6_p0_3	ぼく新人のトールです……！！	
-MAP77_e6_p0_8	ふわあああおおおおおおおおおおお！！	
+MAP77_e3_p2_7	セイリューから支給されたライスボールで	With the Rice Balls supplied by Seiryu,
+MAP77_e3_p2_8	我が兵たちの士気も上々！	our soldiers' morale is high!
+MAP77_e3_p2_9	ここはわしらに安心してまかせい！	Leave this to us without worry!
+MAP77_e4_p0_2	昨日なんかめちゃくちゃ火吐くイヌ来ました！	Yesterday, a dog that spits fire like crazy showed up!
+MAP77_e4_p0_3	やばいっすよアレ！！	That thing's no joke!!
+MAP77_e5_p0_2	ちょっと剣が足りないすねー	We're a bit short on swords, you know~
+MAP77_e5_p0_3	魔物が固くってすぐ刃こぼれしちゃうんすよ	The monsters are so tough, our blades chip right away.
+MAP77_e6_p0_14	は、はははは、はひいひいいいいいいいい！！！	H-Hahaha, haaahiii!!!
+MAP77_e6_p0_2	あ…騎士さまお疲れ様です！！	Ah... Sir Knight, good work out there!!
+MAP77_e6_p0_3	ぼく新人のトールです……！！	I'm Thor, the new recruit......!!
+MAP77_e6_p0_8	ふわあああおおおおおおおおおおお！！	Fwaaaaooooooh!!
 MAP77_e6_p0_9	よろしくおなながいいしままーーーーす！！！	
-MAP77_e7_p0_2	　　　　　　刃こぼれした剣が乱雑にしまってある	
+MAP77_e7_p0_2	　　　　　　刃こぼれした剣が乱雑にしまってある	Chipped swords are stored here, carelessly.
 MAP77_e8_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP77_e9_p0_2	　　　　　　　　中にはコメが入っている	
-MAP78_e1_p0_11	ツヴァイハンダーを手に入れた！	
+MAP77_e9_p0_2	　　　　　　　　中にはコメが入っている	There's rice inside.
+MAP78_e1_p0_11	ツヴァイハンダーを手に入れた！	Obtained a Zweihander!
 MAP78_e2_p0_11	にっかり青江を手に入れた！	Obtained Nikkari Aoe!
 MAP78_e3_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP78_e3_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
@@ -6915,7 +6915,7 @@ MAP78_e7_p0_18	もっと大昔にはここにひとが住んでいたのか？	D
 MAP78_e7_p0_21	なんか建物とかも…見た事ねえ感じだ。	And the buildings... they don't look like anything I've seen.
 MAP78_e7_p0_22	オレらもしかして、歴史上の大発見してる…？	Are we making a huge historical discovery...?
 MAP78_e7_p0_25	そうかもな。	Maybe.
-MAP78_e8_p0_11	グラディウスを手に入れた！	
+MAP78_e8_p0_11	グラディウスを手に入れた！	Obtained a Gladius!
 MAP79_e1_p0_100	色々教えてあげちゃっても構わないんだよねえ。	I don't mind telling you all sorts of things, you know.
 MAP79_e1_p0_103	ホノオ、乗せられるなって！	Hono, don't get roped in!
 MAP79_e1_p0_104	絶対にこいつは時間稼ぎしてるんだよ！	He's definitely just buying time!
@@ -6963,7 +6963,7 @@ MAP79_e1_p0_182	闇のエレメントパワー…それ自体は膨大で、	Dar
 MAP79_e1_p0_183	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
 MAP79_e1_p0_184	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p0_187	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
-MAP79_e1_p0_188	から生まれ出た闇の結晶に過ぎない…	
+MAP79_e1_p0_188	から生まれ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
 MAP79_e1_p0_189	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
 MAP79_e1_p0_19	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
 MAP79_e1_p0_192	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone... couldn't stop the Dark Element
@@ -7135,7 +7135,7 @@ MAP79_e1_p1_182	闇のエレメントパワー…それ自体は膨大で、	Dar
 MAP79_e1_p1_183	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
 MAP79_e1_p1_184	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p1_187	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
-MAP79_e1_p1_188	から生れ出た闇の結晶に過ぎない…	
+MAP79_e1_p1_188	から生れ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
 MAP79_e1_p1_189	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
 MAP79_e1_p1_19	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
 MAP79_e1_p1_192	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone... couldn't stop the Dark Element
@@ -7264,28 +7264,28 @@ MAP79_e1_p2_17	だ……出し切ったああああああああああああ	I've
 MAP79_e1_p2_20	千年くらい鍛え続けてきた私の魔力…	The magic I've honed for a thousand years...
 MAP79_e1_p2_21	そして夢…　願い…　熱い思い………	my dreams... my wishes... my burning passion......
 MAP79_e1_p2_24	すべて出し切ったああああああああ！！！！	I've poured it ALL out—!!!
-MAP79_e1_p2_6	ではではではー………	
-MAP79_e1_p2_7	さらば！！	
+MAP79_e1_p2_6	ではではではー………	Well then, then, then...
+MAP79_e1_p2_7	さらば！！	Farewell!!
 MAP79_e1_p2_8	世界よ…………グッドバイ！！！！！！！！！	World... good... bye!!!!!!!
 MAP79_e1_p3_15	だ……出し切ったああああああああああああ	I've...... poured it all out—!!
 MAP79_e1_p3_18	千年くらい鍛え続けてきた私の魔力…	The magic I've honed for a thousand years...
 MAP79_e1_p3_19	そして夢…　願い…　熱い思い………	my dreams... my wishes... my burning passion......
 MAP79_e1_p3_22	すべて出し切ったああああああああ！！！！	I've poured it ALL out—!!!
 MAP79_e1_p3_6	世界よ…………グッドバイ！！！！！！！！！	World... good... bye!!!!!!!
-MAP79_e1_p4_10	…なんだ？	
-MAP79_e1_p4_13	最後に………　一回でいい……	
-MAP79_e1_p4_14	私の名前をちゃんと呼んでくれえええ………！	
-MAP79_e1_p4_17	…え、いや…　	
-MAP79_e1_p4_18	でもうまく呼べる気が一切しないんだよな…	
-MAP79_e1_p4_21	ごめん	
-MAP79_e1_p4_24	ゆっくり言うから……！！	
-MAP79_e1_p4_25	最後のちからを振り絞って…一回だけ言うから	
-MAP79_e1_p4_28	よく…　聞いてね……　いい…か…？	
-MAP79_e1_p4_3	…めちゃくちゃ強かったぜ…　ピ…ピｋ…！！	
-MAP79_e1_p4_31	…え、お、おう…！	
-MAP79_e1_p4_34	わ…　私の名前は………………	
-MAP79_e1_p4_37	ピ………ＱＥ…　ピ……Ｑ………	
-MAP79_e1_p4_40	ウッ！！！！！！！！！！！！！！！！	
+MAP79_e1_p4_10	…なんだ？	...What?
+MAP79_e1_p4_13	最後に………　一回でいい……	At the end...... just once...
+MAP79_e1_p4_14	私の名前をちゃんと呼んでくれえええ………！	call my name properly......!
+MAP79_e1_p4_17	…え、いや…　	...Uh, well...
+MAP79_e1_p4_18	でもうまく呼べる気が一切しないんだよな…	but I don't think I can say it right at all...
+MAP79_e1_p4_21	ごめん	Sorry.
+MAP79_e1_p4_24	ゆっくり言うから……！！	I'll say it slowly......!!
+MAP79_e1_p4_25	最後のちからを振り絞って…一回だけ言うから	With my last strength... I'll say it just once,
+MAP79_e1_p4_28	よく…　聞いてね……　いい…か…？	so listen... closely...... alright......?
+MAP79_e1_p4_3	…めちゃくちゃ強かったぜ…　ピ…ピｋ…！！	...You were incredibly strong... Pi... Pik...!!
+MAP79_e1_p4_31	…え、お、おう…！	...Eh, o-oh...!
+MAP79_e1_p4_34	わ…　私の名前は………………	M-My name is..............
+MAP79_e1_p4_37	ピ………ＱＥ…　ピ……Ｑ………	Pi...... QE... Pi...... Q.........
+MAP79_e1_p4_40	ウッ！！！！！！！！！！！！！！！！	UGH!!!!!!!!!!!!!
 MAP79_e1_p4_6	人間たちよ…　最後に………	
 MAP79_e1_p4_7	ひとつだけ………	
 MAP79_e1_p5_26	で…　次はどうすればいいんだ？	
