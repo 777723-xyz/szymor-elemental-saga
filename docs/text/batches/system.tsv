@@ -1,0 +1,116 @@
+id	japanese	translation
+SYS_armorTypes_1	一般防具	General Armor
+SYS_armorTypes_2	魔法防具	Magic Armor
+SYS_armorTypes_3	軽装防具	Light Armor
+SYS_armorTypes_4	重装防具	Heavy Armor
+SYS_armorTypes_5	小型盾	Small Shield
+SYS_armorTypes_6	大型盾	Large Shield
+SYS_armorTypes_7	騎士防具	Knight Armor
+SYS_armorTypes_8	王族装備	Royal Gear
+SYS_armorTypes_9	サムライ防具	Samurai Armor
+SYS_elements_1	物理	Physical
+SYS_elements_2	火	Fire
+SYS_elements_3	水	Water
+SYS_elements_4	風	Wind
+SYS_elements_5	闇	Dark
+SYS_equipTypes_1	武器	Weapon
+SYS_equipTypes_2	盾	Shield
+SYS_equipTypes_3	アクセサリ	Accessory
+SYS_equipTypes_4	身体	Body
+SYS_gameTitle	紋章物語	Crest Story
+SYS_skillTypes_1	魔法	Magic
+SYS_skillTypes_2	スキル	Skill
+SYS_terms_basic_0	レベル	Level
+SYS_terms_basic_8	経験値	EXP
+SYS_terms_commands_0	バトル開始	Battle Start
+SYS_terms_commands_1	逃げ出す	Flee
+SYS_terms_commands_10	ゲーム終了	Quit Game
+SYS_terms_commands_11	オプション	Options
+SYS_terms_commands_12	武器	Weapons
+SYS_terms_commands_13	防具	Armor
+SYS_terms_commands_14	大事なもの	Key Items
+SYS_terms_commands_15	装備	Equip
+SYS_terms_commands_16	おまかせ装備	Optimize
+SYS_terms_commands_17	全て外す	Remove All
+SYS_terms_commands_18	新しく始める	New Game
+SYS_terms_commands_19	続きから	Continue
+SYS_terms_commands_21	タイトル画面へ	To Title
+SYS_terms_commands_22	やめる	Quit
+SYS_terms_commands_24	買う	Buy
+SYS_terms_commands_25	売る	Sell
+SYS_terms_commands_3	ぼうぎょ	Guard
+SYS_terms_commands_4	アイテム	Item
+SYS_terms_commands_5	スキル	Skill
+SYS_terms_commands_6	装備	Equip
+SYS_terms_commands_7	ステータス	Status
+SYS_terms_commands_8	並び替え	Order
+SYS_terms_commands_9	セーブ	Save
+SYS_terms_messages_actionFailure	%1には効かなかった！	%1 was ineffective!
+SYS_terms_messages_actorDamage	%1は %2 のダメージを受けた！	%1 took %2 damage!
+SYS_terms_messages_actorDrain	%1は%2を %3 奪われた！	%1's %2 was drained by %3!
+SYS_terms_messages_actorGain	%1の%2が %3 増えた！	%1's %2 rose by %3!
+SYS_terms_messages_actorLoss	%1の%2が %3 減った！	%1's %2 fell by %3!
+SYS_terms_messages_actorNoDamage	%1はダメージを受けていない！	%1 took no damage!
+SYS_terms_messages_actorNoHit	ミス！　%1はダメージを受けていない！	Miss! %1 took no damage!
+SYS_terms_messages_actorRecovery	%1の%2が %3 回復した！	%1's %2 recovered by %3!
+SYS_terms_messages_alwaysDash	常時ダッシュ	Always Dash
+SYS_terms_messages_bgmVolume	BGM 音量	BGM Volume
+SYS_terms_messages_bgsVolume	BGS 音量	BGS Volume
+SYS_terms_messages_buffAdd	%1の%2がアップした！	%1's %2 rose!
+SYS_terms_messages_buffRemove	%1の%2が元に戻った！	%1's %2 returned to normal!
+SYS_terms_messages_commandRemember	コマンド記憶	Remember Commands
+SYS_terms_messages_counterAttack	%1の反撃！	%1 counterattacks!
+SYS_terms_messages_criticalToActor	痛恨の一撃！！	Critical blow!!
+SYS_terms_messages_criticalToEnemy	会心の一撃！！	A mighty critical!!
+SYS_terms_messages_debuffAdd	%1の%2がダウンした！	%1's %2 fell!
+SYS_terms_messages_defeat	%1はバトルに敗れてしまった…！！	%1 was defeated...!!
+SYS_terms_messages_emerge	%1が現れた！	%1 appears!
+SYS_terms_messages_enemyDamage	%1に %2 のダメージを与えた！	%1 took %2 damage!
+SYS_terms_messages_enemyDrain	%1の%2を %3 奪った！	%1's %2 was drained by %3!
+SYS_terms_messages_enemyGain	%1の%2が %3 増えた！	%1's %2 rose by %3!
+SYS_terms_messages_enemyLoss	%1の%2が %3 減った！	%1's %2 fell by %3!
+SYS_terms_messages_enemyNoDamage	%1にダメージを与えられない！	No damage to %1!
+SYS_terms_messages_enemyNoHit	ミス！　%1にダメージを与えられない！	Miss! No damage to %1!
+SYS_terms_messages_enemyRecovery	%1の%2が %3 回復した！	%1's %2 recovered by %3!
+SYS_terms_messages_escapeFailure	しかし逃げることはできなかった！	But you couldn't escape!
+SYS_terms_messages_escapeStart	%1はバトルから逃げ出した！	%1 fled the battle!
+SYS_terms_messages_evasion	%1は攻撃をかわした！	%1 evaded the attack!
+SYS_terms_messages_expNext	次の%1まで	Next %1:
+SYS_terms_messages_expTotal	現在の%1	Current %1:
+SYS_terms_messages_file	ファイル	File
+SYS_terms_messages_levelUp	%1は%2 %3 に上がった！	%1 reached %2 %3!
+SYS_terms_messages_loadMessage	どのファイルをロードしますか？	Which file would you like to load?
+SYS_terms_messages_magicEvasion	%1は魔法を打ち消した！	%1 nullified the magic!
+SYS_terms_messages_magicReflection	%1は魔法を跳ね返した！	%1 reflected the magic!
+SYS_terms_messages_meVolume	ME 音量	ME Volume
+SYS_terms_messages_obtainExp	%1 の%2を獲得！	Gained %1 %2!
+SYS_terms_messages_obtainGold	お金を %1\\G 手に入れた！	Gained %1\G!
+SYS_terms_messages_obtainItem	%1を手に入れた！	Obtained %1!
+SYS_terms_messages_obtainSkill	%1を覚えた！	Learned %1!
+SYS_terms_messages_partyName	%1たち	%1's Party
+SYS_terms_messages_possession	持っている数	Number in possession
+SYS_terms_messages_preemptive	%1は先手を取った！	%1 got the upper hand!
+SYS_terms_messages_saveMessage	どのファイルにセーブしますか？	Which file would you like to save to?
+SYS_terms_messages_seVolume	SE 音量	SE Volume
+SYS_terms_messages_substitute	%1が%2をかばった！	%1 protected %2!
+SYS_terms_messages_surprise	%1は不意をつかれた！	%1 was caught off guard!
+SYS_terms_messages_useItem	%1は%2を使った！	%1 used %2!
+SYS_terms_messages_victory	%1はバトルに勝利した！	%1 won the battle!
+SYS_terms_params_0	最大ＨＰ	Max HP
+SYS_terms_params_1	最大ＥＰ	Max EP
+SYS_terms_params_2	攻撃力	Attack
+SYS_terms_params_3	ぼうぎょ力	Defense
+SYS_terms_params_4	魔法力	Magic Attack
+SYS_terms_params_5	魔法ぼうぎょ	Magic Defense
+SYS_terms_params_6	素早さ	Agility
+SYS_terms_params_7	運	Luck
+SYS_terms_params_8	命中率	Hit Rate
+SYS_terms_params_9	回避率	Evasion Rate
+SYS_weaponTypes_1	短剣	Dagger
+SYS_weaponTypes_12	槍	Spear
+SYS_weaponTypes_2	刺剣	Rapier
+SYS_weaponTypes_3	直剣	Straight Sword
+SYS_weaponTypes_4	曲刀	Curved Sword
+SYS_weaponTypes_5	大剣	Great Sword
+SYS_weaponTypes_6	刀	Katana
+SYS_weaponTypes_7	短刀	Short Sword

@@ -1,0 +1,42 @@
+id	japanese	translation
+PLUGIN_AutoBattle_Auto Battle Message	_keyでオートバトル開始	Press _key to start auto-battle.
+PLUGIN_AutoBattle_Auto Battle Usable Message	現在オートバトル中 _keyで解除	Auto-battle in progress. Press _key to cancel.
+PLUGIN_EndGme_endName	ゲームを閉じる	Close Game
+PLUGIN_GamepadConfig_Cancel Help	メニューアクションをキャンセルする際に使うボタンです	Button used to cancel menu actions.
+PLUGIN_GamepadConfig_Command Name	ゲームパッド設定	Gamepad Settings
+PLUGIN_GamepadConfig_Finish Help	ゲームパッドのコンフィグを完了しますか？	Finish configuring the gamepad?
+PLUGIN_GamepadConfig_Menu Help	フィールドからメインメニューにアクセスします	Open the main menu from the field.
+PLUGIN_GamepadConfig_OK Help	メニューの決定/人に話しかける際に使うボタンです	Button used to confirm menu selections or talk to people.
+PLUGIN_GamepadConfig_PageDown Help	メニューを素早くスクロールダウンできます	Quickly scroll down in menus.
+PLUGIN_GamepadConfig_PageUp Help	メニューを素早くスクロールアップできます	Quickly scroll up in menus.
+PLUGIN_GamepadConfig_Reset Help	コントローラコンフィグをデフォルトに戻します	Reset the controller config to default.
+PLUGIN_GamepadConfig_Shift Button	ダッシュ	Dash
+PLUGIN_GamepadConfig_Shift Help	長押しするとフィールド上をダッシュできます	Hold to dash on the field.
+PLUGIN_KZR_WindowStatusInBattle_CommandName	ステータス	Status
+PLUGIN_KeyboardConfig_Cancel Text	キャンセル	Cancel
+PLUGIN_KeyboardConfig_Command Name	キーボード設定	Keyboard Settings
+PLUGIN_KeyboardConfig_Default Help	キーボード設定をデフォルトに戻します	Reset the keyboard settings to default.
+PLUGIN_KeyboardConfig_Default Layout	デフォルトレイアウト	Default Layout
+PLUGIN_KeyboardConfig_Down Text	下へ ▼	Down ▼
+PLUGIN_KeyboardConfig_Finish Help	キーボードのコンフィグを完了しますか？	Finish configuring the keyboard?
+PLUGIN_KeyboardConfig_Key Help	このキーのコンフィグを変更しますか？	Change the config for this key?
+PLUGIN_KeyboardConfig_Left Text	左へ ◄	Left ◄
+PLUGIN_KeyboardConfig_OK Text	OK / 話す	OK / Talk
+PLUGIN_KeyboardConfig_PageDown Text	ページダウン	Page Down
+PLUGIN_KeyboardConfig_PageUp Text	ページアップ	Page Up
+PLUGIN_KeyboardConfig_Right Text	右へ ►	Right ►
+PLUGIN_KeyboardConfig_Shift Text	ダッシュする	Dash
+PLUGIN_KeyboardConfig_Up Text	上へ ▲	Up ▲
+PLUGIN_KeyboardConfig_WASD Help	キーボードをWASDレイアウトに変更します	Switch the keyboard to WASD layout.
+PLUGIN_KeyboardConfig_WASD Layout	WASDレイアウト	WASD Layout
+PLUGIN_MakeScreenCapture_署名	ⒸWGTハムカツ 2019　紋章物語　エレサガ	©WGT Hamkatsu 2019  Crest Story Elesaga
+PLUGIN_RetryBattle_コマンドタイトル	タイトル画面へ	To Title
+PLUGIN_RetryBattle_コマンドリトライ	再びバトル！	Retry Battle!
+PLUGIN_RetryBattle_コマンドロード	ゲームデータをロード	Load Game
+PLUGIN_RetryBattle_メッセージ	\\i[1]\\c[2]バトルに敗れた…\\c[0]\\i[1]	\i[1]\c[2]You lost the battle...\c[0]\i[1]
+PLUGIN_SceneGlossary_GlossaryInfo	"[""{\\""GlossaryType\\"":\\""1\\"",\\""CommandName\\"":\\""用語辞典\\"",\\""UseCategory\\"":\\""false\\"",\\""CommandSwitchId\\"":\\""0\\"",\\""BackPicture\\"":\\""\\"",\\""SelectAction\\"":\\""0\\"",\\""SelectSwitchId\\"":\\""0\\"",\\""SelectVariableId\\"":\\""0\\"",\\""ConfirmMessage\\"":\\""true\\"",\\""ConfirmUse\\"":\\""見る\\"",\\""ConfirmNoUse\\"":\\""やめる\\"",\\""GlossaryHelp\\"":\\""ゲーム中に登場する用語を解説しています。\\"",\\""CategoryHelp\\"":\\""カテゴリを選択してください。\\"",\\""ConfirmHelp\\"":\\""\\"",\\""UsingHelp\\"":\\""\\"",\\""CompleteView\\"":\\""true\\"",\\""CompleteMessage\\"":\\""収集率 \\\\\\\\c[2]%1\\\\\\\\c[0] ％\\"",\\""ShowingItemNumber\\"":\\""false\\"",\\""UsableDefault\\"":\\""true\\"",\\""UseItemHistory\\"":\\""true\\"",\\""GlossaryListWidth\\"":\\""240\\"",\\""VisibleItemNotYet\\"":\\""\\""}""]"	
+PLUGIN_TMVplugin_sparamText	狙われ率,防御効果,回復効果,薬の知識,ＭＰ消費,ＴＰチャージ,,,床ダメージ,経験値獲得	Aggro Rate,Guard Effect,Recovery Effect,Medicine Knowledge,MP Cost,TP Charge,,,Floor Damage,EXP Gain
+PLUGIN_TMVplugin_xparamText	命中,回避,会心,会心回避,魔法回避,魔法反射,反撃,ＨＰ再生,ＭＰ再生,ＴＰ再生	Hit,Evasion,Critical,Critical Evasion,Magic Evasion,Magic Reflect,Counter,HP Regen,MP Regen,TP Regen
+PLUGIN_YEP_VictoryAftermath_Battle Drops Text	戦利品	Spoils
+PLUGIN_YEP_VictoryAftermath_Battle Results Text	バトル結果	Battle Results
+PLUGIN_YEP_VictoryAftermath_Gained EXP Text	獲得経験値	EXP Gained
