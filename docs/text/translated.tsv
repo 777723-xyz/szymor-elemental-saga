@@ -13972,14 +13972,14 @@ DB_Skills_107_name	Skills.json	Skills.json #107 (ダークサンダー)	name	ダ
 DB_Skills_108_name	Skills.json	Skills.json #108 (ダークフレイム)	name	ダークフレイム	Dark Flame
 DB_Skills_109_description	Skills.json	Skills.json #109	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_109_name	Skills.json	Skills.json #109 (ダークビーム)	name	ダークビーム	Dark Beam
-DB_Skills_109_note	Skills.json	Skills.json #109	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_109_note	Skills.json	Skills.json #109	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_10_name	Skills.json	Skills.json #10 (スパーク)	name	スパーク	Spark
 DB_Skills_110_description	Skills.json	Skills.json #110	description	水の魔法。敵集団へ襲い掛かる津波を発生する…強大な魔法。\n敵全体に約1200ダメージ。消費EP30。	"Water magic. Summons a tsunami to crash down on the enemy group... a mighty spell.
 Deals about 1200 damage to all enemies. Costs 30 EP."
 DB_Skills_110_name	Skills.json	Skills.json #110 (ツナミ)	name	ツナミ	Tsunami
 DB_Skills_111_description	Skills.json	Skills.json #111	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_111_name	Skills.json	Skills.json #111 (ミケーネビーム)	name	ミケーネビーム	Mycenae Beam
-DB_Skills_111_note	Skills.json	Skills.json #111	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_111_note	Skills.json	Skills.json #111	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_112_name	Skills.json	Skills.json #112 (ミケーネブリザード)	name	ミケーネブリザード	Mycenae Blizzard
 DB_Skills_113_description	Skills.json	Skills.json #113	description	曲刀の持ち味である取り回しの良さを生かし、回転しながら\n敵に何度も切りつける。ランダム４回攻撃。消費SP18．	"Using the curved sword's easy handling, spins and slashes the enemy repeatedly.
 Random 4 hits. Costs 18 SP."
@@ -13995,7 +13995,7 @@ DB_Skills_118_description	Skills.json	Skills.json #118	description	敵用	For en
 DB_Skills_118_name	Skills.json	Skills.json #118 (足払いナウー最後)	name	足払いナウー最後	Nau Leg Sweep (Final)
 DB_Skills_119_description	Skills.json	Skills.json #119	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_119_name	Skills.json	Skills.json #119 (気絶攻撃ナウー最後)	name	気絶攻撃ナウー最後	Nau Stun Attack (Final)
-DB_Skills_119_note	Skills.json	Skills.json #119	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_119_note	Skills.json	Skills.json #119	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_11_description	Skills.json	Skills.json #11	description	敵集団に走り込みながら武器を振り回す。通常の攻撃よりも\n威力は下がる。直剣と曲刀のスキル。SP9消費。	"Runs into the enemy group while swinging the weapon around. Weaker than a normal
 attack. A straight sword and curved sword skill. Costs 9 SP."
 DB_Skills_11_name	Skills.json	Skills.json #11 (なぎ払い)	name	なぎ払い	Sweep
@@ -14050,7 +14050,7 @@ DB_Skills_142_name	Skills.json	Skills.json #142 (ダークストーム)	name	ダ
 DB_Skills_143_name	Skills.json	Skills.json #143 (２回攻撃大魔王ダフィール)	name	２回攻撃大魔王ダフィール	Great Demon King Dafill Double Attack
 DB_Skills_144_description	Skills.json	Skills.json #144	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_144_name	Skills.json	Skills.json #144 (ダフィール気絶攻撃)	name	ダフィール気絶攻撃	Dafill Stun Attack
-DB_Skills_144_note	Skills.json	Skills.json #144	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_144_note	Skills.json	Skills.json #144	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_146_description	Skills.json	Skills.json #146	description	カマイタチとフェイント突きの同時攻撃。敵に防御無視の\nダメージとぼうぎょ力素早さのダウン。消費ＥＰ20。	"A simultaneous attack of Kamaitachi and Feint Thrust. Deals defense-ignoring
 damage to the enemy and lowers defense and agility. Costs 20 EP."
 DB_Skills_146_name	Skills.json	Skills.json #146 (カマカゼ（ウィン）)	name	カマカゼ（ウィン）	Kamakaze (Win)
@@ -14067,7 +14067,7 @@ Costs 30 SP."
 DB_Skills_149_name	Skills.json	Skills.json #149 (イヅナ（ピピン）)	name	イヅナ（ピピン）	Izuna (Pipin)
 DB_Skills_14_description	Skills.json	Skills.json #14	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_14_name	Skills.json	Skills.json #14 (かみつき)	name	かみつき	Bite
-DB_Skills_14_note	Skills.json	Skills.json #14	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_14_note	Skills.json	Skills.json #14	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_150_description	Skills.json	Skills.json #150	description	ツナミで水浸しにしてから巨大な稲妻を落とす合体魔法。\n敵全体に約5000ダメージと気絶。消費EP50。	"A combo spell that soaks the enemy with a tsunami, then drops a colossal bolt of
 lightning. Deals about 5000 damage to all enemies and stuns. Costs 50 EP."
 DB_Skills_150_name	Skills.json	Skills.json #150 (ミカヅチ（ウィン）)	name	ミカヅチ（ウィン）	Mikazuchi (Win)
@@ -14086,7 +14086,7 @@ Deals about 1200 damage to all enemies. Costs 30 EP."
 DB_Skills_159_name	Skills.json	Skills.json #159 (ツナミ敵用)	name	ツナミ敵用	Tsunami (Enemy)
 DB_Skills_15_description	Skills.json	Skills.json #15	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_15_name	Skills.json	Skills.json #15 (ひっかき)	name	ひっかき	Scratch
-DB_Skills_15_note	Skills.json	Skills.json #15	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_15_note	Skills.json	Skills.json #15	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_160_description	Skills.json	Skills.json #160	description	風の魔法。体の周囲を疾風が包み素早さが２倍になり、\n超人的な速度で動けるようになる。消費EP9。	"Wind magic. A gale wraps around the body, doubling agility and allowing movement
 at superhuman speed. Costs 9 EP."
 DB_Skills_160_name	Skills.json	Skills.json #160 (ハヤテ適用)	name	ハヤテ適用	Hayate (Applied)
@@ -14098,7 +14098,7 @@ Deals about 2000 damage to one enemy and stuns. Costs 40 EP."
 DB_Skills_162_name	Skills.json	Skills.json #162 (イカヅチ適用)	name	イカヅチ適用	Thunderclap (Applied)
 DB_Skills_163_description	Skills.json	Skills.json #163	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_163_name	Skills.json	Skills.json #163 (猛毒かみつき)	name	猛毒かみつき	Venomous Bite
-DB_Skills_163_note	Skills.json	Skills.json #163	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_163_note	Skills.json	Skills.json #163	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_164_description	Skills.json	Skills.json #164	description	巧みな槍さばきで敵を惑わし作り出した隙に突く、攻撃。\n防御力無視したダメージを与えつつ防御力を下げる。SP20。	"A thrust that confuses the enemy with deft spearplay and strikes the opening it
 creates. Ignores defense and lowers the enemy's defense. Costs 20 SP."
 DB_Skills_164_name	Skills.json	Skills.json #164 (フェイント突き)	name	フェイント突き	Feint Thrust
@@ -14112,7 +14112,7 @@ Ignores defense and lowers attack power. Costs 20 EP."
 DB_Skills_168_name	Skills.json	Skills.json #168 (ソードブレイカー適用)	name	ソードブレイカー適用	Sword Breaker (Applied)
 DB_Skills_169_description	Skills.json	Skills.json #169	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_169_name	Skills.json	Skills.json #169 (気絶攻撃バンデッド)	name	気絶攻撃バンデッド	Bandit Stun Attack
-DB_Skills_169_note	Skills.json	Skills.json #169	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_169_note	Skills.json	Skills.json #169	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_16_description	Skills.json	Skills.json #16	description	敵集団に走り込みながら大きく武器を振り回す。\n通常の攻撃よりも威力は下がる。直剣と曲刀のスキル。	"Charges into the enemy group, swinging a large weapon around.
 Weaker than a normal attack. A straight sword and curved sword skill."
 DB_Skills_16_name	Skills.json	Skills.json #16 (飛び回る)	name	飛び回る	Flit About
@@ -14121,7 +14121,7 @@ misses, but deals about double damage. Costs 18 SP."
 DB_Skills_170_name	Skills.json	Skills.json #170 (気合攻撃バンデッド)	name	気合攻撃バンデッド	Bandit Spirit Attack
 DB_Skills_171_description	Skills.json	Skills.json #171	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_171_name	Skills.json	Skills.json #171 (暗闇攻撃バンデッド)	name	暗闇攻撃バンデッド	Bandit Blind Attack
-DB_Skills_171_note	Skills.json	Skills.json #171	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_171_note	Skills.json	Skills.json #171	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_172_description	Skills.json	Skills.json #172	description	身を隠し敵集団の後ろに回ってから突然襲い掛かる。\n敵全体に防御無視ダメージ+混乱。SP30消費。	"Hides, circles behind the enemy group, and suddenly strikes.
 Ignores defense against all enemies and inflicts confusion. Costs 30 SP."
 DB_Skills_172_name	Skills.json	Skills.json #172 (アンブッシュ適用)	name	アンブッシュ適用	Ambush (Applied)
@@ -14138,24 +14138,24 @@ Weaker than a normal attack. A straight sword and curved sword skill."
 DB_Skills_17_name	Skills.json	Skills.json #17 (体当たり)	name	体当たり	Body Slam
 DB_Skills_18_description	Skills.json	Skills.json #18	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_18_name	Skills.json	Skills.json #18 (毒かみつき)	name	毒かみつき	Poison Bite
-DB_Skills_18_note	Skills.json	Skills.json #18	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_18_note	Skills.json	Skills.json #18	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_19_name	Skills.json	Skills.json #19 (くものいと)	name	くものいと	Spider Web
 DB_Skills_1_description	Skills.json	Skills.json #1	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_1_name	Skills.json	Skills.json #1 (攻撃)	name	攻撃	Attack
-DB_Skills_1_note	Skills.json	Skills.json #1	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_1_note	Skills.json	Skills.json #1	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_20_description	Skills.json	Skills.json #20	description	敵集団の足元を払う技。うまく行けば敵を転倒させる。\n転倒した敵は防御力が大きく下がる。槍のスキル。SP12消費。	"A skill that sweeps the enemy group's feet. If it works, the enemy falls.
 A fallen enemy's defense drops greatly. A spear skill. Costs 12 SP."
 DB_Skills_20_name	Skills.json	Skills.json #20 (足払い)	name	足払い	Leg Sweep
 DB_Skills_21_description	Skills.json	Skills.json #21	description	一太刀目で敵の防御を崩し、二太刀目で敵を切り裂く。\n敵の防御力の半分を無視した攻撃。刀のスキル。SP12消費。	"Breaks the enemy's defense with the first stroke and slashes with the second.
 An attack ignoring half the enemy's defense. A katana skill. Costs 12 SP."
 DB_Skills_21_name	Skills.json	Skills.json #21 (つばめ返し)	name	つばめ返し	Swallow Reversal
-DB_Skills_21_note	Skills.json	Skills.json #21	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_21_note	Skills.json	Skills.json #21	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_22_description	Skills.json	Skills.json #22	description	気合を溜めて大剣を大きく振り下ろす。ミスすることも\nあるが、約２倍の威力。SP18消費。	"Charges one's spirit and brings a great sword down in a huge swing. Sometimes
 misses, but deals about double damage. Costs 18 SP."
 DB_Skills_22_name	Skills.json	Skills.json #22 (気合い斬り)	name	気合い斬り	Spirit Slash
 DB_Skills_23_description	Skills.json	Skills.json #23	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_23_name	Skills.json	Skills.json #23 (毒の針)	name	毒の針	Poison Needle
-DB_Skills_23_note	Skills.json	Skills.json #23	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_23_note	Skills.json	Skills.json #23	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_24_name	Skills.json	Skills.json #24 (眠りの花粉)	name	眠りの花粉	Sleep Pollen
 DB_Skills_25_description	Skills.json	Skills.json #25	description	敵用	For enemies.
 DB_Skills_25_name	Skills.json	Skills.json #25 (鎧貫き)	name	鎧貫き	Armor Piercer
@@ -14164,7 +14164,7 @@ DB_Skills_26_name	Skills.json	Skills.json #26 (足払い)	name	足払い	Leg Swe
 DB_Skills_27_description	Skills.json	Skills.json #27	description	敵集団に走り込みながら大きく武器を振り回す。\n通常の攻撃よりも威力は下がる。直剣と曲刀のスキル。	"Charges into the enemy group, swinging a large weapon around.
 Weaker than a normal attack. A straight sword and curved sword skill."
 DB_Skills_27_name	Skills.json	Skills.json #27 (体当たり)	name	体当たり	Body Slam
-DB_Skills_27_note	Skills.json	Skills.json #27	note	いぬ	
+DB_Skills_27_note	Skills.json	Skills.json #27	note	いぬ	dog
 DB_Skills_28_description	Skills.json	Skills.json #28	description	地面すれすれから一瞬で敵の急所へ向かって突きあげる。\n敵は対応が遅れ防御力無視のダメージ。SP18消費。	"A thrust from near ground level that strikes at the enemy's vitals in an instant.
 The enemy can't react in time; ignores defense. Costs 18 SP."
 DB_Skills_28_name	Skills.json	Skills.json #28 (突き上げ)	name	突き上げ	Rising Thrust
@@ -14172,7 +14172,7 @@ DB_Skills_29_description	Skills.json	Skills.json #29	description	巧みな剣さ
 creates. Ignores defense and lowers the enemy's defense. Costs 20 SP."
 DB_Skills_29_name	Skills.json	Skills.json #29 (フェイント突き)	name	フェイント突き	Feint Thrust
 DB_Skills_2_name	Skills.json	Skills.json #2 (防御)	name	防御	Guard
-DB_Skills_2_note	Skills.json	Skills.json #2	note	スキル２番は［防御］コマンドを\n選択したときに使用されます。	
+DB_Skills_2_note	Skills.json	Skills.json #2	note	スキル２番は［防御］コマンドを\n選択したときに使用されます。	Skill 2 is used when the [Guard] command is selected.
 DB_Skills_30_description	Skills.json	Skills.json #30	description	風の魔法。体の周囲を疾風が包み素早さが２倍になり、\n超人的な速度で動けるようになる。重ね掛け無効。消費EP9。	"Wind magic. A gale wraps around the body, doubling agility and allowing movement
 at superhuman speed. Cannot be stacked. Costs 9 EP."
 DB_Skills_30_name	Skills.json	Skills.json #30 (ハヤテ)	name	ハヤテ	Hayate
@@ -14183,7 +14183,7 @@ DB_Skills_32_description	Skills.json	Skills.json #32	description	敵用	For enem
 DB_Skills_32_name	Skills.json	Skills.json #32 (足払いナウー)	name	足払いナウー	Nau Leg Sweep
 DB_Skills_33_description	Skills.json	Skills.json #33	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_33_name	Skills.json	Skills.json #33 (気絶攻撃)	name	気絶攻撃	Stun Attack
-DB_Skills_33_note	Skills.json	Skills.json #33	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_33_note	Skills.json	Skills.json #33	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_34_name	Skills.json	Skills.json #34 (２回攻撃ナウ―)	name	２回攻撃ナウ―	Nau Double Attack
 DB_Skills_35_description	Skills.json	Skills.json #35	description	気合を溜めて大剣を大きく振り下ろす。ミスすることも\nあるが、約２倍の威力。SP18消費。	"Charges one's spirit and brings a great sword down in a huge swing. Sometimes
 misses, but deals about double damage. Costs 18 SP."
@@ -14196,24 +14196,24 @@ allowing attacks with superhuman strength. Cannot be stacked. Costs 9 EP."
 DB_Skills_37_name	Skills.json	Skills.json #37 (キョウセンシ)	name	キョウセンシ	Warrior
 DB_Skills_38_description	Skills.json	Skills.json #38	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_38_name	Skills.json	Skills.json #38 (気絶攻撃)	name	気絶攻撃	Stun Attack
-DB_Skills_38_note	Skills.json	Skills.json #38	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_38_note	Skills.json	Skills.json #38	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_39_description	Skills.json	Skills.json #39	description	敵の頭部を真上から叩き斬る。脳天への衝撃で1ターン気絶\nすることがある。直剣と刀のスキル。消費SP18．	"Cuts down onto the enemy's head from directly above. The impact to the crown can
 stun for 1 turn. A straight sword and katana skill. Costs 18 SP."
 DB_Skills_39_name	Skills.json	Skills.json #39 (兜割り)	name	兜割り	Helm Splitter
-DB_Skills_39_note	Skills.json	Skills.json #39	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_39_note	Skills.json	Skills.json #39	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_3_name	Skills.json	Skills.json #3 (連続攻撃)	name	連続攻撃	Combo Attack
 DB_Skills_40_description	Skills.json	Skills.json #40	description	曲刀の持ち味である取り回しの良さを生かし、回転しながら\n敵に何度も切りつける。ランダム４回攻撃。消費SP18．	"Using the curved sword's easy handling, spins and slashes the enemy repeatedly.
 Random 4 hits. Costs 18 SP."
 DB_Skills_40_name	Skills.json	Skills.json #40 (ソードダンス)	name	ソードダンス	Sword Dance
 DB_Skills_41_description	Skills.json	Skills.json #41	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_41_name	Skills.json	Skills.json #41 (火炎斬り)	name	火炎斬り	Flame Slash
-DB_Skills_41_note	Skills.json	Skills.json #41	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_41_note	Skills.json	Skills.json #41	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_42_description	Skills.json	Skills.json #42	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_42_name	Skills.json	Skills.json #42 (いなずま斬り)	name	いなずま斬り	Lightning Slash
-DB_Skills_42_note	Skills.json	Skills.json #42	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_42_note	Skills.json	Skills.json #42	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_43_description	Skills.json	Skills.json #43	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_43_name	Skills.json	Skills.json #43 (つらら斬り)	name	つらら斬り	Icicle Slash
-DB_Skills_43_note	Skills.json	Skills.json #43	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_43_note	Skills.json	Skills.json #43	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_44_name	Skills.json	Skills.json #44 (ジンダイコ)	name	ジンダイコ	Jindaiko
 DB_Skills_45_name	Skills.json	Skills.json #45 (テッペキ（適用)	name	テッペキ（適用	Iron Wall (Applied)
 DB_Skills_46_name	Skills.json	Skills.json #46 (シップウ（適用)	name	シップウ（適用	Gale (Applied)
@@ -14250,12 +14250,12 @@ DB_Skills_60_name	Skills.json	Skills.json #60 (ミケーネ剣振り回し)	name
 DB_Skills_61_name	Skills.json	Skills.json #61 (叫び声)	name	叫び声	Battle Cry
 DB_Skills_62_description	Skills.json	Skills.json #62	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_62_name	Skills.json	Skills.json #62 (毒かみつき)	name	毒かみつき	Poison Bite
-DB_Skills_62_note	Skills.json	Skills.json #62	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_62_note	Skills.json	Skills.json #62	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_63_name	Skills.json	Skills.json #63 (しがみつき)	name	しがみつき	Cling
 DB_Skills_65_name	Skills.json	Skills.json #65 (２回攻撃ナウ―2回目)	name	２回攻撃ナウ―2回目	Nau Double Attack 2
 DB_Skills_66_description	Skills.json	Skills.json #66	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_66_name	Skills.json	Skills.json #66 (ナウ―気絶攻撃2回目)	name	ナウ―気絶攻撃2回目	Nau Stun Attack 2
-DB_Skills_66_note	Skills.json	Skills.json #66	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_66_note	Skills.json	Skills.json #66	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_67_description	Skills.json	Skills.json #67	description	敵用	For enemies.
 DB_Skills_67_name	Skills.json	Skills.json #67 (足払いナウー2回目)	name	足払いナウー2回目	Nau Leg Sweep 2
 DB_Skills_68_description	Skills.json	Skills.json #68	description	気合を溜めて大剣を大きく振り下ろす。ミスすることも\nあるが、約２倍の威力。SP18消費。	"Charges one's spirit and brings a great sword down in a huge swing. Sometimes
@@ -14280,7 +14280,7 @@ DB_Skills_73_name	Skills.json	Skills.json #73 (外れるフェイントピピン
 DB_Skills_74_description	Skills.json	Skills.json #74	description	敵の頭部を真上から叩き斬る。脳天への衝撃で1ターン気絶\nすることがある。直剣と刀のスキル。消費SP18．	"Cuts down onto the enemy's head from directly above. The impact to the crown can
 stun for 1 turn. A straight sword and katana skill. Costs 18 SP."
 DB_Skills_74_name	Skills.json	Skills.json #74 (外れるピピン兜割り)	name	外れるピピン兜割り	Missed Pipin Helm Splitter
-DB_Skills_74_note	Skills.json	Skills.json #74	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_74_note	Skills.json	Skills.json #74	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_75_description	Skills.json	Skills.json #75	description	風の魔法。鋭い真空の刃が敵の足元を切り裂く。\n敵単体に約800ダメージと素早さ低下。消費EP18。	"Wind magic. Sharp blades of vacuum tear at the enemy's feet.
 Deals about 800 damage to one enemy and lowers agility. Costs 18 EP."
 DB_Skills_75_name	Skills.json	Skills.json #75 (カマイタチ)	name	カマイタチ	Kamaitachi
@@ -14311,10 +14311,10 @@ DB_Skills_85_name	Skills.json	Skills.json #85 (ホノオの息)	name	ホノオ�
 DB_Skills_86_name	Skills.json	Skills.json #86 (眠りのうたごえ)	name	眠りのうたごえ	Sleeping Song
 DB_Skills_87_description	Skills.json	Skills.json #87	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_87_name	Skills.json	Skills.json #87 (毒の矢)	name	毒の矢	Poison Arrow
-DB_Skills_87_note	Skills.json	Skills.json #87	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_87_note	Skills.json	Skills.json #87	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_88_description	Skills.json	Skills.json #88	description	装備している武器で攻撃する。	Attacks with the equipped weapon.
 DB_Skills_88_name	Skills.json	Skills.json #88 (ダークビーム)	name	ダークビーム	Dark Beam
-DB_Skills_88_note	Skills.json	Skills.json #88	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_88_note	Skills.json	Skills.json #88	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_89_description	Skills.json	Skills.json #89	description	水の魔法。紋章の力で万金丹を超える薬水を作り出す。\n味方ひとりの気絶と転倒以外の状態異常を完治。消費EPは10。	"Water magic. Uses the power of the crest to create water surpassing Mankintan.
 Fully cures one ally of all status ailments except stun and knockdown.
 Costs 10 EP."
@@ -14341,7 +14341,7 @@ DB_Skills_95_description	Skills.json	Skills.json #95	description	一太刀目で
 with the second. Deals damage ignoring half the enemy's defense and lowers it.
 Costs 40 SP."
 DB_Skills_95_name	Skills.json	Skills.json #95 (真・つばめ返し)	name	真・つばめ返し	True Swallow Reversal
-DB_Skills_95_note	Skills.json	Skills.json #95	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
+DB_Skills_95_note	Skills.json	Skills.json #95	note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
 DB_Skills_96_description	Skills.json	Skills.json #96	description	完全に入れば一撃で相手を戦闘不能にする必殺剣。失敗すると\n魂を抜かれる逸話がある。約２倍ダメージ。SP25消費。	"A killing sword that, if it lands fully, fells the target in one blow. Legend says
 failure costs the user their soul. Deals about double damage. Costs 25 SP."
 DB_Skills_96_name	Skills.json	Skills.json #96 (流し斬り)	name	流し斬り	Flowing Slash
@@ -14357,7 +14357,7 @@ DB_States_14_name	States.json	States.json #14 (魔力暴走)	name	魔力暴走	M
 DB_States_15_name	States.json	States.json #15 (反撃の構え)	name	反撃の構え	Counter Stance
 DB_States_16_name	States.json	States.json #16 (ナウーの力)	name	ナウーの力	Power of Nau
 DB_States_1_name	States.json	States.json #1 (戦闘不能)	name	戦闘不能	Incapacitated
-DB_States_1_note	States.json	States.json #1	note	ステート１番はＨＰが０になったときに\n自動的に付加されます。	
+DB_States_1_note	States.json	States.json #1	note	ステート１番はＨＰが０になったときに\n自動的に付加されます。	State 1 is automatically applied when HP reaches 0.
 DB_States_2_name	States.json	States.json #2 (防御)	name	防御	Guard
 DB_States_3_name	States.json	States.json #3 (不死身)	name	不死身	Immortal
 DB_States_4_name	States.json	States.json #4 (毒)	name	毒	Poison
@@ -14484,141 +14484,141 @@ SYS_weaponTypes_6	System.json	weaponTypes	system	刀	Katana
 SYS_weaponTypes_7	System.json	weaponTypes	system	短刀	Short Sword
 DB_Troops_100_name	Troops.json	Troops.json #100 (髪が伸びる人形)	name	髪が伸びる人形	Hair-Growing Doll
 DB_Troops_101_name	Troops.json	Troops.json #101 (焔牛)	name	焔牛	Blaze Bull
-DB_Troops_102_name	Troops.json	Troops.json #102 (サムライボス用)	name	サムライボス用	
-DB_Troops_103_name	Troops.json	Troops.json #103 (火のサムライ, 氷のサムライ)	name	火のサムライ, 氷のサムライ	
-DB_Troops_104_name	Troops.json	Troops.json #104 (氷のサムライ, 風のサムライ)	name	氷のサムライ, 風のサムライ	
-DB_Troops_105_name	Troops.json	Troops.json #105 (髪が伸びる人形*3)	name	髪が伸びる人形*3	
-DB_Troops_106_name	Troops.json	Troops.json #106 (ミケーネ裏)	name	ミケーネ裏	
-DB_Troops_107_name	Troops.json	Troops.json #107 (ナウー, ミケーネ)	name	ナウー, ミケーネ	
+DB_Troops_102_name	Troops.json	Troops.json #102 (サムライボス用)	name	サムライボス用	Samurai Boss
+DB_Troops_103_name	Troops.json	Troops.json #103 (火のサムライ, 氷のサムライ)	name	火のサムライ, 氷のサムライ	Fire Samurai, Ice Samurai
+DB_Troops_104_name	Troops.json	Troops.json #104 (氷のサムライ, 風のサムライ)	name	氷のサムライ, 風のサムライ	Ice Samurai, Wind Samurai
+DB_Troops_105_name	Troops.json	Troops.json #105 (髪が伸びる人形*3)	name	髪が伸びる人形*3	Hair-Growing Doll x3
+DB_Troops_106_name	Troops.json	Troops.json #106 (ミケーネ裏)	name	ミケーネ裏	Mycenae (Rear)
+DB_Troops_107_name	Troops.json	Troops.json #107 (ナウー, ミケーネ)	name	ナウー, ミケーネ	Nau, Mycenae
 DB_Troops_108_name	Troops.json	Troops.json #108 (ダフィール)	name	ダフィール	Dafill
-DB_Troops_109_name	Troops.json	Troops.json #109 (操られたピピン　裏)	name	操られたピピン　裏	
+DB_Troops_109_name	Troops.json	Troops.json #109 (操られたピピン　裏)	name	操られたピピン　裏	Brainwashed Pipin (Rear)
 DB_Troops_10_name	Troops.json	Troops.json #10 (人食いハチ)	name	人食いハチ	Man-eating Bee
-DB_Troops_110_name	Troops.json	Troops.json #110 (雲ガメ　ボス)	name	雲ガメ　ボス	
-DB_Troops_111_name	Troops.json	Troops.json #111 (雷イヌ　ボス)	name	雷イヌ　ボス	
+DB_Troops_110_name	Troops.json	Troops.json #110 (雲ガメ　ボス)	name	雲ガメ　ボス	Cloud Turtle, Boss
+DB_Troops_111_name	Troops.json	Troops.json #111 (雷イヌ　ボス)	name	雷イヌ　ボス	Thunder Dog, Boss
 DB_Troops_112_name	Troops.json	Troops.json #112 (雲ガメ)	name	雲ガメ	Cloud Turtle
 DB_Troops_113_name	Troops.json	Troops.json #113 (雷イヌ)	name	雷イヌ	Thunder Dog
 DB_Troops_114_name	Troops.json	Troops.json #114 (ひとつ目のアクマ)	name	ひとつ目のアクマ	One-Eyed Fiend
 DB_Troops_115_name	Troops.json	Troops.json #115 (青い巨人)	name	青い巨人	Blue Giant
-DB_Troops_116_name	Troops.json	Troops.json #116 (猛毒ヘビ*3)	name	猛毒ヘビ*3	
-DB_Troops_117_name	Troops.json	Troops.json #117 (猛毒ヘビ*2)	name	猛毒ヘビ*2	
+DB_Troops_116_name	Troops.json	Troops.json #116 (猛毒ヘビ*3)	name	猛毒ヘビ*3	Venomous Snake x3
+DB_Troops_117_name	Troops.json	Troops.json #117 (猛毒ヘビ*2)	name	猛毒ヘビ*2	Venomous Snake x2
 DB_Troops_118_name	Troops.json	Troops.json #118 (サヨコ)	name	サヨコ	Sayoko
 DB_Troops_119_name	Troops.json	Troops.json #119 (ダークフェアリー)	name	ダークフェアリー	Dark Fairy
-DB_Troops_11_name	Troops.json	Troops.json #11 (人食いハチ*2)	name	人食いハチ*2	
+DB_Troops_11_name	Troops.json	Troops.json #11 (人食いハチ*2)	name	人食いハチ*2	Man-eating Bee x2
 DB_Troops_120_name	Troops.json	Troops.json #120 (凍りついたヒノタマ)	name	凍りついたヒノタマ	Frozen Hinotama
 DB_Troops_121_name	Troops.json	Troops.json #121 (燃え盛るヒノタマ)	name	燃え盛るヒノタマ	Burning Hinotama
-DB_Troops_122_name	Troops.json	Troops.json #122 (サヨコ, ダークフェアリー, 猛毒ヘビ)	name	サヨコ, ダークフェアリー, 猛毒ヘビ	
-DB_Troops_123_name	Troops.json	Troops.json #123 (燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ)	name	燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ	
-DB_Troops_124_name	Troops.json	Troops.json #124 (燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ)	name	燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ	
-DB_Troops_125_name	Troops.json	Troops.json #125 (ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ)	name	ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ	
-DB_Troops_126_name	Troops.json	Troops.json #126 (ダークフェアリー, 青い巨人)	name	ダークフェアリー, 青い巨人	
-DB_Troops_127_name	Troops.json	Troops.json #127 (燃え盛るヒノタマ, 青い巨人)	name	燃え盛るヒノタマ, 青い巨人	
-DB_Troops_128_name	Troops.json	Troops.json #128 (青い巨人, 凍りついたヒノタマ)	name	青い巨人, 凍りついたヒノタマ	
+DB_Troops_122_name	Troops.json	Troops.json #122 (サヨコ, ダークフェアリー, 猛毒ヘビ)	name	サヨコ, ダークフェアリー, 猛毒ヘビ	Sayoko, Dark Fairy, Venomous Snake
+DB_Troops_123_name	Troops.json	Troops.json #123 (燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ)	name	燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ	Burning Hinotama, Dark Fairy, Frozen Hinotama
+DB_Troops_124_name	Troops.json	Troops.json #124 (燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ)	name	燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ	Burning Hinotama, Venomous Snake, Frozen Hinotama
+DB_Troops_125_name	Troops.json	Troops.json #125 (ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ)	name	ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ	Dark Fairy, Burning Hinotama, Venomous Snake
+DB_Troops_126_name	Troops.json	Troops.json #126 (ダークフェアリー, 青い巨人)	name	ダークフェアリー, 青い巨人	Dark Fairy, Blue Giant
+DB_Troops_127_name	Troops.json	Troops.json #127 (燃え盛るヒノタマ, 青い巨人)	name	燃え盛るヒノタマ, 青い巨人	Burning Hinotama, Blue Giant
+DB_Troops_128_name	Troops.json	Troops.json #128 (青い巨人, 凍りついたヒノタマ)	name	青い巨人, 凍りついたヒノタマ	Blue Giant, Frozen Hinotama
 DB_Troops_129_name	Troops.json	Troops.json #129 (凄腕バンデッド)	name	凄腕バンデッド	Skilled Bandit
-DB_Troops_12_name	Troops.json	Troops.json #12 (人食い草*2)	name	人食い草*2	
-DB_Troops_130_name	Troops.json	Troops.json #130 (凄腕バンデッド, 凍りついたヒノタマ)	name	凄腕バンデッド, 凍りついたヒノタマ	
-DB_Troops_131_name	Troops.json	Troops.json #131 (凄腕バンデッド, 燃え盛るヒノタマ)	name	凄腕バンデッド, 燃え盛るヒノタマ	
-DB_Troops_132_name	Troops.json	Troops.json #132 (サヨコ, 凄腕バンデッド, 猛毒ヘビ)	name	サヨコ, 凄腕バンデッド, 猛毒ヘビ	
-DB_Troops_133_name	Troops.json	Troops.json #133 (凄腕バンデッド, 青い巨人)	name	凄腕バンデッド, 青い巨人	
-DB_Troops_135_name	Troops.json	Troops.json #135 (大魔道士ピケピケ　裏)	name	大魔道士ピケピケ　裏	
-DB_Troops_136_name	Troops.json	Troops.json #136 (ミケーネ　裏)	name	ミケーネ　裏	
-DB_Troops_137_name	Troops.json	Troops.json #137 (ナウー　裏)	name	ナウー　裏	
-DB_Troops_138_name	Troops.json	Troops.json #138 (魔王ダフィール一回目　裏)	name	魔王ダフィール一回目　裏	
-DB_Troops_139_name	Troops.json	Troops.json #139 (魔王ダフィール本番　裏)	name	魔王ダフィール本番　裏	
+DB_Troops_12_name	Troops.json	Troops.json #12 (人食い草*2)	name	人食い草*2	Man-eating Grass x2
+DB_Troops_130_name	Troops.json	Troops.json #130 (凄腕バンデッド, 凍りついたヒノタマ)	name	凄腕バンデッド, 凍りついたヒノタマ	Skilled Bandit, Frozen Hinotama
+DB_Troops_131_name	Troops.json	Troops.json #131 (凄腕バンデッド, 燃え盛るヒノタマ)	name	凄腕バンデッド, 燃え盛るヒノタマ	Skilled Bandit, Burning Hinotama
+DB_Troops_132_name	Troops.json	Troops.json #132 (サヨコ, 凄腕バンデッド, 猛毒ヘビ)	name	サヨコ, 凄腕バンデッド, 猛毒ヘビ	Sayoko, Skilled Bandit, Venomous Snake
+DB_Troops_133_name	Troops.json	Troops.json #133 (凄腕バンデッド, 青い巨人)	name	凄腕バンデッド, 青い巨人	Skilled Bandit, Blue Giant
+DB_Troops_135_name	Troops.json	Troops.json #135 (大魔道士ピケピケ　裏)	name	大魔道士ピケピケ　裏	Grand Mage Pikepike (Rear)
+DB_Troops_136_name	Troops.json	Troops.json #136 (ミケーネ　裏)	name	ミケーネ　裏	Mycenae (Rear)
+DB_Troops_137_name	Troops.json	Troops.json #137 (ナウー　裏)	name	ナウー　裏	Nau (Rear)
+DB_Troops_138_name	Troops.json	Troops.json #138 (魔王ダフィール一回目　裏)	name	魔王ダフィール一回目　裏	Demon King Dafill, First Fight (Rear)
+DB_Troops_139_name	Troops.json	Troops.json #139 (魔王ダフィール本番　裏)	name	魔王ダフィール本番　裏	Demon King Dafill, The Real Thing (Rear)
 DB_Troops_13_name	Troops.json	Troops.json #13 (新米バンデッド)	name	新米バンデッド	Rookie Bandit
-DB_Troops_140_name	Troops.json	Troops.json #140 (大魔王ダフィール　裏)	name	大魔王ダフィール　裏	
+DB_Troops_140_name	Troops.json	Troops.json #140 (大魔王ダフィール　裏)	name	大魔王ダフィール　裏	Great Demon King Dafill (Rear)
 DB_Troops_141_name	Troops.json	Troops.json #141 (闇の王)	name	闇の王	Dark King
 DB_Troops_142_name	Troops.json	Troops.json #142 (伝説のバンデッド)	name	伝説のバンデッド	Legendary Bandit
-DB_Troops_14_name	Troops.json	Troops.json #14 (ナウー本番戦闘)	name	ナウー本番戦闘	
+DB_Troops_14_name	Troops.json	Troops.json #14 (ナウー本番戦闘)	name	ナウー本番戦闘	Nau, Final Battle
 DB_Troops_15_name	Troops.json	Troops.json #15 (娘さん)	name	娘さん	The Girl
-DB_Troops_16_name	Troops.json	Troops.json #16 (ナウー自動戦闘)	name	ナウー自動戦闘	
+DB_Troops_16_name	Troops.json	Troops.json #16 (ナウー自動戦闘)	name	ナウー自動戦闘	Nau, Auto Battle
 DB_Troops_17_name	Troops.json	Troops.json #17 (デザートウルフ)	name	デザートウルフ	Desert Wolf
-DB_Troops_18_name	Troops.json	Troops.json #18 (デザートウルフ*2)	name	デザートウルフ*2	
+DB_Troops_18_name	Troops.json	Troops.json #18 (デザートウルフ*2)	name	デザートウルフ*2	Desert Wolf x2
 DB_Troops_19_name	Troops.json	Troops.json #19 (マムシ)	name	マムシ	Mamushi
-DB_Troops_1_name	Troops.json	Troops.json #1 (人食いコウモリ*3)	name	人食いコウモリ*3	
+DB_Troops_1_name	Troops.json	Troops.json #1 (人食いコウモリ*3)	name	人食いコウモリ*3	Man-eating Bat x3
 DB_Troops_20_name	Troops.json	Troops.json #20 (ハブ)	name	ハブ	Habu
 DB_Troops_21_name	Troops.json	Troops.json #21 (アオダイショー)	name	アオダイショー	Aodaisho
-DB_Troops_22_name	Troops.json	Troops.json #22 (アオダイショー, マムシ)	name	アオダイショー, マムシ	
-DB_Troops_23_name	Troops.json	Troops.json #23 (ハブ, アオダイショー)	name	ハブ, アオダイショー	
-DB_Troops_24_name	Troops.json	Troops.json #24 (マムシ*2)	name	マムシ*2	
-DB_Troops_25_name	Troops.json	Troops.json #25 (ハブ, マムシ, アオダイショー)	name	ハブ, マムシ, アオダイショー	
-DB_Troops_26_name	Troops.json	Troops.json #26 (動く人形*3)	name	動く人形*3	
+DB_Troops_22_name	Troops.json	Troops.json #22 (アオダイショー, マムシ)	name	アオダイショー, マムシ	Aodaisho, Mamushi
+DB_Troops_23_name	Troops.json	Troops.json #23 (ハブ, アオダイショー)	name	ハブ, アオダイショー	Habu, Aodaisho
+DB_Troops_24_name	Troops.json	Troops.json #24 (マムシ*2)	name	マムシ*2	Mamushi x2
+DB_Troops_25_name	Troops.json	Troops.json #25 (ハブ, マムシ, アオダイショー)	name	ハブ, マムシ, アオダイショー	Habu, Mamushi, Aodaisho
+DB_Troops_26_name	Troops.json	Troops.json #26 (動く人形*3)	name	動く人形*3	Moving Doll x3
 DB_Troops_27_name	Troops.json	Troops.json #27 (火牛)	name	火牛	Flame Bull
 DB_Troops_28_name	Troops.json	Troops.json #28 (炎のアクマ)	name	炎のアクマ	Flame Fiend
 DB_Troops_29_name	Troops.json	Troops.json #29 (風のアクマ)	name	風のアクマ	Wind Fiend
-DB_Troops_2_name	Troops.json	Troops.json #2 (人食いネズミ*2)	name	人食いネズミ*2	
+DB_Troops_2_name	Troops.json	Troops.json #2 (人食いネズミ*2)	name	人食いネズミ*2	Man-eating Rat x2
 DB_Troops_30_name	Troops.json	Troops.json #30 (氷のアクマ)	name	氷のアクマ	Ice Fiend
-DB_Troops_31_name	Troops.json	Troops.json #31 (動く人形*2)	name	動く人形*2	
+DB_Troops_31_name	Troops.json	Troops.json #31 (動く人形*2)	name	動く人形*2	Moving Doll x2
 DB_Troops_32_name	Troops.json	Troops.json #32 (動く人形)	name	動く人形	Moving Doll
 DB_Troops_33_name	Troops.json	Troops.json #33 (火牛)	name	火牛	Flame Bull
-DB_Troops_34_name	Troops.json	Troops.json #34 (炎のアクマ, 風のアクマ, 氷のアクマ)	name	炎のアクマ, 風のアクマ, 氷のアクマ	
-DB_Troops_35_name	Troops.json	Troops.json #35 (ミケーネ, 青龍)	name	ミケーネ, 青龍	
+DB_Troops_34_name	Troops.json	Troops.json #34 (炎のアクマ, 風のアクマ, 氷のアクマ)	name	炎のアクマ, 風のアクマ, 氷のアクマ	Flame Fiend, Wind Fiend, Ice Fiend
+DB_Troops_35_name	Troops.json	Troops.json #35 (ミケーネ, 青龍)	name	ミケーネ, 青龍	Mycenae, Seiryu
 DB_Troops_36_name	Troops.json	Troops.json #36 (ミケーネ)	name	ミケーネ	Mycenae
-DB_Troops_37_name	Troops.json	Troops.json #37 (火食い鳥*4, 火牛)	name	火食い鳥*4, 火牛	
-DB_Troops_38_name	Troops.json	Troops.json #38 (サチコ*3)	name	サチコ*3	
-DB_Troops_39_name	Troops.json	Troops.json #39 (サチコ*2, 火牛)	name	サチコ*2, 火牛	
-DB_Troops_3_name	Troops.json	Troops.json #3 (人食いグモ*2)	name	人食いグモ*2	
-DB_Troops_41_name	Troops.json	Troops.json #41 (ナウー2回目)	name	ナウー2回目	
+DB_Troops_37_name	Troops.json	Troops.json #37 (火食い鳥*4, 火牛)	name	火食い鳥*4, 火牛	Fire-Eating Bird x4, Flame Bull
+DB_Troops_38_name	Troops.json	Troops.json #38 (サチコ*3)	name	サチコ*3	Sachiko x3
+DB_Troops_39_name	Troops.json	Troops.json #39 (サチコ*2, 火牛)	name	サチコ*2, 火牛	Sachiko x2, Flame Bull
+DB_Troops_3_name	Troops.json	Troops.json #3 (人食いグモ*2)	name	人食いグモ*2	Man-eating Spider x2
+DB_Troops_41_name	Troops.json	Troops.json #41 (ナウー2回目)	name	ナウー2回目	Nau, Second Fight
 DB_Troops_42_name	Troops.json	Troops.json #42 (ひとつ目のアクマ)	name	ひとつ目のアクマ	One-Eyed Fiend
 DB_Troops_43_name	Troops.json	Troops.json #43 (操られたピピン)	name	操られたピピン	Brainwashed Pipin
 DB_Troops_45_name	Troops.json	Troops.json #45 (火吹きイヌ)	name	火吹きイヌ	Fire-Breathing Dog
 DB_Troops_46_name	Troops.json	Troops.json #46 (火牛)	name	火牛	Flame Bull
-DB_Troops_47_name	Troops.json	Troops.json #47 (サチコ, 火牛)	name	サチコ, 火牛	
+DB_Troops_47_name	Troops.json	Troops.json #47 (サチコ, 火牛)	name	サチコ, 火牛	Sachiko, Flame Bull
 DB_Troops_48_name	Troops.json	Troops.json #48 (雷牛)	name	雷牛	Thunder Bull
-DB_Troops_49_name	Troops.json	Troops.json #49 (雷牛, サチコ)	name	雷牛, サチコ	
-DB_Troops_4_name	Troops.json	Troops.json #4 (人食いコウモリ*2, 人食いネズミ)	name	人食いコウモリ*2, 人食いネズミ	
-DB_Troops_50_name	Troops.json	Troops.json #50 (火食い鳥*2, 火牛)	name	火食い鳥*2, 火牛	
-DB_Troops_51_name	Troops.json	Troops.json #51 (火吹きイヌ*2)	name	火吹きイヌ*2	
-DB_Troops_52_name	Troops.json	Troops.json #52 (火食い鳥*2, 火吹きイヌ)	name	火食い鳥*2, 火吹きイヌ	
-DB_Troops_53_name	Troops.json	Troops.json #53 (サチコ*3)	name	サチコ*3	
-DB_Troops_54_name	Troops.json	Troops.json #54 (火牛, 雷牛)	name	火牛, 雷牛	
-DB_Troops_55_name	Troops.json	Troops.json #55 (てすと)	name	てすと	
-DB_Troops_56_name	Troops.json	Troops.json #56 (焼き焦げた人形*2, 凍りついた人形*2)	name	焼き焦げた人形*2, 凍りついた人形*2	
-DB_Troops_57_name	Troops.json	Troops.json #57 (生えてきた目玉*2)	name	生えてきた目玉*2	
-DB_Troops_58_name	Troops.json	Troops.json #58 (生えてきた目玉*3)	name	生えてきた目玉*3	
+DB_Troops_49_name	Troops.json	Troops.json #49 (雷牛, サチコ)	name	雷牛, サチコ	Thunder Bull, Sachiko
+DB_Troops_4_name	Troops.json	Troops.json #4 (人食いコウモリ*2, 人食いネズミ)	name	人食いコウモリ*2, 人食いネズミ	Man-eating Bat x2, Man-eating Rat
+DB_Troops_50_name	Troops.json	Troops.json #50 (火食い鳥*2, 火牛)	name	火食い鳥*2, 火牛	Fire-Eating Bird x2, Flame Bull
+DB_Troops_51_name	Troops.json	Troops.json #51 (火吹きイヌ*2)	name	火吹きイヌ*2	Fire-Breathing Dog x2
+DB_Troops_52_name	Troops.json	Troops.json #52 (火食い鳥*2, 火吹きイヌ)	name	火食い鳥*2, 火吹きイヌ	Fire-Eating Bird x2, Fire-Breathing Dog
+DB_Troops_53_name	Troops.json	Troops.json #53 (サチコ*3)	name	サチコ*3	Sachiko x3
+DB_Troops_54_name	Troops.json	Troops.json #54 (火牛, 雷牛)	name	火牛, 雷牛	Flame Bull, Thunder Bull
+DB_Troops_55_name	Troops.json	Troops.json #55 (てすと)	name	てすと	test
+DB_Troops_56_name	Troops.json	Troops.json #56 (焼き焦げた人形*2, 凍りついた人形*2)	name	焼き焦げた人形*2, 凍りついた人形*2	Charred Doll x2, Frozen Doll x2
+DB_Troops_57_name	Troops.json	Troops.json #57 (生えてきた目玉*2)	name	生えてきた目玉*2	Growing Eyeball x2
+DB_Troops_58_name	Troops.json	Troops.json #58 (生えてきた目玉*3)	name	生えてきた目玉*3	Growing Eyeball x3
 DB_Troops_59_name	Troops.json	Troops.json #59 (踊り狂うアクマ)	name	踊り狂うアクマ	Dancing Fiend
-DB_Troops_5_name	Troops.json	Troops.json #5 (人食いコウモリ*2, 人食いグモ*2)	name	人食いコウモリ*2, 人食いグモ*2	
+DB_Troops_5_name	Troops.json	Troops.json #5 (人食いコウモリ*2, 人食いグモ*2)	name	人食いコウモリ*2, 人食いグモ*2	Man-eating Bat x2, Man-eating Spider x2
 DB_Troops_60_name	Troops.json	Troops.json #60 (雷を帯びた妖精)	name	雷を帯びた妖精	Thunder Fairy
-DB_Troops_61_name	Troops.json	Troops.json #61 (雷を帯びた妖精*2)	name	雷を帯びた妖精*2	
+DB_Troops_61_name	Troops.json	Troops.json #61 (雷を帯びた妖精*2)	name	雷を帯びた妖精*2	Thunder Fairy x2
 DB_Troops_62_name	Troops.json	Troops.json #62 (セイレーン)	name	セイレーン	Siren
-DB_Troops_63_name	Troops.json	Troops.json #63 (焼き焦げた人形, セイレーン, 凍りついた人形)	name	焼き焦げた人形, セイレーン, 凍りついた人形	
-DB_Troops_64_name	Troops.json	Troops.json #64 (生えてきた目玉*2, 踊り狂うアクマ)	name	生えてきた目玉*2, 踊り狂うアクマ	
-DB_Troops_65_name	Troops.json	Troops.json #65 (凍りついた人形, 火吹きイヌ, 焼き焦げた人形)	name	凍りついた人形, 火吹きイヌ, 焼き焦げた人形	
-DB_Troops_66_name	Troops.json	Troops.json #66 (雷を帯びた妖精*2, 踊り狂うアクマ)	name	雷を帯びた妖精*2, 踊り狂うアクマ	
-DB_Troops_67_name	Troops.json	Troops.json #67 (雷を帯びた妖精*2, セイレーン)	name	雷を帯びた妖精*2, セイレーン	
-DB_Troops_68_name	Troops.json	Troops.json #68 (雷を帯びた妖精*2, 雷牛)	name	雷を帯びた妖精*2, 雷牛	
-DB_Troops_69_name	Troops.json	Troops.json #69 (凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形)	name	凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形	
-DB_Troops_6_name	Troops.json	Troops.json #6 (人食いネズミ*2, 人食いグモ*2)	name	人食いネズミ*2, 人食いグモ*2	
-DB_Troops_70_name	Troops.json	Troops.json #70 (焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形)	name	焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形	
-DB_Troops_71_name	Troops.json	Troops.json #71 (踊り狂うアクマ*3)	name	踊り狂うアクマ*3	
-DB_Troops_72_name	Troops.json	Troops.json #72 (生えてきた目玉*4)	name	生えてきた目玉*4	
+DB_Troops_63_name	Troops.json	Troops.json #63 (焼き焦げた人形, セイレーン, 凍りついた人形)	name	焼き焦げた人形, セイレーン, 凍りついた人形	Charred Doll, Siren, Frozen Doll
+DB_Troops_64_name	Troops.json	Troops.json #64 (生えてきた目玉*2, 踊り狂うアクマ)	name	生えてきた目玉*2, 踊り狂うアクマ	Growing Eyeball x2, Dancing Fiend
+DB_Troops_65_name	Troops.json	Troops.json #65 (凍りついた人形, 火吹きイヌ, 焼き焦げた人形)	name	凍りついた人形, 火吹きイヌ, 焼き焦げた人形	Frozen Doll, Fire-Breathing Dog, Charred Doll
+DB_Troops_66_name	Troops.json	Troops.json #66 (雷を帯びた妖精*2, 踊り狂うアクマ)	name	雷を帯びた妖精*2, 踊り狂うアクマ	Thunder Fairy x2, Dancing Fiend
+DB_Troops_67_name	Troops.json	Troops.json #67 (雷を帯びた妖精*2, セイレーン)	name	雷を帯びた妖精*2, セイレーン	Thunder Fairy x2, Siren
+DB_Troops_68_name	Troops.json	Troops.json #68 (雷を帯びた妖精*2, 雷牛)	name	雷を帯びた妖精*2, 雷牛	Thunder Fairy x2, Thunder Bull
+DB_Troops_69_name	Troops.json	Troops.json #69 (凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形)	name	凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形	Frozen Doll, Siren, Growing Eyeball, Charred Doll
+DB_Troops_6_name	Troops.json	Troops.json #6 (人食いネズミ*2, 人食いグモ*2)	name	人食いネズミ*2, 人食いグモ*2	Man-eating Rat x2, Man-eating Spider x2
+DB_Troops_70_name	Troops.json	Troops.json #70 (焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形)	name	焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形	Charred Doll, Dancing Fiend, Siren, Frozen Doll
+DB_Troops_71_name	Troops.json	Troops.json #71 (踊り狂うアクマ*3)	name	踊り狂うアクマ*3	Dancing Fiend x3
+DB_Troops_72_name	Troops.json	Troops.json #72 (生えてきた目玉*4)	name	生えてきた目玉*4	Growing Eyeball x4
 DB_Troops_74_name	Troops.json	Troops.json #74 (ヤバミネーション)	name	ヤバミネーション	Yabamination
 DB_Troops_75_name	Troops.json	Troops.json #75 (暗くかがやく龍)	name	暗くかがやく龍	Darkly Shining Dragon
-DB_Troops_76_name	Troops.json	Troops.json #76 (ヤバミネーションざこ)	name	ヤバミネーションざこ	
-DB_Troops_77_name	Troops.json	Troops.json #77 (暗くかがやく龍ざこ)	name	暗くかがやく龍ざこ	
+DB_Troops_76_name	Troops.json	Troops.json #76 (ヤバミネーションざこ)	name	ヤバミネーションざこ	Yabamination, Trash Mob
+DB_Troops_77_name	Troops.json	Troops.json #77 (暗くかがやく龍ざこ)	name	暗くかがやく龍ざこ	Darkly Shining Dragon, Trash Mob
 DB_Troops_78_name	Troops.json	Troops.json #78 (大魔道士ピケピケ)	name	大魔道士ピケピケ	Grand Mage Pikepike
 DB_Troops_79_name	Troops.json	Troops.json #79 (ミケーネ)	name	ミケーネ	Mycenae
 DB_Troops_7_name	Troops.json	Troops.json #7 (人食いグモ)	name	人食いグモ	Man-eating Spider
 DB_Troops_80_name	Troops.json	Troops.json #80 (ナウー)	name	ナウー	Nau
-DB_Troops_81_name	Troops.json	Troops.json #81 (魔王ダフィール一回目)	name	魔王ダフィール一回目	
-DB_Troops_82_name	Troops.json	Troops.json #82 (魔王ダフィール本番)	name	魔王ダフィール本番	
+DB_Troops_81_name	Troops.json	Troops.json #81 (魔王ダフィール一回目)	name	魔王ダフィール一回目	Demon King Dafill, First Fight
+DB_Troops_82_name	Troops.json	Troops.json #82 (魔王ダフィール本番)	name	魔王ダフィール本番	Demon King Dafill, The Real Thing
 DB_Troops_83_name	Troops.json	Troops.json #83 (大魔王ダフィール)	name	大魔王ダフィール	Great Demon King Dafill
 DB_Troops_84_name	Troops.json	Troops.json #84 (ピケピケ)	name	ピケピケ	Pikepike
-DB_Troops_85_name	Troops.json	Troops.json #85 (人食いバット*3)	name	人食いバット*3	
-DB_Troops_86_name	Troops.json	Troops.json #86 (人食いラット*2)	name	人食いラット*2	
-DB_Troops_87_name	Troops.json	Troops.json #87 (人食いスパイダー*2)	name	人食いスパイダー*2	
-DB_Troops_88_name	Troops.json	Troops.json #88 (人食いバット*2, 人食いラット)	name	人食いバット*2, 人食いラット	
-DB_Troops_89_name	Troops.json	Troops.json #89 (人食いバット*2, 人食いスパイダー*2)	name	人食いバット*2, 人食いスパイダー*2	
-DB_Troops_8_name	Troops.json	Troops.json #8 (人食いグモ*3)	name	人食いグモ*3	
-DB_Troops_90_name	Troops.json	Troops.json #90 (人食いラット*2, 人食いスパイダー*2)	name	人食いラット*2, 人食いスパイダー*2	
+DB_Troops_85_name	Troops.json	Troops.json #85 (人食いバット*3)	name	人食いバット*3	Man-eating Bat x3
+DB_Troops_86_name	Troops.json	Troops.json #86 (人食いラット*2)	name	人食いラット*2	Man-eating Rat x2
+DB_Troops_87_name	Troops.json	Troops.json #87 (人食いスパイダー*2)	name	人食いスパイダー*2	Man-eating Spider x2
+DB_Troops_88_name	Troops.json	Troops.json #88 (人食いバット*2, 人食いラット)	name	人食いバット*2, 人食いラット	Man-eating Bat x2, Man-eating Rat
+DB_Troops_89_name	Troops.json	Troops.json #89 (人食いバット*2, 人食いスパイダー*2)	name	人食いバット*2, 人食いスパイダー*2	Man-eating Bat x2, Man-eating Spider x2
+DB_Troops_8_name	Troops.json	Troops.json #8 (人食いグモ*3)	name	人食いグモ*3	Man-eating Spider x3
+DB_Troops_90_name	Troops.json	Troops.json #90 (人食いラット*2, 人食いスパイダー*2)	name	人食いラット*2, 人食いスパイダー*2	Man-eating Rat x2, Man-eating Spider x2
 DB_Troops_91_name	Troops.json	Troops.json #91 (人食いスパイダー)	name	人食いスパイダー	Man-eating Spider
-DB_Troops_92_name	Troops.json	Troops.json #92 (人食いスパイダー*3)	name	人食いスパイダー*3	
+DB_Troops_92_name	Troops.json	Troops.json #92 (人食いスパイダー*3)	name	人食いスパイダー*3	Man-eating Spider x3
 DB_Troops_93_name	Troops.json	Troops.json #93 (人食いドッグ)	name	人食いドッグ	Man-eating Dog
 DB_Troops_94_name	Troops.json	Troops.json #94 (狂気のジャクリーン)	name	狂気のジャクリーン	Mad Jacqueline
-DB_Troops_95_name	Troops.json	Troops.json #95 (ナウー本番戦闘　裏)	name	ナウー本番戦闘　裏	
+DB_Troops_95_name	Troops.json	Troops.json #95 (ナウー本番戦闘　裏)	name	ナウー本番戦闘　裏	Nau, Final Battle (Rear)
 DB_Troops_96_name	Troops.json	Troops.json #96 (火のサムライ)	name	火のサムライ	Fire Samurai
 DB_Troops_97_name	Troops.json	Troops.json #97 (風のサムライ)	name	風のサムライ	Wind Samurai
 DB_Troops_98_name	Troops.json	Troops.json #98 (氷のサムライ)	name	氷のサムライ	Ice Samurai
-DB_Troops_99_name	Troops.json	Troops.json #99 (髪が伸びる人形*2)	name	髪が伸びる人形*2	
+DB_Troops_99_name	Troops.json	Troops.json #99 (髪が伸びる人形*2)	name	髪が伸びる人形*2	Hair-Growing Doll x2
 DB_Troops_9_name	Troops.json	Troops.json #9 (人食いイヌ)	name	人食いイヌ	Man-eating Dog
 DB_Weapons_10_description	Weapons.json	Weapons.json #10	description	護身用の短剣。会心率と素早さが大きくアップ。スキル1個。\nウィンとホノオとピピンが装備できる。	"A dagger for self-defense. Greatly raises critical rate and agility.
 1 skill slot. Equippable by Win, Hono and Pipin."

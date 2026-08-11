@@ -1,29 +1,29 @@
 id	japanese	translation
-DB_Skills_109_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_111_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_119_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_144_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_14_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_15_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_163_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_169_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_171_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_18_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_1_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_21_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_23_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_27_note	いぬ	
-DB_Skills_2_note	スキル２番は［防御］コマンドを\n選択したときに使用されます。	
-DB_Skills_33_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_38_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_39_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_41_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_42_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_43_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_62_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_66_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_74_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_87_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_88_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_Skills_95_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	
-DB_States_1_note	ステート１番はＨＰが０になったときに\n自動的に付加されます。	
+DB_Skills_109_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_111_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_119_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_144_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_14_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_15_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_163_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_169_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_171_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_18_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_1_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_21_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_23_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_27_note	いぬ	dog
+DB_Skills_2_note	スキル２番は［防御］コマンドを\n選択したときに使用されます。	Skill 2 is used when the [Guard] command is selected.
+DB_Skills_33_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_38_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_39_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_41_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_42_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_43_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_62_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_66_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_74_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_87_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_88_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_Skills_95_note	スキル１番は［攻撃］コマンドを\n選択したときに使用されます。	Skill 1 is used when the [Attack] command is selected.
+DB_States_1_note	ステート１番はＨＰが０になったときに\n自動的に付加されます。	State 1 is automatically applied when HP reaches 0.
