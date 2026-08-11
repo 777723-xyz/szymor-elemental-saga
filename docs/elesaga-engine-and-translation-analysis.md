@@ -106,15 +106,24 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
 - Choice branches (code 402) are matched by **index** (`params[0]`), not by text.
 - `docs/text/plugin.tsv` (lowercase) is a stale leftover from an earlier run; ignore it.
 
-### Translation progress (Phase 1)
-- **11,635 / 14,611 strings (79.6%)** translated as of this commit.
-- Complete: glossary (611 entries), system UI, plugins, DB names/descriptions/notes,
-  choices (841), and ~7,000 dialogue rows across the main story (Windam → Flame →
-  Seiryu → Dark Continent → ending + Roi/Pipin backstories).
-- Remaining: ~2,975 one-off dialogue rows (batch files in `docs/text/batches/`).
-- Quality gate passed: no translated string still contains Japanese characters.
-- Phase 2 pending: fit-checking reports **1,534 lines** over the message window
-  budget — these need `\n` splits or rewording (English runs ~40% longer).
+### Translation progress (FINAL)
+- **17,831 / 17,832 strings translated.** The single untranslated string is the
+  disabled SceneGlossary plugin's config blob.
+- Full coverage of the RPG Maker MV text surface, including:
+  - Map/CommonEvent/Troop event commands (dialogue, choices, names, scripts)
+  - DB name/description/note, use messages (message1/2), state messages
+    (message1-4), actor nickname/profile
+  - System terms/messages, elements/types, switches, variables
+  - Map display names, event names/notes, MapInfos names, plugin parameters
+- Quality gates passed: **0 in-game text rows remain Japanese**; all JSON valid;
+  round-trip verified (re-extraction of the English build shows English).
+- Only remaining Japanese: invisible dev metadata (tileset/animation names) and
+  RetryBattle plugin script identifiers (code — must not be translated).
+- Line fitting (Phase 2): 2,033 rows rewrapped with `\n`; fit check flags **0**
+  overflowing lines.
+- English build: `build/english/www` (gitignored; regenerate with
+  `python3 tools/inject_text.py docs/text/translated.tsv --data build/english/www/data --plugins build/english/www/js/plugins.js --no-backup`).
+  Playtest by opening `build/english/www/index.html` in a browser.
 
 ### Baked-in image text audit (OCR-verified, 2026-08-11)
 - `img/titles1/CrossedSwords.png`, `img/titles2/Medieval.png`: no text — the title
