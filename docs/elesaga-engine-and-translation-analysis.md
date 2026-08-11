@@ -110,7 +110,9 @@ The English build (`build/english/www`) is **not part of the repo** — it is a
 generated artifact (gitignored) and can be reproduced from the tracked sources:
 - `www/` — the original Japanese game, plus the committed English-side engine/UI
   fixes: `js/plugins/EndGme.js` (title-screen "Close Game" parameter key),
-  `js/rpg_scenes.js` (3-line help window), `index.html` (<title>Crest Story</title>).
+  `js/rpg_scenes.js` (3-line help window), `js/rpg_managers.js` (mobile audio:
+  use OGG wherever the browser can decode it — see Known quirks),
+  `index.html` (<title>Crest Story</title>).
 - `docs/text/translated.tsv` — the full translation table (extracted rows + English).
 - `tools/` — the pipeline scripts.
 
@@ -158,6 +160,14 @@ game (or discard old saves) after a rebuild.
   Android builds show a blurry "Button Image was Not Found" error screen
   (`Graphics.printError` blur filter). Re-created 2026-08-11 as simple square
   PNGs in `www/img/system/`; they ride along via the `cp -r www` copy step.
+- Mobile audio fix (2026-08-11): `AudioManager.audioFileExt()` in
+  `www/js/rpg_managers.js` forced `.m4a` on any mobile UA
+  (`canPlayOgg() && !Utils.isMobileDevice()`), but the project ships only OGG
+  (and Android Chrome can decode OGG). That made mobile browsers silent while
+  "Desktop site" mode worked. The check is now just `if (WebAudio.canPlayOgg())`
+  so OGG is used wherever the browser can decode it. Mirrored in the build
+  (`build/english/www/js/rpg_managers.js`, CRLF) — a fresh `cp -r www` copy must
+  carry this fix too.
 
 ### Translation progress (FINAL)
 - **18,460 / 18,461 strings translated.** The single untranslated string is the
