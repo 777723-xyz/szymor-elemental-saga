@@ -153,6 +153,11 @@ game (or discard old saves) after a rebuild.
   registered as `EndGme`, so the entry always fell back to the Japanese default.
   The key is fixed in `www/js/plugins/EndGme.js` (and mirrored in the build); a
   freshly copied build must carry that fix too.
+- The `UCHU_MobileOperation` plugin's virtual-button images were missing
+  (`img/system/DirPad.png`, `ActionButton.png`, `CancelButton.png`), which made
+  Android builds show a blurry "Button Image was Not Found" error screen
+  (`Graphics.printError` blur filter). Re-created 2026-08-11 as simple square
+  PNGs in `www/img/system/`; they ride along via the `cp -r www` copy step.
 
 ### Translation progress (FINAL)
 - **18,460 / 18,461 strings translated.** The single untranslated string is the
