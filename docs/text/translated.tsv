@@ -3965,31 +3965,31 @@ MAP45_e6_p0_10_c0	Map045.json	choice	choice	泊まらせてもらいます	We'll
 MAP45_e6_p0_10_c1	Map045.json	choice	choice	やっぱりやめます	Actually, never mind
 MAP45_e6_p0_14	Map045.json	3	dialogue	さすがはお金持ちの異国の方！	As expected of a wealthy foreigner!
 MAP45_e6_p0_15	Map045.json	3	dialogue	至福のひとときをお過ごしくださいー！	Enjoy a blissful time—!
-MAP45_e6_p0_2	Map045.json	0	dialogue	ハーイ　異国の方たちー！	
-MAP45_e6_p0_23	Map045.json	3	dialogue	お目覚めですかー？	
-MAP45_e6_p0_24	Map045.json	3	dialogue	ぜひぜひまたご宿泊くださいませー！	
-MAP45_e6_p0_28	Map045.json	3	dialogue	おまえら金持ってないじゃん	
-MAP45_e6_p0_3	Map045.json	0	dialogue	あなた方の為の高級ホテルへようこそ！	
-MAP45_e6_p0_34	Map045.json	2	dialogue	なんだ　金持ちじゃないのか	
-MAP45_e6_p0_40	Map045.json	1	dialogue	そうですね、まだ日も高いですしねー！	
-MAP45_e6_p0_41	Map045.json	1	dialogue	またのお越しをお待ちしておりますよ！	
+MAP45_e6_p0_2	Map045.json	0	dialogue	ハーイ　異国の方たちー！	Hii, visitors from foreign lands!
+MAP45_e6_p0_23	Map045.json	3	dialogue	お目覚めですかー？	Aroused from your slumber?
+MAP45_e6_p0_24	Map045.json	3	dialogue	ぜひぜひまたご宿泊くださいませー！	Do please stay with us again!
+MAP45_e6_p0_28	Map045.json	3	dialogue	おまえら金持ってないじゃん	So you lot don't have any money, huh.
+MAP45_e6_p0_3	Map045.json	0	dialogue	あなた方の為の高級ホテルへようこそ！	Welcome to the luxury hotel prepared just for you!
+MAP45_e6_p0_34	Map045.json	2	dialogue	なんだ　金持ちじゃないのか	What, not rich after all?
+MAP45_e6_p0_40	Map045.json	1	dialogue	そうですね、まだ日も高いですしねー！	Right, the sun's still high too, isn't it!
+MAP45_e6_p0_41	Map045.json	1	dialogue	またのお越しをお待ちしておりますよ！	We await your next visit!
 MAP45_e6_p0_4_c0	Map045.json	choice	choice	泊まりたい	I'd like to stay
 MAP45_e6_p0_4_c1	Map045.json	choice	choice	ちょっと寄ってみただけ	Just stopping by
 MAP45_e6_p0_7	Map045.json	1	dialogue	宿屋の主人バスデバ：	Basdeva, Innkeeper:
-MAP45_e6_p0_8	Map045.json	1	dialogue	こんなに素敵なホテルが一泊200Ｇです！	
-MAP45_e6_p0_9	Map045.json	1	dialogue	勿論ご宿泊ですよね？	
+MAP45_e6_p0_8	Map045.json	1	dialogue	こんなに素敵なホテルが一泊200Ｇです！	A wonderful hotel like this is just 200G a night!
+MAP45_e6_p0_9	Map045.json	1	dialogue	勿論ご宿泊ですよね？	You'll be staying, of course?
 MAP45_e7_p0_1	Map045.json	0	dialogue	セイリューの民モラタ：	Morata, Seiryu Citizen:
-MAP45_e7_p0_2	Map045.json	0	dialogue	………なんだよこれ、うますぎだろ	
-MAP45_e7_p0_3	Map045.json	0	dialogue	ここの飯うますぎだよ！！	
-MAP45_e7_p0_4	Map045.json	0	dialogue	来年またお金貯めて来る！！	
+MAP45_e7_p0_2	Map045.json	0	dialogue	………なんだよこれ、うますぎだろ	......What is this, it's way too good.
+MAP45_e7_p0_3	Map045.json	0	dialogue	ここの飯うますぎだよ！！	The food here is amazing!!
+MAP45_e7_p0_4	Map045.json	0	dialogue	来年またお金貯めて来る！！	I'll save up and come back next year!!
 MAP45_e8_p0_1	Map045.json	0	dialogue	ウィンダムの市民ギリアム：	Gilliam, Windam Citizen:
-MAP45_e8_p0_2	Map045.json	0	dialogue	仕事で来たのだけれど…	
-MAP45_e8_p0_3	Map045.json	0	dialogue	外は暑過ぎて、ちょっとここを出る気に	
-MAP45_e8_p0_4	Map045.json	0	dialogue	なれないんだよね…	
+MAP45_e8_p0_2	Map045.json	0	dialogue	仕事で来たのだけれど…	I came for work, but...
+MAP45_e8_p0_3	Map045.json	0	dialogue	外は暑過ぎて、ちょっとここを出る気に	it's so hot outside, I just can't bring myself
+MAP45_e8_p0_4	Map045.json	0	dialogue	なれないんだよね…	to leave here...
 MAP45_e9_p1_1	Map045.json	0	dialogue	伝令兵レイモンド：	Raymond, Messenger:
-MAP45_e9_p1_2	Map045.json	0	dialogue	俺は任務中で忙しいんだ！	
-MAP45_e9_p1_3	Map045.json	0	dialogue	これも偵察！　カレーうめええええ！！！！	
-MAP45_e9_p1_4	Map045.json	0	dialogue	もっと情報を集めないと！！！！！	
+MAP45_e9_p1_2	Map045.json	0	dialogue	俺は任務中で忙しいんだ！	I'm busy on a mission!
+MAP45_e9_p1_3	Map045.json	0	dialogue	これも偵察！　カレーうめええええ！！！！	This is reconnaissance too! And the curry is delicious—!!!!
+MAP45_e9_p1_4	Map045.json	0	dialogue	もっと情報を集めないと！！！！！	I need to gather more intel!!!!!
 MAP46_e3_p0_1	Map046.json	0	dialogue	武器屋クマル：	Kumar, Weapon Shop Owner:
 MAP46_e3_p0_13	Map046.json	0	dialogue	武器屋クマル：	Kumar, Weapon Shop Owner:
 MAP46_e3_p0_14	Map046.json	0	dialogue	ちゃんと手入れをしろよ…。	Take good care of it...
@@ -4004,21 +4004,21 @@ MAP47_e4_p0_1	Map047.json	0	dialogue	持ち出して役に立つようなもの�
 MAP47_e5_p0_1	Map047.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP47_e6_p0_1	Map047.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP47_e7_p0_1	Map047.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP47_e8_p0_1	Map047.json	0	dialogue	『龍の涙』	
-MAP47_e8_p0_10	Map047.json	1	dialogue	その美しさは妖しいほどで、見る者を必ず魅了するという。	
-MAP47_e8_p0_11	Map047.json	1	dialogue	しかし、話に聞くばかりで、現存するものは存在しない。	
-MAP47_e8_p0_12	Map047.json	1	dialogue	もしかするとそれには、その宝石にまつわる一種の伝説が	
-MAP47_e8_p0_13	Map047.json	1	dialogue	関係しているのかも知れない。	
-MAP47_e8_p0_15	Map047.json	1	dialogue	龍の涙には、握りしめて三日三晩祈ると愛する死者を	
-MAP47_e8_p0_16	Map047.json	1	dialogue	蘇らせた後砕けるという言い伝えがあるのだ。これだけ有名	
-MAP47_e8_p0_17	Map047.json	1	dialogue	なのに現存しないのは、発見されるたびに誰かが愛する者を	
-MAP47_e8_p0_18	Map047.json	1	dialogue	実際に生き返らせているからかも知れない。	
+MAP47_e8_p0_1	Map047.json	0	dialogue	『龍の涙』	"""The Dragon's Tear"""
+MAP47_e8_p0_10	Map047.json	1	dialogue	その美しさは妖しいほどで、見る者を必ず魅了するという。	Its beauty is bewitching, said to captivate all who see it.
+MAP47_e8_p0_11	Map047.json	1	dialogue	しかし、話に聞くばかりで、現存するものは存在しない。	Yet it exists only in tales; none remain in the world.
+MAP47_e8_p0_12	Map047.json	1	dialogue	もしかするとそれには、その宝石にまつわる一種の伝説が	Perhaps that is because of a certain legend
+MAP47_e8_p0_13	Map047.json	1	dialogue	関係しているのかも知れない。	surrounding the gem.
+MAP47_e8_p0_15	Map047.json	1	dialogue	龍の涙には、握りしめて三日三晩祈ると愛する死者を	It is said that if you grip a Dragon's Tear and pray for three days and nights,
+MAP47_e8_p0_16	Map047.json	1	dialogue	蘇らせた後砕けるという言い伝えがあるのだ。これだけ有名	it revives a beloved dead one, then shatters. So famous is this tale that its absence
+MAP47_e8_p0_17	Map047.json	1	dialogue	なのに現存しないのは、発見されるたびに誰かが愛する者を	from the world may be because, each time one is found, someone truly
+MAP47_e8_p0_18	Map047.json	1	dialogue	実際に生き返らせているからかも知れない。	brings a loved one back to life.
 MAP47_e8_p0_2	Map047.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP47_e8_p0_3_c0	Map047.json	choice	choice	読んでみる	Read it
 MAP47_e8_p0_3_c1	Map047.json	choice	choice	読まない	Don't read it
-MAP47_e8_p0_6	Map047.json	1	dialogue	ここ数十年は発見されたことがないと思われるが、	
-MAP47_e8_p0_7	Map047.json	1	dialogue	昔のセイリューで稀に発掘されることがあったと伝わる、	
-MAP47_e8_p0_8	Map047.json	1	dialogue	透き通った青い宝石、龍の涙。	
+MAP47_e8_p0_6	Map047.json	1	dialogue	ここ数十年は発見されたことがないと思われるが、	None seem to have been found in recent decades, but
+MAP47_e8_p0_7	Map047.json	1	dialogue	昔のセイリューで稀に発掘されることがあったと伝わる、	long ago, it's said, they were occasionally unearthed in Seiryu—
+MAP47_e8_p0_8	Map047.json	1	dialogue	透き通った青い宝石、龍の涙。	the translucent blue gem, the Dragon's Tear.
 MAP47_e9_p0_1	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p0_2	Map047.json	0	dialogue	お前さん…　龍の涙を持っていたりしないか？	You there... you wouldn't happen to have a Dragon's Tear?
 MAP47_e9_p0_4	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
@@ -4027,26 +4027,26 @@ MAP47_e9_p0_6	Map047.json	0	dialogue	もし本物を持ってきてくれたら�
 MAP47_e9_p0_7	Map047.json	0	dialogue	わしの秘蔵する、ある奇書と交換してもよい…	I might trade it for a certain rare tome I keep hidden...
 MAP47_e9_p1_1	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p1_11	Map047.json	1	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p1_12	Map047.json	1	dialogue	おお…なんと美しい…！	
-MAP47_e9_p1_13	Map047.json	1	dialogue	これぞ本物の龍の涙に違いない…！！	
+MAP47_e9_p1_12	Map047.json	1	dialogue	おお…なんと美しい…！	Oh... how beautiful...!
+MAP47_e9_p1_13	Map047.json	1	dialogue	これぞ本物の龍の涙に違いない…！！	This must be a genuine Dragon's Tear...!!
 MAP47_e9_p1_15	Map047.json	1	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p1_16	Map047.json	1	dialogue	お前さん、どうかその宝石を譲ってくれまいか	
-MAP47_e9_p1_17	Map047.json	1	dialogue	わしの秘蔵する最も貴重な本…	
-MAP47_e9_p1_18	Map047.json	1	dialogue	内容の危険さゆえ誰にも見せたことのないものだ	
+MAP47_e9_p1_16	Map047.json	1	dialogue	お前さん、どうかその宝石を譲ってくれまいか	You there, would you part with that gem?
+MAP47_e9_p1_17	Map047.json	1	dialogue	わしの秘蔵する最も貴重な本…	I'll trade my most precious hidden tome...
+MAP47_e9_p1_18	Map047.json	1	dialogue	内容の危険さゆえ誰にも見せたことのないものだ	one I've never shown anyone, for its dangerous contents.
 MAP47_e9_p1_19_c0	Map047.json	choice	choice	いいですよ	Sure
 MAP47_e9_p1_19_c1	Map047.json	choice	choice	お断りします	I'll decline
 MAP47_e9_p1_2	Map047.json	0	dialogue	お前さん…　龍の涙を持っていたりしないか？	You there... you wouldn't happen to have a Dragon's Tear?
 MAP47_e9_p1_22	Map047.json	2	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p1_23	Map047.json	2	dialogue	ありがたい！では、これが例の奇書だ…	
-MAP47_e9_p1_26	Map047.json	2	dialogue	　　　　　　　　ウィンは奇書を手に入れた	
+MAP47_e9_p1_23	Map047.json	2	dialogue	ありがたい！では、これが例の奇書だ…	Most grateful! Then this is the famed rare tome...
+MAP47_e9_p1_26	Map047.json	2	dialogue	　　　　　　　　ウィンは奇書を手に入れた	Win obtained the rare tome!
 MAP47_e9_p1_28	Map047.json	2	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p1_29	Map047.json	2	dialogue	だが、信用できる者にしか、その本を	But it'd be best to hand that book only
 MAP47_e9_p1_30	Map047.json	2	dialogue	渡さない方がよいぞ…	to someone you can trust...
 MAP47_e9_p1_37	Map047.json	2	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p1_38	Map047.json	2	dialogue	そ、そうか…	
-MAP47_e9_p1_39	Map047.json	2	dialogue	しかし、お前さんが必要なくとも、本の好きな	
+MAP47_e9_p1_38	Map047.json	2	dialogue	そ、そうか…	I-...I see...
+MAP47_e9_p1_39	Map047.json	2	dialogue	しかし、お前さんが必要なくとも、本の好きな	But even if you've no use for it, any book lover
 MAP47_e9_p1_4	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p1_40	Map047.json	2	dialogue	人間であれば絶対に欲しがるものだからな…	
+MAP47_e9_p1_40	Map047.json	2	dialogue	人間であれば絶対に欲しがるものだからな…	would absolutely want it...
 MAP47_e9_p1_5	Map047.json	0	dialogue	ほとんど伝説上の宝石じゃ…	It's practically a legendary gem...
 MAP47_e9_p1_6	Map047.json	0	dialogue	もし本物を持ってきてくれたら…	If you bring me a real one...
 MAP47_e9_p1_7	Map047.json	0	dialogue	わしの秘蔵する、ある奇書と交換してもよい…	I might trade it for a certain rare tome I keep hidden...
@@ -4056,7 +4056,7 @@ MAP47_e9_p2_1	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p2_2	Map047.json	0	dialogue	だが、信用できる者にしか、その本を	But it'd be best to hand that book only
 MAP47_e9_p2_3	Map047.json	0	dialogue	渡さない方がよいぞ…	to someone you can trust...
 MAP49_e10_p0_11	Map049.json	0	dialogue	　　　　　　　　　1000\\G 手に入れた！	
-MAP49_e11_p0_11	Map049.json	0	dialogue	　　　　　シャムシール（良質）を手に入れた！	
+MAP49_e11_p0_11	Map049.json	0	dialogue	　　　　　シャムシール（良質）を手に入れた！	Obtained a Shamshir (Fine)!
 MAP49_e2_p0_10	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e2_p0_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、	Ah, things like 'so that's about all the power you've got,'
 MAP49_e2_p0_110	Map049.json	1	dialogue	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	Win learned the Hayate and Kamaitachi spells!
@@ -4183,94 +4183,94 @@ MAP49_e2_p1_91	Map049.json	1	dialogue	ホノオ：	Hono:
 MAP49_e2_p1_92	Map049.json	1	dialogue	うわあ！なんだ、おい！？	Whoa! What the—!?
 MAP49_e2_p1_93	Map049.json	1	dialogue	まだやるのかよ！？	Are you seriously still going!?
 MAP49_e2_p1_94	Map049.json	1	dialogue	オレは試練あきらめて…	I've given up on the trial...
-MAP49_e2_p2_11	Map049.json	0	dialogue	あいつの後ろとか言ってたな…	
-MAP49_e2_p2_12	Map049.json	0	dialogue	椅子がある…　あれに座るのかな。	
+MAP49_e2_p2_11	Map049.json	0	dialogue	あいつの後ろとか言ってたな…	He said something about behind him...
+MAP49_e2_p2_12	Map049.json	0	dialogue	椅子がある…　あれに座るのかな。	There's a chair... I guess I sit in it?
 MAP49_e2_p2_18	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e2_p2_19	Map049.json	0	dialogue	ウィン、って言ったよな。	
+MAP49_e2_p2_19	Map049.json	0	dialogue	ウィン、って言ったよな。	He said 'Win,' didn't he.
 MAP49_e2_p2_2	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e2_p2_20	Map049.json	0	dialogue	こんなことしている場合じゃないってことは、	
-MAP49_e2_p2_21	Map049.json	0	dialogue	分かってる。	
-MAP49_e2_p2_23	Map049.json	0	dialogue	だけどオレ、この試練をちゃんと…	
-MAP49_e2_p2_24	Map049.json	0	dialogue	乗り越えたいんだ。	
-MAP49_e2_p2_25	Map049.json	0	dialogue	もう少し付き合ってくれよ、頼む。	
+MAP49_e2_p2_20	Map049.json	0	dialogue	こんなことしている場合じゃないってことは、	I know this isn't the time for, well, this.
+MAP49_e2_p2_21	Map049.json	0	dialogue	分かってる。	I get it.
+MAP49_e2_p2_23	Map049.json	0	dialogue	だけどオレ、この試練をちゃんと…	But I want to properly...
+MAP49_e2_p2_24	Map049.json	0	dialogue	乗り越えたいんだ。	overcome this trial.
+MAP49_e2_p2_25	Map049.json	0	dialogue	もう少し付き合ってくれよ、頼む。	Bear with me a little longer, please.
 MAP49_e2_p2_26_c0	Map049.json	choice	choice	もちろん	Of course
 MAP49_e2_p2_26_c1	Map049.json	choice	choice	ダメだよ	No way
 MAP49_e2_p2_29	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p2_3	Map049.json	0	dialogue	ちょっとおい！　待て！！	
-MAP49_e2_p2_30	Map049.json	1	dialogue	恩に着るぜ！！	
-MAP49_e2_p2_31	Map049.json	1	dialogue	とりあえず、あそこの椅子に座ってみるか…	
-MAP49_e2_p2_37	Map049.json	1	dialogue	そうか。	
-MAP49_e2_p2_38	Map049.json	1	dialogue	でも俺は試練を済ますまでは、ここを	
-MAP49_e2_p2_39	Map049.json	1	dialogue	出る気はないぜ。	
+MAP49_e2_p2_3	Map049.json	0	dialogue	ちょっとおい！　待て！！	Hey! Wait!!
+MAP49_e2_p2_30	Map049.json	1	dialogue	恩に着るぜ！！	I owe you one!!
+MAP49_e2_p2_31	Map049.json	1	dialogue	とりあえず、あそこの椅子に座ってみるか…	For now, let's try sitting in that chair...
+MAP49_e2_p2_37	Map049.json	1	dialogue	そうか。	I see.
+MAP49_e2_p2_38	Map049.json	1	dialogue	でも俺は試練を済ますまでは、ここを	But I'm not leaving this place
+MAP49_e2_p2_39	Map049.json	1	dialogue	出る気はないぜ。	until I finish the trial.
 MAP49_e2_p2_6	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e2_p2_7	Map049.json	0	dialogue	消えちゃったよ…	
+MAP49_e2_p2_7	Map049.json	0	dialogue	消えちゃったよ…	He vanished...
 MAP49_e6_p1_11	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e6_p1_12	Map049.json	0	dialogue	…じゃあなに？	
-MAP49_e6_p1_13	Map049.json	0	dialogue	試練の…声みたいなこと…？	
-MAP49_e6_p1_2	Map049.json	0	dialogue	試練を受けよ　火の勇者よ…	
+MAP49_e6_p1_12	Map049.json	0	dialogue	…じゃあなに？	...So what was that?
+MAP49_e6_p1_13	Map049.json	0	dialogue	試練の…声みたいなこと…？	Like... a voice of the trial...?
+MAP49_e6_p1_2	Map049.json	0	dialogue	試練を受けよ　火の勇者よ…	Undergo the trial, hero of Fire...
 MAP49_e6_p1_4	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e6_p1_5	Map049.json	0	dialogue	うわ！えっ？	
-MAP49_e6_p1_6	Map049.json	0	dialogue	いまの、ウィン、お前の声か？	
-MAP49_e6_p1_9	Map049.json	0	dialogue	　　　　　　　　　ウィンは首を横に振った	
+MAP49_e6_p1_5	Map049.json	0	dialogue	うわ！えっ？	Whoa! Huh?
+MAP49_e6_p1_6	Map049.json	0	dialogue	いまの、ウィン、お前の声か？	That just now—Win, was that you?
+MAP49_e6_p1_9	Map049.json	0	dialogue	　　　　　　　　　ウィンは首を横に振った	Win shook his head.
 MAP49_e7_p0_3	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e7_p0_4	Map049.json	0	dialogue	この椅子に座ると試練が始まるのかな…？	
-MAP49_e7_p0_5	Map049.json	0	dialogue	さっきの鎧がすごく試練ぽかったけど…	
-MAP49_e7_p0_6	Map049.json	0	dialogue	こっちが本物らしい…	
-MAP49_e7_p0_8	Map049.json	0	dialogue	何が起こるかわからないから、	
-MAP49_e7_p0_9	Map049.json	0	dialogue	ウィンはちょっと離れていてくれ。	
+MAP49_e7_p0_4	Map049.json	0	dialogue	この椅子に座ると試練が始まるのかな…？	Does the trial begin when I sit in this chair...?
+MAP49_e7_p0_5	Map049.json	0	dialogue	さっきの鎧がすごく試練ぽかったけど…	That armor earlier really seemed like the trial, but...
+MAP49_e7_p0_6	Map049.json	0	dialogue	こっちが本物らしい…	this seems to be the real thing...
+MAP49_e7_p0_8	Map049.json	0	dialogue	何が起こるかわからないから、	Since we don't know what'll happen,
+MAP49_e7_p0_9	Map049.json	0	dialogue	ウィンはちょっと離れていてくれ。	stand back a little, Win.
 MAP49_e8_p1_14	Map049.json	0	dialogue	…ホノオ。	...Hono.
 MAP49_e8_p1_17	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e8_p1_18	Map049.json	0	dialogue	え…　そんな…　まさか…	
-MAP49_e8_p1_24	Map049.json	0	dialogue	振りむいてはいけない、ホノオ！	
-MAP49_e8_p1_25	Map049.json	0	dialogue	振り向いたら、僕は消えてしまう…	
+MAP49_e8_p1_18	Map049.json	0	dialogue	え…　そんな…　まさか…	Huh... no way... it can't be...
+MAP49_e8_p1_24	Map049.json	0	dialogue	振りむいてはいけない、ホノオ！	Don't turn around, Hono!
+MAP49_e8_p1_25	Map049.json	0	dialogue	振り向いたら、僕は消えてしまう…	If you turn, I'll vanish...
 MAP49_e8_p1_27	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e8_p1_28	Map049.json	0	dialogue	マジかよ…　その声…　その声はよ…	
+MAP49_e8_p1_28	Map049.json	0	dialogue	マジかよ…　その声…　その声はよ…	For real... that voice... that voice is...
 MAP49_e8_p1_33	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e8_p1_34	Map049.json	0	dialogue	アニキの…　ホムラ兄貴の声じゃねえか…	
-MAP49_e9_p1_11	Map049.json	0	dialogue	　　　　　なぜかウィンはまったく動けない！	
-MAP49_e9_p1_16	Map049.json	0	dialogue	ホノオ、お前に会いたかった。	
-MAP49_e9_p1_17	Map049.json	0	dialogue	お前と話したいことが、たくさん残っていた…。	
+MAP49_e8_p1_34	Map049.json	0	dialogue	アニキの…　ホムラ兄貴の声じゃねえか…	it's big bro's... Homura's voice, isn't it...
+MAP49_e9_p1_11	Map049.json	0	dialogue	　　　　　なぜかウィンはまったく動けない！	For some reason, Win can't move at all!
+MAP49_e9_p1_16	Map049.json	0	dialogue	ホノオ、お前に会いたかった。	Hono, I wanted to see you.
+MAP49_e9_p1_17	Map049.json	0	dialogue	お前と話したいことが、たくさん残っていた…。	There was so much I still wanted to tell you...
 MAP49_e9_p1_19	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e9_p1_20	Map049.json	0	dialogue	オレだってそうだよ…	
-MAP49_e9_p1_21	Map049.json	0	dialogue	だけどアニキ…アンタは死んだ。	
-MAP49_e9_p1_22	Map049.json	0	dialogue	試練てのは、死んだ人間と会うことなのか！？	
-MAP49_e9_p1_25	Map049.json	0	dialogue	そうみたいだ…。	
-MAP49_e9_p1_26	Map049.json	0	dialogue	継承の試練で何が起こるのか、それは秘密。	
-MAP49_e9_p1_27	Map049.json	0	dialogue	だから真実を知るのは常に王のみ…。	
+MAP49_e9_p1_20	Map049.json	0	dialogue	オレだってそうだよ…	Me too...
+MAP49_e9_p1_21	Map049.json	0	dialogue	だけどアニキ…アンタは死んだ。	But big bro... you died.
+MAP49_e9_p1_22	Map049.json	0	dialogue	試練てのは、死んだ人間と会うことなのか！？	Is the trial about meeting the dead!?
+MAP49_e9_p1_25	Map049.json	0	dialogue	そうみたいだ…。	It seems so...
+MAP49_e9_p1_26	Map049.json	0	dialogue	継承の試練で何が起こるのか、それは秘密。	What happens in the trial is a secret.
+MAP49_e9_p1_27	Map049.json	0	dialogue	だから真実を知るのは常に王のみ…。	Which is why only the king ever knows the truth...
 MAP49_e9_p1_29	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e9_p1_30	Map049.json	0	dialogue	そうだな。	
-MAP49_e9_p1_31	Map049.json	0	dialogue	…しかしアニキと話すことになるなんて、	
-MAP49_e9_p1_32	Map049.json	0	dialogue	さすがのオレでも全く想像してなかったぜ…	
-MAP49_e9_p1_35	Map049.json	0	dialogue	そうさ、ホノオにもわからないことは、	
-MAP49_e9_p1_36	Map049.json	0	dialogue	僕にも、誰にだってきっとわからないのさ。	
+MAP49_e9_p1_30	Map049.json	0	dialogue	そうだな。	Right.
+MAP49_e9_p1_31	Map049.json	0	dialogue	…しかしアニキと話すことになるなんて、	...But never in my wildest dreams did I think
+MAP49_e9_p1_32	Map049.json	0	dialogue	さすがのオレでも全く想像してなかったぜ…	I'd end up talking with you, big bro...
+MAP49_e9_p1_35	Map049.json	0	dialogue	そうさ、ホノオにもわからないことは、	That's right—what you don't understand, Hono,
+MAP49_e9_p1_36	Map049.json	0	dialogue	僕にも、誰にだってきっとわからないのさ。	I likely don't understand either, nor anyone.
 MAP49_e9_p1_38	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e9_p1_39	Map049.json	0	dialogue	…マジでアニキなのか？	
-MAP49_e9_p1_40	Map049.json	0	dialogue	そうやって、わけのわからねえ褒め方すんの、	
-MAP49_e9_p1_41	Map049.json	0	dialogue	マジでホムラ兄貴っぽいんだ…	
-MAP49_e9_p1_44	Map049.json	0	dialogue	マジでマジでってたくさん言うのも、ホノオらしいよ。	
+MAP49_e9_p1_39	Map049.json	0	dialogue	…マジでアニキなのか？	...Is it really you, big bro?
+MAP49_e9_p1_40	Map049.json	0	dialogue	そうやって、わけのわからねえ褒め方すんの、	Praising me in that baffling way—
+MAP49_e9_p1_41	Map049.json	0	dialogue	マジでホムラ兄貴っぽいんだ…	that's so like Homura...
+MAP49_e9_p1_44	Map049.json	0	dialogue	マジでマジでってたくさん言うのも、ホノオらしいよ。	Saying 'for real, for real' so much is just like you, Hono.
 MAP49_e9_p1_46	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e9_p1_47	Map049.json	0	dialogue	アニキ…	Big bro...
-MAP49_e9_p1_48	Map049.json	0	dialogue	オレはずっとアニキみてえになりたいと	
-MAP49_e9_p1_49	Map049.json	0	dialogue	思ってた。	
-MAP49_e9_p1_51	Map049.json	0	dialogue	誰にでも優しくて…	
-MAP49_e9_p1_52	Map049.json	0	dialogue	難しい本をたくさん読んでいて…	
-MAP49_e9_p1_53	Map049.json	0	dialogue	誰もが立派だと褒めるアニキみてえに…	
+MAP49_e9_p1_48	Map049.json	0	dialogue	オレはずっとアニキみてえになりたいと	I always wanted to become like you,
+MAP49_e9_p1_49	Map049.json	0	dialogue	思ってた。	big bro.
+MAP49_e9_p1_51	Map049.json	0	dialogue	誰にでも優しくて…	Kind to everyone...
+MAP49_e9_p1_52	Map049.json	0	dialogue	難しい本をたくさん読んでいて…	Reading all those difficult books...
+MAP49_e9_p1_53	Map049.json	0	dialogue	誰もが立派だと褒めるアニキみてえに…	Admired by all as a fine man, like you were...
 MAP49_e9_p1_56	Map049.json	0	dialogue	…そうか。	...I see.
 MAP49_e9_p1_58	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e9_p1_59	Map049.json	0	dialogue	だからアニキが死んでから大変だったんだ。	
-MAP49_e9_p1_60	Map049.json	0	dialogue	オレはたくさん本を読んでみた。	
-MAP49_e9_p1_61	Map049.json	0	dialogue	みんなに敬語使って話してみたりもした。	
-MAP49_e9_p1_63	Map049.json	0	dialogue	オレは…	
-MAP49_e9_p1_64	Map049.json	0	dialogue	誰よりも優しくて頭のいいアニキが…	
-MAP49_e9_p1_65	Map049.json	0	dialogue	この国の王になるのが、オレはマジで	
-MAP49_e9_p1_66	Map049.json	0	dialogue	楽しみだったんだよ…	
+MAP49_e9_p1_59	Map049.json	0	dialogue	だからアニキが死んでから大変だったんだ。	So it was so hard after you died.
+MAP49_e9_p1_60	Map049.json	0	dialogue	オレはたくさん本を読んでみた。	I tried reading lots of books.
+MAP49_e9_p1_61	Map049.json	0	dialogue	みんなに敬語使って話してみたりもした。	I even tried speaking politely to everyone.
+MAP49_e9_p1_63	Map049.json	0	dialogue	オレは…	I...
+MAP49_e9_p1_64	Map049.json	0	dialogue	誰よりも優しくて頭のいいアニキが…	I was really looking forward to you—
+MAP49_e9_p1_65	Map049.json	0	dialogue	この国の王になるのが、オレはマジで	so kind and smart, more than anyone—
+MAP49_e9_p1_66	Map049.json	0	dialogue	楽しみだったんだよ…	becoming king of this country...
 MAP49_e9_p1_69	Map049.json	0	dialogue	…ホノオ。	...Hono.
 MAP49_e9_p1_7	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e9_p1_71	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e9_p1_72	Map049.json	0	dialogue	アニキの真似をし始めたオレを見て…	
-MAP49_e9_p1_73	Map049.json	0	dialogue	みんなは余計にがっかりした…。	
+MAP49_e9_p1_72	Map049.json	0	dialogue	アニキの真似をし始めたオレを見て…	When they saw me imitating you...
+MAP49_e9_p1_73	Map049.json	0	dialogue	みんなは余計にがっかりした…。	everyone was all the more disappointed...
 MAP49_e9_p1_75	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e9_p1_76	Map049.json	0	dialogue	いくら本を読んでも何も頭に入らねえし…	
+MAP49_e9_p1_76	Map049.json	0	dialogue	いくら本を読んでも何も頭に入らねえし…	No matter how much I read, nothing stuck in my head...
 MAP49_e9_p1_77	Map049.json	0	dialogue	敬語だって全然使えなくて…	
 MAP49_e9_p1_78	Map049.json	0	dialogue	結局、みじめになっただけだったぜ。	
 MAP49_e9_p1_8	Map049.json	0	dialogue	ウィン！いるのか、オレのアニキがそこに…！	
