@@ -8,20 +8,25 @@ MAP4_e10_p1_4	Map004.json	0	dialogue	ナガレ：
 MAP4_e10_p1_5	Map004.json	0	dialogue	あのとき、燃え盛る岩がたくさん降ってきて…
 MAP4_e10_p1_6	Map004.json	0	dialogue	この街はがれきの山になってしまったんだ。
 MAP4_e10_p1_8	Map004.json	0	dialogue	ウィン：
+MAP4_e10_p1_9	Map004.json	0	dialogue	…。
 MAP4_e11_p1_1	Map004.json	0	dialogue	ホノオ：
 MAP4_e11_p1_2	Map004.json	0	dialogue	…街には入らない方がいい、ウィン…
 MAP4_e11_p1_4	Map004.json	0	dialogue	ナガレ：
 MAP4_e11_p1_5	Map004.json	0	dialogue	あのとき、燃え盛る岩がたくさん降ってきて…
 MAP4_e11_p1_6	Map004.json	0	dialogue	この街はがれきの山になってしまったんだ。
 MAP4_e11_p1_8	Map004.json	0	dialogue	ウィン：
+MAP4_e11_p1_9	Map004.json	0	dialogue	…。
 MAP4_e15_p0_1	Map004.json	0	dialogue	この先、旧坑道。
 MAP4_e15_p0_2	Map004.json	0	dialogue	危険につき、立ち入りを禁ずる。
 MAP4_e15_p0_3	Map004.json	0	dialogue	　　　　　　　　　　　　　　　王国騎士団　　　　　　
 MAP4_e17_p0_1	Map004.json	0	dialogue	ウィン：
+MAP4_e17_p0_2	Map004.json	0	dialogue	…。
 MAP4_e17_p0_5	Map004.json	0	dialogue	　　　ウィンは先にフレイム王に会おうと思った　　　
 MAP4_e18_p0_1	Map004.json	0	dialogue	ウィン：
+MAP4_e18_p0_2	Map004.json	0	dialogue	…。
 MAP4_e18_p0_5	Map004.json	0	dialogue	　　　ウィンは先にフレイム王に会おうと思った　　　
 MAP4_e24_p0_1	Map004.json	0	dialogue	ウィン：
+MAP4_e24_p0_2	Map004.json	0	dialogue	…。
 MAP4_e24_p0_5	Map004.json	0	dialogue	　　　　ウィンは先にセイリューへ行こうと思った
 MAP4_e26_p1_1	Map004.json	0	dialogue	ナガレ：
 MAP4_e26_p1_2	Map004.json	0	dialogue	えーと…　
@@ -31,6 +36,7 @@ MAP4_e26_p1_6	Map004.json	0	dialogue	ホノオ：
 MAP4_e26_p1_7	Map004.json	0	dialogue	も、もちろんだぜ！
 MAP4_e26_p1_8	Map004.json	0	dialogue	ウィン、オマエなんでこっち来たんだよ…？
 MAP4_e26_p1_10	Map004.json	0	dialogue	ウィン：
+MAP4_e26_p1_11	Map004.json	0	dialogue	…。
 MAP5_e5_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…
 MAP5_e6_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…
 MAP5_e7_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…
@@ -394,6 +400,7 @@ MAP7_e11_p0_6	Map007.json	1	dialogue	騎士団長ロイ様へ
 MAP7_e11_p0_7	Map007.json	1	dialogue	新たな騎士候補者のリストをお送りします。
 MAP7_e11_p0_8	Map007.json	1	dialogue	どの者も将来の楽しみな者たちです。
 MAP7_e11_p0_9	Map007.json	1	dialogue	いつもお手数をおかけしますが、ご確認ください。
+MAP7_e11_p0_11	Map007.json	1	dialogue	…
 MAP7_e11_p0_12	Map007.json	1	dialogue	その後には知らない名前が五人くらい書いてある。
 MAP7_e12_p0_1	Map007.json	0	dialogue	『世界の武器』
 MAP7_e12_p0_2	Map007.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。
@@ -490,6 +497,7 @@ MAP7_e22_p0_2	Map007.json	0	dialogue	ウィンさん、魔物をたおしたと�
 MAP7_e22_p0_3	Map007.json	0	dialogue	手に入る、魔物の素材とか財宝…
 MAP7_e22_p0_4	Map007.json	0	dialogue	ちゃんと売ってますか？
 MAP7_e22_p0_6	Map007.json	0	dialogue	ウィン：
+MAP7_e22_p0_7	Map007.json	0	dialogue	…。
 MAP7_e22_p0_11	Map007.json	1	dialogue	新米兵士ヤーボ：
 MAP7_e22_p0_12	Map007.json	1	dialogue	よかったー　あれ、騎士であるあなたが
 MAP7_e22_p0_13	Map007.json	1	dialogue	持っていても、何の役にも立ちませんし、
@@ -602,6 +610,7 @@ MAP8_e4_p2_82	Map008.json	0	dialogue	ピピン：
 MAP8_e4_p2_83	Map008.json	0	dialogue	俺は残ります。
 MAP8_e4_p2_84	Map008.json	0	dialogue	ウィンにだけ、行かせて下さい。
 MAP8_e4_p2_86	Map008.json	0	dialogue	ウィンダム王：
+MAP8_e4_p2_87	Map008.json	0	dialogue	………。
 MAP8_e4_p2_89	Map008.json	0	dialogue	実はな、ピピン…
 MAP8_e4_p2_90	Map008.json	0	dialogue	このような事態になったときには、
 MAP8_e4_p2_91	Map008.json	0	dialogue	ピピンを寄こすよう、以前ロイから
@@ -884,6 +893,7 @@ MAP8_e20_p0_12	Map008.json	0	dialogue	西の監視塔に人食いの魔物が巣
 MAP8_e20_p0_13	Map008.json	0	dialogue	という報告があった。
 MAP8_e20_p0_14	Map008.json	0	dialogue	この調査、そして魔物の討伐を、お前に命ず。
 MAP8_e20_p0_16	Map008.json	0	dialogue	ウィン：
+MAP8_e20_p0_17	Map008.json	0	dialogue	…。
 MAP8_e20_p0_19	Map008.json	0	dialogue	騎士隊長ピピン：
 MAP8_e20_p0_20	Map008.json	0	dialogue	陛下…ウィンだけでなく、
 MAP8_e20_p0_21	Map008.json	0	dialogue	俺のこともお呼びになられたのは？
@@ -912,6 +922,7 @@ MAP8_e20_p1_23	Map008.json	0	dialogue	西の監視塔に人食いの魔物が巣
 MAP8_e20_p1_24	Map008.json	0	dialogue	という報告があった。
 MAP8_e20_p1_25	Map008.json	0	dialogue	この調査、そして魔物の討伐を、お前に命ず。
 MAP8_e20_p1_27	Map008.json	0	dialogue	ウィン：
+MAP8_e20_p1_28	Map008.json	0	dialogue	…。
 MAP8_e20_p1_30	Map008.json	0	dialogue	騎士隊長ピピン：
 MAP8_e20_p1_31	Map008.json	0	dialogue	陛下…ウィンだけでなく、
 MAP8_e20_p1_32	Map008.json	0	dialogue	俺のこともお呼びになられたのは？
@@ -977,6 +988,7 @@ MAP9_e10_p0_16	Map009.json	1	dialogue	一泊100Gもするから、そろそろ�
 MAP9_e10_p0_17	Map009.json	1	dialogue	どうしよう…　でもピピンの嫌味が怖くて、胃が痛い…。
 MAP9_e10_p0_18	Map009.json	1	dialogue	騎士、やめようかな…。
 MAP9_e10_p0_20	Map009.json	1	dialogue	ピピン：
+MAP9_e10_p0_21	Map009.json	1	dialogue	………。
 MAP9_e10_p1_1	Map009.json	0	dialogue	宿泊者たちの書き残しがある。読んでみようか…。
 MAP9_e10_p1_5	Map009.json	1	dialogue	フレイムからここまで行商に来るのに丸ひとつきも
 MAP9_e10_p1_6	Map009.json	1	dialogue	かかった。そんなに遠くないのに、手形がないせいで、
@@ -1219,6 +1231,7 @@ MAP17_e12_p0_3	Map017.json	0	dialogue	　　　　　　　大事な物だと思
 MAP17_e13_p0_1	Map017.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…
 MAP17_e14_p0_2	Map017.json	0	dialogue	　　　ウィンは本棚から100Gのへそくりを見つけた！
 MAP17_e14_p0_4	Map017.json	0	dialogue	ウィン：
+MAP17_e14_p0_5	Map017.json	0	dialogue	…。
 MAP17_e14_p0_8	Map017.json	0	dialogue	　　　　ウィンは黙ってへそくりを元にもどした…
 MAP17_e15_p0_2	Map017.json	0	dialogue	　　　　　　　　干した果物類が入っている
 MAP18_e3_p0_1	Map018.json	0	dialogue	レストラン主人メアリ―：
@@ -1437,7 +1450,9 @@ MAP21_e10_p0_2	Map021.json	0	dialogue	　　　　　　王国の騎士団のリ
 MAP21_e11_p0_1	Map021.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…
 MAP21_e12_p0_1	Map021.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…
 MAP21_e13_p1_1	Map021.json	0	dialogue	ロイ：
+MAP21_e13_p1_2	Map021.json	0	dialogue	…。
 MAP21_e13_p2_2	Map021.json	0	dialogue	ロイ：
+MAP21_e13_p2_3	Map021.json	0	dialogue	…。
 MAP21_e13_p2_8	Map021.json	0	dialogue	ロイ：
 MAP21_e13_p2_9	Map021.json	0	dialogue	…何も言うな、ウィン。
 MAP21_e13_p2_10	Map021.json	0	dialogue	俺のやり方が悪かったことは、分かっている…
@@ -1480,6 +1495,7 @@ MAP21_e13_p3_5	Map021.json	0	dialogue	闇のエレメントに対抗するには
 MAP21_e13_p3_6	Map021.json	0	dialogue	火、水、風、全ての紋章の力が必要なのだ。
 MAP21_e13_p3_7	Map021.json	0	dialogue	頼んだぞ、ウィン。
 MAP21_e13_p3_9	Map021.json	0	dialogue	ロイ：
+MAP21_e13_p3_10	Map021.json	0	dialogue	…。
 MAP21_e13_p3_12	Map021.json	0	dialogue	…ピピンのことか。
 MAP21_e13_p3_13	Map021.json	0	dialogue	すまなかった。
 MAP21_e13_p3_14	Map021.json	0	dialogue	俺があいつに、あんな言い方をしてしまった
@@ -1497,6 +1513,7 @@ MAP21_e13_p3_38	Map021.json	1	dialogue	そうだな…。
 MAP21_e13_p3_39	Map021.json	1	dialogue	いまは時間が惜しい。
 MAP21_e13_p3_40	Map021.json	1	dialogue	いつか機会があれば、聞いてくれ。
 MAP21_e13_p4_9	Map021.json	0	dialogue	ロイ：
+MAP21_e13_p4_10	Map021.json	0	dialogue	…。
 MAP21_e13_p4_12	Map021.json	0	dialogue	俺の父は…
 MAP21_e13_p4_14	Map021.json	0	dialogue	俺の父は家に帰る途中に、
 MAP21_e13_p4_15	Map021.json	0	dialogue	魔物に襲われて死んだ。
@@ -1665,6 +1682,7 @@ MAP21_e13_p8_27	Map021.json	0	dialogue	たいのです。
 MAP21_e13_p8_28	Map021.json	0	dialogue	どうにも近いうちに何か起こる気がするのです
 MAP21_e14_p0_1	Map021.json	0	dialogue	『エレメントの本質』
 MAP21_e14_p0_2	Map021.json	0	dialogue	…と、書かれた本がある。読んでみようか…。
+MAP21_e14_p0_6	Map021.json	1	dialogue	………。
 MAP21_e14_p0_8	Map021.json	1	dialogue	大昔のことばがほとんどで、ウィンには読めなかった…。
 MAP21_e15_p0_1	Map021.json	0	dialogue	『闇の四天王とは』
 MAP21_e15_p0_2	Map021.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか。
@@ -1693,6 +1711,7 @@ MAP21_e17_p1_20	Map021.json	0	dialogue	ロイ：
 MAP21_e17_p1_21	Map021.json	0	dialogue	俺は一応騎士団長でな。
 MAP21_e17_p1_22	Map021.json	0	dialogue	騎士たちのリストは把握している。
 MAP21_e17_p1_24	Map021.json	0	dialogue	ピピン：
+MAP21_e17_p1_25	Map021.json	0	dialogue	…。
 MAP21_e17_p1_28	Map021.json	0	dialogue	　　ウィンはピピンと一緒に、事の経緯をロイに説明した
 MAP21_e17_p1_31	Map021.json	0	dialogue	ロイ：
 MAP21_e17_p1_32	Map021.json	0	dialogue	…大魔道士ピケピケに、闇の結晶…
@@ -1732,6 +1751,7 @@ MAP21_e17_p1_79	Map021.json	0	dialogue	な…　なんでウィンなんだ？
 MAP21_e17_p1_80	Map021.json	0	dialogue	どうしてそいつが継承者なんだ！？
 MAP21_e17_p1_82	Map021.json	0	dialogue	どうして俺じゃない！？
 MAP21_e17_p1_84	Map021.json	0	dialogue	ロイ：
+MAP21_e17_p1_85	Map021.json	0	dialogue	…。
 MAP21_e17_p1_87	Map021.json	0	dialogue	ピピン：
 MAP21_e17_p1_88	Map021.json	0	dialogue	俺は………！
 MAP21_e17_p1_90	Map021.json	0	dialogue	俺は、そいつなんかよりもずっと強い！
@@ -1801,6 +1821,7 @@ MAP22_e6_p0_8	Map022.json	0	dialogue	ピピン：
 MAP22_e6_p0_9	Map022.json	0	dialogue	ザコの魔物の気配もプンプンする…
 MAP22_e6_p0_10	Map022.json	0	dialogue	面倒だ、一気に上まで走り抜けるぞ！
 MAP22_e6_p0_12	Map022.json	0	dialogue	ウィン：
+MAP22_e6_p0_13	Map022.json	0	dialogue	………。
 MAP22_e6_p0_15	Map022.json	0	dialogue	ピピン：
 MAP22_e6_p0_16	Map022.json	0	dialogue	…ひよっこのお前には、無理かも知れんな。
 MAP22_e6_p0_17	Map022.json	0	dialogue	慎重に進むのに、付き合ってやってもいい。
@@ -1810,6 +1831,7 @@ MAP22_e6_p0_23	Map022.json	1	dialogue	…いいだろう。
 MAP22_e6_p0_24	Map022.json	1	dialogue	ザコの相手は俺がする。
 MAP22_e6_p0_25	Map022.json	1	dialogue	お前は遅れずに付いてくることだけを考えろ！
 MAP22_e6_p0_27	Map022.json	1	dialogue	ウィン：
+MAP22_e6_p0_28	Map022.json	1	dialogue	………。
 MAP22_e6_p0_31	Map022.json	1	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP22_e6_p0_35	Map022.json	1	dialogue	ピピン：
 MAP22_e6_p0_36	Map022.json	1	dialogue	…フン、人食いの魔物とは言え、
@@ -1839,6 +1861,7 @@ MAP22_e6_p0_89	Map022.json	1	dialogue	…いいだろう。
 MAP22_e6_p0_90	Map022.json	1	dialogue	ザコとのバトルにも付き合ってやる。
 MAP22_e6_p0_91	Map022.json	1	dialogue	ヤバいと思ったらすぐに回復アイテムを使え。
 MAP22_e6_p0_93	Map022.json	1	dialogue	ウィン：
+MAP22_e6_p0_94	Map022.json	1	dialogue	…。
 MAP22_e6_p0_97	Map022.json	1	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP22_e6_p1_4	Map022.json	0	dialogue	ピピン：
 MAP22_e6_p1_5	Map022.json	0	dialogue	なんちゅう荒れっぷりだ…
@@ -1848,6 +1871,7 @@ MAP22_e6_p1_9	Map022.json	0	dialogue	しかもこの気配は…
 MAP22_e6_p1_10	Map022.json	0	dialogue	かなり魔物が入り込んでいるみたいだ。
 MAP22_e6_p1_11	Map022.json	0	dialogue	ウィン、油断するなよ？
 MAP22_e6_p1_13	Map022.json	0	dialogue	ウィン：
+MAP22_e6_p1_14	Map022.json	0	dialogue	…。
 MAP22_e6_p1_17	Map022.json	0	dialogue	　　　　　　　　　　ウィンは頷いた。
 MAP22_e7_p0_2	Map022.json	0	dialogue	　　　　ウィンダム騎士団の管理する建物です
 MAP22_e7_p0_3	Map022.json	0	dialogue	　　　　　関係者以外の立ち入りを禁じます
@@ -1926,6 +1950,7 @@ MAP26_e20_p0_18	Map026.json	1	dialogue	必ずお礼はします！
 MAP26_e20_p0_19	Map026.json	1	dialogue	ありがとう！！
 MAP26_e20_p0_21	Map026.json	1	dialogue	市民マイ：
 MAP26_e20_p0_22	Map026.json	1	dialogue	ありがとう騎士さま！！
+MAP26_e20_p0_28	Map026.json	1	dialogue	…。
 MAP26_e20_p1_1	Map026.json	0	dialogue	ウィンダムに来たらぜひ私の父に会いに来て
 MAP26_e20_p1_2	Map026.json	0	dialogue	下さい！
 MAP26_e20_p1_3	Map026.json	0	dialogue	必ずお礼はします！
@@ -1943,25 +1968,31 @@ MAP26_e23_p0_2	Map026.json	0	dialogue	騎士さまも　とおせんぼされた
 MAP26_e23_p0_3	Map026.json	0	dialogue	だったらうちの宿に泊まっていきなよ！
 MAP27_e1_p0_1	Map027.json	0	dialogue	もう塔から出ようか、それともまだ探索しようか…
 MAP27_e1_p1_1	Map027.json	0	dialogue	もう塔から出ようか、それともまだ探索しようか…
+MAP27_e2_p0_4	Map027.json	0	dialogue	？：
 MAP27_e2_p0_5	Map027.json	0	dialogue	ふむ、ふむ…
 MAP27_e2_p0_6	Map027.json	0	dialogue	風のエレメントの力も、
 MAP27_e2_p0_7	Map027.json	0	dialogue	ほんの少しだが、確かに増しているようだなあ。
+MAP27_e2_p0_9	Map027.json	0	dialogue	？：
 MAP27_e2_p0_10	Map027.json	0	dialogue	とは言え…そうとは言えだ！
 MAP27_e2_p0_11	Map027.json	0	dialogue	やはり、やっぱり、闇の結晶を集めなければならない…
 MAP27_e2_p0_12	Map027.json	0	dialogue	そう言うことか…　面倒だなあああああああ！
 MAP27_e2_p0_14	Map027.json	0	dialogue	ピピン：
 MAP27_e2_p0_15	Map027.json	0	dialogue	…おいっ！
+MAP27_e2_p0_21	Map027.json	0	dialogue	？：
 MAP27_e2_p0_22	Map027.json	0	dialogue	…んんん？
 MAP27_e2_p0_26	Map027.json	0	dialogue	ピピン：
 MAP27_e2_p0_27	Map027.json	0	dialogue	お前、ここで何をしている？
 MAP27_e2_p0_28	Map027.json	0	dialogue	何者だ？答えろ！
+MAP27_e2_p0_30	Map027.json	0	dialogue	？：
 MAP27_e2_p0_31	Map027.json	0	dialogue	…王国？　騎士団だと…？？
 MAP27_e2_p0_32	Map027.json	0	dialogue	あー　忌まわしき風の紋章の継承者が…
+MAP27_e2_p0_34	Map027.json	0	dialogue	？：
 MAP27_e2_p0_35	Map027.json	0	dialogue	勝手に国などを作って…
 MAP27_e2_p0_36	Map027.json	0	dialogue	威張っているのだな…！　この時代では！！
 MAP27_e2_p0_38	Map027.json	0	dialogue	ピピン：
 MAP27_e2_p0_39	Map027.json	0	dialogue	時代…？何を言っている！？
 MAP27_e2_p0_40	Map027.json	0	dialogue	しかしその姿、ガイコツか…　魔物か？
+MAP27_e2_p0_42	Map027.json	0	dialogue	？：
 MAP27_e2_p0_43	Map027.json	0	dialogue	魔物…だとー？
 MAP27_e2_p0_44	Map027.json	0	dialogue	この大魔道士ピケピケ様に向かって…
 MAP27_e2_p0_45	Map027.json	0	dialogue	魔物だとぬかしたか！　そこの赤いの！！
@@ -1997,25 +2028,31 @@ MAP27_e2_p0_84	Map027.json	0	dialogue	お前らに構っているヒマは…そ
 MAP27_e2_p0_86	Map027.json	0	dialogue	ピピン：
 MAP27_e2_p0_87	Map027.json	0	dialogue	よく喋る魔物だぜ…
 MAP27_e2_p0_88	Map027.json	0	dialogue	その減らず口、いますぐ…　　なに…！？
+MAP27_e2_p1_4	Map027.json	0	dialogue	？：
 MAP27_e2_p1_5	Map027.json	0	dialogue	ふむ、ふむ…
 MAP27_e2_p1_6	Map027.json	0	dialogue	風のエレメントの力も、
 MAP27_e2_p1_7	Map027.json	0	dialogue	ほんの少しだが、確かに増しているようだなあ。
+MAP27_e2_p1_9	Map027.json	0	dialogue	？：
 MAP27_e2_p1_10	Map027.json	0	dialogue	とは言え…そうとは言えだ！
 MAP27_e2_p1_11	Map027.json	0	dialogue	やはり、やっぱり、闇の結晶を集めなければならない…
 MAP27_e2_p1_12	Map027.json	0	dialogue	そう言うことか…　面倒だなあああああああ！
 MAP27_e2_p1_14	Map027.json	0	dialogue	ピピン：
 MAP27_e2_p1_15	Map027.json	0	dialogue	…おいっ！
+MAP27_e2_p1_21	Map027.json	0	dialogue	？：
 MAP27_e2_p1_22	Map027.json	0	dialogue	…んんん？
 MAP27_e2_p1_26	Map027.json	0	dialogue	ピピン：
 MAP27_e2_p1_27	Map027.json	0	dialogue	お前、ここで何をしている？
 MAP27_e2_p1_28	Map027.json	0	dialogue	何者だ？答えろ！
+MAP27_e2_p1_30	Map027.json	0	dialogue	？：
 MAP27_e2_p1_31	Map027.json	0	dialogue	…王国？　騎士団だと…？？
 MAP27_e2_p1_32	Map027.json	0	dialogue	あー　忌まわしき風の紋章の継承者が…
+MAP27_e2_p1_34	Map027.json	0	dialogue	？：
 MAP27_e2_p1_35	Map027.json	0	dialogue	勝手に国などを作って…
 MAP27_e2_p1_36	Map027.json	0	dialogue	威張っているのだな…！　この時代では！！
 MAP27_e2_p1_38	Map027.json	0	dialogue	ピピン：
 MAP27_e2_p1_39	Map027.json	0	dialogue	時代…？何を言っている！？
 MAP27_e2_p1_40	Map027.json	0	dialogue	しかしその姿、ガイコツか…　魔物か？
+MAP27_e2_p1_42	Map027.json	0	dialogue	？：
 MAP27_e2_p1_43	Map027.json	0	dialogue	魔物…だとー？
 MAP27_e2_p1_44	Map027.json	0	dialogue	この大魔道士ピケピケ様に向かって…
 MAP27_e2_p1_45	Map027.json	0	dialogue	魔物だとぬかしたか！　そこの赤いの！！
@@ -2274,9 +2311,13 @@ MAP32_e43_p0_17	Map032.json	1	dialogue	しかし味音痴というわけでは�
 MAP32_e43_p0_18	Map032.json	1	dialogue	濃く、うま味のあるものが望ましい。色は何でもＯＫ
 MAP32_e43_p0_19	Map032.json	1	dialogue	のようである。
 MAP32_e44_p0_1	Map032.json	0	dialogue	王宮の職人キスパ：
+MAP32_e44_p0_2	Map032.json	0	dialogue	………。
 MAP32_e44_p0_4	Map032.json	0	dialogue	ウィン：
+MAP32_e44_p0_5	Map032.json	0	dialogue	………。
 MAP32_e44_p0_10	Map032.json	0	dialogue	王宮の職人キスパ：
+MAP32_e44_p0_11	Map032.json	0	dialogue	………。
 MAP32_e44_p0_13	Map032.json	0	dialogue	ウィン：
+MAP32_e44_p0_14	Map032.json	0	dialogue	………。
 MAP32_e44_p0_16	Map032.json	0	dialogue	王宮の職人キスパ：
 MAP32_e44_p0_17	Map032.json	0	dialogue	すいません、ぼく、仕事中はすごく集中する
 MAP32_e44_p0_18	Map032.json	0	dialogue	ので、話し掛けないでーーー
@@ -2359,6 +2400,7 @@ MAP33_e4_p1_30	Map033.json	1	dialogue	ホノオ：
 MAP33_e4_p1_31	Map033.json	1	dialogue	てめえウィン…俺がちょっと目を離したスキに
 MAP33_e4_p1_32	Map033.json	1	dialogue	なに勝手に読んでんだよーーー
 MAP33_e4_p1_34	Map033.json	1	dialogue	ウィン：
+MAP33_e4_p1_35	Map033.json	1	dialogue	…。
 MAP33_e4_p1_37	Map033.json	1	dialogue	ホノオ：
 MAP33_e4_p1_38	Map033.json	1	dialogue	おまえなにだまってんだよ…
 MAP33_e4_p1_39	Map033.json	1	dialogue	なに黙ってんだよーーーーーー！！
@@ -2385,10 +2427,12 @@ MAP33_e4_p2_27	Map033.json	1	dialogue	ホノオ：
 MAP33_e4_p2_28	Map033.json	1	dialogue	てめえウィン…俺がちょっと目を離したスキに
 MAP33_e4_p2_29	Map033.json	1	dialogue	なに勝手に読んでんだよーーー
 MAP33_e4_p2_31	Map033.json	1	dialogue	ウィン：
+MAP33_e4_p2_32	Map033.json	1	dialogue	…。
 MAP33_e4_p2_34	Map033.json	1	dialogue	ホノオ：
 MAP33_e4_p2_35	Map033.json	1	dialogue	おまえなにだまってんだよ…
 MAP33_e4_p2_36	Map033.json	1	dialogue	なに黙ってんだよーーーーーー！！
 MAP33_e4_p2_38	Map033.json	1	dialogue	ナガレ：
+MAP33_e4_p2_39	Map033.json	1	dialogue	…。
 MAP33_e4_p2_41	Map033.json	1	dialogue	ホノオ：
 MAP33_e4_p2_42	Map033.json	1	dialogue	おまえもだまってねえで、なんとか言えよ！
 MAP33_e4_p2_44	Map033.json	1	dialogue	ナガレ：
@@ -2455,6 +2499,7 @@ MAP33_e7_p0_1	Map033.json	0	dialogue	フレイム王：
 MAP33_e7_p0_2	Map033.json	0	dialogue	おや、これはこれは騎士どの。
 MAP33_e7_p0_3	Map033.json	0	dialogue	まずは　お茶でもいかがかな？
 MAP33_e7_p0_5	Map033.json	0	dialogue	ウィン：
+MAP33_e7_p0_6	Map033.json	0	dialogue	…。
 MAP33_e7_p0_9	Map033.json	0	dialogue	　　　　ウィンはフレイム王に自己紹介をしてから
 MAP33_e7_p0_10	Map033.json	0	dialogue	　　　　　　　　ことの経緯を説明した
 MAP33_e7_p0_13	Map033.json	0	dialogue	なんだとーーーーーーーーーーーー！！！！
@@ -2489,6 +2534,7 @@ MAP33_e7_p2_13	Map033.json	0	dialogue	ホノオ：
 MAP33_e7_p2_14	Map033.json	0	dialogue	でもよー…
 MAP33_e7_p2_15	Map033.json	0	dialogue	ちゃんと試練は合格したぜ。
 MAP33_e7_p2_17	Map033.json	0	dialogue	フレイム王：
+MAP33_e7_p2_18	Map033.json	0	dialogue	………。
 MAP33_e7_p2_20	Map033.json	0	dialogue	ホノオ：
 MAP33_e7_p2_21	Map033.json	0	dialogue	このウィンが証人でもあるんだぜ！
 MAP33_e7_p2_23	Map033.json	0	dialogue	それ以外にも…　まあ…
@@ -2731,12 +2777,14 @@ MAP33_e18_p0_2	Map033.json	0	dialogue	　　　左　ホノオ王子の部屋　
 MAP33_e19_p1_1	Map033.json	0	dialogue	ホノオ：
 MAP33_e19_p1_2	Map033.json	0	dialogue	あ…　あ…　アニキ…！！？
 MAP33_e19_p1_4	Map033.json	0	dialogue	ホムラ？：
+MAP33_e19_p1_5	Map033.json	0	dialogue	…………。
 MAP33_e19_p2_2	Map033.json	0	dialogue	ホノオ：
 MAP33_e19_p2_3	Map033.json	0	dialogue	あっ…！！
 MAP33_e19_p2_6	Map033.json	0	dialogue	ホノオ：
 MAP33_e19_p2_7	Map033.json	0	dialogue	なんだったんだ…　まぼろし…？
 MAP33_e19_p2_8	Map033.json	0	dialogue	ウィン、オマエさっきの見たか？
 MAP33_e19_p2_10	Map033.json	0	dialogue	ウィン：
+MAP33_e19_p2_11	Map033.json	0	dialogue	……。
 MAP33_e19_p2_13	Map033.json	0	dialogue	ホノオ：
 MAP33_e19_p2_14	Map033.json	0	dialogue	アニキ…　
 MAP34_e3_p0_1	Map034.json	0	dialogue	ピピン：
@@ -2932,6 +2980,7 @@ MAP37_e4_p2_82	Map037.json	0	dialogue	ピピン：
 MAP37_e4_p2_83	Map037.json	0	dialogue	俺は残ります。
 MAP37_e4_p2_84	Map037.json	0	dialogue	ウィンにだけ、行かせて下さい。
 MAP37_e4_p2_86	Map037.json	0	dialogue	ウィンダム王：
+MAP37_e4_p2_87	Map037.json	0	dialogue	………。
 MAP37_e4_p2_89	Map037.json	0	dialogue	実はな、ピピン…
 MAP37_e4_p2_90	Map037.json	0	dialogue	このような事態になったときには、
 MAP37_e4_p2_91	Map037.json	0	dialogue	ピピンを寄こすよう、以前ロイから
@@ -3247,14 +3296,17 @@ MAP40_e44_p1_19	Map040.json	0	dialogue	ロイ騎士団長の家を…
 MAP40_e44_p1_21	Map040.json	0	dialogue	若かりし頃のロイ：
 MAP40_e44_p1_22	Map040.json	0	dialogue	…なんだと
 MAP40_e44_p1_24	Map040.json	0	dialogue	サクソン：
+MAP40_e44_p1_25	Map040.json	0	dialogue	………。
 MAP40_e44_p1_29	Map040.json	0	dialogue	若かりし頃のロイ：
 MAP40_e44_p1_30	Map040.json	0	dialogue	サクソン殿！
 MAP40_e44_p1_31	Map040.json	0	dialogue	兵の何人かを救出に向かわせるぞ！いいな！？
 MAP40_e44_p1_33	Map040.json	0	dialogue	サクソン：
+MAP40_e44_p1_34	Map040.json	0	dialogue	………。
 MAP40_e44_p1_36	Map040.json	0	dialogue	若かりし頃のロイ：
 MAP40_e44_p1_37	Map040.json	0	dialogue	サクソン殿！
 MAP40_e44_p1_38	Map040.json	0	dialogue	騎士団長は私だ！命令には従ってもらう！
 MAP40_e44_p1_40	Map040.json	0	dialogue	サクソン：
+MAP40_e44_p1_41	Map040.json	0	dialogue	………。
 MAP40_e44_p1_47	Map040.json	0	dialogue	若かりし頃のロイ：
 MAP40_e44_p1_48	Map040.json	0	dialogue	サクソン殿…！
 MAP40_e44_p1_50	Map040.json	0	dialogue	サクソン：
@@ -3286,6 +3338,7 @@ MAP40_e44_p1_89	Map040.json	0	dialogue	若かりし頃のロイ：
 MAP40_e44_p1_90	Map040.json	0	dialogue	…くっ
 MAP41_e8_p0_1	Map041.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…
 MAP41_e22_p0_2	Map041.json	0	dialogue	ロイ：
+MAP41_e22_p0_3	Map041.json	0	dialogue	………。
 MAP41_e22_p0_5	Map041.json	0	dialogue	そこからどうやって家までたどり着いたのか…
 MAP41_e22_p0_6	Map041.json	0	dialogue	それはいまだに、よく覚えていないんだが…
 MAP41_e22_p0_8	Map041.json	0	dialogue	走りながら、野盗を何人か斬って…
@@ -3348,6 +3401,7 @@ MAP42_e10_p0_2	Map042.json	0	dialogue	ぶしつけに失礼ですが…
 MAP42_e10_p0_3	Map042.json	0	dialogue	あなたは耳の長い男を見たことが
 MAP42_e10_p0_4	Map042.json	0	dialogue	ありませんか？
 MAP42_e10_p0_6	Map042.json	0	dialogue	ウィン：
+MAP42_e10_p0_7	Map042.json	0	dialogue	………。
 MAP42_e10_p0_9	Map042.json	0	dialogue	見慣れぬ風貌の旅人：
 MAP42_e10_p0_10	Map042.json	0	dialogue	どうもいきなり失礼しました…。
 MAP42_e10_p0_11	Map042.json	0	dialogue	もし見つけられましたら、教えてください。
@@ -3472,19 +3526,25 @@ MAP47_e9_p2_2	Map047.json	0	dialogue	だが、信用できる者にしか、そ�
 MAP47_e9_p2_3	Map047.json	0	dialogue	渡さない方がよいぞ…
 MAP49_e2_p0_4	Map049.json	0	dialogue	ホノオ：
 MAP49_e2_p0_5	Map049.json	0	dialogue	くそーーー　つえーーー！！
+MAP49_e2_p0_7	Map049.json	0	dialogue	？：
+MAP49_e2_p0_8	Map049.json	0	dialogue	……………………。
 MAP49_e2_p0_10	Map049.json	0	dialogue	ホノオ：
 MAP49_e2_p0_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、
 MAP49_e2_p0_12	Map049.json	0	dialogue	なんかそういうことを言っている顔だな…
+MAP49_e2_p0_14	Map049.json	0	dialogue	？：
+MAP49_e2_p0_15	Map049.json	0	dialogue	……………………？
 MAP49_e2_p0_17	Map049.json	0	dialogue	ホノオ：
 MAP49_e2_p0_18	Map049.json	0	dialogue	わかってるって…　オレは絶対にこの試練を
 MAP49_e2_p0_19	Map049.json	0	dialogue	乗り越えないといけないんだ…
 MAP49_e2_p0_20	Map049.json	0	dialogue	まだまだ諦めねえぜ…！！
+MAP49_e2_p0_22	Map049.json	0	dialogue	？：
 MAP49_e2_p0_23	Map049.json	0	dialogue	……………………（汗
 MAP49_e2_p0_32	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p0_33	Map049.json	1	dialogue	……と、言う夢を見た。
 MAP49_e2_p0_42	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p0_43	Map049.json	1	dialogue	ぜえ…ぜえ…
 MAP49_e2_p0_44	Map049.json	1	dialogue	コレ絶対に無理だ…　オレは勝てない…
+MAP49_e2_p0_46	Map049.json	1	dialogue	？：
 MAP49_e2_p0_47	Map049.json	1	dialogue	………（ホノオの背後を指差す
 MAP49_e2_p0_49	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p0_50	Map049.json	1	dialogue	え？
@@ -3510,6 +3570,7 @@ MAP49_e2_p0_116	Map049.json	1	dialogue	な、なんだ！？
 MAP49_e2_p0_117	Map049.json	1	dialogue	紋章が光り出して…何か魔法をおぼえた！！
 MAP49_e2_p0_119	Map049.json	1	dialogue	勝てるんじゃないか…コレなら…
 MAP49_e2_p0_120	Map049.json	1	dialogue	何だかさっきまでのオレとは違う感じだぜ！
+MAP49_e2_p0_122	Map049.json	1	dialogue	？：
 MAP49_e2_p0_123	Map049.json	1	dialogue	…我は闇の四天王のナウ―…
 MAP49_e2_p0_124	Map049.json	1	dialogue	紋章の勇者たちよ…　その力見せてみよ…
 MAP49_e2_p0_127	Map049.json	1	dialogue	ホノオ：
@@ -3517,9 +3578,11 @@ MAP49_e2_p0_128	Map049.json	1	dialogue	しゃ…しゃべったーーーーー�
 MAP49_e2_p0_142	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p0_143	Map049.json	1	dialogue	勝ったぜー！！
 MAP49_e2_p0_145	Map049.json	1	dialogue	ナウ―：
+MAP49_e2_p0_146	Map049.json	1	dialogue	…………。
 MAP49_e2_p0_148	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p0_149	Map049.json	1	dialogue	…ピンピンしてない？
 MAP49_e2_p0_151	Map049.json	1	dialogue	ナウ―：
+MAP49_e2_p0_152	Map049.json	1	dialogue	…………。
 MAP49_e2_p0_154	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p0_155	Map049.json	1	dialogue	…で、どうなんだろ、試練の方は…
 MAP49_e2_p0_156	Map049.json	1	dialogue	やっぱり不合格か？
@@ -3535,19 +3598,25 @@ MAP49_e2_p0_170	Map049.json	1	dialogue	ナウ―：
 MAP49_e2_p0_171	Map049.json	1	dialogue	…………試練は、我の後ろに
 MAP49_e2_p1_4	Map049.json	0	dialogue	ホノオ：
 MAP49_e2_p1_5	Map049.json	0	dialogue	くそーーー　つえーーー！！
+MAP49_e2_p1_7	Map049.json	0	dialogue	？：
+MAP49_e2_p1_8	Map049.json	0	dialogue	……………………。
 MAP49_e2_p1_10	Map049.json	0	dialogue	ホノオ：
 MAP49_e2_p1_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、
 MAP49_e2_p1_12	Map049.json	0	dialogue	なんかそういうことを言っている顔だな…
+MAP49_e2_p1_14	Map049.json	0	dialogue	？：
+MAP49_e2_p1_15	Map049.json	0	dialogue	……………………？
 MAP49_e2_p1_17	Map049.json	0	dialogue	ホノオ：
 MAP49_e2_p1_18	Map049.json	0	dialogue	わかってるって…　オレは絶対にこの試練を
 MAP49_e2_p1_19	Map049.json	0	dialogue	乗り越えないといけないんだ…
 MAP49_e2_p1_20	Map049.json	0	dialogue	まだまだ諦めねえぜ…！！
+MAP49_e2_p1_22	Map049.json	0	dialogue	？：
 MAP49_e2_p1_23	Map049.json	0	dialogue	……………………（汗
 MAP49_e2_p1_34	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p1_35	Map049.json	1	dialogue	……と、言う夢を見た。
 MAP49_e2_p1_44	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p1_45	Map049.json	1	dialogue	ぜえ…ぜえ…
 MAP49_e2_p1_46	Map049.json	1	dialogue	コレ絶対に無理だ…　オレは勝てない…
+MAP49_e2_p1_48	Map049.json	1	dialogue	？：
 MAP49_e2_p1_49	Map049.json	1	dialogue	………（ホノオの背後を指差す
 MAP49_e2_p1_51	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p1_52	Map049.json	1	dialogue	え？
@@ -3573,6 +3642,7 @@ MAP49_e2_p1_118	Map049.json	1	dialogue	な、なんだ！？
 MAP49_e2_p1_119	Map049.json	1	dialogue	紋章が光り出して…何か魔法をおぼえた！！
 MAP49_e2_p1_121	Map049.json	1	dialogue	勝てるんじゃないか…コレなら…
 MAP49_e2_p1_122	Map049.json	1	dialogue	何だかさっきまでのオレとは違う感じだぜ！
+MAP49_e2_p1_124	Map049.json	1	dialogue	？：
 MAP49_e2_p1_125	Map049.json	1	dialogue	…我は闇の四天王のナウ―…
 MAP49_e2_p1_126	Map049.json	1	dialogue	紋章の勇者たちよ…　その力見せてみよ…
 MAP49_e2_p1_129	Map049.json	1	dialogue	ホノオ：
@@ -3580,9 +3650,11 @@ MAP49_e2_p1_130	Map049.json	1	dialogue	しゃ…しゃべったーーーーー�
 MAP49_e2_p1_144	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p1_145	Map049.json	1	dialogue	勝ったぜー！！
 MAP49_e2_p1_147	Map049.json	1	dialogue	ナウ―：
+MAP49_e2_p1_148	Map049.json	1	dialogue	…………。
 MAP49_e2_p1_150	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p1_151	Map049.json	1	dialogue	…ピンピンしてない？
 MAP49_e2_p1_153	Map049.json	1	dialogue	ナウ―：
+MAP49_e2_p1_154	Map049.json	1	dialogue	…………。
 MAP49_e2_p1_156	Map049.json	1	dialogue	ホノオ：
 MAP49_e2_p1_157	Map049.json	1	dialogue	…で、どうなんだろ、試練の方は…
 MAP49_e2_p1_158	Map049.json	1	dialogue	やっぱり不合格か？
@@ -3615,6 +3687,7 @@ MAP49_e2_p2_31	Map049.json	1	dialogue	とりあえず、あそこの椅子に座
 MAP49_e2_p2_37	Map049.json	1	dialogue	そうか。
 MAP49_e2_p2_38	Map049.json	1	dialogue	でも俺は試練を済ますまでは、ここを
 MAP49_e2_p2_39	Map049.json	1	dialogue	出る気はないぜ。
+MAP49_e6_p1_1	Map049.json	0	dialogue	？：
 MAP49_e6_p1_2	Map049.json	0	dialogue	試練を受けよ　火の勇者よ…
 MAP49_e6_p1_4	Map049.json	0	dialogue	ホノオ：
 MAP49_e6_p1_5	Map049.json	0	dialogue	うわ！えっ？
@@ -3629,9 +3702,11 @@ MAP49_e7_p0_5	Map049.json	0	dialogue	さっきの鎧がすごく試練ぽかっ�
 MAP49_e7_p0_6	Map049.json	0	dialogue	こっちが本物らしい…
 MAP49_e7_p0_8	Map049.json	0	dialogue	何が起こるかわからないから、
 MAP49_e7_p0_9	Map049.json	0	dialogue	ウィンはちょっと離れていてくれ。
+MAP49_e8_p1_13	Map049.json	0	dialogue	？：
 MAP49_e8_p1_14	Map049.json	0	dialogue	…ホノオ。
 MAP49_e8_p1_17	Map049.json	0	dialogue	ホノオ：
 MAP49_e8_p1_18	Map049.json	0	dialogue	え…　そんな…　まさか…
+MAP49_e8_p1_23	Map049.json	0	dialogue	？：
 MAP49_e8_p1_24	Map049.json	0	dialogue	振りむいてはいけない、ホノオ！
 MAP49_e8_p1_25	Map049.json	0	dialogue	振り向いたら、僕は消えてしまう…
 MAP49_e8_p1_27	Map049.json	0	dialogue	ホノオ：
@@ -3641,12 +3716,14 @@ MAP49_e8_p1_34	Map049.json	0	dialogue	アニキの…　ホムラ兄貴の声じ
 MAP49_e9_p1_7	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_8	Map049.json	0	dialogue	ウィン！いるのか、オレのアニキがそこに…！
 MAP49_e9_p1_11	Map049.json	0	dialogue	　　　　　なぜかウィンはまったく動けない！
+MAP49_e9_p1_15	Map049.json	0	dialogue	？：
 MAP49_e9_p1_16	Map049.json	0	dialogue	ホノオ、お前に会いたかった。
 MAP49_e9_p1_17	Map049.json	0	dialogue	お前と話したいことが、たくさん残っていた…。
 MAP49_e9_p1_19	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_20	Map049.json	0	dialogue	オレだってそうだよ…
 MAP49_e9_p1_21	Map049.json	0	dialogue	だけどアニキ…アンタは死んだ。
 MAP49_e9_p1_22	Map049.json	0	dialogue	試練てのは、死んだ人間と会うことなのか！？
+MAP49_e9_p1_24	Map049.json	0	dialogue	？：
 MAP49_e9_p1_25	Map049.json	0	dialogue	そうみたいだ…。
 MAP49_e9_p1_26	Map049.json	0	dialogue	継承の試練で何が起こるのか、それは秘密。
 MAP49_e9_p1_27	Map049.json	0	dialogue	だから真実を知るのは常に王のみ…。
@@ -3654,12 +3731,14 @@ MAP49_e9_p1_29	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_30	Map049.json	0	dialogue	そうだな。
 MAP49_e9_p1_31	Map049.json	0	dialogue	…しかしアニキと話すことになるなんて、
 MAP49_e9_p1_32	Map049.json	0	dialogue	さすがのオレでも全く想像してなかったぜ…
+MAP49_e9_p1_34	Map049.json	0	dialogue	？：
 MAP49_e9_p1_35	Map049.json	0	dialogue	そうさ、ホノオにもわからないことは、
 MAP49_e9_p1_36	Map049.json	0	dialogue	僕にも、誰にだってきっとわからないのさ。
 MAP49_e9_p1_38	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_39	Map049.json	0	dialogue	…マジでアニキなのか？
 MAP49_e9_p1_40	Map049.json	0	dialogue	そうやって、わけのわからねえ褒め方すんの、
 MAP49_e9_p1_41	Map049.json	0	dialogue	マジでホムラ兄貴っぽいんだ…
+MAP49_e9_p1_43	Map049.json	0	dialogue	？：
 MAP49_e9_p1_44	Map049.json	0	dialogue	マジでマジでってたくさん言うのも、ホノオらしいよ。
 MAP49_e9_p1_46	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_47	Map049.json	0	dialogue	アニキ…
@@ -3668,6 +3747,7 @@ MAP49_e9_p1_49	Map049.json	0	dialogue	思ってた。
 MAP49_e9_p1_51	Map049.json	0	dialogue	誰にでも優しくて…
 MAP49_e9_p1_52	Map049.json	0	dialogue	難しい本をたくさん読んでいて…
 MAP49_e9_p1_53	Map049.json	0	dialogue	誰もが立派だと褒めるアニキみてえに…
+MAP49_e9_p1_55	Map049.json	0	dialogue	？：
 MAP49_e9_p1_56	Map049.json	0	dialogue	…そうか。
 MAP49_e9_p1_58	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_59	Map049.json	0	dialogue	だからアニキが死んでから大変だったんだ。
@@ -3677,6 +3757,7 @@ MAP49_e9_p1_63	Map049.json	0	dialogue	オレは…
 MAP49_e9_p1_64	Map049.json	0	dialogue	誰よりも優しくて頭のいいアニキが…
 MAP49_e9_p1_65	Map049.json	0	dialogue	この国の王になるのが、オレはマジで
 MAP49_e9_p1_66	Map049.json	0	dialogue	楽しみだったんだよ…
+MAP49_e9_p1_68	Map049.json	0	dialogue	？：
 MAP49_e9_p1_69	Map049.json	0	dialogue	…ホノオ。
 MAP49_e9_p1_71	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_72	Map049.json	0	dialogue	アニキの真似をし始めたオレを見て…
@@ -3685,25 +3766,34 @@ MAP49_e9_p1_75	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_76	Map049.json	0	dialogue	いくら本を読んでも何も頭に入らねえし…
 MAP49_e9_p1_77	Map049.json	0	dialogue	敬語だって全然使えなくて…
 MAP49_e9_p1_78	Map049.json	0	dialogue	結局、みじめになっただけだったぜ。
+MAP49_e9_p1_80	Map049.json	0	dialogue	？：
 MAP49_e9_p1_81	Map049.json	0	dialogue	つらい思いをしたんだな、ホノオ。
 MAP49_e9_p1_83	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p1_84	Map049.json	0	dialogue	ああ…　オレはアニキになれねんだよ…
+MAP49_e9_p2_5	Map049.json	0	dialogue	？：
 MAP49_e9_p2_6	Map049.json	0	dialogue	なあ、ホノオ。
+MAP49_e9_p2_8	Map049.json	0	dialogue	？：
 MAP49_e9_p2_9	Map049.json	0	dialogue	僕が生き返ったらどうする？
+MAP49_e9_p2_14	Map049.json	0	dialogue	？：
 MAP49_e9_p2_15	Map049.json	0	dialogue	僕が生き返って、ちゃんと王になるよ。
 MAP49_e9_p2_19	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p2_20	Map049.json	0	dialogue	生き返るって…
 MAP49_e9_p2_21	Map049.json	0	dialogue	一体どうやって？
+MAP49_e9_p2_23	Map049.json	0	dialogue	？：
 MAP49_e9_p2_24	Map049.json	0	dialogue	ホノオ、おまえのその火の紋章だ。
+MAP49_e9_p2_29	Map049.json	0	dialogue	？：
 MAP49_e9_p2_30	Map049.json	0	dialogue	おまえのその紋章をぼくに継承すれば、
 MAP49_e9_p2_31	Map049.json	0	dialogue	ぼくは生き返る…。
+MAP49_e9_p2_33	Map049.json	0	dialogue	？：
 MAP49_e9_p2_34	Map049.json	0	dialogue	おまえがずっと望んでいた世界になる…
 MAP49_e9_p2_35	Map049.json	0	dialogue	ぼくが王になって、この国をよくできる…
 MAP49_e9_p2_37	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p2_38	Map049.json	0	dialogue	…これが、試練てことか？
+MAP49_e9_p2_40	Map049.json	0	dialogue	？：
 MAP49_e9_p2_41	Map049.json	0	dialogue	そうだよ、ホノオ。
 MAP49_e9_p2_42	Map049.json	0	dialogue	ここは死人の魂の通り道…
 MAP49_e9_p2_43	Map049.json	0	dialogue	ここでなら、死者に継承して復活させることができる
+MAP49_e9_p2_45	Map049.json	0	dialogue	？：
 MAP49_e9_p2_46	Map049.json	0	dialogue	さあ、考えてくれ、ホノオ…
 MAP49_e9_p3_7	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p3_8	Map049.json	0	dialogue	…ホムラ兄貴が王になって、この国を
@@ -3711,23 +3801,29 @@ MAP49_e9_p3_9	Map049.json	0	dialogue	どんどん良くする。
 MAP49_e9_p3_11	Map049.json	0	dialogue	そんでオレは、剣を振り回して
 MAP49_e9_p3_12	Map049.json	0	dialogue	走り回っていればいい…。
 MAP49_e9_p3_13	Map049.json	0	dialogue	そう、それこそオレの望んだ未来だった…。
+MAP49_e9_p3_15	Map049.json	0	dialogue	？：
 MAP49_e9_p3_16	Map049.json	0	dialogue	その未来が手に入るんだよ、ホノオ。
+MAP49_e9_p3_21	Map049.json	0	dialogue	？：
 MAP49_e9_p3_22	Map049.json	0	dialogue	さあ、ぼくに紋章を継承しよう。
 MAP49_e9_p3_23	Map049.json	0	dialogue	そして二人の夢を叶えよう。
 MAP49_e9_p3_25	Map049.json	0	dialogue	ウィン：
+MAP49_e9_p3_26	Map049.json	0	dialogue	…！
 MAP49_e9_p3_29	Map049.json	0	dialogue	　　　　　　ウィンは叫ぼうとしたが声が出ない
 MAP49_e9_p3_32	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p3_33	Map049.json	0	dialogue	うっ…　　ううっ…
+MAP49_e9_p3_35	Map049.json	0	dialogue	？：
 MAP49_e9_p3_36	Map049.json	0	dialogue	ホノオ、どうして泣くんだ？
 MAP49_e9_p3_38	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p3_39	Map049.json	0	dialogue	うっ…　それはよう…
 MAP49_e9_p3_48	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p3_49	Map049.json	0	dialogue	オマエがアニキの偽物だとわかって
 MAP49_e9_p3_50	Map049.json	0	dialogue	心から悲しんでるからだよーーー！！
+MAP49_e9_p3_52	Map049.json	0	dialogue	？：
 MAP49_e9_p3_53	Map049.json	0	dialogue	なんだって！？
 MAP49_e9_p3_55	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p3_56	Map049.json	0	dialogue	くそー！！！
 MAP49_e9_p3_57	Map049.json	0	dialogue	ホントにアニキかもって思ったのによー！！
+MAP49_e9_p3_59	Map049.json	0	dialogue	？：
 MAP49_e9_p3_60	Map049.json	0	dialogue	いやいや、ホノオ！
 MAP49_e9_p3_61	Map049.json	0	dialogue	ぼくホムラだから！！
 MAP49_e9_p3_63	Map049.json	0	dialogue	ホノオ：
@@ -3762,6 +3858,7 @@ MAP49_e9_p4_12	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p4_13	Map049.json	0	dialogue	…もう振り向いても大丈夫そう？
 MAP49_e9_p4_16	Map049.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP49_e9_p4_22	Map049.json	0	dialogue	ホノオ：
+MAP49_e9_p4_23	Map049.json	0	dialogue	…。
 MAP49_e9_p4_33	Map049.json	0	dialogue	ホノオ：
 MAP49_e9_p4_34	Map049.json	0	dialogue	なあ、ウィン。
 MAP49_e9_p4_35	Map049.json	0	dialogue	オレの試練ぶり、どうだった？
@@ -3774,8 +3871,10 @@ MAP49_e11_p0_11	Map049.json	0	dialogue	　　　　　シャムシール（良�
 MAP50_e35_p0_7	Map050.json	0	dialogue	ホノオ：
 MAP50_e35_p0_8	Map050.json	0	dialogue	うおおお！？
 MAP50_e35_p0_9	Map050.json	0	dialogue	なんだあのデッカイ魔物はー！！
+MAP50_e35_p0_15	Map050.json	0	dialogue	？：
 MAP50_e35_p0_16	Map050.json	0	dialogue	ん？　おい、ナガレ。
 MAP50_e35_p0_17	Map050.json	0	dialogue	誰か来たぞ。
+MAP50_e35_p0_19	Map050.json	0	dialogue	？：
 MAP50_e35_p0_20	Map050.json	0	dialogue	うん…　なんかすごく強そうなひとたちだ…
 MAP50_e35_p0_21	Map050.json	0	dialogue	手伝ってもら…
 MAP50_e35_p0_25	Map050.json	0	dialogue	ナガレ：
@@ -3791,6 +3890,7 @@ MAP50_e35_p0_42	Map050.json	0	dialogue	大丈夫かなあ…　ぼくの剣術�
 MAP50_e35_p1_10	Map050.json	0	dialogue	ホノオ：
 MAP50_e35_p1_11	Map050.json	0	dialogue	つ、つええ…
 MAP50_e35_p1_13	Map050.json	0	dialogue	ウィン：
+MAP50_e35_p1_14	Map050.json	0	dialogue	…。
 MAP50_e35_p1_16	Map050.json	0	dialogue	ナガレ：
 MAP50_e35_p1_17	Map050.json	0	dialogue	ふーっ…
 MAP50_e35_p1_18	Map050.json	0	dialogue	こいつで終りみたいだな。
@@ -3817,6 +3917,7 @@ MAP50_e35_p1_58	Map050.json	0	dialogue	ホノオ：
 MAP50_e35_p1_59	Map050.json	0	dialogue	ああ。
 MAP50_e35_p1_60	Map050.json	0	dialogue	あんたらの太刀筋が全然見えなかったぜ…。
 MAP50_e35_p1_62	Map050.json	0	dialogue	ウィン：
+MAP50_e35_p1_63	Map050.json	0	dialogue	…。
 MAP50_e35_p1_65	Map050.json	0	dialogue	ナガレ：
 MAP50_e35_p1_66	Map050.json	0	dialogue	…そっちの金髪の方は、そうでもなかった
 MAP50_e35_p1_67	Map050.json	0	dialogue	みたいだけど…　
@@ -3910,6 +4011,7 @@ MAP50_e35_p1_205	Map050.json	0	dialogue	いたいいたい…　もうわかっ�
 MAP50_e35_p1_207	Map050.json	0	dialogue	ナガレ：
 MAP50_e35_p1_208	Map050.json	0	dialogue	消えない…　消えないぞ…
 MAP50_e35_p1_210	Map050.json	0	dialogue	ウィン：
+MAP50_e35_p1_211	Map050.json	0	dialogue	………！
 MAP50_e35_p1_213	Map050.json	0	dialogue	ナガレ：
 MAP50_e35_p1_214	Map050.json	0	dialogue	消えない…！消えない！！そんな……！！
 MAP50_e35_p1_216	Map050.json	0	dialogue	ホノオ：
@@ -3952,6 +4054,7 @@ MAP50_e35_p2_28	Map050.json	0	dialogue	いや、でも…
 MAP50_e35_p2_29	Map050.json	0	dialogue	水の紋章がないと闇のエレメントの復活阻止
 MAP50_e35_p2_30	Map050.json	0	dialogue	できないから、ヤバいんじゃねえか…？
 MAP50_e35_p2_32	Map050.json	0	dialogue	ウィン：
+MAP50_e35_p2_33	Map050.json	0	dialogue	…。
 MAP50_e35_p2_35	Map050.json	0	dialogue	マハリ：
 MAP50_e35_p2_36	Map050.json	0	dialogue	でも…　もしかしたらシズク様やオタキ様が
 MAP50_e35_p2_37	Map050.json	0	dialogue	何か知っているんじゃないかな…
@@ -4190,6 +4293,7 @@ MAP55_e7_p2_19	Map055.json	0	dialogue	うん。だけど…龍は死んでしま
 MAP55_e7_p2_20	Map055.json	0	dialogue	殺したんじゃない…　殺したんじゃないけど…
 MAP55_e7_p2_21	Map055.json	0	dialogue	殺したのと、同じだったかも知れない…。
 MAP55_e7_p2_23	Map055.json	0	dialogue	オタキ様：
+MAP55_e7_p2_24	Map055.json	0	dialogue	………。
 MAP55_e7_p2_25	Map055.json	0	dialogue	まるで、友をなくしたような顔をしておるな…
 MAP55_e7_p2_27	Map055.json	0	dialogue	ナガレ：
 MAP55_e7_p2_28	Map055.json	0	dialogue	……わかるのか？　オタキ様には…？
@@ -4230,6 +4334,7 @@ MAP55_e7_p2_73	Map055.json	0	dialogue	それからは、やらないことにし
 MAP55_e7_p2_75	Map055.json	0	dialogue	ホノオ：
 MAP55_e7_p2_76	Map055.json	0	dialogue	…そんなことがあったのか…
 MAP55_e7_p2_79	Map055.json	0	dialogue	ウィン：
+MAP55_e7_p2_80	Map055.json	0	dialogue	…。
 MAP55_e7_p2_83	Map055.json	0	dialogue	オタキ様：
 MAP55_e7_p2_84	Map055.json	0	dialogue	わかった…
 MAP55_e7_p2_85	Map055.json	0	dialogue	わしの知っていることを、全て話そう、ナガレ。
@@ -4385,6 +4490,7 @@ MAP55_e7_p2_288	Map055.json	0	dialogue	セイリューがこの有り様だと�
 MAP55_e7_p2_289	Map055.json	0	dialogue	正直オレも自分の国が心配です…。
 MAP55_e7_p2_290	Map055.json	0	dialogue	ウィンの国だって…　なあ？
 MAP55_e7_p2_292	Map055.json	0	dialogue	ウィン：
+MAP55_e7_p2_293	Map055.json	0	dialogue	…。
 MAP55_e7_p2_296	Map055.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP55_e7_p2_298	Map055.json	0	dialogue	シズク様：
 MAP55_e7_p2_299	Map055.json	0	dialogue	そうでしょうね…。
@@ -4409,6 +4515,7 @@ MAP55_e7_p2_323	Map055.json	0	dialogue	ウィンがいいなら、あたしも�
 MAP55_e7_p2_324	Map055.json	0	dialogue	ホノオの国は火の国だろ。
 MAP55_e7_p2_325	Map055.json	0	dialogue	あたしの水の力が役に立ちそうだ。
 MAP55_e7_p2_327	Map055.json	0	dialogue	ウィン：
+MAP55_e7_p2_328	Map055.json	0	dialogue	…。
 MAP55_e7_p2_331	Map055.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP55_e7_p2_333	Map055.json	0	dialogue	ホノオ：
 MAP55_e7_p2_334	Map055.json	0	dialogue	助かる…　恩に着るぜ！ウィン！ナガレ！
@@ -4491,6 +4598,7 @@ MAP55_e11_p0_1	Map055.json	0	dialogue	マハリ：
 MAP55_e11_p0_2	Map055.json	0	dialogue	皆さんお待ちかねですよ。
 MAP55_e11_p0_3	Map055.json	0	dialogue	特に…何も教えてもらえないまま放置されてる
 MAP55_e11_p0_4	Map055.json	0	dialogue	ナガレがね…
+MAP55_e12_p0_3	Map055.json	0	dialogue	？：
 MAP55_e12_p0_4	Map055.json	0	dialogue	いらっしゃいましたね。
 MAP55_e12_p0_5	Map055.json	0	dialogue	どうぞお二方、こちらへ。
 MAP55_e12_p0_9	Map055.json	0	dialogue	ナガレ：
@@ -4506,6 +4614,7 @@ MAP55_e12_p0_25	Map055.json	0	dialogue	ホノオ：
 MAP55_e12_p0_26	Map055.json	0	dialogue	どうも…オレはホノオ。
 MAP55_e12_p0_27	Map055.json	0	dialogue	で、こっちがウィンです。
 MAP55_e12_p0_29	Map055.json	0	dialogue	ウィン：
+MAP55_e12_p0_30	Map055.json	0	dialogue	…。
 MAP55_e12_p0_33	Map055.json	0	dialogue	　　　　　　　　　ウィンはおじぎをした
 MAP55_e12_p0_35	Map055.json	0	dialogue	ナガレ：
 MAP55_e12_p0_36	Map055.json	0	dialogue	自己紹介が済んだんだから、もういいだろ？
@@ -4560,6 +4669,7 @@ MAP55_e12_p0_116	Map055.json	0	dialogue	お、おう…
 MAP55_e12_p0_118	Map055.json	0	dialogue	ナガレ：
 MAP55_e12_p0_119	Map055.json	0	dialogue	秘密って…いったい…
 MAP55_e12_p0_121	Map055.json	0	dialogue	ウィン：
+MAP55_e12_p0_122	Map055.json	0	dialogue	…。
 MAP55_e12_p0_127	Map055.json	scrolling text	dialogue	　　　　代々セイリュー当主に口伝でのみ伝わる、
 MAP55_e12_p0_129	Map055.json	scrolling text	dialogue	　　　　　　この地セイリューの伝説じゃ
 MAP55_e12_p0_132	Map055.json	scrolling text	dialogue	　　　その昔、この地にひとびとが集い集落を作る前
@@ -4754,6 +4864,7 @@ MAP55_e12_p0_475	Map055.json	0	dialogue	思いますので…　なにとぞ…
 MAP55_e12_p0_477	Map055.json	0	dialogue	ホノオ：
 MAP55_e12_p0_478	Map055.json	0	dialogue	え…　ああ、はい…。
 MAP55_e12_p0_480	Map055.json	0	dialogue	ナガレ：
+MAP55_e12_p0_481	Map055.json	0	dialogue	………。
 MAP55_e12_p0_483	Map055.json	0	dialogue	オタキ様：
 MAP55_e12_p0_484	Map055.json	0	dialogue	そろそろ…この話もしまいにしよう。
 MAP55_e12_p0_490	Map055.json	0	dialogue	オタキ様：
@@ -4766,6 +4877,7 @@ MAP55_e12_p0_497	Map055.json	0	dialogue	いま最も大事なことがらのは�
 MAP55_e12_p0_499	Map055.json	0	dialogue	ホノオ：
 MAP55_e12_p0_500	Map055.json	0	dialogue	ああ！その点はもちろんだぜ！
 MAP55_e12_p0_502	Map055.json	0	dialogue	ウィン：
+MAP55_e12_p0_503	Map055.json	0	dialogue	…。
 MAP55_e12_p0_506	Map055.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP55_e12_p0_508	Map055.json	0	dialogue	オタキ様：
 MAP55_e12_p0_509	Map055.json	0	dialogue	ありがとうございますじゃ。
@@ -5158,7 +5270,9 @@ MAP58_e10_p2_51	Map058.json	0	dialogue	あたしらはそう教わるんだよ�
 MAP58_e10_p2_52	Map058.json	0	dialogue	あんたらみたいに、血走った目で走り回ったり
 MAP58_e10_p2_53	Map058.json	0	dialogue	しない。
 MAP58_e10_p2_55	Map058.json	0	dialogue	ホノオ：
+MAP58_e10_p2_56	Map058.json	0	dialogue	…。
 MAP58_e10_p2_58	Map058.json	0	dialogue	ウィン：
+MAP58_e10_p2_59	Map058.json	0	dialogue	…。
 MAP58_e10_p2_61	Map058.json	0	dialogue	ナガレ：
 MAP58_e10_p2_62	Map058.json	0	dialogue	なんだよ、二人して？
 MAP58_e10_p2_64	Map058.json	0	dialogue	ホノオ：
@@ -5166,6 +5280,7 @@ MAP58_e10_p2_65	Map058.json	0	dialogue	いや…　なんかズシッときた�
 MAP58_e10_p2_67	Map058.json	0	dialogue	ナガレ：
 MAP58_e10_p2_68	Map058.json	0	dialogue	あんたもかい？
 MAP58_e10_p2_70	Map058.json	0	dialogue	ウィン：
+MAP58_e10_p2_71	Map058.json	0	dialogue	…。
 MAP58_e10_p2_74	Map058.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP58_e10_p2_76	Map058.json	0	dialogue	ナガレ：
 MAP58_e10_p2_77	Map058.json	0	dialogue	ふうん…。
@@ -5233,6 +5348,7 @@ MAP59_e6_p0_20	Map059.json	0	dialogue	ナガレ：
 MAP59_e6_p0_21	Map059.json	0	dialogue	え…？
 MAP59_e6_p0_23	Map059.json	0	dialogue	…そうなのか？
 MAP59_e6_p0_25	Map059.json	0	dialogue	ウィン：
+MAP59_e6_p0_26	Map059.json	0	dialogue	…。
 MAP59_e6_p0_29	Map059.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP59_e6_p0_31	Map059.json	0	dialogue	ナガレ：
 MAP59_e6_p0_32	Map059.json	0	dialogue	あ、そう…　べ、便利だな…
@@ -5246,6 +5362,7 @@ MAP59_e6_p1_20	Map059.json	0	dialogue	ナガレ：
 MAP59_e6_p1_21	Map059.json	0	dialogue	え…？
 MAP59_e6_p1_23	Map059.json	0	dialogue	…そうなのか？
 MAP59_e6_p1_25	Map059.json	0	dialogue	ウィン：
+MAP59_e6_p1_26	Map059.json	0	dialogue	…。
 MAP59_e6_p1_29	Map059.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP59_e6_p1_31	Map059.json	0	dialogue	ナガレ：
 MAP59_e6_p1_32	Map059.json	0	dialogue	あ、そう…　べ、便利だな…
@@ -5302,9 +5419,11 @@ MAP59_e8_p0_1	Map059.json	0	dialogue	ナガレ：
 MAP59_e8_p0_2	Map059.json	0	dialogue	穴が見えてきた…
 MAP59_e8_p0_3	Map059.json	0	dialogue	きっとあれに落ちたら龍がいる…。
 MAP59_e8_p0_4	Map059.json	0	dialogue	みんな、気を引き締めた方がいい。
+MAP60_e6_p0_15	Map060.json	0	dialogue	？：
 MAP60_e6_p0_16	Map060.json	0	dialogue	さあ、青龍さん。
 MAP60_e6_p0_17	Map060.json	0	dialogue	最強の闇の結晶よ…。
 MAP60_e6_p0_18	Map060.json	0	dialogue	いまこそ私の力となり、闇の復活を…
+MAP60_e6_p0_24	Map060.json	0	dialogue	？：
 MAP60_e6_p0_25	Map060.json	0	dialogue	…って、何これ？
 MAP60_e6_p0_28	Map060.json	0	dialogue	ホノオ：
 MAP60_e6_p0_29	Map060.json	0	dialogue	うおおおおおおおおおおおおおお！！
@@ -5314,14 +5433,18 @@ MAP60_e6_p0_34	Map060.json	0	dialogue	ホノオ：
 MAP60_e6_p0_35	Map060.json	0	dialogue	龍が…！！
 MAP60_e6_p0_37	Map060.json	0	dialogue	ナガレ：
 MAP60_e6_p0_38	Map060.json	0	dialogue	いる…！！
+MAP60_e6_p0_40	Map060.json	0	dialogue	？：
 MAP60_e6_p0_41	Map060.json	0	dialogue	ええ、龍よ。
 MAP60_e6_p0_42	Map060.json	0	dialogue	何千年もこの地の闇の力を司り…
+MAP60_e6_p0_44	Map060.json	0	dialogue	？：
 MAP60_e6_p0_45	Map060.json	0	dialogue	我々闇のエレメントの力の復活を
 MAP60_e6_p0_46	Map060.json	0	dialogue	待ち続けていた…　最強の闇の結晶…
 MAP60_e6_p0_47	Map060.json	0	dialogue	それが…
 MAP60_e6_p0_49	Map060.json	0	dialogue	ナガレ：
 MAP60_e6_p0_50	Map060.json	0	dialogue	龍！！！
+MAP60_e6_p0_52	Map060.json	0	dialogue	？：
 MAP60_e6_p0_53	Map060.json	0	dialogue	ええ、だからそう言っているんだけれど…
+MAP60_e6_p0_55	Map060.json	0	dialogue	？：
 MAP60_e6_p0_56	Map060.json	0	dialogue	誰なのあなたたちは？
 MAP60_e6_p0_57	Map060.json	0	dialogue	私、いまからこの青龍さんと大事な用が
 MAP60_e6_p0_58	Map060.json	0	dialogue	あるんだけれど…
@@ -5329,11 +5452,13 @@ MAP60_e6_p0_60	Map060.json	0	dialogue	ホノオ：
 MAP60_e6_p0_61	Map060.json	0	dialogue	…え？　誰こいつ…？
 MAP60_e6_p0_63	Map060.json	0	dialogue	ナガレ：
 MAP60_e6_p0_64	Map060.json	0	dialogue	あ、誰かいる…。
+MAP60_e6_p0_66	Map060.json	0	dialogue	？：
 MAP60_e6_p0_67	Map060.json	0	dialogue	ちょっと、まさかいま気付いたの…？
 MAP60_e6_p0_68	Map060.json	0	dialogue	私も龍ほどとは言えなくとも、結構派手な方の
 MAP60_e6_p0_69	Map060.json	0	dialogue	つもりでいたんだけれど…
 MAP60_e6_p0_71	Map060.json	0	dialogue	ホノオ：
 MAP60_e6_p0_72	Map060.json	0	dialogue	…いや、だからオマエ誰だ？
+MAP60_e6_p0_74	Map060.json	0	dialogue	？：
 MAP60_e6_p0_75	Map060.json	0	dialogue	突然うえから落っこちといてきて…
 MAP60_e6_p0_76	Map060.json	0	dialogue	こういう扱いされるのちょっと納得いかない…
 MAP60_e6_p0_77	Map060.json	0	dialogue	…そこは分かっておいてね？
@@ -5453,6 +5578,7 @@ MAP60_e6_p0_256	Map060.json	0	dialogue	ホノオ：
 MAP60_e6_p0_257	Map060.json	0	dialogue	…おい、ナガレ…マジでか…
 MAP60_e6_p0_258	Map060.json	0	dialogue	おまえ、マジで死んでんのかよ…おい！！
 MAP60_e6_p0_260	Map060.json	0	dialogue	ナガレ：
+MAP60_e6_p0_261	Map060.json	0	dialogue	………
 MAP60_e6_p0_263	Map060.json	0	dialogue	ミケーネ：
 MAP60_e6_p0_264	Map060.json	0	dialogue	もういいよ、青龍も、てめえらも…
 MAP60_e6_p0_265	Map060.json	0	dialogue	まとめて殺してやる。終わりにしてやるよ。
@@ -5531,6 +5657,7 @@ MAP60_e6_p1_86	Map060.json	0	dialogue	こ、こええ………！！
 MAP60_e6_p1_87	Map060.json	0	dialogue	でもそんなこと言ってる場合じゃねえ…
 MAP60_e6_p1_88	Map060.json	0	dialogue	ウィン、オレたちも行くぞ！！
 MAP60_e6_p1_90	Map060.json	0	dialogue	ウィン：
+MAP60_e6_p1_91	Map060.json	0	dialogue	…。
 MAP60_e6_p1_94	Map060.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP60_e6_p1_105	Map060.json	0	dialogue	ナガレ：
 MAP60_e6_p1_106	Map060.json	0	dialogue	ここまでだ！ミケーネ！！
@@ -5550,6 +5677,7 @@ MAP60_e6_p1_127	Map060.json	0	dialogue	じゃあこれで、復活を阻止で�
 MAP60_e6_p1_129	Map060.json	0	dialogue	ミケーネ：
 MAP60_e6_p1_130	Map060.json	0	dialogue	…あなたたち、一体どこまで知っているの？
 MAP60_e6_p1_132	Map060.json	0	dialogue	ナガレ：
+MAP60_e6_p1_133	Map060.json	0	dialogue	………。
 MAP60_e6_p1_135	Map060.json	0	dialogue	ホノオ：
 MAP60_e6_p1_136	Map060.json	0	dialogue	う…。
 MAP60_e6_p1_140	Map060.json	0	dialogue	ミケーネ：
@@ -5641,6 +5769,7 @@ MAP60_e6_p2_99	Map060.json	0	dialogue	こ、こええ………！！
 MAP60_e6_p2_100	Map060.json	0	dialogue	何言ってるかわかんねえ…！！
 MAP60_e6_p2_101	Map060.json	0	dialogue	う、ウィン、オレたちも行くぞ！！
 MAP60_e6_p2_103	Map060.json	0	dialogue	ウィン：
+MAP60_e6_p2_104	Map060.json	0	dialogue	…。
 MAP60_e6_p2_107	Map060.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP60_e6_p2_118	Map060.json	0	dialogue	ナガレ：
 MAP60_e6_p2_119	Map060.json	0	dialogue	ここまでだ！ミケーネ！！
@@ -5661,6 +5790,7 @@ MAP60_e6_p2_141	Map060.json	0	dialogue	じゃあこれで、復活を阻止で�
 MAP60_e6_p2_143	Map060.json	0	dialogue	ミケーネ：
 MAP60_e6_p2_144	Map060.json	0	dialogue	…あなたたち、一体どこまで知っているの？
 MAP60_e6_p2_146	Map060.json	0	dialogue	ナガレ：
+MAP60_e6_p2_147	Map060.json	0	dialogue	………。
 MAP60_e6_p2_149	Map060.json	0	dialogue	ホノオ：
 MAP60_e6_p2_150	Map060.json	0	dialogue	う…。
 MAP60_e6_p2_154	Map060.json	0	dialogue	ミケーネ：
@@ -5781,6 +5911,7 @@ MAP60_e10_p1_110	Map060.json	0	dialogue	青龍：
 MAP60_e10_p1_111	Map060.json	0	dialogue	友だちなんだから…！だから…
 MAP60_e10_p1_112	Map060.json	0	dialogue	友だちのこどもたちの　きみたちもぼくの友だちだよね？
 MAP60_e10_p1_114	Map060.json	0	dialogue	ナガレ：
+MAP60_e10_p1_115	Map060.json	0	dialogue	………。
 MAP60_e10_p1_117	Map060.json	0	dialogue	ホノオ：
 MAP60_e10_p1_118	Map060.json	0	dialogue	ああ…　友達だぜ！
 MAP60_e10_p1_119	Map060.json	0	dialogue	龍！
@@ -5790,6 +5921,7 @@ MAP60_e10_p1_123	Map060.json	0	dialogue	最後に　友だちとの約束を守�
 MAP60_e10_p1_124	Map060.json	0	dialogue	そして新しい友だちにも会えたんだ…
 MAP60_e10_p1_127	Map060.json	0	dialogue	青龍：
 MAP60_e10_p1_128	Map060.json	0	dialogue	よかった…　
+MAP60_e10_p1_129	Map060.json	0	dialogue	………。
 MAP60_e10_p1_132	Map060.json	0	dialogue	ナガレ：
 MAP60_e10_p1_133	Map060.json	0	dialogue	…龍？　おい…　死んだのか…
 MAP60_e10_p1_135	Map060.json	0	dialogue	ナガレ：
@@ -5804,7 +5936,9 @@ MAP60_e10_p1_145	Map060.json	0	dialogue	だって…　こいつに聞かない�
 MAP60_e10_p1_147	Map060.json	0	dialogue	ナガレ：
 MAP60_e10_p1_148	Map060.json	0	dialogue	分からないことだらけで、死んじまうなんて…
 MAP60_e10_p1_150	Map060.json	0	dialogue	ホノオ：
+MAP60_e10_p1_151	Map060.json	0	dialogue	………。
 MAP60_e10_p1_153	Map060.json	0	dialogue	ウィン：
+MAP60_e10_p1_154	Map060.json	0	dialogue	…。
 MAP60_e10_p1_159	Map060.json	0	dialogue	　　　　　　　　　龍の涙　を手に入れた
 MAP60_e10_p1_165	Map060.json	0	dialogue	ホノオ：
 MAP60_e10_p1_166	Map060.json	0	dialogue	…で、どうやってここから出るんだ？
@@ -5880,6 +6014,7 @@ MAP61_e20_p1_19	Map061.json	1	dialogue	オレもだ、ウィン！
 MAP61_e20_p1_20	Map061.json	1	dialogue	だって、またすぐに集まって、
 MAP61_e20_p1_21	Map061.json	1	dialogue	闇のエレメントを倒さないとだからな！
 MAP61_e20_p1_23	Map061.json	1	dialogue	ウィン：
+MAP61_e20_p1_24	Map061.json	1	dialogue	…。
 MAP61_e20_p1_27	Map061.json	1	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP61_e20_p1_29	Map061.json	1	dialogue	ナガレ：
 MAP61_e20_p1_30	Map061.json	1	dialogue	よし、行こう！
@@ -6013,17 +6148,21 @@ MAP62_e39_p2_3	Map062.json	0	dialogue	　　　　　　　　…と、ウィン
 MAP62_e41_p1_10	Map062.json	0	dialogue	ピピン：
 MAP62_e41_p1_11	Map062.json	0	dialogue	行くぞ、ウィン！
 MAP62_e41_p1_13	Map062.json	0	dialogue	ウィン：
+MAP62_e41_p1_14	Map062.json	0	dialogue	………！
 MAP62_e41_p1_18	Map062.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP62_e41_p2_10	Map062.json	0	dialogue	ピピン：
 MAP62_e41_p2_11	Map062.json	0	dialogue	行くぞ、ウィン！
 MAP62_e41_p2_13	Map062.json	0	dialogue	ウィン：
+MAP62_e41_p2_14	Map062.json	0	dialogue	………！
 MAP62_e41_p2_20	Map062.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP62_e41_p3_2	Map062.json	0	dialogue	ピピン：
 MAP62_e41_p3_3	Map062.json	0	dialogue	フン、なりはデカくても…
 MAP62_e41_p3_4	Map062.json	0	dialogue	俺たちの相手じゃなかったな。
 MAP62_e41_p3_6	Map062.json	0	dialogue	ウィン：
+MAP62_e41_p3_7	Map062.json	0	dialogue	…。
 MAP62_e41_p3_10	Map062.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP62_e41_p3_17	Map062.json	0	dialogue	ピピン：
+MAP62_e41_p3_18	Map062.json	0	dialogue	………。
 MAP62_e41_p3_42	Map062.json	0	dialogue	巡回兵カイル：
 MAP62_e41_p3_43	Map062.json	0	dialogue	あーっ！！　　いた！！
 MAP62_e41_p3_44	Map062.json	0	dialogue	えっ！　ウィン！？　それに…ピピン！！？？
@@ -6031,13 +6170,16 @@ MAP62_e41_p3_55	Map062.json	0	dialogue	巡回兵カイル：
 MAP62_e41_p3_56	Map062.json	0	dialogue	おい、ピピン待ってくれ！！
 MAP62_e41_p3_57	Map062.json	0	dialogue	ウィンも、助けてくれ！！
 MAP62_e41_p3_59	Map062.json	0	dialogue	ピピン：
+MAP62_e41_p3_60	Map062.json	0	dialogue	………。
 MAP62_e41_p3_62	Map062.json	0	dialogue	ウィン：
+MAP62_e41_p3_63	Map062.json	0	dialogue	…？
 MAP62_e41_p3_65	Map062.json	0	dialogue	巡回兵カイル：
 MAP62_e41_p3_66	Map062.json	0	dialogue	ふたりとも…すぐに城へ…　王の間へ…
 MAP62_e41_p3_70	Map062.json	0	dialogue	巡回兵カイル：
 MAP62_e41_p3_71	Map062.json	0	dialogue	四天王を名乗る奴が…　王の間に現れて…
 MAP62_e41_p3_72	Map062.json	0	dialogue	あのままじゃ、王もみんなも殺されちまう！！
 MAP62_e50_p0_8	Map062.json	0	dialogue	ウィン：
+MAP62_e50_p0_9	Map062.json	0	dialogue	…！
 MAP62_e50_p0_30	Map062.json	0	dialogue	城下町北の巡回兵デミトリ―：
 MAP62_e50_p0_31	Map062.json	0	dialogue	す、すごく大きなバケモノです……隊長…！
 MAP62_e50_p0_37	Map062.json	0	dialogue	城下町の巡回兵マックス：
@@ -6048,11 +6190,13 @@ MAP62_e50_p0_49	Map062.json	0	dialogue	こいつは、お前らの手には負�
 MAP62_e50_p0_51	Map062.json	0	dialogue	ピピン：
 MAP62_e50_p0_52	Map062.json	0	dialogue	こいつは俺に任せろ！！　
 MAP62_e50_p0_54	Map062.json	0	dialogue	ウィン：
+MAP62_e50_p0_55	Map062.json	0	dialogue	………！！
 MAP62_e50_p0_57	Map062.json	0	dialogue	ピピン：
 MAP62_e50_p0_58	Map062.json	0	dialogue	…ん？
 MAP62_e50_p0_69	Map062.json	0	dialogue	ピピン：
 MAP62_e50_p0_70	Map062.json	0	dialogue	…お前か。
 MAP62_e50_p0_72	Map062.json	0	dialogue	ウィン：
+MAP62_e50_p0_73	Map062.json	0	dialogue	…！
 MAP62_e50_p0_78	Map062.json	0	dialogue	ピピン：
 MAP62_e50_p0_79	Map062.json	0	dialogue	…手伝え、ウィン！
 MAP62_e50_p0_82	Map062.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
@@ -6277,15 +6421,23 @@ MAP63_e52_p1_13	Map063.json	0	dialogue	ホノオ：
 MAP63_e52_p1_14	Map063.json	0	dialogue	そうか…　すまんな　さっさと闇の何とかを
 MAP63_e52_p1_15	Map063.json	0	dialogue	やっつけてくるぜ！
 MAP63_e53_p1_1	Map063.json	0	dialogue	王宮の職人キスパ：
+MAP63_e53_p1_2	Map063.json	0	dialogue	………。
 MAP63_e53_p1_4	Map063.json	0	dialogue	ウィン：
+MAP63_e53_p1_5	Map063.json	0	dialogue	………。
 MAP63_e53_p1_10	Map063.json	0	dialogue	王宮の職人キスパ：
+MAP63_e53_p1_11	Map063.json	0	dialogue	………。
 MAP63_e53_p1_13	Map063.json	0	dialogue	ウィン：
+MAP63_e53_p1_14	Map063.json	0	dialogue	………。
 MAP63_e53_p1_16	Map063.json	0	dialogue	王宮の職人キスパ：
 MAP63_e53_p1_17	Map063.json	0	dialogue	もしかして…　武器とか買いに来ました…？
 MAP63_e53_p2_1	Map063.json	0	dialogue	王宮の職人キスパ：
+MAP63_e53_p2_2	Map063.json	0	dialogue	………。
 MAP63_e53_p2_4	Map063.json	0	dialogue	ウィン：
+MAP63_e53_p2_5	Map063.json	0	dialogue	………。
 MAP63_e53_p2_10	Map063.json	0	dialogue	王宮の職人キスパ：
+MAP63_e53_p2_11	Map063.json	0	dialogue	………。
 MAP63_e53_p2_13	Map063.json	0	dialogue	ウィン：
+MAP63_e53_p2_14	Map063.json	0	dialogue	………。
 MAP63_e53_p2_16	Map063.json	0	dialogue	王宮の職人キスパ：
 MAP63_e53_p2_17	Map063.json	0	dialogue	もしかして…　武器とか買いに来ました…？
 MAP63_e54_p0_1	Map063.json	0	dialogue	王宮調理師：
@@ -6365,6 +6517,7 @@ MAP64_e4_p1_30	Map064.json	1	dialogue	ホノオ：
 MAP64_e4_p1_31	Map064.json	1	dialogue	てめえウィン…俺がちょっと目を離したスキに
 MAP64_e4_p1_32	Map064.json	1	dialogue	なに勝手に読んでんだよーーー
 MAP64_e4_p1_34	Map064.json	1	dialogue	ウィン：
+MAP64_e4_p1_35	Map064.json	1	dialogue	…。
 MAP64_e4_p1_37	Map064.json	1	dialogue	ホノオ：
 MAP64_e4_p1_38	Map064.json	1	dialogue	おまえなにだまってんだよ…
 MAP64_e4_p1_39	Map064.json	1	dialogue	なに黙ってんだよーーーーーー！！
@@ -6391,10 +6544,12 @@ MAP64_e4_p2_27	Map064.json	1	dialogue	ホノオ：
 MAP64_e4_p2_28	Map064.json	1	dialogue	てめえウィン…俺がちょっと目を離したスキに
 MAP64_e4_p2_29	Map064.json	1	dialogue	なに勝手に読んでんだよーーー
 MAP64_e4_p2_31	Map064.json	1	dialogue	ウィン：
+MAP64_e4_p2_32	Map064.json	1	dialogue	…。
 MAP64_e4_p2_34	Map064.json	1	dialogue	ホノオ：
 MAP64_e4_p2_35	Map064.json	1	dialogue	おまえなにだまってんだよ…
 MAP64_e4_p2_36	Map064.json	1	dialogue	なに黙ってんだよーーーーーー！！
 MAP64_e4_p2_38	Map064.json	1	dialogue	ナガレ：
+MAP64_e4_p2_39	Map064.json	1	dialogue	…。
 MAP64_e4_p2_41	Map064.json	1	dialogue	ホノオ：
 MAP64_e4_p2_42	Map064.json	1	dialogue	おまえもだまってねえで、なんとか言えよ！
 MAP64_e4_p2_44	Map064.json	1	dialogue	ナガレ：
@@ -6461,6 +6616,7 @@ MAP64_e7_p0_1	Map064.json	0	dialogue	フレイム王：
 MAP64_e7_p0_2	Map064.json	0	dialogue	おや、これはこれは騎士どの。
 MAP64_e7_p0_3	Map064.json	0	dialogue	まずは　お茶でもいかがかな？
 MAP64_e7_p0_5	Map064.json	0	dialogue	ウィン：
+MAP64_e7_p0_6	Map064.json	0	dialogue	…。
 MAP64_e7_p0_9	Map064.json	0	dialogue	　　　　ウィンはフレイム王に自己紹介をしてから
 MAP64_e7_p0_10	Map064.json	0	dialogue	　　　　　　　　ことの経緯を説明した
 MAP64_e7_p0_13	Map064.json	0	dialogue	なんだとーーーーーーーーーーーー！！！！
@@ -6614,15 +6770,18 @@ MAP64_e17_p0_46	Map064.json	0	dialogue	………急所は、外してある
 MAP64_e17_p0_50	Map064.json	0	dialogue	ホノオ：
 MAP64_e17_p0_51	Map064.json	0	dialogue	…なに？
 MAP64_e17_p0_53	Map064.json	0	dialogue	ナウ―：
+MAP64_e17_p0_54	Map064.json	0	dialogue	………。
 MAP64_e17_p0_56	Map064.json	0	dialogue	ホノオ：
 MAP64_e17_p0_57	Map064.json	0	dialogue	へー………
 MAP64_e17_p0_58	Map064.json	0	dialogue	…わかったぜ、アンタの考えてることがよー
 MAP64_e17_p0_60	Map064.json	0	dialogue	ナウ―：
+MAP64_e17_p0_61	Map064.json	0	dialogue	………。
 MAP64_e17_p0_63	Map064.json	0	dialogue	ホノオ：
 MAP64_e17_p0_64	Map064.json	0	dialogue	ナガレ！
 MAP64_e17_p0_65	Map064.json	0	dialogue	親父にイヤシの魔法をかけてくれ！
 MAP64_e17_p0_66	Map064.json	0	dialogue	たぶん…他のみんなも全員生きてるぜ
 MAP64_e17_p0_68	Map064.json	0	dialogue	ナウ―：
+MAP64_e17_p0_69	Map064.json	0	dialogue	………。
 MAP64_e17_p0_71	Map064.json	0	dialogue	ナガレ：
 MAP64_e17_p0_72	Map064.json	0	dialogue	…ちょっと待ってくれ！
 MAP64_e17_p0_73	Map064.json	0	dialogue	あんたひとりで勝てる相手なのか、それは！？
@@ -6631,6 +6790,7 @@ MAP64_e17_p0_76	Map064.json	0	dialogue	さあ、どうかな…
 MAP64_e17_p0_77	Map064.json	0	dialogue	でもよー　コイツきっと、オレとサシで
 MAP64_e17_p0_78	Map064.json	0	dialogue	やりたいんだと思うぜー…
 MAP64_e17_p0_80	Map064.json	0	dialogue	ナウ―：
+MAP64_e17_p0_81	Map064.json	0	dialogue	………。
 MAP64_e17_p0_83	Map064.json	0	dialogue	ナガレ：
 MAP64_e17_p0_84	Map064.json	0	dialogue	…なんだって？
 MAP64_e17_p0_86	Map064.json	0	dialogue	ホノオ：
@@ -6669,6 +6829,7 @@ MAP64_e30_p1_16	Map064.json	0	dialogue	ホノオ：
 MAP64_e30_p1_17	Map064.json	0	dialogue	さてと…　待たせたなー…
 MAP64_e30_p1_18	Map064.json	0	dialogue	ナウ―よーーーーーーーーーーー！！！！
 MAP64_e30_p1_20	Map064.json	0	dialogue	ナウ―：
+MAP64_e30_p1_21	Map064.json	0	dialogue	………。
 MAP64_e30_p1_24	Map064.json	0	dialogue	ホノオ：
 MAP64_e30_p1_25	Map064.json	0	dialogue	アンタの言いたいことは顔を見るだけで
 MAP64_e30_p1_26	Map064.json	0	dialogue	わかるんだぜー？
@@ -6678,6 +6839,7 @@ MAP64_e30_p1_30	Map064.json	0	dialogue	…火の紋章の勇者よ！！
 MAP64_e30_p1_32	Map064.json	0	dialogue	ホノオ：
 MAP64_e30_p1_33	Map064.json	0	dialogue	そう顔に書いてあるぜ、ナウ――――！！！！
 MAP64_e30_p1_35	Map064.json	0	dialogue	ナウ―：
+MAP64_e30_p1_36	Map064.json	0	dialogue	………。
 MAP64_e30_p1_38	Map064.json	0	dialogue	ホノオ：
 MAP64_e30_p1_39	Map064.json	0	dialogue	こっちもこのときを待ってたんだ…
 MAP64_e30_p1_40	Map064.json	0	dialogue	さあ、勝負だぜ！！　ナウ―！！
@@ -6697,6 +6859,7 @@ MAP64_e30_p1_71	Map064.json	0	dialogue	さて、ナウ―…　
 MAP64_e30_p1_72	Map064.json	0	dialogue	とどめを刺させてもらうぜ…
 MAP64_e30_p1_73	Map064.json	0	dialogue	消えられたら困るからよー…
 MAP64_e30_p1_75	Map064.json	0	dialogue	ナウ―：
+MAP64_e30_p1_76	Map064.json	0	dialogue	……………。
 MAP64_e30_p1_78	Map064.json	0	dialogue	ナガレ：
 MAP64_e30_p1_79	Map064.json	0	dialogue	…何をしてる、ホノオ…！
 MAP64_e30_p1_80	Map064.json	0	dialogue	消えられたら、追えなくなる…
@@ -6722,6 +6885,7 @@ MAP64_e31_p1_21	Map064.json	0	dialogue	ナウ―…　ピケピケがカンカ�
 MAP64_e31_p1_22	Map064.json	0	dialogue	計画は伝えてあるはずだ。
 MAP64_e31_p1_23	Map064.json	0	dialogue	なぜこんなことをして時間を潰している？
 MAP64_e31_p1_25	Map064.json	0	dialogue	ナウ―：
+MAP64_e31_p1_26	Map064.json	0	dialogue	………。
 MAP64_e31_p1_28	Map064.json	0	dialogue	ホノオ：
 MAP64_e31_p1_29	Map064.json	0	dialogue	し…　しまった…！
 MAP64_e31_p1_31	Map064.json	0	dialogue	ナガレ：
@@ -6761,6 +6925,7 @@ MAP64_e31_p2_21	Map064.json	0	dialogue	ナウ―…　ピケピケがカンカ�
 MAP64_e31_p2_22	Map064.json	0	dialogue	計画は伝えてあるはずだ。
 MAP64_e31_p2_23	Map064.json	0	dialogue	なぜこんなことをして時間を潰している？
 MAP64_e31_p2_25	Map064.json	0	dialogue	ナウ―：
+MAP64_e31_p2_26	Map064.json	0	dialogue	………。
 MAP64_e31_p2_28	Map064.json	0	dialogue	ホノオ：
 MAP64_e31_p2_29	Map064.json	0	dialogue	し…　しまった…！
 MAP64_e31_p2_31	Map064.json	0	dialogue	ナガレ：
@@ -6801,6 +6966,7 @@ MAP64_e31_p2_78	Map064.json	0	dialogue	ミケーネ：
 MAP64_e31_p2_79	Map064.json	0	dialogue	ナウー？　もうさっきの傷は癒えたわね？
 MAP64_e31_p2_80	Map064.json	0	dialogue	…次はもう少しだけ本気でやってちょうだい
 MAP64_e31_p2_82	Map064.json	0	dialogue	ナウ―：
+MAP64_e31_p2_83	Map064.json	0	dialogue	………。
 MAP64_e31_p2_85	Map064.json	0	dialogue	ホノオ：
 MAP64_e31_p2_86	Map064.json	0	dialogue	来るぞ…！！
 MAP64_e31_p2_94	Map064.json	0	dialogue	ナガレ：
@@ -6810,6 +6976,7 @@ MAP64_e31_p2_98	Map064.json	0	dialogue	…さすがに時間切れね。
 MAP64_e31_p2_99	Map064.json	0	dialogue	これ以上パワーを消耗したら…
 MAP64_e31_p2_100	Map064.json	0	dialogue	計画に支障がでるわ…　ナウー、行くわよ。
 MAP64_e31_p2_102	Map064.json	0	dialogue	ナウ―：
+MAP64_e31_p2_103	Map064.json	0	dialogue	………。
 MAP64_e31_p2_105	Map064.json	0	dialogue	ナガレ：
 MAP64_e31_p2_106	Map064.json	0	dialogue	…な、なに！？
 MAP64_e31_p2_108	Map064.json	0	dialogue	ホノオ：
@@ -7054,6 +7221,7 @@ MAP65_e6_p0_20	Map065.json	1	dialogue	お前、陛下の話を聞いてなかっ
 MAP65_e6_p0_22	Map065.json	1	dialogue	近衛兵ライトニング：
 MAP65_e6_p0_23	Map065.json	1	dialogue	…　と、ピピンなら言うところだな。
 MAP65_e6_p0_25	Map065.json	1	dialogue	ウィン：
+MAP65_e6_p0_26	Map065.json	1	dialogue	……。
 MAP65_e8_p0_1	Map065.json	0	dialogue	近衛兵クリス：
 MAP65_e8_p0_2	Map065.json	0	dialogue	ウィン…！　それに…　ピピン！？
 MAP65_e8_p0_3	Map065.json	0	dialogue	どうしてここに！？
@@ -7114,9 +7282,12 @@ MAP65_e9_p0_21	Map065.json	0	dialogue	なぜ入ろうとする？
 MAP65_e10_p0_6	Map065.json	0	dialogue	騎士団長代行サクソン：
 MAP65_e10_p0_7	Map065.json	0	dialogue	兵たちよー！　囲めーい！！
 MAP65_e10_p0_8	Map065.json	0	dialogue	こやつを決して逃がすなーー！！
+MAP65_e10_p0_22	Map065.json	0	dialogue	？：
 MAP65_e10_p0_23	Map065.json	0	dialogue	だははは！
 MAP65_e10_p0_24	Map065.json	0	dialogue	本当にキミたちは…
+MAP65_e10_p0_26	Map065.json	0	dialogue	？：
 MAP65_e10_p0_27	Map065.json	0	dialogue	ボクの思い通りに動いてくれるねー！
+MAP65_e10_p0_29	Map065.json	0	dialogue	？：
 MAP65_e10_p0_30	Map065.json	0	dialogue	素直っていうか、バカっていうかー？
 MAP65_e10_p0_32	Map065.json	0	dialogue	騎士団長代行サクソン：
 MAP65_e10_p0_33	Map065.json	0	dialogue	ぬわにいいいいいいいいいいい！？
@@ -7144,9 +7315,11 @@ MAP65_e10_p0_68	Map065.json	0	dialogue	仕方ありませんな…
 MAP65_e10_p0_69	Map065.json	0	dialogue	しかし、オレにも作戦などはありませんぞ…
 MAP65_e10_p0_71	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e10_p0_72	Map065.json	0	dialogue	…うむ
+MAP65_e10_p0_76	Map065.json	0	dialogue	？：
 MAP65_e10_p0_77	Map065.json	0	dialogue	へー？
 MAP65_e10_p0_78	Map065.json	0	dialogue	少しはちゃんとしたおつむの子も、
 MAP65_e10_p0_79	Map065.json	0	dialogue	いるんだーーー？
+MAP65_e10_p0_81	Map065.json	0	dialogue	？：
 MAP65_e10_p0_82	Map065.json	0	dialogue	ご明察ーーー！
 MAP65_e10_p0_83	Map065.json	0	dialogue	ボクこそは闇の四天王最弱かつ最強の…
 MAP65_e10_p0_85	Map065.json	0	dialogue	ダフィール：
@@ -7350,6 +7523,7 @@ MAP65_e36_p1_85	Map065.json	0	dialogue	ひとりだけーーーーーー？？�
 MAP65_e36_p1_87	Map065.json	0	dialogue	ロイ：
 MAP65_e36_p1_88	Map065.json	0	dialogue	ウィン！　おまえだけなのか！？
 MAP65_e36_p1_90	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p1_91	Map065.json	0	dialogue	…。
 MAP65_e36_p1_94	Map065.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP65_e36_p1_96	Map065.json	0	dialogue	サクソン：
 MAP65_e36_p1_97	Map065.json	0	dialogue	継承者がウィンだけでも…
@@ -7368,6 +7542,7 @@ MAP65_e36_p1_113	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p1_114	Map065.json	0	dialogue	ウィン、さっきのバトルの感覚を忘れるな！
 MAP65_e36_p1_115	Map065.json	0	dialogue	俺が攻撃で、お前がサポートだ！！
 MAP65_e36_p1_117	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p1_118	Map065.json	0	dialogue	…！
 MAP65_e36_p1_121	Map065.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP65_e36_p1_123	Map065.json	0	dialogue	ダフィール：
 MAP65_e36_p1_124	Map065.json	0	dialogue	あーーー　やるのねーーー
@@ -7395,6 +7570,7 @@ MAP65_e36_p1_208	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e36_p1_209	Map065.json	0	dialogue	人間はもはや私しかおらぬのか…！
 MAP65_e36_p1_210	Map065.json	0	dialogue	ええいっ！　ならば一匹でも多く道連れに…！
 MAP65_e36_p1_213	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p1_214	Map065.json	0	dialogue	…！
 MAP65_e36_p1_216	Map065.json	0	dialogue	ダフィール：
 MAP65_e36_p1_217	Map065.json	0	dialogue	ハーイ　みんながんばってーーー
 MAP65_e36_p1_219	Map065.json	0	dialogue	ダフィール：
@@ -7420,10 +7596,12 @@ MAP65_e36_p1_252	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p1_253	Map065.json	0	dialogue	ウィン…！
 MAP65_e36_p1_254	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！
 MAP65_e36_p1_256	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p1_257	Map065.json	0	dialogue	………！
 MAP65_e36_p1_259	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p1_260	Map065.json	0	dialogue	どうせお前にこいつらは殺せないだろうが…
 MAP65_e36_p1_261	Map065.json	0	dialogue	なら、逃げるしかないだろ…！！
 MAP65_e36_p1_263	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p1_264	Map065.json	0	dialogue	………！
 MAP65_e36_p1_266	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p1_267	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…
 MAP65_e36_p1_268	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！
@@ -7433,6 +7611,7 @@ MAP65_e36_p1_277	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p1_278	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…
 MAP65_e36_p1_279	Map065.json	0	dialogue	お前といると…　焼きがまわりっ放しだ！
 MAP65_e36_p1_281	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p1_282	Map065.json	0	dialogue	………！
 MAP65_e36_p1_288	Map065.json	0	dialogue	ダフィール：
 MAP65_e36_p1_289	Map065.json	0	dialogue	おい、赤いのさー
 MAP65_e36_p1_290	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？
@@ -7544,6 +7723,7 @@ MAP65_e36_p2_85	Map065.json	0	dialogue	ひとりだけーーーーーー？？�
 MAP65_e36_p2_87	Map065.json	0	dialogue	ロイ：
 MAP65_e36_p2_88	Map065.json	0	dialogue	ウィン！　おまえだけなのか！？
 MAP65_e36_p2_90	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p2_91	Map065.json	0	dialogue	…。
 MAP65_e36_p2_94	Map065.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP65_e36_p2_96	Map065.json	0	dialogue	サクソン：
 MAP65_e36_p2_97	Map065.json	0	dialogue	継承者がウィンだけでも…
@@ -7562,6 +7742,7 @@ MAP65_e36_p2_113	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p2_114	Map065.json	0	dialogue	ウィン、さっきのバトルの感覚を忘れるな！
 MAP65_e36_p2_115	Map065.json	0	dialogue	俺が攻撃で、お前がサポートだ！！
 MAP65_e36_p2_117	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p2_118	Map065.json	0	dialogue	…！
 MAP65_e36_p2_121	Map065.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP65_e36_p2_123	Map065.json	0	dialogue	ダフィール：
 MAP65_e36_p2_124	Map065.json	0	dialogue	あーーー　やるのねーーー
@@ -7589,6 +7770,7 @@ MAP65_e36_p2_209	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e36_p2_210	Map065.json	0	dialogue	人間はもはや私しかおらぬのか…！
 MAP65_e36_p2_211	Map065.json	0	dialogue	ええいっ！　ならば一匹でも多く道連れに…！
 MAP65_e36_p2_214	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p2_215	Map065.json	0	dialogue	…！
 MAP65_e36_p2_217	Map065.json	0	dialogue	ダフィール：
 MAP65_e36_p2_218	Map065.json	0	dialogue	ハーイ　みんながんばってーーー
 MAP65_e36_p2_220	Map065.json	0	dialogue	ダフィール：
@@ -7614,10 +7796,12 @@ MAP65_e36_p2_253	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p2_254	Map065.json	0	dialogue	ウィン…！
 MAP65_e36_p2_255	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！
 MAP65_e36_p2_257	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p2_258	Map065.json	0	dialogue	………！
 MAP65_e36_p2_260	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p2_261	Map065.json	0	dialogue	どうせお前にこいつらは殺せないだろうが…
 MAP65_e36_p2_262	Map065.json	0	dialogue	なら、逃げるしかないだろ…！！
 MAP65_e36_p2_264	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p2_265	Map065.json	0	dialogue	………！
 MAP65_e36_p2_267	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p2_268	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…
 MAP65_e36_p2_269	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！
@@ -7627,6 +7811,7 @@ MAP65_e36_p2_278	Map065.json	0	dialogue	ピピン：
 MAP65_e36_p2_279	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…
 MAP65_e36_p2_280	Map065.json	0	dialogue	お前といると…　焼きがまわりっ放しだ！
 MAP65_e36_p2_282	Map065.json	0	dialogue	ウィン：
+MAP65_e36_p2_283	Map065.json	0	dialogue	………！
 MAP65_e36_p2_289	Map065.json	0	dialogue	ダフィール：
 MAP65_e36_p2_290	Map065.json	0	dialogue	おい、赤いのさー
 MAP65_e36_p2_291	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？
@@ -7719,6 +7904,7 @@ MAP65_e37_p1_9	Map065.json	0	dialogue	この子がみんなを楽しませる、
 MAP65_e37_p1_11	Map065.json	0	dialogue	サクソン：
 MAP65_e37_p1_12	Map065.json	0	dialogue	この子とは…　一体…？
 MAP65_e37_p1_39	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_40	Map065.json	0	dialogue	……！？
 MAP65_e37_p1_42	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p1_43	Map065.json	0	dialogue	まさか…　ピピン…！！
 MAP65_e37_p1_50	Map065.json	0	dialogue	ピピン：
@@ -7727,6 +7913,7 @@ MAP65_e37_p1_52	Map065.json	0	dialogue	騎士団長の椅子を………
 MAP65_e37_p1_67	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p1_68	Map065.json	0	dialogue	横取りしてくれたなあ…　ウィン………ッ！！
 MAP65_e37_p1_70	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_71	Map065.json	0	dialogue	…………！
 MAP65_e37_p1_73	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p1_74	Map065.json	0	dialogue	な、なんてことだ…　ピピンが…
 MAP65_e37_p1_76	Map065.json	0	dialogue	サクソン：
@@ -7737,10 +7924,12 @@ MAP65_e37_p1_90	Map065.json	0	dialogue	束になって来たって…　かな�
 MAP65_e37_p1_92	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p1_93	Map065.json	0	dialogue	俺の獲物は…　貴様だけだ…ウィン
 MAP65_e37_p1_95	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_96	Map065.json	0	dialogue	……！
 MAP65_e37_p1_98	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p1_99	Map065.json	0	dialogue	俺の目的を…　俺の居場所を…
 MAP65_e37_p1_100	Map065.json	0	dialogue	俺の全てを掠め取っていった生意気なガキめ…
 MAP65_e37_p1_102	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_103	Map065.json	0	dialogue	……！！
 MAP65_e37_p1_109	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p1_110	Map065.json	0	dialogue	それは違う…！　ピピン…！
 MAP65_e37_p1_111	Map065.json	0	dialogue	もしお前が大事なものを奪われたとしたなら…
@@ -7755,6 +7944,7 @@ MAP65_e37_p1_128	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e37_p1_129	Map065.json	0	dialogue	ピピンを倒せ！　ウィン！！
 MAP65_e37_p1_130	Map065.json	0	dialogue	殺してもかまわん！！
 MAP65_e37_p1_132	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_133	Map065.json	0	dialogue	…！！
 MAP65_e37_p1_137	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p1_138	Map065.json	0	dialogue	…陛下！　ピピンは操られているのです！
 MAP65_e37_p1_139	Map065.json	0	dialogue	ピピンは正気なら、決してこのようなことを
@@ -7776,13 +7966,16 @@ MAP65_e37_p1_159	Map065.json	0	dialogue	なら、始めさせてもらう。
 MAP65_e37_p1_161	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p1_162	Map065.json	0	dialogue	ウィン…　死ねえええええええええ！！
 MAP65_e37_p1_219	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_220	Map065.json	0	dialogue	……！！
 MAP65_e37_p1_223	Map065.json	0	dialogue	　　　　ウィンは力いっぱいピピンを抱きおさえた！
 MAP65_e37_p1_225	Map065.json	0	dialogue	ロイ：
+MAP65_e37_p1_226	Map065.json	0	dialogue	………！
 MAP65_e37_p1_228	Map065.json	0	dialogue	サクソン：
 MAP65_e37_p1_229	Map065.json	0	dialogue	……ウィン、どの…！
 MAP65_e37_p1_232	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p1_233	Map065.json	0	dialogue	…どけっ！！
 MAP65_e37_p1_241	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_242	Map065.json	0	dialogue	…！
 MAP65_e37_p1_244	Map065.json	0	dialogue	サクソン：
 MAP65_e37_p1_245	Map065.json	0	dialogue	…む！まだ操られているのか…！？
 MAP65_e37_p1_256	Map065.json	0	dialogue	ロイ：
@@ -7790,9 +7983,11 @@ MAP65_e37_p1_257	Map065.json	0	dialogue	…操りの術は解けたようだな�
 MAP65_e37_p1_265	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p1_266	Map065.json	0	dialogue	…俺に触るな…！！
 MAP65_e37_p1_276	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_277	Map065.json	0	dialogue	………！！
 MAP65_e37_p1_288	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p1_289	Map065.json	0	dialogue	…もう、ほっといてくれ　ウィン…
 MAP65_e37_p1_308	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p1_309	Map065.json	0	dialogue	………。
 MAP65_e37_p1_318	Map065.json	scrolling text	dialogue	　　　あの日から始まった嵐と魔物の度重なる襲来は
 MAP65_e37_p1_320	Map065.json	scrolling text	dialogue	　　　　　　　　それから一週間を過ぎても
 MAP65_e37_p1_322	Map065.json	scrolling text	dialogue	　　　　　　　　　治まることはなかった
@@ -7819,6 +8014,7 @@ MAP65_e37_p2_9	Map065.json	0	dialogue	この子がみんなを楽しませる、
 MAP65_e37_p2_11	Map065.json	0	dialogue	サクソン：
 MAP65_e37_p2_12	Map065.json	0	dialogue	この子とは…　一体…？
 MAP65_e37_p2_39	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_40	Map065.json	0	dialogue	……！？
 MAP65_e37_p2_42	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p2_43	Map065.json	0	dialogue	まさか…　ピピン…！！
 MAP65_e37_p2_50	Map065.json	0	dialogue	ピピン：
@@ -7827,6 +8023,7 @@ MAP65_e37_p2_52	Map065.json	0	dialogue	騎士団長の椅子を……
 MAP65_e37_p2_67	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p2_68	Map065.json	0	dialogue	横取りしてくれたなあ…　ウィン………ッ！！
 MAP65_e37_p2_70	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_71	Map065.json	0	dialogue	…………！
 MAP65_e37_p2_73	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p2_74	Map065.json	0	dialogue	な、なんてことだ…　ピピンが…
 MAP65_e37_p2_76	Map065.json	0	dialogue	サクソン：
@@ -7837,10 +8034,12 @@ MAP65_e37_p2_90	Map065.json	0	dialogue	束になって来ても、かないっ�
 MAP65_e37_p2_92	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p2_93	Map065.json	0	dialogue	俺の獲物は…　貴様だけだ…ウィン
 MAP65_e37_p2_95	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_96	Map065.json	0	dialogue	……。
 MAP65_e37_p2_98	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p2_99	Map065.json	0	dialogue	俺の目標を…　俺の居場所を…！
 MAP65_e37_p2_100	Map065.json	0	dialogue	かすめ取っていった生意気なガキめ…！
 MAP65_e37_p2_102	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_103	Map065.json	0	dialogue	……！！
 MAP65_e37_p2_109	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p2_110	Map065.json	0	dialogue	それは違う…！　ピピン…！
 MAP65_e37_p2_111	Map065.json	0	dialogue	もしお前が大事なものを奪われたとしたなら…
@@ -7855,6 +8054,7 @@ MAP65_e37_p2_128	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e37_p2_129	Map065.json	0	dialogue	ピピンを倒せ！　ウィン！！
 MAP65_e37_p2_130	Map065.json	0	dialogue	殺してもかまわん！！
 MAP65_e37_p2_132	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_133	Map065.json	0	dialogue	…！！
 MAP65_e37_p2_137	Map065.json	0	dialogue	ロイ：
 MAP65_e37_p2_138	Map065.json	0	dialogue	…陛下！　ピピンは操られているのです！
 MAP65_e37_p2_139	Map065.json	0	dialogue	ピピンは正気なら、決してこのようなことを
@@ -7876,13 +8076,16 @@ MAP65_e37_p2_159	Map065.json	0	dialogue	なら、始めさせてもらう。
 MAP65_e37_p2_161	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p2_162	Map065.json	0	dialogue	ウィン…　死ねえええええええええ！！
 MAP65_e37_p2_219	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_220	Map065.json	0	dialogue	……！！
 MAP65_e37_p2_223	Map065.json	0	dialogue	　　　　ウィンは力いっぱいピピンを抱きおさえた！
 MAP65_e37_p2_225	Map065.json	0	dialogue	ロイ：
+MAP65_e37_p2_226	Map065.json	0	dialogue	………！
 MAP65_e37_p2_228	Map065.json	0	dialogue	サクソン：
 MAP65_e37_p2_229	Map065.json	0	dialogue	……ウィン、どの…！
 MAP65_e37_p2_232	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p2_233	Map065.json	0	dialogue	…どけっ！！
 MAP65_e37_p2_241	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_242	Map065.json	0	dialogue	…！
 MAP65_e37_p2_244	Map065.json	0	dialogue	サクソン：
 MAP65_e37_p2_245	Map065.json	0	dialogue	…む！まだ操られているのか…！？
 MAP65_e37_p2_256	Map065.json	0	dialogue	ロイ：
@@ -7890,9 +8093,11 @@ MAP65_e37_p2_257	Map065.json	0	dialogue	…操りの術は解けたようだな�
 MAP65_e37_p2_265	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p2_266	Map065.json	0	dialogue	…俺に触るな…！！
 MAP65_e37_p2_276	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_277	Map065.json	0	dialogue	………！！
 MAP65_e37_p2_288	Map065.json	0	dialogue	ピピン：
 MAP65_e37_p2_289	Map065.json	0	dialogue	…もう、ほっといてくれ　ウィン…
 MAP65_e37_p2_308	Map065.json	0	dialogue	ウィン：
+MAP65_e37_p2_309	Map065.json	0	dialogue	………。
 MAP65_e37_p2_318	Map065.json	scrolling text	dialogue	　　　あの日から始まった嵐と魔物の度重なる襲来は
 MAP65_e37_p2_320	Map065.json	scrolling text	dialogue	　　　　　　　　それから一週間を過ぎても
 MAP65_e37_p2_322	Map065.json	scrolling text	dialogue	　　　　　　　　　治まることはなかった
@@ -7947,6 +8152,7 @@ MAP65_e39_p3_3	Map065.json	0	dialogue	他にどんな脅威があるのか誰も
 MAP65_e39_p3_5	Map065.json	0	dialogue	ロイ：
 MAP65_e39_p3_6	Map065.json	0	dialogue	…細心の注意を払って臨んでいただきたい。
 MAP65_e41_p2_2	Map065.json	0	dialogue	ウィン：
+MAP65_e41_p2_3	Map065.json	0	dialogue	…。
 MAP65_e41_p2_15	Map065.json	0	dialogue	ロイ：
 MAP65_e41_p2_16	Map065.json	0	dialogue	陛下、ウィンが参りました。
 MAP65_e41_p2_18	Map065.json	0	dialogue	ウィンダム王：
@@ -7959,10 +8165,13 @@ MAP65_e41_p2_30	Map065.json	0	dialogue	そなたに重大な任務を与える�
 MAP65_e41_p2_31	Map065.json	0	dialogue	南の暗黒大陸に向かい、光の柱の立った地を
 MAP65_e41_p2_32	Map065.json	0	dialogue	調べるのだ！！
 MAP65_e41_p2_35	Map065.json	0	dialogue	ロイ：
+MAP65_e41_p2_36	Map065.json	0	dialogue	…。
 MAP65_e41_p2_38	Map065.json	0	dialogue	ウィンダム王：
+MAP65_e41_p2_39	Map065.json	0	dialogue	…。
 MAP65_e41_p2_41	Map065.json	0	dialogue	サクソン：
 MAP65_e41_p2_42	Map065.json	0	dialogue	ええい！　ウィン、何とか申せ！
 MAP65_e41_p2_44	Map065.json	0	dialogue	ウィン：
+MAP65_e41_p2_45	Map065.json	0	dialogue	…。
 MAP65_e41_p2_50	Map065.json	0	dialogue	ロイ：
 MAP65_e41_p2_51	Map065.json	0	dialogue	陛下…　やはり俺から順序立ててウィンには
 MAP65_e41_p2_52	Map065.json	0	dialogue	説明した方がよろしいかと…。
@@ -7981,6 +8190,7 @@ MAP65_e41_p2_73	Map065.json	0	dialogue	ロイ：
 MAP65_e41_p2_74	Map065.json	0	dialogue	ウィン、お前も先日、南の山脈の空…
 MAP65_e41_p2_75	Map065.json	0	dialogue	そこに、巨大な光の柱が立つのを見ただろう。
 MAP65_e41_p2_77	Map065.json	0	dialogue	ウィン：
+MAP65_e41_p2_78	Map065.json	0	dialogue	…。
 MAP65_e41_p2_81	Map065.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP65_e41_p2_83	Map065.json	0	dialogue	ロイ：
 MAP65_e41_p2_84	Map065.json	0	dialogue	あの場所は、かつて暗黒大陸と呼ばれていた、
@@ -8067,6 +8277,7 @@ MAP65_e41_p2_204	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e41_p2_205	Map065.json	0	dialogue	だからといって、少し無理そうだという位で
 MAP65_e41_p2_206	Map065.json	0	dialogue	諦める騎士であっては困るがな、ウィン！
 MAP65_e41_p2_208	Map065.json	0	dialogue	ウィン：
+MAP65_e41_p2_209	Map065.json	0	dialogue	………！
 MAP65_e41_p2_213	Map065.json	0	dialogue	ロイ：
 MAP65_e41_p2_214	Map065.json	0	dialogue	いや、相手は正体のわからない毒気…
 MAP65_e41_p2_215	Map065.json	0	dialogue	病気です。
@@ -8080,16 +8291,19 @@ MAP65_e41_p2_227	Map065.json	0	dialogue	ロイ：
 MAP65_e41_p2_228	Map065.json	0	dialogue	セイリューとフレイムへの応援依頼については、
 MAP65_e41_p2_229	Map065.json	0	dialogue	ハヤテの力を使えるウィンに頼みたい。
 MAP65_e41_p2_231	Map065.json	0	dialogue	ウィン：
+MAP65_e41_p2_232	Map065.json	0	dialogue	…。
 MAP65_e41_p2_235	Map065.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP65_e41_p2_237	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e41_p2_238	Map065.json	0	dialogue	話が終わったのであれば、ウィン、
 MAP65_e41_p2_239	Map065.json	0	dialogue	いますぐ旅立つのだ！！
 MAP65_e41_p2_240	Map065.json	0	dialogue	まずはセイリューへと…
+MAP65_e41_p2_244	Map065.json	0	dialogue	？：
 MAP65_e41_p2_245	Map065.json	0	dialogue	その必要ならないぜーーーーーーーー
 MAP65_e44_p1_29	Map065.json	0	dialogue	ホノオ：
 MAP65_e44_p1_30	Map065.json	0	dialogue	どうもー　王様！
 MAP65_e44_p1_31	Map065.json	0	dialogue	ウィン、久し振りだな！！
 MAP65_e44_p1_34	Map065.json	0	dialogue	ウィン：
+MAP65_e44_p1_35	Map065.json	0	dialogue	…！
 MAP65_e44_p1_37	Map065.json	0	dialogue	ナガレ：
 MAP65_e44_p1_38	Map065.json	0	dialogue	ご無沙汰しております、ウィンダム国王。
 MAP65_e44_p1_40	Map065.json	0	dialogue	ウィンダム王：
@@ -8170,10 +8384,12 @@ MAP65_e44_p1_169	Map065.json	0	dialogue	ホノオ：
 MAP65_e44_p1_170	Map065.json	0	dialogue	オレらに顔見せにも来ねーで、
 MAP65_e44_p1_171	Map065.json	0	dialogue	オマエなにやってたんだよ、ウィン？
 MAP65_e44_p1_173	Map065.json	0	dialogue	ウィン：
+MAP65_e44_p1_174	Map065.json	0	dialogue	…。
 MAP65_e44_p1_176	Map065.json	0	dialogue	ロイ：
 MAP65_e44_p1_177	Map065.json	0	dialogue	…ウィンを責めないでやっていただきたい。
 MAP65_e44_p1_178	Map065.json	0	dialogue	軍の指揮権は俺にある。
 MAP65_e44_p1_183	Map065.json	0	dialogue	ウィン：
+MAP65_e44_p1_184	Map065.json	0	dialogue	…。
 MAP65_e44_p1_186	Map065.json	0	dialogue	ホノオ：
 MAP65_e44_p1_187	Map065.json	0	dialogue	い、いや…　責めてなんかいねーよ！
 MAP65_e44_p1_188	Map065.json	0	dialogue	ただ、少し気になっただけさ！
@@ -8184,6 +8400,7 @@ MAP65_e44_p1_196	Map065.json	0	dialogue	ホノオ：
 MAP65_e44_p1_197	Map065.json	0	dialogue	さっさと闇のなんたらを全部やっつけに
 MAP65_e44_p1_198	Map065.json	0	dialogue	いこーぜ！　ウィン！！
 MAP65_e44_p1_200	Map065.json	0	dialogue	ウィン：
+MAP65_e44_p1_201	Map065.json	0	dialogue	…。
 MAP65_e44_p1_204	Map065.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP65_e44_p1_206	Map065.json	0	dialogue	ウィンダム王：
 MAP65_e44_p1_207	Map065.json	0	dialogue	フレイム王国とセイリューの迅速な動きに
@@ -8211,6 +8428,7 @@ MAP65_e44_p1_253	Map065.json	0	dialogue	ホノオ：
 MAP65_e44_p1_254	Map065.json	0	dialogue	ウィンなら心配ねーよ！
 MAP65_e44_p1_255	Map065.json	0	dialogue	どこへだって風の速さで飛んでいくぜ！
 MAP65_e44_p1_257	Map065.json	0	dialogue	ウィン：
+MAP65_e44_p1_258	Map065.json	0	dialogue	…！
 MAP65_e44_p1_261	Map065.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 MAP66_e9_p0_2	Map066.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな
 MAP66_e9_p0_3	Map066.json	0	dialogue	　　　　　　　　…と、ウィンは思った
@@ -8415,6 +8633,7 @@ MAP66_e59_p1_8	Map066.json	0	dialogue	市民マイ：
 MAP66_e59_p1_9	Map066.json	0	dialogue	わーい、王子さまだ！
 MAP66_e59_p1_10	Map066.json	0	dialogue	わたし、マイ、よろしくね！
 MAP66_e59_p1_12	Map066.json	0	dialogue	ナガレ：
+MAP66_e59_p1_13	Map066.json	0	dialogue	…。
 MAP66_e60_p0_1	Map066.json	0	dialogue	市民サラ：
 MAP66_e60_p0_2	Map066.json	0	dialogue	フレイムの家族が気になるけれど…
 MAP66_e60_p0_3	Map066.json	0	dialogue	しばらくはここを出られないみたいで…
@@ -8493,6 +8712,7 @@ MAP67_e11_p0_6	Map067.json	1	dialogue	騎士団長ロイ様へ
 MAP67_e11_p0_7	Map067.json	1	dialogue	新たな騎士候補者のリストをお送りします。
 MAP67_e11_p0_8	Map067.json	1	dialogue	どの者も将来の楽しみな者たちです。
 MAP67_e11_p0_9	Map067.json	1	dialogue	いつもお手数をおかけしますが、ご確認ください。
+MAP67_e11_p0_11	Map067.json	1	dialogue	…
 MAP67_e11_p0_12	Map067.json	1	dialogue	その後には知らない名前が五人くらい書いてある。
 MAP67_e12_p0_1	Map067.json	0	dialogue	『世界の武器』
 MAP67_e12_p0_2	Map067.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。
@@ -8605,6 +8825,7 @@ MAP67_e21_p1_2	Map067.json	0	dialogue	城の壊れた部分を調べて回って
 MAP67_e21_p1_3	Map067.json	0	dialogue	ひどいなあ…
 MAP67_e21_p1_4	Map067.json	0	dialogue	ぜんぶ直るのに何年かかることやら…
 MAP67_e21_p1_6	Map067.json	0	dialogue	ホノオ：
+MAP67_e21_p1_7	Map067.json	0	dialogue	…。
 MAP67_e21_p1_9	Map067.json	0	dialogue	城内の見回り兵ロール：
 MAP67_e21_p1_10	Map067.json	0	dialogue	あっ、すいません…　フレイムのホノオ殿下…
 MAP67_e21_p1_11	Map067.json	0	dialogue	フレイムはもっとひどいんでしたね…。
@@ -8631,6 +8852,7 @@ MAP67_e23_p0_4	Map067.json	0	dialogue	魔物が出るっていうんで、街に
 MAP67_e24_p0_1	Map067.json	0	dialogue	市民ウィング：
 MAP67_e24_p0_2	Map067.json	0	dialogue	ウィン！　面白い本は見つかった？
 MAP67_e24_p0_4	Map067.json	0	dialogue	ウィン：
+MAP67_e24_p0_5	Map067.json	0	dialogue	…。
 MAP67_e24_p0_8	Map067.json	0	dialogue	　　　　　　　　　　ウィンは首を振った
 MAP67_e24_p0_10	Map067.json	0	dialogue	市民ウィング：
 MAP67_e24_p0_11	Map067.json	0	dialogue	あなたほど世界中を飛び回っても見つからない
@@ -8638,12 +8860,14 @@ MAP67_e24_p0_12	Map067.json	0	dialogue	のね…
 MAP67_e24_p1_1	Map067.json	0	dialogue	市民ウィング：
 MAP67_e24_p1_2	Map067.json	0	dialogue	ウィン！　面白い本は見つかった？
 MAP67_e24_p1_4	Map067.json	0	dialogue	ウィン：
+MAP67_e24_p1_5	Map067.json	0	dialogue	…。
 MAP67_e24_p1_8	Map067.json	0	dialogue	　　　　　　ウィンは奇書を取り出して見せた
 MAP67_e24_p1_10	Map067.json	0	dialogue	市民ウィング：
 MAP67_e24_p1_11	Map067.json	0	dialogue	…なにこれ。
 MAP67_e24_p1_12	Map067.json	0	dialogue	こんな装丁の本なんて見たことない…。
 MAP67_e24_p1_13	Map067.json	0	dialogue	なんて綺麗で頑丈な…どこで作られた本なの？
 MAP67_e24_p1_15	Map067.json	0	dialogue	ウィン：
+MAP67_e24_p1_16	Map067.json	0	dialogue	…。
 MAP67_e24_p1_18	Map067.json	0	dialogue	市民ウィング：
 MAP67_e24_p1_19	Map067.json	0	dialogue	…分からないのね？
 MAP67_e24_p1_20	Map067.json	0	dialogue	どういうことかしら…　しかも新しく見えるし
@@ -8658,8 +8882,11 @@ MAP67_e24_p1_37	Map067.json	1	dialogue	そ！　そう……………
 MAP67_e24_p1_38	Map067.json	1	dialogue	ものすごく…貴重なもののようだしね…
 MAP67_e24_p1_39	Map067.json	1	dialogue	…今後夜道に気を付けてとだけ言っておく…
 MAP67_e24_p2_1	Map067.json	0	dialogue	市民ウィング：
+MAP67_e24_p2_2	Map067.json	0	dialogue	………………。
 MAP67_e24_p2_4	Map067.json	0	dialogue	ウィン：
+MAP67_e24_p2_5	Map067.json	0	dialogue	…。
 MAP67_e24_p2_7	Map067.json	0	dialogue	市民ウィング：
+MAP67_e24_p2_8	Map067.json	0	dialogue	……………　！？
 MAP67_e24_p2_9	Map067.json	0	dialogue	じゃますんなっていっただろ！！！！！？？
 MAP67_e24_p2_10	Map067.json	0	dialogue	あっちいけ！！！！
 MAP67_e25_p0_1	Map067.json	0	dialogue	新米兵士ヤーボ：
@@ -8667,6 +8894,7 @@ MAP67_e25_p0_2	Map067.json	0	dialogue	ウィンさん、魔物をたおしたと
 MAP67_e25_p0_3	Map067.json	0	dialogue	手に入る、魔物の素材とか財宝…
 MAP67_e25_p0_4	Map067.json	0	dialogue	ちゃんと売ってますよね？
 MAP67_e25_p0_6	Map067.json	0	dialogue	ウィン：
+MAP67_e25_p0_7	Map067.json	0	dialogue	…。
 MAP67_e25_p0_11	Map067.json	1	dialogue	新米兵士ヤーボ：
 MAP67_e25_p0_12	Map067.json	1	dialogue	よかったー　あれ、騎士であるあなたが
 MAP67_e25_p0_13	Map067.json	1	dialogue	持っていても、何の役にも立ちませんし、
@@ -8680,6 +8908,7 @@ MAP67_e25_p1_2	Map067.json	0	dialogue	ウィンさん、魔物をたおしたと
 MAP67_e25_p1_3	Map067.json	0	dialogue	手に入る、魔物の素材とか財宝…
 MAP67_e25_p1_4	Map067.json	0	dialogue	いちいち売るの面倒ですよねえ？
 MAP67_e25_p1_6	Map067.json	0	dialogue	ウィン：
+MAP67_e25_p1_7	Map067.json	0	dialogue	…。
 MAP67_e25_p1_11	Map067.json	1	dialogue	新米兵士ヤーボ：
 MAP67_e25_p1_12	Map067.json	1	dialogue	そうでしょう？
 MAP67_e25_p1_13	Map067.json	1	dialogue	確かに魔物がお金持ってるわけないですけど、
@@ -8692,10 +8921,12 @@ MAP68_e2_p1_6	Map068.json	0	dialogue	近衛兵ライトニング：
 MAP68_e2_p1_7	Map068.json	0	dialogue	…ウィン、外は危ないぞ。
 MAP68_e2_p1_8	Map068.json	0	dialogue	長居するのはよくないと、忠告させてもらう。
 MAP68_e2_p1_10	Map068.json	0	dialogue	ウィン：
+MAP68_e2_p1_11	Map068.json	0	dialogue	…。
 MAP68_e2_p1_13	Map068.json	0	dialogue	近衛兵ライトニング：
 MAP68_e2_p1_14	Map068.json	0	dialogue	…ロイ騎士団長がお呼びだ。
 MAP68_e2_p1_15	Map068.json	0	dialogue	先日の光の柱の件で、話があるらしい…。
 MAP68_e2_p1_19	Map068.json	0	dialogue	ウィン：
+MAP68_e2_p1_20	Map068.json	0	dialogue	…。
 MAP68_e2_p1_23	Map068.json	0	dialogue	　　　　　　　　　ウィンは頷いた
 MAP69_e1_p0_12	Map069.json	scrolling text	dialogue	　　　　　　　　　　南の暗黒大陸に
 MAP69_e1_p0_14	Map069.json	scrolling text	dialogue	　　　　　　　　巨大な光の柱が立つのを
@@ -8709,9 +8940,11 @@ MAP70_e11_p1_4	Map070.json	0	dialogue	ナガレ：
 MAP70_e11_p1_5	Map070.json	0	dialogue	あのとき、燃え盛る岩がたくさん降ってきて…
 MAP70_e11_p1_6	Map070.json	0	dialogue	この街はがれきの山になってしまったんだ。
 MAP70_e11_p1_8	Map070.json	0	dialogue	ウィン：
+MAP70_e11_p1_9	Map070.json	0	dialogue	…。
 MAP70_e14_p0_1	Map070.json	0	dialogue	ホノオ：
 MAP70_e14_p0_2	Map070.json	0	dialogue	いまはこんなところに用はないんじゃねーか？
 MAP70_e15_p0_15	Map070.json	0	dialogue	ウィン：
+MAP70_e15_p0_16	Map070.json	0	dialogue	…！？
 MAP70_e15_p0_18	Map070.json	0	dialogue	ホノオ：
 MAP70_e15_p0_19	Map070.json	0	dialogue	うお！　めちゃくちゃ紋章が光った！！
 MAP70_e15_p0_21	Map070.json	0	dialogue	ナガレ：
@@ -8752,7 +8985,9 @@ MAP70_e15_p0_105	Map070.json	0	dialogue	ナガレ：
 MAP70_e15_p0_106	Map070.json	0	dialogue	きっとこの先、もっと酷い目が待ってる…
 MAP70_e15_p0_107	Map070.json	0	dialogue	何が起こるか分からないな…。
 MAP70_e15_p0_109	Map070.json	0	dialogue	ウィン：
+MAP70_e15_p0_110	Map070.json	0	dialogue	…。
 MAP70_e15_p1_15	Map070.json	0	dialogue	ウィン：
+MAP70_e15_p1_16	Map070.json	0	dialogue	…！？
 MAP70_e15_p1_18	Map070.json	0	dialogue	ホノオ：
 MAP70_e15_p1_19	Map070.json	0	dialogue	うお！　めちゃくちゃ紋章が光った！！
 MAP70_e15_p1_21	Map070.json	0	dialogue	ナガレ：
@@ -8790,11 +9025,15 @@ MAP70_e15_p1_82	Map070.json	0	dialogue	ナガレ：
 MAP70_e15_p1_83	Map070.json	0	dialogue	きっとこの先、もっと酷い目が待ってる…
 MAP70_e15_p1_84	Map070.json	0	dialogue	何が起こるか分からないな…。
 MAP70_e15_p1_86	Map070.json	0	dialogue	ウィン：
+MAP70_e15_p1_87	Map070.json	0	dialogue	…。
 MAP70_e17_p0_1	Map070.json	0	dialogue	ウィン：
+MAP70_e17_p0_2	Map070.json	0	dialogue	…。
 MAP70_e17_p0_5	Map070.json	0	dialogue	　　　ウィンは先にフレイム王に会おうと思った　　　
 MAP70_e18_p0_1	Map070.json	0	dialogue	ウィン：
+MAP70_e18_p0_2	Map070.json	0	dialogue	…。
 MAP70_e18_p0_5	Map070.json	0	dialogue	　　　ウィンは先にフレイム王に会おうと思った　　　
 MAP70_e25_p0_16	Map070.json	0	dialogue	ウィン：
+MAP70_e25_p0_17	Map070.json	0	dialogue	………！
 MAP70_e25_p0_19	Map070.json	0	dialogue	ナガレ：
 MAP70_e25_p0_20	Map070.json	0	dialogue	おい、まただ！　さっきよりも激しい…！
 MAP70_e25_p0_27	Map070.json	0	dialogue	　　　　　ウィンはイカヅチの魔法をおぼえた！
@@ -8810,6 +9049,7 @@ MAP70_e25_p0_49	Map070.json	0	dialogue	そんな感じだぜナガレ！
 MAP70_e25_p0_50	Map070.json	0	dialogue	いまならもう、どんなバケモンが出てきても
 MAP70_e25_p0_51	Map070.json	0	dialogue	全く負ける気がしねーぜ！！
 MAP70_e25_p0_53	Map070.json	0	dialogue	ウィン：
+MAP70_e25_p0_54	Map070.json	0	dialogue	…。
 MAP70_e25_p0_56	Map070.json	0	dialogue	ナガレ：
 MAP70_e25_p0_57	Map070.json	0	dialogue	バカ！　あたしらが強くなるほど…
 MAP70_e25_p0_58	Map070.json	0	dialogue	闇の力も同じように強まってるんだ！
@@ -8838,8 +9078,10 @@ MAP70_e25_p0_96	Map070.json	0	dialogue	そんなん言うなよ、ナガレ！
 MAP70_e25_p0_97	Map070.json	0	dialogue	くっそーーーー………
 MAP70_e25_p0_98	Map070.json	0	dialogue	さっさと行こうぜ！　ウィン！！
 MAP70_e25_p0_100	Map070.json	0	dialogue	ウィン：
+MAP70_e25_p0_101	Map070.json	0	dialogue	…！
 MAP70_e25_p0_104	Map070.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP70_e25_p1_16	Map070.json	0	dialogue	ウィン：
+MAP70_e25_p1_17	Map070.json	0	dialogue	………！
 MAP70_e25_p1_19	Map070.json	0	dialogue	ナガレ：
 MAP70_e25_p1_20	Map070.json	0	dialogue	おい、まただ！　さっきよりも激しい…！
 MAP70_e25_p1_27	Map070.json	0	dialogue	　　　　　ウィンはイカヅチの魔法をおぼえた！
@@ -8854,6 +9096,7 @@ MAP70_e25_p1_44	Map070.json	0	dialogue	そんな感じだぜナガレ！
 MAP70_e25_p1_45	Map070.json	0	dialogue	いまならもう、どんなバケモンが出てきても
 MAP70_e25_p1_46	Map070.json	0	dialogue	全く負ける気がしねーぜ！！
 MAP70_e25_p1_48	Map070.json	0	dialogue	ウィン：
+MAP70_e25_p1_49	Map070.json	0	dialogue	…。
 MAP70_e25_p1_51	Map070.json	0	dialogue	ナガレ：
 MAP70_e25_p1_52	Map070.json	0	dialogue	バカ！　あたしらが強くなるほど…
 MAP70_e25_p1_53	Map070.json	0	dialogue	闇の力も同じように強まってるんだ！
@@ -8882,6 +9125,7 @@ MAP70_e25_p1_91	Map070.json	0	dialogue	そんなん言うなよ、ナガレ！
 MAP70_e25_p1_92	Map070.json	0	dialogue	くっそーーーー………
 MAP70_e25_p1_93	Map070.json	0	dialogue	さっさと行こうぜ！　ウィン！！
 MAP70_e25_p1_95	Map070.json	0	dialogue	ウィン：
+MAP70_e25_p1_96	Map070.json	0	dialogue	…！
 MAP70_e25_p1_99	Map070.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP71_e7_p1_2	Map071.json	0	dialogue	　　　　　　　　　　閉店しました
 MAP71_e7_p1_3	Map071.json	0	dialogue	　　　　　　　　　…と、書いてある
@@ -9319,6 +9563,7 @@ MAP79_e1_p0_55	Map079.json	0	dialogue	あー　でもそこのキミ！！
 MAP79_e1_p0_56	Map079.json	0	dialogue	そこの金髪の子は、前に一度会ったよね？
 MAP79_e1_p0_57	Map079.json	0	dialogue	覚えてるーーーーーー？？
 MAP79_e1_p0_59	Map079.json	0	dialogue	ウィン：
+MAP79_e1_p0_60	Map079.json	0	dialogue	…。
 MAP79_e1_p0_62	Map079.json	0	dialogue	ホノオ：
 MAP79_e1_p0_63	Map079.json	0	dialogue	え、ウィン、コイツと知り合いなのか？
 MAP79_e1_p0_66	Map079.json	0	dialogue	　　　　　　ウィンは紋章を継承する前
@@ -9328,6 +9573,7 @@ MAP79_e1_p0_70	Map079.json	0	dialogue	ホノオ：
 MAP79_e1_p0_71	Map079.json	0	dialogue	ピピンか…　
 MAP79_e1_p0_72	Map079.json	0	dialogue	ウィンダムで操られて暴れたあの天才騎士だな
 MAP79_e1_p0_74	Map079.json	0	dialogue	ウィン：
+MAP79_e1_p0_75	Map079.json	0	dialogue	…。
 MAP79_e1_p0_77	Map079.json	0	dialogue	ナガレ：
 MAP79_e1_p0_78	Map079.json	0	dialogue	いいから！　早くバトルしろ！！
 MAP79_e1_p0_80	Map079.json	0	dialogue	ピケピケ：
@@ -9475,6 +9721,7 @@ MAP79_e1_p0_266	Map079.json	0	dialogue	四天王最強のお前が、ラスボ�
 MAP79_e1_p0_267	Map079.json	0	dialogue	なぜここで時間を稼いでいるんだ？
 MAP79_e1_p0_268	Map079.json	0	dialogue	…魔王にならなくていいのか？
 MAP79_e1_p0_270	Map079.json	0	dialogue	ピケピケ：
+MAP79_e1_p0_271	Map079.json	0	dialogue	……………。
 MAP79_e1_p0_276	Map079.json	0	dialogue	ピケピケ：
 MAP79_e1_p0_277	Map079.json	0	dialogue	いやーもう…　私は長く生き過ぎたんだ。
 MAP79_e1_p0_282	Map079.json	0	dialogue	ピケピケ：
@@ -9521,6 +9768,7 @@ MAP79_e1_p0_341	Map079.json	0	dialogue	バトル準備しろ！！
 MAP79_e1_p0_343	Map079.json	0	dialogue	ホノオ：
 MAP79_e1_p0_344	Map079.json	0	dialogue	お、おう！！
 MAP79_e1_p0_346	Map079.json	0	dialogue	ウィン：
+MAP79_e1_p0_347	Map079.json	0	dialogue	…！
 MAP79_e1_p0_350	Map079.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 MAP79_e1_p0_352	Map079.json	0	dialogue	ピケピケ：
 MAP79_e1_p0_353	Map079.json	0	dialogue	これで最後だ…　マジで最後だ…
@@ -9571,6 +9819,7 @@ MAP79_e1_p1_55	Map079.json	0	dialogue	あー　でもそこのキミ！！
 MAP79_e1_p1_56	Map079.json	0	dialogue	そこの金髪の子は、前に一度会ったよね？
 MAP79_e1_p1_57	Map079.json	0	dialogue	覚えてるーーーーーー？？
 MAP79_e1_p1_59	Map079.json	0	dialogue	ウィン：
+MAP79_e1_p1_60	Map079.json	0	dialogue	…。
 MAP79_e1_p1_62	Map079.json	0	dialogue	ホノオ：
 MAP79_e1_p1_63	Map079.json	0	dialogue	え、ウィン、コイツと知り合いなのか？
 MAP79_e1_p1_66	Map079.json	0	dialogue	　　　　　　ウィンは紋章を継承する前
@@ -9580,6 +9829,7 @@ MAP79_e1_p1_70	Map079.json	0	dialogue	ホノオ：
 MAP79_e1_p1_71	Map079.json	0	dialogue	ピピンか…　
 MAP79_e1_p1_72	Map079.json	0	dialogue	ウィンダムで操られて暴れたあの天才騎士だな
 MAP79_e1_p1_74	Map079.json	0	dialogue	ウィン：
+MAP79_e1_p1_75	Map079.json	0	dialogue	…。
 MAP79_e1_p1_77	Map079.json	0	dialogue	ナガレ：
 MAP79_e1_p1_78	Map079.json	0	dialogue	いいから！　早くバトルしろ！！
 MAP79_e1_p1_80	Map079.json	0	dialogue	ピケピケ：
@@ -9727,6 +9977,7 @@ MAP79_e1_p1_266	Map079.json	0	dialogue	四天王最強のお前が、ラスボ�
 MAP79_e1_p1_267	Map079.json	0	dialogue	なぜここで時間を稼いでいるんだ？
 MAP79_e1_p1_268	Map079.json	0	dialogue	…魔王にならなくていいのか？
 MAP79_e1_p1_270	Map079.json	0	dialogue	ピケピケ：
+MAP79_e1_p1_271	Map079.json	0	dialogue	……………。
 MAP79_e1_p1_276	Map079.json	0	dialogue	ピケピケ：
 MAP79_e1_p1_277	Map079.json	0	dialogue	いやーもう…　私は長く生き過ぎたんだ。
 MAP79_e1_p1_282	Map079.json	0	dialogue	ピケピケ：
@@ -9773,6 +10024,7 @@ MAP79_e1_p1_341	Map079.json	0	dialogue	バトル準備しろ！！
 MAP79_e1_p1_343	Map079.json	0	dialogue	ホノオ：
 MAP79_e1_p1_344	Map079.json	0	dialogue	お、おう！！
 MAP79_e1_p1_346	Map079.json	0	dialogue	ウィン：
+MAP79_e1_p1_347	Map079.json	0	dialogue	…！
 MAP79_e1_p1_350	Map079.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 MAP79_e1_p1_352	Map079.json	0	dialogue	ピケピケ：
 MAP79_e1_p1_353	Map079.json	0	dialogue	これで最後だ…　マジで最後だ…
@@ -9836,8 +10088,11 @@ MAP79_e1_p5_6	Map079.json	0	dialogue	聞いたことのない発音なんだよ�
 MAP79_e1_p5_8	Map079.json	0	dialogue	ウィン：
 MAP79_e1_p5_9	Map079.json	0	dialogue	さようなら、ピＱＥピＱＥ…
 MAP79_e1_p5_12	Map079.json	0	dialogue	ホノオ：
+MAP79_e1_p5_13	Map079.json	0	dialogue	……！！！！！？？？
 MAP79_e1_p5_15	Map079.json	0	dialogue	ナガレ：
+MAP79_e1_p5_16	Map079.json	0	dialogue	………！！！！！！？？
 MAP79_e1_p5_21	Map079.json	0	dialogue	ウィン：
+MAP79_e1_p5_22	Map079.json	0	dialogue	…。
 MAP79_e1_p5_25	Map079.json	0	dialogue	ホノオ：
 MAP79_e1_p5_26	Map079.json	0	dialogue	で…　次はどうすればいいんだ？
 MAP79_e1_p5_27	Map079.json	0	dialogue	行き止まりに見えるぞ？
@@ -9867,6 +10122,7 @@ MAP79_e3_p0_25	Map079.json	0	dialogue	とはいえ、落ち着く場所ってワ
 MAP79_e3_p0_27	Map079.json	0	dialogue	ホノオ：
 MAP79_e3_p0_28	Map079.json	0	dialogue	一応気を引き締めていこうぜ！
 MAP79_e3_p0_30	Map079.json	0	dialogue	ウィン：
+MAP79_e3_p0_31	Map079.json	0	dialogue	…。
 MAP79_e3_p0_34	Map079.json	0	dialogue	　　　　　　　　　ウィンはうなずいた
 MAP79_e6_p0_10	Map079.json	0	dialogue	ヒールポーションを手に入れた！
 MAP79_e7_p0_1	Map079.json	0	dialogue	あ
@@ -9884,6 +10140,7 @@ MAP80_e3_p0_12	Map080.json	0	dialogue	まあ他に道があるわけでもない
 MAP80_e3_p0_13	Map080.json	0	dialogue	急ぐぞ！　いつ闇いんふるなんとかが
 MAP80_e3_p0_14	Map080.json	0	dialogue	始まってもおかしくねえ！！
 MAP80_e3_p0_16	Map080.json	0	dialogue	ウィン：
+MAP80_e3_p0_17	Map080.json	0	dialogue	…！
 MAP80_e3_p0_20	Map080.json	0	dialogue	　　　　　　　　ウィンはうなずいた
 MAP80_e4_p0_8	Map080.json	0	dialogue	ホノオ：
 MAP80_e4_p0_9	Map080.json	0	dialogue	な…　コイツは…！！
@@ -9939,6 +10196,7 @@ MAP80_e4_p0_75	Map080.json	0	dialogue	きっと楽勝だ！！
 MAP80_e4_p0_77	Map080.json	0	dialogue	ホノオ：
 MAP80_e4_p0_78	Map080.json	0	dialogue	お、おう！　そうだな…　さっさと倒すぜ！！
 MAP80_e4_p0_80	Map080.json	0	dialogue	ウィン：
+MAP80_e4_p0_81	Map080.json	0	dialogue	…！
 MAP80_e4_p0_84	Map080.json	0	dialogue	　　　　　　　　　　ウィンはうなずいた！
 MAP80_e4_p0_86	Map080.json	0	dialogue	ミケーネ：
 MAP80_e4_p0_87	Map080.json	0	dialogue	そう、仕方ないわ…
@@ -10035,6 +10293,7 @@ MAP81_e1_p3_36	Map081.json	0	dialogue	ごめん…ホノオ…！　ウィン…
 MAP81_e4_p0_7	Map081.json	0	dialogue	ホノオ：
 MAP81_e4_p0_8	Map081.json	0	dialogue	…お、オレ…　なんで大丈夫なんだ…？
 MAP81_e4_p0_10	Map081.json	0	dialogue	ウィン：
+MAP81_e4_p0_11	Map081.json	0	dialogue	……！？
 MAP81_e4_p0_13	Map081.json	0	dialogue	ナガレ：
 MAP81_e4_p0_14	Map081.json	0	dialogue	ハァ…　ハァ…
 MAP81_e4_p0_16	Map081.json	0	dialogue	ナガレ：
@@ -10077,6 +10336,7 @@ MAP81_e4_p0_72	Map081.json	0	dialogue	ふたりは先に行ってくれ！！
 MAP81_e4_p0_74	Map081.json	0	dialogue	ホノオ：
 MAP81_e4_p0_75	Map081.json	0	dialogue	…！！　な、ナガレ！！
 MAP81_e4_p0_77	Map081.json	0	dialogue	ウィン：
+MAP81_e4_p0_78	Map081.json	0	dialogue	…！
 MAP81_e4_p0_80	Map081.json	0	dialogue	ナガレ：
 MAP81_e4_p0_81	Map081.json	0	dialogue	ミケーネならあたしだけで大丈夫だ！
 MAP81_e4_p0_82	Map081.json	0	dialogue	さっきのを見たろ？　三人で戦う必要がない！
@@ -10086,7 +10346,9 @@ MAP81_e4_p0_86	Map081.json	0	dialogue	でもオマエだけ残していくなん
 MAP81_e4_p0_88	Map081.json	0	dialogue	ナガレ：
 MAP81_e4_p0_89	Map081.json	0	dialogue	ジャマなんだ、二人は！！
 MAP81_e4_p0_91	Map081.json	0	dialogue	ホノオ：
+MAP81_e4_p0_92	Map081.json	0	dialogue	…！！
 MAP81_e4_p0_94	Map081.json	0	dialogue	ウィン：
+MAP81_e4_p0_95	Map081.json	0	dialogue	…！！
 MAP81_e4_p0_97	Map081.json	0	dialogue	ナガレ：
 MAP81_e4_p0_98	Map081.json	0	dialogue	あんたたち二人をツナミで守りながら戦う自信
 MAP81_e4_p0_99	Map081.json	0	dialogue	がない！！
@@ -10110,6 +10372,7 @@ MAP82_e1_p0_9	Map082.json	0	dialogue	ホノオ：
 MAP82_e1_p0_10	Map082.json	0	dialogue	…またあの模様に乗ってみても、
 MAP82_e1_p0_11	Map082.json	0	dialogue	きっと一方通行なんだよな…。
 MAP82_e1_p0_16	Map082.json	0	dialogue	ウィン：
+MAP82_e1_p0_17	Map082.json	0	dialogue	………。
 MAP82_e1_p0_19	Map082.json	0	dialogue	ホノオ：
 MAP82_e1_p0_20	Map082.json	0	dialogue	わかってる…　バカなこと言ってるよなオレ…
 MAP82_e1_p0_22	Map082.json	0	dialogue	ホノオ：
@@ -10130,6 +10393,7 @@ MAP82_e1_p0_40	Map082.json	0	dialogue	オレはホッとしたんだよ…
 MAP82_e1_p0_41	Map082.json	0	dialogue	あの恐ろしい氷の魔法と戦わずに済んで…
 MAP82_e1_p0_42	Map082.json	0	dialogue	オレはミケーネが怖かったんだ…！！！！
 MAP82_e1_p0_45	Map082.json	0	dialogue	ウィン：
+MAP82_e1_p0_46	Map082.json	0	dialogue	………。
 MAP82_e1_p0_48	Map082.json	0	dialogue	ホノオ：
 MAP82_e1_p0_49	Map082.json	0	dialogue	なんてこった…　オレとしたことがよー…
 MAP82_e1_p0_50	Map082.json	0	dialogue	怖かっただけだった…　オレはアイツを信じて
@@ -10138,6 +10402,7 @@ MAP82_e1_p0_53	Map082.json	0	dialogue	ホノオ：
 MAP82_e1_p0_54	Map082.json	0	dialogue	そんな気持ちで…　アイツをひとりで
 MAP82_e1_p0_55	Map082.json	0	dialogue	置いてきちまった…　オレは…　オレは…
 MAP82_e1_p0_57	Map082.json	0	dialogue	ウィン：
+MAP82_e1_p0_58	Map082.json	0	dialogue	………！！
 MAP82_e1_p0_61	Map082.json	0	dialogue	　　　　　　ウィンはホノオの肩をつかんで
 MAP82_e1_p0_62	Map082.json	0	dialogue	　　　　　　　　　　うなずいた
 MAP82_e1_p0_65	Map082.json	0	dialogue	ホノオ：
@@ -10147,13 +10412,16 @@ MAP82_e1_p0_69	Map082.json	0	dialogue	ホノオ：
 MAP82_e1_p0_70	Map082.json	0	dialogue	行くぜ、ウィン！！
 MAP82_e1_p0_71	Map082.json	0	dialogue	ハヤテの力で一気に頼む！！
 MAP82_e1_p0_73	Map082.json	0	dialogue	ウィン：
+MAP82_e1_p0_74	Map082.json	0	dialogue	………！
 MAP82_e1_p0_77	Map082.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 MAP82_e2_p0_1	Map082.json	0	dialogue	ホノオ：
 MAP82_e2_p0_2	Map082.json	0	dialogue	もう、進むしかねえだろ…ウィン？
 MAP82_e2_p0_4	Map082.json	0	dialogue	ウィン：
+MAP82_e2_p0_5	Map082.json	0	dialogue	…。
 MAP82_e3_p1_4	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_5	Map082.json	0	dialogue	…は？　…なんだよそれ…
 MAP82_e3_p1_8	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p1_9	Map082.json	0	dialogue	………。
 MAP82_e3_p1_11	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_12	Map082.json	0	dialogue	…そ、それが、アンタの本当の姿かよ…？
 MAP82_e3_p1_14	Map082.json	0	dialogue	ホノオ：
@@ -10165,6 +10433,7 @@ MAP82_e3_p1_20	Map082.json	0	dialogue	いつも手ェ抜いてたってことか
 MAP82_e3_p1_22	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_23	Map082.json	0	dialogue	ナァウゥーーーーーッ！！！！！
 MAP82_e3_p1_25	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p1_26	Map082.json	0	dialogue	………。
 MAP82_e3_p1_30	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_31	Map082.json	0	dialogue	…ウィン！！　頼みがある…
 MAP82_e3_p1_32	Map082.json	0	dialogue	…って、言わなくても分かると思うけどよー…
@@ -10172,6 +10441,7 @@ MAP82_e3_p1_34	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_35	Map082.json	0	dialogue	コイツを…　ナウーをオレに任せて…
 MAP82_e3_p1_36	Map082.json	0	dialogue	ウィンは、先に進んでくれ！！
 MAP82_e3_p1_38	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p1_39	Map082.json	0	dialogue	…！
 MAP82_e3_p1_41	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_42	Map082.json	0	dialogue	この先は、もうダフィールとかって…
 MAP82_e3_p1_43	Map082.json	0	dialogue	四天王最弱の奴しかいないだろ…？
@@ -10179,6 +10449,7 @@ MAP82_e3_p1_45	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_46	Map082.json	0	dialogue	それならウィンだけでも…
 MAP82_e3_p1_47	Map082.json	0	dialogue	闇なんとかだか魔王だかも防げると思うんだ…
 MAP82_e3_p1_49	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p1_50	Map082.json	0	dialogue	…。
 MAP82_e3_p1_52	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_53	Map082.json	0	dialogue	ウィン、頼む…
 MAP82_e3_p1_54	Map082.json	0	dialogue	オレは自分の弱気を…　克服したい…
@@ -10186,6 +10457,7 @@ MAP82_e3_p1_56	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_57	Map082.json	0	dialogue	ナガレを信じないまま…　あそこに置いてきた
 MAP82_e3_p1_58	Map082.json	0	dialogue	自分を…　こうでもしねえと許せねーんだ！！
 MAP82_e3_p1_60	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p1_61	Map082.json	0	dialogue	…。
 MAP82_e3_p1_63	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_64	Map082.json	0	dialogue	ウィン、オレのことも信じてくれ…
 MAP82_e3_p1_65	Map082.json	0	dialogue	オレはナウーに一度勝ってる、完勝でな！
@@ -10207,19 +10479,23 @@ MAP82_e3_p1_86	Map082.json	0	dialogue	オレの知ってるアンタなら行か
 MAP82_e3_p1_87	Map082.json	0	dialogue	それとも…　デカくなったらそんな心意気も、
 MAP82_e3_p1_88	Map082.json	0	dialogue	アンタからは、なくなっちまうのかー？
 MAP82_e3_p1_90	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p1_91	Map082.json	0	dialogue	………。
 MAP82_e3_p1_100	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_101	Map082.json	0	dialogue	ウィン、行ってくれ…
 MAP82_e3_p1_102	Map082.json	0	dialogue	すぐに、ナガレと一緒にオマエに追いつくぜ！
 MAP82_e3_p1_104	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p1_105	Map082.json	0	dialogue	…。
 MAP82_e3_p1_120	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_121	Map082.json	0	dialogue	ウィン…　またな！！
 MAP82_e3_p1_123	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p1_124	Map082.json	0	dialogue	…。
 MAP82_e3_p1_127	Map082.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 MAP82_e3_p1_139	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_140	Map082.json	0	dialogue	へへ…！
 MAP82_e3_p1_141	Map082.json	0	dialogue	デカくなっても相変わらずみてえだな…
 MAP82_e3_p1_142	Map082.json	0	dialogue	アンタはよー！！
 MAP82_e3_p1_144	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p1_145	Map082.json	0	dialogue	………。
 MAP82_e3_p1_147	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_148	Map082.json	0	dialogue	心づかいマジサンキュだぜ…
 MAP82_e3_p1_149	Map082.json	0	dialogue	でもよ…　オレは結構ドタマに来てんだぜー…
@@ -10233,6 +10509,7 @@ MAP82_e3_p1_159	Map082.json	0	dialogue	アンタは確かにマジメだけど�
 MAP82_e3_p1_160	Map082.json	0	dialogue	そういうところは逆に良くないと思うぜ？
 MAP82_e3_p1_161	Map082.json	0	dialogue	オレ、結構キズ付いたからな！？
 MAP82_e3_p1_163	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p1_164	Map082.json	0	dialogue	………。
 MAP82_e3_p1_166	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p1_167	Map082.json	0	dialogue	でも今回ばかりは…
 MAP82_e3_p1_168	Map082.json	0	dialogue	さすがにマジでやってくれるよなー……
@@ -10247,6 +10524,7 @@ MAP82_e3_p1_179	Map082.json	0	dialogue	いっくぜえええええええええ�
 MAP82_e3_p2_4	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_5	Map082.json	0	dialogue	…は？　…なんだよそれ…
 MAP82_e3_p2_8	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p2_9	Map082.json	0	dialogue	………。
 MAP82_e3_p2_11	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_12	Map082.json	0	dialogue	…そ、それが、アンタの本当の姿かよ…？
 MAP82_e3_p2_14	Map082.json	0	dialogue	ホノオ：
@@ -10258,6 +10536,7 @@ MAP82_e3_p2_20	Map082.json	0	dialogue	いつも手ェ抜いてたってことか
 MAP82_e3_p2_22	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_23	Map082.json	0	dialogue	ナァウゥーーーーーッ！！！！！
 MAP82_e3_p2_25	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p2_26	Map082.json	0	dialogue	………。
 MAP82_e3_p2_30	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_31	Map082.json	0	dialogue	…ウィン！！　頼みがある…
 MAP82_e3_p2_32	Map082.json	0	dialogue	…って、言わなくても分かると思うけどよー…
@@ -10265,6 +10544,7 @@ MAP82_e3_p2_34	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_35	Map082.json	0	dialogue	コイツを…　ナウーをオレに任せて…
 MAP82_e3_p2_36	Map082.json	0	dialogue	ウィンは、先に進んでくれ！！
 MAP82_e3_p2_38	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p2_39	Map082.json	0	dialogue	…！
 MAP82_e3_p2_41	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_42	Map082.json	0	dialogue	この先は、もうダフィールとかって…
 MAP82_e3_p2_43	Map082.json	0	dialogue	四天王最弱の奴しかいないだろ…？
@@ -10272,6 +10552,7 @@ MAP82_e3_p2_45	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_46	Map082.json	0	dialogue	それならウィンだけでも…
 MAP82_e3_p2_47	Map082.json	0	dialogue	闇なんとかだか魔王だかも防げると思うんだ…
 MAP82_e3_p2_49	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p2_50	Map082.json	0	dialogue	…。
 MAP82_e3_p2_52	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_53	Map082.json	0	dialogue	ウィン、頼む…
 MAP82_e3_p2_54	Map082.json	0	dialogue	オレは自分の弱気を…　克服したい…
@@ -10279,6 +10560,7 @@ MAP82_e3_p2_56	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_57	Map082.json	0	dialogue	ナガレを信じないまま…　あそこに置いてきた
 MAP82_e3_p2_58	Map082.json	0	dialogue	自分を…　こうでもしねえと許せねーんだ！！
 MAP82_e3_p2_60	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p2_61	Map082.json	0	dialogue	…。
 MAP82_e3_p2_63	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_64	Map082.json	0	dialogue	ウィン、オレのことも信じてくれ…
 MAP82_e3_p2_65	Map082.json	0	dialogue	オレはナウーに一度勝ってる、完勝でな！
@@ -10300,19 +10582,23 @@ MAP82_e3_p2_86	Map082.json	0	dialogue	オレの知ってるアンタなら行か
 MAP82_e3_p2_87	Map082.json	0	dialogue	それとも…　デカくなったらそんな心意気も、
 MAP82_e3_p2_88	Map082.json	0	dialogue	アンタからは、なくなっちまうのかー？
 MAP82_e3_p2_90	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p2_91	Map082.json	0	dialogue	………。
 MAP82_e3_p2_100	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_101	Map082.json	0	dialogue	ウィン、行ってくれ…
 MAP82_e3_p2_102	Map082.json	0	dialogue	すぐに、ナガレと一緒にオマエに追いつくぜ！
 MAP82_e3_p2_104	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p2_105	Map082.json	0	dialogue	…。
 MAP82_e3_p2_120	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_121	Map082.json	0	dialogue	ウィン…　またな！！
 MAP82_e3_p2_123	Map082.json	0	dialogue	ウィン：
+MAP82_e3_p2_124	Map082.json	0	dialogue	…。
 MAP82_e3_p2_127	Map082.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 MAP82_e3_p2_139	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_140	Map082.json	0	dialogue	へへ…！
 MAP82_e3_p2_141	Map082.json	0	dialogue	デカくなっても相変わらずみてえだな…
 MAP82_e3_p2_142	Map082.json	0	dialogue	アンタはよー！！
 MAP82_e3_p2_144	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p2_145	Map082.json	0	dialogue	………。
 MAP82_e3_p2_147	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_148	Map082.json	0	dialogue	心づかいマジサンキュだぜ…
 MAP82_e3_p2_149	Map082.json	0	dialogue	でもよ…　オレは結構ドタマに来てんだぜー…
@@ -10326,6 +10612,7 @@ MAP82_e3_p2_159	Map082.json	0	dialogue	アンタは確かにマジメだけど�
 MAP82_e3_p2_160	Map082.json	0	dialogue	そういうところは逆に良くないと思うぜ？
 MAP82_e3_p2_161	Map082.json	0	dialogue	オレ、結構キズ付いたからな！？
 MAP82_e3_p2_163	Map082.json	0	dialogue	ナウー：
+MAP82_e3_p2_164	Map082.json	0	dialogue	………。
 MAP82_e3_p2_166	Map082.json	0	dialogue	ホノオ：
 MAP82_e3_p2_167	Map082.json	0	dialogue	でも今回ばかりは…
 MAP82_e3_p2_168	Map082.json	0	dialogue	さすがにマジでやってくれるよなー……
@@ -10397,18 +10684,22 @@ MAP82_e3_p4_34	Map082.json	0	dialogue	くっそおおおおーーーーッ！！
 MAP82_e4_p0_6	Map082.json	0	dialogue	ホノオ：
 MAP82_e4_p0_7	Map082.json	0	dialogue	へへ…　アンタかい…　ナウーーー！！！！
 MAP82_e4_p0_9	Map082.json	0	dialogue	ナウー：
+MAP82_e4_p0_10	Map082.json	0	dialogue	…………。
 MAP82_e4_p0_14	Map082.json	0	dialogue	ホノオ：
 MAP82_e4_p0_15	Map082.json	0	dialogue	アンタまで時間稼ぎに出て来ちゃってよー…
 MAP82_e4_p0_17	Map082.json	0	dialogue	ホノオ：
 MAP82_e4_p0_18	Map082.json	0	dialogue	そんなんで計画大丈夫なのかー？
 MAP82_e4_p0_19	Map082.json	0	dialogue	もうほとんど失敗なんじゃねーのー？？
 MAP82_e4_p0_21	Map082.json	0	dialogue	ナウー：
+MAP82_e4_p0_22	Map082.json	0	dialogue	…………。
 MAP82_e4_p0_24	Map082.json	0	dialogue	ホノオ：
 MAP82_e4_p0_25	Map082.json	0	dialogue	アンタにはオレ、バシッと勝ってるし…
 MAP82_e4_p0_26	Map082.json	0	dialogue	今更またやり合うこともないんじゃねーの？
 MAP82_e5_p0_11	Map082.json	0	dialogue	　　　　　　　ヒールポーションを手に入れた！
 MAP82_e5_p2_11	Map082.json	0	dialogue	　　　　　　　ヒールポーションを手に入れた！
+MAP83_e14_p0_6	Map083.json	0	dialogue	？：
 MAP83_e14_p0_7	Map083.json	0	dialogue	だははは！！
+MAP83_e14_p0_9	Map083.json	0	dialogue	？：
 MAP83_e14_p0_10	Map083.json	0	dialogue	どんどんエレメントパワーが集まってるじゃーん！！
 MAP83_e14_p0_15	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_16	Map083.json	0	dialogue	えーーー？　ホントにいいのーーー？？
@@ -10421,6 +10712,7 @@ MAP83_e14_p0_38	Map083.json	0	dialogue	…って、え？
 MAP83_e14_p0_42	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_43	Map083.json	0	dialogue	ハ？　もしかして、キミひとりなの…？？
 MAP83_e14_p0_45	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p0_46	Map083.json	0	dialogue	………。
 MAP83_e14_p0_48	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_49	Map083.json	0	dialogue	いやいやいやいやいや…
 MAP83_e14_p0_51	Map083.json	0	dialogue	ダフィール：
@@ -10435,6 +10727,7 @@ MAP83_e14_p0_65	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_66	Map083.json	0	dialogue	かわいそーーーーー！！
 MAP83_e14_p0_67	Map083.json	0	dialogue	えっ、じゃあ何？　ひとりでボクを倒しに？？
 MAP83_e14_p0_69	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p0_70	Map083.json	0	dialogue	…！！
 MAP83_e14_p0_74	Map083.json	0	dialogue	　　　　　　　　　ウィンは武器を構えた！
 MAP83_e14_p0_76	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_77	Map083.json	0	dialogue	いやいやムリだから！！
@@ -10447,6 +10740,7 @@ MAP83_e14_p0_87	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_88	Map083.json	0	dialogue	マジで何しに来たの？
 MAP83_e14_p0_89	Map083.json	0	dialogue	理解に苦しむっていうか、いみふすぎーー！！
 MAP83_e14_p0_91	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p0_92	Map083.json	0	dialogue	…！！
 MAP83_e14_p0_109	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_110	Map083.json	0	dialogue	ヤバッ！！　チョーやる気マンマン！！
 MAP83_e14_p0_111	Map083.json	0	dialogue	気合いがハンパなーーーーーい！！！！
@@ -10456,6 +10750,7 @@ MAP83_e14_p0_116	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_117	Map083.json	0	dialogue	あっ　もしかしてキミさー……
 MAP83_e14_p0_118	Map083.json	0	dialogue	めちゃくちゃ急いでる感じですかーー？？？
 MAP83_e14_p0_120	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p0_121	Map083.json	0	dialogue	…！！
 MAP83_e14_p0_123	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_124	Map083.json	0	dialogue	あっ　そうなんだー
 MAP83_e14_p0_125	Map083.json	0	dialogue	アレでしょ？　
@@ -10474,6 +10769,7 @@ MAP83_e14_p0_140	Map083.json	0	dialogue	一応確認しまーーーーーーす�
 MAP83_e14_p0_142	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_143	Map083.json	0	dialogue	正解ですかーーーー？？？？？
 MAP83_e14_p0_145	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p0_146	Map083.json	0	dialogue	…！！
 MAP83_e14_p0_149	Map083.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP83_e14_p0_151	Map083.json	0	dialogue	ダフィール：
 MAP83_e14_p0_152	Map083.json	0	dialogue	だはははははははは！！！！
@@ -10488,6 +10784,7 @@ MAP83_e14_p0_165	Map083.json	0	dialogue	オマエ…　チョーマヌケだよ�
 MAP83_e14_p1_2	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p1_3	Map083.json	0	dialogue	もう魔王になっちゃったよーーーーーーん！！
 MAP83_e14_p1_12	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p1_13	Map083.json	0	dialogue	…！！！！
 MAP83_e14_p1_15	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p1_16	Map083.json	0	dialogue	そしてまだまだ闇のエレメントパワーは
 MAP83_e14_p1_17	Map083.json	0	dialogue	ボクのところに集まり続けている…
@@ -10516,6 +10813,7 @@ MAP83_e14_p1_71	Map083.json	1	dialogue	さすがにもう戦えなさそうだ�
 MAP83_e14_p1_75	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p1_76	Map083.json	1	dialogue	…つまんねーの！！
 MAP83_e14_p1_85	Map083.json	1	dialogue	ウィン：
+MAP83_e14_p1_86	Map083.json	1	dialogue	…！！
 MAP83_e14_p1_88	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p1_89	Map083.json	1	dialogue	これからもっとパワーが増して…
 MAP83_e14_p1_90	Map083.json	1	dialogue	本当の魔王に…
@@ -10524,6 +10822,7 @@ MAP83_e14_p1_93	Map083.json	1	dialogue	大魔王ダフィール様になるっ�
 MAP83_e14_p1_95	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p1_96	Map083.json	1	dialogue	カンタンにくたばりやがってえええええ！！！
 MAP83_e14_p1_103	Map083.json	1	dialogue	ウィン：
+MAP83_e14_p1_104	Map083.json	1	dialogue	…！！
 MAP83_e14_p1_106	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p1_107	Map083.json	1	dialogue	ただのゴミじゃないか、継承者でさえ…
 MAP83_e14_p1_109	Map083.json	1	dialogue	魔王ダフィール：
@@ -10535,9 +10834,11 @@ MAP83_e14_p1_115	Map083.json	1	dialogue	風の継承者くん　キミはもう�
 MAP83_e14_p1_119	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p1_120	Map083.json	1	dialogue	…用済み　じゃあねーーーーー！！！！
 MAP83_e14_p1_122	Map083.json	1	dialogue	ウィン：
+MAP83_e14_p1_123	Map083.json	1	dialogue	………………！！
 MAP83_e14_p2_2	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p2_3	Map083.json	0	dialogue	もう魔王になっちゃったよーーーーーーん！！
 MAP83_e14_p2_12	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p2_13	Map083.json	0	dialogue	…！！！！
 MAP83_e14_p2_15	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p2_16	Map083.json	0	dialogue	そしてまだまだ闇のエレメントパワーは
 MAP83_e14_p2_17	Map083.json	0	dialogue	ボクのところに集まり続けている…
@@ -10566,6 +10867,7 @@ MAP83_e14_p2_71	Map083.json	1	dialogue	さすがにもう戦えなさそうだ�
 MAP83_e14_p2_75	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p2_76	Map083.json	1	dialogue	…つまんねーの！！
 MAP83_e14_p2_85	Map083.json	1	dialogue	ウィン：
+MAP83_e14_p2_86	Map083.json	1	dialogue	…！！
 MAP83_e14_p2_88	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p2_89	Map083.json	1	dialogue	これからもっとパワーが増して…
 MAP83_e14_p2_90	Map083.json	1	dialogue	本当の魔王に…
@@ -10574,6 +10876,7 @@ MAP83_e14_p2_93	Map083.json	1	dialogue	大魔王ダフィール様になるっ�
 MAP83_e14_p2_95	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p2_96	Map083.json	1	dialogue	カンタンにくたばりやがってえええええ！！！
 MAP83_e14_p2_103	Map083.json	1	dialogue	ウィン：
+MAP83_e14_p2_104	Map083.json	1	dialogue	…！！
 MAP83_e14_p2_106	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p2_107	Map083.json	1	dialogue	ただのゴミじゃないか、継承者でさえ…
 MAP83_e14_p2_109	Map083.json	1	dialogue	魔王ダフィール：
@@ -10585,12 +10888,15 @@ MAP83_e14_p2_115	Map083.json	1	dialogue	風の継承者くん　キミはもう�
 MAP83_e14_p2_119	Map083.json	1	dialogue	魔王ダフィール：
 MAP83_e14_p2_120	Map083.json	1	dialogue	…用済み　じゃあねーーーーー！！！！
 MAP83_e14_p2_122	Map083.json	1	dialogue	ウィン：
+MAP83_e14_p2_123	Map083.json	1	dialogue	………………！！
 MAP83_e14_p3_6	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p3_7	Map083.json	0	dialogue	堕天の炎に焼かれて…
 MAP83_e14_p3_8	Map083.json	0	dialogue	一瞬でホネになれ…
 MAP83_e14_p3_10	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p3_11	Map083.json	0	dialogue	ダフィ－－－ルッ…ファイアーーッ！！！！
+MAP83_e14_p3_17	Map083.json	0	dialogue	？：
 MAP83_e14_p3_18	Map083.json	0	dialogue	バクハツ！！
+MAP83_e14_p4_1	Map083.json	0	dialogue	？：
 MAP83_e14_p4_2	Map083.json	0	dialogue	ウィン！！　…生きているな？　　イヤシ！！
 MAP83_e14_p4_7	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p4_8	Map083.json	0	dialogue	な、なななな…？
@@ -10598,7 +10904,9 @@ MAP83_e14_p4_9	Map083.json	0	dialogue	何が起こった…！！？？
 MAP83_e14_p4_18	Map083.json	0	dialogue	ピピン：
 MAP83_e14_p4_19	Map083.json	0	dialogue	…久し振りだな。
 MAP83_e14_p4_22	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p4_23	Map083.json	0	dialogue	…！？
 MAP83_e14_p4_30	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p4_31	Map083.json	0	dialogue	…！！
 MAP83_e14_p4_33	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p4_34	Map083.json	0	dialogue	オマエは…　あのときの赤いの…だなー…？
 MAP83_e14_p4_36	Map083.json	0	dialogue	ピピン：
@@ -10611,6 +10919,7 @@ MAP83_e14_p4_44	Map083.json	0	dialogue	赤いの…　てめええええ……�
 MAP83_e14_p4_46	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p4_47	Map083.json	0	dialogue	その両手の輝きは……　まさか…………！！
 MAP83_e14_p4_63	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p4_64	Map083.json	0	dialogue	…！！
 MAP83_e14_p4_67	Map083.json	0	dialogue	　　　　　　ピピンの右手には火の紋章が…
 MAP83_e14_p4_68	Map083.json	0	dialogue	　　　　　左手には水の紋章が輝いている！！
 MAP83_e14_p4_70	Map083.json	0	dialogue	ピピン：
@@ -10629,6 +10938,7 @@ MAP83_e14_p4_87	Map083.json	0	dialogue	ピピン：
 MAP83_e14_p4_88	Map083.json	0	dialogue	正直なところ、気まずいったらないんだが…、
 MAP83_e14_p4_89	Map083.json	0	dialogue	…俺と一緒に戦えるな？
 MAP83_e14_p4_91	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p4_92	Map083.json	0	dialogue	…！
 MAP83_e14_p4_95	Map083.json	0	dialogue	　　　　　　　　　ウィンは大きく頷いた！
 MAP83_e14_p4_99	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p4_100	Map083.json	0	dialogue	まあいい…　まあ、いいさ！！
@@ -10649,6 +10959,8 @@ MAP83_e14_p4_153	Map083.json	0	dialogue	キミたち随分と仲がいいじゃ�
 MAP83_e14_p4_155	Map083.json	0	dialogue	ピピン：
 MAP83_e14_p4_156	Map083.json	0	dialogue	行くぞ、ウィン！！
 MAP83_e14_p4_158	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p4_159	Map083.json	0	dialogue	…！
+MAP83_e14_p5_1	Map083.json	0	dialogue	？：
 MAP83_e14_p5_2	Map083.json	0	dialogue	ウィン！！　…生きているな？　　イヤシ！！
 MAP83_e14_p5_7	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p5_8	Map083.json	0	dialogue	な、なななな…？
@@ -10656,7 +10968,9 @@ MAP83_e14_p5_9	Map083.json	0	dialogue	何が起こった…！！？？
 MAP83_e14_p5_18	Map083.json	0	dialogue	ピピン：
 MAP83_e14_p5_19	Map083.json	0	dialogue	…久し振りだな。
 MAP83_e14_p5_22	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p5_23	Map083.json	0	dialogue	…！？
 MAP83_e14_p5_30	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p5_31	Map083.json	0	dialogue	…！！
 MAP83_e14_p5_33	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p5_34	Map083.json	0	dialogue	オマエは…　あのときの赤いの…だなー…？
 MAP83_e14_p5_36	Map083.json	0	dialogue	ピピン：
@@ -10669,6 +10983,7 @@ MAP83_e14_p5_44	Map083.json	0	dialogue	赤いの…　てめええええ……�
 MAP83_e14_p5_46	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p5_47	Map083.json	0	dialogue	その両手の輝きは……　まさか…………！！
 MAP83_e14_p5_63	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p5_64	Map083.json	0	dialogue	…！！
 MAP83_e14_p5_67	Map083.json	0	dialogue	　　　　　　ピピンの右手には火の紋章が…
 MAP83_e14_p5_68	Map083.json	0	dialogue	　　　　　左手には水の紋章が輝いている！！
 MAP83_e14_p5_70	Map083.json	0	dialogue	ピピン：
@@ -10687,6 +11002,7 @@ MAP83_e14_p5_87	Map083.json	0	dialogue	ピピン：
 MAP83_e14_p5_88	Map083.json	0	dialogue	正直なところ、気まずいったらないんだが…、
 MAP83_e14_p5_89	Map083.json	0	dialogue	…俺と一緒に戦えるな？
 MAP83_e14_p5_91	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p5_92	Map083.json	0	dialogue	…！
 MAP83_e14_p5_95	Map083.json	0	dialogue	　　　　　　　　　ウィンは大きく頷いた！
 MAP83_e14_p5_99	Map083.json	0	dialogue	魔王ダフィール：
 MAP83_e14_p5_100	Map083.json	0	dialogue	まあいい…　まあ、いいさ！！
@@ -10707,6 +11023,7 @@ MAP83_e14_p5_153	Map083.json	0	dialogue	キミたち随分と仲がいいじゃ�
 MAP83_e14_p5_155	Map083.json	0	dialogue	ピピン：
 MAP83_e14_p5_156	Map083.json	0	dialogue	一気に行くぞ、ウィン！！
 MAP83_e14_p5_158	Map083.json	0	dialogue	ウィン：
+MAP83_e14_p5_159	Map083.json	0	dialogue	…！
 MAP85_e1_p0_1	Map085.json	0	dialogue	近衛兵クリス：
 MAP85_e1_p0_2	Map085.json	0	dialogue	ここから先は、ウィンダム王とお妃さまの
 MAP85_e1_p0_3	Map085.json	0	dialogue	寝室だぜ　…って、
@@ -10977,6 +11294,7 @@ MAP87_e20_p1_19	Map087.json	1	dialogue	オレもだ、ウィン！
 MAP87_e20_p1_20	Map087.json	1	dialogue	だって、またすぐに集まって、
 MAP87_e20_p1_21	Map087.json	1	dialogue	闇のエレメントを倒さないとだからな！
 MAP87_e20_p1_23	Map087.json	1	dialogue	ウィン：
+MAP87_e20_p1_24	Map087.json	1	dialogue	…。
 MAP87_e20_p1_27	Map087.json	1	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP87_e20_p1_29	Map087.json	1	dialogue	ナガレ：
 MAP87_e20_p1_30	Map087.json	1	dialogue	よし、行こう！
@@ -10985,6 +11303,7 @@ MAP87_e20_p1_33	Map087.json	1	dialogue	おう！！
 MAP87_e23_p0_4	Map087.json	0	dialogue	マハリ：
 MAP87_e23_p0_5	Map087.json	0	dialogue	光の…柱だ…！！
 MAP87_e23_p0_7	Map087.json	0	dialogue	オタキ様：
+MAP87_e23_p0_8	Map087.json	0	dialogue	………。
 MAP87_e23_p0_10	Map087.json	0	dialogue	シズク様：
 MAP87_e23_p0_11	Map087.json	0	dialogue	…ああ…　龍よ、お守りください…！
 MAP87_e23_p0_15	Map087.json	0	dialogue	トリカゼ：
@@ -11034,6 +11353,7 @@ MAP88_e15_p0_15	Map088.json	0	dialogue	全然、自我…？　保てちゃっ�
 MAP88_e15_p0_17	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p0_18	Map088.json	0	dialogue	…チッ！！
 MAP88_e15_p0_20	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p0_21	Map088.json	0	dialogue	…！！
 MAP88_e15_p0_23	Map088.json	0	dialogue	大魔王ダフィール：
 MAP88_e15_p0_24	Map088.json	0	dialogue	あああぁぁぁぁアアアァァーーッ…！！！
 MAP88_e15_p0_25	Map088.json	0	dialogue	キ…モチ…ィイー……ッ！！！！！
@@ -11054,10 +11374,12 @@ MAP88_e15_p0_44	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p0_45	Map088.json	0	dialogue	…闇インフルエンザ…？
 MAP88_e15_p0_46	Map088.json	0	dialogue	すべての人間が滅びるだと…！？
 MAP88_e15_p0_48	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p0_49	Map088.json	0	dialogue	………。
 MAP88_e15_p0_51	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p0_52	Map088.json	0	dialogue	…ウィン！！　まだ終わっていない！！
 MAP88_e15_p0_53	Map088.json	0	dialogue	顔をあげろ！！
 MAP88_e15_p0_55	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p0_56	Map088.json	0	dialogue	………。
 MAP88_e15_p0_58	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p0_59	Map088.json	0	dialogue	このガキンチョはいまや…
 MAP88_e15_p0_60	Map088.json	0	dialogue	全ての闇のエレメントパワーと一体なんだろ？
@@ -11066,6 +11388,7 @@ MAP88_e15_p0_63	Map088.json	0	dialogue	それなら…　闇のエレメント�
 MAP88_e15_p0_64	Map088.json	0	dialogue	災厄のすべても…　コイツを倒せば消えるかも
 MAP88_e15_p0_65	Map088.json	0	dialogue	しれん…
 MAP88_e15_p0_67	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p0_68	Map088.json	0	dialogue	………！！
 MAP88_e15_p0_70	Map088.json	0	dialogue	大魔王ダフィール：
 MAP88_e15_p0_71	Map088.json	0	dialogue	ダハハハハハ！！！！そうかもーーー！！！！
 MAP88_e15_p0_73	Map088.json	0	dialogue	大魔王ダフィール：
@@ -11098,6 +11421,7 @@ MAP88_e15_p1_15	Map088.json	0	dialogue	全然、自我…？　保てちゃっ�
 MAP88_e15_p1_17	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p1_18	Map088.json	0	dialogue	…チッ！！
 MAP88_e15_p1_20	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p1_21	Map088.json	0	dialogue	…！！
 MAP88_e15_p1_23	Map088.json	0	dialogue	大魔王ダフィール：
 MAP88_e15_p1_24	Map088.json	0	dialogue	あああぁぁぁぁアアアァァーーッ…！！！
 MAP88_e15_p1_25	Map088.json	0	dialogue	キ…モチ…ィイー……ッ！！！！！
@@ -11118,10 +11442,12 @@ MAP88_e15_p1_44	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p1_45	Map088.json	0	dialogue	…闇インフルエンザ…？
 MAP88_e15_p1_46	Map088.json	0	dialogue	すべての人間が滅びるだと…！？
 MAP88_e15_p1_48	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p1_49	Map088.json	0	dialogue	………。
 MAP88_e15_p1_51	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p1_52	Map088.json	0	dialogue	…ウィン！！　まだ終わっていない！！
 MAP88_e15_p1_53	Map088.json	0	dialogue	顔をあげろ！！
 MAP88_e15_p1_55	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p1_56	Map088.json	0	dialogue	………。
 MAP88_e15_p1_58	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p1_59	Map088.json	0	dialogue	このガキンチョはいまや…
 MAP88_e15_p1_60	Map088.json	0	dialogue	全ての闇のエレメントパワーと一体なんだろ？
@@ -11130,6 +11456,7 @@ MAP88_e15_p1_63	Map088.json	0	dialogue	それなら…　闇のエレメント�
 MAP88_e15_p1_64	Map088.json	0	dialogue	災厄のすべても…　コイツを倒せば消えるかも
 MAP88_e15_p1_65	Map088.json	0	dialogue	しれん…
 MAP88_e15_p1_67	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p1_68	Map088.json	0	dialogue	………！！
 MAP88_e15_p1_70	Map088.json	0	dialogue	大魔王ダフィール：
 MAP88_e15_p1_71	Map088.json	0	dialogue	ダハハハハハ！！！！そうかもーーー！！！！
 MAP88_e15_p1_73	Map088.json	0	dialogue	大魔王ダフィール：
@@ -11153,17 +11480,20 @@ MAP88_e15_p1_94	Map088.json	0	dialogue	そんなに時間が惜しいなら…�
 MAP88_e15_p1_96	Map088.json	0	dialogue	大魔王ダフィール：
 MAP88_e15_p1_97	Map088.json	0	dialogue	一瞬で終りにしてやルォォァァーーアア！！
 MAP88_e15_p2_3	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p2_4	Map088.json	0	dialogue	……。
 MAP88_e15_p2_6	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p2_7	Map088.json	0	dialogue	…お前の負けだな、ダフィール。
 MAP88_e15_p3_16	Map088.json	0	dialogue	ピケピケ：
 MAP88_e15_p3_17	Map088.json	0	dialogue	愚かなことを…！！
 MAP88_e15_p3_20	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p3_21	Map088.json	0	dialogue	…！
 MAP88_e15_p3_23	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p3_24	Map088.json	0	dialogue	何っ…　四天王が…！？
 MAP88_e15_p3_26	Map088.json	0	dialogue	ミケーネ：
 MAP88_e15_p3_27	Map088.json	0	dialogue	安心なさい、あたしらはもう消えるわ…
 MAP88_e15_p3_28	Map088.json	0	dialogue	そうねえ…　今回は千年くらいかしら？
 MAP88_e15_p3_30	Map088.json	0	dialogue	ナウー：
+MAP88_e15_p3_31	Map088.json	0	dialogue	………。
 MAP88_e15_p3_33	Map088.json	0	dialogue	ピケピケ：
 MAP88_e15_p3_34	Map088.json	0	dialogue	ダフィ夫君が完全に闇のエレメントパワーと
 MAP88_e15_p3_35	Map088.json	0	dialogue	一体にならなかったことで………
@@ -11183,6 +11513,7 @@ MAP88_e15_p3_54	Map088.json	0	dialogue	それがあたしたちの敗因かし�
 MAP88_e15_p3_56	Map088.json	0	dialogue	ピケピケ：
 MAP88_e15_p3_57	Map088.json	0	dialogue	そう…だなあ。
 MAP88_e15_p3_59	Map088.json	0	dialogue	ナウー：
+MAP88_e15_p3_60	Map088.json	0	dialogue	………。
 MAP88_e15_p3_62	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p3_63	Map088.json	0	dialogue	あんたらは、またしばらくしたら復活する…
 MAP88_e15_p3_64	Map088.json	0	dialogue	しかし、こいつ…
@@ -11210,6 +11541,7 @@ MAP88_e15_p4_11	Map088.json	0	dialogue	ああ…　じゃあさすがに今回�
 MAP88_e15_p4_12	Map088.json	0	dialogue	残念だけど、どのみち今回最後のつもりでいたし…
 MAP88_e15_p4_13	Map088.json	0	dialogue	仕方ないなあ。
 MAP88_e15_p4_15	Map088.json	0	dialogue	ナウー：
+MAP88_e15_p4_16	Map088.json	0	dialogue	………。
 MAP88_e15_p4_18	Map088.json	0	dialogue	ミケーネ：
 MAP88_e15_p4_19	Map088.json	0	dialogue	…そのようね。
 MAP88_e15_p4_20	Map088.json	0	dialogue	なんか透けてるって段階も過ぎちゃってるし…
@@ -11235,6 +11567,7 @@ MAP88_e15_p4_49	Map088.json	0	dialogue	あのナガレとかいうサムライ�
 MAP88_e15_p4_50	Map088.json	0	dialogue	火の紋章の継承者だった子…
 MAP88_e15_p4_51	Map088.json	0	dialogue	いまなら助けられるわ。
 MAP88_e15_p4_53	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p4_54	Map088.json	0	dialogue	……！！！！
 MAP88_e15_p4_56	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p4_57	Map088.json	0	dialogue	…本当か！？
 MAP88_e15_p4_59	Map088.json	0	dialogue	ピケピケ？：
@@ -11253,12 +11586,14 @@ MAP88_e15_p4_75	Map088.json	0	dialogue	それなら…
 MAP88_e15_p4_80	Map088.json	0	dialogue	ピピン：
 MAP88_e15_p4_81	Map088.json	0	dialogue	ウィン、いくぞ！！
 MAP88_e15_p4_85	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p4_86	Map088.json	0	dialogue	…！！
 MAP88_e15_p4_89	Map088.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！！
 MAP88_e15_p5_2	Map088.json	0	dialogue	　　　　　ダフィールはぐったりと倒れて動かない
 MAP88_e15_p6_2	Map088.json	0	dialogue	　　　　　ダフィールはぐったりと倒れて動かない
 MAP88_e15_p6_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から
 MAP88_e15_p6_6	Map088.json	0	dialogue	　　　　黒いイモ虫のようなものがはみ出ている…
 MAP88_e15_p6_8	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p6_9	Map088.json	0	dialogue	………。
 MAP88_e15_p6_13	Map088.json	1	dialogue	ピケピケの声：
 MAP88_e15_p6_14	Map088.json	1	dialogue	そのままにしておけ…　オススメできないよ…
 MAP88_e15_p6_15	Map088.json	1	dialogue	何が起こるか…　わたしにもわからん…
@@ -11266,6 +11601,7 @@ MAP88_e15_p6_17	Map088.json	1	dialogue	ピケピケの声：
 MAP88_e15_p6_18	Map088.json	1	dialogue	アドバイスはしたからな…？
 MAP88_e15_p6_19	Map088.json	1	dialogue	後で文句言われても…知らないよーーーーーん
 MAP88_e15_p6_21	Map088.json	1	dialogue	ウィン：
+MAP88_e15_p6_22	Map088.json	1	dialogue	………。
 MAP88_e15_p6_35	Map088.json	2	dialogue	ピケピケの声：
 MAP88_e15_p6_36	Map088.json	2	dialogue	あっちゃー…　だから言ったのにいいいい…
 MAP88_e15_p6_40	Map088.json	2	dialogue	　　闇が膨らみ　　　　　　　闇が閉じ
@@ -11276,6 +11612,7 @@ MAP88_e15_p7_2	Map088.json	0	dialogue	　　　　　ダフィールはぐった
 MAP88_e15_p7_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から
 MAP88_e15_p7_6	Map088.json	0	dialogue	　　　　黒い蛇のようなものがはみ出ている…
 MAP88_e15_p7_8	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p7_9	Map088.json	0	dialogue	………。
 MAP88_e15_p7_13	Map088.json	1	dialogue	ピケピケの声：
 MAP88_e15_p7_14	Map088.json	1	dialogue	えーと…　それはちょっと面白そうだなあ
 MAP88_e15_p7_15	Map088.json	1	dialogue	いや！　でもオススメはできないぞ！！　キケンだ！！
@@ -11283,6 +11620,7 @@ MAP88_e15_p7_17	Map088.json	1	dialogue	ピケピケの声：
 MAP88_e15_p7_18	Map088.json	1	dialogue	忠告はしたぞ　最低限の親切はしたからな？
 MAP88_e15_p7_19	Map088.json	1	dialogue	おそらく伝説のバトルが待っている事だろう…
 MAP88_e15_p7_21	Map088.json	1	dialogue	ウィン：
+MAP88_e15_p7_22	Map088.json	1	dialogue	………。
 MAP88_e15_p7_35	Map088.json	2	dialogue	ピケピケの声：
 MAP88_e15_p7_36	Map088.json	2	dialogue	どっちが勝つんだろう…　ちょっと楽しみ…
 MAP88_e15_p7_37	Map088.json	2	dialogue	それではいってらっしゃーーーーーーい！！
@@ -11294,7 +11632,9 @@ MAP88_e15_p7_56	Map088.json	2	dialogue	ピピン
 MAP88_e15_p7_57	Map088.json	2	dialogue	「おまえら…　どうしてここにいる？
 MAP88_e15_p7_59	Map088.json	2	dialogue	ナガレ
 MAP88_e15_p7_60	Map088.json	2	dialogue	「わからないよ…　一体全体何が起こって…
+MAP88_e15_p7_62	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_63	Map088.json	2	dialogue	「ックックックッ…　
+MAP88_e15_p7_65	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_66	Map088.json	2	dialogue	「やっぱりな…
 MAP88_e15_p7_67	Map088.json	2	dialogue	　俺だけじゃなかったみたいだ…
 MAP88_e15_p7_68	Map088.json	2	dialogue	　何度も戦い…　そしてここにたどり着いたのは…
@@ -11306,22 +11646,28 @@ MAP88_e15_p7_76	Map088.json	2	dialogue	「こんなとこ　早く出たいの�
 MAP88_e15_p7_78	Map088.json	2	dialogue	ピピン
 MAP88_e15_p7_79	Map088.json	2	dialogue	「この際なにが出てきても驚かん…
 MAP88_e15_p7_80	Map088.json	2	dialogue	　何でもいい　さっさと出てこい！！
+MAP88_e15_p7_82	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_83	Map088.json	2	dialogue	「フッ…
 MAP88_e15_p7_84	Map088.json	2	dialogue	　いいだろう…そろそろ俺も…
+MAP88_e15_p7_88	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_89	Map088.json	2	dialogue	「おまえらに勝てるだろうからな！！
 MAP88_e15_p7_92	Map088.json	2	dialogue	ホノオ
 MAP88_e15_p7_93	Map088.json	2	dialogue	「だ、誰だ…！？
+MAP88_e15_p7_95	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_96	Map088.json	2	dialogue	「お前それ最初のセリフと同じじゃねえか！
 MAP88_e15_p7_98	Map088.json	2	dialogue	ナガレ
 MAP88_e15_p7_99	Map088.json	2	dialogue	「誰だっオマエは！？
+MAP88_e15_p7_101	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_102	Map088.json	2	dialogue	「何度も会ってるだろ！俺とお前らは！！！！
 MAP88_e15_p7_104	Map088.json	2	dialogue	ウィン
 MAP88_e15_p7_105	Map088.json	2	dialogue	「……………誰ですか？
+MAP88_e15_p7_107	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_108	Map088.json	2	dialogue	「お前まで分からないのか……
 MAP88_e15_p7_109	Map088.json	2	dialogue	　それはなんか、ちょっとショックだろ………
 MAP88_e15_p7_111	Map088.json	2	dialogue	ピピン
 MAP88_e15_p7_112	Map088.json	2	dialogue	「この際なにが出てきても驚かん…
 MAP88_e15_p7_113	Map088.json	2	dialogue	　何でもいい　さっさとかかってこい！
+MAP88_e15_p7_115	Map088.json	2	dialogue	？？？
 MAP88_e15_p7_116	Map088.json	2	dialogue	「クソ―! ムカつく奴らだぜ！
 MAP88_e15_p7_117	Map088.json	2	dialogue	　ああ！もういい！！
 MAP88_e15_p7_118	Map088.json	2	dialogue	　俺はバンデッドだ！！
@@ -11341,6 +11687,7 @@ MAP88_e15_p8_2	Map088.json	0	dialogue	　　　　　ダフィールはぐった
 MAP88_e15_p8_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から
 MAP88_e15_p8_6	Map088.json	0	dialogue	　　　　黒い蛇のようなものがはみ出ている…
 MAP88_e15_p8_8	Map088.json	0	dialogue	ウィン：
+MAP88_e15_p8_9	Map088.json	0	dialogue	………。
 MAP88_e15_p8_13	Map088.json	1	dialogue	ピケピケの声：
 MAP88_e15_p8_14	Map088.json	1	dialogue	えーと…　まだやってるの…？
 MAP88_e15_p8_15	Map088.json	1	dialogue	さすがにもう何も用意してないんだけど…
@@ -11348,6 +11695,7 @@ MAP88_e15_p8_17	Map088.json	1	dialogue	ピケピケの声：
 MAP88_e15_p8_18	Map088.json	1	dialogue	ではでは伝説のバトルへどうぞ…
 MAP88_e15_p8_19	Map088.json	1	dialogue	もうよくない？
 MAP88_e15_p8_21	Map088.json	1	dialogue	ウィン：
+MAP88_e15_p8_22	Map088.json	1	dialogue	………。
 MAP88_e15_p8_37	Map088.json	2	dialogue	　　闇が膨らみ　　　　　　　闇が閉じ
 MAP88_e15_p8_38	Map088.json	2	dialogue	　　　　　　　　次元が　　　　　　　　　　歪んでいく
 MAP88_e15_p8_49	Map088.json	2	dialogue	ホノオ
@@ -11356,7 +11704,9 @@ MAP88_e15_p8_52	Map088.json	2	dialogue	ピピン
 MAP88_e15_p8_53	Map088.json	2	dialogue	「おまえら…　どうしてここにいる？
 MAP88_e15_p8_55	Map088.json	2	dialogue	ナガレ
 MAP88_e15_p8_56	Map088.json	2	dialogue	「わからないよ…　一体全体何が起こって…
+MAP88_e15_p8_58	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_59	Map088.json	2	dialogue	「ックックックッ…　
+MAP88_e15_p8_61	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_62	Map088.json	2	dialogue	「やっぱりな…
 MAP88_e15_p8_63	Map088.json	2	dialogue	　俺だけじゃなかったみたいだ…
 MAP88_e15_p8_64	Map088.json	2	dialogue	　何度も戦い…　そしてここにたどり着いたのは…
@@ -11368,22 +11718,28 @@ MAP88_e15_p8_72	Map088.json	2	dialogue	「こんなとこ　早く出たいの�
 MAP88_e15_p8_74	Map088.json	2	dialogue	ピピン
 MAP88_e15_p8_75	Map088.json	2	dialogue	「この際なにが出てきても驚かん…
 MAP88_e15_p8_76	Map088.json	2	dialogue	　何でもいい　さっさと出てこい！！
+MAP88_e15_p8_78	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_79	Map088.json	2	dialogue	「フッ…
 MAP88_e15_p8_80	Map088.json	2	dialogue	　いいだろう…そろそろ俺も…
+MAP88_e15_p8_84	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_85	Map088.json	2	dialogue	「おまえらに勝てるだろうからな！！
 MAP88_e15_p8_88	Map088.json	2	dialogue	ホノオ
 MAP88_e15_p8_89	Map088.json	2	dialogue	「だ、誰だ…！？
+MAP88_e15_p8_91	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_92	Map088.json	2	dialogue	「お前それ最初のセリフと同じじゃねえか！
 MAP88_e15_p8_94	Map088.json	2	dialogue	ナガレ
 MAP88_e15_p8_95	Map088.json	2	dialogue	「誰だっオマエは！？
+MAP88_e15_p8_97	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_98	Map088.json	2	dialogue	「何度も会ってるだろ！俺とお前らは！！！！
 MAP88_e15_p8_100	Map088.json	2	dialogue	ウィン
 MAP88_e15_p8_101	Map088.json	2	dialogue	「……………誰ですか？
+MAP88_e15_p8_103	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_104	Map088.json	2	dialogue	「お前まで分からないのか……
 MAP88_e15_p8_105	Map088.json	2	dialogue	　それはなんか、ちょっとショックだろ………
 MAP88_e15_p8_107	Map088.json	2	dialogue	ピピン
 MAP88_e15_p8_108	Map088.json	2	dialogue	「この際なにが出てきても驚かん…
 MAP88_e15_p8_109	Map088.json	2	dialogue	　何でもいい　さっさとかかってこい！
+MAP88_e15_p8_111	Map088.json	2	dialogue	？？？
 MAP88_e15_p8_112	Map088.json	2	dialogue	「クソ―! ムカつく奴らだぜ！
 MAP88_e15_p8_113	Map088.json	2	dialogue	　ああ！もういい！！
 MAP88_e15_p8_114	Map088.json	2	dialogue	　俺はバンデッドだ！！
@@ -11401,15 +11757,20 @@ MAP88_e15_p8_140	Map088.json	2	dialogue	　　　　　　　　闇は開き　�
 MAP88_e15_p8_141	Map088.json	2	dialogue	　　　　次元が　　　　　　戻る
 MAP88_e15_p9_2	Map088.json	0	dialogue	　　　　　ダフィールはぐったりと倒れて動かない
 MAP88_e16_p1_1	Map088.json	0	dialogue	ナウー：
+MAP88_e16_p1_2	Map088.json	0	dialogue	…………。
 MAP88_e16_p1_4	Map088.json	0	dialogue	ウィン：
+MAP88_e16_p1_5	Map088.json	0	dialogue	…………。
 MAP88_e16_p1_7	Map088.json	0	dialogue	ナウー：
+MAP88_e16_p1_8	Map088.json	0	dialogue	…………。
 MAP88_e16_p1_11	Map088.json	0	dialogue	　　　　　　　ナウーは小さく頷いた
 MAP88_e16_p1_13	Map088.json	0	dialogue	ウィン：
+MAP88_e16_p1_14	Map088.json	0	dialogue	…………。
 MAP88_e16_p1_17	Map088.json	0	dialogue	　　　　　　　ウィンも小さく頷いた
 MAP88_e17_p2_1	Map088.json	0	dialogue	ピケピケ？：
 MAP88_e17_p2_2	Map088.json	0	dialogue	…さようなら、ウィン君、ピピン君！！
 MAP88_e18_p0_14	Map088.json	0	dialogue	　　　　　　　　　制作・開発　　ＷＧＴ
 MAP89_e2_p0_1	Map089.json	0	dialogue	ウィン：
+MAP89_e2_p0_2	Map089.json	0	dialogue	…。
 MAP89_e2_p0_5	Map089.json	0	dialogue	　　　　　もう進むしかないとウィンは思った
 MAP89_e3_p0_10	Map089.json	0	dialogue	キュアポーションを手に入れた！
 MAP89_e3_p2_10	Map089.json	0	dialogue	キュアポーションを手に入れた！
@@ -11426,6 +11787,7 @@ MAP90_e5_p0_90	Map090.json	0	dialogue	橋の守り、ご苦労様だったぜー
 MAP90_e5_p0_92	Map090.json	0	dialogue	ナガレ：
 MAP90_e5_p0_93	Map090.json	0	dialogue	良かった、ここのみんなも無事みたいだな。
 MAP90_e5_p0_95	Map090.json	0	dialogue	ピピン：
+MAP90_e5_p0_96	Map090.json	0	dialogue	………。
 MAP90_e5_p0_102	Map090.json	0	dialogue	　　　　　　シナリオライター　西園寺ハムカツ
 MAP90_e7_p0_1	Map090.json	0	dialogue	城門係スカイ：
 MAP90_e7_p0_2	Map090.json	0	dialogue	け、継承者の皆様に…敬礼！
@@ -11525,6 +11887,7 @@ MAP91_e23_p0_50	Map091.json	0	dialogue	左手を出せ。
 MAP91_e23_p0_55	Map091.json	0	dialogue	ナガレ：
 MAP91_e23_p0_56	Map091.json	0	dialogue	…え？　ああ、でも…
 MAP91_e23_p0_58	Map091.json	0	dialogue	ウィン：
+MAP91_e23_p0_59	Map091.json	0	dialogue	…………。
 MAP91_e23_p0_61	Map091.json	0	dialogue	ホノオ：
 MAP91_e23_p0_62	Map091.json	0	dialogue	おい、ちょっと待て！
 MAP91_e23_p0_64	Map091.json	0	dialogue	ホノオ：
@@ -11733,6 +12096,7 @@ MAP92_e6_p0_149	Map092.json	0	dialogue	…そう…　かも知れねえ。
 MAP92_e6_p0_150	Map092.json	0	dialogue	俺はたまたま戦士だったから何とかなった…。
 MAP92_e6_p0_151	Map092.json	0	dialogue	もしアニキが継承していたらと考えると…
 MAP92_e6_p0_153	Map092.json	0	dialogue	フレイム王：
+MAP92_e6_p0_154	Map092.json	0	dialogue	………。
 MAP92_e6_p0_156	Map092.json	0	dialogue	フレイム王：
 MAP92_e6_p0_157	Map092.json	0	dialogue	紋章は、最も優れた戦士にこそ継承しなければ
 MAP92_e6_p0_158	Map092.json	0	dialogue	ならん…　わしはそれがこの度よくわかった。
@@ -11743,6 +12107,7 @@ MAP92_e6_p0_164	Map092.json	0	dialogue	フレイム王：
 MAP92_e6_p0_165	Map092.json	0	dialogue	本来、我々ではなく、あなたにこそ…
 MAP92_e6_p0_166	Map092.json	0	dialogue	紋章の未来を決める資格があるのだ。
 MAP92_e6_p0_168	Map092.json	0	dialogue	ピピン：
+MAP92_e6_p0_169	Map092.json	0	dialogue	…………。
 MAP92_e6_p0_171	Map092.json	0	dialogue	フレイム王：
 MAP92_e6_p0_172	Map092.json	0	dialogue	すぐに、その決心をつけろとは言わん…。
 MAP92_e6_p0_173	Map092.json	0	dialogue	時間はたっぷりとあるのだ。
@@ -11951,7 +12316,9 @@ MAP93_e10_p0_4	Map093.json	0	dialogue	ウィンダム王：
 MAP93_e10_p0_5	Map093.json	0	dialogue	よくぞ戻った！　騎士ウィン！！
 MAP93_e10_p0_6	Map093.json	0	dialogue	そして…　ピピン！！
 MAP93_e10_p0_8	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_9	Map093.json	0	dialogue	…！
 MAP93_e10_p0_11	Map093.json	0	dialogue	ピピン：
+MAP93_e10_p0_12	Map093.json	0	dialogue	………。
 MAP93_e10_p0_14	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p0_15	Map093.json	0	dialogue	ウィンをはじめ、継承者の者たちの働きにより
 MAP93_e10_p0_16	Map093.json	0	dialogue	見事、闇の復活は阻止された…
@@ -11959,7 +12326,9 @@ MAP93_e10_p0_18	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p0_19	Map093.json	0	dialogue	よくやってくれたぞ！！
 MAP93_e10_p0_20	Map093.json	0	dialogue	ウィン、ピピン！！
 MAP93_e10_p0_22	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_23	Map093.json	0	dialogue	…。
 MAP93_e10_p0_25	Map093.json	0	dialogue	ピピン：
+MAP93_e10_p0_26	Map093.json	0	dialogue	………。
 MAP93_e10_p0_28	Map093.json	0	dialogue	ウィンダム王：
 MAP93_e10_p0_29	Map093.json	0	dialogue	闇の復活を阻止した継承者であるウィン！！
 MAP93_e10_p0_30	Map093.json	0	dialogue	そなたの功績を称え、それに応えるには…
@@ -11968,6 +12337,7 @@ MAP93_e10_p0_33	Map093.json	0	dialogue	お前を騎士団長に任命せねば�
 MAP93_e10_p0_34	Map093.json	0	dialogue	ウィンをこれより、ウィンダム騎士団長に
 MAP93_e10_p0_35	Map093.json	0	dialogue	任命する！！
 MAP93_e10_p0_37	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_38	Map093.json	0	dialogue	…！？
 MAP93_e10_p0_40	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p0_41	Map093.json	0	dialogue	…急ですまんな、ウィン。
 MAP93_e10_p0_42	Map093.json	0	dialogue	しかし陛下からのどうしてもとのお達しだ。
@@ -11981,16 +12351,19 @@ MAP93_e10_p0_52	Map093.json	0	dialogue	異論ありません！
 MAP93_e10_p0_54	Map093.json	0	dialogue	近衛兵クリス：
 MAP93_e10_p0_55	Map093.json	0	dialogue	ウィンなら誰も反対する奴なんていません！！
 MAP93_e10_p0_60	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_61	Map093.json	0	dialogue	…　…　…　。
 MAP93_e10_p0_63	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_64	Map093.json	0	dialogue	…お、おい、何て顔をしているんだ、ウィン。
 MAP93_e10_p0_66	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_67	Map093.json	0	dialogue	お前なら立派な騎士団長になる…
 MAP93_e10_p0_68	Map093.json	0	dialogue	俺が保証する。
 MAP93_e10_p0_70	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_71	Map093.json	0	dialogue	…！　…！！
 MAP93_e10_p0_73	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_74	Map093.json	0	dialogue	…お前、泣きそうな顔しているぞ…。
 MAP93_e10_p0_75	Map093.json	0	dialogue	そんなに騎士団長になるのが嫌なのか…？
 MAP93_e10_p0_77	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_78	Map093.json	0	dialogue	…！
 MAP93_e10_p0_81	Map093.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP93_e10_p0_83	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_84	Map093.json	0	dialogue	フン…　ったく………
@@ -12055,15 +12428,18 @@ MAP93_e10_p0_179	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p0_180	Map093.json	0	dialogue	しかし、ピピンの担当していた騎士隊長の座が
 MAP93_e10_p0_181	Map093.json	0	dialogue	空いている…　それをお前に任せる！
 MAP93_e10_p0_183	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_184	Map093.json	0	dialogue	………。
 MAP93_e10_p0_187	Map093.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP93_e10_p0_191	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_192	Map093.json	0	dialogue	………よかったな、ウィン。
 MAP93_e10_p0_196	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_197	Map093.json	0	dialogue	………。
 MAP93_e10_p0_199	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_200	Map093.json	0	dialogue	…話はついたようだな。
 MAP93_e10_p0_201	Map093.json	0	dialogue	なら、俺はこれで失礼する。
 MAP93_e10_p0_202	Map093.json	0	dialogue	陛下…　騎士団長…　色々世話になりました…
 MAP93_e10_p0_204	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_205	Map093.json	0	dialogue	………。
 MAP93_e10_p0_207	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_208	Map093.json	0	dialogue	…がんばれよ、騎士隊長殿。
 MAP93_e10_p0_209	Map093.json	0	dialogue	ん？…これからの俺について、気になるのか？
@@ -12072,10 +12448,12 @@ MAP93_e10_p0_212	Map093.json	0	dialogue	…暗黒大陸に行こうと思って�
 MAP93_e10_p0_213	Map093.json	0	dialogue	俺なら、闇の瘴気の影響も受けないしな。
 MAP93_e10_p0_214	Map093.json	0	dialogue	あそこに他に何があるのかを調べたいんだ。
 MAP93_e10_p0_216	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_217	Map093.json	0	dialogue	………。
 MAP93_e10_p0_219	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_220	Map093.json	0	dialogue	おいおい…心配するなよ…
 MAP93_e10_p0_221	Map093.json	0	dialogue	俺を誰だと思ってるんだ？
 MAP93_e10_p0_223	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_224	Map093.json	0	dialogue	………。
 MAP93_e10_p0_226	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_227	Map093.json	0	dialogue	じゃあな、ウィン。
 MAP93_e10_p0_238	Map093.json	0	dialogue	ロイ：
@@ -12112,12 +12490,14 @@ MAP93_e10_p0_301	Map093.json	0	dialogue	騎士ピピンを、ウィンダム騎�
 MAP93_e10_p0_305	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_306	Map093.json	0	dialogue	…な…んだと…！？
 MAP93_e10_p0_308	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_309	Map093.json	0	dialogue	…！！！！！
 MAP93_e10_p0_311	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p0_312	Map093.json	0	dialogue	ピピン…やってくれるな？
 MAP93_e10_p0_314	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_315	Map093.json	0	dialogue	…いや、本当にいいのか…？
 MAP93_e10_p0_316	Map093.json	0	dialogue	だって、俺は………
 MAP93_e10_p0_320	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_321	Map093.json	0	dialogue	…！！
 MAP93_e10_p0_326	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_327	Map093.json	0	dialogue	ウィン…
 MAP93_e10_p0_329	Map093.json	0	dialogue	ウィンダム王：
@@ -12125,6 +12505,7 @@ MAP93_e10_p0_330	Map093.json	0	dialogue	騎士団長ピピン！！　継承者�
 MAP93_e10_p0_331	Map093.json	0	dialogue	ふたりでこれからも我がウィンダム王国を
 MAP93_e10_p0_332	Map093.json	0	dialogue	支えてくれ！！
 MAP93_e10_p0_338	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p0_339	Map093.json	0	dialogue	…！！
 MAP93_e10_p0_342	Map093.json	0	dialogue	　　　　　　　　ウィンは大きく頷いた！！
 MAP93_e10_p0_344	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p0_345	Map093.json	0	dialogue	…どうしてお前は…
@@ -12189,7 +12570,9 @@ MAP93_e10_p1_4	Map093.json	0	dialogue	ウィンダム王：
 MAP93_e10_p1_5	Map093.json	0	dialogue	よくぞ戻った！　騎士ウィン！！
 MAP93_e10_p1_6	Map093.json	0	dialogue	そして…　ピピン！！
 MAP93_e10_p1_8	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_9	Map093.json	0	dialogue	…！
 MAP93_e10_p1_11	Map093.json	0	dialogue	ピピン：
+MAP93_e10_p1_12	Map093.json	0	dialogue	………。
 MAP93_e10_p1_14	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p1_15	Map093.json	0	dialogue	ウィンをはじめ、継承者の者たちの働きにより
 MAP93_e10_p1_16	Map093.json	0	dialogue	見事、闇の復活は阻止された…
@@ -12197,7 +12580,9 @@ MAP93_e10_p1_18	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p1_19	Map093.json	0	dialogue	よくやってくれたぞ！！
 MAP93_e10_p1_20	Map093.json	0	dialogue	ウィン、ピピン！！
 MAP93_e10_p1_22	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_23	Map093.json	0	dialogue	…。
 MAP93_e10_p1_25	Map093.json	0	dialogue	ピピン：
+MAP93_e10_p1_26	Map093.json	0	dialogue	………。
 MAP93_e10_p1_28	Map093.json	0	dialogue	ウィンダム王：
 MAP93_e10_p1_29	Map093.json	0	dialogue	闇の復活を阻止した継承者であるウィン！！
 MAP93_e10_p1_30	Map093.json	0	dialogue	そなたの功績を称え、それに応えるには…
@@ -12206,6 +12591,7 @@ MAP93_e10_p1_33	Map093.json	0	dialogue	お前を騎士団長に任命せねば�
 MAP93_e10_p1_34	Map093.json	0	dialogue	ウィンをこれより、ウィンダム騎士団長に
 MAP93_e10_p1_35	Map093.json	0	dialogue	任命する！！
 MAP93_e10_p1_37	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_38	Map093.json	0	dialogue	…！？
 MAP93_e10_p1_40	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p1_41	Map093.json	0	dialogue	…急ですまんな、ウィン。
 MAP93_e10_p1_42	Map093.json	0	dialogue	しかし陛下からのどうしてもとのお達しだ。
@@ -12219,16 +12605,19 @@ MAP93_e10_p1_52	Map093.json	0	dialogue	異論ありません！
 MAP93_e10_p1_54	Map093.json	0	dialogue	近衛兵クリス：
 MAP93_e10_p1_55	Map093.json	0	dialogue	ウィンなら誰も反対する奴なんていません！！
 MAP93_e10_p1_60	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_61	Map093.json	0	dialogue	…　…　…　。
 MAP93_e10_p1_63	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_64	Map093.json	0	dialogue	…お、おい、何て顔をしているんだ、ウィン。
 MAP93_e10_p1_66	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_67	Map093.json	0	dialogue	お前なら立派な騎士団長になる…
 MAP93_e10_p1_68	Map093.json	0	dialogue	俺が保証する。
 MAP93_e10_p1_70	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_71	Map093.json	0	dialogue	…！　…！！
 MAP93_e10_p1_73	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_74	Map093.json	0	dialogue	…お前、泣きそうな顔しているぞ…。
 MAP93_e10_p1_75	Map093.json	0	dialogue	そんなに騎士団長になるのが嫌なのか…？
 MAP93_e10_p1_77	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_78	Map093.json	0	dialogue	…！
 MAP93_e10_p1_81	Map093.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 MAP93_e10_p1_83	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_84	Map093.json	0	dialogue	フン…　ったく………
@@ -12293,15 +12682,18 @@ MAP93_e10_p1_179	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p1_180	Map093.json	0	dialogue	しかし、ピピンの担当していた騎士隊長の座が
 MAP93_e10_p1_181	Map093.json	0	dialogue	空いている…　それをお前に任せる！
 MAP93_e10_p1_183	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_184	Map093.json	0	dialogue	………。
 MAP93_e10_p1_187	Map093.json	0	dialogue	　　　　　　　　　　ウィンは頷いた
 MAP93_e10_p1_191	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_192	Map093.json	0	dialogue	………よかったな、ウィン。
 MAP93_e10_p1_196	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_197	Map093.json	0	dialogue	………。
 MAP93_e10_p1_199	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_200	Map093.json	0	dialogue	…話はついたようだな。
 MAP93_e10_p1_201	Map093.json	0	dialogue	なら、俺はこれで失礼する。
 MAP93_e10_p1_202	Map093.json	0	dialogue	陛下…　騎士団長…　色々世話になりました…
 MAP93_e10_p1_204	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_205	Map093.json	0	dialogue	………。
 MAP93_e10_p1_207	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_208	Map093.json	0	dialogue	…がんばれよ、騎士隊長殿。
 MAP93_e10_p1_209	Map093.json	0	dialogue	ん？…これからの俺について、気になるのか？
@@ -12310,10 +12702,12 @@ MAP93_e10_p1_212	Map093.json	0	dialogue	…暗黒大陸に行こうと思って�
 MAP93_e10_p1_213	Map093.json	0	dialogue	俺なら、闇の瘴気の影響も受けないしな。
 MAP93_e10_p1_214	Map093.json	0	dialogue	あそこに他に何があるのかを調べたいんだ。
 MAP93_e10_p1_216	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_217	Map093.json	0	dialogue	………。
 MAP93_e10_p1_219	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_220	Map093.json	0	dialogue	おいおい…心配するなよ…
 MAP93_e10_p1_221	Map093.json	0	dialogue	俺を誰だと思ってるんだ？
 MAP93_e10_p1_223	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_224	Map093.json	0	dialogue	………。
 MAP93_e10_p1_226	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_227	Map093.json	0	dialogue	じゃあな、ウィン。
 MAP93_e10_p1_238	Map093.json	0	dialogue	ロイ：
@@ -12350,12 +12744,14 @@ MAP93_e10_p1_301	Map093.json	0	dialogue	騎士ピピンを、ウィンダム騎�
 MAP93_e10_p1_305	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_306	Map093.json	0	dialogue	…な…んだと…！？
 MAP93_e10_p1_308	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_309	Map093.json	0	dialogue	…！！！！！
 MAP93_e10_p1_311	Map093.json	0	dialogue	ロイ：
 MAP93_e10_p1_312	Map093.json	0	dialogue	ピピン…やってくれるな？
 MAP93_e10_p1_314	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_315	Map093.json	0	dialogue	…いや、本当にいいのか…？
 MAP93_e10_p1_316	Map093.json	0	dialogue	だって、俺は………
 MAP93_e10_p1_320	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_321	Map093.json	0	dialogue	…！！
 MAP93_e10_p1_326	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_327	Map093.json	0	dialogue	ウィン…
 MAP93_e10_p1_329	Map093.json	0	dialogue	ウィンダム王：
@@ -12363,6 +12759,7 @@ MAP93_e10_p1_330	Map093.json	0	dialogue	騎士団長ピピン！！　継承者�
 MAP93_e10_p1_331	Map093.json	0	dialogue	ふたりでこれからも我がウィンダム王国を
 MAP93_e10_p1_332	Map093.json	0	dialogue	支えてくれ！！
 MAP93_e10_p1_338	Map093.json	0	dialogue	ウィン：
+MAP93_e10_p1_339	Map093.json	0	dialogue	…！！
 MAP93_e10_p1_342	Map093.json	0	dialogue	　　　　　　　　ウィンは大きく頷いた！！
 MAP93_e10_p1_344	Map093.json	0	dialogue	ピピン：
 MAP93_e10_p1_345	Map093.json	0	dialogue	…どうしてお前は…
@@ -12487,6 +12884,7 @@ MAP101_e6_p0_20	Map101.json	0	dialogue	ナガレ：
 MAP101_e6_p0_21	Map101.json	0	dialogue	え…？
 MAP101_e6_p0_23	Map101.json	0	dialogue	…そうなのか？
 MAP101_e6_p0_25	Map101.json	0	dialogue	ウィン：
+MAP101_e6_p0_26	Map101.json	0	dialogue	…。
 MAP101_e6_p0_29	Map101.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP101_e6_p0_31	Map101.json	0	dialogue	ナガレ：
 MAP101_e6_p0_32	Map101.json	0	dialogue	あ、そう…　べ、便利だな…
@@ -12500,6 +12898,7 @@ MAP101_e6_p1_20	Map101.json	0	dialogue	ナガレ：
 MAP101_e6_p1_21	Map101.json	0	dialogue	え…？
 MAP101_e6_p1_23	Map101.json	0	dialogue	…そうなのか？
 MAP101_e6_p1_25	Map101.json	0	dialogue	ウィン：
+MAP101_e6_p1_26	Map101.json	0	dialogue	…。
 MAP101_e6_p1_29	Map101.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた
 MAP101_e6_p1_31	Map101.json	0	dialogue	ナガレ：
 MAP101_e6_p1_32	Map101.json	0	dialogue	あ、そう…　べ、便利だな…
@@ -12639,6 +13038,7 @@ TROOP9_p0_4	Troops.json	0	dialogue	ピピン：
 TROOP9_p0_5	Troops.json	0	dialogue	どうもいままでの魔物とは様子が違う…
 TROOP9_p0_6	Troops.json	0	dialogue	ウィン、気を引き締めろよ！
 TROOP9_p0_8	Troops.json	0	dialogue	ウィン：
+TROOP9_p0_9	Troops.json	0	dialogue	…！
 TROOP14_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP14_p0_2	Troops.json	0	dialogue	くそ…二人で勝ったんじゃ、試練を果たした
 TROOP14_p0_3	Troops.json	0	dialogue	ことにならなそうだなあ…
@@ -12655,6 +13055,7 @@ TROOP14_p1_1	Troops.json	0	dialogue	ホノオ：
 TROOP14_p1_2	Troops.json	0	dialogue	なんか左手の紋章が光りまくってる…
 TROOP14_p1_3	Troops.json	0	dialogue	いかにも魔法とか使えそうな感じだぜ！
 TROOP14_p1_5	Troops.json	0	dialogue	ウィン：
+TROOP14_p1_6	Troops.json	0	dialogue	………。
 TROOP14_p1_9	Troops.json	0	dialogue	　　　　ウィンの紋章もみどり色に輝いている！
 TROOP14_p2_1	Troops.json	0	dialogue	ホノオ：
 TROOP14_p2_2	Troops.json	0	dialogue	この鎧のオッサンは意外とすばやいうえに…
@@ -12664,6 +13065,7 @@ TROOP14_p2_6	Troops.json	0	dialogue	ちっともこっちの番にならねー�
 TROOP14_p2_8	Troops.json	0	dialogue	ホノオ：
 TROOP14_p2_9	Troops.json	0	dialogue	だけどオマエの…　オマエ…
 TROOP14_p2_11	Troops.json	0	dialogue	ウィン：
+TROOP14_p2_12	Troops.json	0	dialogue	…。
 TROOP14_p2_15	Troops.json	0	dialogue	　　　　　　　ウィンはホノオに名前を教えた
 TROOP14_p2_17	Troops.json	0	dialogue	ホノオ：
 TROOP14_p2_18	Troops.json	0	dialogue	オーケー！　ウィンて言うんだな！
@@ -12673,7 +13075,9 @@ TROOP14_p2_22	Troops.json	0	dialogue	ウィンのそのハヤテの魔法を使�
 TROOP14_p2_23	Troops.json	0	dialogue	アイツよりも先に動ける…
 TROOP14_p2_24	Troops.json	0	dialogue	つまり…　コレは勝てるぜーーー！！
 TROOP14_p2_26	Troops.json	0	dialogue	ナウ―：
+TROOP14_p2_27	Troops.json	0	dialogue	………。
 TROOP14_p3_1	Troops.json	0	dialogue	ナウ―：
+TROOP14_p3_2	Troops.json	0	dialogue	………！
 TROOP14_p3_4	Troops.json	0	dialogue	ホノオ：
 TROOP14_p3_5	Troops.json	0	dialogue	おっ？　もしかして…　いけるか！？
 TROOP16_p0_1	Troops.json	0	dialogue	ホノオ：
@@ -12743,6 +13147,7 @@ TROOP35_p3_6	Troops.json	0	dialogue	龍はオレらと戦う気がなさそう�
 TROOP35_p3_8	Troops.json	0	dialogue	ナガレ：
 TROOP35_p3_9	Troops.json	0	dialogue	どういうことだ…。
 TROOP35_p3_11	Troops.json	0	dialogue	ウィン：
+TROOP35_p3_12	Troops.json	0	dialogue	…。
 TROOP35_p4_1	Troops.json	0	dialogue	ミケーネ：
 TROOP35_p4_2	Troops.json	0	dialogue	はいストップ！ストーー―――ップ！
 TROOP35_p4_4	Troops.json	0	dialogue	タイムです！タイム！！
@@ -12801,26 +13206,32 @@ TROOP36_p2_39	Troops.json	0	dialogue	バー――――――カ！！
 TROOP41_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP41_p0_2	Troops.json	0	dialogue	オレが成長していないと思うなよ…ナウ―！！
 TROOP41_p0_4	Troops.json	0	dialogue	ナウー：
+TROOP41_p0_5	Troops.json	0	dialogue	………。
 TROOP41_p1_1	Troops.json	0	dialogue	ホノオ：
 TROOP41_p1_2	Troops.json	0	dialogue	ずっとイメージしていたぜ…
 TROOP41_p1_3	Troops.json	0	dialogue	アンタの攻撃パターンをよーーーー
 TROOP41_p1_5	Troops.json	0	dialogue	ナウ―：
+TROOP41_p1_6	Troops.json	0	dialogue	………。
 TROOP41_p1_8	Troops.json	0	dialogue	ホノオ：
 TROOP41_p1_9	Troops.json	0	dialogue	オレはアンタにぜってー勝つ！！
 TROOP41_p1_10	Troops.json	0	dialogue	遠慮はいらねえ！　本気で来やがれーー！！
 TROOP41_p2_1	Troops.json	0	dialogue	ナウ―：
+TROOP41_p2_2	Troops.json	0	dialogue	…………。
 TROOP41_p2_4	Troops.json	0	dialogue	ホノオ：
 TROOP41_p2_5	Troops.json	0	dialogue	焦ってるみてーだな、ナウ―！
 TROOP41_p2_7	Troops.json	0	dialogue	ナウ―：
+TROOP41_p2_8	Troops.json	0	dialogue	…………。
 TROOP41_p2_10	Troops.json	0	dialogue	ホノオ：
 TROOP41_p2_11	Troops.json	0	dialogue	へへ！　いや、わかんねーわ…
 TROOP41_p3_1	Troops.json	0	dialogue	ナウ―：
+TROOP41_p3_2	Troops.json	0	dialogue	………！
 TROOP41_p3_4	Troops.json	0	dialogue	ホノオ：
 TROOP41_p3_5	Troops.json	0	dialogue	いける…！　集中しろ、オレ…！！
 TROOP42_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP42_p0_2	Troops.json	0	dialogue	お前がその紋章の力でどこまでやれるのか…
 TROOP42_p0_3	Troops.json	0	dialogue	ウィン、見せてみろよ。
 TROOP42_p0_5	Troops.json	0	dialogue	ウィン：
+TROOP42_p0_6	Troops.json	0	dialogue	………。
 TROOP42_p0_9	Troops.json	0	dialogue	　　　　　　ウィンは頷いて、武器を構えた
 TROOP42_p1_1	Troops.json	0	dialogue	ピピン：
 TROOP42_p1_2	Troops.json	0	dialogue	なるほどな…　お前の紋章の力も、
@@ -12830,6 +13241,7 @@ TROOP42_p1_6	Troops.json	0	dialogue	ウィン、そのハヤテの魔法を俺�
 TROOP42_p1_7	Troops.json	0	dialogue	俺が常に先手を取ることが出来れば…
 TROOP42_p1_8	Troops.json	0	dialogue	この敵は単なるザコだ！
 TROOP42_p1_10	Troops.json	0	dialogue	ウィン：
+TROOP42_p1_11	Troops.json	0	dialogue	…！
 TROOP42_p1_14	Troops.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 TROOP42_p2_1	Troops.json	0	dialogue	ピピン：
 TROOP42_p2_2	Troops.json	0	dialogue	ウィン、お前もその素早さを活かして、
@@ -12838,6 +13250,7 @@ TROOP42_p2_5	Troops.json	0	dialogue	ピピン：
 TROOP42_p2_6	Troops.json	0	dialogue	お前の紋章はサポート向きだ。
 TROOP42_p2_7	Troops.json	0	dialogue	…分かるか？
 TROOP42_p2_9	Troops.json	0	dialogue	ウィン：
+TROOP42_p2_10	Troops.json	0	dialogue	…。
 TROOP42_p2_12	Troops.json	0	dialogue	ピピン：
 TROOP42_p2_13	Troops.json	0	dialogue	フン…　その目、一応分かってるみたいだな。
 TROOP43_p0_1	Troops.json	0	dialogue	サクソン：
@@ -12854,6 +13267,7 @@ TROOP43_p1_6	Troops.json	0	dialogue	そんな俺が、貴様のような新米�
 TROOP43_p1_7	Troops.json	0	dialogue	すべてを奪われた…
 TROOP43_p1_8	Troops.json	0	dialogue	その理由を、貴様は答えられるのか！？
 TROOP43_p1_10	Troops.json	0	dialogue	ウィン：
+TROOP43_p1_11	Troops.json	0	dialogue	………。
 TROOP43_p1_14	Troops.json	0	dialogue	　　　　　　　　ウィンは首を横に振った！
 TROOP43_p2_1	Troops.json	0	dialogue	ロイ：
 TROOP43_p2_2	Troops.json	0	dialogue	ウィン！
@@ -12863,6 +13277,7 @@ TROOP43_p2_6	Troops.json	0	dialogue	ピピンの攻撃と言えども、
 TROOP43_p2_7	Troops.json	0	dialogue	避け続けることができるはずだ！
 TROOP43_p2_8	Troops.json	0	dialogue	避け続けろ！　ウィン！
 TROOP43_p2_10	Troops.json	0	dialogue	ウィン：
+TROOP43_p2_11	Troops.json	0	dialogue	…！
 TROOP43_p2_16	Troops.json	0	dialogue	　　　　　　　ウィンは左手を高くかかげた！
 TROOP43_p2_17	Troops.json	0	dialogue	　　ハヤテの魔法が発動！　ウィンの回避力がアップした！
 TROOP43_p3_1	Troops.json	0	dialogue	ピピン：
@@ -12871,6 +13286,7 @@ TROOP43_p3_4	Troops.json	0	dialogue	ピピン：
 TROOP43_p3_5	Troops.json	0	dialogue	…俺から奪ったその力で、俺の攻撃をすべて
 TROOP43_p3_6	Troops.json	0	dialogue	避け続けようと言うんだな…　ウィン！！
 TROOP43_p3_8	Troops.json	0	dialogue	ウィン：
+TROOP43_p3_9	Troops.json	0	dialogue	…！
 TROOP43_p4_1	Troops.json	0	dialogue	ピピン：
 TROOP43_p4_2	Troops.json	0	dialogue	ふざけているのか！　ウィン！！
 TROOP43_p4_4	Troops.json	0	dialogue	サクソン：
@@ -12880,6 +13296,7 @@ TROOP43_p4_7	Troops.json	0	dialogue	ダメージを与えられぬではない�
 TROOP43_p4_9	Troops.json	0	dialogue	ロイ：
 TROOP43_p4_10	Troops.json	0	dialogue	ウィン…　手を抜いているのか…？
 TROOP43_p4_12	Troops.json	0	dialogue	ウィン：
+TROOP43_p4_13	Troops.json	0	dialogue	………！
 TROOP43_p5_1	Troops.json	0	dialogue	ピピン：
 TROOP43_p5_2	Troops.json	0	dialogue	俺を憐れむのか…ウィン……！！
 TROOP43_p5_4	Troops.json	0	dialogue	ピピン：
@@ -12888,6 +13305,7 @@ TROOP43_p5_7	Troops.json	0	dialogue	ピピン：
 TROOP43_p5_8	Troops.json	0	dialogue	余計に情けなく…！　みじめになるだけだと…
 TROOP43_p5_9	Troops.json	0	dialogue	わからないか！！　ウィン！！！
 TROOP43_p5_11	Troops.json	0	dialogue	ウィン：
+TROOP43_p5_12	Troops.json	0	dialogue	………。
 TROOP43_p5_15	Troops.json	0	dialogue	　　　　　　ウィンは気合をこめて斬りかかった！
 TROOP43_p5_18	Troops.json	0	dialogue	　　　　　　　　　…しかし力がはいらない
 TROOP43_p5_20	Troops.json	0	dialogue	ロイ：
@@ -12900,6 +13318,7 @@ TROOP43_p5_27	Troops.json	0	dialogue	それが許せないんだよ…
 TROOP43_p5_29	Troops.json	0	dialogue	ピピン：
 TROOP43_p5_30	Troops.json	0	dialogue	俺を憐れむなと言っているだろうがああ！！！
 TROOP43_p5_32	Troops.json	0	dialogue	ウィン：
+TROOP43_p5_33	Troops.json	0	dialogue	………！
 TROOP43_p5_35	Troops.json	0	dialogue	ウィンダム王：
 TROOP43_p5_36	Troops.json	0	dialogue	もうよい！　ピピンを殺せ！
 TROOP43_p5_37	Troops.json	0	dialogue	ウィンにできないのであれば…　我が斬る！！
@@ -12922,6 +13341,7 @@ TROOP43_p6_11	Troops.json	0	dialogue	ピピン：
 TROOP43_p6_12	Troops.json	0	dialogue	…違う　俺はこんなこと望んじゃいない…
 TROOP43_p6_13	Troops.json	0	dialogue	ウィン、俺はこんなことをしたくはない…
 TROOP43_p6_15	Troops.json	0	dialogue	ウィン：
+TROOP43_p6_16	Troops.json	0	dialogue	…！
 TROOP43_p6_18	Troops.json	0	dialogue	ロイ：
 TROOP43_p6_19	Troops.json	0	dialogue	術が…　解けだしたのか…！？
 TROOP43_p6_22	Troops.json	0	dialogue	ピピン：
@@ -12937,6 +13357,7 @@ TROOP43_p7_11	Troops.json	0	dialogue	ピピン：
 TROOP43_p7_12	Troops.json	0	dialogue	俺は死を…選ぶ…！！
 TROOP43_p7_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
 TROOP43_p7_20	Troops.json	0	dialogue	ウィン：
+TROOP43_p7_21	Troops.json	0	dialogue	………！
 TROOP43_p7_23	Troops.json	0	dialogue	サクソン：
 TROOP43_p7_24	Troops.json	0	dialogue	なに！？
 TROOP43_p7_26	Troops.json	0	dialogue	ロイ：
@@ -12950,8 +13371,10 @@ TROOP43_p8_7	Troops.json	0	dialogue	術と戦っているのか…　ピピン�
 TROOP43_p8_9	Troops.json	0	dialogue	ピピン：
 TROOP43_p8_10	Troops.json	0	dialogue	ぐああ…！！
 TROOP43_p8_12	Troops.json	0	dialogue	ウィン：
+TROOP43_p8_13	Troops.json	0	dialogue	………！
 TROOP43_p8_19	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
 TROOP43_p8_21	Troops.json	0	dialogue	ウィン：
+TROOP43_p8_22	Troops.json	0	dialogue	………！！
 TROOP43_p8_24	Troops.json	0	dialogue	サクソン：
 TROOP43_p8_25	Troops.json	0	dialogue	自分の身体を切り刻むことで…
 TROOP43_p8_26	Troops.json	0	dialogue	術を…　術に操られた自分を封じようと
@@ -12964,8 +13387,10 @@ TROOP43_p9_7	Troops.json	0	dialogue	ピピン：
 TROOP43_p9_8	Troops.json	0	dialogue	そろそろ…　お前らでも…
 TROOP43_p9_9	Troops.json	0	dialogue	俺にトドメを刺せるだろう…
 TROOP43_p9_11	Troops.json	0	dialogue	ウィン：
+TROOP43_p9_12	Troops.json	0	dialogue	………！
 TROOP43_p9_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
 TROOP43_p9_20	Troops.json	0	dialogue	ウィン：
+TROOP43_p9_21	Troops.json	0	dialogue	………！！
 TROOP43_p9_23	Troops.json	0	dialogue	サクソン：
 TROOP43_p9_24	Troops.json	0	dialogue	ピピン…　なんという高潔な男…！！
 TROOP43_p9_26	Troops.json	0	dialogue	ロイ：
@@ -13009,6 +13434,7 @@ TROOP75_p1_5	Troops.json	0	dialogue	ナガレ：
 TROOP75_p1_6	Troops.json	0	dialogue	あたしらも紋章の力ですっかり異形のものに
 TROOP75_p1_7	Troops.json	0	dialogue	なっちまった気がするな…
 TROOP75_p1_9	Troops.json	0	dialogue	ウィン：
+TROOP75_p1_10	Troops.json	0	dialogue	…。
 TROOP78_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP78_p0_2	Troops.json	0	dialogue	四天王最強の…　大魔道士…　だったよな？
 TROOP78_p0_3	Troops.json	0	dialogue	ってことは当然、めちゃ強い魔法を使ってくる
@@ -13163,6 +13589,7 @@ TROOP80_p0_7	Troops.json	0	dialogue	いいんだぜ、使ってくれて。
 TROOP80_p0_9	Troops.json	0	dialogue	ホノオ：
 TROOP80_p0_10	Troops.json	0	dialogue	オレの方はバンバン使ってくからよー！！
 TROOP80_p0_12	Troops.json	0	dialogue	ナウー：
+TROOP80_p0_13	Troops.json	0	dialogue	……。
 TROOP80_p1_1	Troops.json	0	dialogue	ホノオ：
 TROOP80_p1_2	Troops.json	0	dialogue	…なんだよ？
 TROOP80_p1_3	Troops.json	0	dialogue	確かにデカくなって…
@@ -13175,11 +13602,13 @@ TROOP80_p1_11	Troops.json	0	dialogue	それともオレが強くなり過ぎて�
 TROOP80_p1_12	Troops.json	0	dialogue	本気のアンタの圧倒的パワーすら
 TROOP80_p1_13	Troops.json	0	dialogue	怖くなくなっちまったってことかー？
 TROOP80_p1_15	Troops.json	0	dialogue	ナウー：
+TROOP80_p1_16	Troops.json	0	dialogue	…。
 TROOP80_p2_1	Troops.json	0	dialogue	ホノオ：
 TROOP80_p2_2	Troops.json	0	dialogue	だーかーらー…
 TROOP80_p2_3	Troops.json	0	dialogue	前と同じパターンの攻撃ばっかじゃ、
 TROOP80_p2_4	Troops.json	0	dialogue	いくらパワーがあっても通用しねーぜ！！
 TROOP80_p2_6	Troops.json	0	dialogue	ナウー：
+TROOP80_p2_7	Troops.json	0	dialogue	…。
 TROOP80_p2_9	Troops.json	0	dialogue	ホノオ：
 TROOP80_p2_10	Troops.json	0	dialogue	どっちなんだよ、本当は魔法があるのかよ！！
 TROOP80_p2_11	Troops.json	0	dialogue	少しは喋ってくれーーーーー！！
@@ -13207,6 +13636,7 @@ TROOP80_p3_30	Troops.json	0	dialogue	………コクリ
 TROOP80_p4_1	Troops.json	0	dialogue	ホノオ：
 TROOP80_p4_2	Troops.json	0	dialogue	…今のは効いたはず…！！
 TROOP80_p4_4	Troops.json	0	dialogue	ナウー：
+TROOP80_p4_5	Troops.json	0	dialogue	……。
 TROOP80_p4_14	Troops.json	0	dialogue	　　　　　　ナウーは不思議な構えを取った！
 TROOP80_p4_17	Troops.json	0	dialogue	　　　　　　ナウーの反撃確率がアップした！
 TROOP80_p4_18	Troops.json	0	dialogue	　　　　　　ナウーのぼうぎょ力がアップした！
@@ -13241,6 +13671,7 @@ TROOP82_p0_6	Troops.json	0	dialogue	ピピン：
 TROOP82_p0_7	Troops.json	0	dialogue	気を引き締めつつも、チャンスと見れば
 TROOP82_p0_8	Troops.json	0	dialogue	一気に攻めるぞ！！
 TROOP82_p0_10	Troops.json	0	dialogue	ウィン：
+TROOP82_p0_11	Troops.json	0	dialogue	…！
 TROOP82_p0_14	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 TROOP82_p1_1	Troops.json	0	dialogue	魔王ダフィール：
 TROOP82_p1_2	Troops.json	0	dialogue	赤いのがジャマだ…
@@ -13292,6 +13723,7 @@ TROOP82_p4_31	Troops.json	0	dialogue	魔王ダフィール：
 TROOP82_p4_32	Troops.json	0	dialogue	もうどうなってもいい…
 TROOP82_p4_33	Troops.json	0	dialogue	オマエらだけは絶対にぶっ殺す…！！！！
 TROOP82_p4_35	Troops.json	0	dialogue	ピピン：
+TROOP82_p4_36	Troops.json	0	dialogue	…！！
 TROOP82_p4_37	Troops.json	0	dialogue	まずい！！　ウィン離れろ！！
 TROOP83_p0_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p0_2	Troops.json	0	dialogue	グググダダダハハハハーーッ……！！！
@@ -13307,6 +13739,7 @@ TROOP83_p0_15	Troops.json	0	dialogue	ピピン：
 TROOP83_p0_16	Troops.json	0	dialogue	ウィン！　立て直すぞ！！
 TROOP83_p0_17	Troops.json	0	dialogue	魔法、アイテム…使い尽くすつもりで行け！
 TROOP83_p0_19	Troops.json	0	dialogue	ウィン：
+TROOP83_p0_20	Troops.json	0	dialogue	…！
 TROOP83_p0_23	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 TROOP83_p1_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p1_2	Troops.json	0	dialogue	うう…おおオオオォォー…！！！！
@@ -13353,7 +13786,9 @@ TROOP83_p3_19	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p3_20	Troops.json	0	dialogue	ググガガガ…ガガアアァァーッ！！！！
 TROOP83_p3_21	Troops.json	0	dialogue	オマエも黙れえええェェェーーッ…！！！！
 TROOP83_p4_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p4_2	Troops.json	0	dialogue	………………。
 TROOP83_p4_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p4_5	Troops.json	0	dialogue	………………。
 TROOP83_p4_7	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p4_8	Troops.json	0	dialogue	なんでいまボクは黙ったァァ……！！
 TROOP83_p4_9	Troops.json	0	dialogue	オマエだな……ヌヌアアアウウゥゥゥー…！！
@@ -13389,6 +13824,7 @@ TROOP83_p5_23	Troops.json	0	dialogue	クッ…！！
 TROOP83_p5_24	Troops.json	0	dialogue	なんだ…気圧される…！！
 TROOP83_p5_25	Troops.json	0	dialogue	ウィン…これがあのピ何とかの力なのか…！？
 TROOP83_p5_27	Troops.json	0	dialogue	ウィン：
+TROOP83_p5_28	Troops.json	0	dialogue	………！！
 TROOP83_p5_30	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p5_31	Troops.json	0	dialogue	逆らうな…　逆らってはならんンンのだぁ…
 TROOP83_p5_32	Troops.json	0	dialogue	闇の力の奔流からからァァ……！！！！
@@ -13402,6 +13838,7 @@ TROOP83_p5_42	Troops.json	0	dialogue	ピピン：
 TROOP83_p5_43	Troops.json	0	dialogue	どうもこの辺りからが本番らしい…
 TROOP83_p5_44	Troops.json	0	dialogue	ウィン、死ぬなよ！！
 TROOP83_p5_46	Troops.json	0	dialogue	ウィン：
+TROOP83_p5_47	Troops.json	0	dialogue	………！！
 TROOP83_p5_50	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 TROOP83_p6_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p6_2	Troops.json	0	dialogue	ググルルううおおおあああぁぁぁぁ……！！
@@ -13411,6 +13848,7 @@ TROOP83_p6_6	Troops.json	0	dialogue	ピピン：
 TROOP83_p6_7	Troops.json	0	dialogue	…ウィン、俺にちょっとした考えがある。
 TROOP83_p6_8	Troops.json	0	dialogue	お前の魔法と俺のスキルを組み合わせた攻撃だ
 TROOP83_p6_10	Troops.json	0	dialogue	ウィン：
+TROOP83_p6_11	Troops.json	0	dialogue	…？
 TROOP83_p6_13	Troops.json	0	dialogue	ピピン：
 TROOP83_p6_14	Troops.json	0	dialogue	いまの奴にはスキが殆どないから、
 TROOP83_p6_15	Troops.json	0	dialogue	大ダメージを与えるのが難しい…
@@ -13422,6 +13860,7 @@ TROOP83_p6_22	Troops.json	0	dialogue	ピピン：
 TROOP83_p6_23	Troops.json	0	dialogue	うまくいけば、奴のぼうぎょと素早さを同時に
 TROOP83_p6_24	Troops.json	0	dialogue	ダウンさせることができるだろう…どうだ？
 TROOP83_p6_26	Troops.json	0	dialogue	ウィン：
+TROOP83_p6_27	Troops.json	0	dialogue	…！
 TROOP83_p6_32	Troops.json	0	dialogue	　　　　　ウィンとピピンはカマカゼを編み出した！
 TROOP83_p7_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p7_2	Troops.json	0	dialogue	己をぉぉ…滅っせぇぇェェ…
@@ -13431,6 +13870,7 @@ TROOP83_p7_6	Troops.json	0	dialogue	ピピン：
 TROOP83_p7_7	Troops.json	0	dialogue	ウィン…お前のイカヅチを俺の剣に落とす技を
 TROOP83_p7_8	Troops.json	0	dialogue	考えていたんだが…
 TROOP83_p7_10	Troops.json	0	dialogue	ウィン：
+TROOP83_p7_11	Troops.json	0	dialogue	…！？
 TROOP83_p7_13	Troops.json	0	dialogue	ピピン：
 TROOP83_p7_14	Troops.json	0	dialogue	普通にやったんじゃうまくいかない。
 TROOP83_p7_15	Troops.json	0	dialogue	俺が丸焦げになるか、よくても雷の力が
@@ -13447,6 +13887,7 @@ TROOP83_p7_28	Troops.json	0	dialogue	ピピン：
 TROOP83_p7_29	Troops.json	0	dialogue	どちらかがタイミングをミスれば、
 TROOP83_p7_30	Troops.json	0	dialogue	俺は丸焦げになるが…、どうだ、やれるか？
 TROOP83_p7_32	Troops.json	0	dialogue	ウィン：
+TROOP83_p7_33	Troops.json	0	dialogue	…！
 TROOP83_p7_36	Troops.json	0	dialogue	　　　　　ウィンとピピンはイヅナを編み出した！！
 TROOP83_p8_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p8_2	Troops.json	0	dialogue	恐れるかァァ…怯えるかァァ……！！！！
@@ -13470,6 +13911,7 @@ TROOP83_p8_24	Troops.json	0	dialogue	ピピン：
 TROOP83_p8_25	Troops.json	0	dialogue	不意を突いて俺がアイツを水浸しにする…
 TROOP83_p8_26	Troops.json	0	dialogue	そこにお前のイカヅチを落とせ。
 TROOP83_p8_28	Troops.json	0	dialogue	ウィン：
+TROOP83_p8_29	Troops.json	0	dialogue	…！？
 TROOP83_p8_31	Troops.json	0	dialogue	ピピン：
 TROOP83_p8_32	Troops.json	0	dialogue	辺り一面水浸しだ、逃れる術はない…。
 TROOP83_p8_33	Troops.json	0	dialogue	しかも雷のパワーは地面に分散せず、
@@ -13492,9 +13934,11 @@ TROOP83_p9_18	Troops.json	0	dialogue	ピピン：
 TROOP83_p9_19	Troops.json	0	dialogue	真の意味での闇との一体化…大魔王化には…
 TROOP83_p9_20	Troops.json	0	dialogue	アイツの自我がジャマなようだ。
 TROOP83_p9_22	Troops.json	0	dialogue	ウィン：
+TROOP83_p9_23	Troops.json	0	dialogue	………。
 TROOP83_p9_25	Troops.json	0	dialogue	ピピン：
 TROOP83_p9_26	Troops.json	0	dialogue	…ちょびっとだけ、哀れだな、アイツ。
 TROOP83_p9_28	Troops.json	0	dialogue	ウィン：
+TROOP83_p9_29	Troops.json	0	dialogue	………。
 TROOP83_p10_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p10_2	Troops.json	0	dialogue	ウウゥゥ…グガガアァァァーー…ッ！！！！
 TROOP83_p10_4	Troops.json	0	dialogue	大魔王ダフィール：
@@ -13567,6 +14011,7 @@ TROOP83_p11_26	Troops.json	0	dialogue	……ッ
 TROOP84_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP84_p0_2	Troops.json	0	dialogue	なんだこいつ…　変身…したのか…！？
 TROOP84_p0_4	Troops.json	0	dialogue	ウィン：
+TROOP84_p0_5	Troops.json	0	dialogue	…！！
 TROOP84_p0_7	Troops.json	0	dialogue	ピケピケ：
 TROOP84_p0_8	Troops.json	0	dialogue	ふうううううんんんむううぅぅ……
 TROOP84_p0_10	Troops.json	0	dialogue	ピケピケ：
@@ -13575,6 +14020,7 @@ TROOP84_p0_12	Troops.json	0	dialogue	私は忙しいので10ターンだけ遊�
 TROOP84_p0_14	Troops.json	0	dialogue	ピピン：
 TROOP84_p0_15	Troops.json	0	dialogue	…ふざけやがって　ウィン、行くぞ！
 TROOP84_p0_17	Troops.json	0	dialogue	ウィン：
+TROOP84_p0_18	Troops.json	0	dialogue	…！
 TROOP84_p0_21	Troops.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 TROOP84_p1_1	Troops.json	0	dialogue	ピケピケ：
 TROOP84_p1_2	Troops.json	0	dialogue	私は魔法使いなのでーーーー
@@ -13592,6 +14038,7 @@ TROOP84_p2_5	Troops.json	0	dialogue	ピピン：
 TROOP84_p2_6	Troops.json	0	dialogue	ウィン…　
 TROOP84_p2_7	Troops.json	0	dialogue	10ターン以内にこいつを倒せると思うか…？
 TROOP84_p2_9	Troops.json	0	dialogue	ウィン：
+TROOP84_p2_10	Troops.json	0	dialogue	…。
 TROOP84_p3_1	Troops.json	0	dialogue	ピケピケ：
 TROOP84_p3_2	Troops.json	0	dialogue	あ…　ごめん…　ちょっと厳しい…
 TROOP84_p3_3	Troops.json	0	dialogue	魔法使っていいかなああああああ！！！？？
@@ -13606,6 +14053,7 @@ TROOP93_p0_5	Troops.json	0	dialogue	ピピン：
 TROOP93_p0_6	Troops.json	0	dialogue	どうもいままでの魔物とは様子が違う…
 TROOP93_p0_7	Troops.json	0	dialogue	ウィン、気を引き締めろよ！
 TROOP93_p0_9	Troops.json	0	dialogue	ウィン：
+TROOP93_p0_10	Troops.json	0	dialogue	…！
 TROOP94_p0_1	Troops.json	0	dialogue	ジャクリーン：
 TROOP94_p0_2	Troops.json	0	dialogue	フゥううゥゥぉぉおおおおおあああッ！！
 TROOP95_p0_1	Troops.json	0	dialogue	ホノオ：
@@ -13624,6 +14072,7 @@ TROOP95_p1_1	Troops.json	0	dialogue	ホノオ：
 TROOP95_p1_2	Troops.json	0	dialogue	なんか左手の紋章が光りまくってる…
 TROOP95_p1_3	Troops.json	0	dialogue	いかにも魔法とか使えそうな感じだぜ！
 TROOP95_p1_5	Troops.json	0	dialogue	ウィン：
+TROOP95_p1_6	Troops.json	0	dialogue	………。
 TROOP95_p1_9	Troops.json	0	dialogue	　　　　ウィンの紋章もみどり色に輝いている！
 TROOP95_p2_1	Troops.json	0	dialogue	ホノオ：
 TROOP95_p2_2	Troops.json	0	dialogue	この鎧のオッサンは意外とすばやいうえに…
@@ -13633,6 +14082,7 @@ TROOP95_p2_6	Troops.json	0	dialogue	ちっともこっちの番にならねー�
 TROOP95_p2_8	Troops.json	0	dialogue	ホノオ：
 TROOP95_p2_9	Troops.json	0	dialogue	だけどオマエの…　オマエ…
 TROOP95_p2_11	Troops.json	0	dialogue	ウィン：
+TROOP95_p2_12	Troops.json	0	dialogue	…。
 TROOP95_p2_15	Troops.json	0	dialogue	　　　　　　　ウィンはホノオに名前を教えた
 TROOP95_p2_17	Troops.json	0	dialogue	ホノオ：
 TROOP95_p2_18	Troops.json	0	dialogue	オーケー！　ウィンて言うんだな！
@@ -13642,7 +14092,9 @@ TROOP95_p2_22	Troops.json	0	dialogue	ウィンのそのハヤテの魔法を使�
 TROOP95_p2_23	Troops.json	0	dialogue	アイツよりも先に動ける…
 TROOP95_p2_24	Troops.json	0	dialogue	つまり…　コレは勝てるぜーーー！！
 TROOP95_p2_26	Troops.json	0	dialogue	ナウ―：
+TROOP95_p2_27	Troops.json	0	dialogue	………。
 TROOP95_p3_1	Troops.json	0	dialogue	ナウー：
+TROOP95_p3_2	Troops.json	0	dialogue	…………。
 TROOP95_p3_11	Troops.json	0	dialogue	　　　　　　ナウーは不思議な構えを取った！
 TROOP95_p3_14	Troops.json	0	dialogue	　　　　　　ナウーの反撃確率がアップした！
 TROOP95_p3_15	Troops.json	0	dialogue	　　　　　　ナウーのぼうぎょ力がアップした！
@@ -13650,6 +14102,7 @@ TROOP95_p3_17	Troops.json	0	dialogue	ホノオ：
 TROOP95_p3_18	Troops.json	0	dialogue	うお！？　なんだソレ…？
 TROOP95_p3_19	Troops.json	0	dialogue	ま、まあ大丈夫だろ…！！
 TROOP95_p4_1	Troops.json	0	dialogue	ナウ―：
+TROOP95_p4_2	Troops.json	0	dialogue	………！
 TROOP95_p4_4	Troops.json	0	dialogue	ホノオ：
 TROOP95_p4_5	Troops.json	0	dialogue	おっ？　もしかして…　いけるか！？
 TROOP102_p0_1	Troops.json	0	dialogue	ホノオ：
@@ -13734,6 +14187,7 @@ TROOP107_p0_5	Troops.json	0	dialogue	ミケーネ：
 TROOP107_p0_6	Troops.json	0	dialogue	いつもみたいに手を抜かなくてもいいはずよ。
 TROOP107_p0_7	Troops.json	0	dialogue	二対二なんだし、条件もフェアでしょう？
 TROOP107_p0_9	Troops.json	0	dialogue	ナウー：
+TROOP107_p0_10	Troops.json	0	dialogue	………。
 TROOP107_p0_12	Troops.json	0	dialogue	ホノオ：
 TROOP107_p0_13	Troops.json	0	dialogue	…手を抜いている？　マジか…
 TROOP107_p0_15	Troops.json	0	dialogue	ナガレ：
@@ -13746,6 +14200,7 @@ TROOP107_p1_6	Troops.json	0	dialogue	時間がかかり過ぎたわ。
 TROOP107_p1_7	Troops.json	0	dialogue	これ以上はただの消耗戦…
 TROOP107_p1_8	Troops.json	0	dialogue	帰るわよ、ナウー！
 TROOP107_p1_10	Troops.json	0	dialogue	ナウー：
+TROOP107_p1_11	Troops.json	0	dialogue	………。
 TROOP107_p1_13	Troops.json	0	dialogue	ホノオ：
 TROOP107_p1_14	Troops.json	0	dialogue	ま、待て！！
 TROOP107_p1_15	Troops.json	0	dialogue	まだこれからってときに…逃げんじゃねー！！
@@ -13783,6 +14238,7 @@ TROOP108_p0_21	Troops.json	0	dialogue	ピピン：
 TROOP108_p0_22	Troops.json	0	dialogue	これといって対策も思いつかんが…
 TROOP108_p0_23	Troops.json	0	dialogue	とりあえず早めに回復をしながら戦うぞ…。
 TROOP108_p0_25	Troops.json	0	dialogue	ウィン：
+TROOP108_p0_26	Troops.json	0	dialogue	…！
 TROOP108_p0_29	Troops.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた！
 TROOP108_p1_1	Troops.json	0	dialogue	ダフィール：
 TROOP108_p1_2	Troops.json	0	dialogue	………おかしいなーーー
@@ -13798,6 +14254,7 @@ TROOP108_p1_14	Troops.json	0	dialogue	ダフィール：
 TROOP108_p1_15	Troops.json	0	dialogue	いやいやいやいやー
 TROOP108_p1_16	Troops.json	0	dialogue	金髪の子は明らかにヤケドだらけだよー？
 TROOP108_p1_18	Troops.json	0	dialogue	ウィン：
+TROOP108_p1_19	Troops.json	0	dialogue	………。
 TROOP108_p1_21	Troops.json	0	dialogue	ダフィール：
 TROOP108_p1_22	Troops.json	0	dialogue	なんでーーー？
 TROOP108_p1_23	Troops.json	0	dialogue	赤い服着てるからとか言うなよー？
@@ -13806,6 +14263,7 @@ TROOP108_p1_26	Troops.json	0	dialogue	ピピン：
 TROOP108_p1_27	Troops.json	0	dialogue	…本当にそうなのか…？
 TROOP108_p1_28	Troops.json	0	dialogue	ウィン、お前から見ても…？
 TROOP108_p1_30	Troops.json	0	dialogue	ウィン：
+TROOP108_p1_31	Troops.json	0	dialogue	……。
 TROOP108_p1_33	Troops.json	0	dialogue	ピピン：
 TROOP108_p1_34	Troops.json	0	dialogue	まあ…、なんでもいいさ。
 TROOP108_p1_35	Troops.json	0	dialogue	これで、お前に勝つ見込みもあると分かった…
@@ -13843,6 +14301,7 @@ TROOP109_p1_6	Troops.json	0	dialogue	そんな俺が、貴様のような新米�
 TROOP109_p1_7	Troops.json	0	dialogue	すべてを奪われた…
 TROOP109_p1_8	Troops.json	0	dialogue	その理由を、貴様は答えられるのか！？
 TROOP109_p1_10	Troops.json	0	dialogue	ウィン：
+TROOP109_p1_11	Troops.json	0	dialogue	………。
 TROOP109_p1_14	Troops.json	0	dialogue	　　　　　　　　ウィンは首を横に振った！
 TROOP109_p2_1	Troops.json	0	dialogue	ロイ：
 TROOP109_p2_2	Troops.json	0	dialogue	ウィン！
@@ -13852,6 +14311,7 @@ TROOP109_p2_6	Troops.json	0	dialogue	ピピンの攻撃と言えども、
 TROOP109_p2_7	Troops.json	0	dialogue	避け続けることができるはずだ！
 TROOP109_p2_8	Troops.json	0	dialogue	避け続けろ！　ウィン！
 TROOP109_p2_10	Troops.json	0	dialogue	ウィン：
+TROOP109_p2_11	Troops.json	0	dialogue	…！
 TROOP109_p2_16	Troops.json	0	dialogue	　　　　　　　ウィンは左手を高くかかげた！
 TROOP109_p2_17	Troops.json	0	dialogue	　　ハヤテの魔法が発動！　ウィンの回避力がアップした！
 TROOP109_p3_1	Troops.json	0	dialogue	ピピン：
@@ -13860,6 +14320,7 @@ TROOP109_p3_4	Troops.json	0	dialogue	ピピン：
 TROOP109_p3_5	Troops.json	0	dialogue	…俺から奪ったその力で、俺の攻撃をすべて
 TROOP109_p3_6	Troops.json	0	dialogue	避け続けようと言うんだな…　ウィン！！
 TROOP109_p3_8	Troops.json	0	dialogue	ウィン：
+TROOP109_p3_9	Troops.json	0	dialogue	…！
 TROOP109_p4_1	Troops.json	0	dialogue	ピピン：
 TROOP109_p4_2	Troops.json	0	dialogue	ふざけているのか！　ウィン！！
 TROOP109_p4_4	Troops.json	0	dialogue	サクソン：
@@ -13869,6 +14330,7 @@ TROOP109_p4_7	Troops.json	0	dialogue	ダメージを与えられぬではない�
 TROOP109_p4_9	Troops.json	0	dialogue	ロイ：
 TROOP109_p4_10	Troops.json	0	dialogue	ウィン…　手を抜いているのか…？
 TROOP109_p4_12	Troops.json	0	dialogue	ウィン：
+TROOP109_p4_13	Troops.json	0	dialogue	………！
 TROOP109_p5_1	Troops.json	0	dialogue	ピピン：
 TROOP109_p5_2	Troops.json	0	dialogue	俺を憐れむというのか…ウィン……！！
 TROOP109_p5_4	Troops.json	0	dialogue	ピピン：
@@ -13877,6 +14339,7 @@ TROOP109_p5_7	Troops.json	0	dialogue	ピピン：
 TROOP109_p5_8	Troops.json	0	dialogue	余計に情けなく…！　みじめになるだけだと…
 TROOP109_p5_9	Troops.json	0	dialogue	わからないか！！　ウィン！！！
 TROOP109_p5_11	Troops.json	0	dialogue	ウィン：
+TROOP109_p5_12	Troops.json	0	dialogue	………。
 TROOP109_p5_15	Troops.json	0	dialogue	　　　　　　ウィンは気合をこめて斬りかかった！
 TROOP109_p5_18	Troops.json	0	dialogue	　　　　　　　　　…しかし力がはいらない
 TROOP109_p5_20	Troops.json	0	dialogue	ロイ：
@@ -13889,6 +14352,7 @@ TROOP109_p5_27	Troops.json	0	dialogue	それが許せないんだよ…
 TROOP109_p5_29	Troops.json	0	dialogue	ピピン：
 TROOP109_p5_30	Troops.json	0	dialogue	俺を憐れむなと言っているだろうがああ！！！
 TROOP109_p5_32	Troops.json	0	dialogue	ウィン：
+TROOP109_p5_33	Troops.json	0	dialogue	………！
 TROOP109_p5_35	Troops.json	0	dialogue	ウィンダム王：
 TROOP109_p5_36	Troops.json	0	dialogue	もうよい！　ピピンを殺せ！
 TROOP109_p5_37	Troops.json	0	dialogue	ウィンにできないのであれば…　我が斬る！！
@@ -13911,6 +14375,7 @@ TROOP109_p6_11	Troops.json	0	dialogue	ピピン：
 TROOP109_p6_12	Troops.json	0	dialogue	…違う　俺はこんなこと望んじゃいない…
 TROOP109_p6_13	Troops.json	0	dialogue	ウィン、俺はこんなことをしたくはない…
 TROOP109_p6_15	Troops.json	0	dialogue	ウィン：
+TROOP109_p6_16	Troops.json	0	dialogue	…！
 TROOP109_p6_18	Troops.json	0	dialogue	ロイ：
 TROOP109_p6_19	Troops.json	0	dialogue	術が…　解けだしたのか…！？
 TROOP109_p6_22	Troops.json	0	dialogue	ピピン：
@@ -13926,6 +14391,7 @@ TROOP109_p7_11	Troops.json	0	dialogue	ピピン：
 TROOP109_p7_12	Troops.json	0	dialogue	俺は死を…選ぶ…！！
 TROOP109_p7_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
 TROOP109_p7_20	Troops.json	0	dialogue	ウィン：
+TROOP109_p7_21	Troops.json	0	dialogue	………！
 TROOP109_p7_23	Troops.json	0	dialogue	サクソン：
 TROOP109_p7_24	Troops.json	0	dialogue	なに！？
 TROOP109_p7_26	Troops.json	0	dialogue	ロイ：
@@ -13939,8 +14405,10 @@ TROOP109_p8_7	Troops.json	0	dialogue	術と戦っているのか…　ピピン�
 TROOP109_p8_9	Troops.json	0	dialogue	ピピン：
 TROOP109_p8_10	Troops.json	0	dialogue	ぐああ…！！
 TROOP109_p8_12	Troops.json	0	dialogue	ウィン：
+TROOP109_p8_13	Troops.json	0	dialogue	………！
 TROOP109_p8_19	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
 TROOP109_p8_21	Troops.json	0	dialogue	ウィン：
+TROOP109_p8_22	Troops.json	0	dialogue	………！！
 TROOP109_p8_24	Troops.json	0	dialogue	サクソン：
 TROOP109_p8_25	Troops.json	0	dialogue	自分の身体を切り刻むことで…
 TROOP109_p8_26	Troops.json	0	dialogue	術を…　術に操られた自分を封じようと
@@ -13953,8 +14421,10 @@ TROOP109_p9_7	Troops.json	0	dialogue	ピピン：
 TROOP109_p9_8	Troops.json	0	dialogue	そろそろ…　お前らでも…
 TROOP109_p9_9	Troops.json	0	dialogue	俺にトドメを刺せるだろう…
 TROOP109_p9_11	Troops.json	0	dialogue	ウィン：
+TROOP109_p9_12	Troops.json	0	dialogue	………！
 TROOP109_p9_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
 TROOP109_p9_20	Troops.json	0	dialogue	ウィン：
+TROOP109_p9_21	Troops.json	0	dialogue	………！！
 TROOP109_p9_23	Troops.json	0	dialogue	サクソン：
 TROOP109_p9_24	Troops.json	0	dialogue	ピピン…　なんという高潔な男…！！
 TROOP109_p9_26	Troops.json	0	dialogue	ロイ：
@@ -13964,6 +14434,7 @@ TROOP109_p9_29	Troops.json	0	dialogue	それ以上の自傷は必要ない！！
 TROOP109_p9_31	Troops.json	0	dialogue	ピピン：
 TROOP109_p9_32	Troops.json	0	dialogue	……うるさいッ！！
 TROOP109_p9_34	Troops.json	0	dialogue	ウィン：
+TROOP109_p9_35	Troops.json	0	dialogue	…！！
 TROOP110_p0_1	Troops.json	0	dialogue	ナガレ：
 TROOP110_p0_2	Troops.json	0	dialogue	気持ちわりいっ！！　なんだよこれ……っ！？
 TROOP110_p0_4	Troops.json	0	dialogue	ホノオ：
@@ -13997,6 +14468,7 @@ TROOP111_p1_5	Troops.json	0	dialogue	ナガレ：
 TROOP111_p1_6	Troops.json	0	dialogue	あたしらも紋章の力ですっかり異形のものに
 TROOP111_p1_7	Troops.json	0	dialogue	なっちまった気がするな…
 TROOP111_p1_9	Troops.json	0	dialogue	ウィン：
+TROOP111_p1_10	Troops.json	0	dialogue	…。
 TROOP135_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP135_p0_2	Troops.json	0	dialogue	四天王最強の…　大魔道士…　だったよな？
 TROOP135_p0_3	Troops.json	0	dialogue	ってことは当然、めちゃ強い魔法を使ってくる
@@ -14152,6 +14624,7 @@ TROOP137_p0_7	Troops.json	0	dialogue	いいんだぜ、使ってくれて。
 TROOP137_p0_9	Troops.json	0	dialogue	ホノオ：
 TROOP137_p0_10	Troops.json	0	dialogue	オレの方はバンバン使ってくからよー！！
 TROOP137_p0_12	Troops.json	0	dialogue	ナウー：
+TROOP137_p0_13	Troops.json	0	dialogue	……。
 TROOP137_p1_1	Troops.json	0	dialogue	ホノオ：
 TROOP137_p1_2	Troops.json	0	dialogue	…なんだよ？
 TROOP137_p1_3	Troops.json	0	dialogue	確かにデカくなって…
@@ -14164,11 +14637,13 @@ TROOP137_p1_11	Troops.json	0	dialogue	それともオレが強くなり過ぎて
 TROOP137_p1_12	Troops.json	0	dialogue	本気のアンタの圧倒的パワーすら
 TROOP137_p1_13	Troops.json	0	dialogue	怖くなくなっちまったってことかー？
 TROOP137_p1_15	Troops.json	0	dialogue	ナウー：
+TROOP137_p1_16	Troops.json	0	dialogue	…。
 TROOP137_p2_1	Troops.json	0	dialogue	ホノオ：
 TROOP137_p2_2	Troops.json	0	dialogue	だーかーらー…
 TROOP137_p2_3	Troops.json	0	dialogue	前と同じパターンの攻撃ばっかじゃ、
 TROOP137_p2_4	Troops.json	0	dialogue	いくらパワーがあっても通用しねーぜ！！
 TROOP137_p2_6	Troops.json	0	dialogue	ナウー：
+TROOP137_p2_7	Troops.json	0	dialogue	…。
 TROOP137_p2_9	Troops.json	0	dialogue	ホノオ：
 TROOP137_p2_10	Troops.json	0	dialogue	どっちなんだよ、本当は魔法があるのかよ！！
 TROOP137_p2_11	Troops.json	0	dialogue	少しは喋ってくれーーーーー！！
@@ -14196,6 +14671,7 @@ TROOP137_p3_30	Troops.json	0	dialogue	………コクリ
 TROOP137_p4_1	Troops.json	0	dialogue	ホノオ：
 TROOP137_p4_2	Troops.json	0	dialogue	…今のは効いたはず…！！
 TROOP137_p4_4	Troops.json	0	dialogue	ナウー：
+TROOP137_p4_5	Troops.json	0	dialogue	……。
 TROOP137_p4_14	Troops.json	0	dialogue	　　　　　　ナウーは不思議な構えを取った！
 TROOP137_p4_17	Troops.json	0	dialogue	　　　　　　ナウーの反撃確率がアップした！
 TROOP137_p4_18	Troops.json	0	dialogue	　　　　　　ナウーのぼうぎょ力がアップした！
@@ -14230,6 +14706,7 @@ TROOP139_p0_6	Troops.json	0	dialogue	ピピン：
 TROOP139_p0_7	Troops.json	0	dialogue	気を引き締めつつも、チャンスと見れば
 TROOP139_p0_8	Troops.json	0	dialogue	一気に攻めるぞ！！
 TROOP139_p0_10	Troops.json	0	dialogue	ウィン：
+TROOP139_p0_11	Troops.json	0	dialogue	…！
 TROOP139_p0_14	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 TROOP139_p1_1	Troops.json	0	dialogue	魔王ダフィール：
 TROOP139_p1_2	Troops.json	0	dialogue	赤いのがジャマだ…
@@ -14282,6 +14759,7 @@ TROOP139_p4_31	Troops.json	0	dialogue	魔王ダフィール：
 TROOP139_p4_32	Troops.json	0	dialogue	もうどうなってもいい…
 TROOP139_p4_33	Troops.json	0	dialogue	オマエらだけは絶対にぶっ殺す…！！！！
 TROOP139_p4_35	Troops.json	0	dialogue	ピピン：
+TROOP139_p4_36	Troops.json	0	dialogue	…！！
 TROOP139_p4_37	Troops.json	0	dialogue	まずい！！　ウィン離れろ！！
 TROOP140_p0_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p0_2	Troops.json	0	dialogue	グググダダダハハハハーーッ……！！！
@@ -14297,6 +14775,7 @@ TROOP140_p0_15	Troops.json	0	dialogue	ピピン：
 TROOP140_p0_16	Troops.json	0	dialogue	ウィン！　立て直すぞ！！
 TROOP140_p0_17	Troops.json	0	dialogue	魔法、アイテム…使い尽くすつもりで行け！
 TROOP140_p0_19	Troops.json	0	dialogue	ウィン：
+TROOP140_p0_20	Troops.json	0	dialogue	…！
 TROOP140_p0_23	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 TROOP140_p1_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p1_2	Troops.json	0	dialogue	うう…おおオオオォォー…！！！！
@@ -14343,6 +14822,7 @@ TROOP140_p3_19	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p3_20	Troops.json	0	dialogue	ググガガガ…ガガアアァァーッ！！！！
 TROOP140_p3_21	Troops.json	0	dialogue	オマエも黙れえええェェェーーッ…！！！！
 TROOP140_p4_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p4_2	Troops.json	0	dialogue	………………。
 TROOP140_p4_4	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p4_5	Troops.json	0	dialogue	なんでいまボクは黙ったァァ……！！
 TROOP140_p4_6	Troops.json	0	dialogue	オマエだな……ヌヌアアアウウゥゥゥー…！！
@@ -14378,6 +14858,7 @@ TROOP140_p5_23	Troops.json	0	dialogue	クッ…！！
 TROOP140_p5_24	Troops.json	0	dialogue	なんだ…気圧される…！！
 TROOP140_p5_25	Troops.json	0	dialogue	ウィン…これがあのピ何とかの力なのか…！？
 TROOP140_p5_27	Troops.json	0	dialogue	ウィン：
+TROOP140_p5_28	Troops.json	0	dialogue	………！！
 TROOP140_p5_30	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p5_31	Troops.json	0	dialogue	逆らうな…　逆らってはならんンンのだぁ…
 TROOP140_p5_32	Troops.json	0	dialogue	闇の力の奔流からからァァ……！！！！
@@ -14391,6 +14872,7 @@ TROOP140_p5_42	Troops.json	0	dialogue	ピピン：
 TROOP140_p5_43	Troops.json	0	dialogue	どうもこの辺りからが本番らしい…
 TROOP140_p5_44	Troops.json	0	dialogue	ウィン、死ぬなよ！！
 TROOP140_p5_46	Troops.json	0	dialogue	ウィン：
+TROOP140_p5_47	Troops.json	0	dialogue	………！！
 TROOP140_p5_50	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
 TROOP140_p6_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p6_2	Troops.json	0	dialogue	ググルルううおおおあああぁぁぁぁ……！！
@@ -14400,6 +14882,7 @@ TROOP140_p6_6	Troops.json	0	dialogue	ピピン：
 TROOP140_p6_7	Troops.json	0	dialogue	…ウィン、俺にちょっとした考えがある。
 TROOP140_p6_8	Troops.json	0	dialogue	お前の魔法と俺のスキルを組み合わせた攻撃だ
 TROOP140_p6_10	Troops.json	0	dialogue	ウィン：
+TROOP140_p6_11	Troops.json	0	dialogue	…？
 TROOP140_p6_13	Troops.json	0	dialogue	ピピン：
 TROOP140_p6_14	Troops.json	0	dialogue	いまの奴にはスキが殆どないから、
 TROOP140_p6_15	Troops.json	0	dialogue	大ダメージを与えるのが難しい…
@@ -14411,6 +14894,7 @@ TROOP140_p6_22	Troops.json	0	dialogue	ピピン：
 TROOP140_p6_23	Troops.json	0	dialogue	うまくいけば、奴のぼうぎょと素早さを同時に
 TROOP140_p6_24	Troops.json	0	dialogue	ダウンさせることができるだろう…どうだ？
 TROOP140_p6_26	Troops.json	0	dialogue	ウィン：
+TROOP140_p6_27	Troops.json	0	dialogue	…！
 TROOP140_p6_32	Troops.json	0	dialogue	　　　　　ウィンとピピンはカマカゼを編み出した！
 TROOP140_p7_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p7_2	Troops.json	0	dialogue	己をぉぉ…滅っせぇぇェェ…
@@ -14420,6 +14904,7 @@ TROOP140_p7_6	Troops.json	0	dialogue	ピピン：
 TROOP140_p7_7	Troops.json	0	dialogue	ウィン…お前のイカヅチを俺の剣に落とす技を
 TROOP140_p7_8	Troops.json	0	dialogue	考えていたんだが…
 TROOP140_p7_10	Troops.json	0	dialogue	ウィン：
+TROOP140_p7_11	Troops.json	0	dialogue	…！？
 TROOP140_p7_13	Troops.json	0	dialogue	ピピン：
 TROOP140_p7_14	Troops.json	0	dialogue	普通にやったんじゃうまくいかない。
 TROOP140_p7_15	Troops.json	0	dialogue	俺が丸焦げになるか、よくても雷の力が
@@ -14436,6 +14921,7 @@ TROOP140_p7_28	Troops.json	0	dialogue	ピピン：
 TROOP140_p7_29	Troops.json	0	dialogue	どちらかがタイミングをミスれば、
 TROOP140_p7_30	Troops.json	0	dialogue	俺は丸焦げになるが…、どうだ、やれるか？
 TROOP140_p7_32	Troops.json	0	dialogue	ウィン：
+TROOP140_p7_33	Troops.json	0	dialogue	…！
 TROOP140_p7_36	Troops.json	0	dialogue	　　　　　ウィンとピピンはイヅナを編み出した！！
 TROOP140_p8_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p8_2	Troops.json	0	dialogue	恐れるかァァ…怯えるかァァ……！！！！
@@ -14459,6 +14945,7 @@ TROOP140_p8_24	Troops.json	0	dialogue	ピピン：
 TROOP140_p8_25	Troops.json	0	dialogue	不意を突いて俺がアイツを水浸しにする…
 TROOP140_p8_26	Troops.json	0	dialogue	そこにお前のイカヅチを落とせ。
 TROOP140_p8_28	Troops.json	0	dialogue	ウィン：
+TROOP140_p8_29	Troops.json	0	dialogue	…！？
 TROOP140_p8_31	Troops.json	0	dialogue	ピピン：
 TROOP140_p8_32	Troops.json	0	dialogue	辺り一面水浸しだ、逃れる術はない…。
 TROOP140_p8_33	Troops.json	0	dialogue	しかも雷のパワーは地面に分散せず、
@@ -14481,9 +14968,11 @@ TROOP140_p9_18	Troops.json	0	dialogue	ピピン：
 TROOP140_p9_19	Troops.json	0	dialogue	真の意味での闇との一体化…大魔王化には…
 TROOP140_p9_20	Troops.json	0	dialogue	アイツの自我がジャマなようだ。
 TROOP140_p9_22	Troops.json	0	dialogue	ウィン：
+TROOP140_p9_23	Troops.json	0	dialogue	………。
 TROOP140_p9_25	Troops.json	0	dialogue	ピピン：
 TROOP140_p9_26	Troops.json	0	dialogue	…ちょびっとだけ、哀れだな、アイツ。
 TROOP140_p9_28	Troops.json	0	dialogue	ウィン：
+TROOP140_p9_29	Troops.json	0	dialogue	………。
 TROOP140_p10_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p10_2	Troops.json	0	dialogue	ウウゥゥ…グガガアァァァーー…ッ！！！！
 TROOP140_p10_4	Troops.json	0	dialogue	大魔王ダフィール：
@@ -14531,6 +15020,7 @@ TROOP140_p10_58	Troops.json	0	dialogue	好きで四天王になった奴なん�
 TROOP140_p10_60	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p10_61	Troops.json	0	dialogue	いないンだよォォオオーー…ッ！！！！！
 TROOP140_p10_63	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_64	Troops.json	0	dialogue	………。
 TROOP140_p11_1	Troops.json	0	dialogue	ピピン：
 TROOP140_p11_2	Troops.json	0	dialogue	お前にも兄がいたらしい…
 TROOP140_p11_3	Troops.json	0	dialogue	しかも以前は人間だったとはな…
@@ -14595,6 +15085,7 @@ TROOP142_p2_9	Troops.json	0	dialogue	ピピン
 TROOP142_p2_10	Troops.json	0	dialogue	「…ふん
 TROOP142_p2_11	Troops.json	0	dialogue	　俺の方が強い。
 TROOP142_p2_13	Troops.json	0	dialogue	ウィン
+TROOP142_p2_14	Troops.json	0	dialogue	「…！
 TROOP142_p2_17	Troops.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
 TROOP142_p3_1	Troops.json	0	dialogue	バンデッド
 TROOP142_p3_2	Troops.json	0	dialogue	「クッ…！！

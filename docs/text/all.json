@@ -188,6 +188,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP4_e10_p1_9": {
+  "file": "Map004.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP4_e11_p1_1": {
   "file": "Map004.json",
   "context": "0",
@@ -228,6 +235,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP4_e11_p1_9": {
+  "file": "Map004.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP4_e15_p0_1": {
@@ -272,6 +286,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP4_e17_p0_2": {
+  "file": "Map004.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP4_e17_p0_5": {
   "file": "Map004.json",
   "context": "0",
@@ -300,6 +321,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP4_e18_p0_2": {
+  "file": "Map004.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP4_e18_p0_5": {
   "file": "Map004.json",
   "context": "0",
@@ -312,6 +340,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP4_e24_p0_2": {
+  "file": "Map004.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP4_e24_p0_5": {
@@ -375,6 +410,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP4_e26_p1_11": {
+  "file": "Map004.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP5_displayName": {
@@ -3744,6 +3786,13 @@
   "japanese": "いつもお手数をおかけしますが、ご確認ください。",
   "translation": null
  },
+ "MAP7_e11_p0_11": {
+  "file": "Map007.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…",
+  "translation": null
+ },
  "MAP7_e11_p0_12": {
   "file": "Map007.json",
   "context": "1",
@@ -4505,6 +4554,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP7_e22_p0_7": {
+  "file": "Map007.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP7_e22_p0_8_c0": {
@@ -5373,6 +5429,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィンダム王：",
+  "translation": null
+ },
+ "MAP8_e4_p2_87": {
+  "file": "Map008.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP8_e4_p2_89": {
@@ -7559,6 +7622,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP8_e20_p0_17": {
+  "file": "Map008.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP8_e20_p0_19": {
   "file": "Map008.json",
   "context": "0",
@@ -7753,6 +7823,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP8_e20_p1_28": {
+  "file": "Map008.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP8_e20_p1_30": {
@@ -8327,6 +8404,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP9_e10_p0_21": {
+  "file": "Map009.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP9_e10_p1_1": {
@@ -10471,6 +10555,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP17_e14_p0_5": {
+  "file": "Map017.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP17_e14_p0_8": {
   "file": "Map017.json",
   "context": "0",
@@ -12368,11 +12459,25 @@
   "japanese": "ロイ：",
   "translation": null
  },
+ "MAP21_e13_p1_2": {
+  "file": "Map021.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP21_e13_p2_2": {
   "file": "Map021.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ロイ：",
+  "translation": null
+ },
+ "MAP21_e13_p2_3": {
+  "file": "Map021.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP21_e13_p2_8": {
@@ -12669,6 +12774,13 @@
   "japanese": "ロイ：",
   "translation": null
  },
+ "MAP21_e13_p3_10": {
+  "file": "Map021.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP21_e13_p3_12": {
   "file": "Map021.json",
   "context": "0",
@@ -12800,6 +12912,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ロイ：",
+  "translation": null
+ },
+ "MAP21_e13_p4_10": {
+  "file": "Map021.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP21_e13_p4_12": {
@@ -13992,6 +14111,13 @@
   "japanese": "読まない",
   "translation": null
  },
+ "MAP21_e14_p0_6": {
+  "file": "Map021.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP21_e14_p0_8": {
   "file": "Map021.json",
   "context": "1",
@@ -14207,6 +14333,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP21_e17_p1_25": {
+  "file": "Map021.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP21_e17_p1_28": {
@@ -14480,6 +14613,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ロイ：",
+  "translation": null
+ },
+ "MAP21_e17_p1_85": {
+  "file": "Map021.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP21_e17_p1_87": {
@@ -15042,6 +15182,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP22_e6_p0_13": {
+  "file": "Map022.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP22_e6_p0_15": {
   "file": "Map022.json",
   "context": "0",
@@ -15117,6 +15264,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP22_e6_p0_28": {
+  "file": "Map022.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP22_e6_p0_31": {
@@ -15336,6 +15490,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP22_e6_p0_94": {
+  "file": "Map022.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP22_e6_p0_97": {
   "file": "Map022.json",
   "context": "1",
@@ -15397,6 +15558,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP22_e6_p1_14": {
+  "file": "Map022.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP22_e6_p1_17": {
@@ -16162,6 +16330,13 @@
   "japanese": "ありがとう騎士さま！！",
   "translation": null
  },
+ "MAP26_e20_p0_28": {
+  "file": "Map026.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP26_e20_p1_1": {
   "file": "Map026.json",
   "context": "0",
@@ -16337,6 +16512,13 @@
   "japanese": "ピケピケ初見",
   "translation": null
  },
+ "MAP27_e2_p0_4": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP27_e2_p0_5": {
   "file": "Map027.json",
   "context": "0",
@@ -16356,6 +16538,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ほんの少しだが、確かに増しているようだなあ。",
+  "translation": null
+ },
+ "MAP27_e2_p0_9": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP27_e2_p0_10": {
@@ -16393,6 +16582,13 @@
   "japanese": "…おいっ！",
   "translation": null
  },
+ "MAP27_e2_p0_21": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP27_e2_p0_22": {
   "file": "Map027.json",
   "context": "0",
@@ -16421,6 +16617,13 @@
   "japanese": "何者だ？答えろ！",
   "translation": null
  },
+ "MAP27_e2_p0_30": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP27_e2_p0_31": {
   "file": "Map027.json",
   "context": "0",
@@ -16433,6 +16636,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "あー　忌まわしき風の紋章の継承者が…",
+  "translation": null
+ },
+ "MAP27_e2_p0_34": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP27_e2_p0_35": {
@@ -16468,6 +16678,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "しかしその姿、ガイコツか…　魔物か？",
+  "translation": null
+ },
+ "MAP27_e2_p0_42": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP27_e2_p0_43": {
@@ -16715,6 +16932,13 @@
   "japanese": "その減らず口、いますぐ…　　なに…！？",
   "translation": null
  },
+ "MAP27_e2_p1_4": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP27_e2_p1_5": {
   "file": "Map027.json",
   "context": "0",
@@ -16734,6 +16958,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ほんの少しだが、確かに増しているようだなあ。",
+  "translation": null
+ },
+ "MAP27_e2_p1_9": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP27_e2_p1_10": {
@@ -16771,6 +17002,13 @@
   "japanese": "…おいっ！",
   "translation": null
  },
+ "MAP27_e2_p1_21": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP27_e2_p1_22": {
   "file": "Map027.json",
   "context": "0",
@@ -16799,6 +17037,13 @@
   "japanese": "何者だ？答えろ！",
   "translation": null
  },
+ "MAP27_e2_p1_30": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP27_e2_p1_31": {
   "file": "Map027.json",
   "context": "0",
@@ -16811,6 +17056,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "あー　忌まわしき風の紋章の継承者が…",
+  "translation": null
+ },
+ "MAP27_e2_p1_34": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP27_e2_p1_35": {
@@ -16846,6 +17098,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "しかしその姿、ガイコツか…　魔物か？",
+  "translation": null
+ },
+ "MAP27_e2_p1_42": {
+  "file": "Map027.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP27_e2_p1_43": {
@@ -18962,11 +19221,25 @@
   "japanese": "王宮の職人キスパ：",
   "translation": null
  },
+ "MAP32_e44_p0_2": {
+  "file": "Map032.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP32_e44_p0_4": {
   "file": "Map032.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP32_e44_p0_5": {
+  "file": "Map032.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP32_e44_p0_10": {
@@ -18976,11 +19249,25 @@
   "japanese": "王宮の職人キスパ：",
   "translation": null
  },
+ "MAP32_e44_p0_11": {
+  "file": "Map032.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP32_e44_p0_13": {
   "file": "Map032.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP32_e44_p0_14": {
+  "file": "Map032.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP32_e44_p0_16": {
@@ -19613,6 +19900,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP33_e4_p1_35": {
+  "file": "Map033.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP33_e4_p1_37": {
   "file": "Map033.json",
   "context": "1",
@@ -19809,6 +20103,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP33_e4_p2_32": {
+  "file": "Map033.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP33_e4_p2_34": {
   "file": "Map033.json",
   "context": "1",
@@ -19835,6 +20136,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ナガレ：",
+  "translation": null
+ },
+ "MAP33_e4_p2_39": {
+  "file": "Map033.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP33_e4_p2_41": {
@@ -20355,6 +20663,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP33_e7_p0_6": {
+  "file": "Map033.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP33_e7_p0_9": {
   "file": "Map033.json",
   "context": "0",
@@ -20591,6 +20906,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "フレイム王：",
+  "translation": null
+ },
+ "MAP33_e7_p2_18": {
+  "file": "Map033.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP33_e7_p2_20": {
@@ -22392,6 +22714,13 @@
   "japanese": "ホムラ？：",
   "translation": null
  },
+ "MAP33_e19_p1_5": {
+  "file": "Map033.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "MAP33_e19_p2_2": {
   "file": "Map033.json",
   "context": "0",
@@ -22432,6 +22761,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP33_e19_p2_11": {
+  "file": "Map033.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
   "translation": null
  },
  "MAP33_e19_p2_13": {
@@ -23965,6 +24301,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィンダム王：",
+  "translation": null
+ },
+ "MAP37_e4_p2_87": {
+  "file": "Map037.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP37_e4_p2_89": {
@@ -26494,6 +26837,13 @@
   "japanese": "サクソン：",
   "translation": null
  },
+ "MAP40_e44_p1_25": {
+  "file": "Map040.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP40_e44_p1_29": {
   "file": "Map040.json",
   "context": "0",
@@ -26522,6 +26872,13 @@
   "japanese": "サクソン：",
   "translation": null
  },
+ "MAP40_e44_p1_34": {
+  "file": "Map040.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP40_e44_p1_36": {
   "file": "Map040.json",
   "context": "0",
@@ -26548,6 +26905,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "サクソン：",
+  "translation": null
+ },
+ "MAP40_e44_p1_41": {
+  "file": "Map040.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP40_e44_p1_47": {
@@ -26772,6 +27136,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ロイ：",
+  "translation": null
+ },
+ "MAP41_e22_p0_3": {
+  "file": "Map041.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP41_e22_p0_5": {
@@ -27262,6 +27633,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP42_e10_p0_7": {
+  "file": "Map042.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP42_e10_p0_9": {
@@ -28433,6 +28811,20 @@
   "japanese": "くそーーー　つえーーー！！",
   "translation": null
  },
+ "MAP49_e2_p0_7": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
+ "MAP49_e2_p0_8": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………………。",
+  "translation": null
+ },
  "MAP49_e2_p0_10": {
   "file": "Map049.json",
   "context": "0",
@@ -28452,6 +28844,20 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "なんかそういうことを言っている顔だな…",
+  "translation": null
+ },
+ "MAP49_e2_p0_14": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
+ "MAP49_e2_p0_15": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………………？",
   "translation": null
  },
  "MAP49_e2_p0_17": {
@@ -28480,6 +28886,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "まだまだ諦めねえぜ…！！",
+  "translation": null
+ },
+ "MAP49_e2_p0_22": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e2_p0_23": {
@@ -28522,6 +28935,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "コレ絶対に無理だ…　オレは勝てない…",
+  "translation": null
+ },
+ "MAP49_e2_p0_46": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e2_p0_47": {
@@ -28699,6 +29119,13 @@
   "japanese": "何だかさっきまでのオレとは違う感じだぜ！",
   "translation": null
  },
+ "MAP49_e2_p0_122": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e2_p0_123": {
   "file": "Map049.json",
   "context": "1",
@@ -28748,6 +29175,13 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "MAP49_e2_p0_146": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "MAP49_e2_p0_148": {
   "file": "Map049.json",
   "context": "1",
@@ -28767,6 +29201,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP49_e2_p0_152": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…………。",
   "translation": null
  },
  "MAP49_e2_p0_154": {
@@ -28874,6 +29315,20 @@
   "japanese": "くそーーー　つえーーー！！",
   "translation": null
  },
+ "MAP49_e2_p1_7": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
+ "MAP49_e2_p1_8": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………………。",
+  "translation": null
+ },
  "MAP49_e2_p1_10": {
   "file": "Map049.json",
   "context": "0",
@@ -28893,6 +29348,20 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "なんかそういうことを言っている顔だな…",
+  "translation": null
+ },
+ "MAP49_e2_p1_14": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
+ "MAP49_e2_p1_15": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………………？",
   "translation": null
  },
  "MAP49_e2_p1_17": {
@@ -28921,6 +29390,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "まだまだ諦めねえぜ…！！",
+  "translation": null
+ },
+ "MAP49_e2_p1_22": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e2_p1_23": {
@@ -28963,6 +29439,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "コレ絶対に無理だ…　オレは勝てない…",
+  "translation": null
+ },
+ "MAP49_e2_p1_48": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e2_p1_49": {
@@ -29140,6 +29623,13 @@
   "japanese": "何だかさっきまでのオレとは違う感じだぜ！",
   "translation": null
  },
+ "MAP49_e2_p1_124": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e2_p1_125": {
   "file": "Map049.json",
   "context": "1",
@@ -29189,6 +29679,13 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "MAP49_e2_p1_148": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "MAP49_e2_p1_150": {
   "file": "Map049.json",
   "context": "1",
@@ -29208,6 +29705,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP49_e2_p1_154": {
+  "file": "Map049.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…………。",
   "translation": null
  },
  "MAP49_e2_p1_156": {
@@ -29490,6 +29994,13 @@
   "japanese": "入り口",
   "translation": null
  },
+ "MAP49_e6_p1_1": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e6_p1_2": {
   "file": "Map049.json",
   "context": "0",
@@ -29602,6 +30113,13 @@
   "japanese": "試練ホノオ",
   "translation": null
  },
+ "MAP49_e8_p1_13": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e8_p1_14": {
   "file": "Map049.json",
   "context": "0",
@@ -29621,6 +30139,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "え…　そんな…　まさか…",
+  "translation": null
+ },
+ "MAP49_e8_p1_23": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e8_p1_24": {
@@ -29686,6 +30211,13 @@
   "japanese": "　　　　　なぜかウィンはまったく動けない！",
   "translation": null
  },
+ "MAP49_e9_p1_15": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p1_16": {
   "file": "Map049.json",
   "context": "0",
@@ -29726,6 +30258,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "試練てのは、死んだ人間と会うことなのか！？",
+  "translation": null
+ },
+ "MAP49_e9_p1_24": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p1_25": {
@@ -29777,6 +30316,13 @@
   "japanese": "さすがのオレでも全く想像してなかったぜ…",
   "translation": null
  },
+ "MAP49_e9_p1_34": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p1_35": {
   "file": "Map049.json",
   "context": "0",
@@ -29817,6 +30363,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "マジでホムラ兄貴っぽいんだ…",
+  "translation": null
+ },
+ "MAP49_e9_p1_43": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p1_44": {
@@ -29873,6 +30426,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "誰もが立派だと褒めるアニキみてえに…",
+  "translation": null
+ },
+ "MAP49_e9_p1_55": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p1_56": {
@@ -29938,6 +30498,13 @@
   "japanese": "楽しみだったんだよ…",
   "translation": null
  },
+ "MAP49_e9_p1_68": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p1_69": {
   "file": "Map049.json",
   "context": "0",
@@ -29994,6 +30561,13 @@
   "japanese": "結局、みじめになっただけだったぜ。",
   "translation": null
  },
+ "MAP49_e9_p1_80": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p1_81": {
   "file": "Map049.json",
   "context": "0",
@@ -30015,6 +30589,13 @@
   "japanese": "ああ…　オレはアニキになれねんだよ…",
   "translation": null
  },
+ "MAP49_e9_p2_5": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p2_6": {
   "file": "Map049.json",
   "context": "0",
@@ -30022,11 +30603,25 @@
   "japanese": "なあ、ホノオ。",
   "translation": null
  },
+ "MAP49_e9_p2_8": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p2_9": {
   "file": "Map049.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "僕が生き返ったらどうする？",
+  "translation": null
+ },
+ "MAP49_e9_p2_14": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p2_15": {
@@ -30057,11 +30652,25 @@
   "japanese": "一体どうやって？",
   "translation": null
  },
+ "MAP49_e9_p2_23": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p2_24": {
   "file": "Map049.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ホノオ、おまえのその火の紋章だ。",
+  "translation": null
+ },
+ "MAP49_e9_p2_29": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p2_30": {
@@ -30076,6 +30685,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ぼくは生き返る…。",
+  "translation": null
+ },
+ "MAP49_e9_p2_33": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p2_34": {
@@ -30106,6 +30722,13 @@
   "japanese": "…これが、試練てことか？",
   "translation": null
  },
+ "MAP49_e9_p2_40": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p2_41": {
   "file": "Map049.json",
   "context": "0",
@@ -30125,6 +30748,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ここでなら、死者に継承して復活させることができる",
+  "translation": null
+ },
+ "MAP49_e9_p2_45": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p2_46": {
@@ -30176,11 +30806,25 @@
   "japanese": "そう、それこそオレの望んだ未来だった…。",
   "translation": null
  },
+ "MAP49_e9_p3_15": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p3_16": {
   "file": "Map049.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "その未来が手に入るんだよ、ホノオ。",
+  "translation": null
+ },
+ "MAP49_e9_p3_21": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p3_22": {
@@ -30204,6 +30848,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP49_e9_p3_26": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "MAP49_e9_p3_29": {
   "file": "Map049.json",
   "context": "0",
@@ -30223,6 +30874,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "うっ…　　ううっ…",
+  "translation": null
+ },
+ "MAP49_e9_p3_35": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p3_36": {
@@ -30267,6 +30925,13 @@
   "japanese": "心から悲しんでるからだよーーー！！",
   "translation": null
  },
+ "MAP49_e9_p3_52": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP49_e9_p3_53": {
   "file": "Map049.json",
   "context": "0",
@@ -30293,6 +30958,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ホントにアニキかもって思ったのによー！！",
+  "translation": null
+ },
+ "MAP49_e9_p3_59": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP49_e9_p3_60": {
@@ -30533,6 +31205,13 @@
   "japanese": "ホノオ：",
   "translation": null
  },
+ "MAP49_e9_p4_23": {
+  "file": "Map049.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP49_e9_p4_33": {
   "file": "Map049.json",
   "context": "0",
@@ -30631,6 +31310,13 @@
   "japanese": "なんだあのデッカイ魔物はー！！",
   "translation": null
  },
+ "MAP50_e35_p0_15": {
+  "file": "Map050.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP50_e35_p0_16": {
   "file": "Map050.json",
   "context": "0",
@@ -30643,6 +31329,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "誰か来たぞ。",
+  "translation": null
+ },
+ "MAP50_e35_p0_19": {
+  "file": "Map050.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP50_e35_p0_20": {
@@ -30748,6 +31441,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP50_e35_p1_14": {
+  "file": "Map050.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP50_e35_p1_16": {
@@ -30930,6 +31630,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP50_e35_p1_63": {
+  "file": "Map050.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP50_e35_p1_65": {
@@ -31583,6 +32290,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP50_e35_p1_211": {
+  "file": "Map050.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "MAP50_e35_p1_213": {
   "file": "Map050.json",
   "context": "0",
@@ -31875,6 +32589,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP50_e35_p2_33": {
+  "file": "Map050.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP50_e35_p2_35": {
@@ -33921,6 +34642,13 @@
   "japanese": "オタキ様：",
   "translation": null
  },
+ "MAP55_e7_p2_24": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP55_e7_p2_25": {
   "file": "Map055.json",
   "context": "0",
@@ -34199,6 +34927,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP55_e7_p2_80": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP55_e7_p2_83": {
@@ -35286,6 +36021,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP55_e7_p2_293": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP55_e7_p2_296": {
   "file": "Map055.json",
   "context": "0",
@@ -35452,6 +36194,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP55_e7_p2_328": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP55_e7_p2_331": {
@@ -36056,6 +36805,13 @@
   "japanese": "ナガレがね…",
   "translation": null
  },
+ "MAP55_e12_p0_3": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP55_e12_p0_4": {
   "file": "Map055.json",
   "context": "0",
@@ -36159,6 +36915,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP55_e12_p0_30": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP55_e12_p0_33": {
@@ -36537,6 +37300,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP55_e12_p0_122": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP55_e12_p0_127": {
@@ -37897,6 +38667,13 @@
   "japanese": "ナガレ：",
   "translation": null
  },
+ "MAP55_e12_p0_481": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP55_e12_p0_483": {
   "file": "Map055.json",
   "context": "0",
@@ -37979,6 +38756,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP55_e12_p0_503": {
+  "file": "Map055.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP55_e12_p0_506": {
@@ -40795,11 +41579,25 @@
   "japanese": "ホノオ：",
   "translation": null
  },
+ "MAP58_e10_p2_56": {
+  "file": "Map058.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP58_e10_p2_58": {
   "file": "Map058.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP58_e10_p2_59": {
+  "file": "Map058.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP58_e10_p2_61": {
@@ -40849,6 +41647,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP58_e10_p2_71": {
+  "file": "Map058.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP58_e10_p2_74": {
@@ -41327,6 +42132,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP59_e6_p0_26": {
+  "file": "Map059.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP59_e6_p0_29": {
   "file": "Map059.json",
   "context": "0",
@@ -41416,6 +42228,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP59_e6_p1_26": {
+  "file": "Map059.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP59_e6_p1_29": {
@@ -41824,6 +42643,13 @@
   "japanese": "ミケーネ",
   "translation": null
  },
+ "MAP60_e6_p0_15": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP60_e6_p0_16": {
   "file": "Map060.json",
   "context": "0",
@@ -41843,6 +42669,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "いまこそ私の力となり、闇の復活を…",
+  "translation": null
+ },
+ "MAP60_e6_p0_24": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP60_e6_p0_25": {
@@ -41908,6 +42741,13 @@
   "japanese": "いる…！！",
   "translation": null
  },
+ "MAP60_e6_p0_40": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP60_e6_p0_41": {
   "file": "Map060.json",
   "context": "0",
@@ -41920,6 +42760,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "何千年もこの地の闇の力を司り…",
+  "translation": null
+ },
+ "MAP60_e6_p0_44": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP60_e6_p0_45": {
@@ -41957,11 +42804,25 @@
   "japanese": "龍！！！",
   "translation": null
  },
+ "MAP60_e6_p0_52": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP60_e6_p0_53": {
   "file": "Map060.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ええ、だからそう言っているんだけれど…",
+  "translation": null
+ },
+ "MAP60_e6_p0_55": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP60_e6_p0_56": {
@@ -42013,6 +42874,13 @@
   "japanese": "あ、誰かいる…。",
   "translation": null
  },
+ "MAP60_e6_p0_66": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP60_e6_p0_67": {
   "file": "Map060.json",
   "context": "0",
@@ -42046,6 +42914,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "…いや、だからオマエ誰だ？",
+  "translation": null
+ },
+ "MAP60_e6_p0_74": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP60_e6_p0_75": {
@@ -42881,6 +43756,13 @@
   "japanese": "ナガレ：",
   "translation": null
  },
+ "MAP60_e6_p0_261": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………",
+  "translation": null
+ },
  "MAP60_e6_p0_263": {
   "file": "Map060.json",
   "context": "0",
@@ -43427,6 +44309,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP60_e6_p1_91": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP60_e6_p1_94": {
   "file": "Map060.json",
   "context": "0",
@@ -43558,6 +44447,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナガレ：",
+  "translation": null
+ },
+ "MAP60_e6_p1_133": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP60_e6_p1_135": {
@@ -44197,6 +45093,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP60_e6_p2_104": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP60_e6_p2_107": {
   "file": "Map060.json",
   "context": "0",
@@ -44335,6 +45238,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナガレ：",
+  "translation": null
+ },
+ "MAP60_e6_p2_147": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP60_e6_p2_149": {
@@ -45198,6 +46108,13 @@
   "japanese": "ナガレ：",
   "translation": null
  },
+ "MAP60_e10_p1_115": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP60_e10_p1_117": {
   "file": "Map060.json",
   "context": "0",
@@ -45259,6 +46176,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "よかった…　",
+  "translation": null
+ },
+ "MAP60_e10_p1_129": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP60_e10_p1_132": {
@@ -45359,11 +46283,25 @@
   "japanese": "ホノオ：",
   "translation": null
  },
+ "MAP60_e10_p1_151": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP60_e10_p1_153": {
   "file": "Map060.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP60_e10_p1_154": {
+  "file": "Map060.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP60_e10_p1_159": {
@@ -46927,6 +47865,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP61_e20_p1_24": {
+  "file": "Map061.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP61_e20_p1_27": {
   "file": "Map061.json",
   "context": "1",
@@ -48138,6 +49083,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP62_e41_p1_14": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "MAP62_e41_p1_18": {
   "file": "Map062.json",
   "context": "0",
@@ -48164,6 +49116,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP62_e41_p2_14": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP62_e41_p2_20": {
@@ -48201,6 +49160,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP62_e41_p3_7": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP62_e41_p3_10": {
   "file": "Map062.json",
   "context": "0",
@@ -48213,6 +49179,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP62_e41_p3_18": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP62_e41_p3_42": {
@@ -48264,11 +49237,25 @@
   "japanese": "ピピン：",
   "translation": null
  },
+ "MAP62_e41_p3_60": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP62_e41_p3_62": {
   "file": "Map062.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP62_e41_p3_63": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…？",
   "translation": null
  },
  "MAP62_e41_p3_65": {
@@ -48325,6 +49312,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP62_e50_p0_9": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP62_e50_p0_30": {
@@ -48397,6 +49391,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP62_e50_p0_55": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
+  "translation": null
+ },
  "MAP62_e50_p0_57": {
   "file": "Map062.json",
   "context": "0",
@@ -48430,6 +49431,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP62_e50_p0_73": {
+  "file": "Map062.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP62_e50_p0_78": {
@@ -50189,11 +51197,25 @@
   "japanese": "王宮の職人キスパ：",
   "translation": null
  },
+ "MAP63_e53_p1_2": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP63_e53_p1_4": {
   "file": "Map063.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP63_e53_p1_5": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP63_e53_p1_10": {
@@ -50203,11 +51225,25 @@
   "japanese": "王宮の職人キスパ：",
   "translation": null
  },
+ "MAP63_e53_p1_11": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP63_e53_p1_13": {
   "file": "Map063.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP63_e53_p1_14": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP63_e53_p1_16": {
@@ -50231,11 +51267,25 @@
   "japanese": "王宮の職人キスパ：",
   "translation": null
  },
+ "MAP63_e53_p2_2": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP63_e53_p2_4": {
   "file": "Map063.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP63_e53_p2_5": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP63_e53_p2_10": {
@@ -50245,11 +51295,25 @@
   "japanese": "王宮の職人キスパ：",
   "translation": null
  },
+ "MAP63_e53_p2_11": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP63_e53_p2_13": {
   "file": "Map063.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP63_e53_p2_14": {
+  "file": "Map063.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP63_e53_p2_16": {
@@ -50840,6 +51904,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP64_e4_p1_35": {
+  "file": "Map064.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP64_e4_p1_37": {
   "file": "Map064.json",
   "context": "1",
@@ -51036,6 +52107,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP64_e4_p2_32": {
+  "file": "Map064.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP64_e4_p2_34": {
   "file": "Map064.json",
   "context": "1",
@@ -51062,6 +52140,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ナガレ：",
+  "translation": null
+ },
+ "MAP64_e4_p2_39": {
+  "file": "Map064.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP64_e4_p2_41": {
@@ -51580,6 +52665,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP64_e7_p0_6": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP64_e7_p0_9": {
@@ -52737,6 +53829,13 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "MAP64_e17_p0_54": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP64_e17_p0_56": {
   "file": "Map064.json",
   "context": "0",
@@ -52763,6 +53862,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e17_p0_61": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP64_e17_p0_63": {
@@ -52798,6 +53904,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e17_p0_69": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP64_e17_p0_71": {
@@ -52854,6 +53967,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e17_p0_81": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP64_e17_p0_83": {
@@ -53129,6 +54249,13 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "MAP64_e30_p1_21": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP64_e30_p1_24": {
   "file": "Map064.json",
   "context": "0",
@@ -53190,6 +54317,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e30_p1_36": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP64_e30_p1_38": {
@@ -53323,6 +54457,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e30_p1_76": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………。",
   "translation": null
  },
  "MAP64_e30_p1_78": {
@@ -53505,6 +54646,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e31_p1_26": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP64_e31_p1_28": {
@@ -53778,6 +54926,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e31_p2_26": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP64_e31_p2_28": {
@@ -54060,6 +55215,13 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "MAP64_e31_p2_83": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP64_e31_p2_85": {
   "file": "Map064.json",
   "context": "0",
@@ -54121,6 +55283,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "MAP64_e31_p2_103": {
+  "file": "Map064.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP64_e31_p2_105": {
@@ -55950,6 +57119,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e6_p0_26": {
+  "file": "Map065.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "……。",
+  "translation": null
+ },
  "MAP65_e7_name": {
   "file": "Map065.json",
   "context": "event name",
@@ -56398,6 +57574,13 @@
   "japanese": "こやつを決して逃がすなーー！！",
   "translation": null
  },
+ "MAP65_e10_p0_22": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP65_e10_p0_23": {
   "file": "Map065.json",
   "context": "0",
@@ -56412,11 +57595,25 @@
   "japanese": "本当にキミたちは…",
   "translation": null
  },
+ "MAP65_e10_p0_26": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP65_e10_p0_27": {
   "file": "Map065.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ボクの思い通りに動いてくれるねー！",
+  "translation": null
+ },
+ "MAP65_e10_p0_29": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP65_e10_p0_30": {
@@ -56608,6 +57805,13 @@
   "japanese": "…うむ",
   "translation": null
  },
+ "MAP65_e10_p0_76": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP65_e10_p0_77": {
   "file": "Map065.json",
   "context": "0",
@@ -56627,6 +57831,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "いるんだーーー？",
+  "translation": null
+ },
+ "MAP65_e10_p0_81": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP65_e10_p0_82": {
@@ -58197,6 +59408,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e36_p1_91": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP65_e36_p1_94": {
   "file": "Map065.json",
   "context": "0",
@@ -58321,6 +59539,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e36_p1_118": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP65_e36_p1_121": {
@@ -58512,6 +59737,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e36_p1_214": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "MAP65_e36_p1_216": {
   "file": "Map065.json",
   "context": "0",
@@ -58687,6 +59919,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e36_p1_257": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "MAP65_e36_p1_259": {
   "file": "Map065.json",
   "context": "0",
@@ -58713,6 +59952,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e36_p1_264": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP65_e36_p1_266": {
@@ -58776,6 +60022,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e36_p1_282": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP65_e36_p1_288": {
@@ -59555,6 +60808,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e36_p2_91": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP65_e36_p2_94": {
   "file": "Map065.json",
   "context": "0",
@@ -59679,6 +60939,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e36_p2_118": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP65_e36_p2_121": {
@@ -59870,6 +61137,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e36_p2_215": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "MAP65_e36_p2_217": {
   "file": "Map065.json",
   "context": "0",
@@ -60045,6 +61319,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e36_p2_258": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "MAP65_e36_p2_260": {
   "file": "Map065.json",
   "context": "0",
@@ -60071,6 +61352,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e36_p2_265": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP65_e36_p2_267": {
@@ -60134,6 +61422,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e36_p2_283": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP65_e36_p2_289": {
@@ -60780,6 +62075,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p1_40": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！？",
+  "translation": null
+ },
  "MAP65_e37_p1_42": {
   "file": "Map065.json",
   "context": "0",
@@ -60834,6 +62136,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p1_71": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………！",
   "translation": null
  },
  "MAP65_e37_p1_73": {
@@ -60906,6 +62215,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p1_96": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！",
+  "translation": null
+ },
  "MAP65_e37_p1_98": {
   "file": "Map065.json",
   "context": "0",
@@ -60932,6 +62248,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p1_103": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！！",
   "translation": null
  },
  "MAP65_e37_p1_109": {
@@ -61030,6 +62353,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p1_133": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP65_e37_p1_137": {
@@ -61179,6 +62509,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p1_220": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！！",
+  "translation": null
+ },
  "MAP65_e37_p1_223": {
   "file": "Map065.json",
   "context": "0",
@@ -61191,6 +62528,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ロイ：",
+  "translation": null
+ },
+ "MAP65_e37_p1_226": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP65_e37_p1_228": {
@@ -61226,6 +62570,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p1_242": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP65_e37_p1_244": {
@@ -61277,6 +62628,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p1_277": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
+  "translation": null
+ },
  "MAP65_e37_p1_288": {
   "file": "Map065.json",
   "context": "0",
@@ -61296,6 +62654,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p1_309": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP65_e37_p1_318": {
@@ -61480,6 +62845,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p2_40": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！？",
+  "translation": null
+ },
  "MAP65_e37_p2_42": {
   "file": "Map065.json",
   "context": "0",
@@ -61534,6 +62906,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p2_71": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………！",
   "translation": null
  },
  "MAP65_e37_p2_73": {
@@ -61606,6 +62985,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p2_96": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
+  "translation": null
+ },
  "MAP65_e37_p2_98": {
   "file": "Map065.json",
   "context": "0",
@@ -61632,6 +63018,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p2_103": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！！",
   "translation": null
  },
  "MAP65_e37_p2_109": {
@@ -61730,6 +63123,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p2_133": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP65_e37_p2_137": {
@@ -61879,6 +63279,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p2_220": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！！",
+  "translation": null
+ },
  "MAP65_e37_p2_223": {
   "file": "Map065.json",
   "context": "0",
@@ -61891,6 +63298,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ロイ：",
+  "translation": null
+ },
+ "MAP65_e37_p2_226": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP65_e37_p2_228": {
@@ -61926,6 +63340,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p2_242": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP65_e37_p2_244": {
@@ -61977,6 +63398,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e37_p2_277": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
+  "translation": null
+ },
  "MAP65_e37_p2_288": {
   "file": "Map065.json",
   "context": "0",
@@ -61996,6 +63424,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e37_p2_309": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP65_e37_p2_318": {
@@ -62397,6 +63832,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e41_p2_3": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP65_e41_p2_15": {
   "file": "Map065.json",
   "context": "0",
@@ -62481,11 +63923,25 @@
   "japanese": "ロイ：",
   "translation": null
  },
+ "MAP65_e41_p2_36": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP65_e41_p2_38": {
   "file": "Map065.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィンダム王：",
+  "translation": null
+ },
+ "MAP65_e41_p2_39": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP65_e41_p2_41": {
@@ -62507,6 +63963,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e41_p2_45": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP65_e41_p2_50": {
@@ -62633,6 +64096,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e41_p2_78": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP65_e41_p2_81": {
@@ -63237,6 +64707,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e41_p2_209": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "MAP65_e41_p2_213": {
   "file": "Map065.json",
   "context": "0",
@@ -63328,6 +64805,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e41_p2_232": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP65_e41_p2_235": {
   "file": "Map065.json",
   "context": "0",
@@ -63361,6 +64845,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "まずはセイリューへと…",
+  "translation": null
+ },
+ "MAP65_e41_p2_244": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP65_e41_p2_245": {
@@ -63403,6 +64894,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e44_p1_35": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP65_e44_p1_37": {
@@ -63965,6 +65463,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP65_e44_p1_174": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP65_e44_p1_176": {
   "file": "Map065.json",
   "context": "0",
@@ -63991,6 +65496,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e44_p1_184": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP65_e44_p1_186": {
@@ -64061,6 +65573,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e44_p1_201": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP65_e44_p1_204": {
@@ -64250,6 +65769,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP65_e44_p1_258": {
+  "file": "Map065.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP65_e44_p1_261": {
@@ -66401,6 +67927,13 @@
   "japanese": "ナガレ：",
   "translation": null
  },
+ "MAP66_e59_p1_13": {
+  "file": "Map066.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP66_e60_p0_1": {
   "file": "Map066.json",
   "context": "0",
@@ -67176,6 +68709,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "いつもお手数をおかけしますが、ご確認ください。",
+  "translation": null
+ },
+ "MAP67_e11_p0_11": {
+  "file": "Map067.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…",
   "translation": null
  },
  "MAP67_e11_p0_12": {
@@ -68060,6 +69600,13 @@
   "japanese": "ホノオ：",
   "translation": null
  },
+ "MAP67_e21_p1_7": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP67_e21_p1_9": {
   "file": "Map067.json",
   "context": "0",
@@ -68263,6 +69810,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP67_e24_p0_5": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP67_e24_p0_8": {
   "file": "Map067.json",
   "context": "0",
@@ -68312,6 +69866,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP67_e24_p1_5": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP67_e24_p1_8": {
   "file": "Map067.json",
   "context": "0",
@@ -68352,6 +69913,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP67_e24_p1_16": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP67_e24_p1_18": {
@@ -68466,6 +70034,13 @@
   "japanese": "市民ウィング：",
   "translation": null
  },
+ "MAP67_e24_p2_2": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………………。",
+  "translation": null
+ },
  "MAP67_e24_p2_4": {
   "file": "Map067.json",
   "context": "0",
@@ -68473,11 +70048,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP67_e24_p2_5": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP67_e24_p2_7": {
   "file": "Map067.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "市民ウィング：",
+  "translation": null
+ },
+ "MAP67_e24_p2_8": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………　！？",
   "translation": null
  },
  "MAP67_e24_p2_9": {
@@ -68527,6 +70116,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP67_e25_p0_7": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP67_e25_p0_8_c0": {
@@ -68632,6 +70228,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP67_e25_p1_7": {
+  "file": "Map067.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP67_e25_p1_8_c0": {
@@ -68767,6 +70370,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP68_e2_p1_11": {
+  "file": "Map068.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP68_e2_p1_13": {
   "file": "Map068.json",
   "context": "0",
@@ -68793,6 +70403,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP68_e2_p1_20": {
+  "file": "Map068.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP68_e2_p1_23": {
@@ -69019,6 +70636,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP70_e11_p1_9": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP70_e14_p0_1": {
   "file": "Map070.json",
   "context": "0",
@@ -69045,6 +70669,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e15_p0_16": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
   "translation": null
  },
  "MAP70_e15_p0_18": {
@@ -69327,11 +70958,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP70_e15_p0_110": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP70_e15_p1_15": {
   "file": "Map070.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e15_p1_16": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
   "translation": null
  },
  "MAP70_e15_p1_18": {
@@ -69593,6 +71238,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP70_e15_p1_87": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP70_e17_name": {
   "file": "Map070.json",
   "context": "event name",
@@ -69612,6 +71264,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e17_p0_2": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP70_e17_p0_5": {
@@ -69642,6 +71301,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP70_e18_p0_2": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP70_e18_p0_5": {
   "file": "Map070.json",
   "context": "0",
@@ -69661,6 +71327,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e25_p0_17": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP70_e25_p0_19": {
@@ -69766,6 +71439,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e25_p0_54": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP70_e25_p0_56": {
@@ -69964,6 +71644,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP70_e25_p0_101": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "MAP70_e25_p0_104": {
   "file": "Map070.json",
   "context": "0",
@@ -69976,6 +71663,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e25_p1_17": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "MAP70_e25_p1_19": {
@@ -70074,6 +71768,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e25_p1_49": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP70_e25_p1_51": {
@@ -70270,6 +71971,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP70_e25_p1_96": {
+  "file": "Map070.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP70_e25_p1_99": {
@@ -74150,6 +75858,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP79_e1_p0_60": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP79_e1_p0_62": {
   "file": "Map079.json",
   "context": "0",
@@ -74211,6 +75926,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP79_e1_p0_75": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP79_e1_p0_77": {
@@ -75242,6 +76964,13 @@
   "japanese": "ピケピケ：",
   "translation": null
  },
+ "MAP79_e1_p0_271": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………。",
+  "translation": null
+ },
  "MAP79_e1_p0_276": {
   "file": "Map079.json",
   "context": "0",
@@ -75562,6 +77291,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP79_e1_p0_347": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP79_e1_p0_350": {
@@ -75914,6 +77650,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP79_e1_p1_60": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP79_e1_p1_62": {
   "file": "Map079.json",
   "context": "0",
@@ -75975,6 +77718,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP79_e1_p1_75": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP79_e1_p1_77": {
@@ -77006,6 +78756,13 @@
   "japanese": "ピケピケ：",
   "translation": null
  },
+ "MAP79_e1_p1_271": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……………。",
+  "translation": null
+ },
  "MAP79_e1_p1_276": {
   "file": "Map079.json",
   "context": "0",
@@ -77326,6 +79083,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP79_e1_p1_347": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP79_e1_p1_350": {
@@ -77769,6 +79533,13 @@
   "japanese": "ホノオ：",
   "translation": null
  },
+ "MAP79_e1_p5_13": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！！！！！？？？",
+  "translation": null
+ },
  "MAP79_e1_p5_15": {
   "file": "Map079.json",
   "context": "0",
@@ -77776,11 +79547,25 @@
   "japanese": "ナガレ：",
   "translation": null
  },
+ "MAP79_e1_p5_16": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！！！！！？？",
+  "translation": null
+ },
  "MAP79_e1_p5_21": {
   "file": "Map079.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP79_e1_p5_22": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP79_e1_p5_25": {
@@ -77986,6 +79771,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP79_e3_p0_31": {
+  "file": "Map079.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP79_e3_p0_34": {
   "file": "Map079.json",
   "context": "0",
@@ -78103,6 +79895,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP80_e3_p0_17": {
+  "file": "Map080.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP80_e3_p0_20": {
@@ -78488,6 +80287,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP80_e4_p0_81": {
+  "file": "Map080.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP80_e4_p0_84": {
@@ -79183,6 +80989,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP81_e4_p0_11": {
+  "file": "Map081.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！？",
+  "translation": null
+ },
  "MAP81_e4_p0_13": {
   "file": "Map081.json",
   "context": "0",
@@ -79477,6 +81290,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP81_e4_p0_78": {
+  "file": "Map081.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "MAP81_e4_p0_80": {
   "file": "Map081.json",
   "context": "0",
@@ -79540,11 +81360,25 @@
   "japanese": "ホノオ：",
   "translation": null
  },
+ "MAP81_e4_p0_92": {
+  "file": "Map081.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP81_e4_p0_94": {
   "file": "Map081.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP81_e4_p0_95": {
+  "file": "Map081.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP81_e4_p0_97": {
@@ -79708,6 +81542,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e1_p0_17": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP82_e1_p0_19": {
   "file": "Map082.json",
   "context": "0",
@@ -79848,6 +81689,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e1_p0_46": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP82_e1_p0_48": {
   "file": "Map082.json",
   "context": "0",
@@ -79902,6 +81750,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP82_e1_p0_58": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
   "translation": null
  },
  "MAP82_e1_p0_61": {
@@ -79967,6 +81822,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e1_p0_74": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "MAP82_e1_p0_77": {
   "file": "Map082.json",
   "context": "0",
@@ -79995,6 +81857,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e2_p0_5": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP82_e3_p1_4": {
   "file": "Map082.json",
   "context": "0",
@@ -80014,6 +81883,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP82_e3_p1_9": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP82_e3_p1_11": {
@@ -80093,6 +81969,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP82_e3_p1_26": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP82_e3_p1_30": {
   "file": "Map082.json",
   "context": "0",
@@ -80140,6 +82023,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP82_e3_p1_39": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP82_e3_p1_41": {
@@ -80191,6 +82081,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e3_p1_50": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP82_e3_p1_52": {
   "file": "Map082.json",
   "context": "0",
@@ -80238,6 +82135,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP82_e3_p1_61": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP82_e3_p1_63": {
@@ -80387,6 +82291,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP82_e3_p1_91": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP82_e3_p1_100": {
   "file": "Map082.json",
   "context": "0",
@@ -80415,6 +82326,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e3_p1_105": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP82_e3_p1_120": {
   "file": "Map082.json",
   "context": "0",
@@ -80434,6 +82352,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP82_e3_p1_124": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP82_e3_p1_127": {
@@ -80476,6 +82401,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP82_e3_p1_145": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP82_e3_p1_147": {
@@ -80567,6 +82499,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP82_e3_p1_164": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP82_e3_p1_166": {
@@ -80667,6 +82606,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP82_e3_p2_9": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP82_e3_p2_11": {
   "file": "Map082.json",
   "context": "0",
@@ -80744,6 +82690,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP82_e3_p2_26": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP82_e3_p2_30": {
   "file": "Map082.json",
   "context": "0",
@@ -80791,6 +82744,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP82_e3_p2_39": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP82_e3_p2_41": {
@@ -80842,6 +82802,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e3_p2_50": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP82_e3_p2_52": {
   "file": "Map082.json",
   "context": "0",
@@ -80889,6 +82856,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP82_e3_p2_61": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP82_e3_p2_63": {
@@ -81038,6 +83012,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP82_e3_p2_91": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP82_e3_p2_100": {
   "file": "Map082.json",
   "context": "0",
@@ -81066,6 +83047,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP82_e3_p2_105": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP82_e3_p2_120": {
   "file": "Map082.json",
   "context": "0",
@@ -81085,6 +83073,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP82_e3_p2_124": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP82_e3_p2_127": {
@@ -81127,6 +83122,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP82_e3_p2_145": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP82_e3_p2_147": {
@@ -81218,6 +83220,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP82_e3_p2_164": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP82_e3_p2_166": {
@@ -81717,6 +83726,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP82_e4_p0_10": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "MAP82_e4_p0_14": {
   "file": "Map082.json",
   "context": "0",
@@ -81757,6 +83773,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP82_e4_p0_22": {
+  "file": "Map082.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
   "translation": null
  },
  "MAP82_e4_p0_24": {
@@ -81808,11 +83831,25 @@
   "japanese": "ダフィール",
   "translation": null
  },
+ "MAP83_e14_p0_6": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP83_e14_p0_7": {
   "file": "Map083.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "だははは！！",
+  "translation": null
+ },
+ "MAP83_e14_p0_9": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP83_e14_p0_10": {
@@ -81897,6 +83934,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p0_46": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP83_e14_p0_48": {
@@ -81997,6 +84041,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p0_70": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP83_e14_p0_74": {
   "file": "Map083.json",
   "context": "0",
@@ -82081,6 +84132,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p0_92": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP83_e14_p0_109": {
   "file": "Map083.json",
   "context": "0",
@@ -82142,6 +84200,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p0_121": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP83_e14_p0_123": {
@@ -82270,6 +84335,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p0_146": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP83_e14_p0_149": {
   "file": "Map083.json",
   "context": "0",
@@ -82366,6 +84438,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p1_13": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！！！",
   "translation": null
  },
  "MAP83_e14_p1_15": {
@@ -82564,6 +84643,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p1_86": {
+  "file": "Map083.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP83_e14_p1_88": {
   "file": "Map083.json",
   "context": "1",
@@ -82618,6 +84704,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p1_104": {
+  "file": "Map083.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP83_e14_p1_106": {
@@ -82697,6 +84790,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p1_123": {
+  "file": "Map083.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………………！！",
+  "translation": null
+ },
  "MAP83_e14_p2_2": {
   "file": "Map083.json",
   "context": "0",
@@ -82716,6 +84816,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p2_13": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！！！",
   "translation": null
  },
  "MAP83_e14_p2_15": {
@@ -82914,6 +85021,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p2_86": {
+  "file": "Map083.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP83_e14_p2_88": {
   "file": "Map083.json",
   "context": "1",
@@ -82968,6 +85082,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p2_104": {
+  "file": "Map083.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP83_e14_p2_106": {
@@ -83047,6 +85168,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p2_123": {
+  "file": "Map083.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………………！！",
+  "translation": null
+ },
  "MAP83_e14_p3_6": {
   "file": "Map083.json",
   "context": "0",
@@ -83082,11 +85210,25 @@
   "japanese": "ダフィ－－－ルッ…ファイアーーッ！！！！",
   "translation": null
  },
+ "MAP83_e14_p3_17": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP83_e14_p3_18": {
   "file": "Map083.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "バクハツ！！",
+  "translation": null
+ },
+ "MAP83_e14_p4_1": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
   "translation": null
  },
  "MAP83_e14_p4_2": {
@@ -83138,11 +85280,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p4_23": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
+  "translation": null
+ },
  "MAP83_e14_p4_30": {
   "file": "Map083.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p4_31": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP83_e14_p4_33": {
@@ -83227,6 +85383,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p4_64": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP83_e14_p4_67": {
@@ -83353,6 +85516,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p4_92": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP83_e14_p4_95": {
@@ -83495,6 +85665,20 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p4_159": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
+ "MAP83_e14_p5_1": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "？：",
+  "translation": null
+ },
  "MAP83_e14_p5_2": {
   "file": "Map083.json",
   "context": "0",
@@ -83544,11 +85728,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP83_e14_p5_23": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
+  "translation": null
+ },
  "MAP83_e14_p5_30": {
   "file": "Map083.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p5_31": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP83_e14_p5_33": {
@@ -83633,6 +85831,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p5_64": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP83_e14_p5_67": {
@@ -83759,6 +85964,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p5_92": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP83_e14_p5_95": {
@@ -83899,6 +86111,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP83_e14_p5_159": {
+  "file": "Map083.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP83_e17_name": {
@@ -86960,6 +89179,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP87_e20_p1_24": {
+  "file": "Map087.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP87_e20_p1_27": {
   "file": "Map087.json",
   "context": "1",
@@ -87028,6 +89254,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "オタキ様：",
+  "translation": null
+ },
+ "MAP87_e23_p0_8": {
+  "file": "Map087.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP87_e23_p0_10": {
@@ -87408,6 +89641,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p0_21": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP88_e15_p0_23": {
   "file": "Map088.json",
   "context": "0",
@@ -87548,6 +89788,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p0_49": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP88_e15_p0_51": {
   "file": "Map088.json",
   "context": "0",
@@ -87574,6 +89821,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p0_56": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p0_58": {
@@ -87630,6 +89884,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p0_68": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
   "translation": null
  },
  "MAP88_e15_p0_70": {
@@ -87856,6 +90117,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p1_21": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP88_e15_p1_23": {
   "file": "Map088.json",
   "context": "0",
@@ -87996,6 +90264,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p1_49": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP88_e15_p1_51": {
   "file": "Map088.json",
   "context": "0",
@@ -88022,6 +90297,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p1_56": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p1_58": {
@@ -88078,6 +90360,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p1_68": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
   "translation": null
  },
  "MAP88_e15_p1_70": {
@@ -88241,6 +90530,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p2_4": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
+  "translation": null
+ },
  "MAP88_e15_p2_6": {
   "file": "Map088.json",
   "context": "0",
@@ -88274,6 +90570,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p3_21": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP88_e15_p3_23": {
@@ -88316,6 +90619,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP88_e15_p3_31": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p3_33": {
@@ -88449,6 +90759,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP88_e15_p3_60": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p3_62": {
@@ -88640,6 +90957,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP88_e15_p4_16": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP88_e15_p4_18": {
   "file": "Map088.json",
   "context": "0",
@@ -88815,6 +91139,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p4_54": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……！！！！",
+  "translation": null
+ },
  "MAP88_e15_p4_56": {
   "file": "Map088.json",
   "context": "0",
@@ -88941,6 +91272,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p4_86": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "MAP88_e15_p4_89": {
   "file": "Map088.json",
   "context": "0",
@@ -88981,6 +91319,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p6_9": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p6_10_c0": {
@@ -89044,6 +91389,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p6_22": {
+  "file": "Map088.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p6_23_c0": {
@@ -89130,6 +91482,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p7_9": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP88_e15_p7_10_c0": {
   "file": "Map088.json",
   "context": "choice",
@@ -89191,6 +91550,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p7_22": {
+  "file": "Map088.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p7_23_c0": {
@@ -89284,11 +91650,25 @@
   "japanese": "「わからないよ…　一体全体何が起こって…",
   "translation": null
  },
+ "MAP88_e15_p7_62": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p7_63": {
   "file": "Map088.json",
   "context": "2",
   "type": "dialogue",
   "japanese": "「ックックックッ…　",
+  "translation": null
+ },
+ "MAP88_e15_p7_65": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p7_66": {
@@ -89368,6 +91748,13 @@
   "japanese": "　何でもいい　さっさと出てこい！！",
   "translation": null
  },
+ "MAP88_e15_p7_82": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p7_83": {
   "file": "Map088.json",
   "context": "2",
@@ -89380,6 +91767,13 @@
   "context": "2",
   "type": "dialogue",
   "japanese": "　いいだろう…そろそろ俺も…",
+  "translation": null
+ },
+ "MAP88_e15_p7_88": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p7_89": {
@@ -89403,6 +91797,13 @@
   "japanese": "「だ、誰だ…！？",
   "translation": null
  },
+ "MAP88_e15_p7_95": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p7_96": {
   "file": "Map088.json",
   "context": "2",
@@ -89424,6 +91825,13 @@
   "japanese": "「誰だっオマエは！？",
   "translation": null
  },
+ "MAP88_e15_p7_101": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p7_102": {
   "file": "Map088.json",
   "context": "2",
@@ -89443,6 +91851,13 @@
   "context": "2",
   "type": "dialogue",
   "japanese": "「……………誰ですか？",
+  "translation": null
+ },
+ "MAP88_e15_p7_107": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p7_108": {
@@ -89478,6 +91893,13 @@
   "context": "2",
   "type": "dialogue",
   "japanese": "　何でもいい　さっさとかかってこい！",
+  "translation": null
+ },
+ "MAP88_e15_p7_115": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p7_116": {
@@ -89613,6 +92035,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e15_p8_9": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP88_e15_p8_10_c0": {
   "file": "Map088.json",
   "context": "choice",
@@ -89674,6 +92103,13 @@
   "context": "1",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e15_p8_22": {
+  "file": "Map088.json",
+  "context": "1",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP88_e15_p8_23_c0": {
@@ -89746,11 +92182,25 @@
   "japanese": "「わからないよ…　一体全体何が起こって…",
   "translation": null
  },
+ "MAP88_e15_p8_58": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p8_59": {
   "file": "Map088.json",
   "context": "2",
   "type": "dialogue",
   "japanese": "「ックックックッ…　",
+  "translation": null
+ },
+ "MAP88_e15_p8_61": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p8_62": {
@@ -89830,6 +92280,13 @@
   "japanese": "　何でもいい　さっさと出てこい！！",
   "translation": null
  },
+ "MAP88_e15_p8_78": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p8_79": {
   "file": "Map088.json",
   "context": "2",
@@ -89842,6 +92299,13 @@
   "context": "2",
   "type": "dialogue",
   "japanese": "　いいだろう…そろそろ俺も…",
+  "translation": null
+ },
+ "MAP88_e15_p8_84": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p8_85": {
@@ -89865,6 +92329,13 @@
   "japanese": "「だ、誰だ…！？",
   "translation": null
  },
+ "MAP88_e15_p8_91": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p8_92": {
   "file": "Map088.json",
   "context": "2",
@@ -89886,6 +92357,13 @@
   "japanese": "「誰だっオマエは！？",
   "translation": null
  },
+ "MAP88_e15_p8_97": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
+  "translation": null
+ },
  "MAP88_e15_p8_98": {
   "file": "Map088.json",
   "context": "2",
@@ -89905,6 +92383,13 @@
   "context": "2",
   "type": "dialogue",
   "japanese": "「……………誰ですか？",
+  "translation": null
+ },
+ "MAP88_e15_p8_103": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p8_104": {
@@ -89940,6 +92425,13 @@
   "context": "2",
   "type": "dialogue",
   "japanese": "　何でもいい　さっさとかかってこい！",
+  "translation": null
+ },
+ "MAP88_e15_p8_111": {
+  "file": "Map088.json",
+  "context": "2",
+  "type": "dialogue",
+  "japanese": "？？？",
   "translation": null
  },
  "MAP88_e15_p8_112": {
@@ -90068,6 +92560,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "MAP88_e16_p1_2": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "MAP88_e16_p1_4": {
   "file": "Map088.json",
   "context": "0",
@@ -90075,11 +92574,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP88_e16_p1_5": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "MAP88_e16_p1_7": {
   "file": "Map088.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "MAP88_e16_p1_8": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
   "translation": null
  },
  "MAP88_e16_p1_11": {
@@ -90094,6 +92607,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP88_e16_p1_14": {
+  "file": "Map088.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
   "translation": null
  },
  "MAP88_e16_p1_17": {
@@ -90136,6 +92656,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP89_e2_p0_2": {
+  "file": "Map089.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP89_e2_p0_5": {
@@ -90255,6 +92782,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP90_e5_p0_96": {
+  "file": "Map090.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP90_e5_p0_102": {
@@ -92049,6 +94583,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP91_e23_p0_59": {
+  "file": "Map091.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "MAP91_e23_p0_61": {
   "file": "Map091.json",
   "context": "0",
@@ -93533,6 +96074,13 @@
   "japanese": "フレイム王：",
   "translation": null
  },
+ "MAP92_e6_p0_154": {
+  "file": "Map092.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP92_e6_p0_156": {
   "file": "Map092.json",
   "context": "0",
@@ -93601,6 +96149,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP92_e6_p0_169": {
+  "file": "Map092.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
   "translation": null
  },
  "MAP92_e6_p0_171": {
@@ -95283,11 +97838,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p0_9": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "MAP93_e10_p0_11": {
   "file": "Map093.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_12": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p0_14": {
@@ -95339,11 +97908,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p0_23": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP93_e10_p0_25": {
   "file": "Map093.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_26": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p0_28": {
@@ -95400,6 +97983,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_38": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
   "translation": null
  },
  "MAP93_e10_p0_40": {
@@ -95493,6 +98083,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p0_61": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…　…　…　。",
+  "translation": null
+ },
  "MAP93_e10_p0_63": {
   "file": "Map093.json",
   "context": "0",
@@ -95535,6 +98132,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p0_71": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！　…！！",
+  "translation": null
+ },
  "MAP93_e10_p0_73": {
   "file": "Map093.json",
   "context": "0",
@@ -95561,6 +98165,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_78": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP93_e10_p0_81": {
@@ -96011,6 +98622,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p0_184": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP93_e10_p0_187": {
   "file": "Map093.json",
   "context": "0",
@@ -96037,6 +98655,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_197": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p0_199": {
@@ -96072,6 +98697,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_205": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p0_207": {
@@ -96130,6 +98762,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p0_217": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP93_e10_p0_219": {
   "file": "Map093.json",
   "context": "0",
@@ -96156,6 +98795,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_224": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p0_226": {
@@ -96410,6 +99056,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p0_309": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！！！！",
+  "translation": null
+ },
  "MAP93_e10_p0_311": {
   "file": "Map093.json",
   "context": "0",
@@ -96450,6 +99103,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_321": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP93_e10_p0_326": {
@@ -96499,6 +99159,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p0_339": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP93_e10_p0_342": {
@@ -96963,11 +99630,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p1_9": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "MAP93_e10_p1_11": {
   "file": "Map093.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_12": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p1_14": {
@@ -97019,11 +99700,25 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p1_23": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP93_e10_p1_25": {
   "file": "Map093.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_26": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p1_28": {
@@ -97080,6 +99775,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_38": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
   "translation": null
  },
  "MAP93_e10_p1_40": {
@@ -97173,6 +99875,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p1_61": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…　…　…　。",
+  "translation": null
+ },
  "MAP93_e10_p1_63": {
   "file": "Map093.json",
   "context": "0",
@@ -97215,6 +99924,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p1_71": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！　…！！",
+  "translation": null
+ },
  "MAP93_e10_p1_73": {
   "file": "Map093.json",
   "context": "0",
@@ -97241,6 +99957,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_78": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "MAP93_e10_p1_81": {
@@ -97691,6 +100414,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p1_184": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP93_e10_p1_187": {
   "file": "Map093.json",
   "context": "0",
@@ -97717,6 +100447,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_197": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p1_199": {
@@ -97752,6 +100489,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_205": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p1_207": {
@@ -97810,6 +100554,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p1_217": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "MAP93_e10_p1_219": {
   "file": "Map093.json",
   "context": "0",
@@ -97836,6 +100587,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_224": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "MAP93_e10_p1_226": {
@@ -98090,6 +100848,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP93_e10_p1_309": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！！！！",
+  "translation": null
+ },
  "MAP93_e10_p1_311": {
   "file": "Map093.json",
   "context": "0",
@@ -98130,6 +100895,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_321": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP93_e10_p1_326": {
@@ -98179,6 +100951,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP93_e10_p1_339": {
+  "file": "Map093.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "MAP93_e10_p1_342": {
@@ -99385,6 +102164,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "MAP101_e6_p0_26": {
+  "file": "Map101.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "MAP101_e6_p0_29": {
   "file": "Map101.json",
   "context": "0",
@@ -99474,6 +102260,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "MAP101_e6_p1_26": {
+  "file": "Map101.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "MAP101_e6_p1_29": {
@@ -101359,6 +104152,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP9_p0_9": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP14_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -101471,6 +104271,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP14_p1_6": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP14_p1_9": {
   "file": "Troops.json",
   "context": "0",
@@ -101532,6 +104339,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP14_p2_12": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "TROOP14_p2_15": {
@@ -101597,11 +104411,25 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "TROOP14_p2_27": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP14_p3_1": {
   "file": "Troops.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "TROOP14_p3_2": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "TROOP14_p3_4": {
@@ -102087,6 +104915,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP35_p3_12": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "TROOP35_p4_1": {
   "file": "Troops.json",
   "context": "0",
@@ -102493,6 +105328,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "TROOP41_p0_5": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP41_p1_1": {
   "file": "Troops.json",
   "context": "0",
@@ -102519,6 +105361,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "TROOP41_p1_6": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP41_p1_8": {
@@ -102549,6 +105398,13 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "TROOP41_p2_2": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "TROOP41_p2_4": {
   "file": "Troops.json",
   "context": "0",
@@ -102570,6 +105426,13 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "TROOP41_p2_8": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
+  "translation": null
+ },
  "TROOP41_p2_10": {
   "file": "Troops.json",
   "context": "0",
@@ -102589,6 +105452,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "TROOP41_p3_2": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "TROOP41_p3_4": {
@@ -102631,6 +105501,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP42_p0_6": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP42_p0_9": {
@@ -102696,6 +105573,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP42_p1_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP42_p1_14": {
   "file": "Troops.json",
   "context": "0",
@@ -102750,6 +105634,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP42_p2_10": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "TROOP42_p2_12": {
@@ -102864,6 +105755,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP43_p1_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP43_p1_14": {
   "file": "Troops.json",
   "context": "0",
@@ -102927,6 +105825,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP43_p2_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP43_p2_16": {
   "file": "Troops.json",
   "context": "0",
@@ -102981,6 +105886,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP43_p3_9": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP43_p4_1": {
@@ -103046,6 +105958,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP43_p4_13": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP43_p5_1": {
   "file": "Troops.json",
   "context": "0",
@@ -103100,6 +106019,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP43_p5_12": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP43_p5_15": {
@@ -103184,6 +106110,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP43_p5_33": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "TROOP43_p5_35": {
@@ -103340,6 +106273,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP43_p6_16": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP43_p6_18": {
   "file": "Troops.json",
   "context": "0",
@@ -103445,6 +106385,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP43_p7_21": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP43_p7_23": {
   "file": "Troops.json",
   "context": "0",
@@ -103536,6 +106483,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP43_p8_13": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP43_p8_19": {
   "file": "Troops.json",
   "context": "0",
@@ -103548,6 +106502,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP43_p8_22": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
   "translation": null
  },
  "TROOP43_p8_24": {
@@ -103634,6 +106595,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP43_p9_12": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP43_p9_18": {
   "file": "Troops.json",
   "context": "0",
@@ -103646,6 +106614,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP43_p9_21": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
   "translation": null
  },
  "TROOP43_p9_23": {
@@ -103947,6 +106922,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP75_p1_10": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "TROOP78_p0_1": {
@@ -105027,6 +108009,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "TROOP80_p0_13": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
+  "translation": null
+ },
  "TROOP80_p1_1": {
   "file": "Troops.json",
   "context": "0",
@@ -105111,6 +108100,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "TROOP80_p1_16": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "TROOP80_p2_1": {
   "file": "Troops.json",
   "context": "0",
@@ -105144,6 +108140,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "TROOP80_p2_7": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "TROOP80_p2_9": {
@@ -105333,6 +108336,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "TROOP80_p4_5": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
   "translation": null
  },
  "TROOP80_p4_14": {
@@ -105571,6 +108581,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP82_p0_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP82_p0_14": {
@@ -105930,6 +108947,13 @@
   "japanese": "ピピン：",
   "translation": null
  },
+ "TROOP82_p4_36": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "TROOP82_p4_37": {
   "file": "Troops.json",
   "context": "0",
@@ -106033,6 +109057,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP83_p0_20": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP83_p0_23": {
@@ -106357,11 +109388,25 @@
   "japanese": "大魔王ダフィール：",
   "translation": null
  },
+ "TROOP83_p4_2": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………………。",
+  "translation": null
+ },
  "TROOP83_p4_4": {
   "file": "Troops.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "大魔王ダフィール：",
+  "translation": null
+ },
+ "TROOP83_p4_5": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………………。",
   "translation": null
  },
  "TROOP83_p4_7": {
@@ -106609,6 +109654,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP83_p5_28": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
+  "translation": null
+ },
  "TROOP83_p5_30": {
   "file": "Troops.json",
   "context": "0",
@@ -106700,6 +109752,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP83_p5_47": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
+  "translation": null
+ },
  "TROOP83_p5_50": {
   "file": "Troops.json",
   "context": "0",
@@ -106761,6 +109820,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP83_p6_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…？",
   "translation": null
  },
  "TROOP83_p6_13": {
@@ -106840,6 +109906,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP83_p6_27": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP83_p6_32": {
   "file": "Troops.json",
   "context": "0",
@@ -106901,6 +109974,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP83_p7_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
   "translation": null
  },
  "TROOP83_p7_13": {
@@ -107013,6 +110093,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP83_p7_33": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP83_p7_36": {
@@ -107176,6 +110263,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP83_p8_29": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
+  "translation": null
+ },
  "TROOP83_p8_31": {
   "file": "Troops.json",
   "context": "0",
@@ -107330,6 +110424,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP83_p9_23": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP83_p9_25": {
   "file": "Troops.json",
   "context": "0",
@@ -107349,6 +110450,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP83_p9_29": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP83_p10_1": {
@@ -107855,6 +110963,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP84_p0_5": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "TROOP84_p0_7": {
   "file": "Troops.json",
   "context": "0",
@@ -107909,6 +111024,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP84_p0_18": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP84_p0_21": {
@@ -108030,6 +111152,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP84_p2_10": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "TROOP84_p3_1": {
   "file": "Troops.json",
   "context": "0",
@@ -108126,6 +111255,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP93_p0_10": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP94_p0_1": {
@@ -108254,6 +111390,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP95_p1_6": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP95_p1_9": {
   "file": "Troops.json",
   "context": "0",
@@ -108315,6 +111458,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP95_p2_12": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "TROOP95_p2_15": {
@@ -108380,11 +111530,25 @@
   "japanese": "ナウ―：",
   "translation": null
  },
+ "TROOP95_p2_27": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP95_p3_1": {
   "file": "Troops.json",
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "TROOP95_p3_2": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…………。",
   "translation": null
  },
  "TROOP95_p3_11": {
@@ -108434,6 +111598,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウ―：",
+  "translation": null
+ },
+ "TROOP95_p4_2": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "TROOP95_p4_4": {
@@ -109024,6 +112195,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "TROOP107_p0_10": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP107_p0_12": {
   "file": "Troops.json",
   "context": "0",
@@ -109106,6 +112284,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "TROOP107_p1_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP107_p1_13": {
@@ -109367,6 +112552,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP108_p0_26": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP108_p0_29": {
   "file": "Troops.json",
   "context": "0",
@@ -109472,6 +112664,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP108_p1_19": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP108_p1_21": {
   "file": "Troops.json",
   "context": "0",
@@ -109526,6 +112725,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP108_p1_31": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
   "translation": null
  },
  "TROOP108_p1_33": {
@@ -109787,6 +112993,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP109_p1_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP109_p1_14": {
   "file": "Troops.json",
   "context": "0",
@@ -109850,6 +113063,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP109_p2_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP109_p2_16": {
   "file": "Troops.json",
   "context": "0",
@@ -109904,6 +113124,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP109_p3_9": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP109_p4_1": {
@@ -109969,6 +113196,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP109_p4_13": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP109_p5_1": {
   "file": "Troops.json",
   "context": "0",
@@ -110023,6 +113257,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP109_p5_12": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP109_p5_15": {
@@ -110107,6 +113348,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP109_p5_33": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
   "translation": null
  },
  "TROOP109_p5_35": {
@@ -110263,6 +113511,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP109_p6_16": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP109_p6_18": {
   "file": "Troops.json",
   "context": "0",
@@ -110368,6 +113623,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP109_p7_21": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP109_p7_23": {
   "file": "Troops.json",
   "context": "0",
@@ -110459,6 +113721,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP109_p8_13": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP109_p8_19": {
   "file": "Troops.json",
   "context": "0",
@@ -110471,6 +113740,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP109_p8_22": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
   "translation": null
  },
  "TROOP109_p8_24": {
@@ -110557,6 +113833,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP109_p9_12": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！",
+  "translation": null
+ },
  "TROOP109_p9_18": {
   "file": "Troops.json",
   "context": "0",
@@ -110569,6 +113852,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP109_p9_21": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
   "translation": null
  },
  "TROOP109_p9_23": {
@@ -110632,6 +113922,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP109_p9_35": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
   "translation": null
  },
  "TROOP110_p0_1": {
@@ -110863,6 +114160,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP111_p1_10": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "TROOP135_p0_1": {
@@ -111950,6 +115254,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "TROOP137_p0_13": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
+  "translation": null
+ },
  "TROOP137_p1_1": {
   "file": "Troops.json",
   "context": "0",
@@ -112034,6 +115345,13 @@
   "japanese": "ナウー：",
   "translation": null
  },
+ "TROOP137_p1_16": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
+  "translation": null
+ },
  "TROOP137_p2_1": {
   "file": "Troops.json",
   "context": "0",
@@ -112067,6 +115385,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "TROOP137_p2_7": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…。",
   "translation": null
  },
  "TROOP137_p2_9": {
@@ -112256,6 +115581,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ナウー：",
+  "translation": null
+ },
+ "TROOP137_p4_5": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "……。",
   "translation": null
  },
  "TROOP137_p4_14": {
@@ -112494,6 +115826,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP139_p0_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP139_p0_14": {
@@ -112860,6 +116199,13 @@
   "japanese": "ピピン：",
   "translation": null
  },
+ "TROOP139_p4_36": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！！",
+  "translation": null
+ },
  "TROOP139_p4_37": {
   "file": "Troops.json",
   "context": "0",
@@ -112963,6 +116309,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP140_p0_20": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP140_p0_23": {
@@ -113287,6 +116640,13 @@
   "japanese": "大魔王ダフィール：",
   "translation": null
  },
+ "TROOP140_p4_2": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………………。",
+  "translation": null
+ },
  "TROOP140_p4_4": {
   "file": "Troops.json",
   "context": "0",
@@ -113532,6 +116892,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP140_p5_28": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
+  "translation": null
+ },
  "TROOP140_p5_30": {
   "file": "Troops.json",
   "context": "0",
@@ -113623,6 +116990,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP140_p5_47": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………！！",
+  "translation": null
+ },
  "TROOP140_p5_50": {
   "file": "Troops.json",
   "context": "0",
@@ -113684,6 +117058,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP140_p6_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…？",
   "translation": null
  },
  "TROOP140_p6_13": {
@@ -113763,6 +117144,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP140_p6_27": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
+  "translation": null
+ },
  "TROOP140_p6_32": {
   "file": "Troops.json",
   "context": "0",
@@ -113824,6 +117212,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP140_p7_11": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
   "translation": null
  },
  "TROOP140_p7_13": {
@@ -113936,6 +117331,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP140_p7_33": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！",
   "translation": null
  },
  "TROOP140_p7_36": {
@@ -114099,6 +117501,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP140_p8_29": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "…！？",
+  "translation": null
+ },
  "TROOP140_p8_31": {
   "file": "Troops.json",
   "context": "0",
@@ -114253,6 +117662,13 @@
   "japanese": "ウィン：",
   "translation": null
  },
+ "TROOP140_p9_23": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
+  "translation": null
+ },
  "TROOP140_p9_25": {
   "file": "Troops.json",
   "context": "0",
@@ -114272,6 +117688,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン：",
+  "translation": null
+ },
+ "TROOP140_p9_29": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP140_p10_1": {
@@ -114601,6 +118024,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ピピン：",
+  "translation": null
+ },
+ "TROOP140_p10_64": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "………。",
   "translation": null
  },
  "TROOP140_p11_1": {
@@ -115049,6 +118479,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ウィン",
+  "translation": null
+ },
+ "TROOP142_p2_14": {
+  "file": "Troops.json",
+  "context": "0",
+  "type": "dialogue",
+  "japanese": "「…！",
   "translation": null
  },
  "TROOP142_p2_17": {

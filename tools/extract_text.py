@@ -38,7 +38,10 @@ import os
 import re
 import sys
 
-JP_RE = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff]")
+# kana/kanji + CJK punctuation (。…！？、「」・ etc., but not the U+3000
+# ideographic space used for scrolling-text indentation), so punctuation-only
+# dialogue such as "…。" is extracted and translatable.
+JP_RE = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff\u3001-\u303f\u2026\uff01\uff1f\uff0c\u30fb]")
 
 DB_FIELDS = ("name", "description", "note")
 DB_FILES = ("Actors", "Classes", "Skills", "Items", "Weapons",
