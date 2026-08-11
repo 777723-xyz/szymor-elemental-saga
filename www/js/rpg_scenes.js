@@ -932,7 +932,7 @@ Scene_MenuBase.prototype.setBackgroundOpacity = function(opacity) {
 };
 
 Scene_MenuBase.prototype.createHelpWindow = function() {
-    this._helpWindow = new Window_Help();
+    this._helpWindow = new Window_Help(3);
     this.addWindow(this._helpWindow);
 };
 
@@ -2403,7 +2403,7 @@ Scene_Battle.prototype.createActorCommandWindow = function() {
 };
 
 Scene_Battle.prototype.createHelpWindow = function() {
-    this._helpWindow = new Window_Help();
+    this._helpWindow = new Window_Help(3);
     this._helpWindow.visible = false;
     this.addWindow(this._helpWindow);
 };
