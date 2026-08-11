@@ -106,6 +106,16 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
 - Choice branches (code 402) are matched by **index** (`params[0]`), not by text.
 - `docs/text/plugin.tsv` (lowercase) is a stale leftover from an earlier run; ignore it.
 
+### Translation progress (Phase 1)
+- **11,635 / 14,611 strings (79.6%)** translated as of this commit.
+- Complete: glossary (611 entries), system UI, plugins, DB names/descriptions/notes,
+  choices (841), and ~7,000 dialogue rows across the main story (Windam → Flame →
+  Seiryu → Dark Continent → ending + Roi/Pipin backstories).
+- Remaining: ~2,975 one-off dialogue rows (batch files in `docs/text/batches/`).
+- Quality gate passed: no translated string still contains Japanese characters.
+- Phase 2 pending: fit-checking reports **1,534 lines** over the message window
+  budget — these need `\n` splits or rewording (English runs ~40% longer).
+
 ### Baked-in image text audit (OCR-verified, 2026-08-11)
 - `img/titles1/CrossedSwords.png`, `img/titles2/Medieval.png`: no text — the title
   string is drawn at runtime from `System.json` `gameTitle`, so it is translated
