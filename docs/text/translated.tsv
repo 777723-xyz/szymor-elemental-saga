@@ -6363,7 +6363,7 @@ MAP60_e6_p2_23	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e6_p2_24	Map060.json	0	dialogue	さあ、青龍！	Come, Seiryu!
 MAP60_e6_p2_25	Map060.json	0	dialogue	急いでわたしに、紋章を…！！	Hurry and give me the crest...!!
 MAP60_e6_p2_27	Map060.json	0	dialogue	青龍：	Seiryu:
-MAP60_e6_p2_28	Map060.json	0	dialogue	おっけーりょーーーかーーーーい	
+MAP60_e6_p2_28	Map060.json	0	dialogue	おっけーりょーーーかーーーーい	Okkee—ay—!
 MAP60_e6_p2_44	Map060.json	0	dialogue	　ナガレは、イヤシとイノチとテッペキの魔法をおぼえた！	Nagare learned the Heal, Life, and Iron Wall spells!
 MAP60_e6_p2_46	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e6_p2_47	Map060.json	0	dialogue	この感覚…なんて清々しい気分なんだ…	This feeling... how refreshing it is...
@@ -6547,8 +6547,8 @@ MAP61_e18_p1_1	Map061.json	0	dialogue	トリカゼ：	Torikaze:
 MAP61_e18_p1_2	Map061.json	0	dialogue	宿はなんとか営業中だぜ。	The inn's somehow still open for business.
 MAP61_e18_p1_3	Map061.json	0	dialogue	営業中っていうか、避難所みたいなもんだけど	Well, 'open' more like a shelter, but still.
 MAP61_e18_p1_5	Map061.json	0	dialogue	トリカゼ：	Torikaze:
-MAP61_e18_p1_6	Map061.json	0	dialogue	ここはあたしがちゃーんと見張ってるから、	
-MAP61_e18_p1_7	Map061.json	0	dialogue	あんたらは使命とか何とかを頑張んな！	
+MAP61_e18_p1_6	Map061.json	0	dialogue	ここはあたしがちゃーんと見張ってるから、	I'm keeping a sharp eye on this place, so
+MAP61_e18_p1_7	Map061.json	0	dialogue	あんたらは使命とか何とかを頑張んな！	you lot go do your whole mission thing!
 MAP61_e19_p1_1	Map061.json	0	dialogue	マハリ：	Mahari:
 MAP61_e19_p1_2	Map061.json	0	dialogue	雨、やみそうにないですね…	The rain doesn't look like it'll stop...
 MAP61_e19_p1_4	Map061.json	0	dialogue	マハリ：	Mahari:
@@ -6616,21 +6616,21 @@ MAP61_e55_p1_9	Map061.json	0	dialogue	ナガレちゃん…	Nagare...
 MAP61_e55_p2_1	Map061.json	0	dialogue	トリカゼ：	Torikaze:
 MAP61_e55_p2_2	Map061.json	0	dialogue	あんたの家の方を頼む…	Take care of your own home...
 MAP61_e55_p2_3	Map061.json	0	dialogue	マハリが守っているはずだ…　	Mahari should be guarding it...
-MAP61_e56_p1_10	Map061.json	0	dialogue	大丈夫…　ちょっと突き指しただけだよ	
+MAP61_e56_p1_10	Map061.json	0	dialogue	大丈夫…　ちょっと突き指しただけだよ	I'm fine... just a little jammed finger.
 MAP61_e56_p1_12	Map061.json	0	dialogue	マハリ：	Mahari:
 MAP61_e56_p1_13	Map061.json	0	dialogue	それより…	Anyway...
-MAP61_e56_p1_14	Map061.json	0	dialogue	どうやら魔物たちはこれで片付いたみたいだね	
+MAP61_e56_p1_14	Map061.json	0	dialogue	どうやら魔物たちはこれで片付いたみたいだね	Looks like the monsters are dealt with now.
 MAP61_e56_p1_16	Map061.json	0	dialogue	ホノオ：	Hono:
-MAP61_e56_p1_17	Map061.json	0	dialogue	しっかし…　一体何が起こったんだ…？	
-MAP61_e56_p1_18	Map061.json	0	dialogue	ひでえことになってるじゃねえか…	
+MAP61_e56_p1_17	Map061.json	0	dialogue	しっかし…　一体何が起こったんだ…？	But still... what on earth happened...?
+MAP61_e56_p1_18	Map061.json	0	dialogue	ひでえことになってるじゃねえか…	This is a damn mess...
 MAP61_e56_p1_20	Map061.json	0	dialogue	マハリ：	Mahari:
 MAP61_e56_p1_21	Map061.json	0	dialogue	うん…	Yeah...
 MAP61_e56_p1_22	Map061.json	0	dialogue	とりあえず、屋敷の中へ…	For now, let's head inside the estate...
 MAP61_e56_p1_23	Map061.json	0	dialogue	村のみんなが集まってるよ	Everyone in the village is gathering.
 MAP61_e56_p1_3	Map061.json	0	dialogue	マハリ：	Mahari:
-MAP61_e56_p1_4	Map061.json	0	dialogue	ありがとう…　ナガレ…　みなさん…	
+MAP61_e56_p1_4	Map061.json	0	dialogue	ありがとう…　ナガレ…　みなさん…	Thank you... Nagare... everyone...
 MAP61_e56_p1_6	Map061.json	0	dialogue	ナガレ：	Nagare:
-MAP61_e56_p1_7	Map061.json	0	dialogue	マハリ！傷は！？　大事ないか！？	
+MAP61_e56_p1_7	Map061.json	0	dialogue	マハリ！傷は！？　大事ないか！？	Mahari! Your wound!? Are you all right!?
 MAP61_e56_p1_9	Map061.json	0	dialogue	マハリ：	Mahari:
 MAP61_e56_p2_1	Map061.json	0	dialogue	マハリ：	Mahari:
 MAP61_e56_p2_2	Map061.json	0	dialogue	うん…	Yeah...
@@ -6718,10 +6718,10 @@ MAP62_e17_p0_1	Map062.json	0	dialogue	持ち出して役に立つようなもの
 MAP62_e18_p0_1	Map062.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP62_e19_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e1_p0_1	Map062.json	0	dialogue	見回り中の兵デニー：	Denny, Soldier on Patrol:
-MAP62_e1_p0_2	Map062.json	0	dialogue	あっ！　騎士ウィンどの！	
-MAP62_e1_p0_3	Map062.json	0	dialogue	おつかれさまです！	
+MAP62_e1_p0_2	Map062.json	0	dialogue	あっ！　騎士ウィンどの！	Ah! Sir Knight Win!
+MAP62_e1_p0_3	Map062.json	0	dialogue	おつかれさまです！	Good work today!
 MAP62_e1_p0_5	Map062.json	0	dialogue	見回り中の兵デニー：	Denny, Soldier on Patrol:
-MAP62_e1_p0_6	Map062.json	0	dialogue	いつ魔物がまた襲ってくるかビクビクです…	
+MAP62_e1_p0_6	Map062.json	0	dialogue	いつ魔物がまた襲ってくるかビクビクです…	I'm on edge, wondering when monsters will attack again...
 MAP62_e20_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e21_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e22_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
@@ -6741,15 +6741,15 @@ MAP62_e2_p2_6_c1	Map062.json	choice	choice	セイリュー	Seiryu
 MAP62_e2_p2_6_c2	Map062.json	choice	choice	旅の宿屋	Traveler's Inn
 MAP62_e2_p2_6_c3	Map062.json	choice	choice	南の採石場	Southern Quarry
 MAP62_e30_p0_1	Map062.json	0	dialogue	城下町の巡回兵マックス：	Max, Town Patrolman:
-MAP62_e30_p0_2	Map062.json	0	dialogue	ウィンダムの城下町、現在は異常なし！	
-MAP62_e30_p0_3	Map062.json	0	dialogue	ウィン殿、ご武運をお祈りしております！	
+MAP62_e30_p0_2	Map062.json	0	dialogue	ウィンダムの城下町、現在は異常なし！	Windam Castle Town: currently no anomalies!
+MAP62_e30_p0_3	Map062.json	0	dialogue	ウィン殿、ご武運をお祈りしております！	Sir Win, I pray for your fortune in battle!
 MAP62_e34_p0_1	Map062.json	0	dialogue	城下町北の巡回兵デミトリ―：	Demitri, North Town Patrolman:
-MAP62_e34_p0_2	Map062.json	0	dialogue	いい匂いがしなくなっちまった…	
-MAP62_e34_p0_3	Map062.json	0	dialogue	…って、ウィン！？	
+MAP62_e34_p0_2	Map062.json	0	dialogue	いい匂いがしなくなっちまった…	The place doesn't smell nice anymore...
+MAP62_e34_p0_3	Map062.json	0	dialogue	…って、ウィン！？	...Oh, Win!?
 MAP62_e34_p0_5	Map062.json	0	dialogue	城下町北の巡回兵デミトリ―：	Demitri, North Town Patrolman:
-MAP62_e34_p0_6	Map062.json	0	dialogue	あ、大丈夫、大丈夫！！	
-MAP62_e34_p0_7	Map062.json	0	dialogue	お前のご両親なら、お城に避難してるぜ！	
-MAP62_e34_p0_8	Map062.json	0	dialogue	無事だからな！！	
+MAP62_e34_p0_6	Map062.json	0	dialogue	あ、大丈夫、大丈夫！！	Ah, it's fine, it's fine!!
+MAP62_e34_p0_7	Map062.json	0	dialogue	お前のご両親なら、お城に避難してるぜ！	Your parents took refuge in the castle!
+MAP62_e34_p0_8	Map062.json	0	dialogue	無事だからな！！	They're safe!!
 MAP62_e39_p2_2	Map062.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP62_e39_p2_3	Map062.json	0	dialogue	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP62_e39_p2_4_c0	Map062.json	choice	choice	ハヤテを使おう	Use Hayate
@@ -6777,40 +6777,40 @@ MAP62_e41_p2_20	Map062.json	0	dialogue	　　　　　　　　　　ウィン�
 MAP62_e41_p3_10	Map062.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP62_e41_p3_17	Map062.json	0	dialogue	ピピン：	Pipin:
 MAP62_e41_p3_2	Map062.json	0	dialogue	ピピン：	Pipin:
-MAP62_e41_p3_3	Map062.json	0	dialogue	フン、なりはデカくても…	
-MAP62_e41_p3_4	Map062.json	0	dialogue	俺たちの相手じゃなかったな。	
+MAP62_e41_p3_3	Map062.json	0	dialogue	フン、なりはデカくても…	Hmph, big as they were...
+MAP62_e41_p3_4	Map062.json	0	dialogue	俺たちの相手じゃなかったな。	they were no match for us.
 MAP62_e41_p3_42	Map062.json	0	dialogue	巡回兵カイル：	Kyle, Patrolman:
-MAP62_e41_p3_43	Map062.json	0	dialogue	あーっ！！　　いた！！	
-MAP62_e41_p3_44	Map062.json	0	dialogue	えっ！　ウィン！？　それに…ピピン！！？？	
+MAP62_e41_p3_43	Map062.json	0	dialogue	あーっ！！　　いた！！	Ahh!! There they are!!
+MAP62_e41_p3_44	Map062.json	0	dialogue	えっ！　ウィン！？　それに…ピピン！！？？	Huh! Win!? And... Pipin!!??
 MAP62_e41_p3_55	Map062.json	0	dialogue	巡回兵カイル：	Kyle, Patrolman:
-MAP62_e41_p3_56	Map062.json	0	dialogue	おい、ピピン待ってくれ！！	
-MAP62_e41_p3_57	Map062.json	0	dialogue	ウィンも、助けてくれ！！	
+MAP62_e41_p3_56	Map062.json	0	dialogue	おい、ピピン待ってくれ！！	Hey, Pipin, wait!!
+MAP62_e41_p3_57	Map062.json	0	dialogue	ウィンも、助けてくれ！！	Win, help too!!
 MAP62_e41_p3_59	Map062.json	0	dialogue	ピピン：	Pipin:
 MAP62_e41_p3_6	Map062.json	0	dialogue	ウィン：	Win:
 MAP62_e41_p3_62	Map062.json	0	dialogue	ウィン：	Win:
 MAP62_e41_p3_65	Map062.json	0	dialogue	巡回兵カイル：	Kyle, Patrolman:
-MAP62_e41_p3_66	Map062.json	0	dialogue	ふたりとも…すぐに城へ…　王の間へ…	
+MAP62_e41_p3_66	Map062.json	0	dialogue	ふたりとも…すぐに城へ…　王の間へ…	Both of you... quickly, to the castle... the throne room...
 MAP62_e41_p3_70	Map062.json	0	dialogue	巡回兵カイル：	Kyle, Patrolman:
-MAP62_e41_p3_71	Map062.json	0	dialogue	四天王を名乗る奴が…　王の間に現れて…	
-MAP62_e41_p3_72	Map062.json	0	dialogue	あのままじゃ、王もみんなも殺されちまう！！	
+MAP62_e41_p3_71	Map062.json	0	dialogue	四天王を名乗る奴が…　王の間に現れて…	Someone claiming to be a Four General... appeared in the throne room...
+MAP62_e41_p3_72	Map062.json	0	dialogue	あのままじゃ、王もみんなも殺されちまう！！	At this rate, the king and everyone will be killed!!
 MAP62_e4_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e50_p0_30	Map062.json	0	dialogue	城下町北の巡回兵デミトリ―：	Demitri, North Town Patrolman:
-MAP62_e50_p0_31	Map062.json	0	dialogue	す、すごく大きなバケモノです……隊長…！	
+MAP62_e50_p0_31	Map062.json	0	dialogue	す、すごく大きなバケモノです……隊長…！	It's a h-huge monster... Captain...!
 MAP62_e50_p0_37	Map062.json	0	dialogue	城下町の巡回兵マックス：	Max, Town Patrolman:
-MAP62_e50_p0_38	Map062.json	0	dialogue	た、隊長…　か、かかか…　加勢します…！！	
+MAP62_e50_p0_38	Map062.json	0	dialogue	た、隊長…　か、かかか…　加勢します…！！	C-Captain... I-I-I'll... join you...!!
 MAP62_e50_p0_47	Map062.json	0	dialogue	ピピン：	Pipin:
-MAP62_e50_p0_48	Map062.json	0	dialogue	…下がれ！！	
-MAP62_e50_p0_49	Map062.json	0	dialogue	こいつは、お前らの手には負えん！！	
+MAP62_e50_p0_48	Map062.json	0	dialogue	…下がれ！！	...Fall back!!
+MAP62_e50_p0_49	Map062.json	0	dialogue	こいつは、お前らの手には負えん！！	You lot can't handle this one!!
 MAP62_e50_p0_51	Map062.json	0	dialogue	ピピン：	Pipin:
-MAP62_e50_p0_52	Map062.json	0	dialogue	こいつは俺に任せろ！！　	
+MAP62_e50_p0_52	Map062.json	0	dialogue	こいつは俺に任せろ！！　	Leave this one to me!!
 MAP62_e50_p0_54	Map062.json	0	dialogue	ウィン：	Win:
 MAP62_e50_p0_57	Map062.json	0	dialogue	ピピン：	Pipin:
-MAP62_e50_p0_58	Map062.json	0	dialogue	…ん？	
+MAP62_e50_p0_58	Map062.json	0	dialogue	…ん？	...Hm?
 MAP62_e50_p0_69	Map062.json	0	dialogue	ピピン：	Pipin:
-MAP62_e50_p0_70	Map062.json	0	dialogue	…お前か。	
+MAP62_e50_p0_70	Map062.json	0	dialogue	…お前か。	...It's you.
 MAP62_e50_p0_72	Map062.json	0	dialogue	ウィン：	Win:
 MAP62_e50_p0_78	Map062.json	0	dialogue	ピピン：	Pipin:
-MAP62_e50_p0_79	Map062.json	0	dialogue	…手伝え、ウィン！	
+MAP62_e50_p0_79	Map062.json	0	dialogue	…手伝え、ウィン！	...Help me, Win!
 MAP62_e50_p0_8	Map062.json	0	dialogue	ウィン：	Win:
 MAP62_e50_p0_82	Map062.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP62_e5_p0_1	Map062.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -6819,9 +6819,9 @@ MAP62_e7_p0_1	Map062.json	0	dialogue	持ち出して役に立つようなもの�
 MAP62_e8_p0_1	Map062.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP62_e9_p0_1	Map062.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP63_e17_p0_1	Map063.json	0	dialogue	ナガレ：	Nagare:
-MAP63_e17_p0_2	Map063.json	0	dialogue	何をしてんだホノオ！？	
-MAP63_e17_p0_3	Map063.json	0	dialogue	今更戻ってもどうしようもない！	
-MAP63_e17_p0_4	Map063.json	0	dialogue	早く上の階へ行くぞ！	
+MAP63_e17_p0_2	Map063.json	0	dialogue	何をしてんだホノオ！？	What are you doing, Hono!?
+MAP63_e17_p0_3	Map063.json	0	dialogue	今更戻ってもどうしようもない！	Going back now would be pointless!
+MAP63_e17_p0_4	Map063.json	0	dialogue	早く上の階へ行くぞ！	Quick, to the floor above!
 MAP63_e18_p0_1	Map063.json	0	dialogue	ナガレ：	Nagare:
 MAP63_e18_p0_10	Map063.json	0	dialogue	ナガレ：	Nagare:
 MAP63_e18_p0_11	Map063.json	0	dialogue	…ホノオ。	...Hono.
@@ -6857,25 +6857,25 @@ MAP63_e34_p1_6_c2	Map063.json	choice	choice	旅の宿屋	Traveler's Inn
 MAP63_e34_p1_6_c3	Map063.json	choice	choice	南の採石場	Southern Quarry
 MAP63_e34_p1_6_c4	Map063.json	choice	choice	暗黒大陸の廃墟	Dark Continent Ruins
 MAP63_e35_p0_10	Map063.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
-MAP63_e35_p0_11	Map063.json	0	dialogue	…お、王子ぃぃぃ…	
+MAP63_e35_p0_11	Map063.json	0	dialogue	…お、王子ぃぃぃ…	...O-O-O Prince...
 MAP63_e35_p0_13	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e35_p0_14	Map063.json	0	dialogue	おい！しっかりしろ！	
+MAP63_e35_p0_14	Map063.json	0	dialogue	おい！しっかりしろ！	Hey! Pull yourself together!
 MAP63_e35_p0_16	Map063.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
-MAP63_e35_p0_17	Map063.json	0	dialogue	…は、はいぃぃ……	
+MAP63_e35_p0_17	Map063.json	0	dialogue	…は、はいぃぃ……	...Y-Yes...
 MAP63_e35_p0_19	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e35_p0_20	Map063.json	0	dialogue	親父は無事なのか！？	
+MAP63_e35_p0_20	Map063.json	0	dialogue	親父は無事なのか！？	Is my dad safe!?
 MAP63_e35_p0_22	Map063.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
-MAP63_e35_p0_23	Map063.json	0	dialogue	…わ、わかりません	
-MAP63_e35_p0_24	Map063.json	0	dialogue	おそろしく強い…　全身鎧の奴が…　上へ…	
+MAP63_e35_p0_23	Map063.json	0	dialogue	…わ、わかりません	...I-I don't know.
+MAP63_e35_p0_24	Map063.json	0	dialogue	おそろしく強い…　全身鎧の奴が…　上へ…	An absurdly strong... full-armored man... went up...
 MAP63_e35_p0_26	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e35_p0_27	Map063.json	0	dialogue	なんだと…　まさか…！！	
+MAP63_e35_p0_27	Map063.json	0	dialogue	なんだと…　まさか…！！	What... no way...!!
 MAP63_e35_p0_29	Map063.json	0	dialogue	ナガレ：	Nagare:
-MAP63_e35_p0_30	Map063.json	0	dialogue	知っている奴なのか…　ホノオ！？	
+MAP63_e35_p0_30	Map063.json	0	dialogue	知っている奴なのか…　ホノオ！？	You know who it is... Hono!?
 MAP63_e35_p0_32	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e35_p0_33	Map063.json	0	dialogue	もしかしたら…な…	
+MAP63_e35_p0_33	Map063.json	0	dialogue	もしかしたら…な…	Maybe... it's him...
 MAP63_e35_p0_35	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e35_p0_36	Map063.json	0	dialogue	くっそー…	
-MAP63_e35_p0_37	Map063.json	0	dialogue	生きていてくれよ…　親父…！！	
+MAP63_e35_p0_36	Map063.json	0	dialogue	くっそー…	Damn it...
+MAP63_e35_p0_37	Map063.json	0	dialogue	生きていてくれよ…　親父…！！	Please be alive... Dad...!!
 MAP63_e35_p1_1	Map063.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
 MAP63_e35_p1_2	Map063.json	0	dialogue	…お、王子　	...O-Oh, Prince
 MAP63_e35_p1_3	Map063.json	0	dialogue	あいつ…　めちゃくちゃ強いです…	That guy... he's insanely strong...
@@ -6888,13 +6888,13 @@ MAP63_e35_p2_5	Map063.json	0	dialogue	ホノオ：	Hono:
 MAP63_e35_p2_6	Map063.json	0	dialogue	ああ…知ってるさ…	Yeah... I know...
 MAP63_e35_p3_1	Map063.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
 MAP63_e35_p3_11	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e35_p3_12	Map063.json	0	dialogue	けっこう態度違くねーか…	
-MAP63_e35_p3_2	Map063.json	0	dialogue	あっ！　ナガレ様じゃないっすか！	
-MAP63_e35_p3_3	Map063.json	0	dialogue	ちっす！　この前はあざっす！！	
+MAP63_e35_p3_12	Map063.json	0	dialogue	けっこう態度違くねーか…	Their attitude's really different, huh...
+MAP63_e35_p3_2	Map063.json	0	dialogue	あっ！　ナガレ様じゃないっすか！	Oh! If it isn't Lady Nagare!
+MAP63_e35_p3_3	Map063.json	0	dialogue	ちっす！　この前はあざっす！！	Yo! Thanks for the other day!!
 MAP63_e35_p3_5	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e35_p3_6	Map063.json	0	dialogue	よう！　元気になったみたいでよかったぜ！	
+MAP63_e35_p3_6	Map063.json	0	dialogue	よう！　元気になったみたいでよかったぜ！	Hey! Glad to see you're feeling better!
 MAP63_e35_p3_8	Map063.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
-MAP63_e35_p3_9	Map063.json	0	dialogue	へ？　あ、王子　どうもっす	
+MAP63_e35_p3_9	Map063.json	0	dialogue	へ？　あ、王子　どうもっす	Huh? Oh, Prince. Howdy.
 MAP63_e36_p0_1	Map063.json	0	dialogue	ホノオ：	Hono:
 MAP63_e36_p0_2	Map063.json	0	dialogue	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e40_p0_1	Map063.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -7020,45 +7020,45 @@ MAP63_e50_p1_3	Map063.json	0	dialogue	別にいまはじまったことじゃな
 MAP63_e50_p1_4	Map063.json	0	dialogue	一定数おるんじゃ。	there's always been a steady number of them.
 MAP63_e51_p0_1	Map063.json	0	dialogue	フレイム兵ザッハト：	Zacht, Flame Soldier:
 MAP63_e51_p0_10	Map063.json	0	dialogue	フレイム兵ザッハト：	Zacht, Flame Soldier:
-MAP63_e51_p0_11	Map063.json	0	dialogue	えー？　あっ王子！	
+MAP63_e51_p0_11	Map063.json	0	dialogue	えー？　あっ王子！	Huh? Oh, Prince!
 MAP63_e51_p0_12	Map063.json	0	dialogue	いやでもこのひとらに城ん中うろうろさせたら	
-MAP63_e51_p0_13	Map063.json	0	dialogue	何するかわかんないんすよー	
+MAP63_e51_p0_13	Map063.json	0	dialogue	何するかわかんないんすよー	who knows what they might do~
 MAP63_e51_p0_15	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e51_p0_16	Map063.json	0	dialogue	だからって閉じ込めたら窮屈で仕方ねえ…	
-MAP63_e51_p0_17	Map063.json	0	dialogue	これが民を守る王国のやることかよ！	
+MAP63_e51_p0_16	Map063.json	0	dialogue	だからって閉じ込めたら窮屈で仕方ねえ…	But locking them up is so cramped and awful...
+MAP63_e51_p0_17	Map063.json	0	dialogue	これが民を守る王国のやることかよ！	Is this how a kingdom protects its people!?
 MAP63_e51_p0_19	Map063.json	0	dialogue	フレイム兵ザッハト：	Zacht, Flame Soldier:
-MAP63_e51_p0_2	Map063.json	0	dialogue	あーダメダメ！　	
-MAP63_e51_p0_20	Map063.json	0	dialogue	メシも寝床も人数分しっかり出してますし…	
-MAP63_e51_p0_21	Map063.json	0	dialogue	王子、これは仕方ないんです。	
-MAP63_e51_p0_22	Map063.json	0	dialogue	ウィンダムとかとは治安がちがうんですよ	
+MAP63_e51_p0_2	Map063.json	0	dialogue	あーダメダメ！　	Ah, no no!
+MAP63_e51_p0_20	Map063.json	0	dialogue	メシも寝床も人数分しっかり出してますし…	We're providing food and beds for everyone...
+MAP63_e51_p0_21	Map063.json	0	dialogue	王子、これは仕方ないんです。	Prince, this can't be helped.
+MAP63_e51_p0_22	Map063.json	0	dialogue	ウィンダムとかとは治安がちがうんですよ	Our security situation differs from places like Windam.
 MAP63_e51_p0_24	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e51_p0_25	Map063.json	0	dialogue	………だからってよー……	
+MAP63_e51_p0_25	Map063.json	0	dialogue	………だからってよー……	.........Even so...
 MAP63_e51_p0_27	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e51_p0_28	Map063.json	0	dialogue	アニキがいたならこういうとき…	
-MAP63_e51_p0_29	Map063.json	0	dialogue	もっといいやり方出来たんだろうな…	
-MAP63_e51_p0_3	Map063.json	0	dialogue	こっから先は立ち入り禁止だし…	
+MAP63_e51_p0_28	Map063.json	0	dialogue	アニキがいたならこういうとき…	If big bro were here, in times like this...
+MAP63_e51_p0_29	Map063.json	0	dialogue	もっといいやり方出来たんだろうな…	he'd have found a better way...
+MAP63_e51_p0_3	Map063.json	0	dialogue	こっから先は立ち入り禁止だし…	Beyond this point is off-limits, and...
 MAP63_e51_p0_31	Map063.json	0	dialogue	ナガレ：	Nagare:
-MAP63_e51_p0_32	Map063.json	0	dialogue	ホノオ！	
+MAP63_e51_p0_32	Map063.json	0	dialogue	ホノオ！	Hono!
 MAP63_e51_p0_34	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e51_p0_35	Map063.json	0	dialogue	あ、いや…別に弱音吐いたつもじゃりねえんだ…	
-MAP63_e51_p0_36	Map063.json	0	dialogue	やっぱり普段から民にもっとしっかり食わせる	
-MAP63_e51_p0_37	Map063.json	0	dialogue	必要があるんだなって思ったよ…	
-MAP63_e51_p0_4	Map063.json	0	dialogue	出るのも禁止です！	
+MAP63_e51_p0_35	Map063.json	0	dialogue	あ、いや…別に弱音吐いたつもじゃりねえんだ…	Ah, no... I didn't mean to sound so weak...
+MAP63_e51_p0_36	Map063.json	0	dialogue	やっぱり普段から民にもっとしっかり食わせる	I just realized we really need to make sure
+MAP63_e51_p0_37	Map063.json	0	dialogue	必要があるんだなって思ったよ…	the people eat properly, day to day...
+MAP63_e51_p0_4	Map063.json	0	dialogue	出るのも禁止です！	Leaving is also forbidden!
 MAP63_e51_p0_6	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e51_p0_7	Map063.json	0	dialogue	おいおい…町から避難してきた人間ここに	
-MAP63_e51_p0_8	Map063.json	0	dialogue	閉じ込めてんのかよ！？　かわいそうだろ！	
+MAP63_e51_p0_7	Map063.json	0	dialogue	おいおい…町から避難してきた人間ここに	Hey now... you're locking up the people who
+MAP63_e51_p0_8	Map063.json	0	dialogue	閉じ込めてんのかよ！？　かわいそうだろ！	fled the town here!? That's awful!
 MAP63_e52_p1_1	Map063.json	0	dialogue	フレイム兵ユミル：	Yumir, Flame Soldier:
-MAP63_e52_p1_10	Map063.json	0	dialogue	手間自体はそんなでもないんす。	
-MAP63_e52_p1_11	Map063.json	0	dialogue	火降ってくるのが治まりさえすれば…	
+MAP63_e52_p1_10	Map063.json	0	dialogue	手間自体はそんなでもないんす。	It's not that much trouble, honestly.
+MAP63_e52_p1_11	Map063.json	0	dialogue	火降ってくるのが治まりさえすれば…	If only the falling fire would stop...
 MAP63_e52_p1_13	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e52_p1_14	Map063.json	0	dialogue	そうか…　すまんな　さっさと闇の何とかを	
-MAP63_e52_p1_15	Map063.json	0	dialogue	やっつけてくるぜ！	
-MAP63_e52_p1_2	Map063.json	0	dialogue	あっ！　危ないっす！	
-MAP63_e52_p1_3	Map063.json	0	dialogue	それ以上来ちゃダメっすよ！	
+MAP63_e52_p1_14	Map063.json	0	dialogue	そうか…　すまんな　さっさと闇の何とかを	I see... sorry, we'll hurry and beat up
+MAP63_e52_p1_15	Map063.json	0	dialogue	やっつけてくるぜ！	the Dark-whatever!
+MAP63_e52_p1_2	Map063.json	0	dialogue	あっ！　危ないっす！	Ah! Watch out!
+MAP63_e52_p1_3	Map063.json	0	dialogue	それ以上来ちゃダメっすよ！	You can't come any closer!
 MAP63_e52_p1_5	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e52_p1_6	Map063.json	0	dialogue	城ん中、直せそうか？	
+MAP63_e52_p1_6	Map063.json	0	dialogue	城ん中、直せそうか？	Can you fix the castle?
 MAP63_e52_p1_8	Map063.json	0	dialogue	フレイム兵ユミル：	Yumir, Flame Soldier:
-MAP63_e52_p1_9	Map063.json	0	dialogue	もともと石積み上げまくってるだけなんで、	
+MAP63_e52_p1_9	Map063.json	0	dialogue	もともと石積み上げまくってるだけなんで、	It's basically just stacked stone, so
 MAP63_e53_p1_1	Map063.json	0	dialogue	王宮の職人キスパ：	Kispa, Royal Craftsman:
 MAP63_e53_p1_10	Map063.json	0	dialogue	王宮の職人キスパ：	Kispa, Royal Craftsman:
 MAP63_e53_p1_13	Map063.json	0	dialogue	ウィン：	Win:
@@ -7083,27 +7083,27 @@ MAP63_e55_p0_1	Map063.json	0	dialogue	家畜責任者デリー：	Derry, Livesto
 MAP63_e55_p0_2	Map063.json	0	dialogue	えっ？　牢屋じゃないよ。	Huh? This isn't a jail.
 MAP63_e55_p0_3	Map063.json	0	dialogue	ここは家畜小屋さ。	It's a livestock shed.
 MAP63_e55_p1_1	Map063.json	0	dialogue	家畜責任者デリー：	Derry, Livestock Chief:
-MAP63_e55_p1_2	Map063.json	0	dialogue	あーーーわしの家畜小屋が…！！	
-MAP63_e55_p1_3	Map063.json	0	dialogue	ニワトリたちがーーーー	
-MAP63_e55_p1_4	Map063.json	0	dialogue	って、あれどうなってんの！？	
+MAP63_e55_p1_2	Map063.json	0	dialogue	あーーーわしの家畜小屋が…！！	Aaaah—my livestock shed...!!
+MAP63_e55_p1_3	Map063.json	0	dialogue	ニワトリたちがーーーー	My chickens—
+MAP63_e55_p1_4	Map063.json	0	dialogue	って、あれどうなってんの！？	Wait, what's going on over there!?
 MAP63_e59_p1_1	Map063.json	0	dialogue	フレイム巡回兵ケイン：	Kane, Flame Patrolman:
 MAP63_e59_p1_11	Map063.json	0	dialogue	フレイム巡回兵ケイン：	Kane, Flame Patrolman:
-MAP63_e59_p1_12	Map063.json	0	dialogue	ナ、ナガレ様のにぎったライスボール…	
-MAP63_e59_p1_13	Map063.json	0	dialogue	食べたいっす！！	
+MAP63_e59_p1_12	Map063.json	0	dialogue	ナ、ナガレ様のにぎったライスボール…	A rice ball shaped by Lady Nagare's hands...
+MAP63_e59_p1_13	Map063.json	0	dialogue	食べたいっす！！	I want to eat it!!
 MAP63_e59_p1_15	Map063.json	0	dialogue	ナガレ：	Nagare:
-MAP63_e59_p1_16	Map063.json	0	dialogue	あはは、平和になったらみんなで握ろう！	
+MAP63_e59_p1_16	Map063.json	0	dialogue	あはは、平和になったらみんなで握ろう！	Ahaha, once peace returns, we'll all make them together!
 MAP63_e59_p1_18	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e59_p1_19	Map063.json	0	dialogue	おい、オレの握ったライスボールはどうだ！？	
-MAP63_e59_p1_2	Map063.json	0	dialogue	この前ライスボール食べたんだけどさー	
+MAP63_e59_p1_19	Map063.json	0	dialogue	おい、オレの握ったライスボールはどうだ！？	Hey, what about the rice ball I made!?
+MAP63_e59_p1_2	Map063.json	0	dialogue	この前ライスボール食べたんだけどさー	I ate a rice ball the other day, and—
 MAP63_e59_p1_21	Map063.json	0	dialogue	フレイム巡回兵ケイン：	Kane, Flame Patrolman:
-MAP63_e59_p1_22	Map063.json	0	dialogue	王子が握ったらボールじゃなくて	
-MAP63_e59_p1_23	Map063.json	0	dialogue	ナンになりそう　平たくなっちゃいそう	
-MAP63_e59_p1_3	Map063.json	0	dialogue	めちゃうま！　あれコメ手で握っただけ	
-MAP63_e59_p1_4	Map063.json	0	dialogue	なんだろ？　なんであんなにうまいの！？	
+MAP63_e59_p1_22	Map063.json	0	dialogue	王子が握ったらボールじゃなくて	if the Prince made one, it wouldn't be a ball,
+MAP63_e59_p1_23	Map063.json	0	dialogue	ナンになりそう　平たくなっちゃいそう	it'd be a naan—flat as can be.
+MAP63_e59_p1_3	Map063.json	0	dialogue	めちゃうま！　あれコメ手で握っただけ	It was delicious! It's just rice shaped by hand,
+MAP63_e59_p1_4	Map063.json	0	dialogue	なんだろ？　なんであんなにうまいの！？	so why is it that good!?
 MAP63_e59_p1_6	Map063.json	0	dialogue	ナガレ：	Nagare:
-MAP63_e59_p1_7	Map063.json	0	dialogue	セイリューのコメは柔らかいけど、握っても	
+MAP63_e59_p1_7	Map063.json	0	dialogue	セイリューのコメは柔らかいけど、握っても	Seiryu rice is soft, yet even when pressed,
 MAP63_e59_p1_8	Map063.json	0	dialogue	ぜんぜんつぶれたりせず弾力があるんだ。	
-MAP63_e59_p1_9	Map063.json	0	dialogue	だから握ると逆に噛み応えが増すのさ。	
+MAP63_e59_p1_9	Map063.json	0	dialogue	だから握ると逆に噛み応えが増すのさ。	Shaping it actually makes it chewier.
 MAP64_e10_p0_1	Map064.json	0	dialogue	『王のいないセイリュー』	"""Seiryu, the Land Without a King"""
 MAP64_e10_p0_11	Map064.json	1	dialogue	セイリューでは、大昔から、漁をしてきた一族、大工をして	In Seiryu, since ancient times, there have been families of fishers, carpenters,
 MAP64_e10_p0_12	Map064.json	1	dialogue	きた一族、作物を育ててきた一族、鍛冶をしてきた一族…	farmers, smiths...
@@ -7139,7 +7139,7 @@ MAP64_e12_p0_1	Map064.json	0	dialogue	『階級ということ』	"""On Social C
 MAP64_e12_p0_11	Map064.json	1	dialogue	この地における、階級の存在について、フレイム王国の	One must say the people of the Flame Kingdom give little thought
 MAP64_e12_p0_12	Map064.json	1	dialogue	人々は意識が少ないと言わざるをえない。確かに厳しい	to social class. Truly, they aren't bound by harsh laws; everyone is free.
 MAP64_e12_p0_13	Map064.json	1	dialogue	法律で縛られることもない、ひとびとはみな自由で、	Everyone is free and unbound by harsh laws.
-MAP64_e12_p0_14	Map064.json	1	dialogue	思い悩む顔も他国にひとびとよりも少ない。	
+MAP64_e12_p0_14	Map064.json	1	dialogue	思い悩む顔も他国にひとびとよりも少ない。	The faces of its people seem less troubled than those of other lands.
 MAP64_e12_p0_16	Map064.json	1	dialogue	しかし、物乞いが努力することで商人たちのように金を	But can a beggar, through effort, grow rich like the merchants?
 MAP64_e12_p0_17	Map064.json	1	dialogue	儲けられる国だろうか？兵士が王族のような指揮官、	Can a soldier become a commander or general like royalty?
 MAP64_e12_p0_18	Map064.json	1	dialogue	将軍になれるだろうか？農民や大工に学問を学べるような	Do farmers and carpenters get chances to study?
@@ -7177,7 +7177,7 @@ MAP64_e14_p0_2	Map064.json	0	dialogue	…と、表紙に書かれた本がある
 MAP64_e14_p0_3_c0	Map064.json	choice	choice	読んでみる	Read it
 MAP64_e14_p0_3_c1	Map064.json	choice	choice	読まない	Don't read it
 MAP64_e14_p0_6	Map064.json	1	dialogue	国王陛下の命令の元、ウィンダム王国と戦争した場合に	Should we go to war with the Windam Kingdom by His Majesty's order,
-MAP64_e14_p0_7	Map064.json	1	dialogue	どうなるかを調査した結果ををここに報告します。	
+MAP64_e14_p0_7	Map064.json	1	dialogue	どうなるかを調査した結果ををここに報告します。	Here I report the results of my survey of how things would unfold.
 MAP64_e14_p0_9	Map064.json	1	dialogue	騎士団は定期的な軍事的訓練を行っており、その装備もまた	the knight order trains regularly, and its equipment is
 MAP64_e15_p1_1	Map064.json	0	dialogue	イヌ：	Dog:
 MAP64_e15_p1_2	Map064.json	0	dialogue	…ックーン！	...Yip!
@@ -7221,14 +7221,14 @@ MAP64_e16_p0_7	Map064.json	1	dialogue	バーン王である。	was King Burn.
 MAP64_e16_p0_8	Map064.json	1	dialogue	砂漠にはびこる野盗、毒蛇、そして砂漠オオカミ。	Bandits, venomous snakes, and desert wolves plague the sands.
 MAP64_e16_p0_9	Map064.json	1	dialogue	一年中吹き荒れている砂嵐…。	Sandstorms rage all year round...
 MAP64_e17_p0_100	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e17_p0_101	Map064.json	0	dialogue	だからよー…　オレがコイツを倒すんだから…	
-MAP64_e17_p0_102	Map064.json	0	dialogue	おまえは戦わなくていいって言ってんだよー！	
+MAP64_e17_p0_101	Map064.json	0	dialogue	だからよー…　オレがコイツを倒すんだから…	That's why... I'm going to defeat this guy...
+MAP64_e17_p0_102	Map064.json	0	dialogue	おまえは戦わなくていいって言ってんだよー！	so I'm telling you, you don't need to fight!
 MAP64_e17_p0_105	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e17_p0_106	Map064.json	0	dialogue	頼む…　ナガレ…	
-MAP64_e17_p0_107	Map064.json	0	dialogue	おまえなら、みんなを助けられるだろ…？	
+MAP64_e17_p0_106	Map064.json	0	dialogue	頼む…　ナガレ…	Please... Nagare...
+MAP64_e17_p0_107	Map064.json	0	dialogue	おまえなら、みんなを助けられるだろ…？	You could save everyone, right...?
 MAP64_e17_p0_109	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e17_p0_110	Map064.json	0	dialogue	おまえなら、ぜってーに親父たちを	
-MAP64_e17_p0_111	Map064.json	0	dialogue	助けてくれる…　そう信じられるから、	
+MAP64_e17_p0_110	Map064.json	0	dialogue	おまえなら、ぜってーに親父たちを	You'd absolutely save my dad and the others...
+MAP64_e17_p0_111	Map064.json	0	dialogue	助けてくれる…　そう信じられるから、	I believe that, so—
 MAP64_e17_p0_112	Map064.json	0	dialogue	オレは戦いに集中できる…　	
 MAP64_e17_p0_114	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e17_p0_115	Map064.json	0	dialogue	だからオマエもオレを信じてくれ…	
