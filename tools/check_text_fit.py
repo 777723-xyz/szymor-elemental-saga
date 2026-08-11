@@ -37,10 +37,10 @@ NO_FACE_BUDGET = 780.0  # 816 - 2*18 padding
 
 
 def load_tsv(path):
+    """Read the TSV with csv so quoted fields (quotes/newlines) parse correctly."""
+    import csv
     with open(path, encoding="utf-8") as fh:
-        lines = [l.rstrip("\n") for l in fh]
-    header = lines[0].split("\t")
-    return [dict(zip(header, ln.split("\t"))) for ln in lines[1:] if ln.strip()]
+        return list(csv.DictReader(fh, delimiter="\t"))
 
 
 def load_json(path):
@@ -101,6 +101,28 @@ class Measurer:
             i += 1
         flush()
         return [sum(ln) for ln in lines], var_estimate
+
+    def measure_simple(self, text):
+        """Width of a plain (control-code-free) text run."""
+        return self.font.getlength(text)
+
+    def control_width(self, token):
+        """Rendered width of a single control-code token (e.g. \\i[4])."""
+        m = re.match(r"\\([A-Za-z.])(?:\[([^\]]*)\])?", token)
+        if not m:
+            return 0.0
+        code, arg = m.group(1), m.group(2)
+        if code == "i":
+            return 32.0
+        if code in ("v", "V"):
+            return self.var_estimate
+        if code in ("N", "P"):
+            name = (self.actor_names.get(int(arg), "")
+                    if arg and arg.isdigit() else "")
+            return self.font.getlength(name)
+        if code == "G":
+            return self.font.getlength(self.currency)
+        return 0.0  # c / . / | / ! / ^ / $ / > / < / n / f -> zero width here
 
 
 class FaceLookup:
