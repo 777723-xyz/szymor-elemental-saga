@@ -9,3 +9,6 @@ docs/text/backups/
 
 # Stale artifact from an early extractor run (real file: docs/text/plugins.tsv)
 docs/text/plugin.tsv
+
+# Regenerable English game build (python3 tools/inject_text.py)
+build/

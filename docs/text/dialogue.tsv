@@ -12633,3 +12633,1989 @@ CE4_11	CommonEvents.json	0	dialogue	魔族を、闇を駆逐した我々は、�
 CE4_12	CommonEvents.json	0	dialogue	正しいのであろうか。お互いの内に闇を生み出しそれを増幅
 CE4_13	CommonEvents.json	0	dialogue	し合うようになった我々がそこに目を向けない限り、本当の
 CE4_14	CommonEvents.json	0	dialogue	意味での闇は結局形を変えるだけでむしろ強大になるばかり
+TROOP9_p0_1	Troops.json	0	dialogue	ピピン：
+TROOP9_p0_2	Troops.json	0	dialogue	こいつも人食いの…イヌ？　イヌなのか！？
+TROOP9_p0_4	Troops.json	0	dialogue	ピピン：
+TROOP9_p0_5	Troops.json	0	dialogue	どうもいままでの魔物とは様子が違う…
+TROOP9_p0_6	Troops.json	0	dialogue	ウィン、気を引き締めろよ！
+TROOP9_p0_8	Troops.json	0	dialogue	ウィン：
+TROOP14_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP14_p0_2	Troops.json	0	dialogue	くそ…二人で勝ったんじゃ、試練を果たした
+TROOP14_p0_3	Troops.json	0	dialogue	ことにならなそうだなあ…
+TROOP14_p0_5	Troops.json	0	dialogue	ナウー：
+TROOP14_p0_6	Troops.json	0	dialogue	………（困
+TROOP14_p0_8	Troops.json	0	dialogue	ホノオ：
+TROOP14_p0_9	Troops.json	0	dialogue	とはいえ、オレはコイツにひとりじゃ
+TROOP14_p0_10	Troops.json	0	dialogue	絶対に勝てねえ！！
+TROOP14_p0_11	Troops.json	0	dialogue	卑怯かも知れねえが…
+TROOP14_p0_13	Troops.json	0	dialogue	一回勝たせてもらうぜ！！
+TROOP14_p0_15	Troops.json	0	dialogue	ナウー：
+TROOP14_p0_16	Troops.json	0	dialogue	……………（ゆっくり頷いてから武器を構える
+TROOP14_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP14_p1_2	Troops.json	0	dialogue	なんか左手の紋章が光りまくってる…
+TROOP14_p1_3	Troops.json	0	dialogue	いかにも魔法とか使えそうな感じだぜ！
+TROOP14_p1_5	Troops.json	0	dialogue	ウィン：
+TROOP14_p1_9	Troops.json	0	dialogue	　　　　ウィンの紋章もみどり色に輝いている！
+TROOP14_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP14_p2_2	Troops.json	0	dialogue	この鎧のオッサンは意外とすばやいうえに…
+TROOP14_p2_4	Troops.json	0	dialogue	ホノオ：
+TROOP14_p2_5	Troops.json	0	dialogue	こっちを気絶させたり、転ばせてくるから、
+TROOP14_p2_6	Troops.json	0	dialogue	ちっともこっちの番にならねーんだ…
+TROOP14_p2_8	Troops.json	0	dialogue	ホノオ：
+TROOP14_p2_9	Troops.json	0	dialogue	だけどオマエの…　オマエ…
+TROOP14_p2_11	Troops.json	0	dialogue	ウィン：
+TROOP14_p2_15	Troops.json	0	dialogue	　　　　　　　ウィンはホノオに名前を教えた
+TROOP14_p2_17	Troops.json	0	dialogue	ホノオ：
+TROOP14_p2_18	Troops.json	0	dialogue	オーケー！　ウィンて言うんだな！
+TROOP14_p2_19	Troops.json	0	dialogue	オレはホノオだぜ！　よろしくな！
+TROOP14_p2_21	Troops.json	0	dialogue	ホノオ：
+TROOP14_p2_22	Troops.json	0	dialogue	ウィンのそのハヤテの魔法を使えば、
+TROOP14_p2_23	Troops.json	0	dialogue	アイツよりも先に動ける…
+TROOP14_p2_24	Troops.json	0	dialogue	つまり…　コレは勝てるぜーーー！！
+TROOP14_p2_26	Troops.json	0	dialogue	ナウ―：
+TROOP14_p3_1	Troops.json	0	dialogue	ナウ―：
+TROOP14_p3_4	Troops.json	0	dialogue	ホノオ：
+TROOP14_p3_5	Troops.json	0	dialogue	おっ？　もしかして…　いけるか！？
+TROOP16_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP16_p0_2	Troops.json	0	dialogue	こんどこそ…！全部会心の一撃が出るかも！！
+TROOP27_p0_1	Troops.json	0	dialogue	トリカゼ：
+TROOP27_p0_2	Troops.json	0	dialogue	しっかし、こんなバケモノ…
+TROOP27_p0_3	Troops.json	0	dialogue	一体どこから来やがったんだ？
+TROOP27_p0_5	Troops.json	0	dialogue	マハリ：
+TROOP27_p0_6	Troops.json	0	dialogue	龍のお社の方から来たって誰かが
+TROOP27_p0_7	Troops.json	0	dialogue	言ってたよ…
+TROOP27_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP27_p0_10	Troops.json	0	dialogue	ごちゃごちゃ喋ってないで、
+TROOP27_p0_11	Troops.json	0	dialogue	さっさとこいつをぶちのめすぞ！
+TROOP33_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP33_p0_2	Troops.json	0	dialogue	お！　見た事のあるやつだぜ！
+TROOP34_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP34_p0_2	Troops.json	0	dialogue	なんだこの魔物…？
+TROOP34_p0_3	Troops.json	0	dialogue	なんか知らんけど、むちゃくちゃカッコいいぞ…
+TROOP34_p0_5	Troops.json	0	dialogue	ナガレ：
+TROOP34_p0_6	Troops.json	0	dialogue	見たこともない鎧を着ている…
+TROOP34_p0_7	Troops.json	0	dialogue	でもあいつらが持っているのは、刀だ。
+TROOP34_p0_9	Troops.json	0	dialogue	ホノオ：
+TROOP34_p0_10	Troops.json	0	dialogue	刀ってことは…　
+TROOP34_p0_11	Troops.json	0	dialogue	セイリューに関係する魔物なんじゃねえのか？
+TROOP34_p0_13	Troops.json	0	dialogue	ナガレ：
+TROOP34_p0_14	Troops.json	0	dialogue	分からないよ。
+TROOP34_p0_15	Troops.json	0	dialogue	この前に村を襲った魔物もだけど、
+TROOP34_p0_16	Troops.json	0	dialogue	最近見たこともない魔物ばっかりなのさ。
+TROOP35_p0_1	Troops.json	0	dialogue	ミケーネ：
+TROOP35_p0_2	Troops.json	0	dialogue	闇の四天王のこの私と…
+TROOP35_p0_3	Troops.json	0	dialogue	そして闇の結晶最強の…　この青龍！
+TROOP35_p0_5	Troops.json	0	dialogue	同時に相手することなんて…
+TROOP35_p0_6	Troops.json	0	dialogue	もしあなたたち全員が…紋章を持っていた
+TROOP35_p0_7	Troops.json	0	dialogue	としても…
+TROOP35_p0_8	Troops.json	0	dialogue	ほとんど不可能だったでしょうね…
+TROOP35_p0_10	Troops.json	0	dialogue	さあ、これで終りにしてあげる！
+TROOP35_p0_11	Troops.json	0	dialogue	私たち闇の四天王と…
+TROOP35_p0_12	Troops.json	0	dialogue	あなたたち継承者との争いを！！
+TROOP35_p0_14	Troops.json	0	dialogue	ホノオ：
+TROOP35_p0_15	Troops.json	0	dialogue	くっそーーーーーーー！！
+TROOP35_p0_16	Troops.json	0	dialogue	まったく勝てる気がしねえぜ、さすがに
+TROOP35_p0_17	Troops.json	0	dialogue	今回ばかりはよーーーーーーー！！！
+TROOP35_p0_19	Troops.json	0	dialogue	ナガレ：
+TROOP35_p0_20	Troops.json	0	dialogue	すまん、ホノオ、ウィン！
+TROOP35_p0_21	Troops.json	0	dialogue	なんとかあんたたちの力で…
+TROOP35_p0_22	Troops.json	0	dialogue	この場をしのいでくれ……！！
+TROOP35_p1_1	Troops.json	0	dialogue	ミケーネ：
+TROOP35_p1_2	Troops.json	0	dialogue	えーと…　ちょっと
+TROOP35_p1_3	Troops.json	0	dialogue	青龍さん、ちゃんと戦ってもらえるかしら…？
+TROOP35_p1_5	Troops.json	0	dialogue	ナガレ：
+TROOP35_p1_6	Troops.json	0	dialogue	…　なんだ？
+TROOP35_p2_1	Troops.json	0	dialogue	ミケーネ：
+TROOP35_p2_2	Troops.json	0	dialogue	ちょっと…　ちょっとちょっと青龍…！？
+TROOP35_p2_4	Troops.json	0	dialogue	ちゃんと言うことを聞いてもらえるかしら…
+TROOP35_p2_5	Troops.json	0	dialogue	私だってあなたの爪でひっかかれたら
+TROOP35_p2_6	Troops.json	0	dialogue	すごく痛いんだけど…
+TROOP35_p2_8	Troops.json	0	dialogue	ホノオ：
+TROOP35_p2_9	Troops.json	0	dialogue	なんだ…あいつら？
+TROOP35_p2_11	Troops.json	0	dialogue	ナガレ：
+TROOP35_p2_12	Troops.json	0	dialogue	様子がおかしい…。
+TROOP35_p2_13	Troops.json	0	dialogue	みんな、守りを固めて様子を見た方がいい。
+TROOP35_p3_1	Troops.json	0	dialogue	ミケーネ：
+TROOP35_p3_2	Troops.json	0	dialogue	もはや明らかに…
+TROOP35_p3_3	Troops.json	0	dialogue	青龍さん真面目にやる気ないわね…コレ…
+TROOP35_p3_5	Troops.json	0	dialogue	ホノオ：
+TROOP35_p3_6	Troops.json	0	dialogue	龍はオレらと戦う気がなさそうだぜ…？
+TROOP35_p3_8	Troops.json	0	dialogue	ナガレ：
+TROOP35_p3_9	Troops.json	0	dialogue	どういうことだ…。
+TROOP35_p3_11	Troops.json	0	dialogue	ウィン：
+TROOP35_p4_1	Troops.json	0	dialogue	ミケーネ：
+TROOP35_p4_2	Troops.json	0	dialogue	はいストップ！ストーー―――ップ！
+TROOP35_p4_4	Troops.json	0	dialogue	タイムです！タイム！！
+TROOP35_p4_5	Troops.json	0	dialogue	青龍さん…ちょっと会議です、会議…。
+TROOP36_p0_1	Troops.json	0	dialogue	ミケーネ：
+TROOP36_p0_2	Troops.json	0	dialogue	てめえら…　青龍を失っただけでも、
+TROOP36_p0_3	Troops.json	0	dialogue	こっちはもう後がねえんだ…
+TROOP36_p0_5	Troops.json	0	dialogue	ミケーネ：
+TROOP36_p0_6	Troops.json	0	dialogue	遊びは終わりだからなー…
+TROOP36_p0_7	Troops.json	0	dialogue	てめえらの人生も終わりだからなーーーー！！
+TROOP36_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP36_p0_10	Troops.json	0	dialogue	こいつはムチでの攻撃も強力だが、
+TROOP36_p0_11	Troops.json	0	dialogue	魔法も使ってくる…　強敵だ。
+TROOP36_p0_13	Troops.json	0	dialogue	ナガレ：
+TROOP36_p0_14	Troops.json	0	dialogue	こっちも紋章の魔法をフル動員しなければ
+TROOP36_p0_15	Troops.json	0	dialogue	勝てないだろう…。
+TROOP36_p0_16	Troops.json	0	dialogue	みんな、魔法や回復アイテムを忘れるな！！
+TROOP36_p0_18	Troops.json	0	dialogue	ホノオ：
+TROOP36_p0_19	Troops.json	0	dialogue	おう！　わかったぜ！
+TROOP36_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP36_p1_2	Troops.json	0	dialogue	おい！　アンタ！
+TROOP36_p1_3	Troops.json	0	dialogue	5ターン以内にオレらを倒すって言ってたよな？
+TROOP36_p1_5	Troops.json	0	dialogue	ミケーネ：
+TROOP36_p1_6	Troops.json	0	dialogue	ああん！！？？？
+TROOP36_p1_8	Troops.json	0	dialogue	ホノオ：
+TROOP36_p1_9	Troops.json	0	dialogue	やれるもんならやってみろよ！
+TROOP36_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP36_p2_2	Troops.json	0	dialogue	あれ！？　あれれれれ？？
+TROOP36_p2_4	Troops.json	0	dialogue	ミケーネ：
+TROOP36_p2_5	Troops.json	0	dialogue	あんだあ！？どうしたコラあ！！？？
+TROOP36_p2_7	Troops.json	0	dialogue	ホノオ：
+TROOP36_p2_8	Troops.json	0	dialogue	ちょっとここで、冷静にバトルを観察するのが
+TROOP36_p2_9	Troops.json	0	dialogue	得意なナガレさんに聞いてみましょう…
+TROOP36_p2_11	Troops.json	0	dialogue	ホノオ：
+TROOP36_p2_12	Troops.json	0	dialogue	セイリューの当主のナガレさーーーーん？
+TROOP36_p2_14	Troops.json	0	dialogue	ナガレ：
+TROOP36_p2_15	Troops.json	0	dialogue	はい、ナガレです。
+TROOP36_p2_17	Troops.json	0	dialogue	ホノオ：
+TROOP36_p2_18	Troops.json	0	dialogue	ナガレさんでしたらこの激しいバトルの
+TROOP36_p2_19	Troops.json	0	dialogue	最中でも、きっとお分かりになると
+TROOP36_p2_20	Troops.json	0	dialogue	思うんですがー
+TROOP36_p2_22	Troops.json	0	dialogue	ホノオ：
+TROOP36_p2_23	Troops.json	0	dialogue	いま何ターン経過したでしょうかーーー？
+TROOP36_p2_25	Troops.json	0	dialogue	ナガレ：
+TROOP36_p2_26	Troops.json	0	dialogue	この会話をしている段階でちょうど
+TROOP36_p2_27	Troops.json	0	dialogue	6ターンです。
+TROOP36_p2_29	Troops.json	0	dialogue	ホノオ：
+TROOP36_p2_30	Troops.json	0	dialogue	だとよーーーーーミケーネ！！
+TROOP36_p2_32	Troops.json	0	dialogue	ミケーネ：
+TROOP36_p2_33	Troops.json	0	dialogue	えーーーーーい、うるさい！！！！！！
+TROOP36_p2_34	Troops.json	0	dialogue	ほんの少し寿命が延びたことに感謝しろ！！
+TROOP36_p2_35	Troops.json	0	dialogue	すぐだ…もうすぐに終わらせてやる…！！！！
+TROOP36_p2_37	Troops.json	0	dialogue	ホノオ：
+TROOP36_p2_38	Troops.json	0	dialogue	あ、そう。へへへ…
+TROOP36_p2_39	Troops.json	0	dialogue	バー――――――カ！！
+TROOP41_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP41_p0_2	Troops.json	0	dialogue	オレが成長していないと思うなよ…ナウ―！！
+TROOP41_p0_4	Troops.json	0	dialogue	ナウー：
+TROOP41_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP41_p1_2	Troops.json	0	dialogue	ずっとイメージしていたぜ…
+TROOP41_p1_3	Troops.json	0	dialogue	アンタの攻撃パターンをよーーーー
+TROOP41_p1_5	Troops.json	0	dialogue	ナウ―：
+TROOP41_p1_8	Troops.json	0	dialogue	ホノオ：
+TROOP41_p1_9	Troops.json	0	dialogue	オレはアンタにぜってー勝つ！！
+TROOP41_p1_10	Troops.json	0	dialogue	遠慮はいらねえ！　本気で来やがれーー！！
+TROOP41_p2_1	Troops.json	0	dialogue	ナウ―：
+TROOP41_p2_4	Troops.json	0	dialogue	ホノオ：
+TROOP41_p2_5	Troops.json	0	dialogue	焦ってるみてーだな、ナウ―！
+TROOP41_p2_7	Troops.json	0	dialogue	ナウ―：
+TROOP41_p2_10	Troops.json	0	dialogue	ホノオ：
+TROOP41_p2_11	Troops.json	0	dialogue	へへ！　いや、わかんねーわ…
+TROOP41_p3_1	Troops.json	0	dialogue	ナウ―：
+TROOP41_p3_4	Troops.json	0	dialogue	ホノオ：
+TROOP41_p3_5	Troops.json	0	dialogue	いける…！　集中しろ、オレ…！！
+TROOP42_p0_1	Troops.json	0	dialogue	ピピン：
+TROOP42_p0_2	Troops.json	0	dialogue	お前がその紋章の力でどこまでやれるのか…
+TROOP42_p0_3	Troops.json	0	dialogue	ウィン、見せてみろよ。
+TROOP42_p0_5	Troops.json	0	dialogue	ウィン：
+TROOP42_p0_9	Troops.json	0	dialogue	　　　　　　ウィンは頷いて、武器を構えた
+TROOP42_p1_1	Troops.json	0	dialogue	ピピン：
+TROOP42_p1_2	Troops.json	0	dialogue	なるほどな…　お前の紋章の力も、
+TROOP42_p1_3	Troops.json	0	dialogue	このバケモノの力も、大体分かった。
+TROOP42_p1_5	Troops.json	0	dialogue	ピピン：
+TROOP42_p1_6	Troops.json	0	dialogue	ウィン、そのハヤテの魔法を俺にかけろ！
+TROOP42_p1_7	Troops.json	0	dialogue	俺が常に先手を取ることが出来れば…
+TROOP42_p1_8	Troops.json	0	dialogue	この敵は単なるザコだ！
+TROOP42_p1_10	Troops.json	0	dialogue	ウィン：
+TROOP42_p1_14	Troops.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
+TROOP42_p2_1	Troops.json	0	dialogue	ピピン：
+TROOP42_p2_2	Troops.json	0	dialogue	ウィン、お前もその素早さを活かして、
+TROOP42_p2_3	Troops.json	0	dialogue	俺が戦いやすいようにサポートするんだ。
+TROOP42_p2_5	Troops.json	0	dialogue	ピピン：
+TROOP42_p2_6	Troops.json	0	dialogue	お前の紋章はサポート向きだ。
+TROOP42_p2_7	Troops.json	0	dialogue	…分かるか？
+TROOP42_p2_9	Troops.json	0	dialogue	ウィン：
+TROOP42_p2_12	Troops.json	0	dialogue	ピピン：
+TROOP42_p2_13	Troops.json	0	dialogue	フン…　その目、一応分かってるみたいだな。
+TROOP43_p0_1	Troops.json	0	dialogue	サクソン：
+TROOP43_p0_2	Troops.json	0	dialogue	いけっ！　ウィン！！
+TROOP43_p0_3	Troops.json	0	dialogue	ピピンなんか倒してしまえーい！！
+TROOP43_p0_5	Troops.json	0	dialogue	ロイ：
+TROOP43_p0_6	Troops.json	0	dialogue	ウィン！　ピピンは操られている！
+TROOP43_p0_7	Troops.json	0	dialogue	何かがきっかけで正気に戻るかも知れん！
+TROOP43_p1_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p1_2	Troops.json	0	dialogue	俺は…天才だ…
+TROOP43_p1_3	Troops.json	0	dialogue	そう呼ぶのは俺だけじゃない、誰もが認める。
+TROOP43_p1_5	Troops.json	0	dialogue	ピピン：
+TROOP43_p1_6	Troops.json	0	dialogue	そんな俺が、貴様のような新米の小僧に、
+TROOP43_p1_7	Troops.json	0	dialogue	すべてを奪われた…
+TROOP43_p1_8	Troops.json	0	dialogue	その理由を、貴様は答えられるのか！？
+TROOP43_p1_10	Troops.json	0	dialogue	ウィン：
+TROOP43_p1_14	Troops.json	0	dialogue	　　　　　　　　ウィンは首を横に振った！
+TROOP43_p2_1	Troops.json	0	dialogue	ロイ：
+TROOP43_p2_2	Troops.json	0	dialogue	ウィン！
+TROOP43_p2_3	Troops.json	0	dialogue	風の紋章の力とお前の素早さがあれば…
+TROOP43_p2_5	Troops.json	0	dialogue	ロイ：
+TROOP43_p2_6	Troops.json	0	dialogue	ピピンの攻撃と言えども、
+TROOP43_p2_7	Troops.json	0	dialogue	避け続けることができるはずだ！
+TROOP43_p2_8	Troops.json	0	dialogue	避け続けろ！　ウィン！
+TROOP43_p2_10	Troops.json	0	dialogue	ウィン：
+TROOP43_p2_16	Troops.json	0	dialogue	　　　　　　　ウィンは左手を高くかかげた！
+TROOP43_p2_17	Troops.json	0	dialogue	　　ハヤテの魔法が発動！　ウィンの回避力がアップした！
+TROOP43_p3_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p3_2	Troops.json	0	dialogue	…風の紋章の力か。
+TROOP43_p3_4	Troops.json	0	dialogue	ピピン：
+TROOP43_p3_5	Troops.json	0	dialogue	…俺から奪ったその力で、俺の攻撃をすべて
+TROOP43_p3_6	Troops.json	0	dialogue	避け続けようと言うんだな…　ウィン！！
+TROOP43_p3_8	Troops.json	0	dialogue	ウィン：
+TROOP43_p4_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p4_2	Troops.json	0	dialogue	ふざけているのか！　ウィン！！
+TROOP43_p4_4	Troops.json	0	dialogue	サクソン：
+TROOP43_p4_5	Troops.json	0	dialogue	えーい！　ウィンのやつ…
+TROOP43_p4_6	Troops.json	0	dialogue	避けているばかりで、ちっともピピンに
+TROOP43_p4_7	Troops.json	0	dialogue	ダメージを与えられぬではないか！
+TROOP43_p4_9	Troops.json	0	dialogue	ロイ：
+TROOP43_p4_10	Troops.json	0	dialogue	ウィン…　手を抜いているのか…？
+TROOP43_p4_12	Troops.json	0	dialogue	ウィン：
+TROOP43_p5_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p5_2	Troops.json	0	dialogue	俺を憐れむのか…ウィン……！！
+TROOP43_p5_4	Troops.json	0	dialogue	ピピン：
+TROOP43_p5_5	Troops.json	0	dialogue	そんな風に扱われて…　俺が喜ぶと思うのか…
+TROOP43_p5_7	Troops.json	0	dialogue	ピピン：
+TROOP43_p5_8	Troops.json	0	dialogue	余計に情けなく…！　みじめになるだけだと…
+TROOP43_p5_9	Troops.json	0	dialogue	わからないか！！　ウィン！！！
+TROOP43_p5_11	Troops.json	0	dialogue	ウィン：
+TROOP43_p5_15	Troops.json	0	dialogue	　　　　　　ウィンは気合をこめて斬りかかった！
+TROOP43_p5_18	Troops.json	0	dialogue	　　　　　　　　　…しかし力がはいらない
+TROOP43_p5_20	Troops.json	0	dialogue	ロイ：
+TROOP43_p5_21	Troops.json	0	dialogue	ピピン！！　目を覚ませ！！
+TROOP43_p5_22	Troops.json	0	dialogue	ウィンはお前を殺したくないのだ…
+TROOP43_p5_23	Troops.json	0	dialogue	殺せないのだ……　ピピン…！
+TROOP43_p5_25	Troops.json	0	dialogue	ピピン：
+TROOP43_p5_26	Troops.json	0	dialogue	それが屈辱なんだろう…？
+TROOP43_p5_27	Troops.json	0	dialogue	それが許せないんだよ…
+TROOP43_p5_29	Troops.json	0	dialogue	ピピン：
+TROOP43_p5_30	Troops.json	0	dialogue	俺を憐れむなと言っているだろうがああ！！！
+TROOP43_p5_32	Troops.json	0	dialogue	ウィン：
+TROOP43_p5_35	Troops.json	0	dialogue	ウィンダム王：
+TROOP43_p5_36	Troops.json	0	dialogue	もうよい！　ピピンを殺せ！
+TROOP43_p5_37	Troops.json	0	dialogue	ウィンにできないのであれば…　我が斬る！！
+TROOP43_p5_39	Troops.json	0	dialogue	サクソン：
+TROOP43_p5_40	Troops.json	0	dialogue	な、ななな、なりませぬぞ陛下！！
+TROOP43_p5_41	Troops.json	0	dialogue	いまのあやつに近付くなど…
+TROOP43_p5_42	Troops.json	0	dialogue	ウィン以外には不可能です！！
+TROOP43_p5_44	Troops.json	0	dialogue	ロイ：
+TROOP43_p5_45	Troops.json	0	dialogue	サクソン殿の言う通りですぞ、陛下！
+TROOP43_p5_46	Troops.json	0	dialogue	ここは、ウィンに任せてやって下さい！
+TROOP43_p5_48	Troops.json	0	dialogue	ウィンダム王：
+TROOP43_p5_49	Troops.json	0	dialogue	むう…
+TROOP43_p6_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p6_2	Troops.json	0	dialogue	…う、ううう……っ！！
+TROOP43_p6_4	Troops.json	0	dialogue	サクソン：
+TROOP43_p6_5	Troops.json	0	dialogue	なにやらピピンが苦しみだしたぞ…！？
+TROOP43_p6_8	Troops.json	0	dialogue	ロイ：
+TROOP43_p6_9	Troops.json	0	dialogue	………ピピン！
+TROOP43_p6_11	Troops.json	0	dialogue	ピピン：
+TROOP43_p6_12	Troops.json	0	dialogue	…違う　俺はこんなこと望んじゃいない…
+TROOP43_p6_13	Troops.json	0	dialogue	ウィン、俺はこんなことをしたくはない…
+TROOP43_p6_15	Troops.json	0	dialogue	ウィン：
+TROOP43_p6_18	Troops.json	0	dialogue	ロイ：
+TROOP43_p6_19	Troops.json	0	dialogue	術が…　解けだしたのか…！？
+TROOP43_p6_22	Troops.json	0	dialogue	ピピン：
+TROOP43_p6_23	Troops.json	0	dialogue	…う、うおおおおおお…！！
+TROOP43_p7_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p7_2	Troops.json	0	dialogue	クソッ　俺としたことが…
+TROOP43_p7_3	Troops.json	0	dialogue	こんな術なんかに…！
+TROOP43_p7_5	Troops.json	0	dialogue	ロイ：
+TROOP43_p7_6	Troops.json	0	dialogue	ピピン！　正気に戻ったか！？
+TROOP43_p7_8	Troops.json	0	dialogue	ピピン：
+TROOP43_p7_9	Troops.json	0	dialogue	クッ…！　こんな醜態を晒すくらいなら…
+TROOP43_p7_11	Troops.json	0	dialogue	ピピン：
+TROOP43_p7_12	Troops.json	0	dialogue	俺は死を…選ぶ…！！
+TROOP43_p7_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
+TROOP43_p7_20	Troops.json	0	dialogue	ウィン：
+TROOP43_p7_23	Troops.json	0	dialogue	サクソン：
+TROOP43_p7_24	Troops.json	0	dialogue	なに！？
+TROOP43_p7_26	Troops.json	0	dialogue	ロイ：
+TROOP43_p7_27	Troops.json	0	dialogue	ああ…ピピン…！　やめろ！！
+TROOP43_p8_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p8_2	Troops.json	0	dialogue	…ううっ…！！
+TROOP43_p8_4	Troops.json	0	dialogue	ロイ：
+TROOP43_p8_5	Troops.json	0	dialogue	操りの術は解けていない…
+TROOP43_p8_6	Troops.json	0	dialogue	それなのに…　自らの精神力で…
+TROOP43_p8_7	Troops.json	0	dialogue	術と戦っているのか…　ピピン…！
+TROOP43_p8_9	Troops.json	0	dialogue	ピピン：
+TROOP43_p8_10	Troops.json	0	dialogue	ぐああ…！！
+TROOP43_p8_12	Troops.json	0	dialogue	ウィン：
+TROOP43_p8_19	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
+TROOP43_p8_21	Troops.json	0	dialogue	ウィン：
+TROOP43_p8_24	Troops.json	0	dialogue	サクソン：
+TROOP43_p8_25	Troops.json	0	dialogue	自分の身体を切り刻むことで…
+TROOP43_p8_26	Troops.json	0	dialogue	術を…　術に操られた自分を封じようと
+TROOP43_p8_27	Troops.json	0	dialogue	しているのか…！
+TROOP43_p9_1	Troops.json	0	dialogue	ピピン：
+TROOP43_p9_2	Troops.json	0	dialogue	…はぁ　…はぁ
+TROOP43_p9_4	Troops.json	0	dialogue	ロイ：
+TROOP43_p9_5	Troops.json	0	dialogue	ピピン！　死んでしまうぞ…　ピピン！
+TROOP43_p9_7	Troops.json	0	dialogue	ピピン：
+TROOP43_p9_8	Troops.json	0	dialogue	そろそろ…　お前らでも…
+TROOP43_p9_9	Troops.json	0	dialogue	俺にトドメを刺せるだろう…
+TROOP43_p9_11	Troops.json	0	dialogue	ウィン：
+TROOP43_p9_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
+TROOP43_p9_20	Troops.json	0	dialogue	ウィン：
+TROOP43_p9_23	Troops.json	0	dialogue	サクソン：
+TROOP43_p9_24	Troops.json	0	dialogue	ピピン…　なんという高潔な男…！！
+TROOP43_p9_26	Troops.json	0	dialogue	ロイ：
+TROOP43_p9_27	Troops.json	0	dialogue	ピピンやめろ！　もういい！！
+TROOP43_p9_28	Troops.json	0	dialogue	お前の身体は　もう十分に傷付いている！！
+TROOP43_p9_29	Troops.json	0	dialogue	それ以上の自傷は必要ない！！
+TROOP43_p9_31	Troops.json	0	dialogue	ピピン：
+TROOP43_p9_32	Troops.json	0	dialogue	……うるさいッ！！
+TROOP43_p9_34	Troops.json	0	dialogue	ウィン：
+TROOP43_p9_35	Troops.json	0	dialogue	…っ！！
+TROOP74_p0_1	Troops.json	0	dialogue	ナガレ：
+TROOP74_p0_2	Troops.json	0	dialogue	気持ちわりいっ！！　なんだよこれ……っ！？
+TROOP74_p0_4	Troops.json	0	dialogue	ホノオ：
+TROOP74_p0_5	Troops.json	0	dialogue	ところどころ人間のようにも見えるが…
+TROOP74_p0_6	Troops.json	0	dialogue	にしたってデカ過ぎんだろー！！！！
+TROOP74_p0_8	Troops.json	0	dialogue	ナガレ：
+TROOP74_p0_9	Troops.json	0	dialogue	そんであの腕に繋がった凄い音出してる刃物？
+TROOP74_p0_10	Troops.json	0	dialogue	あれは一体なんだ…　見たことのない武器だ…
+TROOP74_p0_12	Troops.json	0	dialogue	ホノオ：
+TROOP74_p0_13	Troops.json	0	dialogue	なんにしてもパッと見…　肉弾戦が強そうだ…
+TROOP74_p0_14	Troops.json	0	dialogue	ナガレのテッペキの魔法が活躍しそうだぜー？
+TROOP74_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP74_p1_2	Troops.json	0	dialogue	しっかしなんちゅーバケモンだよ…
+TROOP74_p1_3	Troops.json	0	dialogue	闇のエレメントが復活すると、こんなのが
+TROOP74_p1_4	Troops.json	0	dialogue	ウヨウヨする世界になっちまうのかーー！？
+TROOP74_p1_6	Troops.json	0	dialogue	ナガレ：
+TROOP74_p1_7	Troops.json	0	dialogue	そんな世の中になったら、とてもじゃないけど、
+TROOP74_p1_8	Troops.json	0	dialogue	あたしたちが何人いても追いつかないだろうな
+TROOP75_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP75_p0_2	Troops.json	0	dialogue	うおおおおおお！
+TROOP75_p0_3	Troops.json	0	dialogue	近くで見ると、完全に龍だなコイツ！
+TROOP75_p0_5	Troops.json	0	dialogue	ナガレ：
+TROOP75_p0_6	Troops.json	0	dialogue	龍は龍でも、セイリューのあいつとは違う…
+TROOP75_p0_7	Troops.json	0	dialogue	禍々しい殺気を周囲にばらまいてやがる…
+TROOP75_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP75_p0_10	Troops.json	0	dialogue	まさに異形のモノって感じだ…！
+TROOP75_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP75_p1_2	Troops.json	0	dialogue	でけえぜーーーー！！
+TROOP75_p1_3	Troops.json	0	dialogue	でもこんなのが相手でも負ける気がしねえ…　
+TROOP75_p1_5	Troops.json	0	dialogue	ナガレ：
+TROOP75_p1_6	Troops.json	0	dialogue	あたしらも紋章の力ですっかり異形のものに
+TROOP75_p1_7	Troops.json	0	dialogue	なっちまった気がするな…
+TROOP75_p1_9	Troops.json	0	dialogue	ウィン：
+TROOP78_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP78_p0_2	Troops.json	0	dialogue	四天王最強の…　大魔道士…　だったよな？
+TROOP78_p0_3	Troops.json	0	dialogue	ってことは当然、めちゃ強い魔法を使ってくる
+TROOP78_p0_5	Troops.json	0	dialogue	ナガレ：
+TROOP78_p0_6	Troops.json	0	dialogue	闇の力や魔法に耐性のあるあたし達でも、
+TROOP78_p0_7	Troops.json	0	dialogue	どのくらい耐えられるのか…　わからない。
+TROOP78_p0_9	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p0_10	Troops.json	0	dialogue	さあああああ継承者たちよおおおおおお！！！
+TROOP78_p0_12	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p0_13	Troops.json	0	dialogue	私が長年…　研究！　開発！　発見！！
+TROOP78_p0_14	Troops.json	0	dialogue	…してきた数々の大魔法を………
+TROOP78_p0_16	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p0_17	Troops.json	0	dialogue	惜しみなくすべて披露してやろう！！！！！
+TROOP78_p1_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p1_2	Troops.json	0	dialogue	あー　気持ちいいいいいいいいいいいい！！！
+TROOP78_p1_4	Troops.json	0	dialogue	ナガレ：
+TROOP78_p1_5	Troops.json	0	dialogue	ちょっといままで見てきた魔法とは違う…
+TROOP78_p1_6	Troops.json	0	dialogue	きっと、まだ他の魔法も残しているだろうな…
+TROOP78_p1_8	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p1_9	Troops.json	0	dialogue	もちのローーーーーーーーーーーーン！！！！
+TROOP78_p1_11	Troops.json	0	dialogue	ホノオ：
+TROOP78_p1_12	Troops.json	0	dialogue	これが四天王最強の魔法か…
+TROOP78_p1_13	Troops.json	0	dialogue	なんつーか…　これといって対策がねえ！！！
+TROOP78_p1_15	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p1_16	Troops.json	0	dialogue	だーかーらー言ってるだろう！！？？
+TROOP78_p1_17	Troops.json	0	dialogue	私は本来ラスボスポジション！！
+TROOP78_p1_19	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p1_20	Troops.json	0	dialogue	お手軽な攻略などなあああああああいいい！！
+TROOP78_p1_21	Troops.json	0	dialogue	真っ向勝負のガチバトルでしか私には勝てん！！
+TROOP78_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP78_p2_2	Troops.json	0	dialogue	へっ…　結構戦える気がしてきたぜ…
+TROOP78_p2_3	Troops.json	0	dialogue	なんとかなるかもな！
+TROOP78_p2_5	Troops.json	0	dialogue	ナガレ：
+TROOP78_p2_6	Troops.json	0	dialogue	ダメだ！　時間がかかり過ぎている…！
+TROOP78_p2_7	Troops.json	0	dialogue	こうしている間にも…魔王とやらが誕生して…
+TROOP78_p2_9	Troops.json	0	dialogue	ナガレ：
+TROOP78_p2_10	Troops.json	0	dialogue	闇いんふるなんとかが広がって…
+TROOP78_p2_11	Troops.json	0	dialogue	みんなが死んでしまう…！！
+TROOP78_p2_13	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p2_14	Troops.json	0	dialogue	闇インフルエンザについては…
+TROOP78_p2_15	Troops.json	0	dialogue	正直スマンかったと思ってる。
+TROOP78_p2_17	Troops.json	0	dialogue	ホノオ：
+TROOP78_p2_18	Troops.json	0	dialogue	は…？
+TROOP78_p2_20	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p2_21	Troops.json	0	dialogue	気に入らないものは全てを皆殺しにする…
+TROOP78_p2_22	Troops.json	0	dialogue	それは、私たちが人間たちからされてきたこと
+TROOP78_p2_23	Troops.json	0	dialogue	とまったく同じだ…
+TROOP78_p2_25	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p2_26	Troops.json	0	dialogue	だが…　もうここが限界…　ここが最後…！！
+TROOP78_p2_27	Troops.json	0	dialogue	ここで大きな力を取り戻さねば…
+TROOP78_p2_28	Troops.json	0	dialogue	我々が皆殺しにされてしまう…！！
+TROOP78_p2_30	Troops.json	0	dialogue	ナガレ：
+TROOP78_p2_31	Troops.json	0	dialogue	何を言ってんだ…　こいつは…
+TROOP78_p2_33	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p2_34	Troops.json	0	dialogue	最後にキミたちのような楽しい人間に会えて…
+TROOP78_p2_35	Troops.json	0	dialogue	うれしかったよおおおおおおおおおおお！！！
+TROOP78_p3_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p3_2	Troops.json	0	dialogue	全能感…ッ！！
+TROOP78_p3_3	Troops.json	0	dialogue	己の持つすべての力…感情を…！！！
+TROOP78_p3_5	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p3_6	Troops.json	0	dialogue	ありのまま垂れ流しに解き放つ解放感ッ！！
+TROOP78_p3_8	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p3_9	Troops.json	0	dialogue	きもちいいいいいいいいいいいい！！！！
+TROOP78_p3_10	Troops.json	0	dialogue	なんもいえねええええええ！！！！！
+TROOP78_p3_12	Troops.json	0	dialogue	ホノオ：
+TROOP78_p3_13	Troops.json	0	dialogue	え…、いや、言いまくってるだろう……？
+TROOP78_p3_15	Troops.json	0	dialogue	ナガレ：
+TROOP78_p3_16	Troops.json	0	dialogue	さすがにホノオも突っ込んだ…！！
+TROOP78_p4_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p4_2	Troops.json	0	dialogue	あー　これちょっとやばい…
+TROOP78_p4_4	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p4_5	Troops.json	0	dialogue	えーいまちょうどですねー
+TROOP78_p4_6	Troops.json	0	dialogue	私のＨＰが半分になりました！！！！！！！
+TROOP78_p4_8	Troops.json	0	dialogue	ホノオ：
+TROOP78_p4_9	Troops.json	0	dialogue	えー！！？？　なんだそれ、親切だな！！！？
+TROOP78_p4_11	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p4_12	Troops.json	0	dialogue	やるじゃん　キミたちーーーーーーー！！！！
+TROOP78_p4_14	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p4_15	Troops.json	0	dialogue	私もちゃんと全ての力を使い切れるように…
+TROOP78_p4_16	Troops.json	0	dialogue	頑張るよおおおおおおおお…ッ！！
+TROOP78_p4_17	Troops.json	0	dialogue	かきゅごしりょよおおおおお！！！？？
+TROOP78_p4_19	Troops.json	0	dialogue	ホノオ：
+TROOP78_p4_20	Troops.json	0	dialogue	くっ！！　すげえ気合だ！！
+TROOP78_p4_22	Troops.json	0	dialogue	ナガレ：
+TROOP78_p4_23	Troops.json	0	dialogue	噛みまくってんのに一切後悔していない！！
+TROOP78_p5_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p5_2	Troops.json	0	dialogue	あっ　走馬灯………　お花畑見えてきた…
+TROOP78_p5_4	Troops.json	0	dialogue	ホノオ：
+TROOP78_p5_5	Troops.json	0	dialogue	おい…大丈夫か！？
+TROOP78_p5_7	Troops.json	0	dialogue	ナガレ：
+TROOP78_p5_8	Troops.json	0	dialogue	敵を心配なくていいんだよ！！
+TROOP78_p5_10	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p5_11	Troops.json	0	dialogue	私にもっとエレメントパワーを………
+TROOP78_p5_13	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP78_p5_14	Troops.json	0	dialogue	もっと力おおおおおおおおおおおッ！！！！！
+TROOP78_p5_21	Troops.json	0	dialogue	　　　　　大魔道士ピケピケの魔力が暴走した！！
+TROOP78_p5_24	Troops.json	0	dialogue	　　　　　ピケピケから猛烈な闇の波動を感じる！！
+TROOP78_p5_26	Troops.json	0	dialogue	ホノオ：
+TROOP78_p5_27	Troops.json	0	dialogue	うおっ！？　マジかこいつ…！！
+TROOP78_p5_29	Troops.json	0	dialogue	ナガレ：
+TROOP78_p5_30	Troops.json	0	dialogue	くっ…！！　やれるのか…あたしに…！！
+TROOP79_p0_1	Troops.json	0	dialogue	ナガレ：
+TROOP79_p0_2	Troops.json	0	dialogue	…ほとんど魔法での攻撃なしの殴り合いなら、
+TROOP79_p0_3	Troops.json	0	dialogue	テッペキを二回使えば有利に戦えるはず。
+TROOP79_p0_5	Troops.json	0	dialogue	ミケーネ：
+TROOP79_p0_6	Troops.json	0	dialogue	自分自身を強化する魔法を持っているのが、
+TROOP79_p0_7	Troops.json	0	dialogue	あなただけだと思ったら間違いよ？
+TROOP79_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP79_p0_10	Troops.json	0	dialogue	…へえ。
+TROOP79_p1_1	Troops.json	0	dialogue	ナガレ：
+TROOP79_p1_2	Troops.json	0	dialogue	氷の魔法はあたしに利かない！
+TROOP79_p1_3	Troops.json	0	dialogue	無駄なことはやめるんだ！
+TROOP79_p1_5	Troops.json	0	dialogue	ミケーネ：
+TROOP79_p1_6	Troops.json	0	dialogue	どうかしら？
+TROOP79_p1_7	Troops.json	0	dialogue	一瞬のスキを突いて、至近距離から放てば、
+TROOP79_p1_8	Troops.json	0	dialogue	あなたでも無効化できないと思うけど…。
+TROOP79_p1_10	Troops.json	0	dialogue	ナガレ：
+TROOP79_p1_11	Troops.json	0	dialogue	そんなスキをあたしは晒さない！
+TROOP79_p2_1	Troops.json	0	dialogue	ミケーネ：
+TROOP79_p2_2	Troops.json	0	dialogue	あなたのつばめ返しって剣術…すごいわね。
+TROOP79_p2_3	Troops.json	0	dialogue	まるでサムライの使う剣術だわ。
+TROOP79_p2_5	Troops.json	0	dialogue	ナガレ：
+TROOP79_p2_6	Troops.json	0	dialogue	…サムライ？　なんだそれは？
+TROOP79_p2_8	Troops.json	0	dialogue	ミケーネ：
+TROOP79_p2_9	Troops.json	0	dialogue	そういうひとたちがいたのよ…
+TROOP79_p2_10	Troops.json	0	dialogue	あなたたちのご先祖様じゃないの？
+TROOP79_p2_12	Troops.json	0	dialogue	ナガレ：
+TROOP79_p2_13	Troops.json	0	dialogue	…知らない！
+TROOP79_p3_1	Troops.json	0	dialogue	ミケーネ：
+TROOP79_p3_2	Troops.json	0	dialogue	油断しないことね…
+TROOP79_p3_3	Troops.json	0	dialogue	あたしは絶対に勝つ気でいるわよ。
+TROOP79_p3_5	Troops.json	0	dialogue	ナガレ：
+TROOP79_p3_6	Troops.json	0	dialogue	大したもんだ…
+TROOP79_p3_7	Troops.json	0	dialogue	あたしの剣をこんなに受けて立っている相手は
+TROOP79_p3_8	Troops.json	0	dialogue	あんたで初めてだよ。
+TROOP79_p3_10	Troops.json	0	dialogue	ミケーネ：
+TROOP79_p3_11	Troops.json	0	dialogue	自信があるのは結構だけれど、
+TROOP79_p3_12	Troops.json	0	dialogue	その余裕が、突然あなたの足をすくうのよ。
+TROOP79_p3_14	Troops.json	0	dialogue	ナガレ：
+TROOP79_p3_15	Troops.json	0	dialogue	ご忠告感謝するよ、ミケーネ！！
+TROOP79_p4_1	Troops.json	0	dialogue	ミケーネ：
+TROOP79_p4_2	Troops.json	0	dialogue	うっ…　あと少し…　あと少しで…！！
+TROOP79_p4_4	Troops.json	0	dialogue	ナガレ：
+TROOP79_p4_5	Troops.json	0	dialogue	ああ、あと少しだ…　
+TROOP79_p4_6	Troops.json	0	dialogue	あと少しで…　あたしの勝ちだあああああ！！
+TROOP80_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP80_p0_2	Troops.json	0	dialogue	アンタって前のバトルまではよー…
+TROOP80_p0_3	Troops.json	0	dialogue	魔法とか、全然使わなかったよなー？
+TROOP80_p0_5	Troops.json	0	dialogue	ホノオ：
+TROOP80_p0_6	Troops.json	0	dialogue	本当は使えたりするんだろー？
+TROOP80_p0_7	Troops.json	0	dialogue	いいんだぜ、使ってくれて。
+TROOP80_p0_9	Troops.json	0	dialogue	ホノオ：
+TROOP80_p0_10	Troops.json	0	dialogue	オレの方はバンバン使ってくからよー！！
+TROOP80_p0_12	Troops.json	0	dialogue	ナウー：
+TROOP80_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP80_p1_2	Troops.json	0	dialogue	…なんだよ？
+TROOP80_p1_3	Troops.json	0	dialogue	確かにデカくなって…
+TROOP80_p1_4	Troops.json	0	dialogue	パワーは増してるみてーだけどよー
+TROOP80_p1_6	Troops.json	0	dialogue	ホノオ：
+TROOP80_p1_7	Troops.json	0	dialogue	変わり映えしねーぜ？
+TROOP80_p1_8	Troops.json	0	dialogue	本当にこんなモンか、ナウー！？
+TROOP80_p1_10	Troops.json	0	dialogue	ホノオ：
+TROOP80_p1_11	Troops.json	0	dialogue	それともオレが強くなり過ぎて…
+TROOP80_p1_12	Troops.json	0	dialogue	本気のアンタの圧倒的パワーすら
+TROOP80_p1_13	Troops.json	0	dialogue	怖くなくなっちまったってことかー？
+TROOP80_p1_15	Troops.json	0	dialogue	ナウー：
+TROOP80_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP80_p2_2	Troops.json	0	dialogue	だーかーらー…
+TROOP80_p2_3	Troops.json	0	dialogue	前と同じパターンの攻撃ばっかじゃ、
+TROOP80_p2_4	Troops.json	0	dialogue	いくらパワーがあっても通用しねーぜ！！
+TROOP80_p2_6	Troops.json	0	dialogue	ナウー：
+TROOP80_p2_9	Troops.json	0	dialogue	ホノオ：
+TROOP80_p2_10	Troops.json	0	dialogue	どっちなんだよ、本当は魔法があるのかよ！！
+TROOP80_p2_11	Troops.json	0	dialogue	少しは喋ってくれーーーーー！！
+TROOP80_p3_1	Troops.json	0	dialogue	ホノオ：
+TROOP80_p3_2	Troops.json	0	dialogue	こんなモンか…　ナウー…
+TROOP80_p3_4	Troops.json	0	dialogue	ホノオ：
+TROOP80_p3_5	Troops.json	0	dialogue	アンタの力が、こんなモンなワケがねえだろ！
+TROOP80_p3_7	Troops.json	0	dialogue	ナウー：
+TROOP80_p3_8	Troops.json	0	dialogue	…我は本気だ　ホノオよ
+TROOP80_p3_10	Troops.json	0	dialogue	ホノオ：
+TROOP80_p3_11	Troops.json	0	dialogue	う…お………　　なんだって…？
+TROOP80_p3_13	Troops.json	0	dialogue	ナウー：
+TROOP80_p3_14	Troops.json	0	dialogue	…光の柱に　魔力を注ぎ込んだ　我らには…
+TROOP80_p3_16	Troops.json	0	dialogue	ナウー：
+TROOP80_p3_17	Troops.json	0	dialogue	…これで　本気なのだ　ホノオ…
+TROOP80_p3_19	Troops.json	0	dialogue	ホノオ：
+TROOP80_p3_20	Troops.json	0	dialogue	…くっ！　そうかよ…
+TROOP80_p3_22	Troops.json	0	dialogue	ホノオ：
+TROOP80_p3_23	Troops.json	0	dialogue	それならそれでしかたねえ…
+TROOP80_p3_24	Troops.json	0	dialogue	でもこっちは本気で行かせてもらうぜ…
+TROOP80_p3_26	Troops.json	0	dialogue	ホノオ：
+TROOP80_p3_27	Troops.json	0	dialogue	急いでるんだ…　使命があるんだオレには！！
+TROOP80_p3_29	Troops.json	0	dialogue	ナウー：
+TROOP80_p3_30	Troops.json	0	dialogue	………コクリ
+TROOP80_p4_1	Troops.json	0	dialogue	ホノオ：
+TROOP80_p4_2	Troops.json	0	dialogue	…今のは効いたはず…！！
+TROOP80_p4_4	Troops.json	0	dialogue	ナウー：
+TROOP80_p4_14	Troops.json	0	dialogue	　　　　　　ナウーは不思議な構えを取った！
+TROOP80_p4_17	Troops.json	0	dialogue	　　　　　　ナウーの反撃確率がアップした！
+TROOP80_p4_18	Troops.json	0	dialogue	　　　　　　ナウーのぼうぎょ力がアップした！
+TROOP80_p4_20	Troops.json	0	dialogue	ホノオ：
+TROOP80_p4_21	Troops.json	0	dialogue	…なんだあ？　　へへ…　とにかく…
+TROOP80_p4_22	Troops.json	0	dialogue	やっと新しい技を見せてくれるみてえだなー
+TROOP80_p4_24	Troops.json	0	dialogue	ホノオ：
+TROOP80_p4_25	Troops.json	0	dialogue	…だが、アンタはもう瀕死のはずだ…
+TROOP80_p4_26	Troops.json	0	dialogue	こっちの攻撃の手は緩めねえぜーーー！！！！
+TROOP81_p0_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP81_p0_2	Troops.json	0	dialogue	さあて…　魔王になったボクの力が、
+TROOP81_p0_3	Troops.json	0	dialogue	いったいどれだけ凄いのかを…
+TROOP81_p0_5	Troops.json	0	dialogue	魔王ダフィール：
+TROOP81_p0_6	Troops.json	0	dialogue	試させてもらうねー？
+TROOP81_p0_7	Troops.json	0	dialogue	本気で耐えてねー
+TROOP81_p0_9	Troops.json	0	dialogue	魔王ダフィール：
+TROOP81_p0_10	Troops.json	0	dialogue	すぐに死なれちゃったらつまんないからさあ？
+TROOP81_p1_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP81_p1_2	Troops.json	0	dialogue	アレー？
+TROOP81_p1_3	Troops.json	0	dialogue	意外と耐えちゃったねえ…　1ターン！！
+TROOP81_p1_5	Troops.json	0	dialogue	魔王ダフィール：
+TROOP81_p1_6	Troops.json	0	dialogue	やるじゃーーーーん！！
+TROOP81_p1_7	Troops.json	0	dialogue	意外と楽しませてくれるんだねー！？
+TROOP81_p1_9	Troops.json	0	dialogue	魔王ダフィール：
+TROOP81_p1_10	Troops.json	0	dialogue	…んだよ　死ねよ！！！！！！
+TROOP81_p1_11	Troops.json	0	dialogue	魔王のボクが攻撃してるんだぞーーー！！！？
+TROOP82_p0_1	Troops.json	0	dialogue	ピピン：
+TROOP82_p0_2	Troops.json	0	dialogue	奴の炎の魔法は俺の魔法で相殺できる。
+TROOP82_p0_3	Troops.json	0	dialogue	しかし魔王とか名乗るくらいだ…
+TROOP82_p0_4	Troops.json	0	dialogue	他にも危険な技があるかも知れん。
+TROOP82_p0_6	Troops.json	0	dialogue	ピピン：
+TROOP82_p0_7	Troops.json	0	dialogue	気を引き締めつつも、チャンスと見れば
+TROOP82_p0_8	Troops.json	0	dialogue	一気に攻めるぞ！！
+TROOP82_p0_10	Troops.json	0	dialogue	ウィン：
+TROOP82_p0_14	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
+TROOP82_p1_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p1_2	Troops.json	0	dialogue	赤いのがジャマだ…
+TROOP82_p1_3	Troops.json	0	dialogue	赤いのがジャマなんだよーー！！！！
+TROOP82_p1_5	Troops.json	0	dialogue	ピピン：
+TROOP82_p1_6	Troops.json	0	dialogue	おいおい…
+TROOP82_p1_7	Troops.json	0	dialogue	魔王ってのはこんなモンなのか？
+TROOP82_p1_9	Troops.json	0	dialogue	ピピン：
+TROOP82_p1_10	Troops.json	0	dialogue	ちょびっとだけ、拍子抜けだな…
+TROOP82_p2_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p2_2	Troops.json	0	dialogue	くっそおおおおおおおおおおお！！！！！！
+TROOP82_p2_4	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p2_5	Troops.json	0	dialogue	ボクは魔王なんだ…
+TROOP82_p2_6	Troops.json	0	dialogue	こんなところで終わってたまるかー！！！！
+TROOP82_p2_8	Troops.json	0	dialogue	ピピン：
+TROOP82_p2_9	Troops.json	0	dialogue	意外とタフだな。
+TROOP82_p2_10	Troops.json	0	dialogue	派手なナリをしているだけのことはあるか。
+TROOP82_p3_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p3_2	Troops.json	0	dialogue	もっとパワーを…
+TROOP82_p3_3	Troops.json	0	dialogue	闇のエレメントパワーをおおおおお！！！！
+TROOP82_p3_5	Troops.json	0	dialogue	ピピン：
+TROOP82_p3_6	Troops.json	0	dialogue	時間をかけると、奴がパワーアップしてしまう
+TROOP82_p3_7	Troops.json	0	dialogue	かも知れん…
+TROOP82_p3_8	Troops.json	0	dialogue	ウィン、そろそろ急ぐぞ！
+TROOP82_p4_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p4_2	Troops.json	0	dialogue	もう…　ダメだ…　終わりだ…
+TROOP82_p4_4	Troops.json	0	dialogue	ピピン：
+TROOP82_p4_5	Troops.json	0	dialogue	なんだ、降参か？
+TROOP82_p4_6	Troops.json	0	dialogue	悪いが、受け入れられないぞ。
+TROOP82_p4_8	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p4_9	Troops.json	0	dialogue	ピケピケが言っていた…
+TROOP82_p4_10	Troops.json	0	dialogue	闇のエレメントパワー自体と同化すると…
+TROOP82_p4_11	Troops.json	0	dialogue	自我を保てるかどうかわからないって…
+TROOP82_p4_13	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p4_14	Troops.json	0	dialogue	だからこそ、四天王の中で最も強いピケピケが
+TROOP82_p4_15	Troops.json	0	dialogue	魔王になるはずだった…
+TROOP82_p4_17	Troops.json	0	dialogue	ピピン：
+TROOP82_p4_18	Troops.json	0	dialogue	フン、分からんでもない…
+TROOP82_p4_19	Troops.json	0	dialogue	お前のようなガキに、自我を保つことが
+TROOP82_p4_20	Troops.json	0	dialogue	できるとは思えないからな。
+TROOP82_p4_22	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p4_23	Troops.json	0	dialogue	ボクは嫌だった…
+TROOP82_p4_24	Troops.json	0	dialogue	どんなに強大な力を得られるとしても、
+TROOP82_p4_25	Troops.json	0	dialogue	自分がいなくなってしまうなんて…
+TROOP82_p4_27	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p4_28	Troops.json	0	dialogue	だけど…　もう終わりだ…
+TROOP82_p4_29	Troops.json	0	dialogue	こんなダサいやられ方するくらいなら…
+TROOP82_p4_31	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_p4_32	Troops.json	0	dialogue	もうどうなってもいい…
+TROOP82_p4_33	Troops.json	0	dialogue	オマエらだけは絶対にぶっ殺す…！！！！
+TROOP82_p4_35	Troops.json	0	dialogue	ピピン：
+TROOP82_p4_37	Troops.json	0	dialogue	まずい！！　ウィン離れろ！！
+TROOP83_p0_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p0_2	Troops.json	0	dialogue	グググダダダハハハハーーッ……！！！
+TROOP83_p0_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p0_5	Troops.json	0	dialogue	流れ込んでくるゾオオオオオゥゥゥゥ……
+TROOP83_p0_6	Troops.json	0	dialogue	とてつもないパワーガアアァァァ……
+TROOP83_p0_8	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p0_9	Troops.json	0	dialogue	飲み込まれる…飲み込まれてしまう……
+TROOP83_p0_10	Troops.json	0	dialogue	う…ぐぐぐがガガガァァ……！！
+TROOP83_p0_12	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p0_13	Troops.json	0	dialogue	オマエらも一緒に飲み込まれろォォォ…ッ！！
+TROOP83_p0_15	Troops.json	0	dialogue	ピピン：
+TROOP83_p0_16	Troops.json	0	dialogue	ウィン！　立て直すぞ！！
+TROOP83_p0_17	Troops.json	0	dialogue	魔法、アイテム…使い尽くすつもりで行け！
+TROOP83_p0_19	Troops.json	0	dialogue	ウィン：
+TROOP83_p0_23	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
+TROOP83_p1_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p1_2	Troops.json	0	dialogue	うう…おおオオオォォー…！！！！
+TROOP83_p1_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p1_5	Troops.json	0	dialogue	流れ込んでくる…！！
+TROOP83_p1_6	Troops.json	0	dialogue	この力はァァァ…　ミケェェネかあァァ…！！
+TROOP83_p1_8	Troops.json	0	dialogue	ピピン：
+TROOP83_p1_9	Troops.json	0	dialogue	…こいつ、他の四天王の力を吸収することも
+TROOP83_p1_10	Troops.json	0	dialogue	出来るのか…！？
+TROOP83_p2_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p2_2	Troops.json	0	dialogue	ううおおああアァァー…！！！！
+TROOP83_p2_3	Troops.json	0	dialogue	やめろ！！　入って来るなァッ…！！
+TROOP83_p2_5	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p2_6	Troops.json	0	dialogue	ミィィケェェネェー………
+TROOP83_p2_7	Troops.json	0	dialogue	これはオマエのキオクなのかぁぁ……
+TROOP83_p2_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p2_10	Troops.json	0	dialogue	感情…なのかァァァ……
+TROOP83_p2_11	Troops.json	0	dialogue	ううおおああアァァー…！！！！
+TROOP83_p2_12	Troops.json	0	dialogue	入って来るなァーーーーーッ…！！！！
+TROOP83_p2_14	Troops.json	0	dialogue	ピピン：
+TROOP83_p2_15	Troops.json	0	dialogue	…フン、どうやら四天王の力だけでなく、
+TROOP83_p2_16	Troops.json	0	dialogue	その人格も吸収してしまうようだな…
+TROOP83_p2_18	Troops.json	0	dialogue	ピピン：
+TROOP83_p2_19	Troops.json	0	dialogue	そんな連中の人格までをも吸収してしまって、
+TROOP83_p2_20	Troops.json	0	dialogue	果たしてキサマのようなガキンチョが自分を
+TROOP83_p2_21	Troops.json	0	dialogue	保てるか…　見ものだな、ダフィール…！！
+TROOP83_p2_23	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p2_24	Troops.json	0	dialogue	グググゥゥ………オオアアァァ…ッ！！！
+TROOP83_p3_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p3_2	Troops.json	0	dialogue	ミケーネぶりざーどおお…はああああ
+TROOP83_p3_3	Troops.json	0	dialogue	効かない…効かない…！！！！
+TROOP83_p3_4	Troops.json	0	dialogue	そんなコト分かってるよ…！！！！！
+TROOP83_p3_6	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p3_7	Troops.json	0	dialogue	うるさあああああいいイイィィッ！！！！
+TROOP83_p3_8	Troops.json	0	dialogue	黙れレレエエェェェーーーーッ！！！！！
+TROOP83_p3_10	Troops.json	0	dialogue	ピピン：
+TROOP83_p3_11	Troops.json	0	dialogue	早くも自分を失いかけているようだな…
+TROOP83_p3_12	Troops.json	0	dialogue	ダフィール…！！
+TROOP83_p3_14	Troops.json	0	dialogue	ピピン：
+TROOP83_p3_15	Troops.json	0	dialogue	それがキサマの弱さだ…
+TROOP83_p3_16	Troops.json	0	dialogue	どれだけ強大な力を手にしようと…
+TROOP83_p3_17	Troops.json	0	dialogue	内に強さを持たないものに、その力は扱えん！！
+TROOP83_p3_19	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p3_20	Troops.json	0	dialogue	ググガガガ…ガガアアァァーッ！！！！
+TROOP83_p3_21	Troops.json	0	dialogue	オマエも黙れえええェェェーーッ…！！！！
+TROOP83_p4_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p4_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p4_7	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p4_8	Troops.json	0	dialogue	なんでいまボクは黙ったァァ……！！
+TROOP83_p4_9	Troops.json	0	dialogue	オマエだな……ヌヌアアアウウゥゥゥー…！！
+TROOP83_p4_12	Troops.json	0	dialogue	　大魔王ダフィールの攻撃力とぼうぎょ力がアップした！！
+TROOP83_p4_15	Troops.json	0	dialogue	　　　　　　　　さらに反撃確率もアップ！！
+TROOP83_p4_16	Troops.json	0	dialogue	　　　　　　ダフィ－ルの構えにスキがなくなった！！
+TROOP83_p4_19	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p4_20	Troops.json	0	dialogue	力だけェェェ…　力だけ寄こせェェ…！！
+TROOP83_p4_21	Troops.json	0	dialogue	オマエらの…こんなフクザツでカイキな……
+TROOP83_p4_23	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p4_24	Troops.json	0	dialogue	ややこしい感情と歴史はいらない…ッ！！
+TROOP83_p4_25	Troops.json	0	dialogue	チカラだけをヨコセェェェー……ッ！！！！
+TROOP83_p4_27	Troops.json	0	dialogue	ピピン：
+TROOP83_p4_28	Troops.json	0	dialogue	自分にすべてを託して散っていった仲間の、
+TROOP83_p4_29	Troops.json	0	dialogue	その思い…その重さ…　すべて拒否するか…
+TROOP83_p4_31	Troops.json	0	dialogue	ピピン：
+TROOP83_p4_32	Troops.json	0	dialogue	…ヘドが出るほどのガキンチョだな…。
+TROOP83_p4_33	Troops.json	0	dialogue	まるで、俺みたいだぜ…！
+TROOP83_p5_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p5_2	Troops.json	0	dialogue	グガガダダガハハハァァァー……ッ！！！！
+TROOP83_p5_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p5_5	Troops.json	0	dialogue	コノ…チカラは………ッ！！
+TROOP83_p5_6	Troops.json	0	dialogue	うう…グフ…ガ…ァァ…ああああああ！！！
+TROOP83_p5_8	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p5_9	Troops.json	0	dialogue	なんて凄まじい魔力…　膨大な知識…
+TROOP83_p5_10	Troops.json	0	dialogue	そして…　めちゃくちゃ難解な感情なんだ…
+TROOP83_p5_16	Troops.json	0	dialogue	　　　　ダフィールから猛烈な闇の波動を感じる！！
+TROOP83_p5_17	Troops.json	0	dialogue	　　　　　　　ダフィールの魔力が暴走した！！
+TROOP83_p5_19	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p5_20	Troops.json	0	dialogue	ピ…ケ…ピ…ケエエェェーー……ッ！！！！
+TROOP83_p5_22	Troops.json	0	dialogue	ピピン：
+TROOP83_p5_23	Troops.json	0	dialogue	クッ…！！
+TROOP83_p5_24	Troops.json	0	dialogue	なんだ…気圧される…！！
+TROOP83_p5_25	Troops.json	0	dialogue	ウィン…これがあのピ何とかの力なのか…！？
+TROOP83_p5_27	Troops.json	0	dialogue	ウィン：
+TROOP83_p5_30	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p5_31	Troops.json	0	dialogue	逆らうな…　逆らってはならんンンのだぁ…
+TROOP83_p5_32	Troops.json	0	dialogue	闇の力の奔流からからァァ……！！！！
+TROOP83_p5_34	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p5_35	Troops.json	0	dialogue	闇のエレメントに完全に身を任せねバァァ…
+TROOP83_p5_36	Troops.json	0	dialogue	真の大魔王に…は…ワワァァ……ァ………
+TROOP83_p5_38	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p5_39	Troops.json	0	dialogue	ウウうおおおああああぁぁーー……ッ！！！！
+TROOP83_p5_40	Troops.json	0	dialogue	ボクはダフィールだァァァァ……！！！！
+TROOP83_p5_42	Troops.json	0	dialogue	ピピン：
+TROOP83_p5_43	Troops.json	0	dialogue	どうもこの辺りからが本番らしい…
+TROOP83_p5_44	Troops.json	0	dialogue	ウィン、死ぬなよ！！
+TROOP83_p5_46	Troops.json	0	dialogue	ウィン：
+TROOP83_p5_50	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
+TROOP83_p6_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p6_2	Troops.json	0	dialogue	ググルルううおおおあああぁぁぁぁ……！！
+TROOP83_p6_3	Troops.json	0	dialogue	負けねえゾ……　ゼッテーェェ……
+TROOP83_p6_4	Troops.json	0	dialogue	負けねえぞおおおおおおまえらあああ！！！！
+TROOP83_p6_6	Troops.json	0	dialogue	ピピン：
+TROOP83_p6_7	Troops.json	0	dialogue	…ウィン、俺にちょっとした考えがある。
+TROOP83_p6_8	Troops.json	0	dialogue	お前の魔法と俺のスキルを組み合わせた攻撃だ
+TROOP83_p6_10	Troops.json	0	dialogue	ウィン：
+TROOP83_p6_13	Troops.json	0	dialogue	ピピン：
+TROOP83_p6_14	Troops.json	0	dialogue	いまの奴にはスキが殆どないから、
+TROOP83_p6_15	Troops.json	0	dialogue	大ダメージを与えるのが難しい…
+TROOP83_p6_16	Troops.json	0	dialogue	そこで奴にスキを作る作戦だ。
+TROOP83_p6_18	Troops.json	0	dialogue	ピピン：
+TROOP83_p6_19	Troops.json	0	dialogue	お前のカマイタチで奴の足を攻撃した瞬間に、
+TROOP83_p6_20	Troops.json	0	dialogue	俺がフェイント攻撃をしかける…。
+TROOP83_p6_22	Troops.json	0	dialogue	ピピン：
+TROOP83_p6_23	Troops.json	0	dialogue	うまくいけば、奴のぼうぎょと素早さを同時に
+TROOP83_p6_24	Troops.json	0	dialogue	ダウンさせることができるだろう…どうだ？
+TROOP83_p6_26	Troops.json	0	dialogue	ウィン：
+TROOP83_p6_32	Troops.json	0	dialogue	　　　　　ウィンとピピンはカマカゼを編み出した！
+TROOP83_p7_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p7_2	Troops.json	0	dialogue	己をぉぉ…滅っせぇぇェェ…
+TROOP83_p7_3	Troops.json	0	dialogue	さもなくばァ…　敗れゥゥ……ううああ！！
+TROOP83_p7_4	Troops.json	0	dialogue	黙れェェナウゥゥーーッ…！！！！
+TROOP83_p7_6	Troops.json	0	dialogue	ピピン：
+TROOP83_p7_7	Troops.json	0	dialogue	ウィン…お前のイカヅチを俺の剣に落とす技を
+TROOP83_p7_8	Troops.json	0	dialogue	考えていたんだが…
+TROOP83_p7_10	Troops.json	0	dialogue	ウィン：
+TROOP83_p7_13	Troops.json	0	dialogue	ピピン：
+TROOP83_p7_14	Troops.json	0	dialogue	普通にやったんじゃうまくいかない。
+TROOP83_p7_15	Troops.json	0	dialogue	俺が丸焦げになるか、よくても雷の力が
+TROOP83_p7_16	Troops.json	0	dialogue	地面に逃げてしまうからな…。
+TROOP83_p7_18	Troops.json	0	dialogue	ピピン：
+TROOP83_p7_19	Troops.json	0	dialogue	そこでだ…　俺のスキル、浮雲渡りだ。
+TROOP83_p7_20	Troops.json	0	dialogue	俺が宙に浮いている間に、オマエが俺の剣に
+TROOP83_p7_21	Troops.json	0	dialogue	イカヅチを落とす…
+TROOP83_p7_23	Troops.json	0	dialogue	ピピン：
+TROOP83_p7_24	Troops.json	0	dialogue	そして着地するまでの間に俺が攻撃すれば…
+TROOP83_p7_25	Troops.json	0	dialogue	全ての雷のパワーがアイツに伝わる。
+TROOP83_p7_26	Troops.json	0	dialogue	想像もつかん威力になるだろう…
+TROOP83_p7_28	Troops.json	0	dialogue	ピピン：
+TROOP83_p7_29	Troops.json	0	dialogue	どちらかがタイミングをミスれば、
+TROOP83_p7_30	Troops.json	0	dialogue	俺は丸焦げになるが…、どうだ、やれるか？
+TROOP83_p7_32	Troops.json	0	dialogue	ウィン：
+TROOP83_p7_36	Troops.json	0	dialogue	　　　　　ウィンとピピンはイヅナを編み出した！！
+TROOP83_p8_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p8_2	Troops.json	0	dialogue	恐れるかァァ…怯えるかァァ……！！！！
+TROOP83_p8_3	Troops.json	0	dialogue	真実がァァ…歴史がァァ…
+TROOP83_p8_4	Troops.json	0	dialogue	失われることよりもォォォ………ッ！！！
+TROOP83_p8_6	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p8_7	Troops.json	0	dialogue	卑小で卑俗でか弱い己れの消失ォォォ………
+TROOP83_p8_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p8_10	Troops.json	0	dialogue	己が無くなるのォォーーーッ！！
+TROOP83_p8_11	Troops.json	0	dialogue	己が無視されるのォォォーーーッ！！！
+TROOP83_p8_12	Troops.json	0	dialogue	ググガガうぅおぉあぁーーー……ッ！！！！
+TROOP83_p8_14	Troops.json	0	dialogue	ピピン：
+TROOP83_p8_15	Troops.json	0	dialogue	ウィン、気付いているか？
+TROOP83_p8_16	Troops.json	0	dialogue	アイツはもう、俺たちを見ていない…
+TROOP83_p8_17	Troops.json	0	dialogue	見えていない…！！
+TROOP83_p8_19	Troops.json	0	dialogue	ピピン：
+TROOP83_p8_20	Troops.json	0	dialogue	いまなら…
+TROOP83_p8_21	Troops.json	0	dialogue	俺の魔法を相殺されずに発動できるだろう…
+TROOP83_p8_22	Troops.json	0	dialogue	そこでだ…
+TROOP83_p8_24	Troops.json	0	dialogue	ピピン：
+TROOP83_p8_25	Troops.json	0	dialogue	不意を突いて俺がアイツを水浸しにする…
+TROOP83_p8_26	Troops.json	0	dialogue	そこにお前のイカヅチを落とせ。
+TROOP83_p8_28	Troops.json	0	dialogue	ウィン：
+TROOP83_p8_31	Troops.json	0	dialogue	ピピン：
+TROOP83_p8_32	Troops.json	0	dialogue	辺り一面水浸しだ、逃れる術はない…。
+TROOP83_p8_33	Troops.json	0	dialogue	しかも雷のパワーは地面に分散せず、
+TROOP83_p8_34	Troops.json	0	dialogue	びしょ濡れの奴に集中するってわけだ。
+TROOP83_p8_37	Troops.json	0	dialogue	　　　　ウィンとピピンはミカヅチを編み出した！！
+TROOP83_p9_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p9_2	Troops.json	0	dialogue	黙れッェェ…　ピケピケェェ…！！
+TROOP83_p9_3	Troops.json	0	dialogue	ナウーゥゥゥ…　ミケェェネェーッ…！！！！
+TROOP83_p9_5	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p9_6	Troops.json	0	dialogue	ボクは消えないッ！！！！
+TROOP83_p9_7	Troops.json	0	dialogue	ボクはまだ何も成していない…ッ！！！！
+TROOP83_p9_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p9_10	Troops.json	0	dialogue	闇の復活もォォォ………！！！
+TROOP83_p9_11	Troops.json	0	dialogue	闇の勝利もォォォ………！！！！！
+TROOP83_p9_12	Troops.json	0	dialogue	ボクにはどうでもいいィィィー……ッ！！！！
+TROOP83_p9_14	Troops.json	0	dialogue	ピピン：
+TROOP83_p9_15	Troops.json	0	dialogue	フン…　アイツ、仲間のことばに全く従う気が
+TROOP83_p9_16	Troops.json	0	dialogue	ないみたいだな…。
+TROOP83_p9_18	Troops.json	0	dialogue	ピピン：
+TROOP83_p9_19	Troops.json	0	dialogue	真の意味での闇との一体化…大魔王化には…
+TROOP83_p9_20	Troops.json	0	dialogue	アイツの自我がジャマなようだ。
+TROOP83_p9_22	Troops.json	0	dialogue	ウィン：
+TROOP83_p9_25	Troops.json	0	dialogue	ピピン：
+TROOP83_p9_26	Troops.json	0	dialogue	…ちょびっとだけ、哀れだな、アイツ。
+TROOP83_p9_28	Troops.json	0	dialogue	ウィン：
+TROOP83_p10_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_2	Troops.json	0	dialogue	ウウゥゥ…グガガアァァァーー…ッ！！！！
+TROOP83_p10_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_5	Troops.json	0	dialogue	このまま全て闇のエレメントに飲み込まれ…
+TROOP83_p10_6	Troops.json	0	dialogue	オマエらにも飲み込まれて………
+TROOP83_p10_7	Troops.json	0	dialogue	消えてしまうなんてイヤだ………
+TROOP83_p10_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_10	Troops.json	0	dialogue	いイイイィィやぁぁぁだあああぁーーッ！！！
+TROOP83_p10_12	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_13	Troops.json	0	dialogue	ダフィール！！　
+TROOP83_p10_14	Troops.json	0	dialogue	まだ俺の声が聞こえているなら…
+TROOP83_p10_16	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_17	Troops.json	0	dialogue	老いぼれや無能の先輩がたなど無視して…
+TROOP83_p10_18	Troops.json	0	dialogue	俺たちとのバトルに集中しろ…！！
+TROOP83_p10_20	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_21	Troops.json	0	dialogue	…な…にぃ…？
+TROOP83_p10_22	Troops.json	0	dialogue	赤い…の………？
+TROOP83_p10_24	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_25	Troops.json	0	dialogue	何よりも自分を失いたくないと思う気持ち…
+TROOP83_p10_26	Troops.json	0	dialogue	それは、お前の誇りだ…プライドだ。
+TROOP83_p10_28	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_29	Troops.json	0	dialogue	…誇り…　ボクの…？
+TROOP83_p10_31	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_32	Troops.json	0	dialogue	ムダなまでにバカデカい、オマエのその誇り…
+TROOP83_p10_33	Troops.json	0	dialogue	…それは誰にも消せん！！
+TROOP83_p10_34	Troops.json	0	dialogue	自分ですら持て余しているくせに…
+TROOP83_p10_36	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_37	Troops.json	0	dialogue	これだけ極限の状況ですら…
+TROOP83_p10_38	Troops.json	0	dialogue	仲間の思いよりも、自分の都合を捨てられん…
+TROOP83_p10_39	Troops.json	0	dialogue	何て自己中、ナルシストだ…
+TROOP83_p10_41	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_42	Troops.json	0	dialogue	お…オマエに言われたくねーーーーーーー！！
+TROOP83_p10_44	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_45	Troops.json	0	dialogue	なら腹をくくれと言ってるんだ…。
+TROOP83_p10_46	Troops.json	0	dialogue	くくれず、外野を無視できないままなら、
+TROOP83_p10_47	Troops.json	0	dialogue	結局お前はその程度だということだ！！
+TROOP83_p10_49	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_50	Troops.json	0	dialogue	…偉そうに…オマエ……
+TROOP83_p10_51	Troops.json	0	dialogue	ボクの兄ちゃんみたいなコト言いやがってェ…
+TROOP83_p10_53	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_54	Troops.json	0	dialogue	フン、四天王にも兄弟がいるとはな…。
+TROOP83_p10_56	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_57	Troops.json	0	dialogue	…ボクだって元々はヒトの子だ…
+TROOP83_p10_58	Troops.json	0	dialogue	好きで四天王になった奴なんて………
+TROOP83_p10_60	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p10_61	Troops.json	0	dialogue	いないンだよォォオオーー…ッ！！！！！
+TROOP83_p10_63	Troops.json	0	dialogue	ピピン：
+TROOP83_p10_64	Troops.json	0	dialogue	………そうかい。
+TROOP83_p11_1	Troops.json	0	dialogue	ピピン：
+TROOP83_p11_2	Troops.json	0	dialogue	お前にも兄がいたらしい…
+TROOP83_p11_3	Troops.json	0	dialogue	しかも以前は人間だったとはな…
+TROOP83_p11_5	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p11_6	Troops.json	0	dialogue	…もう殆ど覚えちゃいない………ッ！！
+TROOP83_p11_7	Troops.json	0	dialogue	強い闇のエレメントパワー自体が元々人間を
+TROOP83_p11_8	Troops.json	0	dialogue	蝕むものだからなァァーーーッ！！！！
+TROOP83_p11_10	Troops.json	0	dialogue	ピピン：
+TROOP83_p11_11	Troops.json	0	dialogue	…それでも兄がいたことといい、
+TROOP83_p11_12	Troops.json	0	dialogue	その自己中な性格といい…、
+TROOP83_p11_13	Troops.json	0	dialogue	それは人間の頃から変わらないんだろうが…？
+TROOP83_p11_15	Troops.json	0	dialogue	ピピン：
+TROOP83_p11_16	Troops.json	0	dialogue	…なら、お前にも他の四天王と同じように…
+TROOP83_p11_17	Troops.json	0	dialogue	お前なりの歴史や感情があるってことだ…
+TROOP83_p11_18	Troops.json	0	dialogue	なのになぜ、まだ他の四天王に気兼ねする？
+TROOP83_p11_20	Troops.json	0	dialogue	ピピン：
+TROOP83_p11_21	Troops.json	0	dialogue	この戦いは、もうお前の戦いだ…
+TROOP83_p11_22	Troops.json	0	dialogue	お前だけの都合で、好きなケジメの付け方して
+TROOP83_p11_23	Troops.json	0	dialogue	いいだろうが…！！
+TROOP83_p11_25	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP83_p11_26	Troops.json	0	dialogue	……ッ
+TROOP84_p0_1	Troops.json	0	dialogue	ピピン：
+TROOP84_p0_2	Troops.json	0	dialogue	なんだこいつ…　変身…したのか…！？
+TROOP84_p0_4	Troops.json	0	dialogue	ウィン：
+TROOP84_p0_7	Troops.json	0	dialogue	ピケピケ：
+TROOP84_p0_8	Troops.json	0	dialogue	ふうううううんんんむううぅぅ……
+TROOP84_p0_10	Troops.json	0	dialogue	ピケピケ：
+TROOP84_p0_11	Troops.json	0	dialogue	10ターンだ…　うん、そのくらいが限界かな？
+TROOP84_p0_12	Troops.json	0	dialogue	私は忙しいので10ターンだけ遊んであげます！
+TROOP84_p0_14	Troops.json	0	dialogue	ピピン：
+TROOP84_p0_15	Troops.json	0	dialogue	…ふざけやがって　ウィン、行くぞ！
+TROOP84_p0_17	Troops.json	0	dialogue	ウィン：
+TROOP84_p0_21	Troops.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
+TROOP84_p1_1	Troops.json	0	dialogue	ピケピケ：
+TROOP84_p1_2	Troops.json	0	dialogue	私は魔法使いなのでーーーー
+TROOP84_p1_3	Troops.json	0	dialogue	うっかりしてたまに魔法を使っちゃうかも
+TROOP84_p1_4	Troops.json	0	dialogue	知れないけれど………
+TROOP84_p1_6	Troops.json	0	dialogue	ピケピケ：
+TROOP84_p1_7	Troops.json	0	dialogue	おおめにみていただきたい！！！
+TROOP84_p1_9	Troops.json	0	dialogue	ピピン：
+TROOP84_p1_10	Troops.json	0	dialogue	こいつ…わざと魔法を使わないようにして…
+TROOP84_p1_11	Troops.json	0	dialogue	俺たちと遊んでいるのか…！！
+TROOP84_p2_1	Troops.json	0	dialogue	ピケピケ：
+TROOP84_p2_2	Troops.json	0	dialogue	はいはいはい、頑張ってくださいキミたちー
+TROOP84_p2_3	Troops.json	0	dialogue	そろそろ時間切れだよ？しめきりでーーーーす
+TROOP84_p2_5	Troops.json	0	dialogue	ピピン：
+TROOP84_p2_6	Troops.json	0	dialogue	ウィン…　
+TROOP84_p2_7	Troops.json	0	dialogue	10ターン以内にこいつを倒せると思うか…？
+TROOP84_p2_9	Troops.json	0	dialogue	ウィン：
+TROOP84_p3_1	Troops.json	0	dialogue	ピケピケ：
+TROOP84_p3_2	Troops.json	0	dialogue	あ…　ごめん…　ちょっと厳しい…
+TROOP84_p3_3	Troops.json	0	dialogue	魔法使っていいかなああああああ！！！？？
+TROOP84_p3_10	Troops.json	0	dialogue	　　ピケピケの身体から猛烈な闇の波動が放たれる！！
+TROOP84_p4_1	Troops.json	0	dialogue	ピケピケ：
+TROOP84_p4_2	Troops.json	0	dialogue	はいはいざんねん、お時間で――――す！！
+TROOP84_p4_3	Troops.json	0	dialogue	あーしんどい、ちょっとはしゃぎ過ぎた…
+TROOP93_p0_1	Troops.json	0	dialogue	ピピン：
+TROOP93_p0_2	Troops.json	0	dialogue	こいつも人食いの…ドッグ？
+TROOP93_p0_3	Troops.json	0	dialogue	ドッグなのか、これは…！？
+TROOP93_p0_5	Troops.json	0	dialogue	ピピン：
+TROOP93_p0_6	Troops.json	0	dialogue	どうもいままでの魔物とは様子が違う…
+TROOP93_p0_7	Troops.json	0	dialogue	ウィン、気を引き締めろよ！
+TROOP93_p0_9	Troops.json	0	dialogue	ウィン：
+TROOP94_p0_1	Troops.json	0	dialogue	ジャクリーン：
+TROOP94_p0_2	Troops.json	0	dialogue	フゥううゥゥぉぉおおおおおあああッ！！
+TROOP95_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP95_p0_2	Troops.json	0	dialogue	くそ…二人で勝ったんじゃ、試練を果たした
+TROOP95_p0_3	Troops.json	0	dialogue	ことにならなそうだなあ…
+TROOP95_p0_5	Troops.json	0	dialogue	ナウー：
+TROOP95_p0_6	Troops.json	0	dialogue	………（困
+TROOP95_p0_8	Troops.json	0	dialogue	ホノオ：
+TROOP95_p0_9	Troops.json	0	dialogue	とはいえ、オレはコイツにひとりじゃ
+TROOP95_p0_10	Troops.json	0	dialogue	絶対に勝てねえ！！
+TROOP95_p0_11	Troops.json	0	dialogue	卑怯かも知れねえが…
+TROOP95_p0_13	Troops.json	0	dialogue	一回勝たせてもらうぜ！！
+TROOP95_p0_15	Troops.json	0	dialogue	ナウー：
+TROOP95_p0_16	Troops.json	0	dialogue	……………（ゆっくり頷いてから武器を構える
+TROOP95_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP95_p1_2	Troops.json	0	dialogue	なんか左手の紋章が光りまくってる…
+TROOP95_p1_3	Troops.json	0	dialogue	いかにも魔法とか使えそうな感じだぜ！
+TROOP95_p1_5	Troops.json	0	dialogue	ウィン：
+TROOP95_p1_9	Troops.json	0	dialogue	　　　　ウィンの紋章もみどり色に輝いている！
+TROOP95_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP95_p2_2	Troops.json	0	dialogue	この鎧のオッサンは意外とすばやいうえに…
+TROOP95_p2_4	Troops.json	0	dialogue	ホノオ：
+TROOP95_p2_5	Troops.json	0	dialogue	こっちを気絶させたり、転ばせてくるから、
+TROOP95_p2_6	Troops.json	0	dialogue	ちっともこっちの番にならねーんだ…
+TROOP95_p2_8	Troops.json	0	dialogue	ホノオ：
+TROOP95_p2_9	Troops.json	0	dialogue	だけどオマエの…　オマエ…
+TROOP95_p2_11	Troops.json	0	dialogue	ウィン：
+TROOP95_p2_15	Troops.json	0	dialogue	　　　　　　　ウィンはホノオに名前を教えた
+TROOP95_p2_17	Troops.json	0	dialogue	ホノオ：
+TROOP95_p2_18	Troops.json	0	dialogue	オーケー！　ウィンて言うんだな！
+TROOP95_p2_19	Troops.json	0	dialogue	オレはホノオだぜ！　よろしくな！
+TROOP95_p2_21	Troops.json	0	dialogue	ホノオ：
+TROOP95_p2_22	Troops.json	0	dialogue	ウィンのそのハヤテの魔法を使えば、
+TROOP95_p2_23	Troops.json	0	dialogue	アイツよりも先に動ける…
+TROOP95_p2_24	Troops.json	0	dialogue	つまり…　コレは勝てるぜーーー！！
+TROOP95_p2_26	Troops.json	0	dialogue	ナウ―：
+TROOP95_p3_1	Troops.json	0	dialogue	ナウー：
+TROOP95_p3_11	Troops.json	0	dialogue	　　　　　　ナウーは不思議な構えを取った！
+TROOP95_p3_14	Troops.json	0	dialogue	　　　　　　ナウーの反撃確率がアップした！
+TROOP95_p3_15	Troops.json	0	dialogue	　　　　　　ナウーのぼうぎょ力がアップした！
+TROOP95_p3_17	Troops.json	0	dialogue	ホノオ：
+TROOP95_p3_18	Troops.json	0	dialogue	うお！？　なんだソレ…？
+TROOP95_p3_19	Troops.json	0	dialogue	ま、まあ大丈夫だろ…！！
+TROOP95_p4_1	Troops.json	0	dialogue	ナウ―：
+TROOP95_p4_4	Troops.json	0	dialogue	ホノオ：
+TROOP95_p4_5	Troops.json	0	dialogue	おっ？　もしかして…　いけるか！？
+TROOP102_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP102_p0_2	Troops.json	0	dialogue	なんだこの魔物…？
+TROOP102_p0_3	Troops.json	0	dialogue	なんか知らんけど、むちゃくちゃカッコいいぞ…
+TROOP102_p0_5	Troops.json	0	dialogue	ナガレ：
+TROOP102_p0_6	Troops.json	0	dialogue	見たこともない鎧を着ている…
+TROOP102_p0_7	Troops.json	0	dialogue	でもあいつらが持っているのは、刀だ。
+TROOP102_p0_9	Troops.json	0	dialogue	ホノオ：
+TROOP102_p0_10	Troops.json	0	dialogue	刀ってことは…　
+TROOP102_p0_11	Troops.json	0	dialogue	セイリューに関係する魔物なんじゃねえのか？
+TROOP102_p0_13	Troops.json	0	dialogue	ナガレ：
+TROOP102_p0_14	Troops.json	0	dialogue	分からないよ。
+TROOP102_p0_15	Troops.json	0	dialogue	この前に村を襲った魔物もだけど、
+TROOP102_p0_16	Troops.json	0	dialogue	最近見たこともない魔物ばっかりなのさ。
+TROOP106_p0_1	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p0_2	Troops.json	0	dialogue	てめえら…　青龍を失っただけでも、
+TROOP106_p0_3	Troops.json	0	dialogue	こっちはもう後がねえんだ…
+TROOP106_p0_5	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p0_6	Troops.json	0	dialogue	遊びは終わりだからなー…
+TROOP106_p0_7	Troops.json	0	dialogue	てめえらの人生も終わりだからなーーーー！！
+TROOP106_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP106_p0_10	Troops.json	0	dialogue	こいつはムチでの攻撃も強力だが、
+TROOP106_p0_11	Troops.json	0	dialogue	魔法も使ってくる…　強敵だ。
+TROOP106_p0_13	Troops.json	0	dialogue	ナガレ：
+TROOP106_p0_14	Troops.json	0	dialogue	こっちも紋章の魔法をフル動員しなければ
+TROOP106_p0_15	Troops.json	0	dialogue	勝てないだろう…。
+TROOP106_p0_16	Troops.json	0	dialogue	みんな、魔法や回復アイテムを忘れるな！！
+TROOP106_p0_18	Troops.json	0	dialogue	ホノオ：
+TROOP106_p0_19	Troops.json	0	dialogue	おう！　わかったぜ！
+TROOP106_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP106_p1_2	Troops.json	0	dialogue	おい！　アンタ！
+TROOP106_p1_3	Troops.json	0	dialogue	5ターン以内にオレらを倒すって言ってたよな？
+TROOP106_p1_5	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p1_6	Troops.json	0	dialogue	ああん！！？？？
+TROOP106_p1_8	Troops.json	0	dialogue	ホノオ：
+TROOP106_p1_9	Troops.json	0	dialogue	やれるもんならやってみろよ！
+TROOP106_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP106_p2_2	Troops.json	0	dialogue	あれ！？　あれれれれ？？
+TROOP106_p2_4	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p2_5	Troops.json	0	dialogue	あんだあ！？どうしたコラあ！！？？
+TROOP106_p2_7	Troops.json	0	dialogue	ホノオ：
+TROOP106_p2_8	Troops.json	0	dialogue	ちょっとここで、冷静にバトルを観察するのが
+TROOP106_p2_9	Troops.json	0	dialogue	得意なナガレさんに聞いてみましょう…
+TROOP106_p2_11	Troops.json	0	dialogue	ホノオ：
+TROOP106_p2_12	Troops.json	0	dialogue	セイリューの当主のナガレさーーーーん？
+TROOP106_p2_14	Troops.json	0	dialogue	ナガレ：
+TROOP106_p2_15	Troops.json	0	dialogue	はい、ナガレです。
+TROOP106_p2_17	Troops.json	0	dialogue	ホノオ：
+TROOP106_p2_18	Troops.json	0	dialogue	ナガレさんでしたらこの激しいバトルの
+TROOP106_p2_19	Troops.json	0	dialogue	最中でも、きっとお分かりになると
+TROOP106_p2_20	Troops.json	0	dialogue	思うんですがー
+TROOP106_p2_22	Troops.json	0	dialogue	ホノオ：
+TROOP106_p2_23	Troops.json	0	dialogue	いま何ターン経過したでしょうかーーー？
+TROOP106_p2_25	Troops.json	0	dialogue	ナガレ：
+TROOP106_p2_26	Troops.json	0	dialogue	この会話をしている段階でちょうど
+TROOP106_p2_27	Troops.json	0	dialogue	6ターンです。
+TROOP106_p2_29	Troops.json	0	dialogue	ホノオ：
+TROOP106_p2_30	Troops.json	0	dialogue	だとよーーーーーミケーネ！！
+TROOP106_p2_32	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p2_33	Troops.json	0	dialogue	えーーーーーい、うるさい！！！！！！
+TROOP106_p2_34	Troops.json	0	dialogue	ほんの少し寿命が延びたことに感謝しろ！！
+TROOP106_p2_35	Troops.json	0	dialogue	すぐだ…もうすぐに終わらせてやる…！！！！
+TROOP106_p2_37	Troops.json	0	dialogue	ホノオ：
+TROOP106_p2_38	Troops.json	0	dialogue	あ、そう。へへへ…
+TROOP106_p2_39	Troops.json	0	dialogue	バー――――――カ！！
+TROOP106_p3_1	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p3_2	Troops.json	0	dialogue	………っ！！！！
+TROOP106_p3_4	Troops.json	0	dialogue	ナガレ：
+TROOP106_p3_5	Troops.json	0	dialogue	…効いてる！！
+TROOP106_p3_6	Troops.json	0	dialogue	このまま一気にたたみかけろ！！
+TROOP106_p3_8	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p3_9	Troops.json	0	dialogue	もう四の五の言ってられないわね…
+TROOP106_p3_11	Troops.json	0	dialogue	ミケーネ：
+TROOP106_p3_12	Troops.json	0	dialogue	最大出力のブリザード…　解禁するわ！！
+TROOP106_p3_14	Troops.json	0	dialogue	ホノオ：
+TROOP106_p3_15	Troops.json	0	dialogue	なんか奥の手がありやがるのか…？
+TROOP107_p0_1	Troops.json	0	dialogue	ミケーネ：
+TROOP107_p0_2	Troops.json	0	dialogue	ナウー…　この子たち、強いわ。
+TROOP107_p0_3	Troops.json	0	dialogue	あたしたちの予想を超える力を持っている…
+TROOP107_p0_5	Troops.json	0	dialogue	ミケーネ：
+TROOP107_p0_6	Troops.json	0	dialogue	いつもみたいに手を抜かなくてもいいはずよ。
+TROOP107_p0_7	Troops.json	0	dialogue	二対二なんだし、条件もフェアでしょう？
+TROOP107_p0_9	Troops.json	0	dialogue	ナウー：
+TROOP107_p0_12	Troops.json	0	dialogue	ホノオ：
+TROOP107_p0_13	Troops.json	0	dialogue	…手を抜いている？　マジか…
+TROOP107_p0_15	Troops.json	0	dialogue	ナガレ：
+TROOP107_p0_16	Troops.json	0	dialogue	ホノオ！集中しろ！
+TROOP107_p1_1	Troops.json	0	dialogue	ミケーネ：
+TROOP107_p1_2	Troops.json	0	dialogue	ナウー…　やっぱり…
+TROOP107_p1_3	Troops.json	0	dialogue	あなた、一対一の決闘にしか興味ないのね…
+TROOP107_p1_5	Troops.json	0	dialogue	ミケーネ：
+TROOP107_p1_6	Troops.json	0	dialogue	時間がかかり過ぎたわ。
+TROOP107_p1_7	Troops.json	0	dialogue	これ以上はただの消耗戦…
+TROOP107_p1_8	Troops.json	0	dialogue	帰るわよ、ナウー！
+TROOP107_p1_10	Troops.json	0	dialogue	ナウー：
+TROOP107_p1_13	Troops.json	0	dialogue	ホノオ：
+TROOP107_p1_14	Troops.json	0	dialogue	ま、待て！！
+TROOP107_p1_15	Troops.json	0	dialogue	まだこれからってときに…逃げんじゃねー！！
+TROOP107_p1_17	Troops.json	0	dialogue	ナガレ：
+TROOP107_p1_18	Troops.json	0	dialogue	ホノオ！
+TROOP107_p1_19	Troops.json	0	dialogue	喋ってるヒマがあるなら攻撃するんだ！！
+TROOP107_p1_21	Troops.json	0	dialogue	ナガレ：
+TROOP107_p1_22	Troops.json	0	dialogue	思わせぶりな会話をして…
+TROOP107_p1_23	Troops.json	0	dialogue	消えて脱出するスキを作ろうとしているんだ…
+TROOP107_p1_24	Troops.json	0	dialogue	乗せられるなよ！
+TROOP107_p1_26	Troops.json	0	dialogue	ミケーネ：
+TROOP107_p1_27	Troops.json	0	dialogue	ふーん　相変わらず口の達者な子…
+TROOP107_p1_28	Troops.json	0	dialogue	いいわ、もう少しだけ相手してあげる。
+TROOP107_p1_29	Troops.json	0	dialogue	だけど…
+TROOP107_p1_31	Troops.json	0	dialogue	ミケーネ：
+TROOP107_p1_32	Troops.json	0	dialogue	ナウーが全然やる気ないのよ。
+TROOP107_p1_33	Troops.json	0	dialogue	彼を本気にさせるくらいに…
+TROOP107_p1_34	Troops.json	0	dialogue	あなたたちももっと頑張りなさい！？
+TROOP108_p0_1	Troops.json	0	dialogue	ダフィール：
+TROOP108_p0_2	Troops.json	0	dialogue	ホントはーーー　自分で戦うつもりなんて
+TROOP108_p0_3	Troops.json	0	dialogue	なかったんだケドーーー
+TROOP108_p0_5	Troops.json	0	dialogue	ダフィール：
+TROOP108_p0_6	Troops.json	0	dialogue	来たのが風の紋章の継承者とーーー
+TROOP108_p0_7	Troops.json	0	dialogue	よくわかんない赤いヒトだけだったんでーー
+TROOP108_p0_9	Troops.json	0	dialogue	ダフィール：
+TROOP108_p0_10	Troops.json	0	dialogue	ちょっとだけ遊ばせてもらうよーー？
+TROOP108_p0_11	Troops.json	0	dialogue	キミたちにはボクの炎を防ぐ手段が
+TROOP108_p0_12	Troops.json	0	dialogue	ないから…
+TROOP108_p0_14	Troops.json	0	dialogue	ダフィール：
+TROOP108_p0_15	Troops.json	0	dialogue	よく燃えるだろうなーーーー！！？？
+TROOP108_p0_17	Troops.json	0	dialogue	ピピン：
+TROOP108_p0_18	Troops.json	0	dialogue	奴は自分でも散々言っているが…
+TROOP108_p0_19	Troops.json	0	dialogue	火を使うらしい。
+TROOP108_p0_21	Troops.json	0	dialogue	ピピン：
+TROOP108_p0_22	Troops.json	0	dialogue	これといって対策も思いつかんが…
+TROOP108_p0_23	Troops.json	0	dialogue	とりあえず早めに回復をしながら戦うぞ…。
+TROOP108_p0_25	Troops.json	0	dialogue	ウィン：
+TROOP108_p0_29	Troops.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた！
+TROOP108_p1_1	Troops.json	0	dialogue	ダフィール：
+TROOP108_p1_2	Troops.json	0	dialogue	………おかしいなーーー
+TROOP108_p1_4	Troops.json	0	dialogue	ダフィール：
+TROOP108_p1_5	Troops.json	0	dialogue	おい、赤いのさーーー
+TROOP108_p1_6	Troops.json	0	dialogue	オマエ、継承者でもないのに…
+TROOP108_p1_7	Troops.json	0	dialogue	ボクの炎にちょっと耐性あるよねーーー？
+TROOP108_p1_9	Troops.json	0	dialogue	ピピン：
+TROOP108_p1_10	Troops.json	0	dialogue	フン…さあな。
+TROOP108_p1_11	Troops.json	0	dialogue	お前の力が自分で思っているよりも、
+TROOP108_p1_12	Troops.json	0	dialogue	意外と大したことないんだろう。
+TROOP108_p1_14	Troops.json	0	dialogue	ダフィール：
+TROOP108_p1_15	Troops.json	0	dialogue	いやいやいやいやー
+TROOP108_p1_16	Troops.json	0	dialogue	金髪の子は明らかにヤケドだらけだよー？
+TROOP108_p1_18	Troops.json	0	dialogue	ウィン：
+TROOP108_p1_21	Troops.json	0	dialogue	ダフィール：
+TROOP108_p1_22	Troops.json	0	dialogue	なんでーーー？
+TROOP108_p1_23	Troops.json	0	dialogue	赤い服着てるからとか言うなよー？
+TROOP108_p1_24	Troops.json	0	dialogue	面白くないからーーー
+TROOP108_p1_26	Troops.json	0	dialogue	ピピン：
+TROOP108_p1_27	Troops.json	0	dialogue	…本当にそうなのか…？
+TROOP108_p1_28	Troops.json	0	dialogue	ウィン、お前から見ても…？
+TROOP108_p1_30	Troops.json	0	dialogue	ウィン：
+TROOP108_p1_33	Troops.json	0	dialogue	ピピン：
+TROOP108_p1_34	Troops.json	0	dialogue	まあ…、なんでもいいさ。
+TROOP108_p1_35	Troops.json	0	dialogue	これで、お前に勝つ見込みもあると分かった…
+TROOP108_p1_36	Troops.json	0	dialogue	そろそろ本気でいかせてもらう…！
+TROOP108_p1_38	Troops.json	0	dialogue	ダフィール：
+TROOP108_p1_39	Troops.json	0	dialogue	こわーーーーー！！！！！
+TROOP108_p1_40	Troops.json	0	dialogue	怖過ぎてムリーーーー！！！！
+TROOP108_p1_42	Troops.json	0	dialogue	ダフィール：
+TROOP108_p1_43	Troops.json	0	dialogue	怖過ぎるのであと5ターンで終りにしまーす
+TROOP108_p1_44	Troops.json	0	dialogue	5ターン以内にボクを倒せるようにー…
+TROOP108_p1_45	Troops.json	0	dialogue	せいぜいがんばってくださーーーい！！！？
+TROOP108_p1_47	Troops.json	0	dialogue	ピピン：
+TROOP108_p1_48	Troops.json	0	dialogue	ふざけやがって…！！
+TROOP108_p2_1	Troops.json	0	dialogue	ダフィール：
+TROOP108_p2_2	Troops.json	0	dialogue	ざんねんでしたーーーー！！！！
+TROOP108_p2_3	Troops.json	0	dialogue	ここまででーーす　ガチバトルごっこ終わり！！
+TROOP109_p0_1	Troops.json	0	dialogue	サクソン：
+TROOP109_p0_2	Troops.json	0	dialogue	いけっ！　ウィン！！
+TROOP109_p0_3	Troops.json	0	dialogue	ピピンなんか倒してしまえーい！！
+TROOP109_p0_5	Troops.json	0	dialogue	ロイ：
+TROOP109_p0_6	Troops.json	0	dialogue	ウィン！　ピピンは操られている！
+TROOP109_p0_7	Troops.json	0	dialogue	何かがきっかけで正気に戻るかも知れん！
+TROOP109_p0_9	Troops.json	0	dialogue	サクソン：
+TROOP109_p0_10	Troops.json	0	dialogue	ちなみにピピンが剣ではなく、杖を持って
+TROOP109_p0_11	Troops.json	0	dialogue	いるように見えるのだが…　これは…？
+TROOP109_p0_13	Troops.json	0	dialogue	ロイ：
+TROOP109_p0_14	Troops.json	0	dialogue	おそらくダフィールの魔力で見た目が変わって
+TROOP109_p0_15	Troops.json	0	dialogue	いるのでしょう…　恐ろしい力だ…
+TROOP109_p0_16	Troops.json	0	dialogue	しかしあれは剣なのです、サクソン殿！！
+TROOP109_p1_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p1_2	Troops.json	0	dialogue	俺は…天才だ…
+TROOP109_p1_3	Troops.json	0	dialogue	そう呼ぶのは俺だけじゃない、誰もが認める。
+TROOP109_p1_5	Troops.json	0	dialogue	ピピン：
+TROOP109_p1_6	Troops.json	0	dialogue	そんな俺が、貴様のような新米の小僧に、
+TROOP109_p1_7	Troops.json	0	dialogue	すべてを奪われた…
+TROOP109_p1_8	Troops.json	0	dialogue	その理由を、貴様は答えられるのか！？
+TROOP109_p1_10	Troops.json	0	dialogue	ウィン：
+TROOP109_p1_14	Troops.json	0	dialogue	　　　　　　　　ウィンは首を横に振った！
+TROOP109_p2_1	Troops.json	0	dialogue	ロイ：
+TROOP109_p2_2	Troops.json	0	dialogue	ウィン！
+TROOP109_p2_3	Troops.json	0	dialogue	風の紋章の力とお前の素早さがあれば…
+TROOP109_p2_5	Troops.json	0	dialogue	ロイ：
+TROOP109_p2_6	Troops.json	0	dialogue	ピピンの攻撃と言えども、
+TROOP109_p2_7	Troops.json	0	dialogue	避け続けることができるはずだ！
+TROOP109_p2_8	Troops.json	0	dialogue	避け続けろ！　ウィン！
+TROOP109_p2_10	Troops.json	0	dialogue	ウィン：
+TROOP109_p2_16	Troops.json	0	dialogue	　　　　　　　ウィンは左手を高くかかげた！
+TROOP109_p2_17	Troops.json	0	dialogue	　　ハヤテの魔法が発動！　ウィンの回避力がアップした！
+TROOP109_p3_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p3_2	Troops.json	0	dialogue	…風の紋章の力か。
+TROOP109_p3_4	Troops.json	0	dialogue	ピピン：
+TROOP109_p3_5	Troops.json	0	dialogue	…俺から奪ったその力で、俺の攻撃をすべて
+TROOP109_p3_6	Troops.json	0	dialogue	避け続けようと言うんだな…　ウィン！！
+TROOP109_p3_8	Troops.json	0	dialogue	ウィン：
+TROOP109_p4_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p4_2	Troops.json	0	dialogue	ふざけているのか！　ウィン！！
+TROOP109_p4_4	Troops.json	0	dialogue	サクソン：
+TROOP109_p4_5	Troops.json	0	dialogue	えーい！　ウィンのやつ…
+TROOP109_p4_6	Troops.json	0	dialogue	避けているばかりで、ちっともピピンに
+TROOP109_p4_7	Troops.json	0	dialogue	ダメージを与えられぬではないか！
+TROOP109_p4_9	Troops.json	0	dialogue	ロイ：
+TROOP109_p4_10	Troops.json	0	dialogue	ウィン…　手を抜いているのか…？
+TROOP109_p4_12	Troops.json	0	dialogue	ウィン：
+TROOP109_p5_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p5_2	Troops.json	0	dialogue	俺を憐れむというのか…ウィン……！！
+TROOP109_p5_4	Troops.json	0	dialogue	ピピン：
+TROOP109_p5_5	Troops.json	0	dialogue	そんな風に扱われて…　俺が喜ぶと思うのか…
+TROOP109_p5_7	Troops.json	0	dialogue	ピピン：
+TROOP109_p5_8	Troops.json	0	dialogue	余計に情けなく…！　みじめになるだけだと…
+TROOP109_p5_9	Troops.json	0	dialogue	わからないか！！　ウィン！！！
+TROOP109_p5_11	Troops.json	0	dialogue	ウィン：
+TROOP109_p5_15	Troops.json	0	dialogue	　　　　　　ウィンは気合をこめて斬りかかった！
+TROOP109_p5_18	Troops.json	0	dialogue	　　　　　　　　　…しかし力がはいらない
+TROOP109_p5_20	Troops.json	0	dialogue	ロイ：
+TROOP109_p5_21	Troops.json	0	dialogue	ピピン！！　目を覚ませ！！
+TROOP109_p5_22	Troops.json	0	dialogue	ウィンはお前を殺したくないのだ…
+TROOP109_p5_23	Troops.json	0	dialogue	殺せないのだ……　ピピン…！
+TROOP109_p5_25	Troops.json	0	dialogue	ピピン：
+TROOP109_p5_26	Troops.json	0	dialogue	それが屈辱なんだろう…？
+TROOP109_p5_27	Troops.json	0	dialogue	それが許せないんだよ…
+TROOP109_p5_29	Troops.json	0	dialogue	ピピン：
+TROOP109_p5_30	Troops.json	0	dialogue	俺を憐れむなと言っているだろうがああ！！！
+TROOP109_p5_32	Troops.json	0	dialogue	ウィン：
+TROOP109_p5_35	Troops.json	0	dialogue	ウィンダム王：
+TROOP109_p5_36	Troops.json	0	dialogue	もうよい！　ピピンを殺せ！
+TROOP109_p5_37	Troops.json	0	dialogue	ウィンにできないのであれば…　我が斬る！！
+TROOP109_p5_39	Troops.json	0	dialogue	サクソン：
+TROOP109_p5_40	Troops.json	0	dialogue	な、ななな、なりませぬぞ陛下！！
+TROOP109_p5_41	Troops.json	0	dialogue	いまのあやつに近付くなど…
+TROOP109_p5_42	Troops.json	0	dialogue	ウィン以外には不可能です！！
+TROOP109_p5_44	Troops.json	0	dialogue	ロイ：
+TROOP109_p5_45	Troops.json	0	dialogue	サクソン殿の言う通りですぞ、陛下！
+TROOP109_p5_46	Troops.json	0	dialogue	ここは、ウィンに任せてやって下さい！
+TROOP109_p5_48	Troops.json	0	dialogue	ウィンダム王：
+TROOP109_p5_49	Troops.json	0	dialogue	むう…
+TROOP109_p6_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p6_2	Troops.json	0	dialogue	…う、ううう……っ！！
+TROOP109_p6_4	Troops.json	0	dialogue	サクソン：
+TROOP109_p6_5	Troops.json	0	dialogue	なにやらピピンが苦しみだしたぞ…！？
+TROOP109_p6_8	Troops.json	0	dialogue	ロイ：
+TROOP109_p6_9	Troops.json	0	dialogue	………ピピン！
+TROOP109_p6_11	Troops.json	0	dialogue	ピピン：
+TROOP109_p6_12	Troops.json	0	dialogue	…違う　俺はこんなこと望んじゃいない…
+TROOP109_p6_13	Troops.json	0	dialogue	ウィン、俺はこんなことをしたくはない…
+TROOP109_p6_15	Troops.json	0	dialogue	ウィン：
+TROOP109_p6_18	Troops.json	0	dialogue	ロイ：
+TROOP109_p6_19	Troops.json	0	dialogue	術が…　解けだしたのか…！？
+TROOP109_p6_22	Troops.json	0	dialogue	ピピン：
+TROOP109_p6_23	Troops.json	0	dialogue	…う、うおおおおおお…！！
+TROOP109_p7_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p7_2	Troops.json	0	dialogue	クソッ　俺としたことが…
+TROOP109_p7_3	Troops.json	0	dialogue	こんな術なんかに…！
+TROOP109_p7_5	Troops.json	0	dialogue	ロイ：
+TROOP109_p7_6	Troops.json	0	dialogue	ピピン！　正気に戻ったか！？
+TROOP109_p7_8	Troops.json	0	dialogue	ピピン：
+TROOP109_p7_9	Troops.json	0	dialogue	クッ…！　こんな醜態を晒すくらいなら…
+TROOP109_p7_11	Troops.json	0	dialogue	ピピン：
+TROOP109_p7_12	Troops.json	0	dialogue	俺は死を…選ぶ…！！
+TROOP109_p7_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
+TROOP109_p7_20	Troops.json	0	dialogue	ウィン：
+TROOP109_p7_23	Troops.json	0	dialogue	サクソン：
+TROOP109_p7_24	Troops.json	0	dialogue	なに！？
+TROOP109_p7_26	Troops.json	0	dialogue	ロイ：
+TROOP109_p7_27	Troops.json	0	dialogue	ああ…ピピン…！　やめろ！！
+TROOP109_p8_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p8_2	Troops.json	0	dialogue	…ううっ…！！
+TROOP109_p8_4	Troops.json	0	dialogue	ロイ：
+TROOP109_p8_5	Troops.json	0	dialogue	操りの術は解けていない…
+TROOP109_p8_6	Troops.json	0	dialogue	それなのに…　自らの精神力で…
+TROOP109_p8_7	Troops.json	0	dialogue	術と戦っているのか…　ピピン…！
+TROOP109_p8_9	Troops.json	0	dialogue	ピピン：
+TROOP109_p8_10	Troops.json	0	dialogue	ぐああ…！！
+TROOP109_p8_12	Troops.json	0	dialogue	ウィン：
+TROOP109_p8_19	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
+TROOP109_p8_21	Troops.json	0	dialogue	ウィン：
+TROOP109_p8_24	Troops.json	0	dialogue	サクソン：
+TROOP109_p8_25	Troops.json	0	dialogue	自分の身体を切り刻むことで…
+TROOP109_p8_26	Troops.json	0	dialogue	術を…　術に操られた自分を封じようと
+TROOP109_p8_27	Troops.json	0	dialogue	しているのか…！
+TROOP109_p9_1	Troops.json	0	dialogue	ピピン：
+TROOP109_p9_2	Troops.json	0	dialogue	…はぁ　…はぁ
+TROOP109_p9_4	Troops.json	0	dialogue	ロイ：
+TROOP109_p9_5	Troops.json	0	dialogue	ピピン！　死んでしまうぞ…　ピピン！
+TROOP109_p9_7	Troops.json	0	dialogue	ピピン：
+TROOP109_p9_8	Troops.json	0	dialogue	そろそろ…　お前らでも…
+TROOP109_p9_9	Troops.json	0	dialogue	俺にトドメを刺せるだろう…
+TROOP109_p9_11	Troops.json	0	dialogue	ウィン：
+TROOP109_p9_18	Troops.json	0	dialogue	　　　　　　ピピンは自らの体に斬りつけた！
+TROOP109_p9_20	Troops.json	0	dialogue	ウィン：
+TROOP109_p9_23	Troops.json	0	dialogue	サクソン：
+TROOP109_p9_24	Troops.json	0	dialogue	ピピン…　なんという高潔な男…！！
+TROOP109_p9_26	Troops.json	0	dialogue	ロイ：
+TROOP109_p9_27	Troops.json	0	dialogue	ピピンやめろ！　もういい！！
+TROOP109_p9_28	Troops.json	0	dialogue	お前の身体は　もう十分に傷付いている！！
+TROOP109_p9_29	Troops.json	0	dialogue	それ以上の自傷は必要ない！！
+TROOP109_p9_31	Troops.json	0	dialogue	ピピン：
+TROOP109_p9_32	Troops.json	0	dialogue	……うるさいッ！！
+TROOP109_p9_34	Troops.json	0	dialogue	ウィン：
+TROOP110_p0_1	Troops.json	0	dialogue	ナガレ：
+TROOP110_p0_2	Troops.json	0	dialogue	気持ちわりいっ！！　なんだよこれ……っ！？
+TROOP110_p0_4	Troops.json	0	dialogue	ホノオ：
+TROOP110_p0_5	Troops.json	0	dialogue	何となくカメのようにも見えるが…
+TROOP110_p0_6	Troops.json	0	dialogue	にしたってデカ過ぎんだろー！！！！
+TROOP110_p0_8	Troops.json	0	dialogue	ナガレ：
+TROOP110_p0_9	Troops.json	0	dialogue	そんであの甲羅から凄い勢いで出してる煙…？
+TROOP110_p0_10	Troops.json	0	dialogue	あれは一体なんだ…　どういう構造なんだ…
+TROOP110_p0_12	Troops.json	0	dialogue	ホノオ：
+TROOP110_p0_13	Troops.json	0	dialogue	なんにしてもパッと見で強そうだ…
+TROOP110_p0_14	Troops.json	0	dialogue	サポート系の魔法をしっかり使った方がいいな
+TROOP110_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP110_p1_2	Troops.json	0	dialogue	しっかしなんちゅーバケモンだよ…
+TROOP110_p1_3	Troops.json	0	dialogue	闇のエレメントが復活すると、こんなのが
+TROOP110_p1_4	Troops.json	0	dialogue	ウヨウヨする世界になっちまうのかーー！？
+TROOP110_p1_6	Troops.json	0	dialogue	ナガレ：
+TROOP110_p1_7	Troops.json	0	dialogue	そんな世の中になったら、とてもじゃないけど、
+TROOP110_p1_8	Troops.json	0	dialogue	あたしたちが何人いても追いつかないだろうな
+TROOP111_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP111_p0_2	Troops.json	0	dialogue	うおおおおおお！
+TROOP111_p0_3	Troops.json	0	dialogue	近くで見ると、完全に…　イヌ…か？
+TROOP111_p0_5	Troops.json	0	dialogue	ナガレ：
+TROOP111_p0_6	Troops.json	0	dialogue	イヌ？はイヌ？でも、普通のイヌとは違う…
+TROOP111_p0_7	Troops.json	0	dialogue	禍々しい殺気を周囲にばらまいてやがる…
+TROOP111_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP111_p0_10	Troops.json	0	dialogue	まさに異形のモノって感じだ…！
+TROOP111_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP111_p1_2	Troops.json	0	dialogue	でけえぜーーーー！！
+TROOP111_p1_3	Troops.json	0	dialogue	でもこんなのが相手でも負ける気がしねえ…　
+TROOP111_p1_5	Troops.json	0	dialogue	ナガレ：
+TROOP111_p1_6	Troops.json	0	dialogue	あたしらも紋章の力ですっかり異形のものに
+TROOP111_p1_7	Troops.json	0	dialogue	なっちまった気がするな…
+TROOP111_p1_9	Troops.json	0	dialogue	ウィン：
+TROOP135_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP135_p0_2	Troops.json	0	dialogue	四天王最強の…　大魔道士…　だったよな？
+TROOP135_p0_3	Troops.json	0	dialogue	ってことは当然、めちゃ強い魔法を使ってくる
+TROOP135_p0_5	Troops.json	0	dialogue	ナガレ：
+TROOP135_p0_6	Troops.json	0	dialogue	闇の力や魔法に耐性のあるあたし達でも、
+TROOP135_p0_7	Troops.json	0	dialogue	どのくらい耐えられるのか…　わからない。
+TROOP135_p0_9	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p0_10	Troops.json	0	dialogue	さあああああ継承者たちよおおおおおお！！！
+TROOP135_p0_12	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p0_13	Troops.json	0	dialogue	私が長年…　研究！　開発！　発見！！
+TROOP135_p0_14	Troops.json	0	dialogue	…してきた数々の大魔法を………
+TROOP135_p0_16	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p0_17	Troops.json	0	dialogue	惜しみなくすべて披露してやろう！！！！！
+TROOP135_p1_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p1_2	Troops.json	0	dialogue	あー　気持ちいいいいいいいいいいいい！！！
+TROOP135_p1_4	Troops.json	0	dialogue	ナガレ：
+TROOP135_p1_5	Troops.json	0	dialogue	ちょっといままで見てきた魔法とは違う…
+TROOP135_p1_6	Troops.json	0	dialogue	きっと、まだ他の魔法も残しているだろうな…
+TROOP135_p1_8	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p1_9	Troops.json	0	dialogue	もちのローーーーーーーーーーーーン！！！！
+TROOP135_p1_11	Troops.json	0	dialogue	ホノオ：
+TROOP135_p1_12	Troops.json	0	dialogue	これが四天王最強の魔法か…
+TROOP135_p1_13	Troops.json	0	dialogue	なんつーか…　これといって対策がねえ！！！
+TROOP135_p1_15	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p1_16	Troops.json	0	dialogue	だーかーらー言ってるだろう！！？？
+TROOP135_p1_17	Troops.json	0	dialogue	私は本来ラスボスポジション！！
+TROOP135_p1_19	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p1_20	Troops.json	0	dialogue	お手軽な攻略などなあああああああいいい！！
+TROOP135_p1_21	Troops.json	0	dialogue	真っ向勝負のガチバトルでしか私には勝てん！！
+TROOP135_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP135_p2_2	Troops.json	0	dialogue	へっ…　結構戦える気がしてきたぜ…
+TROOP135_p2_3	Troops.json	0	dialogue	なんとかなるかもな！
+TROOP135_p2_5	Troops.json	0	dialogue	ナガレ：
+TROOP135_p2_6	Troops.json	0	dialogue	ダメだ！　時間がかかり過ぎている…！
+TROOP135_p2_7	Troops.json	0	dialogue	こうしている間にも…魔王とやらが誕生して…
+TROOP135_p2_9	Troops.json	0	dialogue	ナガレ：
+TROOP135_p2_10	Troops.json	0	dialogue	闇いんふるなんとかが広がって…
+TROOP135_p2_11	Troops.json	0	dialogue	みんなが死んでしまう…！！
+TROOP135_p2_13	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p2_14	Troops.json	0	dialogue	闇インフルエンザについては…
+TROOP135_p2_15	Troops.json	0	dialogue	正直スマンかったと思ってる。
+TROOP135_p2_17	Troops.json	0	dialogue	ホノオ：
+TROOP135_p2_18	Troops.json	0	dialogue	は…？
+TROOP135_p2_20	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p2_21	Troops.json	0	dialogue	気に入らないものは全てを皆殺しにする…
+TROOP135_p2_22	Troops.json	0	dialogue	それは、私たちが人間たちからされてきたこと
+TROOP135_p2_23	Troops.json	0	dialogue	とまったく同じだ…
+TROOP135_p2_25	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p2_26	Troops.json	0	dialogue	だが…　もうここが限界…　ここが最後…！！
+TROOP135_p2_27	Troops.json	0	dialogue	ここで大きな力を取り戻さねば…
+TROOP135_p2_28	Troops.json	0	dialogue	我々が皆殺しにされてしまう…！！
+TROOP135_p2_30	Troops.json	0	dialogue	ナガレ：
+TROOP135_p2_31	Troops.json	0	dialogue	何を言ってんだ…　こいつは…
+TROOP135_p2_33	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p2_34	Troops.json	0	dialogue	最後にキミたちのような楽しい人間に会えて…
+TROOP135_p2_35	Troops.json	0	dialogue	うれしかったよおおおおおおおおおおお！！！
+TROOP135_p3_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p3_2	Troops.json	0	dialogue	全能感…ッ！！
+TROOP135_p3_3	Troops.json	0	dialogue	己の持つすべての力…感情を…！！！
+TROOP135_p3_5	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p3_6	Troops.json	0	dialogue	ありのまま垂れ流しに解き放つ解放感ッ！！
+TROOP135_p3_8	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p3_9	Troops.json	0	dialogue	きもちいいいいいいいいいいいい！！！！
+TROOP135_p3_10	Troops.json	0	dialogue	なんもいえねええええええ！！！！！
+TROOP135_p3_12	Troops.json	0	dialogue	ホノオ：
+TROOP135_p3_13	Troops.json	0	dialogue	え…、いや、言いまくってるだろう……？
+TROOP135_p3_15	Troops.json	0	dialogue	ナガレ：
+TROOP135_p3_16	Troops.json	0	dialogue	さすがにホノオも突っ込んだ…！！
+TROOP135_p4_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p4_2	Troops.json	0	dialogue	あー　これちょっとやばい…
+TROOP135_p4_4	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p4_5	Troops.json	0	dialogue	えーいまちょうどですねー
+TROOP135_p4_6	Troops.json	0	dialogue	私のＨＰが半分になりました！！！！！！！
+TROOP135_p4_8	Troops.json	0	dialogue	ホノオ：
+TROOP135_p4_9	Troops.json	0	dialogue	えー！！？？　なんだそれ、親切だな！！！？
+TROOP135_p4_11	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p4_12	Troops.json	0	dialogue	やるじゃん　キミたちーーーーーーー！！！！
+TROOP135_p4_14	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p4_15	Troops.json	0	dialogue	私もちゃんと全ての力を使い切れるように…
+TROOP135_p4_16	Troops.json	0	dialogue	頑張るよおおおおおおおお…ッ！！
+TROOP135_p4_17	Troops.json	0	dialogue	かきゅごしりょよおおおおお！！！？？
+TROOP135_p4_19	Troops.json	0	dialogue	ホノオ：
+TROOP135_p4_20	Troops.json	0	dialogue	くっ！！　すげえ気合だ！！
+TROOP135_p4_22	Troops.json	0	dialogue	ナガレ：
+TROOP135_p4_23	Troops.json	0	dialogue	噛みまくってんのに一切後悔していない！！
+TROOP135_p5_1	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p5_2	Troops.json	0	dialogue	あっ　走馬灯………　お花畑見えてきた…
+TROOP135_p5_4	Troops.json	0	dialogue	ホノオ：
+TROOP135_p5_5	Troops.json	0	dialogue	おい…大丈夫か！？
+TROOP135_p5_7	Troops.json	0	dialogue	ナガレ：
+TROOP135_p5_8	Troops.json	0	dialogue	敵を心配なくていいんだよ！！
+TROOP135_p5_10	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p5_11	Troops.json	0	dialogue	私にもっとエレメントパワーを………
+TROOP135_p5_13	Troops.json	0	dialogue	大魔道士ピケピケ：
+TROOP135_p5_14	Troops.json	0	dialogue	もっと力おおおおおおおおおおおッ！！！！！
+TROOP135_p5_21	Troops.json	0	dialogue	　　　　　大魔道士ピケピケの魔力が暴走した！！
+TROOP135_p5_24	Troops.json	0	dialogue	　　　　　ピケピケから猛烈な闇の波動を感じる！！
+TROOP135_p5_26	Troops.json	0	dialogue	ホノオ：
+TROOP135_p5_27	Troops.json	0	dialogue	うおっ！？　マジかこいつ…！！
+TROOP135_p5_29	Troops.json	0	dialogue	ナガレ：
+TROOP135_p5_30	Troops.json	0	dialogue	くっ…！！　気圧されるな！！
+TROOP135_p5_31	Troops.json	0	dialogue	いまのあたしたちなら、やれるはずだ！！
+TROOP136_p0_1	Troops.json	0	dialogue	ナガレ：
+TROOP136_p0_2	Troops.json	0	dialogue	…ほとんど魔法での攻撃なしの殴り合いなら、
+TROOP136_p0_3	Troops.json	0	dialogue	テッペキを二回使えば有利に戦えるはず。
+TROOP136_p0_5	Troops.json	0	dialogue	ミケーネ：
+TROOP136_p0_6	Troops.json	0	dialogue	自分自身を強化する魔法を持っているのが、
+TROOP136_p0_7	Troops.json	0	dialogue	あなただけだと思ったら間違いよ？
+TROOP136_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP136_p0_10	Troops.json	0	dialogue	…へえ。
+TROOP136_p1_1	Troops.json	0	dialogue	ナガレ：
+TROOP136_p1_2	Troops.json	0	dialogue	氷の魔法はあたしに利かない！
+TROOP136_p1_3	Troops.json	0	dialogue	無駄なことはやめるんだ！
+TROOP136_p1_5	Troops.json	0	dialogue	ミケーネ：
+TROOP136_p1_6	Troops.json	0	dialogue	どうかしら？
+TROOP136_p1_7	Troops.json	0	dialogue	一瞬のスキを突いて、至近距離から放てば、
+TROOP136_p1_8	Troops.json	0	dialogue	あなたでも無効化できないと思うけど…。
+TROOP136_p1_10	Troops.json	0	dialogue	ナガレ：
+TROOP136_p1_11	Troops.json	0	dialogue	そんなスキをあたしは晒さない！
+TROOP136_p2_1	Troops.json	0	dialogue	ミケーネ：
+TROOP136_p2_2	Troops.json	0	dialogue	あなたのつばめ返しって剣術…すごいわね。
+TROOP136_p2_3	Troops.json	0	dialogue	まるでサムライの使う剣術だわ。
+TROOP136_p2_5	Troops.json	0	dialogue	ナガレ：
+TROOP136_p2_6	Troops.json	0	dialogue	…サムライ？　なんだそれは？
+TROOP136_p2_8	Troops.json	0	dialogue	ミケーネ：
+TROOP136_p2_9	Troops.json	0	dialogue	そういうひとたちがいたのよ…
+TROOP136_p2_10	Troops.json	0	dialogue	あなたたちのご先祖様じゃないの？
+TROOP136_p2_12	Troops.json	0	dialogue	ナガレ：
+TROOP136_p2_13	Troops.json	0	dialogue	…知らない！
+TROOP136_p3_1	Troops.json	0	dialogue	ミケーネ：
+TROOP136_p3_2	Troops.json	0	dialogue	油断しないことね…
+TROOP136_p3_3	Troops.json	0	dialogue	あたしは絶対に勝つ気でいるわよ。
+TROOP136_p3_5	Troops.json	0	dialogue	ナガレ：
+TROOP136_p3_6	Troops.json	0	dialogue	大したもんだ…
+TROOP136_p3_7	Troops.json	0	dialogue	あたしの剣をこんなに受けて立っている相手は
+TROOP136_p3_8	Troops.json	0	dialogue	あんたで初めてだよ。
+TROOP136_p3_10	Troops.json	0	dialogue	ミケーネ：
+TROOP136_p3_11	Troops.json	0	dialogue	自信があるのは結構だけれど、
+TROOP136_p3_12	Troops.json	0	dialogue	その余裕が、突然あなたの足をすくうのよ。
+TROOP136_p3_14	Troops.json	0	dialogue	ナガレ：
+TROOP136_p3_15	Troops.json	0	dialogue	ご忠告感謝するよ、ミケーネ！！
+TROOP136_p4_1	Troops.json	0	dialogue	ミケーネ：
+TROOP136_p4_2	Troops.json	0	dialogue	うっ…　あと少し…　あと少しで…！！
+TROOP136_p4_4	Troops.json	0	dialogue	ナガレ：
+TROOP136_p4_5	Troops.json	0	dialogue	ああ、あと少しだ…　
+TROOP136_p4_6	Troops.json	0	dialogue	あと少しで…　あたしの勝ちだあああああ！！
+TROOP137_p0_1	Troops.json	0	dialogue	ホノオ：
+TROOP137_p0_2	Troops.json	0	dialogue	アンタって前のバトルまではよー…
+TROOP137_p0_3	Troops.json	0	dialogue	魔法とか、全然使わなかったよなー？
+TROOP137_p0_5	Troops.json	0	dialogue	ホノオ：
+TROOP137_p0_6	Troops.json	0	dialogue	本当は使えたりするんだろー？
+TROOP137_p0_7	Troops.json	0	dialogue	いいんだぜ、使ってくれて。
+TROOP137_p0_9	Troops.json	0	dialogue	ホノオ：
+TROOP137_p0_10	Troops.json	0	dialogue	オレの方はバンバン使ってくからよー！！
+TROOP137_p0_12	Troops.json	0	dialogue	ナウー：
+TROOP137_p1_1	Troops.json	0	dialogue	ホノオ：
+TROOP137_p1_2	Troops.json	0	dialogue	…なんだよ？
+TROOP137_p1_3	Troops.json	0	dialogue	確かにデカくなって…
+TROOP137_p1_4	Troops.json	0	dialogue	パワーは増してるみてーだけどよー
+TROOP137_p1_6	Troops.json	0	dialogue	ホノオ：
+TROOP137_p1_7	Troops.json	0	dialogue	変わり映えしねーぜ？
+TROOP137_p1_8	Troops.json	0	dialogue	本当にこんなモンか、ナウー！？
+TROOP137_p1_10	Troops.json	0	dialogue	ホノオ：
+TROOP137_p1_11	Troops.json	0	dialogue	それともオレが強くなり過ぎて…
+TROOP137_p1_12	Troops.json	0	dialogue	本気のアンタの圧倒的パワーすら
+TROOP137_p1_13	Troops.json	0	dialogue	怖くなくなっちまったってことかー？
+TROOP137_p1_15	Troops.json	0	dialogue	ナウー：
+TROOP137_p2_1	Troops.json	0	dialogue	ホノオ：
+TROOP137_p2_2	Troops.json	0	dialogue	だーかーらー…
+TROOP137_p2_3	Troops.json	0	dialogue	前と同じパターンの攻撃ばっかじゃ、
+TROOP137_p2_4	Troops.json	0	dialogue	いくらパワーがあっても通用しねーぜ！！
+TROOP137_p2_6	Troops.json	0	dialogue	ナウー：
+TROOP137_p2_9	Troops.json	0	dialogue	ホノオ：
+TROOP137_p2_10	Troops.json	0	dialogue	どっちなんだよ、本当は魔法があるのかよ！！
+TROOP137_p2_11	Troops.json	0	dialogue	少しは喋ってくれーーーーー！！
+TROOP137_p3_1	Troops.json	0	dialogue	ホノオ：
+TROOP137_p3_2	Troops.json	0	dialogue	こんなモンか…　ナウー…
+TROOP137_p3_4	Troops.json	0	dialogue	ホノオ：
+TROOP137_p3_5	Troops.json	0	dialogue	アンタの力が、こんなモンなワケがねえだろ！
+TROOP137_p3_7	Troops.json	0	dialogue	ナウー：
+TROOP137_p3_8	Troops.json	0	dialogue	…我は本気だ　ホノオよ
+TROOP137_p3_10	Troops.json	0	dialogue	ホノオ：
+TROOP137_p3_11	Troops.json	0	dialogue	う…お………　　なんだって…？
+TROOP137_p3_13	Troops.json	0	dialogue	ナウー：
+TROOP137_p3_14	Troops.json	0	dialogue	…光の柱に　魔力を注ぎ込んだ　我らには…
+TROOP137_p3_16	Troops.json	0	dialogue	ナウー：
+TROOP137_p3_17	Troops.json	0	dialogue	…これで　本気なのだ　ホノオ…
+TROOP137_p3_19	Troops.json	0	dialogue	ホノオ：
+TROOP137_p3_20	Troops.json	0	dialogue	…くっ！　そうかよ…
+TROOP137_p3_22	Troops.json	0	dialogue	ホノオ：
+TROOP137_p3_23	Troops.json	0	dialogue	それならそれでしかたねえ…
+TROOP137_p3_24	Troops.json	0	dialogue	でもこっちは本気で行かせてもらうぜ…
+TROOP137_p3_26	Troops.json	0	dialogue	ホノオ：
+TROOP137_p3_27	Troops.json	0	dialogue	急いでるんだ…　使命があるんだオレには！！
+TROOP137_p3_29	Troops.json	0	dialogue	ナウー：
+TROOP137_p3_30	Troops.json	0	dialogue	………コクリ
+TROOP137_p4_1	Troops.json	0	dialogue	ホノオ：
+TROOP137_p4_2	Troops.json	0	dialogue	…今のは効いたはず…！！
+TROOP137_p4_4	Troops.json	0	dialogue	ナウー：
+TROOP137_p4_14	Troops.json	0	dialogue	　　　　　　ナウーは不思議な構えを取った！
+TROOP137_p4_17	Troops.json	0	dialogue	　　　　　　ナウーの反撃確率がアップした！
+TROOP137_p4_18	Troops.json	0	dialogue	　　　　　　ナウーのぼうぎょ力がアップした！
+TROOP137_p4_20	Troops.json	0	dialogue	ホノオ：
+TROOP137_p4_21	Troops.json	0	dialogue	…なんだあ？　　へへ…　とにかく…
+TROOP137_p4_22	Troops.json	0	dialogue	やっと新しい技を見せてくれるみてえだなー
+TROOP137_p4_24	Troops.json	0	dialogue	ホノオ：
+TROOP137_p4_25	Troops.json	0	dialogue	…だが、アンタはもう瀕死のはずだ…
+TROOP137_p4_26	Troops.json	0	dialogue	こっちの攻撃の手は緩めねえぜーーー！！！！
+TROOP138_p0_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP138_p0_2	Troops.json	0	dialogue	さあて…　魔王になったボクの力が、
+TROOP138_p0_3	Troops.json	0	dialogue	いったいどれだけ凄いのかを…
+TROOP138_p0_5	Troops.json	0	dialogue	魔王ダフィール：
+TROOP138_p0_6	Troops.json	0	dialogue	試させてもらうねー？
+TROOP138_p0_7	Troops.json	0	dialogue	本気で耐えてねー
+TROOP138_p0_9	Troops.json	0	dialogue	魔王ダフィール：
+TROOP138_p0_10	Troops.json	0	dialogue	すぐに死なれちゃったらつまんないからさあ？
+TROOP138_p1_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP138_p1_2	Troops.json	0	dialogue	アレー？
+TROOP138_p1_3	Troops.json	0	dialogue	意外と耐えちゃったねえ…　1ターン！！
+TROOP138_p1_5	Troops.json	0	dialogue	魔王ダフィール：
+TROOP138_p1_6	Troops.json	0	dialogue	やるじゃーーーーん！！
+TROOP138_p1_7	Troops.json	0	dialogue	意外と楽しませてくれるんだねー！？
+TROOP138_p1_9	Troops.json	0	dialogue	魔王ダフィール：
+TROOP138_p1_10	Troops.json	0	dialogue	…んだよ　死ねよ！！！！！！
+TROOP138_p1_11	Troops.json	0	dialogue	魔王のボクが攻撃してるんだぞーーー！！！？
+TROOP139_p0_1	Troops.json	0	dialogue	ピピン：
+TROOP139_p0_2	Troops.json	0	dialogue	奴の炎の魔法は俺の魔法で相殺できる。
+TROOP139_p0_3	Troops.json	0	dialogue	しかし魔王とか名乗るくらいだ…
+TROOP139_p0_4	Troops.json	0	dialogue	他にも危険な技があるかも知れん。
+TROOP139_p0_6	Troops.json	0	dialogue	ピピン：
+TROOP139_p0_7	Troops.json	0	dialogue	気を引き締めつつも、チャンスと見れば
+TROOP139_p0_8	Troops.json	0	dialogue	一気に攻めるぞ！！
+TROOP139_p0_10	Troops.json	0	dialogue	ウィン：
+TROOP139_p0_14	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
+TROOP139_p1_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p1_2	Troops.json	0	dialogue	赤いのがジャマだ…
+TROOP139_p1_3	Troops.json	0	dialogue	赤いのがジャマなんだよーー！！！！
+TROOP139_p1_5	Troops.json	0	dialogue	ピピン：
+TROOP139_p1_6	Troops.json	0	dialogue	おいおい…
+TROOP139_p1_7	Troops.json	0	dialogue	魔王ってのはこんなモンなのか？
+TROOP139_p1_9	Troops.json	0	dialogue	ピピン：
+TROOP139_p1_10	Troops.json	0	dialogue	拍子抜けだな…
+TROOP139_p1_11	Troops.json	0	dialogue	ウィン、さっさと決めてしまおう。
+TROOP139_p2_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p2_2	Troops.json	0	dialogue	くっそおおおおおおおおおおお！！！！！！
+TROOP139_p2_4	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p2_5	Troops.json	0	dialogue	ボクは魔王なんだ…
+TROOP139_p2_6	Troops.json	0	dialogue	こんなところで終わってたまるかー！！！！
+TROOP139_p2_8	Troops.json	0	dialogue	ピピン：
+TROOP139_p2_9	Troops.json	0	dialogue	意外とタフだな。
+TROOP139_p2_10	Troops.json	0	dialogue	派手なナリをしているだけのことはあるか。
+TROOP139_p3_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p3_2	Troops.json	0	dialogue	もっとパワーを…
+TROOP139_p3_3	Troops.json	0	dialogue	闇のエレメントパワーをおおおおお！！！！
+TROOP139_p3_5	Troops.json	0	dialogue	ピピン：
+TROOP139_p3_6	Troops.json	0	dialogue	時間をかけると、奴がパワーアップしてしまう
+TROOP139_p3_7	Troops.json	0	dialogue	かも知れん…
+TROOP139_p3_8	Troops.json	0	dialogue	ウィン、急ぐぞ！
+TROOP139_p4_1	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p4_2	Troops.json	0	dialogue	もう…　ダメだ…　終わりだ…
+TROOP139_p4_4	Troops.json	0	dialogue	ピピン：
+TROOP139_p4_5	Troops.json	0	dialogue	なんだ、降参か？
+TROOP139_p4_6	Troops.json	0	dialogue	悪いが、受け入れられないぞ。
+TROOP139_p4_8	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p4_9	Troops.json	0	dialogue	ピケピケが言っていた…
+TROOP139_p4_10	Troops.json	0	dialogue	闇のエレメントパワー自体と同化すると…
+TROOP139_p4_11	Troops.json	0	dialogue	自我を保てるかどうかわからないって…
+TROOP139_p4_13	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p4_14	Troops.json	0	dialogue	だからこそ、四天王の中で最も強いピケピケが
+TROOP139_p4_15	Troops.json	0	dialogue	魔王になるはずだった…
+TROOP139_p4_17	Troops.json	0	dialogue	ピピン：
+TROOP139_p4_18	Troops.json	0	dialogue	フン、分からんでもない…
+TROOP139_p4_19	Troops.json	0	dialogue	お前のようなガキに、自我を保つことが
+TROOP139_p4_20	Troops.json	0	dialogue	できるとは思えないからな。
+TROOP139_p4_22	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p4_23	Troops.json	0	dialogue	ボクは嫌だった…
+TROOP139_p4_24	Troops.json	0	dialogue	どんなに強大な力を得られるとしても、
+TROOP139_p4_25	Troops.json	0	dialogue	自分がいなくなってしまうなんて…
+TROOP139_p4_27	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p4_28	Troops.json	0	dialogue	だけど…　もう終わりだ…
+TROOP139_p4_29	Troops.json	0	dialogue	こんなダサいやられ方するくらいなら…
+TROOP139_p4_31	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_p4_32	Troops.json	0	dialogue	もうどうなってもいい…
+TROOP139_p4_33	Troops.json	0	dialogue	オマエらだけは絶対にぶっ殺す…！！！！
+TROOP139_p4_35	Troops.json	0	dialogue	ピピン：
+TROOP139_p4_37	Troops.json	0	dialogue	まずい！！　ウィン離れろ！！
+TROOP140_p0_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p0_2	Troops.json	0	dialogue	グググダダダハハハハーーッ……！！！
+TROOP140_p0_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p0_5	Troops.json	0	dialogue	流れ込んでくるゾオオオオオゥゥゥゥ……
+TROOP140_p0_6	Troops.json	0	dialogue	とてつもないパワーガアアァァァ……
+TROOP140_p0_8	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p0_9	Troops.json	0	dialogue	飲み込まれる…飲み込まれてしまう……
+TROOP140_p0_10	Troops.json	0	dialogue	う…ぐぐぐがガガガァァ……！！
+TROOP140_p0_12	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p0_13	Troops.json	0	dialogue	オマエらも一緒に飲み込まれろォォォ…ッ！！
+TROOP140_p0_15	Troops.json	0	dialogue	ピピン：
+TROOP140_p0_16	Troops.json	0	dialogue	ウィン！　立て直すぞ！！
+TROOP140_p0_17	Troops.json	0	dialogue	魔法、アイテム…使い尽くすつもりで行け！
+TROOP140_p0_19	Troops.json	0	dialogue	ウィン：
+TROOP140_p0_23	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
+TROOP140_p1_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p1_2	Troops.json	0	dialogue	うう…おおオオオォォー…！！！！
+TROOP140_p1_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p1_5	Troops.json	0	dialogue	流れ込んでくる…！！
+TROOP140_p1_6	Troops.json	0	dialogue	この力はァァァ…　ミケェェネかあァァ…！！
+TROOP140_p1_8	Troops.json	0	dialogue	ピピン：
+TROOP140_p1_9	Troops.json	0	dialogue	…こいつ、他の四天王の力を吸収することも
+TROOP140_p1_10	Troops.json	0	dialogue	出来るのか…！？
+TROOP140_p2_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p2_2	Troops.json	0	dialogue	ううおおああアァァー…！！！！
+TROOP140_p2_3	Troops.json	0	dialogue	やめろ！！　入って来るなァッ…！！
+TROOP140_p2_5	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p2_6	Troops.json	0	dialogue	ミィィケェェネェー………
+TROOP140_p2_7	Troops.json	0	dialogue	これはオマエのキオクなのかぁぁ……
+TROOP140_p2_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p2_10	Troops.json	0	dialogue	感情…なのかァァァ……
+TROOP140_p2_11	Troops.json	0	dialogue	ううおおああアァァー…！！！！
+TROOP140_p2_12	Troops.json	0	dialogue	入って来るなァーーーーーッ…！！！！
+TROOP140_p2_14	Troops.json	0	dialogue	ピピン：
+TROOP140_p2_15	Troops.json	0	dialogue	…フン、どうやら四天王の力だけでなく、
+TROOP140_p2_16	Troops.json	0	dialogue	その人格も吸収してしまうようだな…
+TROOP140_p2_18	Troops.json	0	dialogue	ピピン：
+TROOP140_p2_19	Troops.json	0	dialogue	そんな連中の人格までをも吸収してしまって、
+TROOP140_p2_20	Troops.json	0	dialogue	果たしてキサマのようなガキンチョが自分を
+TROOP140_p2_21	Troops.json	0	dialogue	保てるか…　見ものだな、ダフィール…！！
+TROOP140_p2_23	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p2_24	Troops.json	0	dialogue	グググゥゥ………オオアアァァ…ッ！！！
+TROOP140_p3_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p3_2	Troops.json	0	dialogue	ミケーネぶりざーどおお…はああああ
+TROOP140_p3_3	Troops.json	0	dialogue	効かない…効かない…！！！！
+TROOP140_p3_4	Troops.json	0	dialogue	そんなコト分かってるよ…！！！！！
+TROOP140_p3_6	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p3_7	Troops.json	0	dialogue	うるさあああああいいイイィィッ！！！！
+TROOP140_p3_8	Troops.json	0	dialogue	黙れレレエエェェェーーーーッ！！！！！
+TROOP140_p3_10	Troops.json	0	dialogue	ピピン：
+TROOP140_p3_11	Troops.json	0	dialogue	早くも自分を失いかけているようだな…
+TROOP140_p3_12	Troops.json	0	dialogue	ダフィール…！！
+TROOP140_p3_14	Troops.json	0	dialogue	ピピン：
+TROOP140_p3_15	Troops.json	0	dialogue	それがキサマの弱さだ…
+TROOP140_p3_16	Troops.json	0	dialogue	どれだけ強大な力を手にしようと…
+TROOP140_p3_17	Troops.json	0	dialogue	内に強さを持たないものに、その力は扱えん！！
+TROOP140_p3_19	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p3_20	Troops.json	0	dialogue	ググガガガ…ガガアアァァーッ！！！！
+TROOP140_p3_21	Troops.json	0	dialogue	オマエも黙れえええェェェーーッ…！！！！
+TROOP140_p4_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p4_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p4_5	Troops.json	0	dialogue	なんでいまボクは黙ったァァ……！！
+TROOP140_p4_6	Troops.json	0	dialogue	オマエだな……ヌヌアアアウウゥゥゥー…！！
+TROOP140_p4_9	Troops.json	0	dialogue	　大魔王ダフィールの攻撃力とぼうぎょ力がアップした！！
+TROOP140_p4_12	Troops.json	0	dialogue	　　　　　　　　さらに反撃確率もアップ！！
+TROOP140_p4_13	Troops.json	0	dialogue	　　　　　　ダフィ－ルの構えにスキがなくなった！！
+TROOP140_p4_16	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p4_17	Troops.json	0	dialogue	力だけェェェ…　力だけ寄こせェェ…！！
+TROOP140_p4_18	Troops.json	0	dialogue	オマエらの…こんなフクザツでカイキな……
+TROOP140_p4_20	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p4_21	Troops.json	0	dialogue	ややこしい感情と歴史はいらない…ッ！！
+TROOP140_p4_22	Troops.json	0	dialogue	チカラだけをヨコセェェェー……ッ！！！！
+TROOP140_p4_24	Troops.json	0	dialogue	ピピン：
+TROOP140_p4_25	Troops.json	0	dialogue	自分にすべてを託して散っていった仲間の、
+TROOP140_p4_26	Troops.json	0	dialogue	その思い…その重さ…　すべて拒否するか…
+TROOP140_p4_28	Troops.json	0	dialogue	ピピン：
+TROOP140_p4_29	Troops.json	0	dialogue	…ヘドが出るほどのガキンチョだな…。
+TROOP140_p4_30	Troops.json	0	dialogue	まるで、俺みたいだぜ…！！
+TROOP140_p5_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p5_2	Troops.json	0	dialogue	グガガダダガハハハァァァー……ッ！！！！
+TROOP140_p5_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p5_5	Troops.json	0	dialogue	コノ…チカラは………ッ！！
+TROOP140_p5_6	Troops.json	0	dialogue	うう…グフ…ガ…ァァ…ああああああ！！！
+TROOP140_p5_8	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p5_9	Troops.json	0	dialogue	なんて凄まじい魔力…　膨大な知識…
+TROOP140_p5_10	Troops.json	0	dialogue	そして…　めちゃくちゃ難解な感情なんだ…
+TROOP140_p5_16	Troops.json	0	dialogue	　　　　ダフィールから猛烈な闇の波動を感じる！！
+TROOP140_p5_17	Troops.json	0	dialogue	　　　　　　　ダフィールの魔力が暴走した！！
+TROOP140_p5_19	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p5_20	Troops.json	0	dialogue	ピ…ケ…ピ…ケエエェェーー……ッ！！！！
+TROOP140_p5_22	Troops.json	0	dialogue	ピピン：
+TROOP140_p5_23	Troops.json	0	dialogue	クッ…！！
+TROOP140_p5_24	Troops.json	0	dialogue	なんだ…気圧される…！！
+TROOP140_p5_25	Troops.json	0	dialogue	ウィン…これがあのピ何とかの力なのか…！？
+TROOP140_p5_27	Troops.json	0	dialogue	ウィン：
+TROOP140_p5_30	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p5_31	Troops.json	0	dialogue	逆らうな…　逆らってはならんンンのだぁ…
+TROOP140_p5_32	Troops.json	0	dialogue	闇の力の奔流からからァァ……！！！！
+TROOP140_p5_34	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p5_35	Troops.json	0	dialogue	闇のエレメントに完全に身を任せねバァァ…
+TROOP140_p5_36	Troops.json	0	dialogue	真の大魔王に…は…ワワァァ……ァ………
+TROOP140_p5_38	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p5_39	Troops.json	0	dialogue	ウウうおおおああああぁぁーー……ッ！！！！
+TROOP140_p5_40	Troops.json	0	dialogue	ボクはダフィールだァァァァ……！！！！
+TROOP140_p5_42	Troops.json	0	dialogue	ピピン：
+TROOP140_p5_43	Troops.json	0	dialogue	どうもこの辺りからが本番らしい…
+TROOP140_p5_44	Troops.json	0	dialogue	ウィン、死ぬなよ！！
+TROOP140_p5_46	Troops.json	0	dialogue	ウィン：
+TROOP140_p5_50	Troops.json	0	dialogue	　　　　　　　　　ウィンはうなずいた！
+TROOP140_p6_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p6_2	Troops.json	0	dialogue	ググルルううおおおあああぁぁぁぁ……！！
+TROOP140_p6_3	Troops.json	0	dialogue	負けねえゾ……　ゼッテーェェ……
+TROOP140_p6_4	Troops.json	0	dialogue	負けねえぞおおおおおおまえらあああ！！！！
+TROOP140_p6_6	Troops.json	0	dialogue	ピピン：
+TROOP140_p6_7	Troops.json	0	dialogue	…ウィン、俺にちょっとした考えがある。
+TROOP140_p6_8	Troops.json	0	dialogue	お前の魔法と俺のスキルを組み合わせた攻撃だ
+TROOP140_p6_10	Troops.json	0	dialogue	ウィン：
+TROOP140_p6_13	Troops.json	0	dialogue	ピピン：
+TROOP140_p6_14	Troops.json	0	dialogue	いまの奴にはスキが殆どないから、
+TROOP140_p6_15	Troops.json	0	dialogue	大ダメージを与えるのが難しい…
+TROOP140_p6_16	Troops.json	0	dialogue	そこで奴にスキを作る作戦だ。
+TROOP140_p6_18	Troops.json	0	dialogue	ピピン：
+TROOP140_p6_19	Troops.json	0	dialogue	お前のカマイタチで奴の足を攻撃した瞬間に、
+TROOP140_p6_20	Troops.json	0	dialogue	俺がフェイント攻撃をしかける…。
+TROOP140_p6_22	Troops.json	0	dialogue	ピピン：
+TROOP140_p6_23	Troops.json	0	dialogue	うまくいけば、奴のぼうぎょと素早さを同時に
+TROOP140_p6_24	Troops.json	0	dialogue	ダウンさせることができるだろう…どうだ？
+TROOP140_p6_26	Troops.json	0	dialogue	ウィン：
+TROOP140_p6_32	Troops.json	0	dialogue	　　　　　ウィンとピピンはカマカゼを編み出した！
+TROOP140_p7_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p7_2	Troops.json	0	dialogue	己をぉぉ…滅っせぇぇェェ…
+TROOP140_p7_3	Troops.json	0	dialogue	さもなくばァ…　敗れゥゥ……ううああ！！
+TROOP140_p7_4	Troops.json	0	dialogue	黙れェェナウゥゥーーッ…！！！！
+TROOP140_p7_6	Troops.json	0	dialogue	ピピン：
+TROOP140_p7_7	Troops.json	0	dialogue	ウィン…お前のイカヅチを俺の剣に落とす技を
+TROOP140_p7_8	Troops.json	0	dialogue	考えていたんだが…
+TROOP140_p7_10	Troops.json	0	dialogue	ウィン：
+TROOP140_p7_13	Troops.json	0	dialogue	ピピン：
+TROOP140_p7_14	Troops.json	0	dialogue	普通にやったんじゃうまくいかない。
+TROOP140_p7_15	Troops.json	0	dialogue	俺が丸焦げになるか、よくても雷の力が
+TROOP140_p7_16	Troops.json	0	dialogue	地面に逃げてしまうからな…。
+TROOP140_p7_18	Troops.json	0	dialogue	ピピン：
+TROOP140_p7_19	Troops.json	0	dialogue	そこでだ…　俺のスキル、浮雲渡りだ。
+TROOP140_p7_20	Troops.json	0	dialogue	俺が宙に浮いている間に、オマエが俺の剣に
+TROOP140_p7_21	Troops.json	0	dialogue	イカヅチを落とす…
+TROOP140_p7_23	Troops.json	0	dialogue	ピピン：
+TROOP140_p7_24	Troops.json	0	dialogue	そして着地するまでの間に俺が攻撃すれば…
+TROOP140_p7_25	Troops.json	0	dialogue	全ての雷のパワーがアイツに伝わる。
+TROOP140_p7_26	Troops.json	0	dialogue	想像もつかん威力になるだろう…
+TROOP140_p7_28	Troops.json	0	dialogue	ピピン：
+TROOP140_p7_29	Troops.json	0	dialogue	どちらかがタイミングをミスれば、
+TROOP140_p7_30	Troops.json	0	dialogue	俺は丸焦げになるが…、どうだ、やれるか？
+TROOP140_p7_32	Troops.json	0	dialogue	ウィン：
+TROOP140_p7_36	Troops.json	0	dialogue	　　　　　ウィンとピピンはイヅナを編み出した！！
+TROOP140_p8_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p8_2	Troops.json	0	dialogue	恐れるかァァ…怯えるかァァ……！！！！
+TROOP140_p8_3	Troops.json	0	dialogue	真実がァァ…歴史がァァ…
+TROOP140_p8_4	Troops.json	0	dialogue	失われることよりもォォォ………ッ！！！
+TROOP140_p8_6	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p8_7	Troops.json	0	dialogue	卑小で卑俗でか弱い己れの消失ォォォ………
+TROOP140_p8_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p8_10	Troops.json	0	dialogue	己が無くなるのォォーーーッ！！
+TROOP140_p8_11	Troops.json	0	dialogue	己が無視されるのォォォーーーッ！！！
+TROOP140_p8_12	Troops.json	0	dialogue	ググガガうぅおぉあぁーーー……ッ！！！！
+TROOP140_p8_14	Troops.json	0	dialogue	ピピン：
+TROOP140_p8_15	Troops.json	0	dialogue	ウィン、気付いているか？
+TROOP140_p8_16	Troops.json	0	dialogue	アイツはもう、俺たちを見ていない…
+TROOP140_p8_17	Troops.json	0	dialogue	見えていない…！！
+TROOP140_p8_19	Troops.json	0	dialogue	ピピン：
+TROOP140_p8_20	Troops.json	0	dialogue	いまなら…
+TROOP140_p8_21	Troops.json	0	dialogue	俺の魔法を相殺されずに発動できるだろう…
+TROOP140_p8_22	Troops.json	0	dialogue	そこでだ…
+TROOP140_p8_24	Troops.json	0	dialogue	ピピン：
+TROOP140_p8_25	Troops.json	0	dialogue	不意を突いて俺がアイツを水浸しにする…
+TROOP140_p8_26	Troops.json	0	dialogue	そこにお前のイカヅチを落とせ。
+TROOP140_p8_28	Troops.json	0	dialogue	ウィン：
+TROOP140_p8_31	Troops.json	0	dialogue	ピピン：
+TROOP140_p8_32	Troops.json	0	dialogue	辺り一面水浸しだ、逃れる術はない…。
+TROOP140_p8_33	Troops.json	0	dialogue	しかも雷のパワーは地面に分散せず、
+TROOP140_p8_34	Troops.json	0	dialogue	びしょ濡れの奴に集中するってわけだ。
+TROOP140_p8_37	Troops.json	0	dialogue	　　　　ウィンとピピンはミカヅチを編み出した！！
+TROOP140_p9_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p9_2	Troops.json	0	dialogue	黙れッェェ…　ピケピケェェ…！！
+TROOP140_p9_3	Troops.json	0	dialogue	ナウーゥゥゥ…　ミケェェネェーッ…！！！！
+TROOP140_p9_5	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p9_6	Troops.json	0	dialogue	ボクは消えないッ！！！！
+TROOP140_p9_7	Troops.json	0	dialogue	ボクはまだ何も成していない…ッ！！！！
+TROOP140_p9_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p9_10	Troops.json	0	dialogue	闇の復活もォォォ………！！！
+TROOP140_p9_11	Troops.json	0	dialogue	闇の勝利もォォォ………！！！！！
+TROOP140_p9_12	Troops.json	0	dialogue	ボクにはどうでもいいィィィー……ッ！！！！
+TROOP140_p9_14	Troops.json	0	dialogue	ピピン：
+TROOP140_p9_15	Troops.json	0	dialogue	フン…　アイツ、仲間のことばに全く従う気が
+TROOP140_p9_16	Troops.json	0	dialogue	ないみたいだな…。
+TROOP140_p9_18	Troops.json	0	dialogue	ピピン：
+TROOP140_p9_19	Troops.json	0	dialogue	真の意味での闇との一体化…大魔王化には…
+TROOP140_p9_20	Troops.json	0	dialogue	アイツの自我がジャマなようだ。
+TROOP140_p9_22	Troops.json	0	dialogue	ウィン：
+TROOP140_p9_25	Troops.json	0	dialogue	ピピン：
+TROOP140_p9_26	Troops.json	0	dialogue	…ちょびっとだけ、哀れだな、アイツ。
+TROOP140_p9_28	Troops.json	0	dialogue	ウィン：
+TROOP140_p10_1	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_2	Troops.json	0	dialogue	ウウゥゥ…グガガアァァァーー…ッ！！！！
+TROOP140_p10_4	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_5	Troops.json	0	dialogue	このまま全て闇のエレメントに飲み込まれ…
+TROOP140_p10_6	Troops.json	0	dialogue	オマエらにも飲み込まれて………
+TROOP140_p10_7	Troops.json	0	dialogue	消えてしまうなんてイヤだ………
+TROOP140_p10_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_10	Troops.json	0	dialogue	いイイイィィやぁぁぁだあああぁーーッ！！！
+TROOP140_p10_12	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_13	Troops.json	0	dialogue	ダフィール！！　
+TROOP140_p10_14	Troops.json	0	dialogue	まだ俺の声が聞こえているなら…
+TROOP140_p10_16	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_17	Troops.json	0	dialogue	老いぼれや無能の先輩がたなど無視して…
+TROOP140_p10_18	Troops.json	0	dialogue	俺たちとのバトルに集中しろ…！！
+TROOP140_p10_20	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_21	Troops.json	0	dialogue	…な…にぃ…？
+TROOP140_p10_22	Troops.json	0	dialogue	赤い…の………？
+TROOP140_p10_24	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_25	Troops.json	0	dialogue	何よりも自分を失いたくないと思う気持ち…
+TROOP140_p10_26	Troops.json	0	dialogue	それは、お前の誇りだ…プライドだ。
+TROOP140_p10_28	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_29	Troops.json	0	dialogue	…誇り…　ボクの…？
+TROOP140_p10_31	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_32	Troops.json	0	dialogue	ムダなまでにデカい、オマエのその誇り…
+TROOP140_p10_33	Troops.json	0	dialogue	…それは誰にも消せん！！
+TROOP140_p10_34	Troops.json	0	dialogue	自分ですら持て余しているくせに…
+TROOP140_p10_36	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_37	Troops.json	0	dialogue	これだけ極限の状況ですら…
+TROOP140_p10_38	Troops.json	0	dialogue	仲間の思いよりも、自分の都合を捨てられん…
+TROOP140_p10_39	Troops.json	0	dialogue	何て自己中、ナルシストだ…
+TROOP140_p10_41	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_42	Troops.json	0	dialogue	お…オマエに言われたくねーーーーーーー！！
+TROOP140_p10_44	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_45	Troops.json	0	dialogue	なら腹をくくれと言ってるんだ…。
+TROOP140_p10_46	Troops.json	0	dialogue	くくれず、外野を無視できないままなら、
+TROOP140_p10_47	Troops.json	0	dialogue	結局お前はその程度だということだ！！
+TROOP140_p10_49	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_50	Troops.json	0	dialogue	…偉そうに…オマエ……
+TROOP140_p10_51	Troops.json	0	dialogue	ボクの兄ちゃんみたいなコト言いやがってェ…
+TROOP140_p10_53	Troops.json	0	dialogue	ピピン：
+TROOP140_p10_54	Troops.json	0	dialogue	フン、四天王にも兄弟がいるとはな…。
+TROOP140_p10_56	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_57	Troops.json	0	dialogue	…ボクだって元々はヒトの子だ…
+TROOP140_p10_58	Troops.json	0	dialogue	好きで四天王になった奴なんて………
+TROOP140_p10_60	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p10_61	Troops.json	0	dialogue	いないンだよォォオオーー…ッ！！！！！
+TROOP140_p10_63	Troops.json	0	dialogue	ピピン：
+TROOP140_p11_1	Troops.json	0	dialogue	ピピン：
+TROOP140_p11_2	Troops.json	0	dialogue	お前にも兄がいたらしい…
+TROOP140_p11_3	Troops.json	0	dialogue	しかも以前は人間だったとはな…
+TROOP140_p11_5	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p11_6	Troops.json	0	dialogue	…もう殆ど覚えちゃいない………ッ！！
+TROOP140_p11_7	Troops.json	0	dialogue	強い闇のエレメントパワー自体が元々人間を
+TROOP140_p11_8	Troops.json	0	dialogue	蝕むものだからなァァーーーッ！！！！
+TROOP140_p11_10	Troops.json	0	dialogue	ピピン：
+TROOP140_p11_11	Troops.json	0	dialogue	…それでも兄がいたことといい、
+TROOP140_p11_12	Troops.json	0	dialogue	その自己中な性格といい…、
+TROOP140_p11_13	Troops.json	0	dialogue	それは人間の頃から変わらないんだろうが…？
+TROOP140_p11_15	Troops.json	0	dialogue	ピピン：
+TROOP140_p11_16	Troops.json	0	dialogue	…なら、お前にも他の四天王と同じように…
+TROOP140_p11_17	Troops.json	0	dialogue	お前なりの歴史や感情があるってことだ…
+TROOP140_p11_18	Troops.json	0	dialogue	なのになぜ、まだ他の四天王に気兼ねする？
+TROOP140_p11_20	Troops.json	0	dialogue	ピピン：
+TROOP140_p11_21	Troops.json	0	dialogue	だからこれはもうお前の戦いだ…
+TROOP140_p11_22	Troops.json	0	dialogue	お前だけの都合で、好きなケジメの付け方して
+TROOP140_p11_23	Troops.json	0	dialogue	いいだろうが…！！
+TROOP140_p11_25	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP140_p11_26	Troops.json	0	dialogue	……ッ
+TROOP141_p0_1	Troops.json	0	dialogue	ピピン：
+TROOP141_p0_2	Troops.json	0	dialogue	な…　なんだこれは…！？
+TROOP141_p0_4	Troops.json	0	dialogue	ホノオ：
+TROOP141_p0_5	Troops.json	0	dialogue	どこだよここ！！？？
+TROOP141_p0_6	Troops.json	0	dialogue	なんだーーー！！！？？
+TROOP141_p0_7	Troops.json	0	dialogue	あのデッカイきもちわりいのはよーー！！？？
+TROOP141_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP141_p0_10	Troops.json	0	dialogue	うげえええ！！！！　きもち悪すぎるーー！！
+TROOP141_p1_1	Troops.json	0	dialogue	ピピン：
+TROOP141_p1_2	Troops.json	0	dialogue	こいつ…不死身なのか…？
+TROOP141_p1_3	Troops.json	0	dialogue	いくら攻撃しても、ちっとも手応えがない…！
+TROOP141_p1_5	Troops.json	0	dialogue	ホノオ：
+TROOP141_p1_6	Troops.json	0	dialogue	ちくしょーーー！！！
+TROOP141_p1_7	Troops.json	0	dialogue	なんでこんな目に合わなきゃいけねえんだ！！
+TROOP141_p1_9	Troops.json	0	dialogue	ナガレ：
+TROOP141_p1_10	Troops.json	0	dialogue	もうやだああああああああああ！！！！
+TROOP141_p1_11	Troops.json	0	dialogue	帰りたいーーーーーーーー！！！！！
+TROOP142_p0_1	Troops.json	0	dialogue	バンデッド
+TROOP142_p0_2	Troops.json	0	dialogue	「いままで散々痛い目に合わせてくれた…
+TROOP142_p0_3	Troops.json	0	dialogue	　お礼をたっぷりとさせてもらうぜ！！
+TROOP142_p1_1	Troops.json	0	dialogue	バンデッド
+TROOP142_p1_2	Troops.json	0	dialogue	「俺は何度倒されても　立ち上がった…
+TROOP142_p1_3	Troops.json	0	dialogue	　死んだと思っても　ギリギリ生きていて…
+TROOP142_p1_5	Troops.json	0	dialogue	バンデッド
+TROOP142_p1_6	Troops.json	0	dialogue	「そうして遂に…
+TROOP142_p1_7	Troops.json	0	dialogue	　俺はこの力を手に入れたんだ…
+TROOP142_p1_8	Troops.json	0	dialogue	　お前らを倒せる力をな！！
+TROOP142_p1_10	Troops.json	0	dialogue	ナガレ
+TROOP142_p1_11	Troops.json	0	dialogue	「…くっ
+TROOP142_p1_12	Troops.json	0	dialogue	　言ってることよく分からないが…
+TROOP142_p1_13	Troops.json	0	dialogue	　確かにコイツ、只者じゃない…！！
+TROOP142_p1_15	Troops.json	0	dialogue	ホノオ
+TROOP142_p1_16	Troops.json	0	dialogue	「しっかしマジで誰なんだよ、こいつ…
+TROOP142_p2_1	Troops.json	0	dialogue	バンデッド
+TROOP142_p2_2	Troops.json	0	dialogue	「どうだ！　この素早さ！　戦闘技術！！
+TROOP142_p2_3	Troops.json	0	dialogue	　まさに伝説級の強さだろう！！
+TROOP142_p2_5	Troops.json	0	dialogue	ホノオ
+TROOP142_p2_6	Troops.json	0	dialogue	「つええ…
+TROOP142_p2_7	Troops.json	0	dialogue	　こんな強い人間に会ったコトがねえ…！！
+TROOP142_p2_9	Troops.json	0	dialogue	ピピン
+TROOP142_p2_10	Troops.json	0	dialogue	「…ふん
+TROOP142_p2_11	Troops.json	0	dialogue	　俺の方が強い。
+TROOP142_p2_13	Troops.json	0	dialogue	ウィン
+TROOP142_p2_17	Troops.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！
+TROOP142_p3_1	Troops.json	0	dialogue	バンデッド
+TROOP142_p3_2	Troops.json	0	dialogue	「クッ…！！
+TROOP142_p3_3	Troops.json	0	dialogue	　ダメなのか…　こんなに強くなっても…！！
+TROOP142_p3_5	Troops.json	0	dialogue	ピピン
+TROOP142_p3_6	Troops.json	0	dialogue	「所詮は人間…
+TROOP142_p3_7	Troops.json	0	dialogue	　化け物みたいな体力ではなさそうだ。
+TROOP142_p3_9	Troops.json	0	dialogue	ナガレ
+TROOP142_p3_10	Troops.json	0	dialogue	「しかし…なんだろう…
+TROOP142_p3_11	Troops.json	0	dialogue	　コイツの力には　なんか…
+TROOP142_p3_12	Troops.json	0	dialogue	　感じるよ、闇の力みたいなの…
+TROOP142_p3_14	Troops.json	0	dialogue	ホノオ
+TROOP142_p3_15	Troops.json	0	dialogue	「ああ…　フツーじゃねーよ…
+TROOP142_p3_16	Troops.json	0	dialogue	　気を付けた方がいいと思うぜ
+TROOP142_p3_17	Troops.json	0	dialogue	　騎士隊長さん。
+TROOP142_p3_19	Troops.json	0	dialogue	ピピン
+TROOP142_p3_20	Troops.json	0	dialogue	「…俺はもう騎士じゃない
+TROOP142_p4_1	Troops.json	0	dialogue	バンデッド
+TROOP142_p4_2	Troops.json	0	dialogue	「ハァ…　ハァ…
+TROOP142_p4_4	Troops.json	0	dialogue	ピピン
+TROOP142_p4_5	Troops.json	0	dialogue	「そろそろ終わりのようだな　盗賊野郎
+TROOP142_p4_7	Troops.json	0	dialogue	バンデッド
+TROOP142_p4_8	Troops.json	0	dialogue	「あんだと…？
+TROOP142_p4_9	Troops.json	0	dialogue	　まだ始まってもねえんだよーーーーー！！！

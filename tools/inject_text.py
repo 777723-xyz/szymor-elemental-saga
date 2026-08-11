@@ -9,13 +9,19 @@ Input TSV: same columns as docs/text/all.tsv
 (id, file, context, type, japanese, translation). Rows with an empty
 translation or translation == japanese are skipped.
 
+Covered data locations:
+- Map files: event commands (401/405/102/320/355), displayName, event names
+  and notes; 402 branch display text is auto-synced from the 102 entry.
+- MapInfos.json: map display names.
+- CommonEvents.json / Troops.json: event commands.
+- Database files: name/description/note, use messages (message1/2),
+  state messages (message1-4), actor nickname/profile.
+- System.json: title, currency, elements/types, terms, switches, variables.
+- js/plugins.js: plugin parameter strings.
+
 Behaviour:
 - Backs up every modified file to docs/text/backups/<timestamp>/ first.
-- Syncs the display text of choice branches (command 402, params[1]) from the
-  translated 102 choices (branch matching in MV 1.6.1 is by INDEX, but the
-  editor displays this text, so it is kept consistent).
-- Rows of type "script" (eval'd script lines) are never applied unless
-  --apply-scripts is given -- machine-altering code is dangerous.
+- Rows of type "script" are never applied unless --apply-scripts.
 - Rows of type "note" are applied but reported separately for review.
 """
 import argparse
@@ -26,26 +32,26 @@ import shutil
 import time
 
 DB_FILES = ("Actors", "Classes", "Skills", "Items", "Weapons",
-            "Armors", "Enemies", "States", "Troops")
+            "Armors", "Enemies", "States", "Classes")
 SYSTEM_ARRAYS = ("elements", "skillTypes", "weaponTypes", "armorTypes",
                  "equipTypes")
 TERM_ARRAY_CATS = ("basic", "commands", "params")
 
 MAP_ID_RE = re.compile(r"^MAP(\d+)_e(\d+)_p(\d+)_(\d+)(?:_c(\d+))?$")
+MAP_META_RE = re.compile(r"^MAP(\d+)_(displayName|e(\d+)_(name|note))$")
 CE_ID_RE = re.compile(r"^CE(\d+)_(\d+)$")
-DB_ID_RE = re.compile(r"^DB_(\w+)_(\d+)_(name|description|note)$")
+TROOP_ID_RE = re.compile(r"^TROOP(\d+)_p(\d+)_(\d+)(?:_c(\d+))?$")
+DB_ID_RE = re.compile(r"^DB_(\w+)_(\d+)_(name|description|note|message[1-4])$")
+ACTOR_ID_RE = re.compile(r"^ACTOR_(\d+)_(nickname|profile)$")
+MAPINFO_ID_RE = re.compile(r"^MAPINFO_(\d+)_name$")
 
 
 def load_tsv(path):
-    """Return (header, rows) with rows as dicts keyed by header."""
+    import csv
     with open(path, encoding="utf-8") as fh:
-        lines = [l.rstrip("\n") for l in fh]
-    header = lines[0].split("\t")
-    rows = []
-    for ln in lines[1:]:
-        if not ln.strip():
-            continue
-        rows.append(dict(zip(header, ln.split("\t"))))
+        reader = csv.DictReader(fh, delimiter="\t")
+        rows = list(reader)
+        header = reader.fieldnames
     return header, rows
 
 
@@ -59,7 +65,6 @@ def save_json(path, data):
 
 
 def find_plugins(plugins_path):
-    """Parse the $plugins array from plugins.js; returns (prefix, plugins, suffix)."""
     text = open(plugins_path, encoding="utf-8-sig").read()
     start = text.find("[")
     end = text.rfind("]")
@@ -69,8 +74,6 @@ def find_plugins(plugins_path):
 
 
 def patch_text(cmd, rtype, t):
-    """Patch one event command in place; returns True on success, False if the
-    command does not match the expected type (caller records a warning)."""
     if rtype == "dialogue":
         if cmd["code"] not in (401, 405):
             return False
@@ -84,13 +87,39 @@ def patch_text(cmd, rtype, t):
     return True
 
 
+def walk_apply(lst, idx, rtype, t, ci, state, fname, rid):
+    cmd = lst[idx]
+    if rtype == "choice":
+        if cmd["code"] != 102 or ci is None:
+            state["warnings"].append(
+                f"{rid}: expected 102 choice, got code {cmd['code']}")
+            return False
+        cmd["parameters"][0][int(ci)] = t
+        block_indent = cmd["indent"]
+        for j in range(idx + 1, len(lst)):
+            c = lst[j]
+            if c["indent"] < block_indent:
+                break
+            if c["indent"] > block_indent:
+                continue
+            if c["code"] == 402 and c["parameters"][0] == int(ci):
+                c["parameters"][1] = t
+            elif c["code"] not in (402, 403):
+                break
+    elif not patch_text(cmd, rtype, t):
+        state["warnings"].append(
+            f"{rid}: type/code mismatch (code {cmd['code']}, type {rtype})")
+        return False
+    state["applied"].append((rid, fname))
+    return True
+
+
 def apply_to_maps(data_dir, pending, state):
     by_file = {}
     for r in pending:
-        m = MAP_ID_RE.match(r["id"])
-        if not m:
-            continue
-        by_file.setdefault(f"Map{int(m.group(1)):03d}.json", []).append(r)
+        if MAP_ID_RE.match(r["id"]):
+            m = MAP_ID_RE.match(r["id"])
+            by_file.setdefault(f"Map{int(m.group(1)):03d}.json", []).append(r)
 
     for fname, rows in sorted(by_file.items()):
         path = os.path.join(data_dir, fname)
@@ -99,51 +128,49 @@ def apply_to_maps(data_dir, pending, state):
         for row in rows:
             rid = row["id"]
             m = MAP_ID_RE.match(rid)
-            mapid, ei, pi, idx = (int(m.group(1)), int(m.group(2)),
-                                  int(m.group(3)), int(m.group(4)))
+            ei, pi, idx = int(m.group(2)), int(m.group(3)), int(m.group(4))
             ci = m.group(5)
-            if mapid != int(fname[3:6]):
-                state["warnings"].append(f"{rid}: map id/file mismatch")
-                continue
             cmd = data["events"][ei]["pages"][pi]["list"][idx]
-            t = row["translation"]
-            rtype = row["type"]
-            if rtype == "choice":
-                if cmd["code"] != 102 or ci is None:
-                    state["warnings"].append(
-                        f"{rid}: expected 102 choice, got code {cmd['code']}")
-                    continue
-                cmd["parameters"][0][int(ci)] = t
-                # Sync the display text of every matching 402 branch
-                # (params[1]) in this choice block. Branch commands and their
-                # nested content share indent >= the 102; the block ends at the
-                # first same-indent non-branch command (e.g. another 102).
-                lst = data["events"][ei]["pages"][pi]["list"]
-                block_indent = cmd["indent"]
-                for j in range(idx + 1, len(lst)):
-                    c = lst[j]
-                    if c["indent"] < block_indent:
-                        break
-                    if c["indent"] > block_indent:
-                        continue  # nested branch content
-                    if c["code"] == 402 and c["parameters"][0] == int(ci):
-                        c["parameters"][1] = t
-                    elif c["code"] not in (402, 403):
-                        break  # left the choice block
-            elif not patch_text(cmd, rtype, t):
-                state["warnings"].append(
-                    f"{rid}: type/code mismatch (code {cmd['code']}, type {rtype})")
-                continue
-            changed = True
-            state["applied"].append((rid, fname))
+            lst = data["events"][ei]["pages"][pi]["list"]
+            if walk_apply(lst, idx, row["type"], row["translation"], ci,
+                          state, fname, rid):
+                changed = True
         if changed:
             save_json(path, data)
             state["modified"].add(fname)
 
 
-def apply_to_common_events(data_dir, pending, state):
-    rows = [r for r in pending if r["type"] in ("dialogue", "name")]
+def apply_to_troops(data_dir, pending, state):
+    rows = [r for r in pending if TROOP_ID_RE.match(r["id"])]
     if not rows:
+        return
+    path = os.path.join(data_dir, "Troops.json")
+    data = load_json(path)
+    by_id = {t["id"]: t for t in data if t}
+    changed = False
+    for row in rows:
+        m = TROOP_ID_RE.match(row["id"])
+        tid, pi, idx = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        ci = m.group(4)
+        troop = by_id.get(tid)
+        if not troop or pi >= len(troop["pages"]):
+            state["warnings"].append(f"{row['id']}: not found")
+            continue
+        lst = troop["pages"][pi]["list"]
+        if walk_apply(lst, idx, row["type"], row["translation"], ci, state,
+                      "Troops.json", row["id"]):
+            changed = True
+    if changed:
+        save_json(path, data)
+        state["modified"].add("Troops.json")
+
+
+def apply_to_common_events(data_dir, pending, state):
+    rows = [r for r in pending
+            if r["type"] in ("dialogue", "name") and CE_ID_RE.match(r["id"])]
+    name_rows = [r for r in pending
+                 if r["id"].startswith("CE") and r["id"].endswith("_name")]
+    if not rows and not name_rows:
         return
     path = os.path.join(data_dir, "CommonEvents.json")
     data = load_json(path)
@@ -151,16 +178,21 @@ def apply_to_common_events(data_dir, pending, state):
     changed = False
     for row in rows:
         m = CE_ID_RE.match(row["id"])
-        if not m:
-            continue
         ceid, idx = int(m.group(1)), int(m.group(2))
         ce = by_id.get(ceid)
         if not ce or idx >= len(ce["list"]):
             state["warnings"].append(f"{row['id']}: not found")
             continue
-        if not patch_text(ce["list"][idx], row["type"], row["translation"]):
-            state["warnings"].append(f"{row['id']}: type/code mismatch")
+        if walk_apply(ce["list"], idx, row["type"], row["translation"], None,
+                      state, "CommonEvents.json", row["id"]):
+            changed = True
+    for row in name_rows:
+        m = re.match(r"^CE(\d+)_name$", row["id"])
+        ce = by_id.get(int(m.group(1)))
+        if ce is None:
+            state["warnings"].append(f"{row['id']}: common event not found")
             continue
+        ce["name"] = row["translation"]
         changed = True
         state["applied"].append((row["id"], "CommonEvents.json"))
     if changed:
@@ -200,6 +232,79 @@ def apply_to_database(data_dir, pending, state):
         state["modified"].add(os.path.basename(path))
 
 
+def apply_to_actors(data_dir, pending, state):
+    rows = [r for r in pending if ACTOR_ID_RE.match(r["id"])]
+    if not rows:
+        return
+    path = os.path.join(data_dir, "Actors.json")
+    data = load_json(path)
+    by_id = {a["id"]: a for a in data if a}
+    changed = False
+    for row in rows:
+        m = ACTOR_ID_RE.match(row["id"])
+        aid, field = int(m.group(1)), m.group(2)
+        actor = by_id.get(aid)
+        if actor is None:
+            state["warnings"].append(f"{row['id']}: actor {aid} not found")
+            continue
+        actor[field] = row["translation"]
+        changed = True
+        state["applied"].append((row["id"], "Actors.json"))
+    if changed:
+        save_json(path, data)
+        state["modified"].add("Actors.json")
+
+
+def apply_to_mapinfos(data_dir, pending, state):
+    rows = [r for r in pending if MAPINFO_ID_RE.match(r["id"])]
+    if not rows:
+        return
+    path = os.path.join(data_dir, "MapInfos.json")
+    data = load_json(path)
+    by_id = {m["id"]: m for m in data if m}
+    changed = False
+    for row in rows:
+        m = MAPINFO_ID_RE.match(row["id"])
+        mid = int(m.group(1))
+        entry = by_id.get(mid)
+        if entry is None:
+            state["warnings"].append(f"{row['id']}: map {mid} not in MapInfos")
+            continue
+        entry["name"] = row["translation"]
+        changed = True
+        state["applied"].append((row["id"], "MapInfos.json"))
+    if changed:
+        save_json(path, data)
+        state["modified"].add("MapInfos.json")
+
+
+def apply_to_map_meta(data_dir, pending, state):
+    rows = [r for r in pending if MAP_META_RE.match(r["id"])]
+    if not rows:
+        return
+    by_file = {}
+    for row in rows:
+        m = MAP_META_RE.match(row["id"])
+        by_file.setdefault(f"Map{int(m.group(1)):03d}.json", []).append((m, row))
+    for fname, items in sorted(by_file.items()):
+        path = os.path.join(data_dir, fname)
+        data = load_json(path)
+        changed = False
+        for m, row in items:
+            rid = row["id"]
+            if m.group(2) == "displayName":
+                data["displayName"] = row["translation"]
+            else:
+                ei = int(m.group(3))
+                field = m.group(4)
+                data["events"][ei][field] = row["translation"]
+            changed = True
+            state["applied"].append((rid, fname))
+        if changed:
+            save_json(path, data)
+            state["modified"].add(fname)
+
+
 def apply_to_system(data_dir, pending, state):
     rows = [r for r in pending if r["id"].startswith("SYS_")]
     if not rows:
@@ -213,6 +318,10 @@ def apply_to_system(data_dir, pending, state):
             d["gameTitle"] = t
         elif rid == "SYS_currencyUnit":
             d["currencyUnit"] = t
+        elif rid.startswith("SYS_switch_"):
+            d["switches"][int(rid[len("SYS_switch_"):])] = t
+        elif rid.startswith("SYS_variable_"):
+            d["variables"][int(rid[len("SYS_variable_"):])] = t
         elif rid.startswith("SYS_terms_messages_"):
             d["terms"]["messages"][rid[len("SYS_terms_messages_"):]] = t
         else:
@@ -287,8 +396,12 @@ def main():
 
     state = {"applied": [], "skipped": [], "warnings": [], "modified": set()}
     apply_to_maps(args.data, pending, state)
+    apply_to_map_meta(args.data, pending, state)
+    apply_to_mapinfos(args.data, pending, state)
     apply_to_common_events(args.data, pending, state)
+    apply_to_troops(args.data, pending, state)
     apply_to_database(args.data, pending, state)
+    apply_to_actors(args.data, pending, state)
     apply_to_system(args.data, pending, state)
     apply_to_plugins(args.plugins, pending, state)
 

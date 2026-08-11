@@ -1,4 +1,592 @@
 id	file	context	type	japanese	translation
+MAP4_e1_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e2_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e3_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e4_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e5_name	Map004.json	event name	name	ロイの家入り口
+MAP4_e6_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e7_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e8_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e9_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e17_name	Map004.json	event name	name	ウィンダム城下町
+MAP4_e18_name	Map004.json	event name	name	ウィンダム城下町
+MAP5_e5_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e6_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e7_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e8_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e9_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e10_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e11_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e12_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e13_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e14_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e15_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e16_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e17_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e18_name	Map005.json	event name	name	泥棒はずれ
+MAP5_e29_name	Map005.json	event name	name	ウィンダム入り口兵
+MAP5_e30_name	Map005.json	event name	name	城下町花畑
+MAP5_e31_name	Map005.json	event name	name	錬金術師の横
+MAP5_e32_name	Map005.json	event name	name	釣をしてるひと
+MAP5_e33_name	Map005.json	event name	name	像の左
+MAP5_e34_name	Map005.json	event name	name	城下町北の巡回兵
+MAP6_e9_name	Map006.json	event name	name	ウィンダム城下町
+MAP6_e10_name	Map006.json	event name	name	ウィンダム城下町
+MAP6_e11_name	Map006.json	event name	name	ウィンダム城下町
+MAP6_e12_name	Map006.json	event name	name	ウィンダム城下町
+MAP6_e13_name	Map006.json	event name	name	ウィンダム城下町
+MAP6_e14_name	Map006.json	event name	name	ウィンダム城下町
+MAP6_e21_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e22_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e23_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e24_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e25_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e26_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e27_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e28_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e29_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e30_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e31_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e32_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e33_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e34_name	Map006.json	event name	name	固いパン１個
+MAP6_e35_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e36_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e37_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e38_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e41_name	Map006.json	event name	name	倉庫番ストロング
+MAP6_e42_name	Map006.json	event name	name	ピピンに教えてもらう
+MAP6_e43_name	Map006.json	event name	name	ピピンに教えてもらう
+MAP6_e44_name	Map006.json	event name	name	ピピンに教えてもらう
+MAP6_e45_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e46_name	Map006.json	event name	name	ウィンダムの大臣
+MAP6_e47_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e50_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e51_name	Map006.json	event name	name	泥棒はずれ
+MAP6_e52_name	Map006.json	event name	name	城門係スカイ
+MAP6_e53_name	Map006.json	event name	name	城門係クロウ
+MAP7_e1_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e2_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e3_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e4_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e5_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e6_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e7_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e8_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e9_name	Map007.json	event name	name	ウィンダム城下町
+MAP7_e18_name	Map007.json	event name	name	泥棒はずれ
+MAP8_e1_name	Map008.json	event name	name	ウィンダム城下町
+MAP8_e2_name	Map008.json	event name	name	ウィンダム城下町
+MAP8_e3_name	Map008.json	event name	name	ウィンダム城下町
+MAP8_e4_name	Map008.json	event name	name	ウィンダム王
+MAP8_e5_name	Map008.json	event name	name	玉座の護衛左
+MAP8_e6_name	Map008.json	event name	name	玉座の護衛右
+MAP8_e8_name	Map008.json	event name	name	王の寝室の護衛本体
+MAP8_e9_name	Map008.json	event name	name	王の寝室の護衛ゆか
+MAP8_e11_name	Map008.json	event name	name	サクソンの部屋出る
+MAP8_e12_name	Map008.json	event name	name	泥棒はずれ
+MAP8_e13_name	Map008.json	event name	name	泥棒はずれ
+MAP8_e14_name	Map008.json	event name	name	泥棒はずれ
+MAP8_e15_name	Map008.json	event name	name	泥棒はずれ
+MAP8_e16_name	Map008.json	event name	name	泥棒はずれ
+MAP8_e17_name	Map008.json	event name	name	泥棒はずれ
+MAP8_e20_name	Map008.json	event name	name	オープニング最後
+MAP8_e21_name	Map008.json	event name	name	レイモンド
+MAP9_e3_name	Map009.json	event name	name	ウィンダム城下町
+MAP9_e5_name	Map009.json	event name	name	泥棒はずれ
+MAP9_e6_name	Map009.json	event name	name	泥棒はずれ
+MAP9_e7_name	Map009.json	event name	name	泥棒はずれ
+MAP9_e8_name	Map009.json	event name	name	泥棒はずれ
+MAP9_e9_name	Map009.json	event name	name	泥棒はずれ
+MAP9_e12_name	Map009.json	event name	name	泥棒はずれ
+MAP9_e13_name	Map009.json	event name	name	宿屋の娘
+MAP11_e1_name	Map011.json	event name	name	ウィンダム城下町
+MAP11_e2_name	Map011.json	event name	name	ウィンダム城下町
+MAP11_e3_name	Map011.json	event name	name	ウィンダム城下町
+MAP12_e3_name	Map012.json	event name	name	パン屋父
+MAP12_e4_name	Map012.json	event name	name	ウィンの母
+MAP12_e5_name	Map012.json	event name	name	パン屋の客1
+MAP12_e6_name	Map012.json	event name	name	パン屋の客2
+MAP13_e3_name	Map013.json	event name	name	ウィンダム道具屋
+MAP13_e4_name	Map013.json	event name	name	道具屋の客
+MAP14_e3_name	Map014.json	event name	name	泥棒はずれ
+MAP14_e4_name	Map014.json	event name	name	泥棒はずれ
+MAP14_e6_name	Map014.json	event name	name	じいさん
+MAP15_e3_name	Map015.json	event name	name	泥棒はずれ
+MAP15_e4_name	Map015.json	event name	name	泥棒はずれ
+MAP15_e5_name	Map015.json	event name	name	泥棒はずれ
+MAP15_e6_name	Map015.json	event name	name	泥棒はずれ
+MAP15_e11_name	Map015.json	event name	name	ウィング
+MAP16_e3_name	Map016.json	event name	name	ウィンダムの錬金術師
+MAP17_e4_name	Map017.json	event name	name	ハリス
+MAP17_e5_name	Map017.json	event name	name	ハリスの奥さん
+MAP17_e6_name	Map017.json	event name	name	ハリスの娘さん
+MAP17_e7_name	Map017.json	event name	name	泥棒はずれ
+MAP17_e8_name	Map017.json	event name	name	泥棒はずれ
+MAP17_e9_name	Map017.json	event name	name	泥棒はずれ
+MAP17_e10_name	Map017.json	event name	name	泥棒はずれ
+MAP17_e11_name	Map017.json	event name	name	泥棒はずれ
+MAP17_e12_name	Map017.json	event name	name	泥棒はずれ
+MAP17_e13_name	Map017.json	event name	name	泥棒はずれ
+MAP17_e15_name	Map017.json	event name	name	泥棒はずれ
+MAP18_e3_name	Map018.json	event name	name	レストラン主人
+MAP18_e4_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e5_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e6_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e7_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e12_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e13_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e14_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e15_name	Map018.json	event name	name	泥棒はずれ
+MAP18_e16_name	Map018.json	event name	name	泥棒はずれ
+MAP19_e3_name	Map019.json	event name	name	駐屯隊長
+MAP19_e4_name	Map019.json	event name	name	泥棒はずれ
+MAP19_e5_name	Map019.json	event name	name	泥棒はずれ
+MAP19_e6_name	Map019.json	event name	name	泥棒はずれ
+MAP19_e7_name	Map019.json	event name	name	泥棒はずれ
+MAP19_e8_name	Map019.json	event name	name	泥棒はずれ
+MAP19_e9_name	Map019.json	event name	name	泥棒はずれ
+MAP19_e10_name	Map019.json	event name	name	泥棒はずれ
+MAP19_e15_name	Map019.json	event name	name	泥棒はずれ
+MAP20_e3_name	Map020.json	event name	name	ウィンダム武器屋
+MAP20_e4_name	Map020.json	event name	name	泥棒はずれ
+MAP20_e5_name	Map020.json	event name	name	泥棒はずれ
+MAP21_e6_name	Map021.json	event name	name	泥棒はずれ
+MAP21_e7_name	Map021.json	event name	name	泥棒はずれ
+MAP21_e8_name	Map021.json	event name	name	泥棒はずれ
+MAP21_e9_name	Map021.json	event name	name	泥棒はずれ
+MAP21_e10_name	Map021.json	event name	name	泥棒はずれ
+MAP21_e11_name	Map021.json	event name	name	泥棒はずれ
+MAP21_e12_name	Map021.json	event name	name	泥棒はずれ
+MAP21_e13_name	Map021.json	event name	name	ロイ
+MAP21_e17_name	Map021.json	event name	name	ピピン去る
+MAP21_e19_name	Map021.json	event name	name	泥棒はずれ
+MAP22_e1_name	Map022.json	event name	name	ウィンダム城下町
+MAP22_e2_name	Map022.json	event name	name	ウィンダム城下町
+MAP22_e3_name	Map022.json	event name	name	ウィンダム城下町
+MAP22_e4_name	Map022.json	event name	name	ウィンダム城下町
+MAP22_e5_name	Map022.json	event name	name	固いパン１個
+MAP23_e1_name	Map023.json	event name	name	ウィンダム城下町
+MAP23_e2_name	Map023.json	event name	name	ウィンダム城下町
+MAP24_e1_name	Map024.json	event name	name	ウィンダム城下町
+MAP24_e2_name	Map024.json	event name	name	ウィンダム城下町
+MAP24_e3_name	Map024.json	event name	name	人食いイヌ
+MAP24_e4_name	Map024.json	event name	name	固いパン１個
+MAP25_e1_name	Map025.json	event name	name	ウィンダム城下町
+MAP25_e2_name	Map025.json	event name	name	ウィンダム城下町
+MAP25_e3_name	Map025.json	event name	name	泥棒はずれ
+MAP26_e9_name	Map026.json	event name	name	南の関所の見張り
+MAP26_e12_name	Map026.json	event name	name	泥棒はずれ
+MAP26_e13_name	Map026.json	event name	name	泥棒はずれ
+MAP26_e14_name	Map026.json	event name	name	泥棒はずれ
+MAP26_e15_name	Map026.json	event name	name	泥棒はずれ
+MAP26_e16_name	Map026.json	event name	name	泥棒はずれ
+MAP26_e18_name	Map026.json	event name	name	せきしょの　ひと
+MAP26_e20_name	Map026.json	event name	name	娘さん
+MAP27_e1_name	Map027.json	event name	name	ウィンダム城下町
+MAP27_e2_name	Map027.json	event name	name	ピケピケ初見
+MAP28_e4_name	Map028.json	event name	name	泥棒はずれ
+MAP28_e5_name	Map028.json	event name	name	泥棒はずれ
+MAP28_e6_name	Map028.json	event name	name	泥棒はずれ
+MAP28_e7_name	Map028.json	event name	name	泥棒はずれ
+MAP28_e8_name	Map028.json	event name	name	泥棒はずれ
+MAP29_e3_name	Map029.json	event name	name	ウィンダム道具屋
+MAP29_e4_name	Map029.json	event name	name	泥棒はずれ
+MAP30_e2_name	Map030.json	event name	name	ウィンダム城下町
+MAP30_e3_name	Map030.json	event name	name	泥棒はずれ
+MAP30_e4_name	Map030.json	event name	name	泥棒はずれ
+MAP30_e5_name	Map030.json	event name	name	泥棒はずれ
+MAP31_e6_name	Map031.json	event name	name	泥棒はずれ
+MAP31_e7_name	Map031.json	event name	name	泥棒はずれ
+MAP31_e8_name	Map031.json	event name	name	泥棒はずれ
+MAP31_e9_name	Map031.json	event name	name	泥棒はずれ
+MAP31_e10_name	Map031.json	event name	name	泥棒はずれ
+MAP32_e33_name	Map032.json	event name	name	泥棒はずれ
+MAP32_e38_name	Map032.json	event name	name	泥棒はずれ
+MAP32_e39_name	Map032.json	event name	name	泥棒はずれ
+MAP32_e40_name	Map032.json	event name	name	泥棒はずれ
+MAP32_e53_name	Map032.json	event name	name	レイモンド
+MAP33_e6_name	Map033.json	event name	name	泥棒はずれ
+MAP33_e7_name	Map033.json	event name	name	フレイム王
+MAP33_e19_name	Map033.json	event name	name	ホムラ
+MAP34_e3_name	Map034.json	event name	name	E旧坑道入り繰り
+MAP34_e4_name	Map034.json	event name	name	旧坑道のピピン
+MAP34_e5_name	Map034.json	event name	name	キノコ事件
+MAP35_e6_name	Map035.json	event name	name	オープニング１
+MAP35_e8_name	Map035.json	event name	name	泥棒はずれ
+MAP36_e1_name	Map036.json	event name	name	オープニング
+MAP37_e1_name	Map037.json	event name	name	ウィンダム城下町
+MAP37_e2_name	Map037.json	event name	name	ウィンダム城下町
+MAP37_e3_name	Map037.json	event name	name	ウィンダム城下町
+MAP37_e4_name	Map037.json	event name	name	ウィンダム王
+MAP37_e5_name	Map037.json	event name	name	玉座の護衛左
+MAP37_e6_name	Map037.json	event name	name	玉座の護衛右
+MAP37_e8_name	Map037.json	event name	name	王の寝室の護衛本体
+MAP37_e9_name	Map037.json	event name	name	王の寝室の護衛ゆか
+MAP37_e11_name	Map037.json	event name	name	サクソンの部屋出る
+MAP37_e12_name	Map037.json	event name	name	泥棒はずれ
+MAP37_e13_name	Map037.json	event name	name	泥棒はずれ
+MAP37_e14_name	Map037.json	event name	name	泥棒はずれ
+MAP37_e15_name	Map037.json	event name	name	泥棒はずれ
+MAP37_e16_name	Map037.json	event name	name	泥棒はずれ
+MAP37_e17_name	Map037.json	event name	name	泥棒はずれ
+MAP37_e20_name	Map037.json	event name	name	玉座の護衛左
+MAP37_e21_name	Map037.json	event name	name	玉座の護衛右
+MAP37_e22_name	Map037.json	event name	name	玉座の護衛右
+MAP37_e23_name	Map037.json	event name	name	玉座の護衛左
+MAP38_e1_name	Map038.json	event name	name	ウィンダム城下町
+MAP38_e2_name	Map038.json	event name	name	ウィンダム城下町
+MAP38_e3_name	Map038.json	event name	name	ウィンダム城下町
+MAP39_e5_name	Map039.json	event name	name	子供ロイ
+MAP39_e6_name	Map039.json	event name	name	ロイの父
+MAP39_e8_name	Map039.json	event name	name	泥棒はずれ
+MAP40_e4_name	Map040.json	event name	name	ウィンダム城下町
+MAP40_e5_name	Map040.json	event name	name	泥棒はずれ
+MAP40_e42_name	Map040.json	event name	name	サクソン回想
+MAP40_e43_name	Map040.json	event name	name	ロイ西の監視塔
+MAP40_e44_name	Map040.json	event name	name	伝令
+MAP41_e8_name	Map041.json	event name	name	泥棒はずれ
+MAP42_e2_name	Map042.json	event name	name	ウィンダム城下町
+MAP42_e3_name	Map042.json	event name	name	レストラン主人
+MAP42_e4_name	Map042.json	event name	name	泥棒はずれ
+MAP42_e5_name	Map042.json	event name	name	泥棒はずれ
+MAP43_e2_name	Map043.json	event name	name	ウィンダム城下町
+MAP43_e3_name	Map043.json	event name	name	ウィンダムの錬金術師
+MAP44_e2_name	Map044.json	event name	name	ウィンダム城下町
+MAP44_e3_name	Map044.json	event name	name	ウィンダム道具屋
+MAP44_e5_name	Map044.json	event name	name	泥棒はずれ
+MAP44_e6_name	Map044.json	event name	name	泥棒はずれ
+MAP44_e7_name	Map044.json	event name	name	泥棒はずれ
+MAP45_e5_name	Map045.json	event name	name	ウィンダム城下町
+MAP45_e9_name	Map045.json	event name	name	レイモンド
+MAP45_e10_name	Map045.json	event name	name	泥棒はずれ
+MAP45_e11_name	Map045.json	event name	name	泥棒はずれ
+MAP45_e12_name	Map045.json	event name	name	泥棒はずれ
+MAP45_e13_name	Map045.json	event name	name	泥棒はずれ
+MAP46_e2_name	Map046.json	event name	name	ウィンダム城下町
+MAP46_e3_name	Map046.json	event name	name	ウィンダム武器屋
+MAP47_e3_name	Map047.json	event name	name	ウィンダム城下町
+MAP47_e4_name	Map047.json	event name	name	泥棒はずれ
+MAP47_e5_name	Map047.json	event name	name	泥棒はずれ
+MAP47_e6_name	Map047.json	event name	name	泥棒はずれ
+MAP47_e7_name	Map047.json	event name	name	泥棒はずれ
+MAP47_e9_name	Map047.json	event name	name	ガダ
+MAP49_e1_name	Map049.json	event name	name	ナウ―
+MAP49_e3_name	Map049.json	event name	name	ウィンダム城下町
+MAP49_e4_name	Map049.json	event name	name	ウィンダム城下町
+MAP49_e5_name	Map049.json	event name	name	ウィンダム城下町
+MAP49_e7_name	Map049.json	event name	name	試練
+MAP49_e8_name	Map049.json	event name	name	試練ホノオ
+MAP50_e35_name	Map050.json	event name	name	流れ
+MAP50_e36_name	Map050.json	event name	name	トリカゼ
+MAP50_e37_name	Map050.json	event name	name	マハリ
+MAP50_e43_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e44_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e45_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e46_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e47_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e48_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e49_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e50_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e51_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e52_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e53_name	Map050.json	event name	name	泥棒はずれ
+MAP50_e54_name	Map050.json	event name	name	泥棒はずれ
+MAP51_e5_name	Map051.json	event name	name	泥棒はずれ
+MAP51_e6_name	Map051.json	event name	name	泥棒はずれ
+MAP51_e7_name	Map051.json	event name	name	泥棒はずれ
+MAP51_e8_name	Map051.json	event name	name	泥棒はずれ
+MAP51_e9_name	Map051.json	event name	name	泥棒はずれ
+MAP51_e10_name	Map051.json	event name	name	泥棒はずれ
+MAP52_e20_name	Map052.json	event name	name	泥棒はずれ
+MAP52_e21_name	Map052.json	event name	name	泥棒はずれ
+MAP52_e22_name	Map052.json	event name	name	泥棒はずれ
+MAP53_e6_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e7_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e8_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e9_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e10_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e11_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e12_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e13_name	Map053.json	event name	name	泥棒はずれ
+MAP53_e14_name	Map053.json	event name	name	泥棒はずれ
+MAP54_e4_name	Map054.json	event name	name	泥棒はずれ
+MAP54_e5_name	Map054.json	event name	name	泥棒はずれ
+MAP54_e6_name	Map054.json	event name	name	泥棒はずれ
+MAP54_e7_name	Map054.json	event name	name	泥棒はずれ
+MAP55_e7_name	Map055.json	event name	name	オタキ様
+MAP55_e8_name	Map055.json	event name	name	シズク様
+MAP55_e9_name	Map055.json	event name	name	ナガレ
+MAP55_e10_name	Map055.json	event name	name	トリカゼ
+MAP55_e11_name	Map055.json	event name	name	マハリ
+MAP55_e13_name	Map055.json	event name	name	マハリ
+MAP55_e14_name	Map055.json	event name	name	泥棒はずれ
+MAP55_e15_name	Map055.json	event name	name	泥棒はずれ
+MAP55_e16_name	Map055.json	event name	name	泥棒はずれ
+MAP55_e22_name	Map055.json	event name	name	よろずや
+MAP55_e23_name	Map055.json	event name	name	ぶきや
+MAP58_e10_name	Map058.json	event name	name	ヒノタマ
+MAP60_e5_name	Map060.json	event name	name	青龍
+MAP60_e6_name	Map060.json	event name	name	ミケーネ
+MAP60_e7_name	Map060.json	event name	name	ナガレ
+MAP60_e9_name	Map060.json	event name	name	ナガレ死体
+MAP60_e10_name	Map060.json	event name	name	ナガレ
+MAP61_e18_name	Map061.json	event name	name	トリカゼ
+MAP61_e19_name	Map061.json	event name	name	マハリ
+MAP61_e49_name	Map061.json	event name	name	泥棒はずれ
+MAP61_e50_name	Map061.json	event name	name	泥棒はずれ
+MAP61_e53_name	Map061.json	event name	name	泥棒はずれ
+MAP61_e54_name	Map061.json	event name	name	泥棒はずれ
+MAP61_e55_name	Map061.json	event name	name	トリカゼ
+MAP61_e56_name	Map061.json	event name	name	マハリ
+MAP62_e1_name	Map062.json	event name	name	デニー
+MAP62_e5_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e6_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e7_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e8_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e9_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e10_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e11_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e12_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e14_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e17_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e18_name	Map062.json	event name	name	泥棒はずれ
+MAP62_e30_name	Map062.json	event name	name	ウィンダム入り口兵
+MAP62_e34_name	Map062.json	event name	name	城下町北の巡回兵
+MAP62_e41_name	Map062.json	event name	name	ピピン
+MAP62_e47_name	Map062.json	event name	name	ドミトリー
+MAP62_e49_name	Map062.json	event name	name	マックス
+MAP62_e51_name	Map062.json	event name	name	ドミトリー
+MAP62_e52_name	Map062.json	event name	name	マックス
+MAP62_e53_name	Map062.json	event name	name	カイル
+MAP63_e35_name	Map063.json	event name	name	ウマル
+MAP63_e40_name	Map063.json	event name	name	泥棒はずれ
+MAP64_e6_name	Map064.json	event name	name	泥棒はずれ
+MAP64_e7_name	Map064.json	event name	name	フレイム王
+MAP64_e30_name	Map064.json	event name	name	ナガレ
+MAP64_e31_name	Map064.json	event name	name	ミケーネ
+MAP64_e33_name	Map064.json	event name	name	フレイム王　崩壊後
+MAP65_e1_name	Map065.json	event name	name	ウィンダム城下町
+MAP65_e2_name	Map065.json	event name	name	ウィンダム城下町
+MAP65_e3_name	Map065.json	event name	name	ウィンダム城下町
+MAP65_e4_name	Map065.json	event name	name	ウィンダム王
+MAP65_e5_name	Map065.json	event name	name	玉座の護衛左
+MAP65_e6_name	Map065.json	event name	name	玉座の護衛右
+MAP65_e7_name	Map065.json	event name	name	ロイ
+MAP65_e8_name	Map065.json	event name	name	王の寝室の護衛本体
+MAP65_e9_name	Map065.json	event name	name	王の寝室の護衛ゆか
+MAP65_e10_name	Map065.json	event name	name	自動実行
+MAP65_e11_name	Map065.json	event name	name	サクソンの部屋出る
+MAP65_e12_name	Map065.json	event name	name	泥棒はずれ
+MAP65_e13_name	Map065.json	event name	name	泥棒はずれ
+MAP65_e14_name	Map065.json	event name	name	泥棒はずれ
+MAP65_e15_name	Map065.json	event name	name	泥棒はずれ
+MAP65_e16_name	Map065.json	event name	name	泥棒はずれ
+MAP65_e17_name	Map065.json	event name	name	泥棒はずれ
+MAP65_e20_name	Map065.json	event name	name	ダフィール
+MAP65_e31_name	Map065.json	event name	name	サクソン
+MAP65_e32_name	Map065.json	event name	name	ジョッシュ
+MAP65_e36_name	Map065.json	event name	name	ピピン
+MAP65_e38_name	Map065.json	event name	name	ウィンダム王　崩壊後
+MAP65_e39_name	Map065.json	event name	name	ロイ　崩壊後
+MAP65_e40_name	Map065.json	event name	name	サクソン崩壊後
+MAP65_e44_name	Map065.json	event name	name	ホノオ
+MAP65_e45_name	Map065.json	event name	name	ナガレ
+MAP66_e9_name	Map066.json	event name	name	ウィンダム城下町
+MAP66_e10_name	Map066.json	event name	name	ウィンダム城下町
+MAP66_e11_name	Map066.json	event name	name	ウィンダム城下町
+MAP66_e12_name	Map066.json	event name	name	ウィンダム城下町
+MAP66_e13_name	Map066.json	event name	name	ウィンダム城下町
+MAP66_e14_name	Map066.json	event name	name	ウィンダム城下町
+MAP66_e21_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e22_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e23_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e24_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e25_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e26_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e27_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e28_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e29_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e30_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e31_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e32_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e33_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e34_name	Map066.json	event name	name	固いパン１個
+MAP66_e35_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e36_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e37_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e38_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e41_name	Map066.json	event name	name	倉庫番ストロング
+MAP66_e43_name	Map066.json	event name	name	カイル
+MAP66_e44_name	Map066.json	event name	name	コッコ
+MAP66_e45_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e46_name	Map066.json	event name	name	ウィンダムの大臣
+MAP66_e47_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e50_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e51_name	Map066.json	event name	name	泥棒はずれ
+MAP66_e52_name	Map066.json	event name	name	道具屋の客
+MAP66_e53_name	Map066.json	event name	name	ウィンダム道具屋
+MAP66_e61_name	Map066.json	event name	name	ステイ
+MAP66_e63_name	Map066.json	event name	name	ハング
+MAP66_e64_name	Map066.json	event name	name	パン屋の客1
+MAP66_e65_name	Map066.json	event name	name	ウィンの母
+MAP66_e66_name	Map066.json	event name	name	パン屋父
+MAP66_e67_name	Map066.json	event name	name	ウィンダムの錬金術師
+MAP67_e1_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e2_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e3_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e4_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e5_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e6_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e7_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e8_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e9_name	Map067.json	event name	name	ウィンダム城下町
+MAP67_e18_name	Map067.json	event name	name	泥棒はずれ
+MAP67_e21_name	Map067.json	event name	name	ロール
+MAP67_e22_name	Map067.json	event name	name	宿屋の娘
+MAP67_e23_name	Map067.json	event name	name	パン屋の客2
+MAP67_e24_name	Map067.json	event name	name	ウィング
+MAP68_e1_name	Map068.json	event name	name	ウィンダム城下町
+MAP68_e2_name	Map068.json	event name	name	ウィンダム城下町
+MAP68_e3_name	Map068.json	event name	name	ウィンダム城下町
+MAP70_e1_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e2_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e3_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e4_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e6_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e7_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e8_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e9_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e15_name	Map070.json	event name	name	ヤバミネーション
+MAP70_e17_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e18_name	Map070.json	event name	name	ウィンダム城下町
+MAP70_e25_name	Map070.json	event name	name	暗くかがやく龍
+MAP70_e31_name	Map070.json	event name	name	隠しダンジョン
+MAP71_e9_name	Map071.json	event name	name	南の関所の見張り
+MAP71_e14_name	Map071.json	event name	name	泥棒はずれ
+MAP71_e15_name	Map071.json	event name	name	泥棒はずれ
+MAP71_e16_name	Map071.json	event name	name	泥棒はずれ
+MAP71_e17_name	Map071.json	event name	name	関所の見張りノーマン
+MAP71_e18_name	Map071.json	event name	name	せきしょの　ひと
+MAP71_e23_name	Map071.json	event name	name	宿屋の子ストール
+MAP72_e2_name	Map072.json	event name	name	ウィンダム城下町
+MAP72_e3_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e4_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e5_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e12_name	Map072.json	event name	name	じいさん
+MAP72_e13_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e14_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e15_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e16_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e17_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e18_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e19_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e20_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e21_name	Map072.json	event name	name	泥棒はずれ
+MAP72_e22_name	Map072.json	event name	name	泥棒はずれ
+MAP73_e20_name	Map073.json	event name	name	泥棒はずれ
+MAP73_e21_name	Map073.json	event name	name	泥棒はずれ
+MAP73_e22_name	Map073.json	event name	name	泥棒はずれ
+MAP74_e6_name	Map074.json	event name	name	泥棒はずれ
+MAP74_e7_name	Map074.json	event name	name	泥棒はずれ
+MAP74_e8_name	Map074.json	event name	name	泥棒はずれ
+MAP74_e9_name	Map074.json	event name	name	泥棒はずれ
+MAP74_e10_name	Map074.json	event name	name	泥棒はずれ
+MAP74_e11_name	Map074.json	event name	name	泥棒はずれ
+MAP74_e12_name	Map074.json	event name	name	泥棒はずれ
+MAP74_e13_name	Map074.json	event name	name	泥棒はずれ
+MAP75_e3_name	Map075.json	event name	name	駐屯隊長
+MAP75_e4_name	Map075.json	event name	name	泥棒はずれ
+MAP75_e5_name	Map075.json	event name	name	泥棒はずれ
+MAP75_e6_name	Map075.json	event name	name	泥棒はずれ
+MAP75_e7_name	Map075.json	event name	name	泥棒はずれ
+MAP75_e8_name	Map075.json	event name	name	泥棒はずれ
+MAP75_e9_name	Map075.json	event name	name	泥棒はずれ
+MAP75_e10_name	Map075.json	event name	name	泥棒はずれ
+MAP76_e7_name	Map076.json	event name	name	城門係スカイ
+MAP76_e8_name	Map076.json	event name	name	城門係クロウ
+MAP76_e30_name	Map076.json	event name	name	泥棒はずれ
+MAP76_e31_name	Map076.json	event name	name	泥棒はずれ
+MAP77_e3_name	Map077.json	event name	name	警備所サクソン
+MAP77_e7_name	Map077.json	event name	name	泥棒はずれ
+MAP77_e8_name	Map077.json	event name	name	泥棒はずれ
+MAP77_e9_name	Map077.json	event name	name	泥棒はずれ
+MAP77_e10_name	Map077.json	event name	name	泥棒はずれ
+MAP77_e11_name	Map077.json	event name	name	泥棒はずれ
+MAP78_e3_name	Map078.json	event name	name	ウィンダム城下町
+MAP78_e4_name	Map078.json	event name	name	ウィンダム城下町
+MAP78_e5_name	Map078.json	event name	name	ウィンダム城下町
+MAP78_e7_name	Map078.json	event name	name	廃墟
+MAP79_e1_name	Map079.json	event name	name	ピケピケ
+MAP81_e1_name	Map081.json	event name	name	ミケーネ
+MAP81_e2_name	Map081.json	event name	name	ウィン
+MAP81_e3_name	Map081.json	event name	name	ホノオ
+MAP82_e6_name	Map082.json	event name	name	ウィン
+MAP83_e14_name	Map083.json	event name	name	ダフィール
+MAP83_e17_name	Map083.json	event name	name	ピピン
+MAP85_e1_name	Map085.json	event name	name	近衛兵クリス
+MAP85_e2_name	Map085.json	event name	name	ウィンダム王
+MAP85_e3_name	Map085.json	event name	name	ロイ
+MAP85_e5_name	Map085.json	event name	name	玉座の護衛左
+MAP85_e6_name	Map085.json	event name	name	玉座の護衛右
+MAP86_e4_name	Map086.json	event name	name	リマル
+MAP86_e33_name	Map086.json	event name	name	フレイム王　崩壊後
+MAP87_e18_name	Map087.json	event name	name	トリカゼ
+MAP87_e19_name	Map087.json	event name	name	マハリ
+MAP87_e21_name	Map087.json	event name	name	オタキ様
+MAP87_e22_name	Map087.json	event name	name	シズク様
+MAP87_e53_name	Map087.json	event name	name	泥棒はずれ
+MAP87_e54_name	Map087.json	event name	name	泥棒はずれ
+MAP88_e1_name	Map088.json	event name	name	ミケーネ
+MAP88_e14_name	Map088.json	event name	name	ピピン
+MAP88_e15_name	Map088.json	event name	name	大魔王ダフィール
+MAP88_e16_name	Map088.json	event name	name	ナウー
+MAP88_e17_name	Map088.json	event name	name	ピケピケ
+MAP90_e4_name	Map090.json	event name	name	サクソン
+MAP90_e7_name	Map090.json	event name	name	正面左スカイ
+MAP90_e8_name	Map090.json	event name	name	正面右クロウ
+MAP90_e24_name	Map090.json	event name	name	左ピロシキン
+MAP90_e25_name	Map090.json	event name	name	右カメマル
+MAP90_e26_name	Map090.json	event name	name	正面真ん中ヘヴィ
+MAP90_e28_name	Map090.json	event name	name	たきびした
+MAP90_e29_name	Map090.json	event name	name	たきびみぎ
+MAP91_e18_name	Map091.json	event name	name	トリカゼ
+MAP91_e19_name	Map091.json	event name	name	マハリ
+MAP91_e20_name	Map091.json	event name	name	ナガレ
+MAP91_e21_name	Map091.json	event name	name	オタキ様
+MAP91_e22_name	Map091.json	event name	name	シズク様
+MAP92_e1_name	Map092.json	event name	name	リマル
+MAP92_e2_name	Map092.json	event name	name	しだるた
+MAP92_e3_name	Map092.json	event name	name	おうさま
+MAP92_e5_name	Map092.json	event name	name	ホノオ
+MAP93_e1_name	Map093.json	event name	name	近衛兵クリス
+MAP93_e2_name	Map093.json	event name	name	ウィンダム王
+MAP93_e3_name	Map093.json	event name	name	ロイ
+MAP93_e4_name	Map093.json	event name	name	近衛兵クリス
+MAP93_e5_name	Map093.json	event name	name	玉座の護衛左
+MAP93_e6_name	Map093.json	event name	name	玉座の護衛右
+MAP93_e8_name	Map093.json	event name	name	玉座の護衛右
+MAP93_e9_name	Map093.json	event name	name	玉座の護衛右
+MAP93_e12_name	Map093.json	event name	name	近衛兵クリス
+MAP97_e1_name	Map097.json	event name	name	ウィンダム城下町
+MAP97_e2_name	Map097.json	event name	name	ウィンダム城下町
+MAP97_e3_name	Map097.json	event name	name	ウィンダム城下町
+MAP97_e4_name	Map097.json	event name	name	ウィンダム城下町
+MAP97_e5_name	Map097.json	event name	name	固いパン１個
+MAP98_e1_name	Map098.json	event name	name	ウィンダム城下町
+MAP98_e2_name	Map098.json	event name	name	ウィンダム城下町
+MAP99_e1_name	Map099.json	event name	name	ウィンダム城下町
+MAP99_e2_name	Map099.json	event name	name	ウィンダム城下町
+MAP99_e3_name	Map099.json	event name	name	泥棒はずれ
+MAP100_e1_name	Map100.json	event name	name	ウィンダム城下町
+MAP100_e2_name	Map100.json	event name	name	ウィンダム城下町
+MAP100_e3_name	Map100.json	event name	name	人食いドッグ
+MAP100_e4_name	Map100.json	event name	name	固いパン１個
+MAP102_e3_name	Map102.json	event name	name	ウィンダム城下町
+MAP102_e4_name	Map102.json	event name	name	ウィンダム城下町
+MAP102_e5_name	Map102.json	event name	name	ウィンダム城下町
+MAP102_e7_name	Map102.json	event name	name	廃墟
+CE4_name	CommonEvents.json	common event name	name	奇書
 DB_Actors_1_name	Actors.json	Actors.json #1 (ウィン)	name	ウィン
 DB_Actors_2_name	Actors.json	Actors.json #2 (ホノオ)	name	ホノオ
 DB_Actors_3_name	Actors.json	Actors.json #3 (ナガレ)	name	ナガレ
@@ -29,6 +617,33 @@ DB_Actors_30_name	Actors.json	Actors.json #30 (アルドン)	name	アルドン
 DB_Actors_31_name	Actors.json	Actors.json #31 (オタキ)	name	オタキ
 DB_Actors_32_name	Actors.json	Actors.json #32 (ホムラ)	name	ホムラ
 DB_Actors_33_name	Actors.json	Actors.json #33 (ピピン)	name	ピピン
+ACTOR_1_nickname	Actors.json	nickname	name	若き騎士
+ACTOR_2_nickname	Actors.json	nickname	name	フレイム王国の王子
+ACTOR_3_nickname	Actors.json	nickname	name	セイリューの若き当主
+ACTOR_4_nickname	Actors.json	nickname	name	自他ともに認める天才騎士
+ACTOR_5_nickname	Actors.json	nickname	name	元騎士隊長
+ACTOR_6_nickname	Actors.json	nickname	name	天才と呼ばれる若き騎士
+ACTOR_7_nickname	Actors.json	nickname	name	自他ともに認める天才騎士
+ACTOR_9_nickname	Actors.json	nickname	name	フレイム王国の王子
+ACTOR_10_nickname	Actors.json	nickname	name	セイリューの若き当主
+ACTOR_11_nickname	Actors.json	nickname	name	セイリュー領主の一人娘
+ACTOR_14_nickname	Actors.json	nickname	name	自他ともに認める天才騎士
+ACTOR_15_nickname	Actors.json	nickname	name	フレイム王国の王子
+ACTOR_16_nickname	Actors.json	nickname	name	食べるの大好き
+ACTOR_17_nickname	Actors.json	nickname	name	天才と呼ばれる若き騎士
+ACTOR_18_nickname	Actors.json	nickname	name	ウィンダム騎士団長代行
+ACTOR_19_nickname	Actors.json	nickname	name	フレイム王国の国王
+ACTOR_20_nickname	Actors.json	nickname	name	フレイム王国の王子
+ACTOR_21_nickname	Actors.json	nickname	name	セイリューの前当主
+ACTOR_22_nickname	Actors.json	nickname	name	セイリューの長老
+ACTOR_23_nickname	Actors.json	nickname	name	自他ともに認める天才騎士
+ACTOR_24_nickname	Actors.json	nickname	name	ウィンダム王国の国王
+ACTOR_25_nickname	Actors.json	nickname	name	セイリュー鍛冶屋の娘
+ACTOR_26_nickname	Actors.json	nickname	name	セイリュー農家の息子
+ACTOR_30_nickname	Actors.json	nickname	name	炭鉱夫
+ACTOR_31_nickname	Actors.json	nickname	name	セイリュー領主
+ACTOR_32_nickname	Actors.json	nickname	name	フレイム王子
+ACTOR_33_nickname	Actors.json	nickname	name	忍者犬
 DB_Classes_1_name	Classes.json	Classes.json #1 (新米騎士)	name	新米騎士
 DB_Classes_2_name	Classes.json	Classes.json #2 (騎士隊長)	name	騎士隊長
 DB_Classes_3_name	Classes.json	Classes.json #3 (風の紋章の継承者)	name	風の紋章の継承者
@@ -453,141 +1068,32 @@ DB_States_13_name	States.json	States.json #13 (気絶)	name	気絶
 DB_States_14_name	States.json	States.json #14 (魔力暴走)	name	魔力暴走
 DB_States_15_name	States.json	States.json #15 (反撃の構え)	name	反撃の構え
 DB_States_16_name	States.json	States.json #16 (ナウーの力)	name	ナウーの力
-DB_Troops_1_name	Troops.json	Troops.json #1 (人食いコウモリ*3)	name	人食いコウモリ*3
-DB_Troops_2_name	Troops.json	Troops.json #2 (人食いネズミ*2)	name	人食いネズミ*2
-DB_Troops_3_name	Troops.json	Troops.json #3 (人食いグモ*2)	name	人食いグモ*2
-DB_Troops_4_name	Troops.json	Troops.json #4 (人食いコウモリ*2, 人食いネズミ)	name	人食いコウモリ*2, 人食いネズミ
-DB_Troops_5_name	Troops.json	Troops.json #5 (人食いコウモリ*2, 人食いグモ*2)	name	人食いコウモリ*2, 人食いグモ*2
-DB_Troops_6_name	Troops.json	Troops.json #6 (人食いネズミ*2, 人食いグモ*2)	name	人食いネズミ*2, 人食いグモ*2
-DB_Troops_7_name	Troops.json	Troops.json #7 (人食いグモ)	name	人食いグモ
-DB_Troops_8_name	Troops.json	Troops.json #8 (人食いグモ*3)	name	人食いグモ*3
-DB_Troops_9_name	Troops.json	Troops.json #9 (人食いイヌ)	name	人食いイヌ
-DB_Troops_10_name	Troops.json	Troops.json #10 (人食いハチ)	name	人食いハチ
-DB_Troops_11_name	Troops.json	Troops.json #11 (人食いハチ*2)	name	人食いハチ*2
-DB_Troops_12_name	Troops.json	Troops.json #12 (人食い草*2)	name	人食い草*2
-DB_Troops_13_name	Troops.json	Troops.json #13 (新米バンデッド)	name	新米バンデッド
-DB_Troops_14_name	Troops.json	Troops.json #14 (ナウー本番戦闘)	name	ナウー本番戦闘
-DB_Troops_15_name	Troops.json	Troops.json #15 (娘さん)	name	娘さん
-DB_Troops_16_name	Troops.json	Troops.json #16 (ナウー自動戦闘)	name	ナウー自動戦闘
-DB_Troops_17_name	Troops.json	Troops.json #17 (デザートウルフ)	name	デザートウルフ
-DB_Troops_18_name	Troops.json	Troops.json #18 (デザートウルフ*2)	name	デザートウルフ*2
-DB_Troops_19_name	Troops.json	Troops.json #19 (マムシ)	name	マムシ
-DB_Troops_20_name	Troops.json	Troops.json #20 (ハブ)	name	ハブ
-DB_Troops_21_name	Troops.json	Troops.json #21 (アオダイショー)	name	アオダイショー
-DB_Troops_22_name	Troops.json	Troops.json #22 (アオダイショー, マムシ)	name	アオダイショー, マムシ
-DB_Troops_23_name	Troops.json	Troops.json #23 (ハブ, アオダイショー)	name	ハブ, アオダイショー
-DB_Troops_24_name	Troops.json	Troops.json #24 (マムシ*2)	name	マムシ*2
-DB_Troops_25_name	Troops.json	Troops.json #25 (ハブ, マムシ, アオダイショー)	name	ハブ, マムシ, アオダイショー
-DB_Troops_26_name	Troops.json	Troops.json #26 (動く人形*3)	name	動く人形*3
-DB_Troops_27_name	Troops.json	Troops.json #27 (火牛)	name	火牛
-DB_Troops_28_name	Troops.json	Troops.json #28 (炎のアクマ)	name	炎のアクマ
-DB_Troops_29_name	Troops.json	Troops.json #29 (風のアクマ)	name	風のアクマ
-DB_Troops_30_name	Troops.json	Troops.json #30 (氷のアクマ)	name	氷のアクマ
-DB_Troops_31_name	Troops.json	Troops.json #31 (動く人形*2)	name	動く人形*2
-DB_Troops_32_name	Troops.json	Troops.json #32 (動く人形)	name	動く人形
-DB_Troops_33_name	Troops.json	Troops.json #33 (火牛)	name	火牛
-DB_Troops_34_name	Troops.json	Troops.json #34 (炎のアクマ, 風のアクマ, 氷のアクマ)	name	炎のアクマ, 風のアクマ, 氷のアクマ
-DB_Troops_35_name	Troops.json	Troops.json #35 (ミケーネ, 青龍)	name	ミケーネ, 青龍
-DB_Troops_36_name	Troops.json	Troops.json #36 (ミケーネ)	name	ミケーネ
-DB_Troops_37_name	Troops.json	Troops.json #37 (火食い鳥*4, 火牛)	name	火食い鳥*4, 火牛
-DB_Troops_38_name	Troops.json	Troops.json #38 (サチコ*3)	name	サチコ*3
-DB_Troops_39_name	Troops.json	Troops.json #39 (サチコ*2, 火牛)	name	サチコ*2, 火牛
-DB_Troops_41_name	Troops.json	Troops.json #41 (ナウー2回目)	name	ナウー2回目
-DB_Troops_42_name	Troops.json	Troops.json #42 (ひとつ目のアクマ)	name	ひとつ目のアクマ
-DB_Troops_43_name	Troops.json	Troops.json #43 (操られたピピン)	name	操られたピピン
-DB_Troops_45_name	Troops.json	Troops.json #45 (火吹きイヌ)	name	火吹きイヌ
-DB_Troops_46_name	Troops.json	Troops.json #46 (火牛)	name	火牛
-DB_Troops_47_name	Troops.json	Troops.json #47 (サチコ, 火牛)	name	サチコ, 火牛
-DB_Troops_48_name	Troops.json	Troops.json #48 (雷牛)	name	雷牛
-DB_Troops_49_name	Troops.json	Troops.json #49 (雷牛, サチコ)	name	雷牛, サチコ
-DB_Troops_50_name	Troops.json	Troops.json #50 (火食い鳥*2, 火牛)	name	火食い鳥*2, 火牛
-DB_Troops_51_name	Troops.json	Troops.json #51 (火吹きイヌ*2)	name	火吹きイヌ*2
-DB_Troops_52_name	Troops.json	Troops.json #52 (火食い鳥*2, 火吹きイヌ)	name	火食い鳥*2, 火吹きイヌ
-DB_Troops_53_name	Troops.json	Troops.json #53 (サチコ*3)	name	サチコ*3
-DB_Troops_54_name	Troops.json	Troops.json #54 (火牛, 雷牛)	name	火牛, 雷牛
-DB_Troops_55_name	Troops.json	Troops.json #55 (てすと)	name	てすと
-DB_Troops_56_name	Troops.json	Troops.json #56 (焼き焦げた人形*2, 凍りついた人形*2)	name	焼き焦げた人形*2, 凍りついた人形*2
-DB_Troops_57_name	Troops.json	Troops.json #57 (生えてきた目玉*2)	name	生えてきた目玉*2
-DB_Troops_58_name	Troops.json	Troops.json #58 (生えてきた目玉*3)	name	生えてきた目玉*3
-DB_Troops_59_name	Troops.json	Troops.json #59 (踊り狂うアクマ)	name	踊り狂うアクマ
-DB_Troops_60_name	Troops.json	Troops.json #60 (雷を帯びた妖精)	name	雷を帯びた妖精
-DB_Troops_61_name	Troops.json	Troops.json #61 (雷を帯びた妖精*2)	name	雷を帯びた妖精*2
-DB_Troops_62_name	Troops.json	Troops.json #62 (セイレーン)	name	セイレーン
-DB_Troops_63_name	Troops.json	Troops.json #63 (焼き焦げた人形, セイレーン, 凍りついた人形)	name	焼き焦げた人形, セイレーン, 凍りついた人形
-DB_Troops_64_name	Troops.json	Troops.json #64 (生えてきた目玉*2, 踊り狂うアクマ)	name	生えてきた目玉*2, 踊り狂うアクマ
-DB_Troops_65_name	Troops.json	Troops.json #65 (凍りついた人形, 火吹きイヌ, 焼き焦げた人形)	name	凍りついた人形, 火吹きイヌ, 焼き焦げた人形
-DB_Troops_66_name	Troops.json	Troops.json #66 (雷を帯びた妖精*2, 踊り狂うアクマ)	name	雷を帯びた妖精*2, 踊り狂うアクマ
-DB_Troops_67_name	Troops.json	Troops.json #67 (雷を帯びた妖精*2, セイレーン)	name	雷を帯びた妖精*2, セイレーン
-DB_Troops_68_name	Troops.json	Troops.json #68 (雷を帯びた妖精*2, 雷牛)	name	雷を帯びた妖精*2, 雷牛
-DB_Troops_69_name	Troops.json	Troops.json #69 (凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形)	name	凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形
-DB_Troops_70_name	Troops.json	Troops.json #70 (焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形)	name	焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形
-DB_Troops_71_name	Troops.json	Troops.json #71 (踊り狂うアクマ*3)	name	踊り狂うアクマ*3
-DB_Troops_72_name	Troops.json	Troops.json #72 (生えてきた目玉*4)	name	生えてきた目玉*4
-DB_Troops_74_name	Troops.json	Troops.json #74 (ヤバミネーション)	name	ヤバミネーション
-DB_Troops_75_name	Troops.json	Troops.json #75 (暗くかがやく龍)	name	暗くかがやく龍
-DB_Troops_76_name	Troops.json	Troops.json #76 (ヤバミネーションざこ)	name	ヤバミネーションざこ
-DB_Troops_77_name	Troops.json	Troops.json #77 (暗くかがやく龍ざこ)	name	暗くかがやく龍ざこ
-DB_Troops_78_name	Troops.json	Troops.json #78 (大魔道士ピケピケ)	name	大魔道士ピケピケ
-DB_Troops_79_name	Troops.json	Troops.json #79 (ミケーネ)	name	ミケーネ
-DB_Troops_80_name	Troops.json	Troops.json #80 (ナウー)	name	ナウー
-DB_Troops_81_name	Troops.json	Troops.json #81 (魔王ダフィール一回目)	name	魔王ダフィール一回目
-DB_Troops_82_name	Troops.json	Troops.json #82 (魔王ダフィール本番)	name	魔王ダフィール本番
-DB_Troops_83_name	Troops.json	Troops.json #83 (大魔王ダフィール)	name	大魔王ダフィール
-DB_Troops_84_name	Troops.json	Troops.json #84 (ピケピケ)	name	ピケピケ
-DB_Troops_85_name	Troops.json	Troops.json #85 (人食いバット*3)	name	人食いバット*3
-DB_Troops_86_name	Troops.json	Troops.json #86 (人食いラット*2)	name	人食いラット*2
-DB_Troops_87_name	Troops.json	Troops.json #87 (人食いスパイダー*2)	name	人食いスパイダー*2
-DB_Troops_88_name	Troops.json	Troops.json #88 (人食いバット*2, 人食いラット)	name	人食いバット*2, 人食いラット
-DB_Troops_89_name	Troops.json	Troops.json #89 (人食いバット*2, 人食いスパイダー*2)	name	人食いバット*2, 人食いスパイダー*2
-DB_Troops_90_name	Troops.json	Troops.json #90 (人食いラット*2, 人食いスパイダー*2)	name	人食いラット*2, 人食いスパイダー*2
-DB_Troops_91_name	Troops.json	Troops.json #91 (人食いスパイダー)	name	人食いスパイダー
-DB_Troops_92_name	Troops.json	Troops.json #92 (人食いスパイダー*3)	name	人食いスパイダー*3
-DB_Troops_93_name	Troops.json	Troops.json #93 (人食いドッグ)	name	人食いドッグ
-DB_Troops_94_name	Troops.json	Troops.json #94 (狂気のジャクリーン)	name	狂気のジャクリーン
-DB_Troops_95_name	Troops.json	Troops.json #95 (ナウー本番戦闘　裏)	name	ナウー本番戦闘　裏
-DB_Troops_96_name	Troops.json	Troops.json #96 (火のサムライ)	name	火のサムライ
-DB_Troops_97_name	Troops.json	Troops.json #97 (風のサムライ)	name	風のサムライ
-DB_Troops_98_name	Troops.json	Troops.json #98 (氷のサムライ)	name	氷のサムライ
-DB_Troops_99_name	Troops.json	Troops.json #99 (髪が伸びる人形*2)	name	髪が伸びる人形*2
-DB_Troops_100_name	Troops.json	Troops.json #100 (髪が伸びる人形)	name	髪が伸びる人形
-DB_Troops_101_name	Troops.json	Troops.json #101 (焔牛)	name	焔牛
-DB_Troops_102_name	Troops.json	Troops.json #102 (サムライボス用)	name	サムライボス用
-DB_Troops_103_name	Troops.json	Troops.json #103 (火のサムライ, 氷のサムライ)	name	火のサムライ, 氷のサムライ
-DB_Troops_104_name	Troops.json	Troops.json #104 (氷のサムライ, 風のサムライ)	name	氷のサムライ, 風のサムライ
-DB_Troops_105_name	Troops.json	Troops.json #105 (髪が伸びる人形*3)	name	髪が伸びる人形*3
-DB_Troops_106_name	Troops.json	Troops.json #106 (ミケーネ裏)	name	ミケーネ裏
-DB_Troops_107_name	Troops.json	Troops.json #107 (ナウー, ミケーネ)	name	ナウー, ミケーネ
-DB_Troops_108_name	Troops.json	Troops.json #108 (ダフィール)	name	ダフィール
-DB_Troops_109_name	Troops.json	Troops.json #109 (操られたピピン　裏)	name	操られたピピン　裏
-DB_Troops_110_name	Troops.json	Troops.json #110 (雲ガメ　ボス)	name	雲ガメ　ボス
-DB_Troops_111_name	Troops.json	Troops.json #111 (雷イヌ　ボス)	name	雷イヌ　ボス
-DB_Troops_112_name	Troops.json	Troops.json #112 (雲ガメ)	name	雲ガメ
-DB_Troops_113_name	Troops.json	Troops.json #113 (雷イヌ)	name	雷イヌ
-DB_Troops_114_name	Troops.json	Troops.json #114 (ひとつ目のアクマ)	name	ひとつ目のアクマ
-DB_Troops_115_name	Troops.json	Troops.json #115 (青い巨人)	name	青い巨人
-DB_Troops_116_name	Troops.json	Troops.json #116 (猛毒ヘビ*3)	name	猛毒ヘビ*3
-DB_Troops_117_name	Troops.json	Troops.json #117 (猛毒ヘビ*2)	name	猛毒ヘビ*2
-DB_Troops_118_name	Troops.json	Troops.json #118 (サヨコ)	name	サヨコ
-DB_Troops_119_name	Troops.json	Troops.json #119 (ダークフェアリー)	name	ダークフェアリー
-DB_Troops_120_name	Troops.json	Troops.json #120 (凍りついたヒノタマ)	name	凍りついたヒノタマ
-DB_Troops_121_name	Troops.json	Troops.json #121 (燃え盛るヒノタマ)	name	燃え盛るヒノタマ
-DB_Troops_122_name	Troops.json	Troops.json #122 (サヨコ, ダークフェアリー, 猛毒ヘビ)	name	サヨコ, ダークフェアリー, 猛毒ヘビ
-DB_Troops_123_name	Troops.json	Troops.json #123 (燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ)	name	燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ
-DB_Troops_124_name	Troops.json	Troops.json #124 (燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ)	name	燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ
-DB_Troops_125_name	Troops.json	Troops.json #125 (ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ)	name	ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ
-DB_Troops_126_name	Troops.json	Troops.json #126 (ダークフェアリー, 青い巨人)	name	ダークフェアリー, 青い巨人
-DB_Troops_127_name	Troops.json	Troops.json #127 (燃え盛るヒノタマ, 青い巨人)	name	燃え盛るヒノタマ, 青い巨人
-DB_Troops_128_name	Troops.json	Troops.json #128 (青い巨人, 凍りついたヒノタマ)	name	青い巨人, 凍りついたヒノタマ
-DB_Troops_129_name	Troops.json	Troops.json #129 (凄腕バンデッド)	name	凄腕バンデッド
-DB_Troops_130_name	Troops.json	Troops.json #130 (凄腕バンデッド, 凍りついたヒノタマ)	name	凄腕バンデッド, 凍りついたヒノタマ
-DB_Troops_131_name	Troops.json	Troops.json #131 (凄腕バンデッド, 燃え盛るヒノタマ)	name	凄腕バンデッド, 燃え盛るヒノタマ
-DB_Troops_132_name	Troops.json	Troops.json #132 (サヨコ, 凄腕バンデッド, 猛毒ヘビ)	name	サヨコ, 凄腕バンデッド, 猛毒ヘビ
-DB_Troops_133_name	Troops.json	Troops.json #133 (凄腕バンデッド, 青い巨人)	name	凄腕バンデッド, 青い巨人
-DB_Troops_135_name	Troops.json	Troops.json #135 (大魔道士ピケピケ　裏)	name	大魔道士ピケピケ　裏
-DB_Troops_136_name	Troops.json	Troops.json #136 (ミケーネ　裏)	name	ミケーネ　裏
-DB_Troops_137_name	Troops.json	Troops.json #137 (ナウー　裏)	name	ナウー　裏
-DB_Troops_138_name	Troops.json	Troops.json #138 (魔王ダフィール一回目　裏)	name	魔王ダフィール一回目　裏
-DB_Troops_139_name	Troops.json	Troops.json #139 (魔王ダフィール本番　裏)	name	魔王ダフィール本番　裏
-DB_Troops_140_name	Troops.json	Troops.json #140 (大魔王ダフィール　裏)	name	大魔王ダフィール　裏
-DB_Troops_141_name	Troops.json	Troops.json #141 (闇の王)	name	闇の王
-DB_Troops_142_name	Troops.json	Troops.json #142 (伝説のバンデッド)	name	伝説のバンデッド
+DB_Classes_1_name	Classes.json	Classes.json #1 (新米騎士)	name	新米騎士
+DB_Classes_2_name	Classes.json	Classes.json #2 (騎士隊長)	name	騎士隊長
+DB_Classes_3_name	Classes.json	Classes.json #3 (風の紋章の継承者)	name	風の紋章の継承者
+DB_Classes_4_name	Classes.json	Classes.json #4 (火の紋章の継承者)	name	火の紋章の継承者
+DB_Classes_5_name	Classes.json	Classes.json #5 (水の紋章の継承者)	name	水の紋章の継承者
+DB_Classes_6_name	Classes.json	Classes.json #6 (火と水の紋章の継承者)	name	火と水の紋章の継承者
+DB_Classes_7_name	Classes.json	Classes.json #7 (退役騎士)	name	退役騎士
+DB_Classes_8_name	Classes.json	Classes.json #8 (セイリューの村人)	name	セイリューの村人
+DB_Classes_9_name	Classes.json	Classes.json #9 (セイリューの領主)	name	セイリューの領主
+DB_Classes_10_name	Classes.json	Classes.json #10 (新米の偵察兵)	name	新米の偵察兵
+DB_Classes_11_name	Classes.json	Classes.json #11 (風の紋章さいご)	name	風の紋章さいご
+DB_Classes_12_name	Classes.json	Classes.json #12 (風の紋章の継承者)	name	風の紋章の継承者
+DB_Classes_13_name	Classes.json	Classes.json #13 (風の紋章の継承者)	name	風の紋章の継承者
+DB_Classes_14_name	Classes.json	Classes.json #14 (火の紋章さいご)	name	火の紋章さいご
+DB_Classes_15_name	Classes.json	Classes.json #15 (火の紋章の継承者)	name	火の紋章の継承者
+DB_Classes_16_name	Classes.json	Classes.json #16 (火の紋章の継承者)	name	火の紋章の継承者
+DB_Classes_17_name	Classes.json	Classes.json #17 (水の紋章さいご)	name	水の紋章さいご
+DB_Classes_18_name	Classes.json	Classes.json #18 (水の紋章の継承者)	name	水の紋章の継承者
+DB_Classes_19_name	Classes.json	Classes.json #19 (水の紋章の継承者)	name	水の紋章の継承者
+DB_Classes_20_name	Classes.json	Classes.json #20 (騎士隊長)	name	騎士隊長
+DB_Classes_21_name	Classes.json	Classes.json #21 (ウィンダム王国国王)	name	ウィンダム王国国王
+DB_Classes_22_name	Classes.json	Classes.json #22 (セイリューの村人)	name	セイリューの村人
+DB_Classes_23_name	Classes.json	Classes.json #23 (セイリューの村人)	name	セイリューの村人
+DB_Classes_24_name	Classes.json	Classes.json #24 (謎の魔力を得た騎士)	name	謎の魔力を得た騎士
+DB_Classes_25_name	Classes.json	Classes.json #25 (謎の魔力を得た王)	name	謎の魔力を得た王
+DB_Classes_26_name	Classes.json	Classes.json #26 (謎の魔力を得たサムライ)	name	謎の魔力を得たサムライ
+DB_Classes_27_name	Classes.json	Classes.json #27 (謎の魔力を得たサムライ)	name	謎の魔力を得たサムライ
+DB_Classes_29_name	Classes.json	Classes.json #29 (忍者犬)	name	忍者犬
+DB_Classes_30_name	Classes.json	Classes.json #30 (大地の勇者)	name	大地の勇者

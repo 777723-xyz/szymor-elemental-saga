@@ -1,0 +1,299 @@
+id	japanese	translation
+DB_Skills_100_message1	の燃える闘志が奇跡を起こす！	's burning fighting spirit works a miracle!
+DB_Skills_100_message2	ドコンジョウの魔法が発動！	The Guts spell activates!
+DB_Skills_102_message1	はダークヒールの魔法を発動した！	 casts the Dark Heal spell!
+DB_Skills_103_message1	はダークバリアの魔法を発動した！	 casts the Dark Barrier spell!
+DB_Skills_103_message2	魔法を吸い込む穴が現れた！	A hole that devours magic appears!
+DB_Skills_104_message1	はダークウィングの魔法を発動した！	 casts the Dark Wing spell!
+DB_Skills_104_message2	ピケピケの素早さが２倍になる！	Pikepike's agility doubles!
+DB_Skills_105_message1	はダークブリザードを発動！	 casts Dark Blizzard!
+DB_Skills_105_message2	漆黒のふぶきが、ウィンたちを襲う！	A jet-black blizzard assails the party!
+DB_Skills_106_message1	はダークファイアの魔法を発動！	 casts the Dark Fire spell!
+DB_Skills_106_message2	暗く燃え盛る炎が　ウィンたちを襲う！	Dark, blazing flames assault the party!
+DB_Skills_107_message1	はダークサンダーの魔法を発動！	 casts the Dark Thunder spell!
+DB_Skills_107_message2	黒いいなずまが　ウィンたちに降り注ぐ！	Black lightning rains down upon the party!
+DB_Skills_108_message1	はダークフレイムの魔法を発動！	 casts the Dark Flame spell!
+DB_Skills_108_message2	目の前が何も見えないまま焼かれる！！	You are burned, unable to see anything!!
+DB_Skills_109_message1	は黒くかがやく光線を放った！	 fires a darkly shining beam!
+DB_Skills_10_message1	は%1を唱えた！	 chants %1!
+DB_Skills_110_message1	はツナミの魔法を発動した！	 casts the Tsunami spell!
+DB_Skills_110_message2	しかし、ミケーネブリザードで相殺される！！	But it is canceled out by Mycenae Blizzard!!
+DB_Skills_111_message1	はミケーネビームを放った！！	 fires the Mycenae Beam!!
+DB_Skills_111_message2	ナガレは防いだが、すごい衝撃だ！！	Nagare blocks it, but the impact is immense!!
+DB_Skills_112_message1	がミケーネブリザードを発動！！	 activates Mycenae Blizzard!!
+DB_Skills_112_message2	しかし、ナガレはツナミを放ち、相殺した！！	But Nagare unleashes a Tsunami and cancels it out!!
+DB_Skills_113_message1	『はあああああ！！』	"""Haaaaaah!!"""
+DB_Skills_113_message2	ミケーネは鉄のムチを振り回した！！	Mycenae swings an iron whip!!
+DB_Skills_114_message1	『そこーーッ！！』	"""There—!!"""
+DB_Skills_114_message2	ミケーネは鋭くムチをしならせた！！	Mycenae cracks her whip sharply!!
+DB_Skills_115_message1	『足元がお留守だよ！！』	"""Your feet are wide open!!"""
+DB_Skills_115_message2	鉄のムチが、ナガレの足元を狙う！！	The iron whip strikes at Nagare's feet!!
+DB_Skills_116_message1	のミケーネバリア！！	's Mycenae Barrier!!
+DB_Skills_116_message2	ミケーネの身体を氷の鎧が包み込む！！	An armor of ice envelops Mycenae!!
+DB_Skills_118_message1	はホノオの足元を狙って振り回してきた！	 swings at Hono's feet!
+DB_Skills_118_message2	ホノオはタイミング合わせてジャンプした！	Hono times it and jumps!
+DB_Skills_119_message1	はホノオの頭部を狙った！！	 aims at Hono's head!!
+DB_Skills_11_message1	は走り込みながら剣を大きく薙ぎ払った！	 charges in, sweeping its sword in a wide arc!
+DB_Skills_120_message1	は素早く武器を振り回した！	 whirls its weapon swiftly!
+DB_Skills_121_message1	は気合を溜めて武器を振り下ろした！	 focuses its spirit and brings its weapon down!
+DB_Skills_122_message1	『隙あり…！！』	"""An opening...!!"""
+DB_Skills_122_message2	ホノオの反応が間に合わない！	Hono can't react in time!
+DB_Skills_124_message1	はダフィールファイアの魔法を発動！	 casts the Dafill Fire spell!
+DB_Skills_124_message2	巨大な火の玉が襲ってくる…！！	A colossal fireball comes hurtling...!!
+DB_Skills_125_message1	はダフィールファイアストームを発動！	 casts Dafill Firestorm!
+DB_Skills_125_message2	何もかもを焼き尽くす熱風が襲ってくる…！！	A scorching wind that burns all comes sweeping in...!!
+DB_Skills_126_message1	は両手の燃える剣で攻撃した！	 attacks with twin flaming swords!
+DB_Skills_127_message1	はふわりとジャンプした！	 leaps lightly!
+DB_Skills_127_message2	そして怒涛の連続斬りを放った！！	Then unleashes a torrent of slashes!!
+DB_Skills_128_message1	はフェイントで敵を惑わして突いた！	 feints to confuse the enemy, then thrusts!
+DB_Skills_129_message1	はこの一撃に賭けた…　『流し斬り！』	" stakes everything on this strike... ""Flowing Slash!"""
+DB_Skills_12_message1	は一瞬の隙をついて敵の懐に飛び込んだ！	 seizes a momentary opening and closes in!
+DB_Skills_130_message1	はダフィールファイアの魔法を発動！	 casts the Dafill Fire spell!
+DB_Skills_130_message2	ピピン『バクハツ！！』　相殺で威力が弱まる！！	"Pipin: ""Explosion!!"" The clash weakens its power!!"
+DB_Skills_131_message1	はダフィールファイアストームを発動！	 casts Dafill Firestorm!
+DB_Skills_131_message2	ピピン『ツナミ！！』　相殺で威力が弱まった！！	"Pipin: ""Tsunami!!"" The clash weakens its power!!"
+DB_Skills_132_message1	はダークヒールの魔法を発動した！	 casts the Dark Heal spell!
+DB_Skills_133_message1	は水の紋章を高くかかげた！	 raises the Water Crest high!
+DB_Skills_133_message2	テッペキの魔法！見えない壁がピピンたちを守る！	Iron Wall! An invisible barrier shields Pipin's group!
+DB_Skills_134_message1	『マンキンタン！！』	"""Mankintan!!"""
+DB_Skills_134_message2	マンキンタンの魔法が発動！！	The Mankintan spell activates!!
+DB_Skills_135_message1	はダークヒールの魔法を発動した！	 casts the Dark Heal spell!
+DB_Skills_136_message1	がミケーネブリザードを発動！！	 activates Mycenae Blizzard!!
+DB_Skills_136_message2	しかし、ピピンはツナミを放ち、相殺した！！	But Pipin unleashes a Tsunami and cancels it out!!
+DB_Skills_137_message1	のミケーネバリア！！	's Mycenae Barrier!!
+DB_Skills_137_message2	ダフィールの身体を氷の鎧が包み込む！！	An armor of ice envelops Dafill!!
+DB_Skills_138_message1	はダークサンダーの魔法を発動！	 casts the Dark Thunder spell!
+DB_Skills_138_message2	黒いいなずまが　ウィンたちに降り注ぐ！	Black lightning rains down upon the party!
+DB_Skills_139_message1	はダークバリアの魔法を発動した！	 casts the Dark Barrier spell!
+DB_Skills_139_message2	魔法を吸い込む穴が現れた！	A hole that devours magic appears!
+DB_Skills_13_message1	はウロチョロと周りを走り回った！	 scurries around restlessly!
+DB_Skills_140_message1	はベノムシャワーを発動！	 activates Venom Shower!
+DB_Skills_140_message2	毒の液体が霧状になって襲い来る！！	Venomous liquid attacks in a mist!!
+DB_Skills_141_message1	はダフィールフレアーを発動！	 activates Dafill Flare!
+DB_Skills_141_message2	突然の爆発に防ぐ手段がない…！！	There is no way to guard against the sudden explosion...!!
+DB_Skills_142_message1	はダークストームを発動！	 activates Dark Storm!
+DB_Skills_142_message2	何も見えないまま闇の刃に切り刻まれる…！！	Unable to see, you are slashed by blades of darkness...!!
+DB_Skills_143_message1	の凄まじい連続攻撃！！	's ferocious combo attack!!
+DB_Skills_144_message1	は巨大な尾で攻撃してきた！！	 attacks with its colossal tail!!
+DB_Skills_144_message2	ガードの上から吹き飛ばされる…！！	You are blasted away, guard and all...!!
+DB_Skills_146_message1	はカマイタチを発動！さらに！	 activates Kamaitachi! And then!
+DB_Skills_146_message2	ピピンがフェイント突きで攻撃した！！！	Pipin attacks with Feint Thrust!!!
+DB_Skills_147_message1	『ウィン！カマカゼだ！！』	"""Win! Kamakaze!!"""
+DB_Skills_147_message2	カマイタチとピピンの同時攻撃！！	A simultaneous strike by Kamaitachi and Pipin!!
+DB_Skills_148_message1	はピピンの剣にイカヅチを放った！！	 strikes Pipin's sword with Thunderclap!!
+DB_Skills_148_message2	ピピンの剣が稲妻の速度で敵を切り刻む！！	Pipin's blade, swift as lightning, carves into the enemy!!
+DB_Skills_149_message1	がふわりと宙に浮いた！	 floats lightly into the air!
+DB_Skills_149_message2	イカヅチの剣が敵を切り刻む！！	The Thunderclap blade carves into the enemy!!
+DB_Skills_14_message1	は勢いよく噛みついてきた！	 bites hard!
+DB_Skills_150_message1	は頭上に雷雲を呼び出した…！！	 summons a storm cloud overhead...!!
+DB_Skills_150_message2	ツナミに合わせてイカヅチが落ちる！！	Thunderclap strikes in tandem with the Tsunami!!
+DB_Skills_151_message1	『ツナミ…！』敵を水浸しにした！	"""Tsunami...!"" The enemy is drenched!"
+DB_Skills_151_message2	そこへウィンのイカヅチが落ちる…！！	Then Win's Thunderclap comes crashing down...!!
+DB_Skills_153_message1	はミケーネブリザードを発動した！！	 activates Mycenae Blizzard!!
+DB_Skills_153_message2	とてつもない冷気が　ウィンたちを襲う！！	A tremendous chill assails the party!!
+DB_Skills_154_message1	「最大出力よ…ッ！！」	"""Maximum output...!!"""
+DB_Skills_154_message2	最大出力のミケーネブリザードが発動…！！	A maximum-output Mycenae Blizzard activates...!!
+DB_Skills_155_message1	はダフィールファイアの魔法を発動！	 casts the Dafill Fire spell!
+DB_Skills_155_message2	巨大な火の玉が飛んでくる…！！	A colossal fireball comes flying...!!
+DB_Skills_156_message1	はダフィールファイアストームを発動！	 casts Dafill Firestorm!
+DB_Skills_156_message2	猛烈な熱風がウィンたちを襲う…！！	A violent heat wave assails the party...!!
+DB_Skills_157_message1	は鎌を振り回した！	 whirls a scythe!
+DB_Skills_158_message1	は足元を狙って鎌を振り払ってきた！	 swings its scythe at your feet!
+DB_Skills_159_message1	はツナミの魔法を発動した！！	 activates the Tsunami spell!!
+DB_Skills_159_message2	突然巨大な津波が現れた…！！	A colossal tsunami suddenly appears...!!
+DB_Skills_15_message1	は鋭い爪を振りかざした！	 raises sharp claws!
+DB_Skills_160_message1	はハヤテの魔法を発動した！	 activates the Hayate spell!
+DB_Skills_161_message1	はカマイタチの魔法を発動した！	 activates the Kamaitachi spell!
+DB_Skills_161_message2	足元をカマイタチが襲う！	A Kamaitachi strikes at your feet!
+DB_Skills_162_message1	はイカヅチの魔法を発動した！！	 activates the Thunderclap spell!!
+DB_Skills_162_message2	巨大なイナズマが発生した…！！	A colossal bolt of lightning forms...!!
+DB_Skills_163_message1	は猛毒の牙で噛みついてきた！	 bites with deadly-venom fangs!
+DB_Skills_164_message1	はフェイントで敵を惑わして突いた！	 feints to confuse the enemy, then thrusts!
+DB_Skills_165_message1	は走り込みながら刀を大きく薙ぎ払った！	 charges in, sweeping its blade in a wide arc!
+DB_Skills_166_message1	は狂戦士の舞を踊った！	 dances the berserker dance!
+DB_Skills_166_message2	味方全体の攻撃力が２倍にアップした！！	The whole party's attack power doubles!!
+DB_Skills_168_message1	はソードブレイカーを発動！	 activates Sword Breaker!
+DB_Skills_168_message2	短刀がこちらの武器を絡めとる！	A dagger entangles your weapon!
+DB_Skills_169_message1	は懐に飛び込んできた！	 closes in!
+DB_Skills_169_message2	腹部への攻撃だ！	An attack to the abdomen!
+DB_Skills_16_message1	はウロチョロと周りを飛び回った！	 flits around restlessly!
+DB_Skills_170_message1	は走り込んできた！！	 charges in!!
+DB_Skills_170_message2	擦れ違いざま急所を狙ってくる！！	It aims for a vital spot as it passes!!
+DB_Skills_171_message1	は懐に飛び込んできた！	 closes in!
+DB_Skills_171_message2	目くらまし攻撃だ！	A blinding attack!
+DB_Skills_172_message1	は身を隠した…　	 hides itself...
+DB_Skills_172_message2	そして背後から襲い掛かってきた！！	Then strikes from behind!!
+DB_Skills_173_message1	は　黒い風を　その身体にまとった…！	 wraps itself in a black wind...!
+DB_Skills_174_message1	はヒールポーションを取り出した！	 pulls out a Heal Potion!
+DB_Skills_174_message2	がぶ飲みしている！！	and gulps it down!!
+DB_Skills_175_message1	は懐に飛び込んできた！	 closes in!
+DB_Skills_175_message2	狙いはこちらの足元だ！！	The target is your feet!!
+DB_Skills_17_message1	は物凄い勢いで突進してきた！	 charges with tremendous force!
+DB_Skills_18_message1	は毒の牙で噛みついてきた！	 bites with venomous fangs!
+DB_Skills_19_message1	はネバネバした糸を吐き出した！	 spits sticky webbing!
+DB_Skills_1_message1	は%1を放った！	 unleashes %1!
+DB_Skills_20_message1	は敵の足元を狙って槍を振り払った！	 sweeps its spear at the enemy's feet!
+DB_Skills_21_message1	『秘剣！つばめ返し！！』	"""Secret art! Swallow Reversal!!"""
+DB_Skills_22_message1	は気合を溜めて大剣を振り下ろした！	 focuses its spirit and brings its great sword down!
+DB_Skills_23_message1	は毒の針で突き刺してきた！	 stabs with a poisoned needle!
+DB_Skills_24_message1	は眠りの花粉を吹き出した！	 blows out sleep pollen!
+DB_Skills_25_message1	は隙をついて敵の懐に飛び込んできた！	 seizes an opening and closes in!
+DB_Skills_26_message1	は足元を狙って槍を振り払ってきた！	 sweeps its spear at your feet!
+DB_Skills_27_message1	は物凄い勢いで突進してきた！	 charges with tremendous force!
+DB_Skills_28_message1	は敵の急所へ鋭く突きあげた！	 thrusts sharply at the enemy's vitals!
+DB_Skills_28_message2	敵は防御が間に合わない！	The enemy can't defend in time!
+DB_Skills_29_message1	はフェイントで敵を惑わして突いた！	 feints to confuse the enemy, then thrusts!
+DB_Skills_2_message1	は身の守りを固めた！	 hardens its guard!
+DB_Skills_30_message1	は風の紋章を高くかかげた！	 raises the Wind Crest high!
+DB_Skills_30_message2	ハヤテの魔法が発動！	The Hayate spell activates!
+DB_Skills_31_message1	は左腕を振り下ろした！	 swings its left arm down!
+DB_Skills_31_message2	敵の足元をカマイタチが襲う！	A Kamaitachi strikes at the enemy's feet!
+DB_Skills_32_message1	は足元を狙って武器を振り回してきた！	 whirls its weapon at your feet!
+DB_Skills_33_message1	は大きく振りかぶって攻撃してきた！	 winds up and attacks!
+DB_Skills_34_message1	は突然素早く攻撃してきた！	 suddenly attacks with blinding speed!
+DB_Skills_35_message1	は気合を溜めて武器を振り下ろした！	 focuses its spirit and brings its weapon down!
+DB_Skills_36_message1	は左拳を眼前で握りしめた！	 clenches its left fist before your eyes!
+DB_Skills_36_message2	敵の中心で爆発が起こった！	An explosion erupts at the enemy's center!
+DB_Skills_37_message1	は火の紋章を高くかかげた！	 raises the Fire Crest high!
+DB_Skills_37_message2	狂戦士の魔法が発動！力が溢れてくる！	The Berserker spell activates! Power surges forth!
+DB_Skills_38_message1	は大きく振りかぶって攻撃してきた！	 winds up and attacks!
+DB_Skills_39_message1	は敵の脳天めがけて武器を振り下ろした！	 brings its weapon down on the enemy's crown!
+DB_Skills_3_message1	のすばやい攻撃！	's swift attack!
+DB_Skills_40_message1	は踊るように回転して剣を振り回した！	 spins and whirls its sword as if dancing!
+DB_Skills_41_message1	は炎をまとった刀を振りかざした！	 raises a flame-wreathed blade!
+DB_Skills_42_message1	は雷をまとった刀を振りかざした！	 raises a lightning-wreathed blade!
+DB_Skills_43_message1	は氷をまとった刀を振りかざした！	 raises an ice-wreathed blade!
+DB_Skills_44_message1	はジンダイコの魔法を放った！	 casts the Jindaiko spell!
+DB_Skills_45_message1	はテッペキの魔法を放った！	 casts the Iron Wall spell!
+DB_Skills_46_message1	はシップウの魔法を放った！	 casts the Gale spell!
+DB_Skills_47_message1	は大きく薙ぎ払った！	 sweeps wide!
+DB_Skills_48_message1	の手のひらに澄んだ薬水が湧き出た！	's palm wells up with clear medicinal water!
+DB_Skills_48_message2	イヤシの魔法が発動！	The Heal spell activates!
+DB_Skills_49_message1	はイノチの魔法を発動！	 activates the Life spell!
+DB_Skills_49_message2	倒れた味方を優しい光が包み込む…	A gentle light envelops the fallen ally...
+DB_Skills_4_message1	の攻撃！	's attack!
+DB_Skills_50_message1	は水の紋章を高くかかげた！	 raises the Water Crest high!
+DB_Skills_50_message2	テッペキの魔法！見えない壁が現れた！	Iron Wall! An invisible barrier appears!
+DB_Skills_51_message1	は鉄のムチを振り回した！	 swings an iron whip!
+DB_Skills_52_message1	はダークブリザードを発動！	 casts Dark Blizzard!
+DB_Skills_52_message2	黒いふぶきが、ウィンたちを襲う！	A black blizzard assails the party!
+DB_Skills_53_message1	はダークファイアの魔法を発動！	 casts the Dark Fire spell!
+DB_Skills_53_message2	暗く燃え盛る炎が　ウィンたちを襲う！	Dark, blazing flames assault the party!
+DB_Skills_54_message1	はダークサンダーの魔法を発動！	 casts the Dark Thunder spell!
+DB_Skills_54_message2	黒いいなずまが　ウィンたちに降り注ぐ！	Black lightning rains down upon the party!
+DB_Skills_55_message1	は砂煙を巻き上げた！	 kicks up a cloud of sand!
+DB_Skills_55_message2	視界がふさがれていく…！	Your vision is being blocked...!
+DB_Skills_56_message1	は激しいふぶきを呼び出した！	 summons a fierce blizzard!
+DB_Skills_56_message2	とてつもない冷気が　ウィンたちを襲う！！	A tremendous chill assails the party!!
+DB_Skills_57_message1	『青龍よ！やっておしまい！！』	"""Seiryu! Finish them off!!"""
+DB_Skills_57_message2	青龍はミケーネを攻撃した！	Seiryu attacks Mycenae!
+DB_Skills_58_message1	の手のひらに澄んだ薬水が湧き出た！	's palm wells up with clear medicinal water!
+DB_Skills_58_message2	イヤシの魔法が発動！	The Heal spell activates!
+DB_Skills_59_message1	『いきなさい！青龍よ！』	"""Go! Seiryu!"""
+DB_Skills_59_message2	青龍はミケーネを攻撃した！	Seiryu attacks Mycenae!
+DB_Skills_5_message1	の攻撃！	's attack!
+DB_Skills_60_message1	は剣としっぽを振り回した！	 whirls its sword and tail!
+DB_Skills_61_message1	は恐ろしい叫び声をあげた！	 lets out a terrifying cry!
+DB_Skills_62_message1	は毒の牙で噛みついてきた！	 bites with venomous fangs!
+DB_Skills_63_message1	は足にしがみついてきた！	 clings to your leg!
+DB_Skills_65_message1	は凄まじい連続攻撃をしてきた！！	 unleashes a ferocious combo attack!!
+DB_Skills_65_message2	しかしホノオはその気配を感じ取っている！	But Hono senses the attack!
+DB_Skills_66_message1	の気絶攻撃がホノオの頭部を襲う！	's Stun Attack strikes at Hono's head!
+DB_Skills_66_message2	ホノオはすばやく身体の位置をずらした！	Hono swiftly shifts his body out of the way!
+DB_Skills_67_message1	はホノオの足元を狙って振り回してきた！	 swings at Hono's feet!
+DB_Skills_67_message2	ホノオはタイミング合わせてジャンプした！	Hono times it and jumps!
+DB_Skills_68_message1	の気合を溜めた攻撃！	's spirit-charged attack!
+DB_Skills_68_message2	ホノオ『こっちも気合で避ける…！！』	"Hono: ""I'll dodge with spirit too...!!"""
+DB_Skills_69_message1	のすばやい攻撃！	's swift attack!
+DB_Skills_6_message1	は逃げてしまった。	 fled.
+DB_Skills_70_message1	は医療キットを取り出した！	 pulls out a Medical Kit!
+DB_Skills_71_message1	はフェイントで敵を惑わして突いた！	 feints to confuse the enemy, then thrusts!
+DB_Skills_72_message1	はショックポーションを取り出した！	 pulls out a Shock Potion!
+DB_Skills_73_message1	はフェイントでウィンを惑わして突いた！	 feints to confuse Win, then thrusts!
+DB_Skills_73_message2	しかし、ウィンは惑わされない！	But Win is not fooled!
+DB_Skills_74_message1	はウィンの脳天めがけて振り下ろした！	 brings its weapon down on Win's crown!
+DB_Skills_74_message2	ウィンはすばやく身体の位置をずらした！	Win swiftly shifts his body out of the way!
+DB_Skills_75_message1	はカマイタチの魔法を発動！	 activates the Kamaitachi spell!
+DB_Skills_75_message2	しかしウィンには迷いがある…！	But Win hesitates...!
+DB_Skills_76_message1	のすばやい攻撃！	's swift attack!
+DB_Skills_77_message1	はフェイントでウィンを惑わして突いた！	 feints to confuse Win, then thrusts!
+DB_Skills_78_message1	のすばやい攻撃！	's swift attack!
+DB_Skills_79_message1	は　自分自身を攻撃した…！	 attacks itself...!
+DB_Skills_7_message1	は様子を見ている。	 watches the situation.
+DB_Skills_80_message1	は左手を高くかかげた！	 raises its left hand high!
+DB_Skills_80_message2	疾風がウィンたちの身体を包んだ！	A gale wraps itself around the party!
+DB_Skills_81_message1	の風の紋章が頭上に雷雲を呼ぶ…！	's Wind Crest summons a storm cloud overhead...!
+DB_Skills_81_message2	巨大なイナズマが発生し敵に落ちた！	A colossal bolt of lightning forms and strikes the enemy!
+DB_Skills_82_message1	は左拳を強く握りしめた…！	 clenches its left fist tightly...!
+DB_Skills_82_message2	敵の中心で大爆発が起こる…！！	A great explosion erupts at the enemy's center...!!
+DB_Skills_83_message1	は敵に背を向け、左手を宙へかかげた…	 turns its back to the enemy and raises its left hand skyward...
+DB_Skills_83_message2	突然巨大な津波が現れた…！！	A colossal tsunami suddenly appears...!!
+DB_Skills_84_message1	たちの頭上から薬水の雨が降り注ぐ！	's heads are blessed with a rain of medicinal water!
+DB_Skills_84_message2	イヤシノアメの魔法が発動！	The Healing Rain spell activates!
+DB_Skills_85_message1	は熱く燃える息を吐いた！	 breathes a blazing hot breath!
+DB_Skills_86_message1	は心地よい歌声で歌った！	 sings a soothing melody!
+DB_Skills_86_message2	眠くなってくる…！	You grow drowsy...!
+DB_Skills_87_message1	は弓で毒の矢を放ってきた！	 fires a poisoned arrow from its bow!
+DB_Skills_88_message1	は黒くかがやく光線を放った！	 fires a darkly shining beam!
+DB_Skills_89_message1	『まーんきーんたーん！！』	"""Maaankiintaan!!"""
+DB_Skills_89_message2	マンキンタンの魔法が発動！！	The Mankintan spell activates!!
+DB_Skills_8_message1	の手のひらに澄んだ薬水が湧き出た！	's palm wells up with clear medicinal water!
+DB_Skills_90_message1	は恐ろしい叫び声を上げた！！	 lets out a terrifying scream!!
+DB_Skills_91_message1	は敵の武器を狙って突いた！	 thrusts at the enemy's weapon!
+DB_Skills_91_message2	マンゴーシュが敵の武器を絡めとる！	The Main Gauche entangles the enemy's weapon!
+DB_Skills_92_message1	は剣を垂直に構え…　とつぜん突いた！	 holds its sword vertical... then thrusts without warning!
+DB_Skills_92_message2	目にも止まらぬ速さで連続突きを繰り出す！！	It unleashes a blur of successive thrusts!!
+DB_Skills_93_message1	は武器を頭上で大きく回転させた…	 whirls its weapon overhead...
+DB_Skills_93_message2	敵集団を凄まじい勢いで切り刻む！！	It carves through the enemy ranks with ferocious force!!
+DB_Skills_94_message1	は身を隠して敵集団の裏に回った…	 hides and circles behind the enemy ranks...
+DB_Skills_94_message2	隙を突いて敵集団の背後から襲い掛かった！！	Seizing an opening, it strikes from behind!!
+DB_Skills_95_message1	『真！つばめ返し！！』	"""True! Swallow Reversal!!"""
+DB_Skills_96_message1	はこの一撃に賭けた…　『流し斬り！』	" stakes everything on this strike... ""Flowing Slash!"""
+DB_Skills_97_message1	は回転する刃を振り回した！	 whirls a spinning blade!
+DB_Skills_97_message2	戦場が激しい金属の擦れる音で満たされる！	The battlefield fills with the screech of grinding metal!
+DB_Skills_98_message1	は恐ろしい叫び声をあげた！	 lets out a terrifying cry!
+DB_Skills_99_message1	は暗くかがやくブレスを吐いた！	 breathes a darkly shining breath!
+DB_Skills_99_message2	目の前が何も見えないまま焼かれる！！	You are burned, unable to see anything!!
+DB_Skills_9_message1	は%1を唱えた！	 chants %1!
+DB_States_10_message1	は深い眠りに落ちた！	 falls into a deep sleep!
+DB_States_10_message2	は深い眠りに落ちた！	 falls into a deep sleep!
+DB_States_10_message3	は眠り続けている。	 keeps sleeping.
+DB_States_10_message4	は目を覚ました！	 wakes up!
+DB_States_11_message1	の身体は強力な毒におかされた！	's body is stricken with powerful poison!
+DB_States_11_message2	の身体は強力な毒におかされた！	's body is stricken with powerful poison!
+DB_States_11_message4	の身体から猛毒が消えさった！	's deadly venom fades away!
+DB_States_12_message1	は転倒した！	 is knocked down!
+DB_States_12_message2	は地面に倒れた！	 falls to the ground!
+DB_States_12_message3	は起き上がれない！	 cannot get up!
+DB_States_12_message4	は起き上がった！	 gets back up!
+DB_States_13_message1	は気絶してしまった！	 is knocked unconscious!
+DB_States_13_message2	は気絶した！	 is stunned!
+DB_States_13_message3	は気絶している！	 is unconscious!
+DB_States_13_message4	は意識を回復した！	 regains consciousness!
+DB_States_14_message2	の魔力が暴走！！魔力が二倍になった！！	's magic runs wild!! Magic power doubles!!
+DB_States_14_message3	の魔力は暴走している！！	's magic is running wild!!
+DB_States_15_message2	は反撃の構えを取った！！	 assumes a counter stance!!
+DB_States_15_message3	は反撃の構えを取っている！！	 is poised to counter!!
+DB_States_16_message2	は反撃の構えを取った！！	 assumes a counter stance!!
+DB_States_16_message3	はスキのない構えを取っている！！	 stands in a flawless guard!!
+DB_States_1_message1	は倒れた！	 has fallen!
+DB_States_1_message2	を倒した！	 has been defeated!
+DB_States_1_message4	は立ち上がった！	 gets back up!
+DB_States_4_message1	の身体は毒におかされた！	's body is stricken with poison!
+DB_States_4_message2	の身体は毒におかされた！	's body is stricken with poison!
+DB_States_4_message4	の身体から毒が消えさった！	's poison fades away!
+DB_States_5_message1	は暗闇に閉ざされた！	 is shrouded in darkness!
+DB_States_5_message2	を暗闇に閉ざした！	 has been shrouded in darkness!
+DB_States_5_message4	の暗闇が消えた！	's darkness fades away!
+DB_States_6_message1	は言葉を発せなくなった！	 is silenced!
+DB_States_6_message2	の魔法を封じた！	's magic has been sealed!
+DB_States_6_message4	の沈黙が解けた！	's silence lifts!
+DB_States_7_message1	は怒りに我を忘れた！	 flies into a rage!
+DB_States_7_message2	を激しく怒らせた！	 has been driven into a rage!
+DB_States_7_message4	は我に返った！	 snaps back to its senses!
+DB_States_8_message1	はパニック状態に陥った！	 falls into a panic!
+DB_States_8_message2	はパニック状態に陥った！	 falls into a panic!
+DB_States_8_message4	は冷静さを取り戻した！	 regains its composure!
+DB_States_9_message1	は操られてしまった！	 has been controlled!
+DB_States_9_message2	を操った！	 has been controlled!
+DB_States_9_message4	は我に返った！	 snaps back to its senses!
