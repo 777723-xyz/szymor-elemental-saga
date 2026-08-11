@@ -10076,7 +10076,7 @@ MAP76_e24_p0_1	Map076.json	0	dialogue	警備兵ピロシキン：	Piroshkin, Gua
 MAP76_e24_p0_2	Map076.json	0	dialogue	俺は歴戦の勇士なんで、こんな任務軽いっすよ	I'm a battle-hardened veteran, so this mission's a breeze.
 MAP76_e25_p0_1	Map076.json	0	dialogue	警備兵カメマル：	Kamemaru, Guard:
 MAP76_e25_p0_2	Map076.json	0	dialogue	どうも状態異常使ってくる魔物が多いね。	There sure are a lot of monsters using ailments.
-MAP76_e25_p0_3	Map076.json	0	dialogue	万金丹を多めに買っておいた方がよさそっす。	
+MAP76_e25_p0_3	Map076.json	0	dialogue	万金丹を多めに買っておいた方がよさそっす。	Better to stock up on Mankintan.
 MAP76_e26_p0_1	Map076.json	0	dialogue	武者修行帰りの騎士ヘヴィ：	Heavy, Knight Home from Training:
 MAP76_e26_p0_2	Map076.json	0	dialogue	ライスボールとか万金丹とか、売っている街で	Did you know rice balls, Mankintan, and the like
 MAP76_e26_p0_3	Map076.json	0	dialogue	微妙に値段違うの知ってるか？	cost slightly different amounts by town?
@@ -10201,166 +10201,166 @@ MAP78_e5_p0_6_c4	Map078.json	choice	choice	ウィンダム城	Windam Castle
 MAP78_e6_p0_1	Map078.json	0	dialogue	ナガレ：	Nagare:
 MAP78_e6_p0_11	Map078.json	0	dialogue	ホノオ：	Hono:
 MAP78_e6_p0_12	Map078.json	0	dialogue	まー、どのみちここまで来といて、	Well, having come this far,
-MAP78_e6_p0_13	Map078.json	0	dialogue	今更引き返すつもりはねーけど。	
+MAP78_e6_p0_13	Map078.json	0	dialogue	今更引き返すつもりはねーけど。	Not that I plan to turn back now.
 MAP78_e6_p0_15	Map078.json	0	dialogue	ホノオ：	Hono:
-MAP78_e6_p0_16	Map078.json	0	dialogue	ウィン、どうする？	
-MAP78_e6_p0_17	Map078.json	0	dialogue	入っちまってもいいかー？	
+MAP78_e6_p0_16	Map078.json	0	dialogue	ウィン、どうする？	Win, what do you think?
+MAP78_e6_p0_17	Map078.json	0	dialogue	入っちまってもいいかー？	Should we just go in?
 MAP78_e6_p0_18_c0	Map078.json	choice	choice	入ろう	Let's go in
 MAP78_e6_p0_18_c1	Map078.json	choice	choice	引き返そう	Let's turn back
-MAP78_e6_p0_2	Map078.json	0	dialogue	…ここから先は、進んだら全てが終わるまで、	
+MAP78_e6_p0_2	Map078.json	0	dialogue	…ここから先は、進んだら全てが終わるまで、	...Once we go past here, until everything's over,
 MAP78_e6_p0_21	Map078.json	1	dialogue	ホノオ：	Hono:
 MAP78_e6_p0_22	Map078.json	1	dialogue	よっしゃー！	Alright!
 MAP78_e6_p0_23	Map078.json	1	dialogue	じゃあいくかーーーー！	Then let's go—!
 MAP78_e6_p0_29	Map078.json	1	dialogue	ナガレ：	Nagare:
-MAP78_e6_p0_3	Map078.json	0	dialogue	もう戻れない気がするな…。	
-MAP78_e6_p0_30	Map078.json	1	dialogue	確かに…　薬とか、もっと買っておいた方が	
-MAP78_e6_p0_31	Map078.json	1	dialogue	いいかも。	
+MAP78_e6_p0_3	Map078.json	0	dialogue	もう戻れない気がするな…。	I feel like we won't be able to go back...
+MAP78_e6_p0_30	Map078.json	1	dialogue	確かに…　薬とか、もっと買っておいた方が	True... we should stock up on more medicine
+MAP78_e6_p0_31	Map078.json	1	dialogue	いいかも。	and such.
 MAP78_e6_p0_5	Map078.json	0	dialogue	ホノオ：	Hono:
-MAP78_e6_p0_6	Map078.json	0	dialogue	なんだよそれ、カンか？	
+MAP78_e6_p0_6	Map078.json	0	dialogue	なんだよそれ、カンか？	What's that, a hunch?
 MAP78_e6_p0_8	Map078.json	0	dialogue	ナガレ：	Nagare:
-MAP78_e6_p0_9	Map078.json	0	dialogue	そうだよ。	
+MAP78_e6_p0_9	Map078.json	0	dialogue	そうだよ。	Yeah.
 MAP78_e6_p1_1	Map078.json	0	dialogue	ホノオ：	Hono:
 MAP78_e6_p1_2	Map078.json	0	dialogue	よっしゃー！	Alright!
 MAP78_e6_p1_3	Map078.json	0	dialogue	じゃあいくかーーーー！	Then let's go—!
 MAP78_e7_p0_12	Map078.json	0	dialogue	ホノオ：	Hono:
-MAP78_e7_p0_13	Map078.json	0	dialogue	おいおい…　なんだよココは！	
-MAP78_e7_p0_14	Map078.json	0	dialogue	街…？　いや、城…？　があったのか…？	
+MAP78_e7_p0_13	Map078.json	0	dialogue	おいおい…　なんだよココは！	Whoa... what is this place!?
+MAP78_e7_p0_14	Map078.json	0	dialogue	街…？　いや、城…？　があったのか…？	A town...? No, a castle...? It was here...?
 MAP78_e7_p0_16	Map078.json	0	dialogue	ナガレ：	Nagare:
-MAP78_e7_p0_17	Map078.json	0	dialogue	この地は未開の、無人の地のはずだ…	
-MAP78_e7_p0_18	Map078.json	0	dialogue	もっと大昔にはここにひとが住んでいたのか？	
+MAP78_e7_p0_17	Map078.json	0	dialogue	この地は未開の、無人の地のはずだ…	This land is supposed to be uncharted and uninhabited...
+MAP78_e7_p0_18	Map078.json	0	dialogue	もっと大昔にはここにひとが住んでいたのか？	Did people live here in the distant past?
 MAP78_e7_p0_20	Map078.json	0	dialogue	ホノオ：	Hono:
-MAP78_e7_p0_21	Map078.json	0	dialogue	なんか建物とかも…見た事ねえ感じだ。	
-MAP78_e7_p0_22	Map078.json	0	dialogue	オレらもしかして、歴史上の大発見してる…？	
+MAP78_e7_p0_21	Map078.json	0	dialogue	なんか建物とかも…見た事ねえ感じだ。	And the buildings... they don't look like anything I've seen.
+MAP78_e7_p0_22	Map078.json	0	dialogue	オレらもしかして、歴史上の大発見してる…？	Are we making a huge historical discovery...?
 MAP78_e7_p0_24	Map078.json	0	dialogue	ナガレ：	Nagare:
-MAP78_e7_p0_25	Map078.json	0	dialogue	そうかもな。	
+MAP78_e7_p0_25	Map078.json	0	dialogue	そうかもな。	Maybe.
 MAP78_e8_p0_11	Map078.json	0	dialogue	グラディウスを手に入れた！	
-MAP79_e1_p0_100	Map079.json	0	dialogue	色々教えてあげちゃっても構わないんだよねえ。	
+MAP79_e1_p0_100	Map079.json	0	dialogue	色々教えてあげちゃっても構わないんだよねえ。	I don't mind telling you all sorts of things, you know.
 MAP79_e1_p0_102	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_103	Map079.json	0	dialogue	ホノオ、乗せられるなって！	
-MAP79_e1_p0_104	Map079.json	0	dialogue	絶対にこいつは時間稼ぎしてるんだよ！	
+MAP79_e1_p0_103	Map079.json	0	dialogue	ホノオ、乗せられるなって！	Hono, don't get roped in!
+MAP79_e1_p0_104	Map079.json	0	dialogue	絶対にこいつは時間稼ぎしてるんだよ！	He's definitely just buying time!
 MAP79_e1_p0_106	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_107	Map079.json	0	dialogue	…青いのちょっと黙って！	
+MAP79_e1_p0_107	Map079.json	0	dialogue	…青いのちょっと黙って！	...Blue one, quiet down!
 MAP79_e1_p0_109	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_110	Map079.json	0	dialogue	えっ？　でも知りたくないか？	
+MAP79_e1_p0_110	Map079.json	0	dialogue	えっ？　でも知りたくないか？	Huh? But don't you want to know?
 MAP79_e1_p0_112	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_113	Map079.json	0	dialogue	知っても闇のエレメントが復活しちまったら	
-MAP79_e1_p0_114	Map079.json	0	dialogue	意味がないだろう！	
-MAP79_e1_p0_115	Map079.json	0	dialogue	それに、	
+MAP79_e1_p0_113	Map079.json	0	dialogue	知っても闇のエレメントが復活しちまったら	Even if we know, it'd mean nothing if the Dark Element
+MAP79_e1_p0_114	Map079.json	0	dialogue	意味がないだろう！	revives!
+MAP79_e1_p0_115	Map079.json	0	dialogue	それに、	Besides,
 MAP79_e1_p0_117	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_118	Map079.json	0	dialogue	そのあやしいガイコツが本当のことを	
-MAP79_e1_p0_119	Map079.json	0	dialogue	あたしたちに教えるなんて保証はない！	
+MAP79_e1_p0_118	Map079.json	0	dialogue	そのあやしいガイコツが本当のことを	there's no guarantee that shady skeleton
+MAP79_e1_p0_119	Map079.json	0	dialogue	あたしたちに教えるなんて保証はない！	would tell us the truth!
 MAP79_e1_p0_12	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p0_121	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_122	Map079.json	0	dialogue	うおい青いの！　せめて名前で呼べよ！！	
-MAP79_e1_p0_123	Map079.json	0	dialogue	この際ピカピカでもいいからさ…	
-MAP79_e1_p0_124	Map079.json	0	dialogue	ガイコツってなんだよーくやしーーー！！	
+MAP79_e1_p0_122	Map079.json	0	dialogue	うおい青いの！　せめて名前で呼べよ！！	Hey, blue one! At least call me by my name!!
+MAP79_e1_p0_123	Map079.json	0	dialogue	この際ピカピカでもいいからさ…	Even Pikapika would do at this point...
+MAP79_e1_p0_124	Map079.json	0	dialogue	ガイコツってなんだよーくやしーーー！！	Who's a skeleton—! So unfair!!
 MAP79_e1_p0_126	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_127	Map079.json	0	dialogue	じゃ、じゃあ…	
-MAP79_e1_p0_128	Map079.json	0	dialogue	触りだけ！　触りだけ急いで教えてくれ…	
-MAP79_e1_p0_129	Map079.json	0	dialogue	ピクピク！！	
-MAP79_e1_p0_13	Map079.json	0	dialogue	まあ、私は四天王筆頭…	
+MAP79_e1_p0_127	Map079.json	0	dialogue	じゃ、じゃあ…	Th-Then...
+MAP79_e1_p0_128	Map079.json	0	dialogue	触りだけ！　触りだけ急いで教えてくれ…	Just the gist! Hurry and tell us just the gist...
+MAP79_e1_p0_129	Map079.json	0	dialogue	ピクピク！！	Pikupiku!!
+MAP79_e1_p0_13	Map079.json	0	dialogue	まあ、私は四天王筆頭…	Well, I am the chief of the Four Generals...
 MAP79_e1_p0_131	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_132	Map079.json	0	dialogue	なんでわざわざケイレンさせたんだよ！？	
-MAP79_e1_p0_133	Map079.json	0	dialogue	でもまだ名前呼ぼうとするだけこっちの子は	
-MAP79_e1_p0_134	Map079.json	0	dialogue	いい子だなあ…	
+MAP79_e1_p0_132	Map079.json	0	dialogue	なんでわざわざケイレンさせたんだよ！？	Why'd you go and twitch the name like that!?
+MAP79_e1_p0_133	Map079.json	0	dialogue	でもまだ名前呼ぼうとするだけこっちの子は	But at least this one tries to say my name,
+MAP79_e1_p0_134	Map079.json	0	dialogue	いい子だなあ…	what a good kid...
 MAP79_e1_p0_136	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_137	Map079.json	0	dialogue	触りだけ教えてくれ、ピコピコ。	
+MAP79_e1_p0_137	Map079.json	0	dialogue	触りだけ教えてくれ、ピコピコ。	Just tell us the gist, Pikopiko.
 MAP79_e1_p0_139	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	
-MAP79_e1_p0_140	Map079.json	0	dialogue	いやお前のはわざとだろおおおおお！！？？	
-MAP79_e1_p0_141	Map079.json	0	dialogue	バトルになったら真っ先にやっつけるからな、	
-MAP79_e1_p0_142	Map079.json	0	dialogue	青いのは！！！	
+MAP79_e1_p0_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	So he's the strongest great mage of the Four Generals...!
+MAP79_e1_p0_140	Map079.json	0	dialogue	いやお前のはわざとだろおおおおお！！？？	No, yours is definitely on purpose—!!??
+MAP79_e1_p0_141	Map079.json	0	dialogue	バトルになったら真っ先にやっつけるからな、	If we fight, you're going down first,
+MAP79_e1_p0_142	Map079.json	0	dialogue	青いのは！！！	blue one!!
 MAP79_e1_p0_144	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_145	Map079.json	0	dialogue	ごめんちょっと喋り疲れた…　いいや、	
-MAP79_e1_p0_146	Map079.json	0	dialogue	じゃあ触りだけなるべく急いで教えてやろう…	
+MAP79_e1_p0_145	Map079.json	0	dialogue	ごめんちょっと喋り疲れた…　いいや、	Sorry, I'm tired of talking... ah well,
+MAP79_e1_p0_146	Map079.json	0	dialogue	じゃあ触りだけなるべく急いで教えてやろう…	I'll hurry and teach you just the gist...
 MAP79_e1_p0_148	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_149	Map079.json	0	dialogue	ゴクリ…	
-MAP79_e1_p0_15	Map079.json	0	dialogue	ピ！　ケ！　ピ！　ケ！様だからなあ！！！	
+MAP79_e1_p0_149	Map079.json	0	dialogue	ゴクリ…	(gulp)...
+MAP79_e1_p0_15	Map079.json	0	dialogue	ピ！　ケ！　ピ！　ケ！様だからなあ！！！	It's Pi! Ke! Pi! Ke! to you!!!
 MAP79_e1_p0_154	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_155	Map079.json	0	dialogue	あともう少しでこの土地と同じ毒の瘴気…	
-MAP79_e1_p0_156	Map079.json	0	dialogue	闇インフルエンザがエレメント大陸全土に	
-MAP79_e1_p0_157	Map079.json	0	dialogue	広がり、覆いつくす…！！	
+MAP79_e1_p0_155	Map079.json	0	dialogue	あともう少しでこの土地と同じ毒の瘴気…	Before long, the same poisonous miasma as this land—
+MAP79_e1_p0_156	Map079.json	0	dialogue	闇インフルエンザがエレメント大陸全土に	the Dark Flu—will spread across the entire
+MAP79_e1_p0_157	Map079.json	0	dialogue	広がり、覆いつくす…！！	Element Continent and cover it all...!!
 MAP79_e1_p0_159	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_160	Map079.json	0	dialogue	そしてすべての人間が不治の病気にかかり…	
-MAP79_e1_p0_161	Map079.json	0	dialogue	死んでしまうのだああああああああーー！！！	
+MAP79_e1_p0_160	Map079.json	0	dialogue	そしてすべての人間が不治の病気にかかり…	Then every human will fall to an incurable disease...
+MAP79_e1_p0_161	Map079.json	0	dialogue	死んでしまうのだああああああああーー！！！	and DIE—!!
 MAP79_e1_p0_163	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_164	Map079.json	0	dialogue	……は？　はああああああ！？	
+MAP79_e1_p0_164	Map079.json	0	dialogue	……は？　はああああああ！？	......What? Whaaa—!?
 MAP79_e1_p0_166	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_167	Map079.json	0	dialogue	思っていた以上にヤバイじゃないか！！	
-MAP79_e1_p0_168	Map079.json	0	dialogue	相手が病気じゃ…防ぎようも逃げようもない！！	
+MAP79_e1_p0_167	Map079.json	0	dialogue	思っていた以上にヤバイじゃないか！！	This is way worse than I thought!!
+MAP79_e1_p0_168	Map079.json	0	dialogue	相手が病気じゃ…防ぎようも逃げようもない！！	Against a disease... there's no guarding, no escaping!!
 MAP79_e1_p0_17	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p0_170	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_171	Map079.json	0	dialogue	さらにさらにさーーらーーーにーーーー！！	
+MAP79_e1_p0_171	Map079.json	0	dialogue	さらにさらにさーーらーーーにーーーー！！	And further—furthermore—even more!!
 MAP79_e1_p0_173	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_174	Map079.json	0	dialogue	我々四天王は王を戴くことにしたのだよ…	
-MAP79_e1_p0_175	Map079.json	0	dialogue	そう、キミらと同じように…闇のエレメントの	
-MAP79_e1_p0_176	Map079.json	0	dialogue	加護による闇の王国を作るのだあああああ！！	
+MAP79_e1_p0_174	Map079.json	0	dialogue	我々四天王は王を戴くことにしたのだよ…	We Four Generals have decided to crown a king...
+MAP79_e1_p0_175	Map079.json	0	dialogue	そう、キミらと同じように…闇のエレメントの	Yes, just like you—we'll build a Dark Kingdom
+MAP79_e1_p0_176	Map079.json	0	dialogue	加護による闇の王国を作るのだあああああ！！	blessed by the Dark Element!!
 MAP79_e1_p0_178	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_179	Map079.json	0	dialogue	あ？　王ってなんだよ…？　国…？	
-MAP79_e1_p0_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	
+MAP79_e1_p0_179	Map079.json	0	dialogue	あ？　王ってなんだよ…？　国…？	Huh? A king...? A kingdom...?
+MAP79_e1_p0_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	In other words, he's supposed to be the final boss...!!
 MAP79_e1_p0_181	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_182	Map079.json	0	dialogue	闇のエレメントパワー…それ自体は膨大で、	
-MAP79_e1_p0_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギー…	
-MAP79_e1_p0_184	Map079.json	0	dialogue	だが…人格は持たない。	
+MAP79_e1_p0_182	Map079.json	0	dialogue	闇のエレメントパワー…それ自体は膨大で、	Dark Element Power... in itself, it's vast—
+MAP79_e1_p0_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
+MAP79_e1_p0_184	Map079.json	0	dialogue	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p0_186	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	
+MAP79_e1_p0_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
 MAP79_e1_p0_188	Map079.json	0	dialogue	から生まれ出た闇の結晶に過ぎない…	
-MAP79_e1_p0_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	
-MAP79_e1_p0_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	
+MAP79_e1_p0_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
+MAP79_e1_p0_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
 MAP79_e1_p0_191	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_192	Map079.json	0	dialogue	四天王だけでは…　闇のエレメントが世界から	
-MAP79_e1_p0_193	Map079.json	0	dialogue	駆逐されるのを防げなかったのだ………	
-MAP79_e1_p0_194	Map079.json	0	dialogue	…だ、か、ら、こ、そ！！！！	
+MAP79_e1_p0_192	Map079.json	0	dialogue	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone... couldn't stop the Dark Element
+MAP79_e1_p0_193	Map079.json	0	dialogue	駆逐されるのを防げなかったのだ………	from being driven out of the world......
+MAP79_e1_p0_194	Map079.json	0	dialogue	…だ、か、ら、こ、そ！！！！	...And, so, that's, why!!!!
 MAP79_e1_p0_196	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_197	Map079.json	0	dialogue	だからこそ我々は闇のエレメントパワー自体に	
-MAP79_e1_p0_198	Map079.json	0	dialogue	人格を与える事にしたーーーーーーーー！！	
+MAP79_e1_p0_197	Map079.json	0	dialogue	だからこそ我々は闇のエレメントパワー自体に	That's why we decided to give the Dark Element Power
+MAP79_e1_p0_198	Map079.json	0	dialogue	人格を与える事にしたーーーーーーーー！！	itself a personality—!!
 MAP79_e1_p0_200	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_201	Map079.json	0	dialogue	膨大で強大な自然を司るパワー！！	
-MAP79_e1_p0_202	Map079.json	0	dialogue	それ自体が人格を持ち…	
-MAP79_e1_p0_203	Map079.json	0	dialogue	全てを己の意思で律する王となる…	
+MAP79_e1_p0_201	Map079.json	0	dialogue	膨大で強大な自然を司るパワー！！	The power governing vast, mighty nature!!
+MAP79_e1_p0_202	Map079.json	0	dialogue	それ自体が人格を持ち…	When that power itself gains a personality...
+MAP79_e1_p0_203	Map079.json	0	dialogue	全てを己の意思で律する王となる…	it becomes a king ruling all by its own will...
 MAP79_e1_p0_205	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_206	Map079.json	0	dialogue	大魔王の誕生だああああああああ！！	
+MAP79_e1_p0_206	Map079.json	0	dialogue	大魔王の誕生だああああああああ！！	The Great Demon King is born!!
 MAP79_e1_p0_208	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_209	Map079.json	0	dialogue	う、うお…	
+MAP79_e1_p0_209	Map079.json	0	dialogue	う、うお…	U-Whoa...
 MAP79_e1_p0_21	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_210	Map079.json	0	dialogue	話がデカ過ぎて全然わかんねーぜ…	
+MAP79_e1_p0_210	Map079.json	0	dialogue	話がデカ過ぎて全然わかんねーぜ…	This is all so huge I can't even follow...
 MAP79_e1_p0_212	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_213	Map079.json	0	dialogue	この地をすべて人間の住めない土地にして…	
-MAP79_e1_p0_214	Map079.json	0	dialogue	魔王とやらの治める闇の王国を作る…	
-MAP79_e1_p0_215	Map079.json	0	dialogue	そういうことかあああ、ピキピキーー！！	
+MAP79_e1_p0_213	Map079.json	0	dialogue	この地をすべて人間の住めない土地にして…	Turn this whole land into one where humans can't live...
+MAP79_e1_p0_214	Map079.json	0	dialogue	魔王とやらの治める闇の王国を作る…	and build a Dark Kingdom ruled by some Demon King...
+MAP79_e1_p0_215	Map079.json	0	dialogue	そういうことかあああ、ピキピキーー！！	So that's what it is, Pikipiki!!
 MAP79_e1_p0_217	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_218	Map079.json	0	dialogue	フハハハハハハ！！　血管が浮き出るほどに、	
-MAP79_e1_p0_219	Map079.json	0	dialogue	物凄く怒っているな、青いのー！！！	
-MAP79_e1_p0_22	Map079.json	0	dialogue	ピ…？　なんだって？	
-MAP79_e1_p0_220	Map079.json	0	dialogue	…え、もしかしていまの私の名前…？	
+MAP79_e1_p0_218	Map079.json	0	dialogue	フハハハハハハ！！　血管が浮き出るほどに、	Bwahahaha!! You're so angry the veins are popping out,
+MAP79_e1_p0_219	Map079.json	0	dialogue	物凄く怒っているな、青いのー！！！	blue one!!!
+MAP79_e1_p0_22	Map079.json	0	dialogue	ピ…？　なんだって？	Pi...? What did you say?
+MAP79_e1_p0_220	Map079.json	0	dialogue	…え、もしかしていまの私の名前…？	...Huh, is that my name just now...?
 MAP79_e1_p0_222	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_223	Map079.json	0	dialogue	しかし魔王を作る…闇のエレメンタルパワーに	
-MAP79_e1_p0_224	Map079.json	0	dialogue	人格を与えるには…　強靭な精神をもつ	
-MAP79_e1_p0_225	Map079.json	0	dialogue	依り代が必要だ…　よりしろな？	
+MAP79_e1_p0_223	Map079.json	0	dialogue	しかし魔王を作る…闇のエレメンタルパワーに	But to create the Demon King—to give the Dark Elemental Power
+MAP79_e1_p0_224	Map079.json	0	dialogue	人格を与えるには…　強靭な精神をもつ	a personality... requires a vessel with
+MAP79_e1_p0_225	Map079.json	0	dialogue	依り代が必要だ…　よりしろな？	a strong spirit... a vessel, right?
 MAP79_e1_p0_227	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_228	Map079.json	0	dialogue	つまり四天王が身を捧げる必要があった！	
-MAP79_e1_p0_229	Map079.json	0	dialogue	我々のみが、闇の力を用いて意思を発揮できる	
-MAP79_e1_p0_230	Map079.json	0	dialogue	特異な存在だからなーーーーー！！	
+MAP79_e1_p0_228	Map079.json	0	dialogue	つまり四天王が身を捧げる必要があった！	In other words, the Four Generals had to offer themselves!
+MAP79_e1_p0_229	Map079.json	0	dialogue	我々のみが、闇の力を用いて意思を発揮できる	Because we alone are unique beings who can exert will
+MAP79_e1_p0_230	Map079.json	0	dialogue	特異な存在だからなーーーーー！！	through the Dark power—!!
 MAP79_e1_p0_232	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_233	Map079.json	0	dialogue	ぐはっ！　も、もうダメだ…	
-MAP79_e1_p0_234	Map079.json	0	dialogue	ナガレーーー　かいせつをたのむーー！！！	
+MAP79_e1_p0_233	Map079.json	0	dialogue	ぐはっ！　も、もうダメだ…	Gah! I-I can't take it anymore...
+MAP79_e1_p0_234	Map079.json	0	dialogue	ナガレーーー　かいせつをたのむーー！！！	Nagare—! Please explain—!!
 MAP79_e1_p0_236	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_237	Map079.json	0	dialogue	…闇のエレメントそれ自体に人格を与えて	
-MAP79_e1_p0_238	Map079.json	0	dialogue	魔王にするためには、強い人格をもつ四天王が	
-MAP79_e1_p0_239	Map079.json	0	dialogue	身代わりというか本体になる必要がある…	
+MAP79_e1_p0_237	Map079.json	0	dialogue	…闇のエレメントそれ自体に人格を与えて	...To give the Dark Element itself a personality
+MAP79_e1_p0_238	Map079.json	0	dialogue	魔王にするためには、強い人格をもつ四天王が	and make it a Demon King, the Four Generals, with their strong personalities,
+MAP79_e1_p0_239	Map079.json	0	dialogue	身代わりというか本体になる必要がある…	must serve as the substitute—or rather, the body...
 MAP79_e1_p0_24	Map079.json	0	dialogue	ナガレ：	Nagare:
 MAP79_e1_p0_241	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_242	Map079.json	0	dialogue	つまり、貴様たちがここ最近あたしらの国に	
-MAP79_e1_p0_243	Map079.json	0	dialogue	姿を見せなかったのも、魔王になる為の準備を	
-MAP79_e1_p0_244	Map079.json	0	dialogue	していたから…　そういうことだなピコピコ！	
+MAP79_e1_p0_242	Map079.json	0	dialogue	つまり、貴様たちがここ最近あたしらの国に	In other words, you lot not showing your faces
+MAP79_e1_p0_243	Map079.json	0	dialogue	姿を見せなかったのも、魔王になる為の準備を	in our lands lately is because you were preparing
+MAP79_e1_p0_244	Map079.json	0	dialogue	していたから…　そういうことだなピコピコ！	to become the Demon King... that's it, isn't it, Pikopiko!
 MAP79_e1_p0_246	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_247	Map079.json	0	dialogue	そういうことだ、青いの！！	
-MAP79_e1_p0_248	Map079.json	0	dialogue	物分かりの良さに免じて名前イジリについては	
-MAP79_e1_p0_249	Map079.json	0	dialogue	この際もう面倒だし、いいよ、許す！！！！	
-MAP79_e1_p0_25	Map079.json	0	dialogue	時間が惜しいんだよ！	
+MAP79_e1_p0_247	Map079.json	0	dialogue	そういうことだ、青いの！！	Exactly, blue one!!
+MAP79_e1_p0_248	Map079.json	0	dialogue	物分かりの良さに免じて名前イジリについては	For your quick understanding, I'll forgive the name-teasing—
+MAP79_e1_p0_249	Map079.json	0	dialogue	この際もう面倒だし、いいよ、許す！！！！	it's too much hassle anyway, fine, you're forgiven!!!!
+MAP79_e1_p0_25	Map079.json	0	dialogue	時間が惜しいんだよ！	We don't have time!
 MAP79_e1_p0_251	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p0_252	Map079.json	0	dialogue	そんなことはさせないぜええええええ…	
-MAP79_e1_p0_253	Map079.json	0	dialogue	ピ…ピキじゃなくて…ピｋッカ…	
+MAP79_e1_p0_252	Map079.json	0	dialogue	そんなことはさせないぜええええええ…	I won't let you do that—!
+MAP79_e1_p0_253	Map079.json	0	dialogue	ピ…ピキじゃなくて…ピｋッカ…	Pi... not Piki... P-kka...
 MAP79_e1_p0_255	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p0_256	Map079.json	0	dialogue	この子いい子だな…	
 MAP79_e1_p0_257	Map079.json	0	dialogue	一生懸命名前言おうとしてるじゃないか…	
@@ -10486,133 +10486,133 @@ MAP79_e1_p0_95	Map079.json	0	dialogue	えっ…？　教えてくれるのか！
 MAP79_e1_p0_97	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p0_98	Map079.json	0	dialogue	四天王最強の私だから。当然キミたちを！！	
 MAP79_e1_p0_99	Map079.json	0	dialogue	ここで殺せるワケ。どうせ死ぬキミたちになら	
-MAP79_e1_p1_100	Map079.json	0	dialogue	色々教えてあげちゃっても構わないんだよねえ。	
+MAP79_e1_p1_100	Map079.json	0	dialogue	色々教えてあげちゃっても構わないんだよねえ。	I don't mind telling you all sorts of things, you know.
 MAP79_e1_p1_102	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_103	Map079.json	0	dialogue	ホノオ、乗せられるなって！	
-MAP79_e1_p1_104	Map079.json	0	dialogue	絶対にこいつは時間稼ぎしてるんだよ！	
+MAP79_e1_p1_103	Map079.json	0	dialogue	ホノオ、乗せられるなって！	Hono, don't get roped in!
+MAP79_e1_p1_104	Map079.json	0	dialogue	絶対にこいつは時間稼ぎしてるんだよ！	He's definitely just buying time!
 MAP79_e1_p1_106	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_107	Map079.json	0	dialogue	…青いのちょっと黙って！	
+MAP79_e1_p1_107	Map079.json	0	dialogue	…青いのちょっと黙って！	...Blue one, quiet down!
 MAP79_e1_p1_109	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_110	Map079.json	0	dialogue	えっ？　でも知りたくないか？	
+MAP79_e1_p1_110	Map079.json	0	dialogue	えっ？　でも知りたくないか？	Huh? But don't you want to know?
 MAP79_e1_p1_112	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_113	Map079.json	0	dialogue	知っても闇のエレメントが復活しちまったら	
-MAP79_e1_p1_114	Map079.json	0	dialogue	意味がないだろう！	
-MAP79_e1_p1_115	Map079.json	0	dialogue	それに、	
+MAP79_e1_p1_113	Map079.json	0	dialogue	知っても闇のエレメントが復活しちまったら	Even if we know, it'd mean nothing if the Dark Element
+MAP79_e1_p1_114	Map079.json	0	dialogue	意味がないだろう！	revives!
+MAP79_e1_p1_115	Map079.json	0	dialogue	それに、	Besides,
 MAP79_e1_p1_117	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_118	Map079.json	0	dialogue	そのあやしいガイコツが本当のことを	
-MAP79_e1_p1_119	Map079.json	0	dialogue	あたしたちに教えるなんて保証はない！	
+MAP79_e1_p1_118	Map079.json	0	dialogue	そのあやしいガイコツが本当のことを	there's no guarantee that shady skeleton
+MAP79_e1_p1_119	Map079.json	0	dialogue	あたしたちに教えるなんて保証はない！	would tell us the truth!
 MAP79_e1_p1_12	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p1_121	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_122	Map079.json	0	dialogue	うおい青いの！　せめて名前で呼べよ！！	
-MAP79_e1_p1_123	Map079.json	0	dialogue	この際ピカピカでもいいからさ…	
-MAP79_e1_p1_124	Map079.json	0	dialogue	ガイコツってなんだよーくやしーーー！！	
+MAP79_e1_p1_122	Map079.json	0	dialogue	うおい青いの！　せめて名前で呼べよ！！	Hey, blue one! At least call me by my name!!
+MAP79_e1_p1_123	Map079.json	0	dialogue	この際ピカピカでもいいからさ…	Even Pikapika would do at this point...
+MAP79_e1_p1_124	Map079.json	0	dialogue	ガイコツってなんだよーくやしーーー！！	Who's a skeleton—! So unfair!!
 MAP79_e1_p1_126	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_127	Map079.json	0	dialogue	じゃ、じゃあ…	
-MAP79_e1_p1_128	Map079.json	0	dialogue	触りだけ！　触りだけ急いで教えてくれ…	
-MAP79_e1_p1_129	Map079.json	0	dialogue	ピクピク！！	
-MAP79_e1_p1_13	Map079.json	0	dialogue	まあ、私は四天王筆頭…	
+MAP79_e1_p1_127	Map079.json	0	dialogue	じゃ、じゃあ…	Th-Then...
+MAP79_e1_p1_128	Map079.json	0	dialogue	触りだけ！　触りだけ急いで教えてくれ…	Just the gist! Hurry and tell us just the gist...
+MAP79_e1_p1_129	Map079.json	0	dialogue	ピクピク！！	Pikupiku!!
+MAP79_e1_p1_13	Map079.json	0	dialogue	まあ、私は四天王筆頭…	Well, I am the chief of the Four Generals...
 MAP79_e1_p1_131	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_132	Map079.json	0	dialogue	なんでわざわざケイレンさせたんだよ！？	
-MAP79_e1_p1_133	Map079.json	0	dialogue	でもまだ名前呼ぼうとするだけこっちの子は	
-MAP79_e1_p1_134	Map079.json	0	dialogue	いい子だなあ…	
+MAP79_e1_p1_132	Map079.json	0	dialogue	なんでわざわざケイレンさせたんだよ！？	Why'd you go and twitch the name like that!?
+MAP79_e1_p1_133	Map079.json	0	dialogue	でもまだ名前呼ぼうとするだけこっちの子は	But at least this one tries to say my name,
+MAP79_e1_p1_134	Map079.json	0	dialogue	いい子だなあ…	what a good kid...
 MAP79_e1_p1_136	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_137	Map079.json	0	dialogue	触りだけ教えてくれ、ピコピコ。	
+MAP79_e1_p1_137	Map079.json	0	dialogue	触りだけ教えてくれ、ピコピコ。	Just tell us the gist, Pikopiko.
 MAP79_e1_p1_139	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	
-MAP79_e1_p1_140	Map079.json	0	dialogue	いやお前のはわざとだろおおおおお！！？？	
-MAP79_e1_p1_141	Map079.json	0	dialogue	バトルになったら真っ先にやっつけるからな、	
-MAP79_e1_p1_142	Map079.json	0	dialogue	青いのは！！！	
+MAP79_e1_p1_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	So he's the strongest great mage of the Four Generals...!
+MAP79_e1_p1_140	Map079.json	0	dialogue	いやお前のはわざとだろおおおおお！！？？	No, yours is definitely on purpose—!!??
+MAP79_e1_p1_141	Map079.json	0	dialogue	バトルになったら真っ先にやっつけるからな、	If we fight, you're going down first,
+MAP79_e1_p1_142	Map079.json	0	dialogue	青いのは！！！	blue one!!
 MAP79_e1_p1_144	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_145	Map079.json	0	dialogue	ごめんちょっと喋り疲れた…　いいや、	
-MAP79_e1_p1_146	Map079.json	0	dialogue	じゃあ触りだけなるべく急いで教えてやろう…	
+MAP79_e1_p1_145	Map079.json	0	dialogue	ごめんちょっと喋り疲れた…　いいや、	Sorry, I'm tired of talking... ah well,
+MAP79_e1_p1_146	Map079.json	0	dialogue	じゃあ触りだけなるべく急いで教えてやろう…	I'll hurry and teach you just the gist...
 MAP79_e1_p1_148	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_149	Map079.json	0	dialogue	ゴクリ…	
-MAP79_e1_p1_15	Map079.json	0	dialogue	ピ！　ケ！　ピ！　ケ！様だからなあ！！！	
+MAP79_e1_p1_149	Map079.json	0	dialogue	ゴクリ…	(gulp)...
+MAP79_e1_p1_15	Map079.json	0	dialogue	ピ！　ケ！　ピ！　ケ！様だからなあ！！！	It's Pi! Ke! Pi! Ke! to you!!!
 MAP79_e1_p1_154	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_155	Map079.json	0	dialogue	あともう少しでこの土地と同じ毒の瘴気…	
-MAP79_e1_p1_156	Map079.json	0	dialogue	闇インフルエンザがエレメント大陸全土に	
-MAP79_e1_p1_157	Map079.json	0	dialogue	広がり、覆いつくす…！！	
+MAP79_e1_p1_155	Map079.json	0	dialogue	あともう少しでこの土地と同じ毒の瘴気…	Before long, the same poisonous miasma as this land—
+MAP79_e1_p1_156	Map079.json	0	dialogue	闇インフルエンザがエレメント大陸全土に	the Dark Flu—will spread across the entire
+MAP79_e1_p1_157	Map079.json	0	dialogue	広がり、覆いつくす…！！	Element Continent and cover it all...!!
 MAP79_e1_p1_159	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_160	Map079.json	0	dialogue	そしてすべての人間が不治の病気にかかり…	
-MAP79_e1_p1_161	Map079.json	0	dialogue	死んでしまうのだああああああああーー！！！	
+MAP79_e1_p1_160	Map079.json	0	dialogue	そしてすべての人間が不治の病気にかかり…	Then every human will fall to an incurable disease...
+MAP79_e1_p1_161	Map079.json	0	dialogue	死んでしまうのだああああああああーー！！！	and DIE—!!
 MAP79_e1_p1_163	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_164	Map079.json	0	dialogue	……は？　はああああああ！？	
+MAP79_e1_p1_164	Map079.json	0	dialogue	……は？　はああああああ！？	......What? Whaaa—!?
 MAP79_e1_p1_166	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_167	Map079.json	0	dialogue	思っていた以上にヤバイじゃないか！！	
-MAP79_e1_p1_168	Map079.json	0	dialogue	相手が病気じゃ…防ぎようも逃げようもない！！	
+MAP79_e1_p1_167	Map079.json	0	dialogue	思っていた以上にヤバイじゃないか！！	This is way worse than I thought!!
+MAP79_e1_p1_168	Map079.json	0	dialogue	相手が病気じゃ…防ぎようも逃げようもない！！	Against a disease... there's no guarding, no escaping!!
 MAP79_e1_p1_17	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p1_170	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_171	Map079.json	0	dialogue	さらにさらにさーーらーーーにーーーー！！	
+MAP79_e1_p1_171	Map079.json	0	dialogue	さらにさらにさーーらーーーにーーーー！！	And further—furthermore—even more!!
 MAP79_e1_p1_173	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_174	Map079.json	0	dialogue	我々四天王は王を戴くことにしたのだよ…	
-MAP79_e1_p1_175	Map079.json	0	dialogue	そう、キミらと同じように…闇のエレメントの	
-MAP79_e1_p1_176	Map079.json	0	dialogue	加護による闇の王国を作るのだあああああ！！	
+MAP79_e1_p1_174	Map079.json	0	dialogue	我々四天王は王を戴くことにしたのだよ…	We Four Generals have decided to crown a king...
+MAP79_e1_p1_175	Map079.json	0	dialogue	そう、キミらと同じように…闇のエレメントの	Yes, just like you—we'll build a Dark Kingdom
+MAP79_e1_p1_176	Map079.json	0	dialogue	加護による闇の王国を作るのだあああああ！！	blessed by the Dark Element!!
 MAP79_e1_p1_178	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_179	Map079.json	0	dialogue	あ？　王ってなんだよ…？　国…？	
-MAP79_e1_p1_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	
+MAP79_e1_p1_179	Map079.json	0	dialogue	あ？　王ってなんだよ…？　国…？	Huh? A king...? A kingdom...?
+MAP79_e1_p1_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	In other words, he's supposed to be the final boss...!!
 MAP79_e1_p1_181	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_182	Map079.json	0	dialogue	闇のエレメントパワー…それ自体は膨大で、	
-MAP79_e1_p1_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギー…	
-MAP79_e1_p1_184	Map079.json	0	dialogue	だが…人格は持たない。	
+MAP79_e1_p1_182	Map079.json	0	dialogue	闇のエレメントパワー…それ自体は膨大で、	Dark Element Power... in itself, it's vast—
+MAP79_e1_p1_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
+MAP79_e1_p1_184	Map079.json	0	dialogue	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p1_186	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	
+MAP79_e1_p1_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
 MAP79_e1_p1_188	Map079.json	0	dialogue	から生れ出た闇の結晶に過ぎない…	
-MAP79_e1_p1_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	
-MAP79_e1_p1_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	
+MAP79_e1_p1_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
+MAP79_e1_p1_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
 MAP79_e1_p1_191	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_192	Map079.json	0	dialogue	四天王だけでは…　闇のエレメントが世界から	
-MAP79_e1_p1_193	Map079.json	0	dialogue	駆逐されるのを防げなかったのだ………	
-MAP79_e1_p1_194	Map079.json	0	dialogue	…だ、か、ら、こ、そ！！！！	
+MAP79_e1_p1_192	Map079.json	0	dialogue	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone... couldn't stop the Dark Element
+MAP79_e1_p1_193	Map079.json	0	dialogue	駆逐されるのを防げなかったのだ………	from being driven out of the world......
+MAP79_e1_p1_194	Map079.json	0	dialogue	…だ、か、ら、こ、そ！！！！	...And, so, that's, why!!!!
 MAP79_e1_p1_196	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_197	Map079.json	0	dialogue	だからこそ我々は闇のエレメントパワー自体に	
-MAP79_e1_p1_198	Map079.json	0	dialogue	人格を与える事にしたーーーーーーーー！！	
+MAP79_e1_p1_197	Map079.json	0	dialogue	だからこそ我々は闇のエレメントパワー自体に	That's why we decided to give the Dark Element Power
+MAP79_e1_p1_198	Map079.json	0	dialogue	人格を与える事にしたーーーーーーーー！！	itself a personality—!!
 MAP79_e1_p1_200	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_201	Map079.json	0	dialogue	膨大で強大な自然を司るパワー！！	
-MAP79_e1_p1_202	Map079.json	0	dialogue	それ自体が人格を持ち…	
-MAP79_e1_p1_203	Map079.json	0	dialogue	全てを己の意思で律する王となる…	
+MAP79_e1_p1_201	Map079.json	0	dialogue	膨大で強大な自然を司るパワー！！	The power governing vast, mighty nature!!
+MAP79_e1_p1_202	Map079.json	0	dialogue	それ自体が人格を持ち…	When that power itself gains a personality...
+MAP79_e1_p1_203	Map079.json	0	dialogue	全てを己の意思で律する王となる…	it becomes a king ruling all by its own will...
 MAP79_e1_p1_205	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_206	Map079.json	0	dialogue	大魔王の誕生だああああああああ！！	
+MAP79_e1_p1_206	Map079.json	0	dialogue	大魔王の誕生だああああああああ！！	The Great Demon King is born!!
 MAP79_e1_p1_208	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_209	Map079.json	0	dialogue	う、うお…	
+MAP79_e1_p1_209	Map079.json	0	dialogue	う、うお…	U-Whoa...
 MAP79_e1_p1_21	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_210	Map079.json	0	dialogue	話がデカ過ぎて全然わかんねーぜ…	
+MAP79_e1_p1_210	Map079.json	0	dialogue	話がデカ過ぎて全然わかんねーぜ…	This is all so huge I can't even follow...
 MAP79_e1_p1_212	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_213	Map079.json	0	dialogue	この地をすべて人間の住めない土地にして…	
-MAP79_e1_p1_214	Map079.json	0	dialogue	魔王とやらの治める闇の王国を作る…	
-MAP79_e1_p1_215	Map079.json	0	dialogue	そういうことかあああ、ピキピキーー！！	
+MAP79_e1_p1_213	Map079.json	0	dialogue	この地をすべて人間の住めない土地にして…	Turn this whole land into one where humans can't live...
+MAP79_e1_p1_214	Map079.json	0	dialogue	魔王とやらの治める闇の王国を作る…	and build a Dark Kingdom ruled by some Demon King...
+MAP79_e1_p1_215	Map079.json	0	dialogue	そういうことかあああ、ピキピキーー！！	So that's what it is, Pikipiki!!
 MAP79_e1_p1_217	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_218	Map079.json	0	dialogue	フハハハハハハ！！　血管が浮き出るほどに、	
-MAP79_e1_p1_219	Map079.json	0	dialogue	物凄く怒っているな、青いのー！！！	
-MAP79_e1_p1_22	Map079.json	0	dialogue	ピ…？　なんだって？	
-MAP79_e1_p1_220	Map079.json	0	dialogue	…え、もしかしていまの私の名前…？	
+MAP79_e1_p1_218	Map079.json	0	dialogue	フハハハハハハ！！　血管が浮き出るほどに、	Bwahahaha!! You're so angry the veins are popping out,
+MAP79_e1_p1_219	Map079.json	0	dialogue	物凄く怒っているな、青いのー！！！	blue one!!!
+MAP79_e1_p1_22	Map079.json	0	dialogue	ピ…？　なんだって？	Pi...? What did you say?
+MAP79_e1_p1_220	Map079.json	0	dialogue	…え、もしかしていまの私の名前…？	...Huh, is that my name just now...?
 MAP79_e1_p1_222	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_223	Map079.json	0	dialogue	しかし魔王を作る…闇のエレメンタルパワーに	
-MAP79_e1_p1_224	Map079.json	0	dialogue	人格を与えるには…　強靭な精神をもつ	
-MAP79_e1_p1_225	Map079.json	0	dialogue	依り代が必要だ…　よりしろな？	
+MAP79_e1_p1_223	Map079.json	0	dialogue	しかし魔王を作る…闇のエレメンタルパワーに	But to create the Demon King—to give the Dark Elemental Power
+MAP79_e1_p1_224	Map079.json	0	dialogue	人格を与えるには…　強靭な精神をもつ	a personality... requires a vessel with
+MAP79_e1_p1_225	Map079.json	0	dialogue	依り代が必要だ…　よりしろな？	a strong spirit... a vessel, right?
 MAP79_e1_p1_227	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_228	Map079.json	0	dialogue	つまり四天王が身を捧げる必要があった！	
-MAP79_e1_p1_229	Map079.json	0	dialogue	我々のみが、闇の力を用いて意思を発揮できる	
-MAP79_e1_p1_230	Map079.json	0	dialogue	特異な存在だからなーーーーー！！	
+MAP79_e1_p1_228	Map079.json	0	dialogue	つまり四天王が身を捧げる必要があった！	In other words, the Four Generals had to offer themselves!
+MAP79_e1_p1_229	Map079.json	0	dialogue	我々のみが、闇の力を用いて意思を発揮できる	Because we alone are unique beings who can exert will
+MAP79_e1_p1_230	Map079.json	0	dialogue	特異な存在だからなーーーーー！！	through the Dark power—!!
 MAP79_e1_p1_232	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_233	Map079.json	0	dialogue	ぐはっ！　も、もうダメだ…	
-MAP79_e1_p1_234	Map079.json	0	dialogue	ナガレーーー　かいせつをたのむーー！！！	
+MAP79_e1_p1_233	Map079.json	0	dialogue	ぐはっ！　も、もうダメだ…	Gah! I-I can't take it anymore...
+MAP79_e1_p1_234	Map079.json	0	dialogue	ナガレーーー　かいせつをたのむーー！！！	Nagare—! Please explain—!!
 MAP79_e1_p1_236	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_237	Map079.json	0	dialogue	…闇のエレメントそれ自体に人格を与えて	
-MAP79_e1_p1_238	Map079.json	0	dialogue	魔王にするためには、強い人格をもつ四天王が	
-MAP79_e1_p1_239	Map079.json	0	dialogue	身代わりというか本体になる必要がある…	
+MAP79_e1_p1_237	Map079.json	0	dialogue	…闇のエレメントそれ自体に人格を与えて	...To give the Dark Element itself a personality
+MAP79_e1_p1_238	Map079.json	0	dialogue	魔王にするためには、強い人格をもつ四天王が	and make it a Demon King, the Four Generals, with their strong personalities,
+MAP79_e1_p1_239	Map079.json	0	dialogue	身代わりというか本体になる必要がある…	must serve as the substitute—or rather, the body...
 MAP79_e1_p1_24	Map079.json	0	dialogue	ナガレ：	Nagare:
 MAP79_e1_p1_241	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_242	Map079.json	0	dialogue	つまり、貴様たちがここ最近あたしらの国に	
-MAP79_e1_p1_243	Map079.json	0	dialogue	姿を見せなかったのも、魔王になる為の準備を	
-MAP79_e1_p1_244	Map079.json	0	dialogue	していたから…　そういうことだなピコピコ！	
+MAP79_e1_p1_242	Map079.json	0	dialogue	つまり、貴様たちがここ最近あたしらの国に	In other words, you lot not showing your faces
+MAP79_e1_p1_243	Map079.json	0	dialogue	姿を見せなかったのも、魔王になる為の準備を	in our lands lately is because you were preparing
+MAP79_e1_p1_244	Map079.json	0	dialogue	していたから…　そういうことだなピコピコ！	to become the Demon King... that's it, isn't it, Pikopiko!
 MAP79_e1_p1_246	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_247	Map079.json	0	dialogue	そういうことだ、青いの！！	
-MAP79_e1_p1_248	Map079.json	0	dialogue	物分かりの良さに免じて名前イジリについては	
-MAP79_e1_p1_249	Map079.json	0	dialogue	この際もう面倒だし、いいよ、許す！！！！	
-MAP79_e1_p1_25	Map079.json	0	dialogue	時間が惜しいんだよ！	
+MAP79_e1_p1_247	Map079.json	0	dialogue	そういうことだ、青いの！！	Exactly, blue one!!
+MAP79_e1_p1_248	Map079.json	0	dialogue	物分かりの良さに免じて名前イジリについては	For your quick understanding, I'll forgive the name-teasing—
+MAP79_e1_p1_249	Map079.json	0	dialogue	この際もう面倒だし、いいよ、許す！！！！	it's too much hassle anyway, fine, you're forgiven!!!!
+MAP79_e1_p1_25	Map079.json	0	dialogue	時間が惜しいんだよ！	We don't have time!
 MAP79_e1_p1_251	Map079.json	0	dialogue	ホノオ：	Hono:
-MAP79_e1_p1_252	Map079.json	0	dialogue	そんなことはさせないぜええええええ…	
-MAP79_e1_p1_253	Map079.json	0	dialogue	ピ…ピキじゃなくて…ピｋッカ…	
+MAP79_e1_p1_252	Map079.json	0	dialogue	そんなことはさせないぜええええええ…	I won't let you do that—!
+MAP79_e1_p1_253	Map079.json	0	dialogue	ピ…ピキじゃなくて…ピｋッカ…	Pi... not Piki... P-kka...
 MAP79_e1_p1_255	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p1_256	Map079.json	0	dialogue	この子いい子だな…	
 MAP79_e1_p1_257	Map079.json	0	dialogue	一生懸命名前言おうとしてるじゃないか…	
@@ -12547,7 +12547,7 @@ MAP90_e24_p0_1	Map090.json	0	dialogue	警備兵ピロシキン：	Piroshkin, Gua
 MAP90_e24_p0_2	Map090.json	0	dialogue	俺は歴戦の勇士なんで、こんな任務軽いっすよ	I'm a battle-hardened veteran, so this mission's a breeze.
 MAP90_e25_p0_1	Map090.json	0	dialogue	警備兵カメマル：	Kamemaru, Guard:
 MAP90_e25_p0_2	Map090.json	0	dialogue	どうも状態異常使ってくる魔物が多いね。	There sure are a lot of monsters using ailments.
-MAP90_e25_p0_3	Map090.json	0	dialogue	万金丹を多めに買っておいた方がよさそっす。	
+MAP90_e25_p0_3	Map090.json	0	dialogue	万金丹を多めに買っておいた方がよさそっす。	Better to stock up on Mankintan.
 MAP90_e26_p0_1	Map090.json	0	dialogue	武者修行帰りの騎士ヘヴィ：	Heavy, Knight Home from Training:
 MAP90_e26_p0_2	Map090.json	0	dialogue	ライスボールとか万金丹とか、売っている街で	Did you know rice balls, Mankintan, and the like
 MAP90_e26_p0_3	Map090.json	0	dialogue	微妙に値段違うの知ってるか？	cost slightly different amounts by town?
@@ -13924,38 +13924,38 @@ MAP102_e5_p0_6_c4	Map102.json	choice	choice	ウィンダム城	Windam Castle
 MAP102_e6_p0_1	Map102.json	0	dialogue	ナガレ：	Nagare:
 MAP102_e6_p0_11	Map102.json	0	dialogue	ホノオ：	Hono:
 MAP102_e6_p0_12	Map102.json	0	dialogue	まー、どのみちここまで来といて、	Well, having come this far,
-MAP102_e6_p0_13	Map102.json	0	dialogue	今更引き返すつもりはねーけど。	
+MAP102_e6_p0_13	Map102.json	0	dialogue	今更引き返すつもりはねーけど。	Not that I plan to turn back now.
 MAP102_e6_p0_15	Map102.json	0	dialogue	ホノオ：	Hono:
-MAP102_e6_p0_16	Map102.json	0	dialogue	ウィン、どうする？	
-MAP102_e6_p0_17	Map102.json	0	dialogue	入っちまってもいいかー？	
+MAP102_e6_p0_16	Map102.json	0	dialogue	ウィン、どうする？	Win, what do you think?
+MAP102_e6_p0_17	Map102.json	0	dialogue	入っちまってもいいかー？	Should we just go in?
 MAP102_e6_p0_18_c0	Map102.json	choice	choice	入ろう	Let's go in
 MAP102_e6_p0_18_c1	Map102.json	choice	choice	引き返そう	Let's turn back
-MAP102_e6_p0_2	Map102.json	0	dialogue	…ここから先は、進んだら全てが終わるまで、	
+MAP102_e6_p0_2	Map102.json	0	dialogue	…ここから先は、進んだら全てが終わるまで、	...Once we go past here, until everything's over,
 MAP102_e6_p0_21	Map102.json	1	dialogue	ホノオ：	Hono:
 MAP102_e6_p0_22	Map102.json	1	dialogue	よっしゃー！	Alright!
 MAP102_e6_p0_23	Map102.json	1	dialogue	じゃあいくかーーーー！	Then let's go—!
 MAP102_e6_p0_29	Map102.json	1	dialogue	ナガレ：	Nagare:
-MAP102_e6_p0_3	Map102.json	0	dialogue	もう戻れない気がするな…。	
-MAP102_e6_p0_30	Map102.json	1	dialogue	確かに…　薬とか、もっと買っておいた方が	
-MAP102_e6_p0_31	Map102.json	1	dialogue	いいかも。	
+MAP102_e6_p0_3	Map102.json	0	dialogue	もう戻れない気がするな…。	I feel like we won't be able to go back...
+MAP102_e6_p0_30	Map102.json	1	dialogue	確かに…　薬とか、もっと買っておいた方が	True... we should stock up on more medicine
+MAP102_e6_p0_31	Map102.json	1	dialogue	いいかも。	and such.
 MAP102_e6_p0_5	Map102.json	0	dialogue	ホノオ：	Hono:
-MAP102_e6_p0_6	Map102.json	0	dialogue	なんだよそれ、カンか？	
+MAP102_e6_p0_6	Map102.json	0	dialogue	なんだよそれ、カンか？	What's that, a hunch?
 MAP102_e6_p0_8	Map102.json	0	dialogue	ナガレ：	Nagare:
-MAP102_e6_p0_9	Map102.json	0	dialogue	そうだよ。	
+MAP102_e6_p0_9	Map102.json	0	dialogue	そうだよ。	Yeah.
 MAP102_e6_p1_1	Map102.json	0	dialogue	ホノオ：	Hono:
 MAP102_e6_p1_2	Map102.json	0	dialogue	よっしゃー！	Alright!
 MAP102_e6_p1_3	Map102.json	0	dialogue	じゃあいくかーーーー！	Then let's go—!
 MAP102_e7_p0_12	Map102.json	0	dialogue	ホノオ：	Hono:
-MAP102_e7_p0_13	Map102.json	0	dialogue	おいおい…　なんだよココは！	
-MAP102_e7_p0_14	Map102.json	0	dialogue	街…？　いや、城…？　があったのか…？	
+MAP102_e7_p0_13	Map102.json	0	dialogue	おいおい…　なんだよココは！	Whoa... what is this place!?
+MAP102_e7_p0_14	Map102.json	0	dialogue	街…？　いや、城…？　があったのか…？	A town...? No, a castle...? It was here...?
 MAP102_e7_p0_16	Map102.json	0	dialogue	ナガレ：	Nagare:
-MAP102_e7_p0_17	Map102.json	0	dialogue	この地は未開の、無人の地のはずだ…	
-MAP102_e7_p0_18	Map102.json	0	dialogue	もっと大昔にはここにひとが住んでいたのか？	
+MAP102_e7_p0_17	Map102.json	0	dialogue	この地は未開の、無人の地のはずだ…	This land is supposed to be uncharted and uninhabited...
+MAP102_e7_p0_18	Map102.json	0	dialogue	もっと大昔にはここにひとが住んでいたのか？	Did people live here in the distant past?
 MAP102_e7_p0_20	Map102.json	0	dialogue	ホノオ：	Hono:
-MAP102_e7_p0_21	Map102.json	0	dialogue	なんか建物とかも…見た事ねえ感じだ。	
-MAP102_e7_p0_22	Map102.json	0	dialogue	オレらもしかして、歴史上の大発見してる…？	
+MAP102_e7_p0_21	Map102.json	0	dialogue	なんか建物とかも…見た事ねえ感じだ。	And the buildings... they don't look like anything I've seen.
+MAP102_e7_p0_22	Map102.json	0	dialogue	オレらもしかして、歴史上の大発見してる…？	Are we making a huge historical discovery...?
 MAP102_e7_p0_24	Map102.json	0	dialogue	ナガレ：	Nagare:
-MAP102_e7_p0_25	Map102.json	0	dialogue	そうかもな。	
+MAP102_e7_p0_25	Map102.json	0	dialogue	そうかもな。	Maybe.
 MAP102_e8_p0_11	Map102.json	0	dialogue	藤四郎を手に入れた！	
 MAP102_e9_p0_10	Map102.json	0	dialogue	グレートソード（匠）を手に入れた！	
 DB_Skills_100_description	Skills.json	Skills.json #100	description	火の魔法。燃える闘志が奇跡を起こしHPを全回復する。\n味方ひとりのHPを完全回復。消費EPは30。	"Fire magic. Burning fighting spirit works a miracle and fully restores HP.
