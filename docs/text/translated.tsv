@@ -139,18 +139,18 @@ DB_Classes_6_name	Classes.json	Classes.json #6 (火と水の紋章の継承者)	
 DB_Classes_7_name	Classes.json	Classes.json #7 (退役騎士)	name	退役騎士	Retired Knight
 DB_Classes_8_name	Classes.json	Classes.json #8 (セイリューの村人)	name	セイリューの村人	Seiryu Villager
 DB_Classes_9_name	Classes.json	Classes.json #9 (セイリューの領主)	name	セイリューの領主	Seiryu Lord
-CE4_1	CommonEvents.json	0	dialogue	度重なる魔族軍の侵攻も最早脅威と呼ばれなくなって	
-CE4_11	CommonEvents.json	0	dialogue	魔族を、闇を駆逐した我々は、いまや彼らと比べて本当に	
-CE4_12	CommonEvents.json	0	dialogue	正しいのであろうか。お互いの内に闇を生み出しそれを増幅	
-CE4_13	CommonEvents.json	0	dialogue	し合うようになった我々がそこに目を向けない限り、本当の	
-CE4_14	CommonEvents.json	0	dialogue	意味での闇は結局形を変えるだけでむしろ強大になるばかり	
-CE4_2	CommonEvents.json	0	dialogue	数百年。我々は遂に闇を克服したと言ってよいだろう。	
-CE4_3	CommonEvents.json	0	dialogue	この大陸のどこにも光が満たされ、闇は駆逐された。	
-CE4_4	CommonEvents.json	0	dialogue	彼らの魔法の力も我々の兵器の前には児戯に等しい。	
-CE4_6	CommonEvents.json	0	dialogue	しかしそうなって後、魔族を駆逐する兵器群を持て余した	
-CE4_7	CommonEvents.json	0	dialogue	人類は、互いに争い始めた。大陸に闇はない。全てが文明の	
-CE4_8	CommonEvents.json	0	dialogue	明かりに照らされている。野生の魔物も近い将来大陸から	
-CE4_9	CommonEvents.json	0	dialogue	姿を消すだろう。しかし、それは勝利ではなかった。	
+CE4_1	CommonEvents.json	0	dialogue	度重なる魔族軍の侵攻も最早脅威と呼ばれなくなって	The demon army's repeated invasions are no longer even called a threat,
+CE4_11	CommonEvents.json	0	dialogue	魔族を、闇を駆逐した我々は、いまや彼らと比べて本当に	having driven out the demons and the Dark, we must ask whether we are truly
+CE4_12	CommonEvents.json	0	dialogue	正しいのであろうか。お互いの内に闇を生み出しそれを増幅	righteous compared to them. Both sides have birthed darkness within and amplified it;
+CE4_13	CommonEvents.json	0	dialogue	し合うようになった我々がそこに目を向けない限り、本当の	unless we who have done so turn our eyes upon it, the true darkness will, in the end,
+CE4_14	CommonEvents.json	0	dialogue	意味での闇は結局形を変えるだけでむしろ強大になるばかり	only change its shape and grow all the more powerful.
+CE4_2	CommonEvents.json	0	dialogue	数百年。我々は遂に闇を克服したと言ってよいだろう。	After several centuries, one could say we finally overcame the darkness.
+CE4_3	CommonEvents.json	0	dialogue	この大陸のどこにも光が満たされ、闇は駆逐された。	Light fills every corner of this continent, and the darkness has been driven out.
+CE4_4	CommonEvents.json	0	dialogue	彼らの魔法の力も我々の兵器の前には児戯に等しい。	Even their magical power is child's play before our weapons.
+CE4_6	CommonEvents.json	0	dialogue	しかしそうなって後、魔族を駆逐する兵器群を持て余した	But once that came to pass, humanity, at a loss over the arsenal built to purge the demons,
+CE4_7	CommonEvents.json	0	dialogue	人類は、互いに争い始めた。大陸に闇はない。全てが文明の	began to war among themselves. There is no darkness on the continent. Everything is
+CE4_8	CommonEvents.json	0	dialogue	明かりに照らされている。野生の魔物も近い将来大陸から	lit by civilization's lights. Wild monsters, too, will vanish from the continent
+CE4_9	CommonEvents.json	0	dialogue	姿を消すだろう。しかし、それは勝利ではなかった。	in the near future. Yet that was not a victory.
 DB_Enemies_10_name	Enemies.json	Enemies.json #10 (ナウー)	name	ナウー	Nau
 DB_Enemies_11_name	Enemies.json	Enemies.json #11 (鎧魔人ナウー)	name	鎧魔人ナウー	Armored Fiend Nau
 DB_Enemies_12_name	Enemies.json	Enemies.json #12 (闇のエレメント)	name	闇のエレメント	Dark Element
@@ -374,82 +374,82 @@ MAP4_e11_p1_4	Map004.json	0	dialogue	ナガレ：	Nagare:
 MAP4_e11_p1_5	Map004.json	0	dialogue	あのとき、燃え盛る岩がたくさん降ってきて…	Back then, burning rocks rained down in droves...
 MAP4_e11_p1_6	Map004.json	0	dialogue	この街はがれきの山になってしまったんだ。	This town was reduced to a mountain of rubble.
 MAP4_e11_p1_8	Map004.json	0	dialogue	ウィン：	Win:
-MAP4_e15_p0_1	Map004.json	0	dialogue	この先、旧坑道。	
-MAP4_e15_p0_2	Map004.json	0	dialogue	危険につき、立ち入りを禁ずる。	
-MAP4_e15_p0_3	Map004.json	0	dialogue	　　　　　　　　　　　　　　　王国騎士団　　　　　　	
+MAP4_e15_p0_1	Map004.json	0	dialogue	この先、旧坑道。	Beyond this point: the Old Mine.
+MAP4_e15_p0_2	Map004.json	0	dialogue	危険につき、立ち入りを禁ずる。	Entry forbidden due to danger.
+MAP4_e15_p0_3	Map004.json	0	dialogue	　　　　　　　　　　　　　　　王国騎士団　　　　　　	The Kingdom's Knight Order
 MAP4_e17_p0_1	Map004.json	0	dialogue	ウィン：	Win:
 MAP4_e17_p0_5	Map004.json	0	dialogue	　　　ウィンは先にフレイム王に会おうと思った　　　	Win decided to see King Flame first.
 MAP4_e18_p0_1	Map004.json	0	dialogue	ウィン：	Win:
 MAP4_e18_p0_5	Map004.json	0	dialogue	　　　ウィンは先にフレイム王に会おうと思った　　　	Win decided to see King Flame first.
 MAP4_e24_p0_1	Map004.json	0	dialogue	ウィン：	Win:
-MAP4_e24_p0_5	Map004.json	0	dialogue	　　　　ウィンは先にセイリューへ行こうと思った	
+MAP4_e24_p0_5	Map004.json	0	dialogue	　　　　ウィンは先にセイリューへ行こうと思った	Win decided to head to Seiryu first.
 MAP4_e26_p1_1	Map004.json	0	dialogue	ナガレ：	Nagare:
 MAP4_e26_p1_10	Map004.json	0	dialogue	ウィン：	Win:
-MAP4_e26_p1_2	Map004.json	0	dialogue	えーと…　	
-MAP4_e26_p1_3	Map004.json	0	dialogue	先にセイリューの様子を見に行くんじゃ	
-MAP4_e26_p1_4	Map004.json	0	dialogue	なかったのか…？	
+MAP4_e26_p1_2	Map004.json	0	dialogue	えーと…　	Um...
+MAP4_e26_p1_3	Map004.json	0	dialogue	先にセイリューの様子を見に行くんじゃ	Weren't we supposed to check on Seiryu
+MAP4_e26_p1_4	Map004.json	0	dialogue	なかったのか…？	first...?
 MAP4_e26_p1_6	Map004.json	0	dialogue	ホノオ：	Hono:
-MAP4_e26_p1_7	Map004.json	0	dialogue	も、もちろんだぜ！	
-MAP4_e26_p1_8	Map004.json	0	dialogue	ウィン、オマエなんでこっち来たんだよ…？	
+MAP4_e26_p1_7	Map004.json	0	dialogue	も、もちろんだぜ！	O-Of course!
+MAP4_e26_p1_8	Map004.json	0	dialogue	ウィン、オマエなんでこっち来たんだよ…？	Win, why did you come this way...?
 MAP4_e5_p0_1	Map004.json	0	dialogue	ピピン：	Pipin:
-MAP4_e5_p0_2	Map004.json	0	dialogue	ここは…ロイの家だ。	
-MAP4_e5_p0_3	Map004.json	0	dialogue	いまは奴に用はない…。行くぞ。	
+MAP4_e5_p0_2	Map004.json	0	dialogue	ここは…ロイの家だ。	This is... Roi's house.
+MAP4_e5_p0_3	Map004.json	0	dialogue	いまは奴に用はない…。行くぞ。	No business with him now... Let's go.
 MAP5_e10_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP5_e11_p0_2	Map005.json	0	dialogue	　　　　　　　何かの作物の種が入っている	
+MAP5_e11_p0_2	Map005.json	0	dialogue	　　　　　　　何かの作物の種が入っている	It's full of seeds for some crop.
 MAP5_e12_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP5_e13_p0_2	Map005.json	0	dialogue	　　　　まだ使えそうな古い食器類が捨てられている	
-MAP5_e14_p0_2	Map005.json	0	dialogue	　　　　　　　縄やつるはしなどが入っている	
+MAP5_e13_p0_2	Map005.json	0	dialogue	　　　　まだ使えそうな古い食器類が捨てられている	Old dishware, still usable, has been discarded here.
+MAP5_e14_p0_2	Map005.json	0	dialogue	　　　　　　　縄やつるはしなどが入っている	It contains ropes, pickaxes, and such.
 MAP5_e15_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP5_e16_p0_2	Map005.json	0	dialogue	　　　　　　中は少し湿って　かびていた…	
+MAP5_e16_p0_2	Map005.json	0	dialogue	　　　　　　中は少し湿って　かびていた…	The inside is slightly damp and moldy...
 MAP5_e17_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP5_e18_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP5_e26_p0_1	Map005.json	0	dialogue	看板には、	The sign reads,
 MAP5_e26_p0_2	Map005.json	0	dialogue	『騎士団駐屯本部』	"""Knight Order Garrison HQ"""
 MAP5_e26_p0_3	Map005.json	0	dialogue	と、書いてある。	written in bold.
 MAP5_e29_p0_1	Map005.json	0	dialogue	城下町の巡回兵マックス：	Max, Town Patrolman:
-MAP5_e29_p0_2	Map005.json	0	dialogue	ここはウィンダム王国の城下町だよ。	
-MAP5_e29_p0_3	Map005.json	0	dialogue	…笑えよ、ウィン！	
+MAP5_e29_p0_2	Map005.json	0	dialogue	ここはウィンダム王国の城下町だよ。	This is the castle town of the Windam Kingdom.
+MAP5_e29_p0_3	Map005.json	0	dialogue	…笑えよ、ウィン！	...Smile, Win!
 MAP5_e30_p0_1	Map005.json	0	dialogue	市民トリス：	Tris, Citizen:
-MAP5_e30_p0_2	Map005.json	0	dialogue	ここのお花きれいでしょ？	
-MAP5_e30_p0_3	Map005.json	0	dialogue	私が毎日お水あげてるんだ！	
+MAP5_e30_p0_2	Map005.json	0	dialogue	ここのお花きれいでしょ？	The flowers here are pretty, aren't they?
+MAP5_e30_p0_3	Map005.json	0	dialogue	私が毎日お水あげてるんだ！	I water them every day!
 MAP5_e31_p0_1	Map005.json	0	dialogue	市民ヒョードル：	Fyodor, Citizen:
-MAP5_e31_p0_2	Map005.json	0	dialogue	…遂にお金を貯めたぞ。	
-MAP5_e31_p0_3	Map005.json	0	dialogue	このお金で僕は、エネルギーポージョンを	
-MAP5_e31_p0_4	Map005.json	0	dialogue	買うんだ…　買うんだ…！	
+MAP5_e31_p0_2	Map005.json	0	dialogue	…遂にお金を貯めたぞ。	...I've finally saved up the money.
+MAP5_e31_p0_3	Map005.json	0	dialogue	このお金で僕は、エネルギーポージョンを	With this money, I'm going to buy
+MAP5_e31_p0_4	Map005.json	0	dialogue	買うんだ…　買うんだ…！	an Energy Potion... buy one...!
 MAP5_e32_p0_1	Map005.json	0	dialogue	市民ジェームズ：	James, Citizen:
-MAP5_e32_p0_10	Map005.json	1	dialogue	近頃はもうすっかり戦争も起きないし、	
-MAP5_e32_p0_11	Map005.json	1	dialogue	お前さんみたいな男にこそ、騎士が	
-MAP5_e32_p0_12	Map005.json	1	dialogue	相応しい時代なのかも知れないなあ。	
-MAP5_e32_p0_16	Map005.json	1	dialogue	騎士や兵隊の世界は、厳しいだろう。	
-MAP5_e32_p0_17	Map005.json	1	dialogue	とは言え、もう昔のような戦が起こる	
-MAP5_e32_p0_18	Map005.json	1	dialogue	時代じゃないんだ。	
-MAP5_e32_p0_19	Map005.json	1	dialogue	あんまり気張らんでもいいんだぞ。	
-MAP5_e32_p0_2	Map005.json	0	dialogue	おや、ウィン、元気そうだね？	
+MAP5_e32_p0_10	Map005.json	1	dialogue	近頃はもうすっかり戦争も起きないし、	Wars don't happen at all these days,
+MAP5_e32_p0_11	Map005.json	1	dialogue	お前さんみたいな男にこそ、騎士が	and it's men like you who suit being knights
+MAP5_e32_p0_12	Map005.json	1	dialogue	相応しい時代なのかも知れないなあ。	in times like these, I suppose.
+MAP5_e32_p0_16	Map005.json	1	dialogue	騎士や兵隊の世界は、厳しいだろう。	The world of knights and soldiers must be tough.
+MAP5_e32_p0_17	Map005.json	1	dialogue	とは言え、もう昔のような戦が起こる	Still, this is no longer an era where
+MAP5_e32_p0_18	Map005.json	1	dialogue	時代じゃないんだ。	wars like the old days break out.
+MAP5_e32_p0_19	Map005.json	1	dialogue	あんまり気張らんでもいいんだぞ。	No need to push yourself too hard.
+MAP5_e32_p0_2	Map005.json	0	dialogue	おや、ウィン、元気そうだね？	Oh my, Win, you look well?
 MAP5_e32_p0_3_c0	Map005.json	choice	choice	元気だよ	I'm fine
 MAP5_e32_p0_3_c1	Map005.json	choice	choice	そうでもない	Not really
 MAP5_e32_p0_6	Map005.json	1	dialogue	市民ジェームズ：	James, Citizen:
-MAP5_e32_p0_7	Map005.json	1	dialogue	お前さんが騎士になったって聞いたときは	
-MAP5_e32_p0_8	Map005.json	1	dialogue	驚いたよ。優しい子だったからなあ。	
+MAP5_e32_p0_7	Map005.json	1	dialogue	お前さんが騎士になったって聞いたときは	When I heard you'd become a knight,
+MAP5_e32_p0_8	Map005.json	1	dialogue	驚いたよ。優しい子だったからなあ。	I was surprised. You were such a kind boy.
 MAP5_e33_p0_1	Map005.json	0	dialogue	市民タバサ：	Tabatha, Citizen:
-MAP5_e33_p0_12	Map005.json	1	dialogue	いまの若い子は知らないかも知れないねえ	
-MAP5_e33_p0_13	Map005.json	1	dialogue	この像は、先代国王の像なんだよ！！	
-MAP5_e33_p0_14	Map005.json	1	dialogue	勉強になったかい？	
-MAP5_e33_p0_2	Map005.json	0	dialogue	この像は…　	
-MAP5_e33_p0_3	Map005.json	0	dialogue	この像は何の像か知っているかい？	
+MAP5_e33_p0_12	Map005.json	1	dialogue	いまの若い子は知らないかも知れないねえ	The young ones today might not know this,
+MAP5_e33_p0_13	Map005.json	1	dialogue	この像は、先代国王の像なんだよ！！	but this statue is of the previous king!!
+MAP5_e33_p0_14	Map005.json	1	dialogue	勉強になったかい？	Did you learn something?
+MAP5_e33_p0_2	Map005.json	0	dialogue	この像は…　	This statue...
+MAP5_e33_p0_3	Map005.json	0	dialogue	この像は何の像か知っているかい？	Do you know whose statue this is?
 MAP5_e33_p0_4_c0	Map005.json	choice	choice	知ってる	I know
 MAP5_e33_p0_4_c1	Map005.json	choice	choice	知らない	I don't know
 MAP5_e33_p0_7	Map005.json	1	dialogue	なんだって？	What did you say?
-MAP5_e33_p0_8	Map005.json	1	dialogue	聞こえないねえ…	
+MAP5_e33_p0_8	Map005.json	1	dialogue	聞こえないねえ…	Can't hear you...
 MAP5_e34_p0_1	Map005.json	0	dialogue	城下町北の巡回兵デミトリ―：	Demitri, North Town Patrolman:
-MAP5_e34_p0_2	Map005.json	0	dialogue	異常なーし	
-MAP5_e34_p0_3	Map005.json	0	dialogue	ウィンの家の前異常なーし	
-MAP5_e34_p0_4	Map005.json	0	dialogue	しかしここは、いいにおいがするぜー	
+MAP5_e34_p0_2	Map005.json	0	dialogue	異常なーし	No anomalies~
+MAP5_e34_p0_3	Map005.json	0	dialogue	ウィンの家の前異常なーし	No anomalies in front of Win's house.
+MAP5_e34_p0_4	Map005.json	0	dialogue	しかしここは、いいにおいがするぜー	But man, it smells great here~
 MAP5_e5_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP5_e6_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP5_e7_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP5_e8_p0_2	Map005.json	0	dialogue	　　底から　キュアポーションを　１個手に入れた！	
-MAP5_e8_p1_2	Map005.json	0	dialogue	　　　　　　　　　中はからっぽだった	
-MAP5_e9_p0_2	Map005.json	0	dialogue	　　　　　魚のエサにつかう虫が入っている	
+MAP5_e8_p0_2	Map005.json	0	dialogue	　　底から　キュアポーションを　１個手に入れた！	Obtained a Cure Potion from the bottom!
+MAP5_e8_p1_2	Map005.json	0	dialogue	　　　　　　　　　中はからっぽだった	It was empty inside.
+MAP5_e9_p0_2	Map005.json	0	dialogue	　　　　　魚のエサにつかう虫が入っている	It contains worms used for fish bait.
 MAP6_e15_p0_1	Map006.json	0	dialogue	ここでなら休んでいくことが出来る。	You can rest here.
 MAP6_e15_p0_2	Map006.json	0	dialogue	休んでいこうか…。	Should we rest...?
 MAP6_e15_p0_3_c0	Map006.json	choice	choice	休んでいく	Rest here
@@ -475,27 +475,27 @@ MAP6_e20_p0_2	Map006.json	0	dialogue	休んでいこうか…。	Should we rest.
 MAP6_e20_p0_3_c0	Map006.json	choice	choice	休んでいく	Rest here
 MAP6_e20_p0_3_c1	Map006.json	choice	choice	休まない	Don't rest
 MAP6_e21_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e22_p0_2	Map006.json	0	dialogue	　　　　擦り切れたレザーコートが入っている	
-MAP6_e23_p0_2	Map006.json	0	dialogue	　　　　　あせくさい　あまり調べたくはない…	
+MAP6_e22_p0_2	Map006.json	0	dialogue	　　　　擦り切れたレザーコートが入っている	A threadbare Leather Coat is inside.
+MAP6_e23_p0_2	Map006.json	0	dialogue	　　　　　あせくさい　あまり調べたくはない…	It smells of sweat. I'd rather not investigate further...
 MAP6_e24_p0_2	Map006.json	0	dialogue	レザーコートを　一着　手に入れた！	Obtained a Leather Coat!
 MAP6_e24_p1_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e25_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e26_p0_2	Map006.json	0	dialogue	　　　　　　　　　　食器や調味料の類だ	
+MAP6_e26_p0_2	Map006.json	0	dialogue	　　　　　　　　　　食器や調味料の類だ	It's dishware and seasonings.
 MAP6_e27_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e28_p0_2	Map006.json	0	dialogue	　　　　　　赤い野菜がたくさん入っている　	
+MAP6_e28_p0_2	Map006.json	0	dialogue	　　　　　　赤い野菜がたくさん入っている　	It's full of red vegetables.
 MAP6_e29_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e30_p0_2	Map006.json	0	dialogue	　　　　　　　　　　　小麦粉か何かだ	
-MAP6_e31_p0_2	Map006.json	0	dialogue	　　　　　　緑色の野菜がたくさん入っている	
+MAP6_e30_p0_2	Map006.json	0	dialogue	　　　　　　　　　　　小麦粉か何かだ	It's flour or something of the sort.
+MAP6_e31_p0_2	Map006.json	0	dialogue	　　　　　　緑色の野菜がたくさん入っている	It's full of green vegetables.
 MAP6_e32_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e33_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e34_p0_1	Map006.json	0	dialogue	固いパンを　１個　手に入れた！	Obtained a Hard Bread!
 MAP6_e34_p1_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e35_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e36_p0_2	Map006.json	0	dialogue	　　　　　　いい匂いがする　お酒かもしれない	
+MAP6_e36_p0_2	Map006.json	0	dialogue	　　　　　　いい匂いがする　お酒かもしれない	It smells nice—might be liquor.
 MAP6_e37_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e37_p0_3	Map006.json	0	dialogue	倉庫番ストロング：	Strong, Warehouse Keeper:
 MAP6_e37_p0_4	Map006.json	0	dialogue	おい、勝手に触るんじゃねえ！	Hey, don't touch that without asking!
-MAP6_e38_p0_2	Map006.json	0	dialogue	　　　　　兵たちの為に常備されている薬類だ	
+MAP6_e38_p0_2	Map006.json	0	dialogue	　　　　　兵たちの為に常備されている薬類だ	These are medicines kept on hand for the soldiers.
 MAP6_e39_p0_1	Map006.json	0	dialogue	『ここ最近の事件と報告』	"""Recent Incidents and Reports"""
 MAP6_e39_p0_11	Map006.json	1	dialogue	・西の監視塔の見回りについて	- About patrolling the West Watchtower
 MAP6_e39_p0_12	Map006.json	1	dialogue	他国との戦争の為に作られた西の塔ですが、定期的に	The western tower was built for wars with other nations, but bandits
@@ -529,11 +529,11 @@ MAP6_e40_p0_7	Map006.json	1	dialogue	とてもじゃないですが無理です�
 MAP6_e40_p0_8	Map006.json	1	dialogue	城下町のバリアフリー化　資材3460G 人手6845G	Accessibility for the castle town - materials 3460G, labor 6845G
 MAP6_e40_p0_9	Map006.json	1	dialogue	出来なくもないですが、車椅子使っている国民ゼロです…	It's possible, but there are zero citizens using wheelchairs...
 MAP6_e41_p0_1	Map006.json	0	dialogue	倉庫番ストロング：	Strong, Warehouse Keeper:
-MAP6_e41_p0_11	Map006.json	0	dialogue	医療キットを　２個　渡された！	
-MAP6_e41_p0_13	Map006.json	0	dialogue	固いパンを　２個　渡された！	
+MAP6_e41_p0_11	Map006.json	0	dialogue	医療キットを　２個　渡された！	Received 2 Medical Kits!
+MAP6_e41_p0_13	Map006.json	0	dialogue	固いパンを　２個　渡された！	Received 2 Hard Breads!
 MAP6_e41_p0_15	Map006.json	0	dialogue	万金丹を　２個　渡された！	Received 2 Mankintan!
-MAP6_e41_p0_17	Map006.json	0	dialogue	レイピアを　１本　渡された！	
-MAP6_e41_p0_19	Map006.json	0	dialogue	スピアを　１本　渡された！	
+MAP6_e41_p0_17	Map006.json	0	dialogue	レイピアを　１本　渡された！	Received a Rapier!
+MAP6_e41_p0_19	Map006.json	0	dialogue	スピアを　１本　渡された！	Received a Spear!
 MAP6_e41_p0_2	Map006.json	0	dialogue	二人とも、西の監視塔の見回りだろ？	Both of you are on West Watchtower patrol, right?
 MAP6_e41_p0_21	Map006.json	0	dialogue	お金を　５００Ｇ　渡された！	Received 500G!
 MAP6_e41_p0_23	Map006.json	0	dialogue	ピピン：	Pipin:
@@ -560,10 +560,10 @@ MAP6_e41_p0_48	Map006.json	0	dialogue	ピピン：	Pipin:
 MAP6_e41_p0_49	Map006.json	0	dialogue	フン…！	Hmph...!
 MAP6_e41_p0_50	Map006.json	0	dialogue	こんな任務、ささっと終わらせてくるさ。	I'll wrap up this mission in no time.
 MAP6_e41_p1_1	Map006.json	0	dialogue	倉庫番ストロング：	Strong, Warehouse Keeper:
-MAP6_e41_p1_10	Map006.json	0	dialogue	医療キットを　５個　渡された！	
+MAP6_e41_p1_10	Map006.json	0	dialogue	医療キットを　５個　渡された！	Received 5 Medical Kits!
 MAP6_e41_p1_12	Map006.json	0	dialogue	万金丹を　２個　渡された！	Received 2 Mankintan!
-MAP6_e41_p1_14	Map006.json	0	dialogue	レイピア(名品)を　１本　渡された！	
-MAP6_e41_p1_16	Map006.json	0	dialogue	スピア(名品)を　１本　渡された！	
+MAP6_e41_p1_14	Map006.json	0	dialogue	レイピア(名品)を　１本　渡された！	Received a Rapier (Masterwork)!
+MAP6_e41_p1_16	Map006.json	0	dialogue	スピア(名品)を　１本　渡された！	Received a Spear (Masterwork)!
 MAP6_e41_p1_18	Map006.json	0	dialogue	お金を　５００Ｇ　渡された！	Received 500G!
 MAP6_e41_p1_2	Map006.json	0	dialogue	二人とも、西の監視塔の見回りだろ？	Both of you are on West Watchtower patrol, right?
 MAP6_e41_p1_20	Map006.json	0	dialogue	ピピン：	Pipin:
@@ -624,18 +624,18 @@ MAP6_e44_p0_7	Map006.json	0	dialogue	お前本当にここの騎士か！？	Are
 MAP6_e44_p0_8	Map006.json	0	dialogue	…そこ曲がった先の、とっちらかった部屋だ。	...It's the messy room past that corner.
 MAP6_e45_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e46_p0_1	Map006.json	0	dialogue	大臣イワノフ：	Ivanov, Minister:
-MAP6_e46_p0_10	Map006.json	1	dialogue	考える暇もないのです！	
+MAP6_e46_p0_10	Map006.json	1	dialogue	考える暇もないのです！	I don't even have time to think!
 MAP6_e46_p0_15	Map006.json	1	dialogue	大臣イワノフ：	Ivanov, Minister:
-MAP6_e46_p0_16	Map006.json	1	dialogue	ウィン殿は私がどれだけ忙しいか、ご存じない	
-MAP6_e46_p0_17	Map006.json	1	dialogue	のですな？	
-MAP6_e46_p0_18	Map006.json	1	dialogue	用がなければ出て行ってください！！	
-MAP6_e46_p0_2	Map006.json	0	dialogue	これは騎士ウィン殿。	
-MAP6_e46_p0_3	Map006.json	0	dialogue	今日はどういったご用件ですかな？	
+MAP6_e46_p0_16	Map006.json	1	dialogue	ウィン殿は私がどれだけ忙しいか、ご存じない	Sir Win, you have no idea how busy
+MAP6_e46_p0_17	Map006.json	1	dialogue	のですな？	I am, do you?
+MAP6_e46_p0_18	Map006.json	1	dialogue	用がなければ出て行ってください！！	If you've no business, please leave!!
+MAP6_e46_p0_2	Map006.json	0	dialogue	これは騎士ウィン殿。	Well, if it isn't Knight Win.
+MAP6_e46_p0_3	Map006.json	0	dialogue	今日はどういったご用件ですかな？	What business brings you today?
 MAP6_e46_p0_4_c0	Map006.json	choice	choice	最近どうですか	How are you these days?
 MAP6_e46_p0_4_c1	Map006.json	choice	choice	用はありません	No business here
 MAP6_e46_p0_7	Map006.json	1	dialogue	大臣イワノフ：	Ivanov, Minister:
-MAP6_e46_p0_8	Map006.json	1	dialogue	最近も何も常に私は忙しいのです！	
-MAP6_e46_p0_9	Map006.json	1	dialogue	私の気分！？そんなこと分かりません！	
+MAP6_e46_p0_8	Map006.json	1	dialogue	最近も何も常に私は忙しいのです！	Lately, or rather always, I'm busy!
+MAP6_e46_p0_9	Map006.json	1	dialogue	私の気分！？そんなこと分かりません！	My mood!? I have no idea!
 MAP6_e47_p0_1	Map006.json	0	dialogue	何かのメモ…	A note of some kind...
 MAP6_e47_p0_2	Map006.json	0	dialogue	私の隣の家の人が夜中に歌を歌います。	My neighbor sings in the middle of the night.
 MAP6_e47_p0_3	Map006.json	0	dialogue	文句を言ったら笛を吹き出しました。	When I complained, he started playing the flute.
@@ -664,8 +664,8 @@ MAP6_e51_p1_5	Map006.json	0	dialogue	ピピンが俺の喋り方をバカにし�
 MAP6_e51_p1_6	Map006.json	0	dialogue	ピピンが小鳥に話し掛けていた…	Pipin was talking to a little bird...
 MAP6_e52_p0_1	Map006.json	0	dialogue	城門係スカイ：	Sky, Gatekeeper:
 MAP6_e52_p0_12	Map006.json	1	dialogue	城門係スカイ：	Sky, Gatekeeper:
-MAP6_e52_p0_13	Map006.json	1	dialogue	若くして騎士になったってのに、何て謙虚な…	
-MAP6_e52_p0_14	Map006.json	1	dialogue	ウィン、俺はお前を応援しているぜ！	
+MAP6_e52_p0_13	Map006.json	1	dialogue	若くして騎士になったってのに、何て謙虚な…	Made a knight so young, yet so humble...
+MAP6_e52_p0_14	Map006.json	1	dialogue	ウィン、俺はお前を応援しているぜ！	Win, I'm rooting for you!
 MAP6_e52_p0_2	Map006.json	0	dialogue	騎士ウィン殿に敬礼！	
 MAP6_e52_p0_3_c0	Map006.json	choice	choice	敬礼を返す	Return the salute
 MAP6_e52_p0_3_c1	Map006.json	choice	choice	おじぎをする	Bow
@@ -13249,44 +13249,44 @@ MAP93_e10_p0_453_c0	Map093.json	choice	choice	一応二周目をはじめる	Sta
 MAP93_e10_p0_453_c1	Map093.json	choice	choice	これで終りにする	Let's end it here
 MAP93_e10_p0_46	Map093.json	0	dialogue	その実力、お前の就任に誰も反対する者はない。	With that skill, no one will oppose your appointment.
 MAP93_e10_p0_48	Map093.json	0	dialogue	近衛兵ブロウニング：	Browning, Royal Guard:
-MAP93_e10_p0_49	Map093.json	0	dialogue	もちろんであります！！	
+MAP93_e10_p0_49	Map093.json	0	dialogue	もちろんであります！！	Of course, sir!!
 MAP93_e10_p0_492	Map093.json	1	dialogue	ピケピケ：	Pikepike:
-MAP93_e10_p0_493	Map093.json	1	dialogue	そうか…　ざんねんだな………	
-MAP93_e10_p0_494	Map093.json	1	dialogue	残念だなあああああああああああ…………	
+MAP93_e10_p0_493	Map093.json	1	dialogue	そうか…　ざんねんだな………	I see... what a shame......
+MAP93_e10_p0_494	Map093.json	1	dialogue	残念だなあああああああああああ…………	What a shaame......
 MAP93_e10_p0_496	Map093.json	1	dialogue	ピケピケ：	Pikepike:
-MAP93_e10_p0_497	Map093.json	1	dialogue	でも、もしも気が変わったら…	
-MAP93_e10_p0_498	Map093.json	1	dialogue	クリア前のデータからまたクリアして…	
+MAP93_e10_p0_497	Map093.json	1	dialogue	でも、もしも気が変わったら…	But if you ever change your mind...
+MAP93_e10_p0_498	Map093.json	1	dialogue	クリア前のデータからまたクリアして…	clear the game again from a pre-clear save...
 MAP93_e10_p0_499	Map093.json	1	dialogue	二周目してくれてもいいんだからね！！	
-MAP93_e10_p0_5	Map093.json	0	dialogue	よくぞ戻った！　騎士ウィン！！	
+MAP93_e10_p0_5	Map093.json	0	dialogue	よくぞ戻った！　騎士ウィン！！	Welcome back! Knight Win!!
 MAP93_e10_p0_501	Map093.json	1	dialogue	ピケピケ：	Pikepike:
-MAP93_e10_p0_502	Map093.json	1	dialogue	遊んでくれてありがとう！！！！！！！	
-MAP93_e10_p0_503	Map093.json	1	dialogue	ではでは………さらば！！	
-MAP93_e10_p0_506	Map093.json	1	dialogue	　　　　    エレサガ　Elemental Saga　完　！！	
+MAP93_e10_p0_502	Map093.json	1	dialogue	遊んでくれてありがとう！！！！！！！	Thank you for playing!!!!!
+MAP93_e10_p0_503	Map093.json	1	dialogue	ではでは………さらば！！	And so... farewell!!
+MAP93_e10_p0_506	Map093.json	1	dialogue	　　　　    エレサガ　Elemental Saga　完　！！	Elesaga / Elemental Saga — The End!!
 MAP93_e10_p0_51	Map093.json	0	dialogue	近衛兵ライトニング：	Lightning, Royal Guard:
-MAP93_e10_p0_52	Map093.json	0	dialogue	異論ありません！	
+MAP93_e10_p0_52	Map093.json	0	dialogue	異論ありません！	No objections!
 MAP93_e10_p0_54	Map093.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
-MAP93_e10_p0_55	Map093.json	0	dialogue	ウィンなら誰も反対する奴なんていません！！	
-MAP93_e10_p0_6	Map093.json	0	dialogue	そして…　ピピン！！	
+MAP93_e10_p0_55	Map093.json	0	dialogue	ウィンなら誰も反対する奴なんていません！！	No one would oppose Win!!
+MAP93_e10_p0_6	Map093.json	0	dialogue	そして…　ピピン！！	And... Pipin!!
 MAP93_e10_p0_60	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p0_63	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p0_64	Map093.json	0	dialogue	…お、おい、何て顔をしているんだ、ウィン。	
+MAP93_e10_p0_64	Map093.json	0	dialogue	…お、おい、何て顔をしているんだ、ウィン。	...H-Hey, what's with that face, Win.
 MAP93_e10_p0_66	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p0_67	Map093.json	0	dialogue	お前なら立派な騎士団長になる…	
-MAP93_e10_p0_68	Map093.json	0	dialogue	俺が保証する。	
+MAP93_e10_p0_67	Map093.json	0	dialogue	お前なら立派な騎士団長になる…	You'll make a fine Knight Commander...
+MAP93_e10_p0_68	Map093.json	0	dialogue	俺が保証する。	I guarantee it.
 MAP93_e10_p0_70	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p0_73	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p0_74	Map093.json	0	dialogue	…お前、泣きそうな顔しているぞ…。	
-MAP93_e10_p0_75	Map093.json	0	dialogue	そんなに騎士団長になるのが嫌なのか…？	
+MAP93_e10_p0_74	Map093.json	0	dialogue	…お前、泣きそうな顔しているぞ…。	...You look like you're about to cry...
+MAP93_e10_p0_75	Map093.json	0	dialogue	そんなに騎士団長になるのが嫌なのか…？	Is becoming Knight Commander really so awful...?
 MAP93_e10_p0_77	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p0_8	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p0_81	Map093.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP93_e10_p0_83	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p0_84	Map093.json	0	dialogue	フン…　ったく………	
+MAP93_e10_p0_84	Map093.json	0	dialogue	フン…　ったく………	Hmph... honestly......
 MAP93_e10_p0_92	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p0_93	Map093.json	0	dialogue	…陛下、ロイ騎士団長…	
-MAP93_e10_p0_94	Map093.json	0	dialogue	騎士ではない俺が、意見を言ってもいいか…？	
+MAP93_e10_p0_93	Map093.json	0	dialogue	…陛下、ロイ騎士団長…	...Your Majesty, Commander Roi...
+MAP93_e10_p0_94	Map093.json	0	dialogue	騎士ではない俺が、意見を言ってもいいか…？	May I, though no longer a knight, offer an opinion...?
 MAP93_e10_p0_96	Map093.json	0	dialogue	ロイ：	Roi:
-MAP93_e10_p0_97	Map093.json	0	dialogue	…なんだ、ピピン？	
+MAP93_e10_p0_97	Map093.json	0	dialogue	…なんだ、ピピン？	...What is it, Pipin?
 MAP93_e10_p0_99	Map093.json	0	dialogue	ウィンダム王：	King Windam:
 MAP93_e10_p1_100	Map093.json	0	dialogue	申せ！　ピピン！	Speak! Pipin!
 MAP93_e10_p1_102	Map093.json	0	dialogue	ピピン：	Pipin:
@@ -13488,44 +13488,44 @@ MAP93_e10_p1_452_c0	Map093.json	choice	choice	一応３周目をはじめる	Sta
 MAP93_e10_p1_452_c1	Map093.json	choice	choice	これで終りにする	Let's end it here
 MAP93_e10_p1_46	Map093.json	0	dialogue	その実力、お前の就任に誰も反対する者はない。	With that skill, no one will oppose your appointment.
 MAP93_e10_p1_48	Map093.json	0	dialogue	近衛兵ブロウニング：	Browning, Royal Guard:
-MAP93_e10_p1_49	Map093.json	0	dialogue	もちろんであります！！	
+MAP93_e10_p1_49	Map093.json	0	dialogue	もちろんであります！！	Of course, sir!!
 MAP93_e10_p1_491	Map093.json	1	dialogue	ピケピケ：	Pikepike:
-MAP93_e10_p1_492	Map093.json	1	dialogue	そうか…　ざんねんだな………	
-MAP93_e10_p1_493	Map093.json	1	dialogue	残念だなあああああああああああ…………	
+MAP93_e10_p1_492	Map093.json	1	dialogue	そうか…　ざんねんだな………	I see... what a shame......
+MAP93_e10_p1_493	Map093.json	1	dialogue	残念だなあああああああああああ…………	What a shaame......
 MAP93_e10_p1_495	Map093.json	1	dialogue	ピケピケ：	Pikepike:
-MAP93_e10_p1_496	Map093.json	1	dialogue	でも、もしも気が変わったら…	
-MAP93_e10_p1_497	Map093.json	1	dialogue	クリア前のデータからまたクリアして…	
+MAP93_e10_p1_496	Map093.json	1	dialogue	でも、もしも気が変わったら…	But if you ever change your mind...
+MAP93_e10_p1_497	Map093.json	1	dialogue	クリア前のデータからまたクリアして…	clear the game again from a pre-clear save...
 MAP93_e10_p1_498	Map093.json	1	dialogue	３周目してくれてもいいんだからね！！	
-MAP93_e10_p1_5	Map093.json	0	dialogue	よくぞ戻った！　騎士ウィン！！	
+MAP93_e10_p1_5	Map093.json	0	dialogue	よくぞ戻った！　騎士ウィン！！	Welcome back! Knight Win!!
 MAP93_e10_p1_500	Map093.json	1	dialogue	ピケピケ：	Pikepike:
-MAP93_e10_p1_501	Map093.json	1	dialogue	遊んでくれてありがとう！！！！！！！	
-MAP93_e10_p1_502	Map093.json	1	dialogue	ではでは………さらば！！	
-MAP93_e10_p1_505	Map093.json	1	dialogue	　　　　    エレサガ　Elemental Saga　完　！！	
+MAP93_e10_p1_501	Map093.json	1	dialogue	遊んでくれてありがとう！！！！！！！	Thank you for playing!!!!!
+MAP93_e10_p1_502	Map093.json	1	dialogue	ではでは………さらば！！	And so... farewell!!
+MAP93_e10_p1_505	Map093.json	1	dialogue	　　　　    エレサガ　Elemental Saga　完　！！	Elesaga / Elemental Saga — The End!!
 MAP93_e10_p1_51	Map093.json	0	dialogue	近衛兵ライトニング：	Lightning, Royal Guard:
-MAP93_e10_p1_52	Map093.json	0	dialogue	異論ありません！	
+MAP93_e10_p1_52	Map093.json	0	dialogue	異論ありません！	No objections!
 MAP93_e10_p1_54	Map093.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
-MAP93_e10_p1_55	Map093.json	0	dialogue	ウィンなら誰も反対する奴なんていません！！	
-MAP93_e10_p1_6	Map093.json	0	dialogue	そして…　ピピン！！	
+MAP93_e10_p1_55	Map093.json	0	dialogue	ウィンなら誰も反対する奴なんていません！！	No one would oppose Win!!
+MAP93_e10_p1_6	Map093.json	0	dialogue	そして…　ピピン！！	And... Pipin!!
 MAP93_e10_p1_60	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p1_63	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p1_64	Map093.json	0	dialogue	…お、おい、何て顔をしているんだ、ウィン。	
+MAP93_e10_p1_64	Map093.json	0	dialogue	…お、おい、何て顔をしているんだ、ウィン。	...H-Hey, what's with that face, Win.
 MAP93_e10_p1_66	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p1_67	Map093.json	0	dialogue	お前なら立派な騎士団長になる…	
-MAP93_e10_p1_68	Map093.json	0	dialogue	俺が保証する。	
+MAP93_e10_p1_67	Map093.json	0	dialogue	お前なら立派な騎士団長になる…	You'll make a fine Knight Commander...
+MAP93_e10_p1_68	Map093.json	0	dialogue	俺が保証する。	I guarantee it.
 MAP93_e10_p1_70	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p1_73	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p1_74	Map093.json	0	dialogue	…お前、泣きそうな顔しているぞ…。	
-MAP93_e10_p1_75	Map093.json	0	dialogue	そんなに騎士団長になるのが嫌なのか…？	
+MAP93_e10_p1_74	Map093.json	0	dialogue	…お前、泣きそうな顔しているぞ…。	...You look like you're about to cry...
+MAP93_e10_p1_75	Map093.json	0	dialogue	そんなに騎士団長になるのが嫌なのか…？	Is becoming Knight Commander really so awful...?
 MAP93_e10_p1_77	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p1_8	Map093.json	0	dialogue	ウィン：	Win:
 MAP93_e10_p1_81	Map093.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP93_e10_p1_83	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p1_84	Map093.json	0	dialogue	フン…　ったく………	
+MAP93_e10_p1_84	Map093.json	0	dialogue	フン…　ったく………	Hmph... honestly......
 MAP93_e10_p1_92	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p1_93	Map093.json	0	dialogue	…陛下、ロイ騎士団長…	
-MAP93_e10_p1_94	Map093.json	0	dialogue	騎士ではない俺が、意見を言ってもいいか…？	
+MAP93_e10_p1_93	Map093.json	0	dialogue	…陛下、ロイ騎士団長…	...Your Majesty, Commander Roi...
+MAP93_e10_p1_94	Map093.json	0	dialogue	騎士ではない俺が、意見を言ってもいいか…？	May I, though no longer a knight, offer an opinion...?
 MAP93_e10_p1_96	Map093.json	0	dialogue	ロイ：	Roi:
-MAP93_e10_p1_97	Map093.json	0	dialogue	…なんだ、ピピン？	
+MAP93_e10_p1_97	Map093.json	0	dialogue	…なんだ、ピピン？	...What is it, Pipin?
 MAP93_e10_p1_99	Map093.json	0	dialogue	ウィンダム王：	King Windam:
 MAP93_e12_p0_1	Map093.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
 MAP93_e12_p0_2	Map093.json	0	dialogue	ここから先は、ウィンダム王とお妃さまの	Past here are the bedchambers of King Windam and his queen...
