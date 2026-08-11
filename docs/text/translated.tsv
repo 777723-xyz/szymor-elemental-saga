@@ -5188,22 +5188,22 @@ MAP55_e23_p3_2	Map055.json	0	dialogue	ナガレ、遂に新作が完成したぞ
 MAP55_e23_p3_20	Map055.json	0	dialogue	ホノオ：	Hono:
 MAP55_e23_p3_21	Map055.json	0	dialogue	そ、そうなんだ…？	R-Really...?
 MAP55_e23_p3_23	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p3_24	Map055.json	0	dialogue	つばめ返しの威力は確かに上がったが…	
-MAP55_e23_p3_25	Map055.json	0	dialogue	普通に使う刀としての性能には自信がない…	
+MAP55_e23_p3_24	Map055.json	0	dialogue	つばめ返しの威力は確かに上がったが…	The Swallow Reversal's power certainly improved, but...
+MAP55_e23_p3_25	Map055.json	0	dialogue	普通に使う刀としての性能には自信がない…	I'm not confident in it as a normal blade...
 MAP55_e23_p3_27	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p3_28	Map055.json	0	dialogue	だから、ナガレ、お前が実戦で使ってみて、	
-MAP55_e23_p3_29	Map055.json	0	dialogue	その使い勝手をあとで俺に教えて欲しい。	
-MAP55_e23_p3_3	Map055.json	0	dialogue	ひと振り目は当主であり、継承者であるお前に	
+MAP55_e23_p3_28	Map055.json	0	dialogue	だから、ナガレ、お前が実戦で使ってみて、	So, Nagare, use it in real combat and
+MAP55_e23_p3_29	Map055.json	0	dialogue	その使い勝手をあとで俺に教えて欲しい。	tell me how it handles afterwards.
+MAP55_e23_p3_3	Map055.json	0	dialogue	ひと振り目は当主であり、継承者であるお前に	The first swing is for you, as head of the family and inheritor.
 MAP55_e23_p3_31	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e23_p3_32	Map055.json	0	dialogue	その手間賃代わりの、タダってわけだな？	
+MAP55_e23_p3_32	Map055.json	0	dialogue	その手間賃代わりの、タダってわけだな？	So it's free, in lieu of labor costs, right?
 MAP55_e23_p3_34	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p3_35	Map055.json	0	dialogue	そういうわけでもない。	
-MAP55_e23_p3_36	Map055.json	0	dialogue	鍛冶屋として継承者のお前にしてやれることが	
-MAP55_e23_p3_37	Map055.json	0	dialogue	これくらいしかないんだ。	
+MAP55_e23_p3_35	Map055.json	0	dialogue	そういうわけでもない。	Not exactly.
+MAP55_e23_p3_36	Map055.json	0	dialogue	鍛冶屋として継承者のお前にしてやれることが	As a smith, this is about all I can do
+MAP55_e23_p3_37	Map055.json	0	dialogue	これくらいしかないんだ。	for you, the inheritor.
 MAP55_e23_p3_39	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e23_p3_4	Map055.json	0	dialogue	託そう。	
-MAP55_e23_p3_40	Map055.json	0	dialogue	そうか、邪推して悪かったよ！	
-MAP55_e23_p3_41	Map055.json	0	dialogue	あんたの気持ちと一緒に、有難くいただくよ！	
+MAP55_e23_p3_4	Map055.json	0	dialogue	託そう。	I entrust it to you.
+MAP55_e23_p3_40	Map055.json	0	dialogue	そうか、邪推して悪かったよ！	I see, sorry for the doubt!
+MAP55_e23_p3_41	Map055.json	0	dialogue	あんたの気持ちと一緒に、有難くいただくよ！	I'll gratefully accept it, along with your feelings!
 MAP55_e23_p3_9	Map055.json	0	dialogue	　　　　　　ナガレは物干し竿を受け取った！	
 MAP55_e23_p4_1	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p4_11	Map055.json	0	dialogue	ホノオ：	Hono:
@@ -5217,38 +5217,38 @@ MAP55_e23_p4_2	Map055.json	0	dialogue	ナガレ、遂に新作が完成したぞ
 MAP55_e23_p4_20	Map055.json	0	dialogue	ホノオ：	Hono:
 MAP55_e23_p4_21	Map055.json	0	dialogue	そ、そうなんだ…？	R-Really...?
 MAP55_e23_p4_23	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p4_24	Map055.json	0	dialogue	つばめ返しの威力は確かに上がったが…	
-MAP55_e23_p4_25	Map055.json	0	dialogue	普通に使う刀としての性能には自信がない…	
+MAP55_e23_p4_24	Map055.json	0	dialogue	つばめ返しの威力は確かに上がったが…	The Swallow Reversal's power certainly improved, but...
+MAP55_e23_p4_25	Map055.json	0	dialogue	普通に使う刀としての性能には自信がない…	I'm not confident in it as a normal blade...
 MAP55_e23_p4_27	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p4_28	Map055.json	0	dialogue	だから、ナガレ、お前が実戦で使ってみて、	
-MAP55_e23_p4_29	Map055.json	0	dialogue	その使い勝手をあとで俺に教えて欲しい。	
-MAP55_e23_p4_3	Map055.json	0	dialogue	ひと振り目は当主であり、継承者であるお前に	
+MAP55_e23_p4_28	Map055.json	0	dialogue	だから、ナガレ、お前が実戦で使ってみて、	So, Nagare, use it in real combat and
+MAP55_e23_p4_29	Map055.json	0	dialogue	その使い勝手をあとで俺に教えて欲しい。	tell me how it handles afterwards.
+MAP55_e23_p4_3	Map055.json	0	dialogue	ひと振り目は当主であり、継承者であるお前に	The first swing is for you, as head of the family and inheritor.
 MAP55_e23_p4_31	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e23_p4_32	Map055.json	0	dialogue	その手間賃代わりの、タダってわけだな？	
+MAP55_e23_p4_32	Map055.json	0	dialogue	その手間賃代わりの、タダってわけだな？	So it's free, in lieu of labor costs, right?
 MAP55_e23_p4_34	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p4_35	Map055.json	0	dialogue	そういうわけでもない。	
-MAP55_e23_p4_36	Map055.json	0	dialogue	鍛冶屋として継承者のお前にしてやれることが	
-MAP55_e23_p4_37	Map055.json	0	dialogue	これくらいしかないんだ。	
+MAP55_e23_p4_35	Map055.json	0	dialogue	そういうわけでもない。	Not exactly.
+MAP55_e23_p4_36	Map055.json	0	dialogue	鍛冶屋として継承者のお前にしてやれることが	As a smith, this is about all I can do
+MAP55_e23_p4_37	Map055.json	0	dialogue	これくらいしかないんだ。	for you, the inheritor.
 MAP55_e23_p4_39	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e23_p4_4	Map055.json	0	dialogue	託そう。	
-MAP55_e23_p4_40	Map055.json	0	dialogue	そうか、邪推して悪かったよ！	
-MAP55_e23_p4_41	Map055.json	0	dialogue	あんたの気持ちと一緒に、有難くいただくよ！	
+MAP55_e23_p4_4	Map055.json	0	dialogue	託そう。	I entrust it to you.
+MAP55_e23_p4_40	Map055.json	0	dialogue	そうか、邪推して悪かったよ！	I see, sorry for the doubt!
+MAP55_e23_p4_41	Map055.json	0	dialogue	あんたの気持ちと一緒に、有難くいただくよ！	I'll gratefully accept it, along with your feelings!
 MAP55_e23_p4_9	Map055.json	0	dialogue	　　　　　　ナガレは青江の大太刀を受け取った！	
 MAP55_e23_p5_1	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p5_15	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p5_16	Map055.json	0	dialogue	今回大太刀を作ってみて気付いたんだが、	
-MAP55_e23_p5_17	Map055.json	0	dialogue	刀にももっと色々なバリエーションを	
-MAP55_e23_p5_18	Map055.json	0	dialogue	増やせそうだ…。	
-MAP55_e23_p5_2	Map055.json	0	dialogue	物干し竿みたいなの以外に、ちゃんと普通の刀も	
-MAP55_e23_p5_3	Map055.json	0	dialogue	置いている…。	
+MAP55_e23_p5_16	Map055.json	0	dialogue	今回大太刀を作ってみて気付いたんだが、	Making this odachi taught me that
+MAP55_e23_p5_17	Map055.json	0	dialogue	刀にももっと色々なバリエーションを	there's room for many more variations
+MAP55_e23_p5_18	Map055.json	0	dialogue	増やせそうだ…。	of blades...
+MAP55_e23_p5_2	Map055.json	0	dialogue	物干し竿みたいなの以外に、ちゃんと普通の刀も	Besides the clothes-pole ones, there are proper
+MAP55_e23_p5_3	Map055.json	0	dialogue	置いている…。	normal blades too...
 MAP55_e23_p5_4	Map055.json	0	dialogue	必要なものがあったら買って行け。	If you need anything, buy it before you go.
 MAP55_e23_p6_1	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p6_13	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p6_14	Map055.json	0	dialogue	今回大太刀を作ってみて気付いたんだが、	
-MAP55_e23_p6_15	Map055.json	0	dialogue	刀にももっと色々なバリエーションを	
-MAP55_e23_p6_16	Map055.json	0	dialogue	増やせそうだ…。	
-MAP55_e23_p6_2	Map055.json	0	dialogue	物干し竿みたいなの以外に、ちゃんと普通の刀も	
-MAP55_e23_p6_3	Map055.json	0	dialogue	置いている…。	
+MAP55_e23_p6_14	Map055.json	0	dialogue	今回大太刀を作ってみて気付いたんだが、	Making this odachi taught me that
+MAP55_e23_p6_15	Map055.json	0	dialogue	刀にももっと色々なバリエーションを	there's room for many more variations
+MAP55_e23_p6_16	Map055.json	0	dialogue	増やせそうだ…。	of blades...
+MAP55_e23_p6_2	Map055.json	0	dialogue	物干し竿みたいなの以外に、ちゃんと普通の刀も	Besides the clothes-pole ones, there are proper
+MAP55_e23_p6_3	Map055.json	0	dialogue	置いている…。	normal blades too...
 MAP55_e23_p6_4	Map055.json	0	dialogue	必要なものがあったら買って行け。	If you need anything, buy it before you go.
 MAP55_e24_p0_1	Map055.json	0	dialogue	コメ農家の主人ギヨヌマ：	Giyonuma, Rice Farmer:
 MAP55_e24_p0_2	Map055.json	0	dialogue	あらいらっしゃい。	Oh, welcome.
@@ -5264,8 +5264,8 @@ MAP55_e24_p1_5	Map055.json	0	dialogue	だけどいまあるコメはちゃんと
 MAP55_e24_p1_6	Map055.json	0	dialogue	分け合うから安心しな！	
 MAP55_e24_p1_7	Map055.json	0	dialogue	ただ、問題は来年からの収穫だね…	
 MAP55_e25_p0_1	Map055.json	0	dialogue	セイリューの民ハンジ：	Hanji, Seiryu Citizen:
-MAP55_e25_p0_2	Map055.json	0	dialogue	………どの薬も高過ぎる。	
-MAP55_e25_p0_3	Map055.json	0	dialogue	でもキラキラしていて綺麗だ…。	
+MAP55_e25_p0_2	Map055.json	0	dialogue	………どの薬も高過ぎる。	......All these medicines are too expensive.
+MAP55_e25_p0_3	Map055.json	0	dialogue	でもキラキラしていて綺麗だ…。	But they're so sparkly and pretty...
 MAP55_e25_p1_1	Map055.json	0	dialogue	セイリューの民ハンジ：	Hanji, Seiryu Citizen:
 MAP55_e25_p1_2	Map055.json	0	dialogue	…ちょっと休ませてくれ。	
 MAP55_e25_p1_3	Map055.json	0	dialogue	朝からずっと外の瓦礫を片付けていて	
@@ -5274,9 +5274,9 @@ MAP55_e26_p0_1	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP55_e26_p0_11	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP55_e26_p0_12	Map055.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
 MAP55_e26_p0_13	Map055.json	0	dialogue	開発するため、日夜研究の毎日！	I research day and night!
-MAP55_e26_p0_14	Map055.json	0	dialogue	そのためにも買い物して協力してください！	
-MAP55_e26_p0_2	Map055.json	0	dialogue	いらっしゃい！セイリューにも	
-MAP55_e26_p0_3	Map055.json	0	dialogue	錬金術師のお店開くの夢だったんだ！	
+MAP55_e26_p0_14	Map055.json	0	dialogue	そのためにも買い物して協力してください！	So please help out by shopping!
+MAP55_e26_p0_2	Map055.json	0	dialogue	いらっしゃい！セイリューにも	Welcome! Opening an alchemist's shop
+MAP55_e26_p0_3	Map055.json	0	dialogue	錬金術師のお店開くの夢だったんだ！	in Seiryu was my dream!
 MAP55_e26_p1_1	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP55_e26_p1_12	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP55_e26_p1_13	Map055.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
@@ -5586,67 +5586,67 @@ MAP55_e8_p3_3	Map055.json	0	dialogue	買い物する必要があれば、
 MAP55_e8_p3_4	Map055.json	0	dialogue	ここで済ませるとよいでしょう	
 MAP56_e2_p0_1	Map056.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP56_e2_p0_11	Map056.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP56_e2_p0_12	Map056.json	0	dialogue	近々あたらしい刀も完成するから、	
-MAP56_e2_p0_13	Map056.json	0	dialogue	またしばらくしたら覗きに来てみな。	
-MAP56_e2_p0_2	Map056.json	0	dialogue	刀を新調するのかい？少しは防具も	
-MAP56_e2_p0_3	Map056.json	0	dialogue	扱っているよ。まあ見ていきな。	
+MAP56_e2_p0_12	Map056.json	0	dialogue	近々あたらしい刀も完成するから、	A new blade will be finished soon, so
+MAP56_e2_p0_13	Map056.json	0	dialogue	またしばらくしたら覗きに来てみな。	come by and check it again in a while.
+MAP56_e2_p0_2	Map056.json	0	dialogue	刀を新調するのかい？少しは防具も	Getting a new blade? I handle a little
+MAP56_e2_p0_3	Map056.json	0	dialogue	扱っているよ。まあ見ていきな。	armor too. Take a look around.
 MAP56_e2_p1_1	Map056.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP56_e2_p1_12	Map056.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP56_e2_p1_13	Map056.json	0	dialogue	近々あたらしい刀も完成するから、	
-MAP56_e2_p1_14	Map056.json	0	dialogue	またしばらくしたら覗きに来てみな。	
-MAP56_e2_p1_2	Map056.json	0	dialogue	刀を新調するのかい？少しは防具も	
-MAP56_e2_p1_3	Map056.json	0	dialogue	扱っているよ。まあ見ていきな。	
+MAP56_e2_p1_13	Map056.json	0	dialogue	近々あたらしい刀も完成するから、	A new blade will be finished soon, so
+MAP56_e2_p1_14	Map056.json	0	dialogue	またしばらくしたら覗きに来てみな。	come by and check it again in a while.
+MAP56_e2_p1_2	Map056.json	0	dialogue	刀を新調するのかい？少しは防具も	Getting a new blade? I handle a little
+MAP56_e2_p1_3	Map056.json	0	dialogue	扱っているよ。まあ見ていきな。	armor too. Take a look around.
 MAP56_e3_p0_1	Map056.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
 MAP56_e3_p0_10	Map056.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
-MAP56_e3_p0_11	Map056.json	0	dialogue	毎度あり！	
-MAP56_e3_p0_2	Map056.json	0	dialogue	ここはよろず屋っていうか、薬屋だよ。	
-MAP56_e3_p0_3	Map056.json	0	dialogue	万金丹が他の国で買うより安いから、	
-MAP56_e3_p0_4	Map056.json	0	dialogue	まとめ買いしていったらどうだい？	
+MAP56_e3_p0_11	Map056.json	0	dialogue	毎度あり！	Thanks as always!
+MAP56_e3_p0_2	Map056.json	0	dialogue	ここはよろず屋っていうか、薬屋だよ。	This is a general store—or rather, a medicine shop.
+MAP56_e3_p0_3	Map056.json	0	dialogue	万金丹が他の国で買うより安いから、	Mankintan is cheaper here than in other countries, so
+MAP56_e3_p0_4	Map056.json	0	dialogue	まとめ買いしていったらどうだい？	why not stock up?
 MAP56_e3_p1_1	Map056.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
 MAP56_e3_p1_12	Map056.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
-MAP56_e3_p1_13	Map056.json	0	dialogue	毎度あり！	
-MAP56_e3_p1_2	Map056.json	0	dialogue	ここはよろず屋っていうか、薬屋だよ。	
-MAP56_e3_p1_3	Map056.json	0	dialogue	万金丹が他の国で買うより安いから、	
-MAP56_e3_p1_4	Map056.json	0	dialogue	まとめ買いしていったらどうだい？	
+MAP56_e3_p1_13	Map056.json	0	dialogue	毎度あり！	Thanks as always!
+MAP56_e3_p1_2	Map056.json	0	dialogue	ここはよろず屋っていうか、薬屋だよ。	This is a general store—or rather, a medicine shop.
+MAP56_e3_p1_3	Map056.json	0	dialogue	万金丹が他の国で買うより安いから、	Mankintan is cheaper here than in other countries, so
+MAP56_e3_p1_4	Map056.json	0	dialogue	まとめ買いしていったらどうだい？	why not stock up?
 MAP57_e2_p0_1	Map057.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP57_e2_p0_11	Map057.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP57_e2_p0_12	Map057.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
 MAP57_e2_p0_13	Map057.json	0	dialogue	開発するため、日夜研究の毎日！	I research day and night!
-MAP57_e2_p0_14	Map057.json	0	dialogue	そのためにも買い物して協力してください！	
-MAP57_e2_p0_2	Map057.json	0	dialogue	いらっしゃい！セイリューにも	
-MAP57_e2_p0_3	Map057.json	0	dialogue	錬金術師のお店開くの夢だったんだ！	
+MAP57_e2_p0_14	Map057.json	0	dialogue	そのためにも買い物して協力してください！	So please help out by shopping!
+MAP57_e2_p0_2	Map057.json	0	dialogue	いらっしゃい！セイリューにも	Welcome! Opening an alchemist's shop
+MAP57_e2_p0_3	Map057.json	0	dialogue	錬金術師のお店開くの夢だったんだ！	in Seiryu was my dream!
 MAP57_e3_p0_1	Map057.json	0	dialogue	セイリューの民ハンジ：	Hanji, Seiryu Citizen:
-MAP57_e3_p0_2	Map057.json	0	dialogue	………どの薬も高過ぎる。	
-MAP57_e3_p0_3	Map057.json	0	dialogue	でもキラキラしていて綺麗だ…。	
+MAP57_e3_p0_2	Map057.json	0	dialogue	………どの薬も高過ぎる。	......All these medicines are too expensive.
+MAP57_e3_p0_3	Map057.json	0	dialogue	でもキラキラしていて綺麗だ…。	But they're so sparkly and pretty...
 MAP58_e10_p0_1	Map058.json	0	dialogue	ホノオ；	Hono:
 MAP58_e10_p0_11	Map058.json	0	dialogue	ホノオ；	Hono:
-MAP58_e10_p0_12	Map058.json	0	dialogue	お化け…！？	
-MAP58_e10_p0_13	Map058.json	0	dialogue	えっ、これお化けだったのか！こええ！！	
+MAP58_e10_p0_12	Map058.json	0	dialogue	お化け…！？	A ghost...!?
+MAP58_e10_p0_13	Map058.json	0	dialogue	えっ、これお化けだったのか！こええ！！	Huh, so this IS a ghost! Scary!!
 MAP58_e10_p0_15	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p0_16	Map058.json	0	dialogue	むしろ、空中に浮いてる火がお化け以外の	
-MAP58_e10_p0_17	Map058.json	0	dialogue	なんなんだよ？	
-MAP58_e10_p0_19	Map058.json	0	dialogue	来るぞ…　　あんたら、構えろ！	
-MAP58_e10_p0_2	Map058.json	0	dialogue	なんだこれ…？火が浮いているぜ…	
+MAP58_e10_p0_16	Map058.json	0	dialogue	むしろ、空中に浮いてる火がお化け以外の	More to the point, what else would a flame floating in the air
+MAP58_e10_p0_17	Map058.json	0	dialogue	なんなんだよ？	be but a ghost?
+MAP58_e10_p0_19	Map058.json	0	dialogue	来るぞ…　　あんたら、構えろ！	Here they come... You lot, take your stances!
+MAP58_e10_p0_2	Map058.json	0	dialogue	なんだこれ…？火が浮いているぜ…	What is this...? Fire floating in the air...
 MAP58_e10_p0_4	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e10_p0_5	Map058.json	0	dialogue	嫌な予感がする…	
-MAP58_e10_p0_6	Map058.json	0	dialogue	お社の近くにヒノタマっていうお化けが	
+MAP58_e10_p0_6	Map058.json	0	dialogue	お社の近くにヒノタマっていうお化けが	Since I was a kid, they always said hinotama ghosts
 MAP58_e10_p0_7	Map058.json	0	dialogue	出るって、ガキの頃によく言われたけど…	
-MAP58_e10_p0_9	Map058.json	0	dialogue	本当だったとはな。	
+MAP58_e10_p0_9	Map058.json	0	dialogue	本当だったとはな。	so it was true.
 MAP58_e10_p1_1	Map058.json	0	dialogue	ホノオ；	Hono:
 MAP58_e10_p1_11	Map058.json	0	dialogue	ホノオ；	Hono:
-MAP58_e10_p1_12	Map058.json	0	dialogue	お化け…！？	
-MAP58_e10_p1_13	Map058.json	0	dialogue	えっ、これお化けだったのか！こええ！！	
+MAP58_e10_p1_12	Map058.json	0	dialogue	お化け…！？	A ghost...!?
+MAP58_e10_p1_13	Map058.json	0	dialogue	えっ、これお化けだったのか！こええ！！	Huh, so this IS a ghost! Scary!!
 MAP58_e10_p1_15	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p1_16	Map058.json	0	dialogue	むしろ、空中に浮いてる火がお化け以外の	
-MAP58_e10_p1_17	Map058.json	0	dialogue	なんなんだよ？	
-MAP58_e10_p1_19	Map058.json	0	dialogue	来るぞ…　　あんたら、構えろ！	
-MAP58_e10_p1_2	Map058.json	0	dialogue	なんだこれ…？火が浮いているぜ…	
+MAP58_e10_p1_16	Map058.json	0	dialogue	むしろ、空中に浮いてる火がお化け以外の	More to the point, what else would a flame floating in the air
+MAP58_e10_p1_17	Map058.json	0	dialogue	なんなんだよ？	be but a ghost?
+MAP58_e10_p1_19	Map058.json	0	dialogue	来るぞ…　　あんたら、構えろ！	Here they come... You lot, take your stances!
+MAP58_e10_p1_2	Map058.json	0	dialogue	なんだこれ…？火が浮いているぜ…	What is this...? Fire floating in the air...
 MAP58_e10_p1_4	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e10_p1_5	Map058.json	0	dialogue	嫌な予感がする…	
-MAP58_e10_p1_6	Map058.json	0	dialogue	お社の近くにヒノタマっていうお化けが	
+MAP58_e10_p1_6	Map058.json	0	dialogue	お社の近くにヒノタマっていうお化けが	Since I was a kid, they always said hinotama ghosts
 MAP58_e10_p1_7	Map058.json	0	dialogue	出るって、ガキの頃によく言われたけど…	
-MAP58_e10_p1_9	Map058.json	0	dialogue	本当だったとはな。	
-MAP58_e10_p2_10	Map058.json	0	dialogue	それより…	
+MAP58_e10_p1_9	Map058.json	0	dialogue	本当だったとはな。	so it was true.
+MAP58_e10_p2_10	Map058.json	0	dialogue	それより…	Anyway...
 MAP58_e10_p2_100	Map058.json	0	dialogue	自分を強いと感じられたのさ。	
 MAP58_e10_p2_102	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e10_p2_103	Map058.json	0	dialogue	そうか…　いや、でもおまえのいまの動き、	
@@ -5753,74 +5753,74 @@ MAP58_e11_p1_6	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e11_p1_7	Map058.json	0	dialogue	…と、いうことでだ。	
 MAP58_e11_p1_9	Map058.json	0	dialogue	ナガレのアイデアで、	
 MAP58_e5_p0_1	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p0_10	Map058.json	0	dialogue	なんだ？	
+MAP58_e5_p0_10	Map058.json	0	dialogue	なんだ？	What?
 MAP58_e5_p0_12	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p0_13	Map058.json	0	dialogue	こっから龍のいるっていう洞窟に入れるのか？	
+MAP58_e5_p0_13	Map058.json	0	dialogue	こっから龍のいるっていう洞窟に入れるのか？	Can we get into the dragon's cave from here?
 MAP58_e5_p0_15	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p0_16	Map058.json	0	dialogue	そういう話だったろう。	
+MAP58_e5_p0_16	Map058.json	0	dialogue	そういう話だったろう。	That's what they said, right.
 MAP58_e5_p0_18	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p0_19	Map058.json	0	dialogue	で…　だからどうやって入るんだ？？	
-MAP58_e5_p0_2	Map058.json	0	dialogue	着いたよ。	
+MAP58_e5_p0_19	Map058.json	0	dialogue	で…　だからどうやって入るんだ？？	So... then how do we get in??
+MAP58_e5_p0_2	Map058.json	0	dialogue	着いたよ。	We're here.
 MAP58_e5_p0_21	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p0_22	Map058.json	0	dialogue	お社をぶっ壊すしかないだろう？	
+MAP58_e5_p0_22	Map058.json	0	dialogue	お社をぶっ壊すしかないだろう？	We'll have to smash the shrine, right?
 MAP58_e5_p0_24	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e5_p0_25	Map058.json	0	dialogue	えっ！？	Huh!?
-MAP58_e5_p0_26	Map058.json	0	dialogue	そんなことしていいのかよ！？	
+MAP58_e5_p0_26	Map058.json	0	dialogue	そんなことしていいのかよ！？	Are we allowed to do that!?
 MAP58_e5_p0_28	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p0_29	Map058.json	0	dialogue	いいも何も、それしかないだろう。	
-MAP58_e5_p0_3	Map058.json	0	dialogue	ここが龍のお社だ。	
-MAP58_e5_p0_30	Map058.json	0	dialogue	洞窟ふさぐために作られているんだから、	
-MAP58_e5_p0_31	Map058.json	0	dialogue	これがある限り、洞窟に入れない。	
+MAP58_e5_p0_29	Map058.json	0	dialogue	いいも何も、それしかないだろう。	Allowed or not, it's the only way.
+MAP58_e5_p0_3	Map058.json	0	dialogue	ここが龍のお社だ。	This is the Dragon Shrine.
+MAP58_e5_p0_30	Map058.json	0	dialogue	洞窟ふさぐために作られているんだから、	It was built to seal the cave, so
+MAP58_e5_p0_31	Map058.json	0	dialogue	これがある限り、洞窟に入れない。	as long as it stands, we can't enter the cave.
 MAP58_e5_p0_33	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p0_34	Map058.json	0	dialogue	そうだけど…	
-MAP58_e5_p0_35	Map058.json	0	dialogue	もったいないな、こんな立派な建物壊すのは…	
+MAP58_e5_p0_34	Map058.json	0	dialogue	そうだけど…	I guess so, but...
+MAP58_e5_p0_35	Map058.json	0	dialogue	もったいないな、こんな立派な建物壊すのは…	What a waste, destroying such a fine building...
 MAP58_e5_p0_37	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p0_38	Map058.json	0	dialogue	いらねえよ、もう…　こんなもん。	
+MAP58_e5_p0_38	Map058.json	0	dialogue	いらねえよ、もう…　こんなもん。	This thing's useless now, anyway...
 MAP58_e5_p0_40	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p0_41	Map058.json	0	dialogue	………そうか？	
+MAP58_e5_p0_41	Map058.json	0	dialogue	………そうか？	......Is that so?
 MAP58_e5_p0_43	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p0_44	Map058.json	0	dialogue	さあ、ホノオ、とっととやれ。	
-MAP58_e5_p0_45	Map058.json	0	dialogue	あんたの魔法で爆発させればすぐだろう？	
+MAP58_e5_p0_44	Map058.json	0	dialogue	さあ、ホノオ、とっととやれ。	Come on, Hono, get on with it.
+MAP58_e5_p0_45	Map058.json	0	dialogue	あんたの魔法で爆発させればすぐだろう？	One explosion from your magic and it's done, right?
 MAP58_e5_p0_47	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p0_48	Map058.json	0	dialogue	…ああ、ちょっと待ってろ。	
+MAP58_e5_p0_48	Map058.json	0	dialogue	…ああ、ちょっと待ってろ。	...Yeah, hold on a sec.
 MAP58_e5_p0_5	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e5_p0_6	Map058.json	0	dialogue	おう！	Oh!
-MAP58_e5_p0_7	Map058.json	0	dialogue	…で？	
+MAP58_e5_p0_7	Map058.json	0	dialogue	…で？	...So?
 MAP58_e5_p0_9	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e5_p1_1	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p1_10	Map058.json	0	dialogue	なんだ？	
+MAP58_e5_p1_10	Map058.json	0	dialogue	なんだ？	What?
 MAP58_e5_p1_12	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p1_13	Map058.json	0	dialogue	こっから龍のいるっていう洞窟に入れるのか？	
+MAP58_e5_p1_13	Map058.json	0	dialogue	こっから龍のいるっていう洞窟に入れるのか？	Can we get into the dragon's cave from here?
 MAP58_e5_p1_15	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p1_16	Map058.json	0	dialogue	そういう話だったろう。	
+MAP58_e5_p1_16	Map058.json	0	dialogue	そういう話だったろう。	That's what they said, right.
 MAP58_e5_p1_18	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p1_19	Map058.json	0	dialogue	で…　だからどうやって入るんだ？？	
-MAP58_e5_p1_2	Map058.json	0	dialogue	着いたよ。	
+MAP58_e5_p1_19	Map058.json	0	dialogue	で…　だからどうやって入るんだ？？	So... then how do we get in??
+MAP58_e5_p1_2	Map058.json	0	dialogue	着いたよ。	We're here.
 MAP58_e5_p1_21	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p1_22	Map058.json	0	dialogue	お社をぶっ壊すしかないだろう？	
+MAP58_e5_p1_22	Map058.json	0	dialogue	お社をぶっ壊すしかないだろう？	We'll have to smash the shrine, right?
 MAP58_e5_p1_24	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e5_p1_25	Map058.json	0	dialogue	えっ！？	Huh!?
-MAP58_e5_p1_26	Map058.json	0	dialogue	そんなことしていいのかよ！？	
+MAP58_e5_p1_26	Map058.json	0	dialogue	そんなことしていいのかよ！？	Are we allowed to do that!?
 MAP58_e5_p1_28	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p1_29	Map058.json	0	dialogue	いいも何も、それしかないだろう。	
-MAP58_e5_p1_3	Map058.json	0	dialogue	ここが龍のお社だ。	
-MAP58_e5_p1_30	Map058.json	0	dialogue	洞窟ふさぐために作られているんだから、	
-MAP58_e5_p1_31	Map058.json	0	dialogue	これがある限り、洞窟に入れない。	
+MAP58_e5_p1_29	Map058.json	0	dialogue	いいも何も、それしかないだろう。	Allowed or not, it's the only way.
+MAP58_e5_p1_3	Map058.json	0	dialogue	ここが龍のお社だ。	This is the Dragon Shrine.
+MAP58_e5_p1_30	Map058.json	0	dialogue	洞窟ふさぐために作られているんだから、	It was built to seal the cave, so
+MAP58_e5_p1_31	Map058.json	0	dialogue	これがある限り、洞窟に入れない。	as long as it stands, we can't enter the cave.
 MAP58_e5_p1_33	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p1_34	Map058.json	0	dialogue	そうだけど…	
-MAP58_e5_p1_35	Map058.json	0	dialogue	もったいないな、こんな立派な建物壊すのは…	
+MAP58_e5_p1_34	Map058.json	0	dialogue	そうだけど…	I guess so, but...
+MAP58_e5_p1_35	Map058.json	0	dialogue	もったいないな、こんな立派な建物壊すのは…	What a waste, destroying such a fine building...
 MAP58_e5_p1_37	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p1_38	Map058.json	0	dialogue	いらねえよ、もう…　こんなもん。	
+MAP58_e5_p1_38	Map058.json	0	dialogue	いらねえよ、もう…　こんなもん。	This thing's useless now, anyway...
 MAP58_e5_p1_40	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p1_41	Map058.json	0	dialogue	………そうか？	
+MAP58_e5_p1_41	Map058.json	0	dialogue	………そうか？	......Is that so?
 MAP58_e5_p1_43	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e5_p1_44	Map058.json	0	dialogue	さあ、ホノオ、とっととやれ。	
-MAP58_e5_p1_45	Map058.json	0	dialogue	あんたの魔法で爆発させればすぐだろう？	
+MAP58_e5_p1_44	Map058.json	0	dialogue	さあ、ホノオ、とっととやれ。	Come on, Hono, get on with it.
+MAP58_e5_p1_45	Map058.json	0	dialogue	あんたの魔法で爆発させればすぐだろう？	One explosion from your magic and it's done, right?
 MAP58_e5_p1_47	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p1_48	Map058.json	0	dialogue	…ああ、ちょっと待ってろ。	
+MAP58_e5_p1_48	Map058.json	0	dialogue	…ああ、ちょっと待ってろ。	...Yeah, hold on a sec.
 MAP58_e5_p1_5	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e5_p1_6	Map058.json	0	dialogue	おう！	Oh!
-MAP58_e5_p1_7	Map058.json	0	dialogue	…で？	
+MAP58_e5_p1_7	Map058.json	0	dialogue	…で？	...So?
 MAP58_e5_p1_9	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP59_e6_p0_12	Map059.json	0	dialogue	ナガレ：	Nagare:
 MAP59_e6_p0_13	Map059.json	0	dialogue	おい、なんでこんなに明るいんだ。	Hey, why is it so bright in here?
@@ -5849,58 +5849,58 @@ MAP59_e6_p1_29	Map059.json	0	dialogue	　　　　　　　　　　　ウィン
 MAP59_e6_p1_31	Map059.json	0	dialogue	ナガレ：	Nagare:
 MAP59_e6_p1_32	Map059.json	0	dialogue	あ、そう…　べ、便利だな…	O-Oh... H-Handy, huh...
 MAP59_e6_p1_34	Map059.json	0	dialogue	ホノオ：	Hono:
-MAP59_e6_p1_35	Map059.json	0	dialogue	しっかし…　かなり魔物の気配がするぜ…	
-MAP59_e6_p1_36	Map059.json	0	dialogue	明るいからって油断すんなよー…	
+MAP59_e6_p1_35	Map059.json	0	dialogue	しっかし…　かなり魔物の気配がするぜ…	Man... I sense quite a few monsters...
+MAP59_e6_p1_36	Map059.json	0	dialogue	明るいからって油断すんなよー…	Don't let your guard down just because it's bright...
 MAP59_e7_p0_1	Map059.json	0	dialogue	ホノオ：	Hono:
 MAP59_e7_p0_10	Map059.json	0	dialogue	ホノオ：	Hono:
-MAP59_e7_p0_11	Map059.json	0	dialogue	で…　どうすんだこれ…。	
-MAP59_e7_p0_12	Map059.json	0	dialogue	落っこちるのかよ…？	
+MAP59_e7_p0_11	Map059.json	0	dialogue	で…　どうすんだこれ…。	So... what do we do with this...
+MAP59_e7_p0_12	Map059.json	0	dialogue	落っこちるのかよ…？	We're falling...?
 MAP59_e7_p0_14	Map059.json	0	dialogue	ナガレ：	Nagare:
-MAP59_e7_p0_15	Map059.json	0	dialogue	当たり前だろう？	
-MAP59_e7_p0_16	Map059.json	0	dialogue	落っこちながら龍の頭に、	
-MAP59_e7_p0_17	Map059.json	0	dialogue	みんなで剣をぶっ刺すのさ！	
+MAP59_e7_p0_15	Map059.json	0	dialogue	当たり前だろう？	Of course?
+MAP59_e7_p0_16	Map059.json	0	dialogue	落っこちながら龍の頭に、	We'll all drive our swords into
+MAP59_e7_p0_17	Map059.json	0	dialogue	みんなで剣をぶっ刺すのさ！	the dragon's head as we fall!
 MAP59_e7_p0_19	Map059.json	0	dialogue	ホノオ：	Hono:
-MAP59_e7_p0_2	Map059.json	0	dialogue	例の落っこちると龍がいるって穴…	
-MAP59_e7_p0_20	Map059.json	0	dialogue	いやいやいやいや…	
-MAP59_e7_p0_21	Map059.json	0	dialogue	本気で言ってるのか冗談なのか分からんから…	
+MAP59_e7_p0_2	Map059.json	0	dialogue	例の落っこちると龍がいるって穴…	That hole where they said falling in means facing a dragon...
+MAP59_e7_p0_20	Map059.json	0	dialogue	いやいやいやいや…	No no no no...
+MAP59_e7_p0_21	Map059.json	0	dialogue	本気で言ってるのか冗談なのか分からんから…	I can't tell if you're serious or joking...
 MAP59_e7_p0_23	Map059.json	0	dialogue	ナガレ：	Nagare:
-MAP59_e7_p0_24	Map059.json	0	dialogue	…もちろん冗談だよ。	
-MAP59_e7_p0_25	Map059.json	0	dialogue	屋敷から長い縄を持ってきてる。	
-MAP59_e7_p0_26	Map059.json	0	dialogue	これを伝って降りるぞ。	
+MAP59_e7_p0_24	Map059.json	0	dialogue	…もちろん冗談だよ。	...Of course it's a joke.
+MAP59_e7_p0_25	Map059.json	0	dialogue	屋敷から長い縄を持ってきてる。	I brought a long rope from the estate.
+MAP59_e7_p0_26	Map059.json	0	dialogue	これを伝って降りるぞ。	We'll climb down this.
 MAP59_e7_p0_28	Map059.json	0	dialogue	ホノオ：	Hono:
-MAP59_e7_p0_29	Map059.json	0	dialogue	あ、そうですか…。	
-MAP59_e7_p0_3	Map059.json	0	dialogue	これだろうな…。	
-MAP59_e7_p0_30	Map059.json	0	dialogue	しかしそれだって、十分におっかねえなー…。	
+MAP59_e7_p0_29	Map059.json	0	dialogue	あ、そうですか…。	Oh, right...
+MAP59_e7_p0_3	Map059.json	0	dialogue	これだろうな…。	This must be it...
+MAP59_e7_p0_30	Map059.json	0	dialogue	しかしそれだって、十分におっかねえなー…。	But even so, this is scary enough...
 MAP59_e7_p0_36	Map059.json	0	dialogue	ホノオ：	Hono:
-MAP59_e7_p0_37	Map059.json	0	dialogue	…結構降りたが…まだ全然下が見えねえぞ。	
+MAP59_e7_p0_37	Map059.json	0	dialogue	…結構降りたが…まだ全然下が見えねえぞ。	...We've climbed down a fair bit... but I still can't see the bottom at all.
 MAP59_e7_p0_39	Map059.json	0	dialogue	ナガレ：	Nagare:
-MAP59_e7_p0_40	Map059.json	0	dialogue	…水の者だかなんだかも、	
-MAP59_e7_p0_41	Map059.json	0	dialogue	落っこちながら考え事をしていたらしいから、	
-MAP59_e7_p0_42	Map059.json	0	dialogue	相当に深い穴なんだろうな。	
+MAP59_e7_p0_40	Map059.json	0	dialogue	…水の者だかなんだかも、	...Even the Water guy, or whoever,
+MAP59_e7_p0_41	Map059.json	0	dialogue	落っこちながら考え事をしていたらしいから、	was said to have been lost in thought while falling, so
+MAP59_e7_p0_42	Map059.json	0	dialogue	相当に深い穴なんだろうな。	this must be a really deep hole.
 MAP59_e7_p0_46	Map059.json	0	dialogue	ナガレ：	Nagare:
-MAP59_e7_p0_47	Map059.json	0	dialogue	少しひかりが見えてきた…！	
-MAP59_e7_p0_48	Map059.json	0	dialogue	そろそろ着くみたいだぞ！	
+MAP59_e7_p0_47	Map059.json	0	dialogue	少しひかりが見えてきた…！	I can see a little light...!
+MAP59_e7_p0_48	Map059.json	0	dialogue	そろそろ着くみたいだぞ！	Looks like we're almost there!
 MAP59_e7_p0_5	Map059.json	0	dialogue	ナガレ：	Nagare:
 MAP59_e7_p0_50	Map059.json	0	dialogue	ホノオ：	Hono:
-MAP59_e7_p0_51	Map059.json	0	dialogue	…やっとかー	
-MAP59_e7_p0_52	Map059.json	0	dialogue	ちょっと待て…　	
-MAP59_e7_p0_53	Map059.json	0	dialogue	…なんか下から話し声がしねえか…？	
+MAP59_e7_p0_51	Map059.json	0	dialogue	…やっとかー	...Finally~
+MAP59_e7_p0_52	Map059.json	0	dialogue	ちょっと待て…　	Hold on...
+MAP59_e7_p0_53	Map059.json	0	dialogue	…なんか下から話し声がしねえか…？	...Do you hear voices from below...?
 MAP59_e7_p0_55	Map059.json	0	dialogue	ナガレ：	Nagare:
-MAP59_e7_p0_56	Map059.json	0	dialogue	………本当だ。	
-MAP59_e7_p0_57	Map059.json	0	dialogue	…龍じゃなくてひとがいる？	
-MAP59_e7_p0_58	Map059.json	0	dialogue	龍が話す？そうだとしても、誰と…？	
-MAP59_e7_p0_6	Map059.json	0	dialogue	そうだろうな。	
+MAP59_e7_p0_56	Map059.json	0	dialogue	………本当だ。	......I do.
+MAP59_e7_p0_57	Map059.json	0	dialogue	…龍じゃなくてひとがいる？	...There are people down there, not a dragon?
+MAP59_e7_p0_58	Map059.json	0	dialogue	龍が話す？そうだとしても、誰と…？	A dragon that talks? Even so, with whom...?
+MAP59_e7_p0_6	Map059.json	0	dialogue	そうだろうな。	Probably.
 MAP59_e7_p0_60	Map059.json	0	dialogue	ナガレ：	Nagare:
 MAP59_e7_p0_61	Map059.json	0	dialogue	あっ！！	Ah!!
 MAP59_e7_p0_63	Map059.json	0	dialogue	ホノオ：	Hono:
-MAP59_e7_p0_64	Map059.json	0	dialogue	おわーーーっ！？	
-MAP59_e7_p0_65	Map059.json	0	dialogue	お、おちるーーーー！！！！	
-MAP59_e7_p0_7	Map059.json	0	dialogue	他にそれらしい穴はなかった…	
-MAP59_e7_p0_8	Map059.json	0	dialogue	間違いないだろう。	
+MAP59_e7_p0_64	Map059.json	0	dialogue	おわーーーっ！？	Whoaaaa!?
+MAP59_e7_p0_65	Map059.json	0	dialogue	お、おちるーーーー！！！！	W-We're faaaaalling!!!!
+MAP59_e7_p0_7	Map059.json	0	dialogue	他にそれらしい穴はなかった…	There was no other hole like this...
+MAP59_e7_p0_8	Map059.json	0	dialogue	間違いないだろう。	No doubt about it.
 MAP59_e8_p0_1	Map059.json	0	dialogue	ナガレ：	Nagare:
-MAP59_e8_p0_2	Map059.json	0	dialogue	穴が見えてきた…	
-MAP59_e8_p0_3	Map059.json	0	dialogue	きっとあれに落ちたら龍がいる…。	
-MAP59_e8_p0_4	Map059.json	0	dialogue	みんな、気を引き締めた方がいい。	
+MAP59_e8_p0_2	Map059.json	0	dialogue	穴が見えてきた…	The hole's come into view...
+MAP59_e8_p0_3	Map059.json	0	dialogue	きっとあれに落ちたら龍がいる…。	If we fall into that, the dragon's surely there...
+MAP59_e8_p0_4	Map059.json	0	dialogue	みんな、気を引き締めた方がいい。	Everyone, better steel yourselves.
 MAP60_e10_p1_10	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e10_p1_100	Map060.json	0	dialogue	あたしたちにはそう伝わってるんだよ。	
 MAP60_e10_p1_102	Map060.json	0	dialogue	ホノオ：	Hono:
@@ -6194,26 +6194,26 @@ MAP60_e6_p0_97	Map060.json	0	dialogue	あなたたちから、火と風のエレ
 MAP60_e6_p0_98	Map060.json	0	dialogue	感じるわ。	
 MAP60_e6_p1_10	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p1_105	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e6_p1_106	Map060.json	0	dialogue	ここまでだ！ミケーネ！！	
+MAP60_e6_p1_106	Map060.json	0	dialogue	ここまでだ！ミケーネ！！	This is the end, Mycenae!!
 MAP60_e6_p1_109	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p1_11	Map060.json	0	dialogue	させるかーー！！	
 MAP60_e6_p1_110	Map060.json	0	dialogue	………負けたわ。	
 MAP60_e6_p1_112	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e6_p1_113	Map060.json	0	dialogue	やったぜ！！	
+MAP60_e6_p1_113	Map060.json	0	dialogue	やったぜ！！	We did it!!
 MAP60_e6_p1_115	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e6_p1_116	Map060.json	0	dialogue	闇のエレメントの復活…	The revival of the Dark Element...
-MAP60_e6_p1_117	Map060.json	0	dialogue	これで弱まったんだな？	
+MAP60_e6_p1_117	Map060.json	0	dialogue	これで弱まったんだな？	That weakened her, right?
 MAP60_e6_p1_121	Map060.json	0	dialogue	ミケーネ：	Mycenae:
-MAP60_e6_p1_122	Map060.json	0	dialogue	そうね…。	
-MAP60_e6_p1_123	Map060.json	0	dialogue	最強の闇の結晶である青龍が手に入らなかった	
-MAP60_e6_p1_124	Map060.json	0	dialogue	のは、大きいわ。	
+MAP60_e6_p1_122	Map060.json	0	dialogue	そうね…。	Yes...
+MAP60_e6_p1_123	Map060.json	0	dialogue	最強の闇の結晶である青龍が手に入らなかった	Not getting Seiryu, the strongest Dark Crystal, is a real loss, though.
+MAP60_e6_p1_124	Map060.json	0	dialogue	のは、大きいわ。	It's a big blow.
 MAP60_e6_p1_126	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e6_p1_127	Map060.json	0	dialogue	じゃあこれで、復活を阻止できたのか…？	
+MAP60_e6_p1_127	Map060.json	0	dialogue	じゃあこれで、復活を阻止できたのか…？	So with this, we've stopped the revival...?
 MAP60_e6_p1_129	Map060.json	0	dialogue	ミケーネ：	Mycenae:
-MAP60_e6_p1_130	Map060.json	0	dialogue	…あなたたち、一体どこまで知っているの？	
+MAP60_e6_p1_130	Map060.json	0	dialogue	…あなたたち、一体どこまで知っているの？	...Just how much do you lot know?
 MAP60_e6_p1_132	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e6_p1_135	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e6_p1_136	Map060.json	0	dialogue	う…。	
+MAP60_e6_p1_136	Map060.json	0	dialogue	う…。	Uh...
 MAP60_e6_p1_140	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p1_141	Map060.json	0	dialogue	これから何が起こるのか…	
 MAP60_e6_p1_142	Map060.json	0	dialogue	わかっていない感じに見えるんだけれど？	
@@ -6298,27 +6298,27 @@ MAP60_e6_p2_103	Map060.json	0	dialogue	ウィン：	Win:
 MAP60_e6_p2_107	Map060.json	0	dialogue	　　　　　　　　　　ウィンは頷いた！	Win nodded!
 MAP60_e6_p2_11	Map060.json	0	dialogue	やらせるかああああああーーッ！！！！	
 MAP60_e6_p2_118	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e6_p2_119	Map060.json	0	dialogue	ここまでだ！ミケーネ！！	
+MAP60_e6_p2_119	Map060.json	0	dialogue	ここまでだ！ミケーネ！！	This is the end, Mycenae!!
 MAP60_e6_p2_12	Map060.json	0	dialogue	くおおおおおらああああ！！！！	
 MAP60_e6_p2_122	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p2_123	Map060.json	0	dialogue	………信じられない…	
 MAP60_e6_p2_124	Map060.json	0	dialogue	この短期間でここまでの力を持っているとは…	
 MAP60_e6_p2_126	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e6_p2_127	Map060.json	0	dialogue	やったぜ！！	
+MAP60_e6_p2_127	Map060.json	0	dialogue	やったぜ！！	We did it!!
 MAP60_e6_p2_129	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e6_p2_130	Map060.json	0	dialogue	闇のエレメントの復活…	The revival of the Dark Element...
-MAP60_e6_p2_131	Map060.json	0	dialogue	これで弱まったんだな？	
+MAP60_e6_p2_131	Map060.json	0	dialogue	これで弱まったんだな？	That weakened her, right?
 MAP60_e6_p2_135	Map060.json	0	dialogue	ミケーネ：	Mycenae:
-MAP60_e6_p2_136	Map060.json	0	dialogue	そうね…。	
-MAP60_e6_p2_137	Map060.json	0	dialogue	最強の闇の結晶である青龍が手に入らなかった	
-MAP60_e6_p2_138	Map060.json	0	dialogue	のは、大きいわ。	
+MAP60_e6_p2_136	Map060.json	0	dialogue	そうね…。	Yes...
+MAP60_e6_p2_137	Map060.json	0	dialogue	最強の闇の結晶である青龍が手に入らなかった	Not getting Seiryu, the strongest Dark Crystal, is a real loss, though.
+MAP60_e6_p2_138	Map060.json	0	dialogue	のは、大きいわ。	It's a big blow.
 MAP60_e6_p2_140	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e6_p2_141	Map060.json	0	dialogue	じゃあこれで、復活を阻止できたのか…？	
+MAP60_e6_p2_141	Map060.json	0	dialogue	じゃあこれで、復活を阻止できたのか…？	So with this, we've stopped the revival...?
 MAP60_e6_p2_143	Map060.json	0	dialogue	ミケーネ：	Mycenae:
-MAP60_e6_p2_144	Map060.json	0	dialogue	…あなたたち、一体どこまで知っているの？	
+MAP60_e6_p2_144	Map060.json	0	dialogue	…あなたたち、一体どこまで知っているの？	...Just how much do you lot know?
 MAP60_e6_p2_146	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e6_p2_149	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e6_p2_150	Map060.json	0	dialogue	う…。	
+MAP60_e6_p2_150	Map060.json	0	dialogue	う…。	Uh...
 MAP60_e6_p2_154	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p2_155	Map060.json	0	dialogue	これから何が起こるのか…	
 MAP60_e6_p2_156	Map060.json	0	dialogue	わかっていない感じに見えるんだけれど？	
@@ -6618,7 +6618,7 @@ MAP61_e55_p2_2	Map061.json	0	dialogue	あんたの家の方を頼む…
 MAP61_e55_p2_3	Map061.json	0	dialogue	マハリが守っているはずだ…　	
 MAP61_e56_p1_10	Map061.json	0	dialogue	大丈夫…　ちょっと突き指しただけだよ	
 MAP61_e56_p1_12	Map061.json	0	dialogue	マハリ：	Mahari:
-MAP61_e56_p1_13	Map061.json	0	dialogue	それより…	
+MAP61_e56_p1_13	Map061.json	0	dialogue	それより…	Anyway...
 MAP61_e56_p1_14	Map061.json	0	dialogue	どうやら魔物たちはこれで片付いたみたいだね	
 MAP61_e56_p1_16	Map061.json	0	dialogue	ホノオ：	Hono:
 MAP61_e56_p1_17	Map061.json	0	dialogue	しっかし…　一体何が起こったんだ…？	
@@ -13820,58 +13820,58 @@ MAP101_e6_p1_29	Map101.json	0	dialogue	　　　　　　　　　　　ウィ�
 MAP101_e6_p1_31	Map101.json	0	dialogue	ナガレ：	Nagare:
 MAP101_e6_p1_32	Map101.json	0	dialogue	あ、そう…　べ、便利だな…	O-Oh... H-Handy, huh...
 MAP101_e6_p1_34	Map101.json	0	dialogue	ホノオ：	Hono:
-MAP101_e6_p1_35	Map101.json	0	dialogue	しっかし…　かなり魔物の気配がするぜ…	
-MAP101_e6_p1_36	Map101.json	0	dialogue	明るいからって油断すんなよー…	
+MAP101_e6_p1_35	Map101.json	0	dialogue	しっかし…　かなり魔物の気配がするぜ…	Man... I sense quite a few monsters...
+MAP101_e6_p1_36	Map101.json	0	dialogue	明るいからって油断すんなよー…	Don't let your guard down just because it's bright...
 MAP101_e7_p0_1	Map101.json	0	dialogue	ホノオ：	Hono:
 MAP101_e7_p0_10	Map101.json	0	dialogue	ホノオ：	Hono:
-MAP101_e7_p0_11	Map101.json	0	dialogue	で…　どうすんだこれ…。	
-MAP101_e7_p0_12	Map101.json	0	dialogue	落っこちるのかよ…？	
+MAP101_e7_p0_11	Map101.json	0	dialogue	で…　どうすんだこれ…。	So... what do we do with this...
+MAP101_e7_p0_12	Map101.json	0	dialogue	落っこちるのかよ…？	We're falling...?
 MAP101_e7_p0_14	Map101.json	0	dialogue	ナガレ：	Nagare:
-MAP101_e7_p0_15	Map101.json	0	dialogue	当たり前だろう？	
-MAP101_e7_p0_16	Map101.json	0	dialogue	落っこちながら龍の頭に、	
-MAP101_e7_p0_17	Map101.json	0	dialogue	みんなで剣をぶっ刺すのさ！	
+MAP101_e7_p0_15	Map101.json	0	dialogue	当たり前だろう？	Of course?
+MAP101_e7_p0_16	Map101.json	0	dialogue	落っこちながら龍の頭に、	We'll all drive our swords into
+MAP101_e7_p0_17	Map101.json	0	dialogue	みんなで剣をぶっ刺すのさ！	the dragon's head as we fall!
 MAP101_e7_p0_19	Map101.json	0	dialogue	ホノオ：	Hono:
-MAP101_e7_p0_2	Map101.json	0	dialogue	例の落っこちると龍がいるって穴…	
-MAP101_e7_p0_20	Map101.json	0	dialogue	いやいやいやいや…	
-MAP101_e7_p0_21	Map101.json	0	dialogue	本気で言ってるのか冗談なのか分からんから…	
+MAP101_e7_p0_2	Map101.json	0	dialogue	例の落っこちると龍がいるって穴…	That hole where they said falling in means facing a dragon...
+MAP101_e7_p0_20	Map101.json	0	dialogue	いやいやいやいや…	No no no no...
+MAP101_e7_p0_21	Map101.json	0	dialogue	本気で言ってるのか冗談なのか分からんから…	I can't tell if you're serious or joking...
 MAP101_e7_p0_23	Map101.json	0	dialogue	ナガレ：	Nagare:
-MAP101_e7_p0_24	Map101.json	0	dialogue	…もちろん冗談だよ。	
-MAP101_e7_p0_25	Map101.json	0	dialogue	屋敷から長い縄を持ってきてる。	
-MAP101_e7_p0_26	Map101.json	0	dialogue	これを伝って降りるぞ。	
+MAP101_e7_p0_24	Map101.json	0	dialogue	…もちろん冗談だよ。	...Of course it's a joke.
+MAP101_e7_p0_25	Map101.json	0	dialogue	屋敷から長い縄を持ってきてる。	I brought a long rope from the estate.
+MAP101_e7_p0_26	Map101.json	0	dialogue	これを伝って降りるぞ。	We'll climb down this.
 MAP101_e7_p0_28	Map101.json	0	dialogue	ホノオ：	Hono:
-MAP101_e7_p0_29	Map101.json	0	dialogue	あ、そうですか…。	
-MAP101_e7_p0_3	Map101.json	0	dialogue	これだろうな…。	
-MAP101_e7_p0_30	Map101.json	0	dialogue	しかしそれだって、十分におっかねえなー…。	
+MAP101_e7_p0_29	Map101.json	0	dialogue	あ、そうですか…。	Oh, right...
+MAP101_e7_p0_3	Map101.json	0	dialogue	これだろうな…。	This must be it...
+MAP101_e7_p0_30	Map101.json	0	dialogue	しかしそれだって、十分におっかねえなー…。	But even so, this is scary enough...
 MAP101_e7_p0_36	Map101.json	0	dialogue	ホノオ：	Hono:
-MAP101_e7_p0_37	Map101.json	0	dialogue	…結構降りたが…まだ全然下が見えねえぞ。	
+MAP101_e7_p0_37	Map101.json	0	dialogue	…結構降りたが…まだ全然下が見えねえぞ。	...We've climbed down a fair bit... but I still can't see the bottom at all.
 MAP101_e7_p0_39	Map101.json	0	dialogue	ナガレ：	Nagare:
-MAP101_e7_p0_40	Map101.json	0	dialogue	…水の者だかなんだかも、	
-MAP101_e7_p0_41	Map101.json	0	dialogue	落っこちながら考え事をしていたらしいから、	
-MAP101_e7_p0_42	Map101.json	0	dialogue	相当に深い穴なんだろうな。	
+MAP101_e7_p0_40	Map101.json	0	dialogue	…水の者だかなんだかも、	...Even the Water guy, or whoever,
+MAP101_e7_p0_41	Map101.json	0	dialogue	落っこちながら考え事をしていたらしいから、	was said to have been lost in thought while falling, so
+MAP101_e7_p0_42	Map101.json	0	dialogue	相当に深い穴なんだろうな。	this must be a really deep hole.
 MAP101_e7_p0_46	Map101.json	0	dialogue	ナガレ：	Nagare:
-MAP101_e7_p0_47	Map101.json	0	dialogue	少しひかりが見えてきた…！	
-MAP101_e7_p0_48	Map101.json	0	dialogue	そろそろ着くみたいだぞ！	
+MAP101_e7_p0_47	Map101.json	0	dialogue	少しひかりが見えてきた…！	I can see a little light...!
+MAP101_e7_p0_48	Map101.json	0	dialogue	そろそろ着くみたいだぞ！	Looks like we're almost there!
 MAP101_e7_p0_5	Map101.json	0	dialogue	ナガレ：	Nagare:
 MAP101_e7_p0_50	Map101.json	0	dialogue	ホノオ：	Hono:
-MAP101_e7_p0_51	Map101.json	0	dialogue	…やっとかー	
-MAP101_e7_p0_52	Map101.json	0	dialogue	ちょっと待て…　	
-MAP101_e7_p0_53	Map101.json	0	dialogue	…なんか下から話し声がしねえか…？	
+MAP101_e7_p0_51	Map101.json	0	dialogue	…やっとかー	...Finally~
+MAP101_e7_p0_52	Map101.json	0	dialogue	ちょっと待て…　	Hold on...
+MAP101_e7_p0_53	Map101.json	0	dialogue	…なんか下から話し声がしねえか…？	...Do you hear voices from below...?
 MAP101_e7_p0_55	Map101.json	0	dialogue	ナガレ：	Nagare:
-MAP101_e7_p0_56	Map101.json	0	dialogue	………本当だ。	
-MAP101_e7_p0_57	Map101.json	0	dialogue	…龍じゃなくてひとがいる？	
-MAP101_e7_p0_58	Map101.json	0	dialogue	龍が話す？そうだとしても、誰と…？	
-MAP101_e7_p0_6	Map101.json	0	dialogue	そうだろうな。	
+MAP101_e7_p0_56	Map101.json	0	dialogue	………本当だ。	......I do.
+MAP101_e7_p0_57	Map101.json	0	dialogue	…龍じゃなくてひとがいる？	...There are people down there, not a dragon?
+MAP101_e7_p0_58	Map101.json	0	dialogue	龍が話す？そうだとしても、誰と…？	A dragon that talks? Even so, with whom...?
+MAP101_e7_p0_6	Map101.json	0	dialogue	そうだろうな。	Probably.
 MAP101_e7_p0_60	Map101.json	0	dialogue	ナガレ：	Nagare:
 MAP101_e7_p0_61	Map101.json	0	dialogue	あっ！！	Ah!!
 MAP101_e7_p0_63	Map101.json	0	dialogue	ホノオ：	Hono:
-MAP101_e7_p0_64	Map101.json	0	dialogue	おわーーーっ！？	
-MAP101_e7_p0_65	Map101.json	0	dialogue	お、おちるーーーー！！！！	
-MAP101_e7_p0_7	Map101.json	0	dialogue	他にそれらしい穴はなかった…	
-MAP101_e7_p0_8	Map101.json	0	dialogue	間違いないだろう。	
+MAP101_e7_p0_64	Map101.json	0	dialogue	おわーーーっ！？	Whoaaaa!?
+MAP101_e7_p0_65	Map101.json	0	dialogue	お、おちるーーーー！！！！	W-We're faaaaalling!!!!
+MAP101_e7_p0_7	Map101.json	0	dialogue	他にそれらしい穴はなかった…	There was no other hole like this...
+MAP101_e7_p0_8	Map101.json	0	dialogue	間違いないだろう。	No doubt about it.
 MAP101_e8_p0_1	Map101.json	0	dialogue	ナガレ：	Nagare:
-MAP101_e8_p0_2	Map101.json	0	dialogue	穴が見えてきた…	
-MAP101_e8_p0_3	Map101.json	0	dialogue	きっとあれに落ちたら龍がいる…。	
-MAP101_e8_p0_4	Map101.json	0	dialogue	みんな、気を引き締めた方がいい。	
+MAP101_e8_p0_2	Map101.json	0	dialogue	穴が見えてきた…	The hole's come into view...
+MAP101_e8_p0_3	Map101.json	0	dialogue	きっとあれに落ちたら龍がいる…。	If we fall into that, the dragon's surely there...
+MAP101_e8_p0_4	Map101.json	0	dialogue	みんな、気を引き締めた方がいい。	Everyone, better steel yourselves.
 MAP101_e9_p0_10	Map101.json	0	dialogue	にっかり青江を手に入れた！	
 MAP102_e10_p1_10	Map102.json	0	dialogue	ナガレ	Nagare
 MAP102_e10_p1_11	Map102.json	0	dialogue	「誰だっオマエは！？	"""Who the heck are you!?"""
