@@ -5023,7 +5023,7 @@ MAP64_e31_p2_36	ぐ…　すまん…！	Guh... sorry...!
 MAP64_e31_p2_41	また会ったわね、あなたたち…	We meet again, you lot...
 MAP64_e31_p2_42	随分と一方的にナウーを可愛がってくれた	You gave Nau quite the one-sided
 MAP64_e31_p2_43	みたいね…	beating...
-MAP64_e31_p2_46	いくらナウーが正々堂々の肉体バトルを	
+MAP64_e31_p2_46	いくらナウーが正々堂々の肉体バトルを	As much as Nau imposes fair, all-out battles
 MAP64_e31_p2_47	自分に課しているとはいえ…	on itself...
 MAP64_e31_p2_48	一方的過ぎたわ。	it was far too one-sided.
 MAP64_e31_p2_51	へへ…！！	Hehe...!!
@@ -5046,16 +5046,16 @@ MAP64_e31_p2_86	来るぞ…！！	Here they come...!!
 MAP64_e31_p2_9	お遊びが過ぎるよ、ナウ―！	You've been playing too much, Nau!
 MAP64_e31_p2_95	…やったぞ！！	...We did it!!
 MAP64_e31_p2_98	…さすがに時間切れね。	...Out of time, as expected.
-MAP64_e31_p2_99	これ以上パワーを消耗したら…	
-MAP64_e32_p1_13	………くそっ……	
-MAP64_e32_p1_25	親父…　すまん。	
-MAP64_e32_p1_26	四天王を逃がしちまった…	
-MAP64_e32_p1_29	わしにお前を責める資格はない…	
-MAP64_e32_p1_30	お前は…よくやった。	
-MAP64_e32_p1_33	…そうだと、いいな………	
-MAP64_e32_p1_37	ホノオ！　あんたも早く手当を手伝え！	
-MAP64_e32_p1_38	薬は持ってるだろ！？	
-MAP64_e32_p1_43	お、おう…！！	
+MAP64_e31_p2_99	これ以上パワーを消耗したら…	If I drain any more power...
+MAP64_e32_p1_13	………くそっ……	.........Damn...
+MAP64_e32_p1_25	親父…　すまん。	Dad... sorry.
+MAP64_e32_p1_26	四天王を逃がしちまった…	I let a Four General get away...
+MAP64_e32_p1_29	わしにお前を責める資格はない…	I've no right to blame you...
+MAP64_e32_p1_30	お前は…よくやった。	You... did well.
+MAP64_e32_p1_33	…そうだと、いいな………	...I hope so......
+MAP64_e32_p1_37	ホノオ！　あんたも早く手当を手伝え！	Hono! You help with the treatment too!
+MAP64_e32_p1_38	薬は持ってるだろ！？	You've got medicine, right!?
+MAP64_e32_p1_43	お、おう…！！	O-Okay...!!
 MAP64_e33_p1_10	無事に帰ってくれ…　ホノオ。	Come home safe... Hono.
 MAP64_e33_p1_13	当たり前だろ？　あ、それより、	Of course, right? Oh, anyway,
 MAP64_e33_p1_14	アレ、あるか？	you still have it, don't you?
@@ -5102,7 +5102,7 @@ MAP64_e33_p2_34	けど…　右手に王の剣があれば…	But... if I hold t
 MAP64_e33_p2_35	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
 MAP64_e33_p2_36	思ってな…　大事なことを。	I'd remember... what matters most.
 MAP64_e33_p2_39	そうか…　よくわかった。	I see... I understand.
-MAP64_e33_p2_42	　　ホノオは本物のゾモロドネガルを受け取った！	
+MAP64_e33_p2_42	　　ホノオは本物のゾモロドネガルを受け取った！	Hono received a genuine Zomolod Negal!
 MAP64_e33_p2_47	ありがとよ、親父！	Thanks, Dad!
 MAP64_e33_p2_48	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
 MAP64_e33_p2_51	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
@@ -5137,7 +5137,7 @@ MAP64_e33_p4_3	皆の救世主、戦場の女神です。	everyone's savior, the
 MAP64_e33_p4_6	よかったら兵たちに声をかけてやって下され。	If you would, please say a few words to the soldiers.
 MAP64_e33_p4_7	全軍の士気がおおいに上がると思います。	I believe it would greatly lift the morale of the whole army.
 MAP64_e34_p0_1	『我々のエレメントと呼ぶもの』	"""What We Call Elements"""
-MAP64_e34_p0_11	漠然と、火の恵み、水の恵、風の恵み…自然からの恩恵、	
+MAP64_e34_p0_11	漠然と、火の恵み、水の恵、風の恵み…自然からの恩恵、	Vaguely, the blessings of Fire, Water, Wind... the gifts of nature,
 MAP64_e34_p0_12	そのエネルギーといった感覚で使っている言葉である。	a word used with a sense of 'that energy'.
 MAP64_e34_p0_13	しかしこの自然というものは、火と水と風のみで成り立つ	But is this nature truly built solely of fire, water, and wind?
 MAP64_e34_p0_14	世界であろうか？	Is it?
@@ -5150,35 +5150,35 @@ MAP64_e34_p0_6	我々はこの土地を火と水と風のエレメントによ�
 MAP64_e34_p0_7	作られ守られていると考えている。それゆえに、この地を	and Wind Elements. That is why we call it
 MAP64_e34_p0_8	エレメント大陸と呼ぶ。しかし、我々の使うこの、	the Element Continent. But what exactly does this word
 MAP64_e34_p0_9	エレメントとは具体的に何を指す言葉なのだろうか？	'element' refer to?
-MAP64_e35_p1_11	我が王国はまだまだナガレ様…そしてセイリュー	
-MAP64_e35_p1_12	の皆様へのご恩をお返ししきれません。	
-MAP64_e35_p1_13	お力になれることがあれば何でもお申しつけを！	
-MAP64_e35_p1_2	おお…　ナガレ様！	
-MAP64_e35_p1_3	我が軍の兵はお役に立ちましたでしょうか？	
-MAP64_e35_p1_6	ええ、とても助かりました。	
-MAP64_e35_p1_7	これで暗黒大陸に渡ることができます。	
-MAP64_e35_p1_8	大臣のご尽力のおかげです	
-MAP64_e36_p1_10	足りているとは恐れながら申せません…。	
-MAP64_e36_p1_11	しかし、コメは栄養価が高い上、腹持ちが良く、	
-MAP64_e36_p1_12	そのおかげで、兵や民たちはまだまだ元気です。	
-MAP64_e36_p1_15	それを聞いて少し安心しました…。	
-MAP64_e36_p1_16	セイリューでも食料は不足気味なので、	
-MAP64_e36_p1_17	これ以上の支援は出来そうにないもので…。	
-MAP64_e36_p1_2	これはこれはナガレ様、ご機嫌うるわしゅう。	
-MAP64_e36_p1_20	存じ上げております…。	
-MAP64_e36_p1_21	我が国でも少ない材料で多くの人数分用意できる	
-MAP64_e36_p1_22	新料理を発明中です。	
-MAP64_e36_p1_25	うお！マジかよ！？	
-MAP64_e36_p1_26	どんな料理なんだろうな、楽しみだぜー	
-MAP64_e36_p1_30	…殿下。いまは非常時ゆえ許しますが…	
-MAP64_e36_p1_31	教育的説教がどんどんたまっておりますので、	
-MAP64_e36_p1_32	覚悟しておいて下され。	
-MAP64_e36_p1_35	えっ！　なんでだよ？	
-MAP64_e36_p1_36	オレ怒られるようなことそんなにしてるか！？	
-MAP64_e36_p1_39	あはは、あたしとオタキ様みたいだ。	
-MAP64_e36_p1_5	これは行政官シダルタ殿、ご挨拶ありがとう	
-MAP64_e36_p1_6	ございます。　セイリューからの食料支援は	
-MAP64_e36_p1_7	足りていますか？	
+MAP64_e35_p1_11	我が王国はまだまだナガレ様…そしてセイリュー	Our kingdom has yet to fully repay Lady Nagare
+MAP64_e35_p1_12	の皆様へのご恩をお返ししきれません。	and all the people of Seiryu.
+MAP64_e35_p1_13	お力になれることがあれば何でもお申しつけを！	If there's anything we can do, please command us!
+MAP64_e35_p1_2	おお…　ナガレ様！	Oh... Lady Nagare!
+MAP64_e35_p1_3	我が軍の兵はお役に立ちましたでしょうか？	Did our soldiers prove useful?
+MAP64_e35_p1_6	ええ、とても助かりました。	Yes, they helped greatly.
+MAP64_e35_p1_7	これで暗黒大陸に渡ることができます。	With this, we can cross to the Dark Continent.
+MAP64_e35_p1_8	大臣のご尽力のおかげです	It's all thanks to your minister's efforts.
+MAP64_e36_p1_10	足りているとは恐れながら申せません…。	I hesitate to say it's enough...
+MAP64_e36_p1_11	しかし、コメは栄養価が高い上、腹持ちが良く、	But rice is nutritious and filling, and
+MAP64_e36_p1_12	そのおかげで、兵や民たちはまだまだ元気です。	thanks to that, our soldiers and people remain hale.
+MAP64_e36_p1_15	それを聞いて少し安心しました…。	Hearing that puts my mind at ease...
+MAP64_e36_p1_16	セイリューでも食料は不足気味なので、	Seiryu itself is running short on food, so
+MAP64_e36_p1_17	これ以上の支援は出来そうにないもので…。	further aid may not be possible...
+MAP64_e36_p1_2	これはこれはナガレ様、ご機嫌うるわしゅう。	Well, well, Lady Nagare, in good spirits I see.
+MAP64_e36_p1_20	存じ上げております…。	We are well aware...
+MAP64_e36_p1_21	我が国でも少ない材料で多くの人数分用意できる	Our country too is inventing new dishes that feed many
+MAP64_e36_p1_22	新料理を発明中です。	from few ingredients.
+MAP64_e36_p1_25	うお！マジかよ！？	Whoa! For real!?
+MAP64_e36_p1_26	どんな料理なんだろうな、楽しみだぜー	What kind of dish, I wonder—can't wait~
+MAP64_e36_p1_30	…殿下。いまは非常時ゆえ許しますが…	...Your Highness. I'll permit it given the emergency, but...
+MAP64_e36_p1_31	教育的説教がどんどんたまっておりますので、	my educational lectures are piling up, so
+MAP64_e36_p1_32	覚悟しておいて下され。	please be prepared.
+MAP64_e36_p1_35	えっ！　なんでだよ？	Huh!? Why?
+MAP64_e36_p1_36	オレ怒られるようなことそんなにしてるか！？	Am I doing anything worth scolding!?
+MAP64_e36_p1_39	あはは、あたしとオタキ様みたいだ。	Ahaha, just like me and Lady Otaki.
+MAP64_e36_p1_5	これは行政官シダルタ殿、ご挨拶ありがとう	Lord Sidarta, Administrator, thank you for the
+MAP64_e36_p1_6	ございます。　セイリューからの食料支援は	greeting. Is the food support from Seiryu
+MAP64_e36_p1_7	足りていますか？	sufficient?
 MAP64_e37_p0_2	　　　左　ホノオ王子の部屋　右　ホムラ王子の部屋	Left: Prince Hono's room  Right: Prince Homura's room
 MAP64_e4_p0_1	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP64_e4_p0_10	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
@@ -5290,7 +5290,7 @@ MAP64_e5_p2_3	…と、表紙に書かれた本がある。読んでみようか
 MAP64_e5_p2_30	あんだとー？	What was that—?
 MAP64_e5_p2_31	まあ、喋り方っていうか、オレ、ホントに	Well, it's not just the way I talk—I really am
 MAP64_e5_p2_32	頭悪いからな。でもズシンと来ねえかよ？	dumb. But it hits you right here, doesn't it?
-MAP64_e5_p2_35	…来るよ。	
+MAP64_e5_p2_35	…来るよ。	...Here they come.
 MAP64_e5_p2_8	昨日の朝、散歩をしていたら突然物乞いに襲われた。	Yesterday morning, while out for a walk, I was suddenly attacked by a beggar.
 MAP64_e5_p2_9	恐怖を必死で抑えながら語りかけたが全く要領を得ない。	I spoke to him while desperately suppressing my fear, but he made no sense at all.
 MAP64_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -5324,43 +5324,43 @@ MAP64_e8_p0_8	王は今回の試練を見送るつもりだったのだ…	the k
 MAP64_e9_p0_2	私も試練には反対したのだが…	I opposed the trial as well, but...
 MAP64_e9_p0_3	ホノオ王子は勝手に行ってしまった。	Prince Hono went off on his own.
 MAP64_e9_p0_4	まったく…思慮の浅いお方で頭が痛い…。	Good grief... that thoughtless boy gives me a headache...
-MAP65_e10_p0_105	陛下…	
-MAP65_e10_p0_108	まさか、こやつのことを…？	
-MAP65_e10_p0_111	…ボクのことを、知っているの？	
-MAP65_e10_p0_114	…いや、知らんな	
-MAP65_e10_p0_126	やっぱりココって…	
-MAP65_e10_p0_127	バーーーカ！！しかいないのーーーー！！？？　	
-MAP65_e10_p0_23	だははは！	
-MAP65_e10_p0_24	本当にキミたちは…	
-MAP65_e10_p0_27	ボクの思い通りに動いてくれるねー！	
-MAP65_e10_p0_30	素直っていうか、バカっていうかー？	
-MAP65_e10_p0_33	ぬわにいいいいいいいいいいい！？	
-MAP65_e10_p0_36	皆！　うかつに近づくな！　距離を取れ！	
-MAP65_e10_p0_41	ろ、ロイどの！！	
-MAP65_e10_p0_42	これだけ囲んでしまえば、一気に倒せますぞ！	
-MAP65_e10_p0_43	いまのうちに全員で…	
-MAP65_e10_p0_46	サクソン殿、待たれよ。	
-MAP65_e10_p0_47	この敵はただ者ではない…	
-MAP65_e10_p0_50	この者は、闇の四天王…	
-MAP65_e10_p0_51	さきほどそう名乗ったはず！	
-MAP65_e10_p0_56	こ、こんな派手なだけの若造があああ？	
-MAP65_e10_p0_59	皆の者、ロイに従え！	
-MAP65_e10_p0_60	ロイの命令を、我の命令と思え！！	
-MAP65_e10_p0_63	…ロイ、すまぬ、ここは、頼む…	
-MAP65_e10_p0_68	仕方ありませんな…	
-MAP65_e10_p0_69	しかし、オレにも作戦などはありませんぞ…	
-MAP65_e10_p0_7	兵たちよー！　囲めーい！！	
-MAP65_e10_p0_72	…うむ	
-MAP65_e10_p0_77	へー？	
-MAP65_e10_p0_78	少しはちゃんとしたおつむの子も、	
-MAP65_e10_p0_79	いるんだーーー？	
-MAP65_e10_p0_8	こやつを決して逃がすなーー！！	
-MAP65_e10_p0_82	ご明察ーーー！	
-MAP65_e10_p0_83	ボクこそは闇の四天王最弱かつ最強の…	
-MAP65_e10_p0_86	堕天の炎…　ダフィールさーーー！！	
-MAP65_e10_p0_90	…なに！	
-MAP65_e10_p0_93	…闇の四天王…　最弱、かつ最強…	
-MAP65_e10_p0_96	…堕天の炎…　ダフィールだと…！！？	
+MAP65_e10_p0_105	陛下…	Your Majesty...
+MAP65_e10_p0_108	まさか、こやつのことを…？	You don't mean... you know of this one...?
+MAP65_e10_p0_111	…ボクのことを、知っているの？	...Do you know who I am?
+MAP65_e10_p0_114	…いや、知らんな	...No, I don't.
+MAP65_e10_p0_126	やっぱりココって…	So this place really is...
+MAP65_e10_p0_127	バーーーカ！！しかいないのーーーー！！？？　	full of idiots—!!??
+MAP65_e10_p0_23	だははは！	Bahaha!
+MAP65_e10_p0_24	本当にキミたちは…	You lot truly...
+MAP65_e10_p0_27	ボクの思い通りに動いてくれるねー！	move just as I expect, don't you!
+MAP65_e10_p0_30	素直っていうか、バカっていうかー？	Obedient, or just stupid~?
+MAP65_e10_p0_33	ぬわにいいいいいいいいいいい！？	Whawhawhawha—!?
+MAP65_e10_p0_36	皆！　うかつに近づくな！　距離を取れ！	Everyone! Don't approach carelessly! Keep your distance!
+MAP65_e10_p0_41	ろ、ロイどの！！	L-Lord Roi!!
+MAP65_e10_p0_42	これだけ囲んでしまえば、一気に倒せますぞ！	Surround him like this and we can take him down at once!
+MAP65_e10_p0_43	いまのうちに全員で…	Let's all strike now—
+MAP65_e10_p0_46	サクソン殿、待たれよ。	Lord Saxon, hold.
+MAP65_e10_p0_47	この敵はただ者ではない…	This enemy is no ordinary foe...
+MAP65_e10_p0_50	この者は、闇の四天王…	This one is a Four Dark General...
+MAP65_e10_p0_51	さきほどそう名乗ったはず！	he named himself as such moments ago!
+MAP65_e10_p0_56	こ、こんな派手なだけの若造があああ？	Th-This flashy brat alone...?
+MAP65_e10_p0_59	皆の者、ロイに従え！	All of you, obey Roi!
+MAP65_e10_p0_60	ロイの命令を、我の命令と思え！！	Consider Roi's orders as mine!!
+MAP65_e10_p0_63	…ロイ、すまぬ、ここは、頼む…	...Roi, forgive me, but I leave this to you...
+MAP65_e10_p0_68	仕方ありませんな…	It can't be helped...
+MAP65_e10_p0_69	しかし、オレにも作戦などはありませんぞ…	But I have no plan either, you know...
+MAP65_e10_p0_7	兵たちよー！　囲めーい！！	Soldiers! Surround him!!
+MAP65_e10_p0_72	…うむ	...Mm.
+MAP65_e10_p0_77	へー？	Oh?
+MAP65_e10_p0_78	少しはちゃんとしたおつむの子も、	So there are a few with proper brains
+MAP65_e10_p0_79	いるんだーーー？	around here~?
+MAP65_e10_p0_8	こやつを決して逃がすなーー！！	Never let him escape—!!
+MAP65_e10_p0_82	ご明察ーーー！	Perceptive—!
+MAP65_e10_p0_83	ボクこそは闇の四天王最弱かつ最強の…	I am the weakest yet strongest of the Four Dark Generals...
+MAP65_e10_p0_86	堕天の炎…　ダフィールさーーー！！	the Fallen Flame... Dafill—!!
+MAP65_e10_p0_90	…なに！	...What!
+MAP65_e10_p0_93	…闇の四天王…　最弱、かつ最強…	...A Four Dark General... the weakest, yet strongest...
+MAP65_e10_p0_96	…堕天の炎…　ダフィールだと…！！？	...The Fallen Flame... Dafill, he says...!!?
 MAP65_e11_p0_2	…サクソンめ、なにが闇のエレメントだ。	...That Saxon, what's this about a Dark Element.
 MAP65_e11_p0_3	自分の能無しを、おとぎ話で誤魔化すなんて、	Covering up his own incompetence with fairy tales—
 MAP65_e11_p0_4	恥知らずにもほどがある。	the shamelessness knows no bounds.
@@ -5374,7 +5374,7 @@ MAP65_e18_p0_1	『ウィンダム王国の歴史』	"""History of the Windam Kin
 MAP65_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
 MAP65_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
 MAP65_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
-MAP65_e18_p0_15	風のエレメントの加護で突然出来たお城と国である、	
+MAP65_e18_p0_15	風のエレメントの加護で突然出来たお城と国である、	The castle and kingdom that suddenly arose through the Wind Element's blessing—
 MAP65_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
 MAP65_e18_p0_17	信じられている。	outside the Windam Kingdom as well.
 MAP65_e18_p0_18	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
@@ -5419,7 +5419,7 @@ MAP65_e32_p0_10	派手なバケモノが…王の間に…！	A flashy monster..
 MAP65_e32_p0_13	仕方ない…　このままもうしばらく隠れていろ。	Can't be helped... stay hidden a while longer.
 MAP65_e32_p0_16	あっ！　騎士さま、お待ちを…！！	Ah! Sir Knight, wait...!!
 MAP65_e32_p0_2	ひ…ひい！　　…って、騎士さま…？	E-Eek! ...Wait, Sir Knight...?
-MAP65_e32_p0_20	　　　　　美味しいパンを　３個　もらった！	
+MAP65_e32_p0_20	　　　　　美味しいパンを　３個　もらった！	Received 3 Delicious Breads!
 MAP65_e32_p0_23	私にはこれしかできることがありません…	This is all I can do...
 MAP65_e32_p0_24	たいしたものではないですが…お持ちください	It's not much, but... please take it.
 MAP65_e32_p0_27	フン…　ないよりはいいだろう。	Hmph... better than nothing, I suppose.
@@ -5430,18 +5430,18 @@ MAP65_e32_p1_10	派手なバケモノが…王の間に…！	A flashy monster..
 MAP65_e32_p1_13	仕方ない…　このままもうしばらく隠れていろ。	Can't be helped... stay hidden a while longer.
 MAP65_e32_p1_16	あっ！　騎士さま、お待ちを…！！	Ah! Sir Knight, wait...!!
 MAP65_e32_p1_2	ひ…ひい！　　…って、騎士さま…？	E-Eek! ...Wait, Sir Knight...?
-MAP65_e32_p1_20	　　　　　高級医療キットを　３個　もらった！	
+MAP65_e32_p1_20	　　　　　高級医療キットを　３個　もらった！	Received 3 Premium Medical Kits!
 MAP65_e32_p1_23	私にはこれしかできることがありません…	This is all I can do...
 MAP65_e32_p1_24	たいしたものではないですが…お持ちください	It's not much, but... please take it.
 MAP65_e32_p1_27	フン…　ないよりはいいだろう。	Hmph... better than nothing, I suppose.
 MAP65_e32_p1_5	おい、料理人！　	Hey, cook!
 MAP65_e32_p1_6	逃げ遅れたのか？	Didn't make it out in time?
 MAP65_e32_p1_9	は…はい…　仕事を終えて戻ろうとしたら…	Y-Yes... I was heading back after work, and then...
-MAP65_e32_p2_2	ウィンさま…　	
-MAP65_e32_p2_3	私はいつも、ウィンさまのお家のパンの味を	
-MAP65_e32_p2_4	お手本に、パンを作ってるんです…	
-MAP65_e32_p2_7	やっと、近い味が作れたと思います…！	
-MAP65_e32_p2_8	よかったら、いつかご感想をお聞かせ下さい…	
+MAP65_e32_p2_2	ウィンさま…　	Master Win...
+MAP65_e32_p2_3	私はいつも、ウィンさまのお家のパンの味を	I always use the taste of your family's bread
+MAP65_e32_p2_4	お手本に、パンを作ってるんです…	as my model when baking...
+MAP65_e32_p2_7	やっと、近い味が作れたと思います…！	I think I've finally managed to get close...!
+MAP65_e32_p2_8	よかったら、いつかご感想をお聞かせ下さい…	If you'd like, please let me know what you think someday...
 MAP65_e33_p0_13	よし。	Alright.
 MAP65_e33_p0_14	…突入する！	...Charging in!
 MAP65_e33_p0_23	…ならさっさと済ませろ！	...Then hurry up and get it done!
@@ -5496,8 +5496,8 @@ MAP65_e36_p1_229	これはキサマの仕業なのか…　ダフィール！！
 MAP65_e36_p1_232	そうだよーん　ボクはひとっていうかー	That's right~! I'm good at manipulating,
 MAP65_e36_p1_233	いきもの全般を操ったり惑わしたりするのが	or rather, bewitching all living things,
 MAP65_e36_p1_234	得意なのさーーー	you see~
-MAP65_e36_p1_237	みんな目を覚ませ…！！	
-MAP65_e36_p1_238	俺たちは同士討ちをしている…！！	
+MAP65_e36_p1_237	みんな目を覚ませ…！！	Everyone, wake up...!!
+MAP65_e36_p1_238	俺たちは同士討ちをしている…！！	We're fighting each other!!
 MAP65_e36_p1_241	この術は継承者には通用しないんだけどーーー	This art doesn't work on inheritors, though~
 MAP65_e36_p1_244	ふつうのニンゲンだと効いちゃうワケー	but it works fine on ordinary humans~
 MAP65_e36_p1_245	さあ継承者さーん　ふつうのニンゲンに	So, Mr. Inheritor~ are you going to be
@@ -5544,9 +5544,9 @@ MAP65_e36_p1_412	やめたーーーーーーーー	I'm stopping~
 MAP65_e36_p1_415	なぜやめた！？	Why did you stop!?
 MAP65_e36_p1_418	もっといいこと思い付いたからさーーー	Because I thought of something even better~
 MAP65_e36_p1_421	なに…？	What...?
-MAP65_e36_p1_426	さすがに時間を食いすぎちゃったからー	
-MAP65_e36_p1_427	最後まで見られないのは残念なんだけどーーー	
-MAP65_e36_p1_430	もっと面白い方を操ることにしたよー	
+MAP65_e36_p1_426	さすがに時間を食いすぎちゃったからー	Well, it's taken too long, so—
+MAP65_e36_p1_427	最後まで見られないのは残念なんだけどーーー	I'm sorry I can't watch to the end, but—
+MAP65_e36_p1_430	もっと面白い方を操ることにしたよー	I've decided to control the more amusing one.
 MAP65_e36_p1_431	これはきっと、みんなも楽しめると思うなー	I'm sure everyone will enjoy this~
 MAP65_e36_p1_434	なにを言っている…！	What are you talking about...!
 MAP65_e36_p1_437	そこの赤いのさー　天才なんだってー？	Hey, red one~ you're supposed to be a genius, right?
@@ -5618,8 +5618,8 @@ MAP65_e36_p2_230	これはキサマの仕業なのか…　ダフィール！！
 MAP65_e36_p2_233	そうだよーん　ボクはひとっていうかー	That's right~! I'm good at manipulating,
 MAP65_e36_p2_234	いきもの全般を操ったり惑わしたりするのが	or rather, bewitching all living things,
 MAP65_e36_p2_235	得意なのさーーー	you see~
-MAP65_e36_p2_238	みんな目を覚ませー！！	
-MAP65_e36_p2_239	俺たちは同士討ちをしている！！	
+MAP65_e36_p2_238	みんな目を覚ませー！！	Everyone, wake up!!
+MAP65_e36_p2_239	俺たちは同士討ちをしている！！	We're fighting among ourselves!!
 MAP65_e36_p2_242	この術は継承者には通用しないんだけどーーー	This art doesn't work on inheritors, though~
 MAP65_e36_p2_245	ふつうのニンゲンだと効いちゃうワケー	but it works fine on ordinary humans~
 MAP65_e36_p2_246	さあ継承者さーん　ふつうのニンゲンに	So, Mr. Inheritor~ are you going to be
@@ -5666,17 +5666,17 @@ MAP65_e36_p2_413	やめたーーーーーーーー	I'm stopping~
 MAP65_e36_p2_416	なぜやめた！？	Why did you stop!?
 MAP65_e36_p2_419	もっといいこと思い付いたからさーーー	Because I thought of something even better~
 MAP65_e36_p2_422	なに…？	What...?
-MAP65_e36_p2_427	キミ…　何者だい？	
-MAP65_e36_p2_430	どういう意味だ…？	
-MAP65_e36_p2_433	ちょっとだけ試させてもらっていいかなー？	
-MAP65_e36_p2_434	肉弾戦はボクの苦手とするところなんだケド…	
-MAP65_e36_p2_437	ひさびさにー	
-MAP65_e36_p2_438	ボクの炎で焼けるニンゲンの匂いをかいで	
-MAP65_e36_p2_439	みたくなったからーーーー！！！！？	
+MAP65_e36_p2_427	キミ…　何者だい？	You... who are you?
+MAP65_e36_p2_430	どういう意味だ…？	What do you mean...?
+MAP65_e36_p2_433	ちょっとだけ試させてもらっていいかなー？	Mind if I test you a little?
+MAP65_e36_p2_434	肉弾戦はボクの苦手とするところなんだケド…	Close combat isn't my forte, but...
+MAP65_e36_p2_437	ひさびさにー	it's been a while since I've
+MAP65_e36_p2_438	ボクの炎で焼けるニンゲンの匂いをかいで	wanted to smell humans burning
+MAP65_e36_p2_439	みたくなったからーーーー！！！！？	in my flames—!!!!?
 MAP65_e36_p2_44	風の紋章の継承者ウィンと…	The Wind Crest's inheritor, Win, and...
-MAP65_e36_p2_442	フン、いいだろう。	
+MAP65_e36_p2_442	フン、いいだろう。	Hmph, very well.
 MAP65_e36_p2_443	俺もバケモンの血が何色なのかを、	
-MAP65_e36_p2_444	確かめてみたくなったからな。	
+MAP65_e36_p2_444	確かめてみたくなったからな。	a monster's blood is.
 MAP65_e36_p2_447	来いよーー？	
 MAP65_e36_p2_448	赤いのーーーーーーと金髪ーーーーー！！？？	
 MAP65_e36_p2_45	天才騎士ピピンが来てくれたのであれば、	Since the genius knight Pipin has come,
