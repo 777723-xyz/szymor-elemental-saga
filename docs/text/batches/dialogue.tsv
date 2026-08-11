@@ -1095,22 +1095,22 @@ MAP19_e17_p0_12	ものでもない、かも知れない…。	always the best ch
 MAP19_e17_p0_14	相手や場所、自分の役割によって、	Depending on the enemy, the place, and your role,
 MAP19_e17_p0_15	バランスの取れた組み合わせにするのが良いだろう。	a well-balanced setup is probably best.
 MAP19_e17_p0_2	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP19_e17_p0_6	この世界の武器や防具は、種類自体はすくないが、	
-MAP19_e17_p0_7	品質によって、普通のものや、優れたものが存在する。	
-MAP19_e17_p0_9	当然、品質の良いものほど強力だったり頑丈だったり	
-MAP19_e18_p0_1	『バックラーとは』	
-MAP19_e18_p0_11	通常の盾に比べれば、防御力は数段落ちるが、	
-MAP19_e18_p0_12	回避率が大きく上がるので、ただの軽くて弱い盾という	
-MAP19_e18_p0_13	わけではない。	
-MAP19_e18_p0_15	なので、通常の大きさの魔物や人間を相手にする場合には、	
-MAP19_e18_p0_16	通常の盾よりも有効な場面が多い。	
-MAP19_e18_p0_17	しかし、巨大な敵や、どうしても避けられない攻撃を	
-MAP19_e18_p0_18	用いてくる相手には、あまり有効ではない。	
+MAP19_e17_p0_6	この世界の武器や防具は、種類自体はすくないが、	The weapons and armor of this world are few in type, but
+MAP19_e17_p0_7	品質によって、普通のものや、優れたものが存在する。	depending on quality, there are ordinary and excellent pieces.
+MAP19_e17_p0_9	当然、品質の良いものほど強力だったり頑丈だったり	Naturally, higher quality means more power and sturdiness...
+MAP19_e18_p0_1	『バックラーとは』	"""About the Buckler"""
+MAP19_e18_p0_11	通常の盾に比べれば、防御力は数段落ちるが、	Compared to normal shields, its defense is several ranks lower, but
+MAP19_e18_p0_12	回避率が大きく上がるので、ただの軽くて弱い盾という	it greatly raises evasion, so it's not just a light, weak shield.
+MAP19_e18_p0_13	わけではない。	Not at all.
+MAP19_e18_p0_15	なので、通常の大きさの魔物や人間を相手にする場合には、	So against monsters and humans of ordinary size,
+MAP19_e18_p0_16	通常の盾よりも有効な場面が多い。	it's often more effective than a normal shield.
+MAP19_e18_p0_17	しかし、巨大な敵や、どうしても避けられない攻撃を	However, against giant enemies or those with
+MAP19_e18_p0_18	用いてくる相手には、あまり有効ではない。	unavoidable attacks, it isn't very effective.
 MAP19_e18_p0_2	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP19_e18_p0_6	相手に突きつけるように構える小型の盾で、	
-MAP19_e18_p0_7	中型、大型の盾とは異なった技術を要する。	
-MAP19_e18_p0_8	受け止めるのではなく、受け流す、絡めとるなどして、	
-MAP19_e18_p0_9	回避やカウンターの布石にする盾である。	
+MAP19_e18_p0_6	相手に突きつけるように構える小型の盾で、	A small shield held out toward the opponent,
+MAP19_e18_p0_7	中型、大型の盾とは異なった技術を要する。	requiring different technique than medium or large shields.
+MAP19_e18_p0_8	受け止めるのではなく、受け流す、絡めとるなどして、	Rather than blocking, it deflects and entangles,
+MAP19_e18_p0_9	回避やカウンターの布石にする盾である。	serving as a setup for evasions and counters.
 MAP19_e3_p0_10	キノコを採りに行ったらしいんだが、	
 MAP19_e3_p0_13	もう丸一日戻ってきていないらしい。しかし、	
 MAP19_e3_p0_14	人手が足りなくてすぐに捜索隊を出せない。	
@@ -1133,57 +1133,57 @@ MAP19_e3_p0_46	なあに、心配すんなって…。
 MAP19_e3_p0_8	いやあ、ちょっとな…	
 MAP19_e3_p0_9	ハリスさんちの娘さんが南の旧坑道へ	
 MAP19_e3_p1_12	チェインメイルを　１着　貰った！	
-MAP19_e3_p1_14	最近すっかり外に行くこともなくなってな。	
-MAP19_e3_p1_15	着る機会もなさそうだから、お前で有効活用	
-MAP19_e3_p1_16	してくれよ。	
-MAP19_e3_p1_18	軽装鎧は、コートに比べれば素早さは下がるが、	
-MAP19_e3_p1_19	それ以上に防御力が上がるから、戦闘するなら	
-MAP19_e3_p1_2	ウィン！待ってたぞ！	
-MAP19_e3_p1_20	ぜったいに着ておいた方がいいぞ。	
-MAP19_e3_p1_3	ハリスさんとこの娘さんの件、	
-MAP19_e3_p1_4	解決したらしいじゃないか。	
-MAP19_e3_p1_6	お前、自分の仕事があるのに助けてくれて	
-MAP19_e3_p1_7	本当にありがとな！	
-MAP19_e3_p1_8	これ、俺からの気持ちだ、	
-MAP19_e3_p1_9	まあまあ、受け取ってくれよ！	
+MAP19_e3_p1_14	最近すっかり外に行くこともなくなってな。	I've stopped going out entirely lately.
+MAP19_e3_p1_15	着る機会もなさそうだから、お前で有効活用	Looks like I won't get to wear it, so put it to
+MAP19_e3_p1_16	してくれよ。	good use yourself.
+MAP19_e3_p1_18	軽装鎧は、コートに比べれば素早さは下がるが、	Light armor lowers agility compared to a coat, but
+MAP19_e3_p1_19	それ以上に防御力が上がるから、戦闘するなら	raises defense more than that, so if you're going to fight,
+MAP19_e3_p1_2	ウィン！待ってたぞ！	Win! I've been waiting!
+MAP19_e3_p1_20	ぜったいに着ておいた方がいいぞ。	you should definitely wear it.
+MAP19_e3_p1_3	ハリスさんとこの娘さんの件、	About Harris and his daughter's matter—
+MAP19_e3_p1_4	解決したらしいじゃないか。	I heard it got resolved.
+MAP19_e3_p1_6	お前、自分の仕事があるのに助けてくれて	You helped even though you had your own duties,
+MAP19_e3_p1_7	本当にありがとな！	thanks a lot!
+MAP19_e3_p1_8	これ、俺からの気持ちだ、	This is a token of my gratitude,
+MAP19_e3_p1_9	まあまあ、受け取ってくれよ！	come on, just take it!
 MAP19_e3_p2_12	チェインメイル(匠)を　１着　貰った！	
-MAP19_e3_p2_14	最近すっかり外に行くこともなくなってな。	
-MAP19_e3_p2_15	着る機会もなさそうだから、お前で有効活用	
-MAP19_e3_p2_16	してくれよ。	
-MAP19_e3_p2_18	軽装鎧は、コートに比べれば素早さは下がるが、	
-MAP19_e3_p2_19	それ以上に防御力が上がるから、戦闘するなら	
-MAP19_e3_p2_2	ウィン！待ってたぞ！	
-MAP19_e3_p2_20	ぜったいに着ておいた方がいいぞ。	
-MAP19_e3_p2_3	ハリスさんとこの娘さんの件、	
-MAP19_e3_p2_4	解決したらしいじゃないか。	
-MAP19_e3_p2_6	お前、自分の仕事があるのに助けてくれて	
-MAP19_e3_p2_7	本当にありがとな！	
-MAP19_e3_p2_8	これ、俺からの気持ちだ、	
-MAP19_e3_p2_9	まあまあ、受け取ってくれよ！	
-MAP19_e3_p3_2	最近魔物に関する相談事が増えているんだ。	
-MAP19_e3_p3_3	何かこの辺りに親玉とか、巣とかが	
-MAP19_e3_p3_4	あるのかも知れないなあ…。	
-MAP19_e3_p4_2	最近魔物に関する相談事が増えているんだ。	
-MAP19_e3_p4_3	何かこの辺りに親玉とか、巣とかが	
-MAP19_e3_p4_4	あるのかも知れないなあ…。	
+MAP19_e3_p2_14	最近すっかり外に行くこともなくなってな。	I've stopped going out entirely lately.
+MAP19_e3_p2_15	着る機会もなさそうだから、お前で有効活用	Looks like I won't get to wear it, so put it to
+MAP19_e3_p2_16	してくれよ。	good use yourself.
+MAP19_e3_p2_18	軽装鎧は、コートに比べれば素早さは下がるが、	Light armor lowers agility compared to a coat, but
+MAP19_e3_p2_19	それ以上に防御力が上がるから、戦闘するなら	raises defense more than that, so if you're going to fight,
+MAP19_e3_p2_2	ウィン！待ってたぞ！	Win! I've been waiting!
+MAP19_e3_p2_20	ぜったいに着ておいた方がいいぞ。	you should definitely wear it.
+MAP19_e3_p2_3	ハリスさんとこの娘さんの件、	About Harris and his daughter's matter—
+MAP19_e3_p2_4	解決したらしいじゃないか。	I heard it got resolved.
+MAP19_e3_p2_6	お前、自分の仕事があるのに助けてくれて	You helped even though you had your own duties,
+MAP19_e3_p2_7	本当にありがとな！	thanks a lot!
+MAP19_e3_p2_8	これ、俺からの気持ちだ、	This is a token of my gratitude,
+MAP19_e3_p2_9	まあまあ、受け取ってくれよ！	come on, just take it!
+MAP19_e3_p3_2	最近魔物に関する相談事が増えているんだ。	Lately, more and more people come to me about monsters.
+MAP19_e3_p3_3	何かこの辺りに親玉とか、巣とかが	Maybe there's a big monster or a nest
+MAP19_e3_p3_4	あるのかも知れないなあ…。	around here somewhere...
+MAP19_e3_p4_2	最近魔物に関する相談事が増えているんだ。	Lately, more and more people come to me about monsters.
+MAP19_e3_p4_3	何かこの辺りに親玉とか、巣とかが	Maybe there's a big monster or a nest
+MAP19_e3_p4_4	あるのかも知れないなあ…。	around here somewhere...
 MAP19_e4_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP19_e5_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP19_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP19_e7_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP19_e8_p0_2	　　　　　　　　貯蓄用の飲料水だと思う	
 MAP19_e9_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP20_e3_p0_15	この武器の売上の何割かは当然、騎士団に	
-MAP20_e3_p0_16	入るんだぜ？俺たち相手なら、少しは	
-MAP20_e3_p0_17	割引とかしてくれてもいいよなあ…。	
-MAP20_e3_p0_2	ここは交易や冒険者向けの武器、防具屋だ。	
-MAP20_e3_p0_3	支給品とはちょっと違う品々を揃えてる。	
-MAP20_e3_p0_4	ウィン、ちゃんと金は持ってきたか？	
-MAP20_e3_p1_2	ここは交易や冒険者向けの武器、防具屋だ。	
-MAP20_e3_p1_21	この武器の売上の何割かは当然、騎士団に	
-MAP20_e3_p1_22	入るんだぜ？俺たち相手なら、少しは	
-MAP20_e3_p1_23	割引とかしてくれてもいいよなあ…。	
-MAP20_e3_p1_3	支給品とはちょっと違う品々を揃えてる。	
-MAP20_e3_p1_4	ウィン、ちゃんと金は持ってきたか？	
+MAP20_e3_p0_15	この武器の売上の何割かは当然、騎士団に	A cut of this shop's sales goes to the knight order, of course.
+MAP20_e3_p0_16	入るんだぜ？俺たち相手なら、少しは	So when dealing with us, couldn't you cut
+MAP20_e3_p0_17	割引とかしてくれてもいいよなあ…。	us a little discount...?
+MAP20_e3_p0_2	ここは交易や冒険者向けの武器、防具屋だ。	This is a weapon and armor shop for traders and adventurers.
+MAP20_e3_p0_3	支給品とはちょっと違う品々を揃えてる。	We stock things a bit different from standard issue.
+MAP20_e3_p0_4	ウィン、ちゃんと金は持ってきたか？	Win, did you bring enough money?
+MAP20_e3_p1_2	ここは交易や冒険者向けの武器、防具屋だ。	This is a weapon and armor shop for traders and adventurers.
+MAP20_e3_p1_21	この武器の売上の何割かは当然、騎士団に	A cut of this shop's sales goes to the knight order, of course.
+MAP20_e3_p1_22	入るんだぜ？俺たち相手なら、少しは	So when dealing with us, couldn't you cut
+MAP20_e3_p1_23	割引とかしてくれてもいいよなあ…。	us a little discount...?
+MAP20_e3_p1_3	支給品とはちょっと違う品々を揃えてる。	We stock things a bit different from standard issue.
+MAP20_e3_p1_4	ウィン、ちゃんと金は持ってきたか？	Win, did you bring enough money?
 MAP20_e4_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP20_e5_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP21_e10_p0_2	　　　　　　王国の騎士団のリストが入っている	
@@ -1364,7 +1364,7 @@ MAP21_e13_p6_5	闇のエレメントに対抗するには、	To stand against th
 MAP21_e13_p6_6	火、水、風、全ての紋章の力が必要なのだ。	the power of all the crests—fire, water, and wind—is needed.
 MAP21_e13_p6_7	頼んだぞ、ウィン。	I'm counting on you, Win.
 MAP21_e13_p7_11	おう！言われなくても分かってるぜ。	
-MAP21_e13_p7_12	それよりあんた、ロイさんだろ？	
+MAP21_e13_p7_12	それよりあんた、ロイさんだろ？	More importantly, you're Roi, aren't you?
 MAP21_e13_p7_13	噂はフレイムまで届いているぜ！	
 MAP21_e13_p7_15	天才騎士って呼ばれていたロイさんと、	
 MAP21_e13_p7_16	いつか剣の勝負をしてみたいと思ってた…	
@@ -1378,14 +1378,14 @@ MAP21_e13_p7_25	思えんな。
 MAP21_e13_p7_27	それよりも、王子、ウィン。	
 MAP21_e13_p7_28	セイリューへ急いでくれ。	
 MAP21_e13_p7_29	気になることがある…	
-MAP21_e13_p7_3	聞いての通り、闇のエレメントの復活が	
+MAP21_e13_p7_3	聞いての通り、闇のエレメントの復活が	As you've heard, the Dark Element's revival
 MAP21_e13_p7_30	私も急いで調べたいことがあるのだ。	
-MAP21_e13_p7_4	近付いております。	
+MAP21_e13_p7_4	近付いております。	draws near.
 MAP21_e13_p7_6	風の紋章の継承者である、騎士ウィンと共に、	
 MAP21_e13_p7_7	セイリューの水の紋章継承者と、少しでも	
 MAP21_e13_p7_8	早く合流してくだされ。	
 MAP21_e13_p8_10	言われなくても分かってるんだけど。	
-MAP21_e13_p8_11	それよりあんた、ロイさんだろ？	
+MAP21_e13_p8_11	それよりあんた、ロイさんだろ？	More importantly, you're Roi, aren't you?
 MAP21_e13_p8_12	噂はセイリューにも届いていた。	
 MAP21_e13_p8_14	天才騎士とほまれの高いロイさんと、	
 MAP21_e13_p8_15	いつか立ち合いがしてみたいと、	
@@ -1398,8 +1398,8 @@ MAP21_e13_p8_25	しかしいまはその話よりも…
 MAP21_e13_p8_26	少しでも早く、紋章の継承を急いでいただき	
 MAP21_e13_p8_27	たいのです。	
 MAP21_e13_p8_28	どうにも近いうちに何か起こる気がするのです	
-MAP21_e13_p8_3	聞いての通り、闇のエレメントの復活が	
-MAP21_e13_p8_4	近付いております。	
+MAP21_e13_p8_3	聞いての通り、闇のエレメントの復活が	As you've heard, the Dark Element's revival
+MAP21_e13_p8_4	近付いております。	draws near.
 MAP21_e13_p8_6	ホノオ王子、騎士ウィンと共に、	
 MAP21_e13_p8_7	真の水の紋章継承を急いでくだされ。	
 MAP21_e14_p0_1	『エレメントの本質』	
@@ -1416,7 +1416,7 @@ MAP21_e16_p0_1	『騎士ロイ様へ』
 MAP21_e16_p0_2	…と、書かれた手紙がある。読んでみようか。	
 MAP21_e16_p0_5	おい！勝手にいじるんじゃない！	
 MAP21_e17_p1_101	その目だ、ピピン。	
-MAP21_e17_p1_104	…は？	
+MAP21_e17_p1_104	…は？	...What?
 MAP21_e17_p1_107	お前のその目だ…。	
 MAP21_e17_p1_108	お前の目は…　かつての私と同じだ…。	
 MAP21_e17_p1_11	俺を連れ出しに…か。	
@@ -1443,10 +1443,10 @@ MAP21_e17_p1_143	ウィンが見事継承者としての責務を果たせる
 MAP21_e17_p1_144	よう、お前がしっかりと	
 MAP21_e17_p1_147	うるさい！！	
 MAP21_e17_p1_149	もういい…　どうでもいい…	
-MAP21_e17_p1_15	ピピン。	
+MAP21_e17_p1_15	ピピン。	Pipin.
 MAP21_e17_p1_150	俺は…騎士を辞める。	
 MAP21_e17_p1_151	こんな国、出ていく。	
-MAP21_e17_p1_154	ピピン。	
+MAP21_e17_p1_154	ピピン。	Pipin.
 MAP21_e17_p1_155	これは騎士団長からの命令だぞ。	
 MAP21_e17_p1_158	知らん。	
 MAP21_e17_p1_159	こんな侮辱、騎士団長といえども、	
@@ -1505,7 +1505,7 @@ MAP21_e6_p0_1	持ち出して役に立つようなものは何も見つけられ
 MAP21_e7_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP21_e8_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP21_e9_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP22_e5_p0_1	傷薬を　１個　手に入れた！	
+MAP22_e5_p0_1	傷薬を　１個　手に入れた！	Obtained a Healing Herb!
 MAP22_e5_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP22_e6_p0_10	面倒だ、一気に上まで走り抜けるぞ！	
 MAP22_e6_p0_16	…ひよっこのお前には、無理かも知れんな。	
@@ -1522,9 +1522,9 @@ MAP22_e6_p0_45	…犬の声？	...A dog's bark?
 MAP22_e6_p0_46	どこにいるんだ？　　　うわっ！	Where is it?    Whoa!
 MAP22_e6_p0_5	なんちゅう荒れっぷりだ…	What a disaster zone...
 MAP22_e6_p0_50	…なんだいまの化け物は…	...What was that monster...
-MAP22_e6_p0_51	ぜんぜん普通じゃなかったぞ…！？	
-MAP22_e6_p0_54	俺がいなかったら、お前は死んでいたろうな。	
-MAP22_e6_p0_55	感謝しろ。	
+MAP22_e6_p0_51	ぜんぜん普通じゃなかったぞ…！？	It was anything but normal...!?
+MAP22_e6_p0_54	俺がいなかったら、お前は死んでいたろうな。	If I hadn't been there, you'd be dead.
+MAP22_e6_p0_55	感謝しろ。	Be grateful.
 MAP22_e6_p0_6	放置してから数カ月どころじゃないぞ、これは	This place has been abandoned for way more than a few months.
 MAP22_e6_p0_60	それよりも…　最上階から物音がする。	Anyway... there's a noise from the top floor.
 MAP22_e6_p0_61	誰かいるかも知れない。調査するぞ。	Someone might be there. Let's investigate.
@@ -1547,9 +1547,9 @@ MAP22_e6_p1_9	しかもこの気配は…
 MAP22_e7_p0_2	　　　　ウィンダム騎士団の管理する建物です	
 MAP22_e7_p0_3	　　　　　関係者以外の立ち入りを禁じます	
 MAP24_e3_p0_11	…なんだいまの化け物は…	...What was that monster...
-MAP24_e3_p0_12	ぜんぜん普通じゃなかったぞ…！？	
-MAP24_e3_p0_15	俺がいなかったら、お前は死んでいたろうな。	
-MAP24_e3_p0_16	感謝しろ。	
+MAP24_e3_p0_12	ぜんぜん普通じゃなかったぞ…！？	It was anything but normal...!?
+MAP24_e3_p0_15	俺がいなかったら、お前は死んでいたろうな。	If I hadn't been there, you'd be dead.
+MAP24_e3_p0_16	感謝しろ。	Be grateful.
 MAP24_e3_p0_21	それよりも…　最上階から物音がする。	Anyway... there's a noise from the top floor.
 MAP24_e3_p0_22	誰かいるかも知れない。調査するぞ。	Someone might be there. Let's investigate.
 MAP24_e3_p0_29	おい、お前、本気で言っているのか？	Hey, are you serious?
@@ -1559,7 +1559,7 @@ MAP24_e3_p0_34	それよりも…　最上階から物音がする。	Anyway... 
 MAP24_e3_p0_35	誰かいるかも知れない。調査するぞ。	Someone might be there. Let's investigate.
 MAP24_e3_p0_6	…犬の声？	...A dog's bark?
 MAP24_e3_p0_7	どこにいるんだ？　　　うわっ！	Where is it?    Whoa!
-MAP24_e4_p0_1	万金丹を　１個　手に入れた！	
+MAP24_e4_p0_1	万金丹を　１個　手に入れた！	Obtained a Mankintan!
 MAP24_e4_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP25_e3_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP26_e10_p0_1	通行手形のないもの、通り抜けを禁ずる。	
@@ -1569,89 +1569,89 @@ MAP26_e13_p0_1	持ち出して役に立つようなものは何も見つけら�
 MAP26_e14_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP26_e15_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP26_e16_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP26_e17_p1_2	ここから南…フレイム砂漠はマジで暑いぜ。	
-MAP26_e17_p1_3	そんで魔物も強い。野盗も出る。	
-MAP26_e17_p1_4	ウィン、マジで気をつけて行けよ。	
-MAP26_e18_p0_2	いやあまいったよー	
-MAP26_e18_p0_3	こう入出国が厳しいとなると	
-MAP26_e18_p0_4	商売あがったりさー	
-MAP26_e19_p0_2	おっ！ウィン、ちゃんと万金丹持ったか？	
-MAP26_e19_p0_3	ヘビがでるぞ、ヘビ！！	
+MAP26_e17_p1_2	ここから南…フレイム砂漠はマジで暑いぜ。	South of here... the Flame Desert is seriously hot.
+MAP26_e17_p1_3	そんで魔物も強い。野盗も出る。	And the monsters are strong. Bandits too.
+MAP26_e17_p1_4	ウィン、マジで気をつけて行けよ。	Win, be really careful out there.
+MAP26_e18_p0_2	いやあまいったよー	Man, this is rough.
+MAP26_e18_p0_3	こう入出国が厳しいとなると	With entry and exit being this strict,
+MAP26_e18_p0_4	商売あがったりさー	my business is going under.
+MAP26_e19_p0_2	おっ！ウィン、ちゃんと万金丹持ったか？	Oh! Win, did you bring Mankintan?
+MAP26_e19_p0_3	ヘビがでるぞ、ヘビ！！	Snakes, there'll be snakes!!
 MAP26_e20_p0_11	えっ！！！！！！！！！？？？？？？	
 MAP26_e20_p0_13	いいんですか…本当に？	
 MAP26_e20_p0_14	ありがとうございます！！	
-MAP26_e20_p0_16	ウィンダムに来たらぜひ私の父に会いに来て	
-MAP26_e20_p0_17	下さい！	
-MAP26_e20_p0_18	必ずお礼はします！	
-MAP26_e20_p0_19	ありがとう！！	
+MAP26_e20_p0_16	ウィンダムに来たらぜひ私の父に会いに来て	When you come to Windam, please be sure to
+MAP26_e20_p0_17	下さい！	visit my father!
+MAP26_e20_p0_18	必ずお礼はします！	I'll repay you, I promise!
+MAP26_e20_p0_19	ありがとう！！	Thank you!!
 MAP26_e20_p0_2	マジで参ったなあ…	
 MAP26_e20_p0_22	ありがとう騎士さま！！	
 MAP26_e20_p0_3	あついったらないし…	
 MAP26_e20_p0_5	誰か通行手形をくれたりしないかなー…	
 MAP26_e20_p0_6	これじゃあウィンダムの親父に孫の顔を	
 MAP26_e20_p0_7	見せられないよー…	
-MAP26_e20_p1_1	ウィンダムに来たらぜひ私の父に会いに来て	
-MAP26_e20_p1_2	下さい！	
-MAP26_e20_p1_3	必ずお礼はします！	
-MAP26_e20_p1_4	ありがとう！！	
+MAP26_e20_p1_1	ウィンダムに来たらぜひ私の父に会いに来て	When you come to Windam, please be sure to
+MAP26_e20_p1_2	下さい！	visit my father!
+MAP26_e20_p1_3	必ずお礼はします！	I'll repay you, I promise!
+MAP26_e20_p1_4	ありがとう！！	Thank you!!
 MAP26_e21_p0_2	まいったなあ　あついったらないよー	
 MAP26_e21_p1_2	騎士さま　ありがとう！！	
-MAP26_e22_p0_2	まいったのう…とてもじゃないが、	
-MAP26_e22_p0_3	日が暮れる前に通れるようには	
-MAP26_e22_p0_4	ならなそうじゃのう	
-MAP26_e23_p0_2	騎士さまも　とおせんぼされたの？	
-MAP26_e23_p0_3	だったらうちの宿に泊まっていきなよ！	
+MAP26_e22_p0_2	まいったのう…とてもじゃないが、	This is a pickle... at this rate,
+MAP26_e22_p0_3	日が暮れる前に通れるようには	there's no way I'll get through
+MAP26_e22_p0_4	ならなそうじゃのう	before sundown.
+MAP26_e23_p0_2	騎士さまも　とおせんぼされたの？	Did they stop you too, Sir Knight?
+MAP26_e23_p0_3	だったらうちの宿に泊まっていきなよ！	Then stay at our inn!
 MAP26_e9_p0_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP26_e9_p0_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
 MAP26_e9_p0_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
-MAP26_e9_p0_7	ここはフレイム王国への関所だ。	
-MAP26_e9_p0_8	…おい、ウィン。なんでここへ来たんだ？	
+MAP26_e9_p0_7	ここはフレイム王国への関所だ。	This is the checkpoint to the Flame Kingdom.
+MAP26_e9_p0_8	…おい、ウィン。なんでここへ来たんだ？	...Hey, Win. Why did you come here?
 MAP26_e9_p1_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP26_e9_p1_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
 MAP26_e9_p1_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
-MAP26_e9_p2_10	それはまさに国王陛下の発行する通行手形！！	
-MAP26_e9_p2_11	ははーーーっ	
-MAP26_e9_p2_12	騎士ウィン様どうぞお通りくださいませー	
+MAP26_e9_p2_10	それはまさに国王陛下の発行する通行手形！！	That's the permit issued by His Majesty the King!!
+MAP26_e9_p2_11	ははーーーっ	Yes, sir!
+MAP26_e9_p2_12	騎士ウィン様どうぞお通りくださいませー	Sir Knight Win, please, right this way~
 MAP26_e9_p2_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP26_e9_p2_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
 MAP26_e9_p2_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
-MAP26_e9_p2_7	　　　　　　　　ウィンは通行手形を見せた！	
-MAP27_e1_p0_1	もう塔から出ようか、それともまだ探索しようか…	
-MAP27_e1_p1_1	もう塔から出ようか、それともまだ探索しようか…	
-MAP27_e2_p0_10	とは言え…そうとは言えだ！	
-MAP27_e2_p0_11	やはり、やっぱり、闇の結晶を集めなければならない…	
-MAP27_e2_p0_12	そう言うことか…　面倒だなあああああああ！	
-MAP27_e2_p0_15	…おいっ！	
-MAP27_e2_p0_22	…んんん？	
-MAP27_e2_p0_27	お前、ここで何をしている？	
-MAP27_e2_p0_28	何者だ？答えろ！	
-MAP27_e2_p0_31	…王国？　騎士団だと…？？	
-MAP27_e2_p0_32	あー　忌まわしき風の紋章の継承者が…	
-MAP27_e2_p0_35	勝手に国などを作って…	
-MAP27_e2_p0_36	威張っているのだな…！　この時代では！！	
+MAP26_e9_p2_7	　　　　　　　　ウィンは通行手形を見せた！	Win showed his permit!
+MAP27_e1_p0_1	もう塔から出ようか、それともまだ探索しようか…	Should we leave the tower, or keep exploring...?
+MAP27_e1_p1_1	もう塔から出ようか、それともまだ探索しようか…	Should we leave the tower, or keep exploring...?
+MAP27_e2_p0_10	とは言え…そうとは言えだ！	But still... and yet, but still!
+MAP27_e2_p0_11	やはり、やっぱり、闇の結晶を集めなければならない…	Indeed, surely, I must gather the Dark Crystals...
+MAP27_e2_p0_12	そう言うことか…　面倒だなあああああああ！	So that's how it is... what a pain in the ass!
+MAP27_e2_p0_15	…おいっ！	...Hey!
+MAP27_e2_p0_22	…んんん？	...Hmm?
+MAP27_e2_p0_27	お前、ここで何をしている？	What are you doing here?
+MAP27_e2_p0_28	何者だ？答えろ！	Who are you? Answer me!
+MAP27_e2_p0_31	…王国？　騎士団だと…？？	...A kingdom? A knight order...??
+MAP27_e2_p0_32	あー　忌まわしき風の紋章の継承者が…	Ugh, the accursed inheritor of the Wind Crest...
+MAP27_e2_p0_35	勝手に国などを作って…	going and making a kingdom on your own...
+MAP27_e2_p0_36	威張っているのだな…！　この時代では！！	how you swagger... in this age!!
 MAP27_e2_p0_39	時代…？何を言っている！？	
-MAP27_e2_p0_40	しかしその姿、ガイコツか…　魔物か？	
-MAP27_e2_p0_43	魔物…だとー？	
-MAP27_e2_p0_44	この大魔道士ピケピケ様に向かって…	
-MAP27_e2_p0_45	魔物だとぬかしたか！　そこの赤いの！！	
-MAP27_e2_p0_48	私はこの世界を真に束ねる力、その担い手…	
-MAP27_e2_p0_49	闇のエレメント四天王筆頭…	
-MAP27_e2_p0_5	ふむ、ふむ…	
-MAP27_e2_p0_52	大魔道士……ピ！ケ！ピ！ケ！様であるぞ！！	
-MAP27_e2_p0_55	ピ…　なんだって？	
-MAP27_e2_p0_56	よく分からないが、魔物に騎士団の建物を	
-MAP27_e2_p0_57	ウロウロさせとくわけにはいかん。	
-MAP27_e2_p0_6	風のエレメントの力も、	
-MAP27_e2_p0_60	覚悟しろ！ぶっ殺してやる！	
-MAP27_e2_p0_63	何でもいいとは何だ！　失礼なやつだ！	
-MAP27_e2_p0_64	私の名は、ピケピケだと言っている…	
-MAP27_e2_p0_65	おぼえろ、ピケピケ様だ！！	
-MAP27_e2_p0_68	うるさい！！行くぞ！　ピ…　ピカピカ！！	
-MAP27_e2_p0_7	ほんの少しだが、確かに増しているようだなあ。	
-MAP27_e2_p0_71	わざとやっているのか…！？	
-MAP27_e2_p0_72	わざとやっているのだったら許さんぞー！！	
-MAP27_e2_p0_75	わざとじゃない！！	
-MAP27_e2_p0_76	それよりも行くぞ！早くバトル準備しろ！	
+MAP27_e2_p0_40	しかしその姿、ガイコツか…　魔物か？	But that form of yours—a skeleton... a monster?
+MAP27_e2_p0_43	魔物…だとー？	A monster, you say—?!
+MAP27_e2_p0_44	この大魔道士ピケピケ様に向かって…	To me, the great mage Pikepike, of all people...
+MAP27_e2_p0_45	魔物だとぬかしたか！　そこの赤いの！！	You dare call me a monster! You, the red one!!
+MAP27_e2_p0_48	私はこの世界を真に束ねる力、その担い手…	I am the bearer of the power that truly rules this world...
+MAP27_e2_p0_49	闇のエレメント四天王筆頭…	chief of the Four Dark Element Generals...
+MAP27_e2_p0_5	ふむ、ふむ…	Hmm, hmm...
+MAP27_e2_p0_52	大魔道士……ピ！ケ！ピ！ケ！様であるぞ！！	I am the great mage... Pi! Ke! Pi! Ke!!
+MAP27_e2_p0_55	ピ…　なんだって？	Pi... what was that?
+MAP27_e2_p0_56	よく分からないが、魔物に騎士団の建物を	I don't get it, but I can't let a monster
+MAP27_e2_p0_57	ウロウロさせとくわけにはいかん。	wander around the knight order's building.
+MAP27_e2_p0_6	風のエレメントの力も、	Feel the power of the Wind Element,
+MAP27_e2_p0_60	覚悟しろ！ぶっ殺してやる！	and prepare yourself! I'll kill you dead!
+MAP27_e2_p0_63	何でもいいとは何だ！　失礼なやつだ！	What do you mean 'whatever'! You rude thing!
+MAP27_e2_p0_64	私の名は、ピケピケだと言っている…	I keep telling you, my name is Pikepike...
+MAP27_e2_p0_65	おぼえろ、ピケピケ様だ！！	Remember it! Lord Pikepike!!
+MAP27_e2_p0_68	うるさい！！行くぞ！　ピ…　ピカピカ！！	Shut up! Let's go! Pi... Pikapika!!
+MAP27_e2_p0_7	ほんの少しだが、確かに増しているようだなあ。	It's only a little, but it's definitely increasing.
+MAP27_e2_p0_71	わざとやっているのか…！？	Are you doing it on purpose...!?
+MAP27_e2_p0_72	わざとやっているのだったら許さんぞー！！	If you're doing it on purpose, I won't forgive you!!
+MAP27_e2_p0_75	わざとじゃない！！	I'm not!!
+MAP27_e2_p0_76	それよりも行くぞ！早くバトル準備しろ！	Anyway, let's go! Get ready for battle, now!
 MAP27_e2_p0_79	ひとの名前に対してもう少し敬意を払え！	
 MAP27_e2_p0_80	礼儀以前の問題だぞ、そこは！！	
 MAP27_e2_p0_82	しかし…　	However...
@@ -1659,42 +1659,42 @@ MAP27_e2_p0_83	私には他にもたくさんやることがあるのだ…
 MAP27_e2_p0_84	お前らに構っているヒマは…そんなヒマはない	
 MAP27_e2_p0_87	よく喋る魔物だぜ…	
 MAP27_e2_p0_88	その減らず口、いますぐ…　　なに…！？	
-MAP27_e2_p1_10	とは言え…そうとは言えだ！	
+MAP27_e2_p1_10	とは言え…そうとは言えだ！	But still... and yet, but still!
 MAP27_e2_p1_102	よく喋る魔物だぜ…	
 MAP27_e2_p1_103	その減らず口、いますぐ…　　なに…！？	
-MAP27_e2_p1_11	やはり、やっぱり、闇の結晶を集めなければならない…	
-MAP27_e2_p1_12	そう言うことか…　面倒だなあああああああ！	
-MAP27_e2_p1_15	…おいっ！	
-MAP27_e2_p1_22	…んんん？	
-MAP27_e2_p1_27	お前、ここで何をしている？	
-MAP27_e2_p1_28	何者だ？答えろ！	
-MAP27_e2_p1_31	…王国？　騎士団だと…？？	
-MAP27_e2_p1_32	あー　忌まわしき風の紋章の継承者が…	
-MAP27_e2_p1_35	勝手に国などを作って…	
-MAP27_e2_p1_36	威張っているのだな…！　この時代では！！	
+MAP27_e2_p1_11	やはり、やっぱり、闇の結晶を集めなければならない…	Indeed, surely, I must gather the Dark Crystals...
+MAP27_e2_p1_12	そう言うことか…　面倒だなあああああああ！	So that's how it is... what a pain in the ass!
+MAP27_e2_p1_15	…おいっ！	...Hey!
+MAP27_e2_p1_22	…んんん？	...Hmm?
+MAP27_e2_p1_27	お前、ここで何をしている？	What are you doing here?
+MAP27_e2_p1_28	何者だ？答えろ！	Who are you? Answer me!
+MAP27_e2_p1_31	…王国？　騎士団だと…？？	...A kingdom? A knight order...??
+MAP27_e2_p1_32	あー　忌まわしき風の紋章の継承者が…	Ugh, the accursed inheritor of the Wind Crest...
+MAP27_e2_p1_35	勝手に国などを作って…	going and making a kingdom on your own...
+MAP27_e2_p1_36	威張っているのだな…！　この時代では！！	how you swagger... in this age!!
 MAP27_e2_p1_39	時代…？何を言っている！？	
-MAP27_e2_p1_40	しかしその姿、ガイコツか…　魔物か？	
-MAP27_e2_p1_43	魔物…だとー？	
-MAP27_e2_p1_44	この大魔道士ピケピケ様に向かって…	
-MAP27_e2_p1_45	魔物だとぬかしたか！　そこの赤いの！！	
-MAP27_e2_p1_48	私はこの世界を真に束ねる力、その担い手…	
-MAP27_e2_p1_49	闇のエレメント四天王筆頭…	
-MAP27_e2_p1_5	ふむ、ふむ…	
-MAP27_e2_p1_52	大魔道士……ピ！ケ！ピ！ケ！様であるぞ！！	
-MAP27_e2_p1_55	ピ…　なんだって？	
-MAP27_e2_p1_56	よく分からないが、魔物に騎士団の建物を	
-MAP27_e2_p1_57	ウロウロさせとくわけにはいかん。	
-MAP27_e2_p1_6	風のエレメントの力も、	
-MAP27_e2_p1_60	覚悟しろ！ぶっ殺してやる！	
-MAP27_e2_p1_63	何でもいいとは何だ！　失礼なやつだ！	
-MAP27_e2_p1_64	私の名は、ピケピケだと言っている…	
-MAP27_e2_p1_65	おぼえろ、ピケピケ様だ！！	
-MAP27_e2_p1_68	うるさい！！行くぞ！　ピ…　ピカピカ！！	
-MAP27_e2_p1_7	ほんの少しだが、確かに増しているようだなあ。	
-MAP27_e2_p1_71	わざとやっているのか…！？	
-MAP27_e2_p1_72	わざとやっているのだったら許さんぞー！！	
-MAP27_e2_p1_75	わざとじゃない！！	
-MAP27_e2_p1_76	それよりも行くぞ！早くバトル準備しろ！	
+MAP27_e2_p1_40	しかしその姿、ガイコツか…　魔物か？	But that form of yours—a skeleton... a monster?
+MAP27_e2_p1_43	魔物…だとー？	A monster, you say—?!
+MAP27_e2_p1_44	この大魔道士ピケピケ様に向かって…	To me, the great mage Pikepike, of all people...
+MAP27_e2_p1_45	魔物だとぬかしたか！　そこの赤いの！！	You dare call me a monster! You, the red one!!
+MAP27_e2_p1_48	私はこの世界を真に束ねる力、その担い手…	I am the bearer of the power that truly rules this world...
+MAP27_e2_p1_49	闇のエレメント四天王筆頭…	chief of the Four Dark Element Generals...
+MAP27_e2_p1_5	ふむ、ふむ…	Hmm, hmm...
+MAP27_e2_p1_52	大魔道士……ピ！ケ！ピ！ケ！様であるぞ！！	I am the great mage... Pi! Ke! Pi! Ke!!
+MAP27_e2_p1_55	ピ…　なんだって？	Pi... what was that?
+MAP27_e2_p1_56	よく分からないが、魔物に騎士団の建物を	I don't get it, but I can't let a monster
+MAP27_e2_p1_57	ウロウロさせとくわけにはいかん。	wander around the knight order's building.
+MAP27_e2_p1_6	風のエレメントの力も、	Feel the power of the Wind Element,
+MAP27_e2_p1_60	覚悟しろ！ぶっ殺してやる！	and prepare yourself! I'll kill you dead!
+MAP27_e2_p1_63	何でもいいとは何だ！　失礼なやつだ！	What do you mean 'whatever'! You rude thing!
+MAP27_e2_p1_64	私の名は、ピケピケだと言っている…	I keep telling you, my name is Pikepike...
+MAP27_e2_p1_65	おぼえろ、ピケピケ様だ！！	Remember it! Lord Pikepike!!
+MAP27_e2_p1_68	うるさい！！行くぞ！　ピ…　ピカピカ！！	Shut up! Let's go! Pi... Pikapika!!
+MAP27_e2_p1_7	ほんの少しだが、確かに増しているようだなあ。	It's only a little, but it's definitely increasing.
+MAP27_e2_p1_71	わざとやっているのか…！？	Are you doing it on purpose...!?
+MAP27_e2_p1_72	わざとやっているのだったら許さんぞー！！	If you're doing it on purpose, I won't forgive you!!
+MAP27_e2_p1_75	わざとじゃない！！	I'm not!!
+MAP27_e2_p1_76	それよりも行くぞ！早くバトル準備しろ！	Anyway, let's go! Get ready for battle, now!
 MAP27_e2_p1_79	ひとの名前に対してもう少し敬意を払え！	
 MAP27_e2_p1_80	礼儀以前の問題だぞ、そこは！！	
 MAP27_e2_p1_83	そういう悪い子には少しだけオシオキを…	
@@ -3968,7 +3968,7 @@ MAP58_e10_p2_15	へえ…なんだよ？
 MAP58_e10_p2_18	あんたらの紋章は、	
 MAP58_e10_p2_19	同じタイプというか…同じ属性の攻撃から、	
 MAP58_e10_p2_20	あんたらを守っているみたいだな。	
-MAP58_e10_p2_23	…は？	
+MAP58_e10_p2_23	…は？	...What?
 MAP58_e10_p2_26	火をまとった攻撃はホノオにはあまり効かない	
 MAP58_e10_p2_27	そして、風というか雷をまとった攻撃も、	
 MAP58_e10_p2_28	ウィンにはあまり効いていなかった。	
@@ -6607,40 +6607,40 @@ MAP70_e6_p0_3	これ以上近付くのは危険だ。
 MAP71_e14_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP71_e15_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP71_e16_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP71_e17_p1_2	ここから南…フレイム砂漠はマジで暑いぜ。	
-MAP71_e17_p1_3	そんで魔物も強い。野盗も出る。	
-MAP71_e17_p1_4	ウィン、マジで気をつけて行けよ。	
+MAP71_e17_p1_2	ここから南…フレイム砂漠はマジで暑いぜ。	South of here... the Flame Desert is seriously hot.
+MAP71_e17_p1_3	そんで魔物も強い。野盗も出る。	And the monsters are strong. Bandits too.
+MAP71_e17_p1_4	ウィン、マジで気をつけて行けよ。	Win, be really careful out there.
 MAP71_e17_p2_2	ここも近々閉鎖されると思うよ…	
 MAP71_e17_p2_3	火の岩もそうだけれど…	
 MAP71_e17_p2_4	魔物の侵入を防げなくなってきたんだ。	
-MAP71_e18_p0_2	いやあまいったよー	
-MAP71_e18_p0_3	こう入出国が厳しいとなると	
-MAP71_e18_p0_4	商売あがったりさー	
-MAP71_e19_p0_2	おっ！ウィン、ちゃんと万金丹持ったか？	
-MAP71_e19_p0_3	ヘビがでるぞ、ヘビ！！	
-MAP71_e22_p0_2	まいったのう…とてもじゃないが、	
-MAP71_e22_p0_3	日が暮れる前に通れるようには	
-MAP71_e22_p0_4	ならなそうじゃのう	
-MAP71_e23_p0_2	騎士さまも　とおせんぼされたの？	
-MAP71_e23_p0_3	だったらうちの宿に泊まっていきなよ！	
+MAP71_e18_p0_2	いやあまいったよー	Man, this is rough.
+MAP71_e18_p0_3	こう入出国が厳しいとなると	With entry and exit being this strict,
+MAP71_e18_p0_4	商売あがったりさー	my business is going under.
+MAP71_e19_p0_2	おっ！ウィン、ちゃんと万金丹持ったか？	Oh! Win, did you bring Mankintan?
+MAP71_e19_p0_3	ヘビがでるぞ、ヘビ！！	Snakes, there'll be snakes!!
+MAP71_e22_p0_2	まいったのう…とてもじゃないが、	This is a pickle... at this rate,
+MAP71_e22_p0_3	日が暮れる前に通れるようには	there's no way I'll get through
+MAP71_e22_p0_4	ならなそうじゃのう	before sundown.
+MAP71_e23_p0_2	騎士さまも　とおせんぼされたの？	Did they stop you too, Sir Knight?
+MAP71_e23_p0_3	だったらうちの宿に泊まっていきなよ！	Then stay at our inn!
 MAP71_e7_p1_2	　　　　　　　　　　閉店しました	
 MAP71_e7_p1_3	　　　　　　　　　…と、書いてある	
 MAP71_e8_p1_2	　　　　　扉が打ちつけられていて開かない	
 MAP71_e9_p0_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP71_e9_p0_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
 MAP71_e9_p0_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
-MAP71_e9_p0_7	ここはフレイム王国への関所だ。	
-MAP71_e9_p0_8	…おい、ウィン。なんでここへ来たんだ？	
+MAP71_e9_p0_7	ここはフレイム王国への関所だ。	This is the checkpoint to the Flame Kingdom.
+MAP71_e9_p0_8	…おい、ウィン。なんでここへ来たんだ？	...Hey, Win. Why did you come here?
 MAP71_e9_p1_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP71_e9_p1_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
 MAP71_e9_p1_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
-MAP71_e9_p2_10	それはまさに国王陛下の発行する通行手形！！	
-MAP71_e9_p2_11	ははーーーっ	
-MAP71_e9_p2_12	騎士ウィン様どうぞお通りくださいませー	
+MAP71_e9_p2_10	それはまさに国王陛下の発行する通行手形！！	That's the permit issued by His Majesty the King!!
+MAP71_e9_p2_11	ははーーーっ	Yes, sir!
+MAP71_e9_p2_12	騎士ウィン様どうぞお通りくださいませー	Sir Knight Win, please, right this way~
 MAP71_e9_p2_2	あれ、ウィンじゃないか。	Oh, if it isn't Win.
 MAP71_e9_p2_3	どうしたんだ？ここは通行手形がないと	What brings you here? Without a permit,
 MAP71_e9_p2_4	騎士でも通ることはできないぞ。	even knights can't pass this way.
-MAP71_e9_p2_7	　　　　　　　　ウィンは通行手形を見せた！	
+MAP71_e9_p2_7	　　　　　　　　ウィンは通行手形を見せた！	Win showed his permit!
 MAP72_e10_p0_10	騎士さま、ヘビに噛まれるみたいですぞ	
 MAP72_e10_p0_17	えー　ああ　そう…	
 MAP72_e10_p0_2	おー、騎士さま、ここでお会いしたのも運命！	
@@ -6791,22 +6791,22 @@ MAP75_e17_p0_12	ものでもない、かも知れない…。	always the best ch
 MAP75_e17_p0_14	相手や場所、自分の役割によって、	Depending on the enemy, the place, and your role,
 MAP75_e17_p0_15	バランスの取れた組み合わせにするのが良いだろう。	a well-balanced setup is probably best.
 MAP75_e17_p0_2	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP75_e17_p0_6	この世界の武器や防具は、種類自体はすくないが、	
-MAP75_e17_p0_7	品質によって、普通のものや、優れたものが存在する。	
-MAP75_e17_p0_9	当然、品質の良いものほど強力だったり頑丈だったり	
-MAP75_e18_p0_1	『バックラーとは』	
-MAP75_e18_p0_11	通常の盾に比べれば、防御力は数段落ちるが、	
-MAP75_e18_p0_12	回避率が大きく上がるので、ただの軽くて弱い盾という	
-MAP75_e18_p0_13	わけではない。	
-MAP75_e18_p0_15	なので、通常の大きさの魔物や人間を相手にする場合には、	
-MAP75_e18_p0_16	通常の盾よりも有効な場面が多い。	
-MAP75_e18_p0_17	しかし、巨大な敵や、どうしても避けられない攻撃を	
-MAP75_e18_p0_18	用いてくる相手には、あまり有効ではない。	
+MAP75_e17_p0_6	この世界の武器や防具は、種類自体はすくないが、	The weapons and armor of this world are few in type, but
+MAP75_e17_p0_7	品質によって、普通のものや、優れたものが存在する。	depending on quality, there are ordinary and excellent pieces.
+MAP75_e17_p0_9	当然、品質の良いものほど強力だったり頑丈だったり	Naturally, higher quality means more power and sturdiness...
+MAP75_e18_p0_1	『バックラーとは』	"""About the Buckler"""
+MAP75_e18_p0_11	通常の盾に比べれば、防御力は数段落ちるが、	Compared to normal shields, its defense is several ranks lower, but
+MAP75_e18_p0_12	回避率が大きく上がるので、ただの軽くて弱い盾という	it greatly raises evasion, so it's not just a light, weak shield.
+MAP75_e18_p0_13	わけではない。	Not at all.
+MAP75_e18_p0_15	なので、通常の大きさの魔物や人間を相手にする場合には、	So against monsters and humans of ordinary size,
+MAP75_e18_p0_16	通常の盾よりも有効な場面が多い。	it's often more effective than a normal shield.
+MAP75_e18_p0_17	しかし、巨大な敵や、どうしても避けられない攻撃を	However, against giant enemies or those with
+MAP75_e18_p0_18	用いてくる相手には、あまり有効ではない。	unavoidable attacks, it isn't very effective.
 MAP75_e18_p0_2	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP75_e18_p0_6	相手に突きつけるように構える小型の盾で、	
-MAP75_e18_p0_7	中型、大型の盾とは異なった技術を要する。	
-MAP75_e18_p0_8	受け止めるのではなく、受け流す、絡めとるなどして、	
-MAP75_e18_p0_9	回避やカウンターの布石にする盾である。	
+MAP75_e18_p0_6	相手に突きつけるように構える小型の盾で、	A small shield held out toward the opponent,
+MAP75_e18_p0_7	中型、大型の盾とは異なった技術を要する。	requiring different technique than medium or large shields.
+MAP75_e18_p0_8	受け止めるのではなく、受け流す、絡めとるなどして、	Rather than blocking, it deflects and entangles,
+MAP75_e18_p0_9	回避やカウンターの布石にする盾である。	serving as a setup for evasions and counters.
 MAP75_e3_p0_2	ウィン、いまのところ街は大丈夫だ。	
 MAP75_e3_p0_3	各家の見回りも計画通り出来ている。	
 MAP75_e3_p0_4	略奪等の悪さも、一件もない。	
@@ -9006,7 +9006,7 @@ MAP96_e1_p0_6	　　　　　　攻略メンバー４人を選んでください
 MAP96_e1_p0_60	トリカゼ　…　スピード型　力と素早さ高め	
 MAP96_e1_p0_61	マハリ　…　魔力型　魔力と素早さ高め	
 MAP96_e1_p0_7	　　　　　　　メンバーは途中で変更できません	
-MAP97_e5_p0_1	傷薬を　１個　手に入れた！	
+MAP97_e5_p0_1	傷薬を　１個　手に入れた！	Obtained a Healing Herb!
 MAP97_e5_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP97_e6_p0_5	なんちゅう荒れっぷりだ…	What a disaster zone...
 MAP97_e6_p0_6	放置してから数カ月どころじゃないぞ、これは	This place has been abandoned for way more than a few months.
@@ -9024,7 +9024,7 @@ MAP100_e3_p0_33	それよりも…　最上階から物音がする。	Anyway...
 MAP100_e3_p0_34	誰かいるかも知れない。調査するぞ。	Someone might be there. Let's investigate.
 MAP100_e3_p0_6	…犬の声？	...A dog's bark?
 MAP100_e3_p0_7	どこにいるんだ？　　　うわっ！	Where is it?    Whoa!
-MAP100_e4_p0_1	万金丹を　１個　手に入れた！	
+MAP100_e4_p0_1	万金丹を　１個　手に入れた！	Obtained a Mankintan!
 MAP100_e4_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP100_e5_p0_10	力のエレメントを手に入れた！	
 MAP101_e10_p0_10	水のエレメントを手に入れた！	
