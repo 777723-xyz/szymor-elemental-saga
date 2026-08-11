@@ -18,7 +18,7 @@
 
 (function() {
 	
-    var parameters = PluginManager.parameters('gameEnd');
+    var parameters = PluginManager.parameters('EndGme');
     var EndName = String(parameters['endName'] || 'ゲーム終了');
 	console.log(parameters['endName'])
 	
