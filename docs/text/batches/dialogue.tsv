@@ -5841,7 +5841,7 @@ MAP65_e38_p1_2	ときは来た！　もはや語るべきことはない！	The 
 MAP65_e38_p1_3	紋章の勇者たちよ　ゆけい！！	Heroes of the crests, go forth!!
 MAP65_e39_p1_11	これは若い頃に名工が俺の為に鍛えてくれた	This rapier was forged for me by a master smith in my youth,
 MAP65_e39_p1_12	レイピアなんだが…	but...
-MAP65_e39_p1_15	レイピアとしてはとても重い上に大きく、	
+MAP65_e39_p1_15	レイピアとしてはとても重い上に大きく、	It's far too heavy and large for a rapier, and
 MAP65_e39_p1_16	俺にはついぞ扱い切れないまま…	I could never quite handle it...
 MAP65_e39_p1_17	そして剣を握れなくなってしまった。	And then I lost the ability to hold a sword at all.
 MAP65_e39_p1_2	ウィン、お前に譲りたいものがある。	Win, there's something I want to pass on to you.
@@ -5851,7 +5851,7 @@ MAP65_e39_p1_3	良かったら受け取ってくれ。	Please take it, if you'd 
 MAP65_e39_p1_8	　　　　　ウィンはロイスペシャルを受け取った！	
 MAP65_e39_p2_11	これは若い頃に名工が俺の為に鍛えてくれた	This rapier was forged for me by a master smith in my youth,
 MAP65_e39_p2_12	レイピアなんだが…	but...
-MAP65_e39_p2_15	レイピアとしてはとても重い上に大きく、	
+MAP65_e39_p2_15	レイピアとしてはとても重い上に大きく、	It's far too heavy and large for a rapier, and
 MAP65_e39_p2_16	俺にはついぞ扱い切れないまま…	I could never quite handle it...
 MAP65_e39_p2_17	そして剣を握れなくなってしまった。	And then I lost the ability to hold a sword at all.
 MAP65_e39_p2_2	ウィン、お前に譲りたいものがある。	Win, there's something I want to pass on to you.
@@ -6170,13 +6170,13 @@ MAP66_e41_p0_18	俺の独断で抑えてある…。	on my own judgment...
 MAP66_e41_p0_19	でも金だけは持ってきてくれよな。	But bring money, alright?
 MAP66_e41_p0_2	無料の支給品はもう当分回せないと思ってくれ	Consider it understood that free provisions won't come around for a while.
 MAP66_e41_p0_3	すまんな、これでも俺は全体を見てちゃんと	Sorry, but I do look at the big picture and
-MAP66_e41_p0_4	管理しているつもりだよ。	
+MAP66_e41_p0_4	管理しているつもりだよ。	I try to manage things, you know.
 MAP66_e41_p1_17	お前たちのために一級品の品だけは、	For you lot, I've set aside only the finest goods,
 MAP66_e41_p1_18	俺の独断で抑えてある…。	on my own judgment...
 MAP66_e41_p1_19	でも金だけは持ってきてくれよな。	But bring money, alright?
 MAP66_e41_p1_2	無料の支給品はもう当分回せないと思ってくれ	Consider it understood that free provisions won't come around for a while.
 MAP66_e41_p1_3	すまんな、これでも俺は全体を見てちゃんと	Sorry, but I do look at the big picture and
-MAP66_e41_p1_4	管理しているつもりだよ。	
+MAP66_e41_p1_4	管理しているつもりだよ。	I try to manage things, you know.
 MAP66_e42_p0_2	雨漏りどころじゃなくなっちゃったね…	
 MAP66_e42_p0_3	でもお城が無事でよかったよ…　うん…	
 MAP66_e43_p0_14	だよな…。	
@@ -6186,13 +6186,13 @@ MAP66_e43_p0_2	ウィン！　大丈夫か！？
 MAP66_e43_p0_3	ピピンの件…　大変だったな。	
 MAP66_e43_p0_8	マジかよ…お前、タフだなあ。	
 MAP66_e44_p0_2	あーいそがしい！いそがしい！	Ah, so busy! So busy!
-MAP66_e44_p0_3	ちょっと、どいてちょうだい！	
-MAP66_e44_p0_4	…って継承者さま！　失礼しましたーーー！！	
+MAP66_e44_p0_3	ちょっと、どいてちょうだい！	Excuse me, move aside!
+MAP66_e44_p0_4	…って継承者さま！　失礼しましたーーー！！	...oh, Inheritor-sama! Forgive me—!!
 MAP66_e44_p1_10	なんだか、自分が偉くなった気がするよな！	
 MAP66_e44_p1_13	いや、あんた元々王子さまだから…。	
 MAP66_e44_p1_2	あーいそがしいいそがいい！	
-MAP66_e44_p1_3	ちょっと、どいてちょうだい！	
-MAP66_e44_p1_4	…って継承者さま！　失礼しましたーーー！！	
+MAP66_e44_p1_3	ちょっと、どいてちょうだい！	Excuse me, move aside!
+MAP66_e44_p1_4	…って継承者さま！　失礼しましたーーー！！	...oh, Inheritor-sama! Forgive me—!!
 MAP66_e44_p1_7	継承者さまって、なにげに初めて言われた。	
 MAP66_e45_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e46_p0_10	忙しいんですよーーー！！！！！！！！！	
@@ -6229,18 +6229,18 @@ MAP66_e51_p1_5	ピピンが俺の喋り方をバカにした…	Pipin mocked the
 MAP66_e51_p1_6	ピピンが小鳥に話し掛けていた…	Pipin was talking to a little bird...
 MAP66_e52_p0_2	あんなに立派だったお城が…	
 MAP66_e52_p0_3	ひどいもんだねえ…	
-MAP66_e53_p0_11	いやー…　	
-MAP66_e53_p0_12	儲かってるのにあんまり嬉しくないですね…	
-MAP66_e53_p0_13	さすがにこれだけみんなが大変そうだと…	
-MAP66_e53_p0_2	あー、どうも…　道具屋です。	
-MAP66_e53_p0_3	なんか街が崩壊してからの方がめっちゃ	
-MAP66_e53_p0_4	お客さん来て…　もうかってます…	
-MAP66_e53_p1_12	いやー…　	
-MAP66_e53_p1_13	儲かってるのにあんまり嬉しくないですね…	
-MAP66_e53_p1_14	さすがにこれだけみんなが大変そうだと…	
-MAP66_e53_p1_2	あー、どうも…　道具屋です。	
-MAP66_e53_p1_3	なんか街が崩壊してからの方がめっちゃ	
-MAP66_e53_p1_4	お客さん来て…　もうかってます…	
+MAP66_e53_p0_11	いやー…　	Well...
+MAP66_e53_p0_12	儲かってるのにあんまり嬉しくないですね…	Business is booming, but I can't say I'm happy about it...
+MAP66_e53_p0_13	さすがにこれだけみんなが大変そうだと…	With everyone struggling this much...
+MAP66_e53_p0_2	あー、どうも…　道具屋です。	Ah, hello... Item shop here.
+MAP66_e53_p0_3	なんか街が崩壊してからの方がめっちゃ	Ever since the town collapsed, we've had way more
+MAP66_e53_p0_4	お客さん来て…　もうかってます…	customers... business is great...
+MAP66_e53_p1_12	いやー…　	Well...
+MAP66_e53_p1_13	儲かってるのにあんまり嬉しくないですね…	Business is booming, but I can't say I'm happy about it...
+MAP66_e53_p1_14	さすがにこれだけみんなが大変そうだと…	With everyone struggling this much...
+MAP66_e53_p1_2	あー、どうも…　道具屋です。	Ah, hello... Item shop here.
+MAP66_e53_p1_3	なんか街が崩壊してからの方がめっちゃ	Ever since the town collapsed, we've had way more
+MAP66_e53_p1_4	お客さん来て…　もうかってます…	customers... business is great...
 MAP66_e54_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
 MAP66_e55_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
 MAP66_e56_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
@@ -6259,39 +6259,39 @@ MAP66_e57_p0_8	強力だったり、便利な技の数々である。	and includ
 MAP66_e58_p0_2	南の空が真っ赤に燃えるのを見たという者も	
 MAP66_e58_p0_3	おるとか…　	
 MAP66_e58_p0_4	じゃが、この子らにそんなことは言えん…	
-MAP66_e59_p0_2	フレイムのみんなは大丈夫かなあ…？	
+MAP66_e59_p0_2	フレイムのみんなは大丈夫かなあ…？	I wonder if everyone in Flame is okay...?
 MAP66_e59_p1_10	わたし、マイ、よろしくね！	
-MAP66_e59_p1_2	フレイムのみんなは大丈夫かなあ…？	
+MAP66_e59_p1_2	フレイムのみんなは大丈夫かなあ…？	I wonder if everyone in Flame is okay...?
 MAP66_e59_p1_5	フレイムの王子のオレがこんなに元気だぜ！	
 MAP66_e59_p1_6	きっとみんなも元気だ！	
 MAP66_e59_p1_9	わーい、王子さまだ！	
 MAP66_e60_p0_2	フレイムの家族が気になるけれど…	
 MAP66_e60_p0_3	しばらくはここを出られないみたいで…	
-MAP66_e61_p0_16	いいねえ　若いってのは！	
-MAP66_e61_p0_17	でも、遠慮すんなよ。このくらいしか、	
+MAP66_e61_p0_16	いいねえ　若いってのは！	Ah, youth is a wonderful thing!
+MAP66_e61_p0_17	でも、遠慮すんなよ。このくらいしか、	But don't hold back. This is about all
 MAP66_e61_p0_18	俺たちにはおまえにしてやれないんだからさ	
 MAP66_e61_p0_2	おっ、疲れたかー？	
-MAP66_e61_p0_7	それなら隣のベッドで休んで行けよ？	
+MAP66_e61_p0_7	それなら隣のベッドで休んで行けよ？	In that case, rest in the next bed over, why don't you?
 MAP66_e61_p0_8	おまえが来たら、優先してベッドを	
-MAP66_e61_p0_9	使わせるように言われているからな！	
-MAP66_e61_p1_10	使わせるように言われているからな！	
+MAP66_e61_p0_9	使わせるように言われているからな！	I've been told to let you use it!
+MAP66_e61_p1_10	使わせるように言われているからな！	I've been told to let you use it!
 MAP66_e61_p1_17	オレらはまだまだ元気だぜ！	
 MAP66_e61_p1_2	おっ、おまえら！	
-MAP66_e61_p1_20	いいねえ　若いってのは！	
-MAP66_e61_p1_21	でも、遠慮すんなよ。このくらいしか、	
+MAP66_e61_p1_20	いいねえ　若いってのは！	Ah, youth is a wonderful thing!
+MAP66_e61_p1_21	でも、遠慮すんなよ。このくらいしか、	But don't hold back. This is about all
 MAP66_e61_p1_22	俺たちにはおまえらにしてやれないんだからさ	
 MAP66_e61_p1_3	疲れたかー？	
-MAP66_e61_p1_8	それなら隣のベッドで休んで行けよ？	
+MAP66_e61_p1_8	それなら隣のベッドで休んで行けよ？	In that case, rest in the next bed over, why don't you?
 MAP66_e61_p1_9	おまえらが来たら、優先してベッドを	
 MAP66_e62_p0_2	宿に置いてきた食材…もう全部腐ってしまった	
 MAP66_e62_p0_3	ろうなあ…。	
 MAP66_e62_p0_4	帰宅許可が出るまで、城から出られないんです…	
-MAP66_e63_p0_2	こっちの皿はこっち！　この器はこっち！	
-MAP66_e63_p0_3	速い、俺速い！　まるで風の紋章を使う	
-MAP66_e63_p0_4	ウィンのように！	
-MAP66_e63_p1_2	こっちの皿はこっち！　この器はこっち！	
-MAP66_e63_p1_3	速い、俺速い！　まるで風の紋章を使う	
-MAP66_e63_p1_4	ウィンのように！	
+MAP66_e63_p0_2	こっちの皿はこっち！　この器はこっち！	This plate goes here! This bowl goes here!
+MAP66_e63_p0_3	速い、俺速い！　まるで風の紋章を使う	I'm fast, I'm fast! Just like Win
+MAP66_e63_p0_4	ウィンのように！	using the Wind Crest!
+MAP66_e63_p1_2	こっちの皿はこっち！　この器はこっち！	This plate goes here! This bowl goes here!
+MAP66_e63_p1_3	速い、俺速い！　まるで風の紋章を使う	I'm fast, I'm fast! Just like Win
+MAP66_e63_p1_4	ウィンのように！	using the Wind Crest!
 MAP66_e63_p1_7	こいつ本当に兵士かよ、極めてるぞ。	
 MAP66_e64_p0_2	わーいおしろだおしろだーーーー！！	
 MAP66_e65_p0_13	ありがとう、ウィン！	
@@ -6411,33 +6411,33 @@ MAP67_e19_p0_2	吾輩は王国書記官のデアール卿であーる。	I am Lo
 MAP67_e19_p0_4	吾輩は現在王国の被害状況を調べているので	
 MAP67_e19_p0_5	あーる！	
 MAP67_e19_p0_6	他国の情報もまとめているのであーる！	
-MAP67_e20_p0_2	この食堂もすっかり使われなくなりました…	
-MAP67_e20_p0_3	王でさえ、いまは兵と同じ食事を食べて	
-MAP67_e20_p0_4	らっしゃいます。	
+MAP67_e20_p0_2	この食堂もすっかり使われなくなりました…	Even this dining hall has fallen into disuse...
+MAP67_e20_p0_3	王でさえ、いまは兵と同じ食事を食べて	Even the king now eats the same rations
+MAP67_e20_p0_4	らっしゃいます。	as the soldiers.
 MAP67_e20_p1_11	民が苦しんでいるときに、領主だけいいモン	
 MAP67_e20_p1_12	食っていいわけないだろ。当たり前だ。	
 MAP67_e20_p1_15	え…？　あ、そうか…　そう、だよな…。	
 MAP67_e20_p1_18	そうだぞ。	
-MAP67_e20_p1_2	この食堂もすっかり使われなくなりました…	
-MAP67_e20_p1_3	王でさえ、いまは兵と同じ食事を食べて	
-MAP67_e20_p1_4	らっしゃいます。	
+MAP67_e20_p1_2	この食堂もすっかり使われなくなりました…	Even this dining hall has fallen into disuse...
+MAP67_e20_p1_3	王でさえ、いまは兵と同じ食事を食べて	Even the king now eats the same rations
+MAP67_e20_p1_4	らっしゃいます。	as the soldiers.
 MAP67_e20_p1_7	うげ…　ただでさえこの国のメシは、その…	
 MAP67_e20_p1_8	あれだってのによー…　	
-MAP67_e21_p0_2	城の壊れた部分を調べて回っているんだけれど	
-MAP67_e21_p0_3	ひどいなあ…	
-MAP67_e21_p0_4	ぜんぶ直るのに何年かかることやら…	
+MAP67_e21_p0_2	城の壊れた部分を調べて回っているんだけれど	I've been checking the castle's damaged sections, and
+MAP67_e21_p0_3	ひどいなあ…	it's awful...
+MAP67_e21_p0_4	ぜんぶ直るのに何年かかることやら…	How many years will it take to repair everything...
 MAP67_e21_p1_10	あっ、すいません…　フレイムのホノオ殿下…	
 MAP67_e21_p1_11	フレイムはもっとひどいんでしたね…。	
 MAP67_e21_p1_14	セイリューの木材や石材を川で運べば…	
 MAP67_e21_p1_15	ここもフレイムもすぐに復興できるかも知れない	
 MAP67_e21_p1_18	そんなことができるのか、ナガレ！？	
-MAP67_e21_p1_2	城の壊れた部分を調べて回っているんだけれど	
+MAP67_e21_p1_2	城の壊れた部分を調べて回っているんだけれど	I've been checking the castle's damaged sections, and
 MAP67_e21_p1_21	うん。だけど、この悪天候と魔物の増加が	
 MAP67_e21_p1_22	止まってからじゃないと無理だ。	
 MAP67_e21_p1_25	闇のエレメントだな…　とにかくよー	
 MAP67_e21_p1_28	み、みなさんのご武運をお祈りしております！	
-MAP67_e21_p1_3	ひどいなあ…	
-MAP67_e21_p1_4	ぜんぶ直るのに何年かかることやら…	
+MAP67_e21_p1_3	ひどいなあ…	it's awful...
+MAP67_e21_p1_4	ぜんぶ直るのに何年かかることやら…	How many years will it take to repair everything...
 MAP67_e22_p0_2	あーいそがしいいそがしい！	
 MAP67_e22_p0_7	どの食器もクロスも綺麗で見るのに忙しい！	
 MAP67_e23_p0_2	ヒマじゃのう…	
@@ -6445,13 +6445,13 @@ MAP67_e23_p0_3	家に帰りたいんじゃがのう…
 MAP67_e23_p0_4	魔物が出るっていうんで、街に入れんのじゃあ	
 MAP67_e24_p0_11	あなたほど世界中を飛び回っても見つからない	
 MAP67_e24_p0_12	のね…	
-MAP67_e24_p0_2	ウィン！　面白い本は見つかった？	
+MAP67_e24_p0_2	ウィン！　面白い本は見つかった？	Win! Did you find any interesting books?
 MAP67_e24_p0_8	　　　　　　　　　　ウィンは首を振った	
 MAP67_e24_p1_11	…なにこれ。	
 MAP67_e24_p1_12	こんな装丁の本なんて見たことない…。	
 MAP67_e24_p1_13	なんて綺麗で頑丈な…どこで作られた本なの？	
 MAP67_e24_p1_19	…分からないのね？	
-MAP67_e24_p1_2	ウィン！　面白い本は見つかった？	
+MAP67_e24_p1_2	ウィン！　面白い本は見つかった？	Win! Did you find any interesting books?
 MAP67_e24_p1_20	どういうことかしら…　しかも新しく見えるし	
 MAP67_e24_p1_23	ウィン…　この本て、私にくれるの？	
 MAP67_e24_p1_28	ありがとう！　ウィン！！	
@@ -6493,114 +6493,114 @@ MAP70_e11_p1_2	…街には入らない方がいい、ウィン…	...Better not
 MAP70_e11_p1_5	あのとき、燃え盛る岩がたくさん降ってきて…	Back then, burning rocks rained down in droves...
 MAP70_e11_p1_6	この街はがれきの山になってしまったんだ。	This town was reduced to a mountain of rubble.
 MAP70_e14_p0_2	いまはこんなところに用はないんじゃねーか？	
-MAP70_e15_p0_103	ひ、ひでえ目にあった…	
-MAP70_e15_p0_106	きっとこの先、もっと酷い目が待ってる…	
-MAP70_e15_p0_107	何が起こるか分からないな…。	
-MAP70_e15_p0_19	うお！　めちゃくちゃ紋章が光った！！	
-MAP70_e15_p0_22	…なんだ？　急に身体に力が漲るような…	
-MAP70_e15_p0_23	これは…	
-MAP70_e15_p0_26	　　　　　　ウィンはシップウの魔法をおぼえた！	
-MAP70_e15_p0_29	　　　　　ホノオはダイバクハツの魔法をおぼえた！	
-MAP70_e15_p0_32	　　　　　ナガレはイヤシノアメの魔法をおぼえた！	
+MAP70_e15_p0_103	ひ、ひでえ目にあった…	I-I had a terrible time...
+MAP70_e15_p0_106	きっとこの先、もっと酷い目が待ってる…	Surely worse awaits ahead...
+MAP70_e15_p0_107	何が起こるか分からないな…。	You never know what will happen...
+MAP70_e15_p0_19	うお！　めちゃくちゃ紋章が光った！！	Whoa! The crest just blazed up!!
+MAP70_e15_p0_22	…なんだ？　急に身体に力が漲るような…	...What is this? Strength suddenly surging through my body...
+MAP70_e15_p0_23	これは…	This is...
+MAP70_e15_p0_26	　　　　　　ウィンはシップウの魔法をおぼえた！	Win learned the Gale spell!
+MAP70_e15_p0_29	　　　　　ホノオはダイバクハツの魔法をおぼえた！	Hono learned the Great Explosion spell!
+MAP70_e15_p0_32	　　　　　ナガレはイヤシノアメの魔法をおぼえた！	Nagare learned the Healing Rain spell!
 MAP70_e15_p0_52	な、なんだ！？　紋章がずっと光ってるぞ！？	
 MAP70_e15_p0_55	　　　　ウィンたちのステータスが幾つかアップした！	
-MAP70_e15_p0_62	なんだよ突然…この急激なパワーアップ感は…	
-MAP70_e15_p0_63	いまならどんな敵が相手でも負ける気が…	
-MAP70_e15_p0_67	ちょっと黙れ、ホノオ！！	
-MAP70_e15_p0_70	あ！？　なんだよ急にーーー！？	
-MAP70_e15_p0_74	紋章は闇の力が強まるのに合わせて、	
-MAP70_e15_p0_75	その輝きを増して、力を強めるんだろ…？	
-MAP70_e15_p0_78	あたしたちがこんなに急に強くなるってこと…	
-MAP70_e15_p0_79	それはつまり…	
-MAP70_e15_p0_82	あ…　闇のエレメントの力が急に	
-MAP70_e15_p0_83	めちゃくちゃ強くなってるってこと…か…	
-MAP70_e15_p0_87	あれ…？　なんか暗く………	
-MAP70_e15_p0_88	げえっ！？　な、なんだありゃああああ！！	
-MAP70_e15_p0_91	なんかデッカイ化け物が……！！	
-MAP70_e15_p0_94	降って来たあああああああ！！	
-MAP70_e15_p1_19	うお！　めちゃくちゃ紋章が光った！！	
-MAP70_e15_p1_22	…なんだ？　急に身体に力が漲るような…	
-MAP70_e15_p1_23	これは…	
-MAP70_e15_p1_26	　　　　　　ウィンはシップウの魔法をおぼえた！	
-MAP70_e15_p1_29	　　　　　ホノオはダイバクハツの魔法をおぼえた！	
-MAP70_e15_p1_32	　　　　　ナガレはイヤシノアメの魔法をおぼえた！	
-MAP70_e15_p1_39	なんだよ突然…この急激なパワーアップ感は…	
-MAP70_e15_p1_40	いまならどんな敵が相手でも負ける気が…	
-MAP70_e15_p1_44	ちょっと黙れ、ホノオ！！	
-MAP70_e15_p1_47	あ！？　なんだよ急にーーー！？	
-MAP70_e15_p1_51	紋章は闇の力が強まるのに合わせて、	
-MAP70_e15_p1_52	その輝きを増して、力を強めるんだろ…？	
-MAP70_e15_p1_55	あたしたちがこんなに急に強くなるってこと…	
-MAP70_e15_p1_56	それはつまり…	
-MAP70_e15_p1_59	あ…　闇のエレメントの力が急に	
-MAP70_e15_p1_60	めちゃくちゃ強くなってるってこと…か…	
-MAP70_e15_p1_64	あれ…？　なんか暗く………	
-MAP70_e15_p1_65	げえっ！？　な、なんだありゃああああ！！	
-MAP70_e15_p1_68	なんかデッカイ化け物が……！！	
-MAP70_e15_p1_71	降って来たあああああああ！！	
-MAP70_e15_p1_80	ひ、ひでえ目にあった…	
-MAP70_e15_p1_83	きっとこの先、もっと酷い目が待ってる…	
-MAP70_e15_p1_84	何が起こるか分からないな…。	
+MAP70_e15_p0_62	なんだよ突然…この急激なパワーアップ感は…	What's with this sudden... surge of power...
+MAP70_e15_p0_63	いまならどんな敵が相手でも負ける気が…	Right now I feel like I could beat any enemy...
+MAP70_e15_p0_67	ちょっと黙れ、ホノオ！！	Quiet, Hono!!
+MAP70_e15_p0_70	あ！？　なんだよ急にーーー！？	Ah!? What's your problem—!?
+MAP70_e15_p0_74	紋章は闇の力が強まるのに合わせて、	The crests shine brighter and grow stronger as
+MAP70_e15_p0_75	その輝きを増して、力を強めるんだろ…？	the Dark power strengthens, right...?
+MAP70_e15_p0_78	あたしたちがこんなに急に強くなるってこと…	So for us to get this strong this suddenly...
+MAP70_e15_p0_79	それはつまり…	means that...
+MAP70_e15_p0_82	あ…　闇のエレメントの力が急に	Ah... the Dark Element's power is suddenly
+MAP70_e15_p0_83	めちゃくちゃ強くなってるってこと…か…	getting ridiculously strong... is what it means...
+MAP70_e15_p0_87	あれ…？　なんか暗く………	Huh...? It's gotten dark......
+MAP70_e15_p0_88	げえっ！？　な、なんだありゃああああ！！	Whoa!? Wh-What the heck is that!!
+MAP70_e15_p0_91	なんかデッカイ化け物が……！！	Some giant monster......!!
+MAP70_e15_p0_94	降って来たあああああああ！！	It's falling on us!!
+MAP70_e15_p1_19	うお！　めちゃくちゃ紋章が光った！！	Whoa! The crest just blazed up!!
+MAP70_e15_p1_22	…なんだ？　急に身体に力が漲るような…	...What is this? Strength suddenly surging through my body...
+MAP70_e15_p1_23	これは…	This is...
+MAP70_e15_p1_26	　　　　　　ウィンはシップウの魔法をおぼえた！	Win learned the Gale spell!
+MAP70_e15_p1_29	　　　　　ホノオはダイバクハツの魔法をおぼえた！	Hono learned the Great Explosion spell!
+MAP70_e15_p1_32	　　　　　ナガレはイヤシノアメの魔法をおぼえた！	Nagare learned the Healing Rain spell!
+MAP70_e15_p1_39	なんだよ突然…この急激なパワーアップ感は…	What's with this sudden... surge of power...
+MAP70_e15_p1_40	いまならどんな敵が相手でも負ける気が…	Right now I feel like I could beat any enemy...
+MAP70_e15_p1_44	ちょっと黙れ、ホノオ！！	Quiet, Hono!!
+MAP70_e15_p1_47	あ！？　なんだよ急にーーー！？	Ah!? What's your problem—!?
+MAP70_e15_p1_51	紋章は闇の力が強まるのに合わせて、	The crests shine brighter and grow stronger as
+MAP70_e15_p1_52	その輝きを増して、力を強めるんだろ…？	the Dark power strengthens, right...?
+MAP70_e15_p1_55	あたしたちがこんなに急に強くなるってこと…	So for us to get this strong this suddenly...
+MAP70_e15_p1_56	それはつまり…	means that...
+MAP70_e15_p1_59	あ…　闇のエレメントの力が急に	Ah... the Dark Element's power is suddenly
+MAP70_e15_p1_60	めちゃくちゃ強くなってるってこと…か…	getting ridiculously strong... is what it means...
+MAP70_e15_p1_64	あれ…？　なんか暗く………	Huh...? It's gotten dark......
+MAP70_e15_p1_65	げえっ！？　な、なんだありゃああああ！！	Whoa!? Wh-What the heck is that!!
+MAP70_e15_p1_68	なんかデッカイ化け物が……！！	Some giant monster......!!
+MAP70_e15_p1_71	降って来たあああああああ！！	It's falling on us!!
+MAP70_e15_p1_80	ひ、ひでえ目にあった…	I-I had a terrible time...
+MAP70_e15_p1_83	きっとこの先、もっと酷い目が待ってる…	Surely worse awaits ahead...
+MAP70_e15_p1_84	何が起こるか分からないな…。	You never know what will happen...
 MAP70_e17_p0_5	　　　ウィンは先にフレイム王に会おうと思った　　　	Win decided to see King Flame first.
 MAP70_e18_p0_5	　　　ウィンは先にフレイム王に会おうと思った　　　	Win decided to see King Flame first.
 MAP70_e25_p0_104	　　　　　　　　　　　ウィンは頷いた	Win nodded
-MAP70_e25_p0_20	おい、まただ！　さっきよりも激しい…！	
-MAP70_e25_p0_27	　　　　　ウィンはイカヅチの魔法をおぼえた！	
-MAP70_e25_p0_30	　　　　　ホノオはドコンジョウの魔法をおぼえた！	
-MAP70_e25_p0_33	　　ナガレはマンキンタンとツナミの魔法をおぼえた！	
+MAP70_e25_p0_20	おい、まただ！　さっきよりも激しい…！	Hey, again! Even more intense than before...!
+MAP70_e25_p0_27	　　　　　ウィンはイカヅチの魔法をおぼえた！	Win learned the Thunderclap spell!
+MAP70_e25_p0_30	　　　　　ホノオはドコンジョウの魔法をおぼえた！	Hono learned the Guts spell!
+MAP70_e25_p0_33	　　ナガレはマンキンタンとツナミの魔法をおぼえた！	Nagare learned the Mankintan and Tsunami spells!
 MAP70_e25_p0_36	　　　　　全員のステータスが幾つかアップした！	
-MAP70_e25_p0_43	なんだこの感じ…　オレ強過ぎになったぞ！！	
-MAP70_e25_p0_46	…まるで神様にでもなったような、か…？	
-MAP70_e25_p0_49	そんな感じだぜナガレ！	
-MAP70_e25_p0_50	いまならもう、どんなバケモンが出てきても	
-MAP70_e25_p0_51	全く負ける気がしねーぜ！！	
-MAP70_e25_p0_57	バカ！　あたしらが強くなるほど…	
-MAP70_e25_p0_58	闇の力も同じように強まってるんだ！	
-MAP70_e25_p0_61	だから喜んでる場合じゃないんだぞ！	
-MAP70_e25_p0_64	あ、ああ…　そうだったな…！	
-MAP70_e25_p0_65	しかしこの無敵感は、確かにちょっとな…	
-MAP70_e25_p0_66	不気味なくらいだぜー………	
-MAP70_e25_p0_72	…こりゃまたスゲーのが飛んで来たぜ。	
+MAP70_e25_p0_43	なんだこの感じ…　オレ強過ぎになったぞ！！	What is this feeling... I've gotten way too strong!!
+MAP70_e25_p0_46	…まるで神様にでもなったような、か…？	...It's like I've become a god or something...?
+MAP70_e25_p0_49	そんな感じだぜナガレ！	Exactly, Nagare!
+MAP70_e25_p0_50	いまならもう、どんなバケモンが出てきても	Right now, no matter what monster shows up,
+MAP70_e25_p0_51	全く負ける気がしねーぜ！！	I don't feel like I could lose!!
+MAP70_e25_p0_57	バカ！　あたしらが強くなるほど…	Idiot! The stronger we get...
+MAP70_e25_p0_58	闇の力も同じように強まってるんだ！	the Dark power grows just as much!
+MAP70_e25_p0_61	だから喜んでる場合じゃないんだぞ！	So this is no time to celebrate!
+MAP70_e25_p0_64	あ、ああ…　そうだったな…！	Ah, right... that's true...!
+MAP70_e25_p0_65	しかしこの無敵感は、確かにちょっとな…	But this feeling of invincibility is honestly...
+MAP70_e25_p0_66	不気味なくらいだぜー………	downright eerie.......
+MAP70_e25_p0_72	…こりゃまたスゲーのが飛んで来たぜ。	...Well, here comes another huge one.
 MAP70_e25_p0_73	ありゃあ…　龍みてーな形してんなー？	
-MAP70_e25_p0_76	あれもさっさと片付けて、闇も封じて…	
-MAP70_e25_p0_77	これを終わりにするぞ！！	
-MAP70_e25_p0_86	これからあんなのがガンガンこの大陸に	
-MAP70_e25_p0_87	飛んでくるってんだろ…？	
-MAP70_e25_p0_88	急がねえと…	
-MAP70_e25_p0_91	あたし、なぜかちっとも怖くないんだ…	
-MAP70_e25_p0_92	何だかもう、村のみんなとの暮らしも…	
-MAP70_e25_p0_93	遠くに感じる…	
-MAP70_e25_p0_96	そんなん言うなよ、ナガレ！	
-MAP70_e25_p0_97	くっそーーーー………	
-MAP70_e25_p0_98	さっさと行こうぜ！　ウィン！！	
-MAP70_e25_p1_20	おい、まただ！　さっきよりも激しい…！	
-MAP70_e25_p1_27	　　　　　ウィンはイカヅチの魔法をおぼえた！	
-MAP70_e25_p1_30	　　　　　ホノオはドコンジョウの魔法をおぼえた！	
-MAP70_e25_p1_33	　　ナガレはマンキンタンとツナミの魔法をおぼえた！	
-MAP70_e25_p1_38	なんだこの感じ…　オレ強過ぎになったぞ！！	
-MAP70_e25_p1_41	…まるで神様にでもなったような、か…？	
-MAP70_e25_p1_44	そんな感じだぜナガレ！	
-MAP70_e25_p1_45	いまならもう、どんなバケモンが出てきても	
-MAP70_e25_p1_46	全く負ける気がしねーぜ！！	
-MAP70_e25_p1_52	バカ！　あたしらが強くなるほど…	
-MAP70_e25_p1_53	闇の力も同じように強まってるんだ！	
-MAP70_e25_p1_56	だから喜んでる場合じゃないんだぞ！	
-MAP70_e25_p1_59	あ、ああ…　そうだったな…！	
-MAP70_e25_p1_60	しかしこの無敵感は、確かにちょっとな…	
-MAP70_e25_p1_61	不気味なくらいだぜー………	
-MAP70_e25_p1_67	…こりゃまたスゲーのが飛んで来たぜ。	
+MAP70_e25_p0_76	あれもさっさと片付けて、闇も封じて…	Let's deal with that one quick, seal away the Dark...
+MAP70_e25_p0_77	これを終わりにするぞ！！	and end all this!!
+MAP70_e25_p0_86	これからあんなのがガンガンこの大陸に	From now on, things like that will keep slamming
+MAP70_e25_p0_87	飛んでくるってんだろ…？	into this continent, right...?
+MAP70_e25_p0_88	急がねえと…	We'd better hurry...
+MAP70_e25_p0_91	あたし、なぜかちっとも怖くないんだ…	Oddly enough, I'm not scared at all...
+MAP70_e25_p0_92	何だかもう、村のみんなとの暮らしも…	Somehow, even life with everyone back in the village...
+MAP70_e25_p0_93	遠くに感じる…	feels so distant...
+MAP70_e25_p0_96	そんなん言うなよ、ナガレ！	Don't say that, Nagare!
+MAP70_e25_p0_97	くっそーーーー………	Dammit.......
+MAP70_e25_p0_98	さっさと行こうぜ！　ウィン！！	Let's go already! Win!!
+MAP70_e25_p1_20	おい、まただ！　さっきよりも激しい…！	Hey, again! Even more intense than before...!
+MAP70_e25_p1_27	　　　　　ウィンはイカヅチの魔法をおぼえた！	Win learned the Thunderclap spell!
+MAP70_e25_p1_30	　　　　　ホノオはドコンジョウの魔法をおぼえた！	Hono learned the Guts spell!
+MAP70_e25_p1_33	　　ナガレはマンキンタンとツナミの魔法をおぼえた！	Nagare learned the Mankintan and Tsunami spells!
+MAP70_e25_p1_38	なんだこの感じ…　オレ強過ぎになったぞ！！	What is this feeling... I've gotten way too strong!!
+MAP70_e25_p1_41	…まるで神様にでもなったような、か…？	...It's like I've become a god or something...?
+MAP70_e25_p1_44	そんな感じだぜナガレ！	Exactly, Nagare!
+MAP70_e25_p1_45	いまならもう、どんなバケモンが出てきても	Right now, no matter what monster shows up,
+MAP70_e25_p1_46	全く負ける気がしねーぜ！！	I don't feel like I could lose!!
+MAP70_e25_p1_52	バカ！　あたしらが強くなるほど…	Idiot! The stronger we get...
+MAP70_e25_p1_53	闇の力も同じように強まってるんだ！	the Dark power grows just as much!
+MAP70_e25_p1_56	だから喜んでる場合じゃないんだぞ！	So this is no time to celebrate!
+MAP70_e25_p1_59	あ、ああ…　そうだったな…！	Ah, right... that's true...!
+MAP70_e25_p1_60	しかしこの無敵感は、確かにちょっとな…	But this feeling of invincibility is honestly...
+MAP70_e25_p1_61	不気味なくらいだぜー………	downright eerie.......
+MAP70_e25_p1_67	…こりゃまたスゲーのが飛んで来たぜ。	...Well, here comes another huge one.
 MAP70_e25_p1_68	ありゃあ…　イヌ…？みてーな形してんなー？	
-MAP70_e25_p1_71	あれもさっさと片付けて、闇も封じて…	
-MAP70_e25_p1_72	これを終わりにするぞ！！	
-MAP70_e25_p1_81	これからあんなのがガンガンこの大陸に	
-MAP70_e25_p1_82	飛んでくるってんだろ…？	
-MAP70_e25_p1_83	急がねえと…	
-MAP70_e25_p1_86	あたし、なぜかちっとも怖くないんだ…	
-MAP70_e25_p1_87	何だかもう、村のみんなとの暮らしも…	
-MAP70_e25_p1_88	遠くに感じる…	
-MAP70_e25_p1_91	そんなん言うなよ、ナガレ！	
-MAP70_e25_p1_92	くっそーーーー………	
-MAP70_e25_p1_93	さっさと行こうぜ！　ウィン！！	
+MAP70_e25_p1_71	あれもさっさと片付けて、闇も封じて…	Let's deal with that one quick, seal away the Dark...
+MAP70_e25_p1_72	これを終わりにするぞ！！	and end all this!!
+MAP70_e25_p1_81	これからあんなのがガンガンこの大陸に	From now on, things like that will keep slamming
+MAP70_e25_p1_82	飛んでくるってんだろ…？	into this continent, right...?
+MAP70_e25_p1_83	急がねえと…	We'd better hurry...
+MAP70_e25_p1_86	あたし、なぜかちっとも怖くないんだ…	Oddly enough, I'm not scared at all...
+MAP70_e25_p1_87	何だかもう、村のみんなとの暮らしも…	Somehow, even life with everyone back in the village...
+MAP70_e25_p1_88	遠くに感じる…	feels so distant...
+MAP70_e25_p1_91	そんなん言うなよ、ナガレ！	Don't say that, Nagare!
+MAP70_e25_p1_92	くっそーーーー………	Dammit.......
+MAP70_e25_p1_93	さっさと行こうぜ！　ウィン！！	Let's go already! Win!!
 MAP70_e25_p1_99	　　　　　　　　　　　ウィンは頷いた	Win nodded
 MAP70_e6_p0_2	かなり崩壊している…	
 MAP70_e6_p0_3	これ以上近付くのは危険だ。	
@@ -6819,55 +6819,55 @@ MAP75_e6_p0_1	持ち出して役に立つようなものは何も見つけられ
 MAP75_e7_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e8_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP75_e9_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP76_e24_p0_2	俺は歴戦の勇士なんで、こんな任務軽いっすよ	
-MAP76_e25_p0_2	どうも状態異常使ってくる魔物が多いね。	
+MAP76_e24_p0_2	俺は歴戦の勇士なんで、こんな任務軽いっすよ	I'm a battle-hardened veteran, so this mission's a breeze.
+MAP76_e25_p0_2	どうも状態異常使ってくる魔物が多いね。	There sure are a lot of monsters using ailments.
 MAP76_e25_p0_3	万金丹を多めに買っておいた方がよさそっす。	
-MAP76_e26_p0_2	ライスボールとか万金丹とか、売っている街で	
-MAP76_e26_p0_3	微妙に値段違うの知ってるか？	
-MAP76_e26_p0_4	びっくりしたよー	
-MAP76_e28_p0_2	この前セイリューの錬金術師の店に行ったら、	
-MAP76_e28_p0_3	ちょっと割引してましたよ？	
-MAP76_e28_p0_4	行ってみてくださいっす。	
-MAP76_e29_p0_2	紋章の継承者だと、暗黒大陸の病気が効かない	
-MAP76_e29_p0_3	って本当か？　羨ましいな…	
-MAP76_e29_p0_4	誰も見たことのない土地へ行けるんだからな。	
+MAP76_e26_p0_2	ライスボールとか万金丹とか、売っている街で	Did you know rice balls, Mankintan, and the like
+MAP76_e26_p0_3	微妙に値段違うの知ってるか？	cost slightly different amounts by town?
+MAP76_e26_p0_4	びっくりしたよー	I was surprised.
+MAP76_e28_p0_2	この前セイリューの錬金術師の店に行ったら、	The other day I went to the alchemist's shop in Seiryu, and
+MAP76_e28_p0_3	ちょっと割引してましたよ？	they had a small discount.
+MAP76_e28_p0_4	行ってみてくださいっす。	You should go check it out.
+MAP76_e29_p0_2	紋章の継承者だと、暗黒大陸の病気が効かない	Is it true that ailments of the Dark Continent don't work
+MAP76_e29_p0_3	って本当か？　羨ましいな…	on crest inheritors? Lucky...
+MAP76_e29_p0_4	誰も見たことのない土地へ行けるんだからな。	You get to go where no one's ever set foot.
 MAP76_e30_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP76_e31_p0_2	　　　　　　すごく強そうなお酒が入っている	
-MAP76_e7_p0_13	騎士団のみんな、橋の警備よろしくな！	
-MAP76_e7_p0_2	け、継承者の皆様に…敬礼！	
-MAP76_e7_p0_7	おっ！　なんだそれ！	
-MAP76_e7_p0_8	騎士団はそうやってあいさつすんのか！？	
-MAP76_e8_p0_2	継承者御一行様、お通りー！	
+MAP76_e7_p0_13	騎士団のみんな、橋の警備よろしくな！	Knight Order, the bridge guard is in your hands!
+MAP76_e7_p0_2	け、継承者の皆様に…敬礼！	S-Salute to the inheritors...!
+MAP76_e7_p0_7	おっ！　なんだそれ！	Oh! What's that!
+MAP76_e7_p0_8	騎士団はそうやってあいさつすんのか！？	Is that how the knight order greets people!?
+MAP76_e8_p0_2	継承者御一行様、お通りー！	Make way for the inheritors—!
 MAP77_e10_p0_2	　　　　　　固いパンがたくさん入っている	
 MAP77_e11_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP77_e3_p0_12	　　　　　　　ウィンは蜻蛉斬を受け取った！	
-MAP77_e3_p0_16	この巨大な槍はわしが若い頃から愛用していた	
-MAP77_e3_p0_17	すごく強力な槍だ！	
-MAP77_e3_p0_18	我が一族に代々伝わる品だ！	
+MAP77_e3_p0_16	この巨大な槍はわしが若い頃から愛用していた	This great spear has been my beloved weapon
+MAP77_e3_p0_17	すごく強力な槍だ！	since my youth—a very powerful spear!
+MAP77_e3_p0_18	我が一族に代々伝わる品だ！	It's been passed down my family for generations!
 MAP77_e3_p0_2	人数は足りないが…	We're short on numbers, but...
-MAP77_e3_p0_21	ん？　確かにこの槍は大事なものだが…	
-MAP77_e3_p0_22	いまはそれよりも、少しでもお前たちの力に	
-MAP77_e3_p0_23	なるものは何でも渡さねばなるまい！	
-MAP77_e3_p0_26	なーに！　遠慮はいらんぞ！	
-MAP77_e3_p0_27	平和になったら返してくれればいいのだ！	
+MAP77_e3_p0_21	ん？　確かにこの槍は大事なものだが…	Hm? This spear is indeed precious, but...
+MAP77_e3_p0_22	いまはそれよりも、少しでもお前たちの力に	right now, more than that, I must give you anything
+MAP77_e3_p0_23	なるものは何でも渡さねばなるまい！	that can be of any help!
+MAP77_e3_p0_26	なーに！　遠慮はいらんぞ！	What! No need to hold back!
+MAP77_e3_p0_27	平和になったら返してくれればいいのだ！	Just return it once peace is restored!
 MAP77_e3_p0_3	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
 MAP77_e3_p0_4	ものでもなかろう…	necessarily the answer...
-MAP77_e3_p0_7	そうだ、ウィン！	
-MAP77_e3_p0_8	お前に良いものをやろう！	
+MAP77_e3_p0_7	そうだ、ウィン！	Oh, right, Win!
+MAP77_e3_p0_8	お前に良いものをやろう！	I'll give you something good!
 MAP77_e3_p1_12	　　　　ウィンは本物の蜻蛉斬を受け取った！	
-MAP77_e3_p1_16	この巨大な槍はわしが若い頃から愛用していた	
-MAP77_e3_p1_17	すごく強力な槍だ！	
-MAP77_e3_p1_18	我が一族に代々伝わる品だ！	
+MAP77_e3_p1_16	この巨大な槍はわしが若い頃から愛用していた	This great spear has been my beloved weapon
+MAP77_e3_p1_17	すごく強力な槍だ！	since my youth—a very powerful spear!
+MAP77_e3_p1_18	我が一族に代々伝わる品だ！	It's been passed down my family for generations!
 MAP77_e3_p1_2	人数は足りないが…	We're short on numbers, but...
-MAP77_e3_p1_21	ん？　確かにこの槍は大事なものだが…	
-MAP77_e3_p1_22	いまはそれよりも、少しでもお前たちの力に	
-MAP77_e3_p1_23	なるものは何でも渡さねばなるまい！	
-MAP77_e3_p1_26	なーに！　遠慮はいらんぞ！	
-MAP77_e3_p1_27	平和になったら返してくれればいいのだ！	
+MAP77_e3_p1_21	ん？　確かにこの槍は大事なものだが…	Hm? This spear is indeed precious, but...
+MAP77_e3_p1_22	いまはそれよりも、少しでもお前たちの力に	right now, more than that, I must give you anything
+MAP77_e3_p1_23	なるものは何でも渡さねばなるまい！	that can be of any help!
+MAP77_e3_p1_26	なーに！　遠慮はいらんぞ！	What! No need to hold back!
+MAP77_e3_p1_27	平和になったら返してくれればいいのだ！	Just return it once peace is restored!
 MAP77_e3_p1_3	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
 MAP77_e3_p1_4	ものでもなかろう…	necessarily the answer...
-MAP77_e3_p1_7	そうだ、ウィン！	
-MAP77_e3_p1_8	お前に良いものをやろう！	
+MAP77_e3_p1_7	そうだ、ウィン！	Oh, right, Win!
+MAP77_e3_p1_8	お前に良いものをやろう！	I'll give you something good!
 MAP77_e3_p2_2	人数は足りないが…	We're short on numbers, but...
 MAP77_e3_p2_3	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
 MAP77_e3_p2_4	ものでもなかろう…	necessarily the answer...
@@ -6887,14 +6887,14 @@ MAP77_e7_p0_2	　　　　　　刃こぼれした剣が乱雑にしまってあ
 MAP77_e8_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP77_e9_p0_2	　　　　　　　　中にはコメが入っている	
 MAP78_e1_p0_11	ツヴァイハンダーを手に入れた！	
-MAP78_e2_p0_11	にっかり青江を手に入れた！	
+MAP78_e2_p0_11	にっかり青江を手に入れた！	Obtained Nikkari Aoe!
 MAP78_e3_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP78_e3_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP78_e4_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP78_e4_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP78_e5_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP78_e5_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
-MAP78_e6_p0_12	まー、どのみちここまで来といて、	
+MAP78_e6_p0_12	まー、どのみちここまで来といて、	Well, having come this far,
 MAP78_e6_p0_13	今更引き返すつもりはねーけど。	
 MAP78_e6_p0_16	ウィン、どうする？	
 MAP78_e6_p0_17	入っちまってもいいかー？	
@@ -8308,29 +8308,29 @@ MAP89_e4_p0_10	ショックポーションを手に入れた！
 MAP89_e4_p2_10	ショックポーションを手に入れた！	
 MAP89_e5_p0_11	　　　　　　　ヒールポーションを手に入れた！	Obtained a Heal Potion!
 MAP89_e5_p2_11	　　　　　　　ヒールポーションを手に入れた！	Obtained a Heal Potion!
-MAP90_e24_p0_2	俺は歴戦の勇士なんで、こんな任務軽いっすよ	
-MAP90_e25_p0_2	どうも状態異常使ってくる魔物が多いね。	
+MAP90_e24_p0_2	俺は歴戦の勇士なんで、こんな任務軽いっすよ	I'm a battle-hardened veteran, so this mission's a breeze.
+MAP90_e25_p0_2	どうも状態異常使ってくる魔物が多いね。	There sure are a lot of monsters using ailments.
 MAP90_e25_p0_3	万金丹を多めに買っておいた方がよさそっす。	
-MAP90_e26_p0_2	ライスボールとか万金丹とか、売っている街で	
-MAP90_e26_p0_3	微妙に値段違うの知ってるか？	
-MAP90_e26_p0_4	びっくりしたよー	
-MAP90_e28_p0_2	この前セイリューの錬金術師の店に行ったら、	
-MAP90_e28_p0_3	ちょっと割引してましたよ？	
-MAP90_e28_p0_4	行ってみてくださいっす。	
-MAP90_e29_p0_2	紋章の継承者だと、暗黒大陸の病気が効かない	
-MAP90_e29_p0_3	って本当か？　羨ましいな…	
-MAP90_e29_p0_4	誰も見たことのない土地へ行けるんだからな。	
+MAP90_e26_p0_2	ライスボールとか万金丹とか、売っている街で	Did you know rice balls, Mankintan, and the like
+MAP90_e26_p0_3	微妙に値段違うの知ってるか？	cost slightly different amounts by town?
+MAP90_e26_p0_4	びっくりしたよー	I was surprised.
+MAP90_e28_p0_2	この前セイリューの錬金術師の店に行ったら、	The other day I went to the alchemist's shop in Seiryu, and
+MAP90_e28_p0_3	ちょっと割引してましたよ？	they had a small discount.
+MAP90_e28_p0_4	行ってみてくださいっす。	You should go check it out.
+MAP90_e29_p0_2	紋章の継承者だと、暗黒大陸の病気が効かない	Is it true that ailments of the Dark Continent don't work
+MAP90_e29_p0_3	って本当か？　羨ましいな…	on crest inheritors? Lucky...
+MAP90_e29_p0_4	誰も見たことのない土地へ行けるんだからな。	You get to go where no one's ever set foot.
 MAP90_e5_p0_102	　　　　　　シナリオライター　西園寺ハムカツ	
 MAP90_e5_p0_85	おお！！　全員生きて帰ったのか…！！	
 MAP90_e5_p0_86	なんとめでたいのだあああああああああ！！！	
 MAP90_e5_p0_89	よう、サクソンのおっさん！！	
 MAP90_e5_p0_90	橋の守り、ご苦労様だったぜー！！	
 MAP90_e5_p0_93	良かった、ここのみんなも無事みたいだな。	
-MAP90_e7_p0_13	騎士団のみんな、橋の警備よろしくな！	
-MAP90_e7_p0_2	け、継承者の皆様に…敬礼！	
-MAP90_e7_p0_7	おっ！　なんだそれ！	
-MAP90_e7_p0_8	騎士団はそうやってあいさつすんのか！？	
-MAP90_e8_p0_2	継承者御一行様、お通りー！	
+MAP90_e7_p0_13	騎士団のみんな、橋の警備よろしくな！	Knight Order, the bridge guard is in your hands!
+MAP90_e7_p0_2	け、継承者の皆様に…敬礼！	S-Salute to the inheritors...!
+MAP90_e7_p0_7	おっ！　なんだそれ！	Oh! What's that!
+MAP90_e7_p0_8	騎士団はそうやってあいさつすんのか！？	Is that how the knight order greets people!?
+MAP90_e8_p0_2	継承者御一行様、お通りー！	Make way for the inheritors—!
 MAP91_e10_p1_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP91_e10_p1_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP91_e10_p2_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
@@ -9082,7 +9082,7 @@ MAP101_e7_p0_8	間違いないだろう。	No doubt about it.
 MAP101_e8_p0_2	穴が見えてきた…	The hole's come into view...
 MAP101_e8_p0_3	きっとあれに落ちたら龍がいる…。	If we fall into that, the dragon's surely there...
 MAP101_e8_p0_4	みんな、気を引き締めた方がいい。	Everyone, better steel yourselves.
-MAP101_e9_p0_10	にっかり青江を手に入れた！	
+MAP101_e9_p0_10	にっかり青江を手に入れた！	Obtained Nikkari Aoe!
 MAP102_e10_p1_11	「誰だっオマエは！？	"""Who the heck are you!?"""
 MAP102_e10_p1_13	「うるさい！！問答無用だああああああ	
 MAP102_e10_p1_15	バンデッド	Bandit
@@ -9108,7 +9108,7 @@ MAP102_e4_p0_2	　　　　ハヤテを使えば目的地にすぐに行ける�
 MAP102_e4_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP102_e5_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP102_e5_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
-MAP102_e6_p0_12	まー、どのみちここまで来といて、	
+MAP102_e6_p0_12	まー、どのみちここまで来といて、	Well, having come this far,
 MAP102_e6_p0_13	今更引き返すつもりはねーけど。	
 MAP102_e6_p0_16	ウィン、どうする？	
 MAP102_e6_p0_17	入っちまってもいいかー？	
