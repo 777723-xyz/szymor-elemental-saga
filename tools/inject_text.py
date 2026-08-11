@@ -21,6 +21,8 @@ Covered data locations:
 
 Behaviour:
 - Backs up every modified file to docs/text/backups/<timestamp>/ first.
+- Escapes in the translation column are unescaped when applied: \\n becomes
+  a real newline (RPG Maker's line break), \\t a tab, \\\\ a literal backslash.
 - Rows of type "script" are never applied unless --apply-scripts.
 - Rows of type "note" are applied but reported separately for review.
 """
@@ -366,6 +368,37 @@ def apply_to_plugins(plugins_path, pending, state):
         state["modified"].add("js/plugins.js")
 
 
+def unescape_tsv(text):
+    """Reverse extract_text.py's escaping so the game data gets real characters.
+
+    extract_text.py escapes the source data as \\\\ -> \\\\, tab -> \\t and
+    newline -> \\n. The translation column uses the same convention: a literal
+    \\n marks a line break. RPG Maker MV does NOT interpret a literal backslash-n
+    as a line break (it swallows it, so long lines overflow and get clipped);
+    it needs a real newline character (0x0A) in the data.
+    """
+    out = []
+    i = 0
+    while i < len(text):
+        if text[i] == "\\" and i + 1 < len(text):
+            nxt = text[i + 1]
+            if nxt == "\\":
+                out.append("\\")
+                i += 2
+                continue
+            if nxt == "n":
+                out.append("\n")
+                i += 2
+                continue
+            if nxt == "t":
+                out.append("\t")
+                i += 2
+                continue
+        out.append(text[i])
+        i += 1
+    return "".join(out)
+
+
 def main():
     ap = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -389,7 +422,8 @@ def main():
             continue
         if r.get("type") == "script" and not args.apply_scripts:
             continue
-        r["translation"] = t
+        # \\n in the TSV means a real line break (see unescape_tsv)
+        r["translation"] = unescape_tsv(t)
         pending.append(r)
     if not pending:
         raise SystemExit("no rows with translations to apply")
