@@ -403,9 +403,9 @@ MAP5_e15_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなもの�
 MAP5_e16_p0_2	Map005.json	0	dialogue	　　　　　　中は少し湿って　かびていた…	
 MAP5_e17_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP5_e18_p0_1	Map005.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP5_e26_p0_1	Map005.json	0	dialogue	看板には、	
-MAP5_e26_p0_2	Map005.json	0	dialogue	『騎士団駐屯本部』	
-MAP5_e26_p0_3	Map005.json	0	dialogue	と、書いてある。	
+MAP5_e26_p0_1	Map005.json	0	dialogue	看板には、	The sign reads,
+MAP5_e26_p0_2	Map005.json	0	dialogue	『騎士団駐屯本部』	"""Knight Order Garrison HQ"""
+MAP5_e26_p0_3	Map005.json	0	dialogue	と、書いてある。	written in bold.
 MAP5_e29_p0_1	Map005.json	0	dialogue	城下町の巡回兵マックス：	Max, Town Patrolman:
 MAP5_e29_p0_2	Map005.json	0	dialogue	ここはウィンダム王国の城下町だよ。	
 MAP5_e29_p0_3	Map005.json	0	dialogue	…笑えよ、ウィン！	
@@ -438,7 +438,7 @@ MAP5_e33_p0_2	Map005.json	0	dialogue	この像は…　
 MAP5_e33_p0_3	Map005.json	0	dialogue	この像は何の像か知っているかい？	
 MAP5_e33_p0_4_c0	Map005.json	choice	choice	知ってる	I know
 MAP5_e33_p0_4_c1	Map005.json	choice	choice	知らない	I don't know
-MAP5_e33_p0_7	Map005.json	1	dialogue	なんだって？	
+MAP5_e33_p0_7	Map005.json	1	dialogue	なんだって？	What did you say?
 MAP5_e33_p0_8	Map005.json	1	dialogue	聞こえないねえ…	
 MAP5_e34_p0_1	Map005.json	0	dialogue	城下町北の巡回兵デミトリ―：	Demitri, North Town Patrolman:
 MAP5_e34_p0_2	Map005.json	0	dialogue	異常なーし	
@@ -477,7 +477,7 @@ MAP6_e20_p0_3_c1	Map006.json	choice	choice	休まない	Don't rest
 MAP6_e21_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e22_p0_2	Map006.json	0	dialogue	　　　　擦り切れたレザーコートが入っている	
 MAP6_e23_p0_2	Map006.json	0	dialogue	　　　　　あせくさい　あまり調べたくはない…	
-MAP6_e24_p0_2	Map006.json	0	dialogue	レザーコートを　一着　手に入れた！	
+MAP6_e24_p0_2	Map006.json	0	dialogue	レザーコートを　一着　手に入れた！	Obtained a Leather Coat!
 MAP6_e24_p1_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e25_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e26_p0_2	Map006.json	0	dialogue	　　　　　　　　　　食器や調味料の類だ	
@@ -488,43 +488,43 @@ MAP6_e30_p0_2	Map006.json	0	dialogue	　　　　　　　　　　　小麦粉�
 MAP6_e31_p0_2	Map006.json	0	dialogue	　　　　　　緑色の野菜がたくさん入っている	
 MAP6_e32_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e33_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e34_p0_1	Map006.json	0	dialogue	固いパンを　１個　手に入れた！	
+MAP6_e34_p0_1	Map006.json	0	dialogue	固いパンを　１個　手に入れた！	Obtained a Hard Bread!
 MAP6_e34_p1_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e35_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e36_p0_2	Map006.json	0	dialogue	　　　　　　いい匂いがする　お酒かもしれない	
 MAP6_e37_p0_1	Map006.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e37_p0_3	Map006.json	0	dialogue	倉庫番ストロング：	Strong, Warehouse Keeper:
-MAP6_e37_p0_4	Map006.json	0	dialogue	おい、勝手に触るんじゃねえ！	
+MAP6_e37_p0_4	Map006.json	0	dialogue	おい、勝手に触るんじゃねえ！	Hey, don't touch that without asking!
 MAP6_e38_p0_2	Map006.json	0	dialogue	　　　　　兵たちの為に常備されている薬類だ	
-MAP6_e39_p0_1	Map006.json	0	dialogue	『ここ最近の事件と報告』	
-MAP6_e39_p0_11	Map006.json	1	dialogue	・西の監視塔の見回りについて	
-MAP6_e39_p0_12	Map006.json	1	dialogue	他国との戦争の為に作られた西の塔ですが、定期的に	
-MAP6_e39_p0_13	Map006.json	1	dialogue	泥棒や魔物が住み着くので、見回りが大変です。	
-MAP6_e39_p0_14	Map006.json	1	dialogue	壊してしまってはどうでしょう。	
-MAP6_e39_p0_16	Map006.json	1	dialogue	・騎士と兵士の槍嫌いについて	
-MAP6_e39_p0_17	Map006.json	1	dialogue	王国では戦争の為に槍の訓練が推奨されていますが、	
-MAP6_e39_p0_18	Map006.json	1	dialogue	槍は重くて長いので、兵はおろか、騎士でさえ全然	
-MAP6_e39_p0_19	Map006.json	1	dialogue	練習していません。槍のイメージアップが必要です。	
-MAP6_e39_p0_2	Map006.json	0	dialogue	…と、書かれた本がある。読んでみようか？	
+MAP6_e39_p0_1	Map006.json	0	dialogue	『ここ最近の事件と報告』	"""Recent Incidents and Reports"""
+MAP6_e39_p0_11	Map006.json	1	dialogue	・西の監視塔の見回りについて	- About patrolling the West Watchtower
+MAP6_e39_p0_12	Map006.json	1	dialogue	他国との戦争の為に作られた西の塔ですが、定期的に	The western tower was built for wars with other nations, but bandits
+MAP6_e39_p0_13	Map006.json	1	dialogue	泥棒や魔物が住み着くので、見回りが大変です。	and monsters regularly move in, making patrols a hassle.
+MAP6_e39_p0_14	Map006.json	1	dialogue	壊してしまってはどうでしょう。	Perhaps we should just demolish it.
+MAP6_e39_p0_16	Map006.json	1	dialogue	・騎士と兵士の槍嫌いについて	- About knights and soldiers hating spears
+MAP6_e39_p0_17	Map006.json	1	dialogue	王国では戦争の為に槍の訓練が推奨されていますが、	The kingdom recommends spear training for war, but spears are
+MAP6_e39_p0_18	Map006.json	1	dialogue	槍は重くて長いので、兵はおろか、騎士でさえ全然	heavy and long, so not just soldiers—even knights aren't
+MAP6_e39_p0_19	Map006.json	1	dialogue	練習していません。槍のイメージアップが必要です。	practicing at all. Spears need a better image.
+MAP6_e39_p0_2	Map006.json	0	dialogue	…と、書かれた本がある。読んでみようか？	There's a book with these words written in it. Should we read it?
 MAP6_e39_p0_3_c0	Map006.json	choice	choice	読んでみる	Read it
 MAP6_e39_p0_3_c1	Map006.json	choice	choice	読まない	Don't read it
-MAP6_e39_p0_6	Map006.json	1	dialogue	・フレイムからの野盗、ごろつき、密売人の流入	
-MAP6_e39_p0_7	Map006.json	1	dialogue	関所の警備の強化をしています。通行手形の発行手続きを	
-MAP6_e39_p0_8	Map006.json	1	dialogue	複雑にして、料金も値上げしました。	
-MAP6_e39_p0_9	Map006.json	1	dialogue	街のパトロールも増やしました。	
-MAP6_e40_p0_1	Map006.json	0	dialogue	『色々な見積もりリスト』	
-MAP6_e40_p0_11	Map006.json	1	dialogue	城内宿舎の改築　資材6540G　人手5800G	
-MAP6_e40_p0_12	Map006.json	1	dialogue	出来ます。ベットの数が元々足りていませんしね…。	
-MAP6_e40_p0_13	Map006.json	1	dialogue	各区画への公衆トイレ設置　資材4500G　人手7200G	
-MAP6_e40_p0_14	Map006.json	1	dialogue	各区画でなくとも一個か二個でもいいです。切実に…。	
-MAP6_e40_p0_16	Map006.json	1	dialogue	武器庫の掃除　資材800G　人手300G	
-MAP6_e40_p0_17	Map006.json	1	dialogue	陛下からストロングに御自ら命令してください！	
-MAP6_e40_p0_18	Map006.json	1	dialogue	軍馬の購入　資材？？？　人手？？？	
-MAP6_e40_p0_19	Map006.json	1	dialogue	一体いつからこの大陸には馬がいなくなったのでしょう…	
+MAP6_e39_p0_6	Map006.json	1	dialogue	・フレイムからの野盗、ごろつき、密売人の流入	- Influx of bandits, thugs, and smugglers from Flame
+MAP6_e39_p0_7	Map006.json	1	dialogue	関所の警備の強化をしています。通行手形の発行手続きを	We've strengthened security at the checkpoint. We've made the permit
+MAP6_e39_p0_8	Map006.json	1	dialogue	複雑にして、料金も値上げしました。	issuing process more complicated and raised the fees.
+MAP6_e39_p0_9	Map006.json	1	dialogue	街のパトロールも増やしました。	We've also increased town patrols.
+MAP6_e40_p0_1	Map006.json	0	dialogue	『色々な見積もりリスト』	"""Various Estimates List"""
+MAP6_e40_p0_11	Map006.json	1	dialogue	城内宿舎の改築　資材6540G　人手5800G	Renovating castle barracks - materials 6540G, labor 5800G
+MAP6_e40_p0_12	Map006.json	1	dialogue	出来ます。ベットの数が元々足りていませんしね…。	It can be done. The number of beds has never been enough...
+MAP6_e40_p0_13	Map006.json	1	dialogue	各区画への公衆トイレ設置　資材4500G　人手7200G	Public toilets in each ward - materials 4500G, labor 7200G
+MAP6_e40_p0_14	Map006.json	1	dialogue	各区画でなくとも一個か二個でもいいです。切実に…。	Even one or two would do, not per ward. We beg you...
+MAP6_e40_p0_16	Map006.json	1	dialogue	武器庫の掃除　資材800G　人手300G	Cleaning the armory - materials 800G, labor 300G
+MAP6_e40_p0_17	Map006.json	1	dialogue	陛下からストロングに御自ら命令してください！	Please order Strong to do it yourself, Your Majesty!
+MAP6_e40_p0_18	Map006.json	1	dialogue	軍馬の購入　資材？？？　人手？？？	Purchasing warhorses - materials ???, labor ???
+MAP6_e40_p0_19	Map006.json	1	dialogue	一体いつからこの大陸には馬がいなくなったのでしょう…	Just when did horses disappear from this continent, I wonder...
 MAP6_e40_p0_2	Map006.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
 MAP6_e40_p0_3_c0	Map006.json	choice	choice	読んでみる	Read it
 MAP6_e40_p0_3_c1	Map006.json	choice	choice	読まない	Don't read it
-MAP6_e40_p0_6	Map006.json	1	dialogue	バルコニーの改修　資材5136G　人手107050G	
+MAP6_e40_p0_6	Map006.json	1	dialogue	バルコニーの改修　資材5136G　人手107050G	Renovating the balcony - materials 5136G, labor 107050G
 MAP6_e40_p0_7	Map006.json	1	dialogue	とてもじゃないですが無理です陛下…！	
 MAP6_e40_p0_8	Map006.json	1	dialogue	城下町のバリアフリー化　資材3460G 人手6845G	
 MAP6_e40_p0_9	Map006.json	1	dialogue	出来なくもないですが、車椅子使っている国民ゼロです…	
@@ -4379,7 +4379,7 @@ MAP50_e35_p1_10	Map050.json	0	dialogue	ホノオ：	Hono:
 MAP50_e35_p1_100	Map050.json	0	dialogue	俺らは火と風の紋章の継承者の、ホノオと	
 MAP50_e35_p1_101	Map050.json	0	dialogue	ウィンだ。	
 MAP50_e35_p1_105	Map050.json	0	dialogue	ナガレ：	Nagare:
-MAP50_e35_p1_106	Map050.json	0	dialogue	なんだって？	
+MAP50_e35_p1_106	Map050.json	0	dialogue	なんだって？	What did you say?
 MAP50_e35_p1_108	Map050.json	0	dialogue	ホノオ：	Hono:
 MAP50_e35_p1_109	Map050.json	0	dialogue	闇のエレメントが復活しようとしてる。	
 MAP50_e35_p1_11	Map050.json	0	dialogue	つ、つええ…	
@@ -5272,15 +5272,15 @@ MAP55_e25_p1_3	Map055.json	0	dialogue	朝からずっと外の瓦礫を片付け
 MAP55_e25_p1_4	Map055.json	0	dialogue	くたくたなんだ。	
 MAP55_e26_p0_1	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP55_e26_p0_11	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
-MAP55_e26_p0_12	Map055.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	
-MAP55_e26_p0_13	Map055.json	0	dialogue	開発するため、日夜研究の毎日！	
+MAP55_e26_p0_12	Map055.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
+MAP55_e26_p0_13	Map055.json	0	dialogue	開発するため、日夜研究の毎日！	I research day and night!
 MAP55_e26_p0_14	Map055.json	0	dialogue	そのためにも買い物して協力してください！	
 MAP55_e26_p0_2	Map055.json	0	dialogue	いらっしゃい！セイリューにも	
 MAP55_e26_p0_3	Map055.json	0	dialogue	錬金術師のお店開くの夢だったんだ！	
 MAP55_e26_p1_1	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP55_e26_p1_12	Map055.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
-MAP55_e26_p1_13	Map055.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	
-MAP55_e26_p1_14	Map055.json	0	dialogue	開発するため、日夜研究の毎日！	
+MAP55_e26_p1_13	Map055.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
+MAP55_e26_p1_14	Map055.json	0	dialogue	開発するため、日夜研究の毎日！	I research day and night!
 MAP55_e26_p1_15	Map055.json	0	dialogue	そのためにも早く世界を救ってください！	
 MAP55_e26_p1_2	Map055.json	0	dialogue	命あってのものだねっていうからねー！	
 MAP55_e26_p1_3	Map055.json	0	dialogue	助けてもらったお礼に、薬の在庫は	
@@ -5610,8 +5610,8 @@ MAP56_e3_p1_3	Map056.json	0	dialogue	万金丹が他の国で買うより安い�
 MAP56_e3_p1_4	Map056.json	0	dialogue	まとめ買いしていったらどうだい？	
 MAP57_e2_p0_1	Map057.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
 MAP57_e2_p0_11	Map057.json	0	dialogue	錬金術師イマル：	Imaru, Alchemist:
-MAP57_e2_p0_12	Map057.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	
-MAP57_e2_p0_13	Map057.json	0	dialogue	開発するため、日夜研究の毎日！	
+MAP57_e2_p0_12	Map057.json	0	dialogue	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
+MAP57_e2_p0_13	Map057.json	0	dialogue	開発するため、日夜研究の毎日！	I research day and night!
 MAP57_e2_p0_14	Map057.json	0	dialogue	そのためにも買い物して協力してください！	
 MAP57_e2_p0_2	Map057.json	0	dialogue	いらっしゃい！セイリューにも	
 MAP57_e2_p0_3	Map057.json	0	dialogue	錬金術師のお店開くの夢だったんだ！	
@@ -5764,7 +5764,7 @@ MAP58_e5_p0_2	Map058.json	0	dialogue	着いたよ。
 MAP58_e5_p0_21	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e5_p0_22	Map058.json	0	dialogue	お社をぶっ壊すしかないだろう？	
 MAP58_e5_p0_24	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p0_25	Map058.json	0	dialogue	えっ！？	
+MAP58_e5_p0_25	Map058.json	0	dialogue	えっ！？	Huh!?
 MAP58_e5_p0_26	Map058.json	0	dialogue	そんなことしていいのかよ！？	
 MAP58_e5_p0_28	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e5_p0_29	Map058.json	0	dialogue	いいも何も、それしかないだろう。	
@@ -5799,7 +5799,7 @@ MAP58_e5_p1_2	Map058.json	0	dialogue	着いたよ。
 MAP58_e5_p1_21	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e5_p1_22	Map058.json	0	dialogue	お社をぶっ壊すしかないだろう？	
 MAP58_e5_p1_24	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e5_p1_25	Map058.json	0	dialogue	えっ！？	
+MAP58_e5_p1_25	Map058.json	0	dialogue	えっ！？	Huh!?
 MAP58_e5_p1_26	Map058.json	0	dialogue	そんなことしていいのかよ！？	
 MAP58_e5_p1_28	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e5_p1_29	Map058.json	0	dialogue	いいも何も、それしかないだろう。	
@@ -5891,7 +5891,7 @@ MAP59_e7_p0_57	Map059.json	0	dialogue	…龍じゃなくてひとがいる？
 MAP59_e7_p0_58	Map059.json	0	dialogue	龍が話す？そうだとしても、誰と…？	
 MAP59_e7_p0_6	Map059.json	0	dialogue	そうだろうな。	
 MAP59_e7_p0_60	Map059.json	0	dialogue	ナガレ：	Nagare:
-MAP59_e7_p0_61	Map059.json	0	dialogue	あっ！！	
+MAP59_e7_p0_61	Map059.json	0	dialogue	あっ！！	Ah!!
 MAP59_e7_p0_63	Map059.json	0	dialogue	ホノオ：	Hono:
 MAP59_e7_p0_64	Map059.json	0	dialogue	おわーーーっ！？	
 MAP59_e7_p0_65	Map059.json	0	dialogue	お、おちるーーーー！！！！	
@@ -6064,7 +6064,7 @@ MAP60_e6_p0_174	Map060.json	0	dialogue	ミケーネの味方をして…
 MAP60_e6_p0_175	Map060.json	0	dialogue	あの子たちと戦うつもりなんて…ないんだよ！	
 MAP60_e6_p0_177	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p0_178	Map060.json	0	dialogue	…どういうこと？	
-MAP60_e6_p0_179	Map060.json	0	dialogue	あっ！！	
+MAP60_e6_p0_179	Map060.json	0	dialogue	あっ！！	Ah!!
 MAP60_e6_p0_18	Map060.json	0	dialogue	いまこそ私の力となり、闇の復活を…	
 MAP60_e6_p0_188	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p0_189	Map060.json	0	dialogue	青龍…　それは…　水の紋章…！？	
@@ -6232,7 +6232,7 @@ MAP60_e6_p1_158	Map060.json	0	dialogue	な、なんだよ…
 MAP60_e6_p1_159	Map060.json	0	dialogue	何が起こるってんだよーーー！？	
 MAP60_e6_p1_16	Map060.json	0	dialogue	おっと！	
 MAP60_e6_p1_162	Map060.json	0	dialogue	ミケーネ：	Mycenae:
-MAP60_e6_p1_163	Map060.json	0	dialogue	それなら…	
+MAP60_e6_p1_163	Map060.json	0	dialogue	それなら…	In that case...
 MAP60_e6_p1_164	Map060.json	0	dialogue	まだ全然なんとかなるわね。	
 MAP60_e6_p1_166	Map060.json	0	dialogue	ミケーネ：	Mycenae:
 MAP60_e6_p1_167	Map060.json	0	dialogue	はあ、おかげですっかり頭が冷えたわ。	
@@ -6337,7 +6337,7 @@ MAP60_e6_p2_171	Map060.json	0	dialogue	ホノオ：	Hono:
 MAP60_e6_p2_172	Map060.json	0	dialogue	な、なんだよ…	
 MAP60_e6_p2_173	Map060.json	0	dialogue	何が起こるってんだよーーー！？	
 MAP60_e6_p2_176	Map060.json	0	dialogue	ミケーネ：	Mycenae:
-MAP60_e6_p2_177	Map060.json	0	dialogue	それなら…	
+MAP60_e6_p2_177	Map060.json	0	dialogue	それなら…	In that case...
 MAP60_e6_p2_178	Map060.json	0	dialogue	まだ全然なんとかなるわね。	
 MAP60_e6_p2_18	Map060.json	0	dialogue	背中を見せたら、後ろから叩っきるぜ！！	
 MAP60_e6_p2_180	Map060.json	0	dialogue	ミケーネ：	Mycenae:
@@ -6637,20 +6637,20 @@ MAP61_e56_p2_2	Map061.json	0	dialogue	うん…
 MAP61_e56_p2_3	Map061.json	0	dialogue	とりあえず、屋敷の中へ…	
 MAP61_e56_p2_4	Map061.json	0	dialogue	村のみんなが集まってるよ	
 MAP61_e60_p0_10	Map061.json	0	dialogue	トリカゼ：	Torikaze:
-MAP61_e60_p0_11	Map061.json	0	dialogue	おーい！！	
+MAP61_e60_p0_11	Map061.json	0	dialogue	おーい！！	Heyyy!!
 MAP61_e60_p0_14	Map061.json	0	dialogue	トリカゼ：	Torikaze:
-MAP61_e60_p0_15	Map061.json	0	dialogue	あたしだけじゃちょっとキツイんだ…	
-MAP61_e60_p0_16	Map061.json	0	dialogue	助太刀してくれーーー！！	
+MAP61_e60_p0_15	Map061.json	0	dialogue	あたしだけじゃちょっとキツイんだ…	I can't handle this on my own...
+MAP61_e60_p0_16	Map061.json	0	dialogue	助太刀してくれーーー！！	Give me a hand—!!
 MAP61_e60_p0_19	Map061.json	0	dialogue	ホノオ：	Hono:
-MAP61_e60_p0_20	Map061.json	0	dialogue	なんかすげえヤバイ感じだな…！	
+MAP61_e60_p0_20	Map061.json	0	dialogue	なんかすげえヤバイ感じだな…！	This feels seriously bad...!
 MAP61_e60_p0_22	Map061.json	0	dialogue	ナガレ：	Nagare:
-MAP61_e60_p0_23	Map061.json	0	dialogue	とにかくトリカゼに助太刀しよう！急げ！	
+MAP61_e60_p0_23	Map061.json	0	dialogue	とにかくトリカゼに助太刀しよう！急げ！	Either way, let's help Torikaze! Hurry!
 MAP61_e60_p0_4	Map061.json	0	dialogue	ホノオ：	Hono:
-MAP61_e60_p0_5	Map061.json	0	dialogue	お、おい…　なんだこりゃあ…！	
+MAP61_e60_p0_5	Map061.json	0	dialogue	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
 MAP61_e60_p0_7	Map061.json	0	dialogue	ナガレ：	Nagare:
-MAP61_e60_p0_8	Map061.json	0	dialogue	川が氾濫した！？　みんなは大丈夫なのか！？	
+MAP61_e60_p0_8	Map061.json	0	dialogue	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
 MAP61_e61_p1_1	Map061.json	0	dialogue	ホノオ：	Hono:
-MAP61_e61_p1_2	Map061.json	0	dialogue	いまここを離れるわけにはいかねえ！！	
+MAP61_e61_p1_2	Map061.json	0	dialogue	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
 MAP61_e65_p0_11	Map061.json	0	dialogue	ホノオ：	Hono:
 MAP61_e65_p0_12	Map061.json	0	dialogue	いまいくぜー！！	
 MAP61_e65_p0_3	Map061.json	0	dialogue	ナガレ：	Nagare:
@@ -6728,9 +6728,9 @@ MAP62_e22_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられて
 MAP62_e23_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e24_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e25_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
-MAP62_e26_p0_1	Map062.json	0	dialogue	看板には、	
-MAP62_e26_p0_2	Map062.json	0	dialogue	『騎士団駐屯本部』	
-MAP62_e26_p0_3	Map062.json	0	dialogue	と、書いてある。	
+MAP62_e26_p0_1	Map062.json	0	dialogue	看板には、	The sign reads,
+MAP62_e26_p0_2	Map062.json	0	dialogue	『騎士団駐屯本部』	"""Knight Order Garrison HQ"""
+MAP62_e26_p0_3	Map062.json	0	dialogue	と、書いてある。	written in bold.
 MAP62_e28_p0_2	Map062.json	0	dialogue	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e2_p2_2	Map062.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP62_e2_p2_3	Map062.json	0	dialogue	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
@@ -6836,9 +6836,9 @@ MAP63_e18_p0_6	Map063.json	0	dialogue	…ああ。	...Yeah.
 MAP63_e18_p0_7	Map063.json	0	dialogue	街の方もこれぐらい頑丈に作っておけば…	
 MAP63_e18_p0_8	Map063.json	0	dialogue	あんなひでえことにならなかったのによー…	
 MAP63_e19_p0_1	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e19_p0_2	Map063.json	0	dialogue	親父…　みんな…　生きていてくれ…！	
+MAP63_e19_p0_2	Map063.json	0	dialogue	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e20_p0_1	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e20_p0_2	Map063.json	0	dialogue	親父…　みんな…　生きていてくれ…！	
+MAP63_e20_p0_2	Map063.json	0	dialogue	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e34_p0_2	Map063.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP63_e34_p0_3	Map063.json	0	dialogue	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP63_e34_p0_4_c0	Map063.json	choice	choice	ハヤテを使おう	Use Hayate
@@ -6896,7 +6896,7 @@ MAP63_e35_p3_6	Map063.json	0	dialogue	よう！　元気になったみたいで
 MAP63_e35_p3_8	Map063.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
 MAP63_e35_p3_9	Map063.json	0	dialogue	へ？　あ、王子　どうもっす	
 MAP63_e36_p0_1	Map063.json	0	dialogue	ホノオ：	Hono:
-MAP63_e36_p0_2	Map063.json	0	dialogue	親父…　みんな…　生きていてくれ…！	
+MAP63_e36_p0_2	Map063.json	0	dialogue	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e40_p0_1	Map063.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP63_e41_p0_1	Map063.json	0	dialogue	物乞いの子ビザエ：	Bizae, Beggar Boy:
 MAP63_e41_p0_2	Map063.json	0	dialogue	あそこの店からいい匂いがするんだー	That shop over there smells great!
@@ -7189,18 +7189,18 @@ MAP64_e15_p2_4	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e15_p2_5	Map064.json	0	dialogue	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
 MAP64_e15_p3_1	Map064.json	0	dialogue	イヌ：	Dog:
 MAP64_e15_p3_12	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e15_p3_13	Map064.json	0	dialogue	…ナイフ？	
-MAP64_e15_p3_14	Map064.json	0	dialogue	オマエ、一体どっからこんなモンを…？？	
+MAP64_e15_p3_13	Map064.json	0	dialogue	…ナイフ？	...A knife?
+MAP64_e15_p3_14	Map064.json	0	dialogue	オマエ、一体どっからこんなモンを…？？	You, where on earth did you get something like this...??
 MAP64_e15_p3_16	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e15_p3_17	Map064.json	0	dialogue	まあいいや、コレはオレがもらっとくぜ！	
+MAP64_e15_p3_17	Map064.json	0	dialogue	まあいいや、コレはオレがもらっとくぜ！	Whatever, I'll be taking this!
 MAP64_e15_p3_19	Map064.json	0	dialogue	イヌ：	Dog:
-MAP64_e15_p3_2	Map064.json	0	dialogue	フッーン！ッっフーン！	
-MAP64_e15_p3_20	Map064.json	0	dialogue	クーンックー！	
-MAP64_e15_p3_24	Map064.json	0	dialogue	　　　　ホノオはマンゴーシュを手に入れた！	
+MAP64_e15_p3_2	Map064.json	0	dialogue	フッーン！ッっフーン！	Hmph! Hmph!
+MAP64_e15_p3_20	Map064.json	0	dialogue	クーンックー！	Yip yip!
+MAP64_e15_p3_24	Map064.json	0	dialogue	　　　　ホノオはマンゴーシュを手に入れた！	Hono obtained a Main Gauche!
 MAP64_e15_p3_4	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e15_p3_5	Map064.json	0	dialogue	しかし変な鳴き声の犬…	
-MAP64_e15_p3_6	Map064.json	0	dialogue	って、オマエなんでそんなモン咥えてんだ！？	
-MAP64_e15_p3_9	Map064.json	0	dialogue	　　　　　　ホノオは犬からそれを奪い取った！	
+MAP64_e15_p3_5	Map064.json	0	dialogue	しかし変な鳴き声の犬…	But what a weird bark for a dog...
+MAP64_e15_p3_6	Map064.json	0	dialogue	って、オマエなんでそんなモン咥えてんだ！？	Hey, why are you carrying something like that in your mouth!?
+MAP64_e15_p3_9	Map064.json	0	dialogue	　　　　　　ホノオは犬からそれを奪い取った！	Hono snatched it from the dog!
 MAP64_e15_p4_1	Map064.json	0	dialogue	イヌ：	Dog:
 MAP64_e15_p4_2	Map064.json	0	dialogue	クッーン！ッっクーン！	Yip! Yip!
 MAP64_e15_p4_4	Map064.json	0	dialogue	ホノオ：	Hono:
@@ -7253,7 +7253,7 @@ MAP64_e17_p0_43	Map064.json	0	dialogue	おい、親父、死ぬんじゃねえ�
 MAP64_e17_p0_45	Map064.json	0	dialogue	ナウ―：	Nau:
 MAP64_e17_p0_46	Map064.json	0	dialogue	………急所は、外してある	
 MAP64_e17_p0_50	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e17_p0_51	Map064.json	0	dialogue	…なに？	
+MAP64_e17_p0_51	Map064.json	0	dialogue	…なに？	...What?
 MAP64_e17_p0_53	Map064.json	0	dialogue	ナウ―：	Nau:
 MAP64_e17_p0_56	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e17_p0_57	Map064.json	0	dialogue	へー………	
@@ -7273,7 +7273,7 @@ MAP64_e17_p0_77	Map064.json	0	dialogue	でもよー　コイツきっと、オ�
 MAP64_e17_p0_78	Map064.json	0	dialogue	やりたいんだと思うぜー…	
 MAP64_e17_p0_80	Map064.json	0	dialogue	ナウ―：	Nau:
 MAP64_e17_p0_83	Map064.json	0	dialogue	ナガレ：	Nagare:
-MAP64_e17_p0_84	Map064.json	0	dialogue	…なんだって？	
+MAP64_e17_p0_84	Map064.json	0	dialogue	…なんだって？	...What did you say?
 MAP64_e17_p0_86	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e17_p0_87	Map064.json	0	dialogue	頼む、ナガレ。	
 MAP64_e17_p0_88	Map064.json	0	dialogue	コイツはオレに任せて…　親父と…、	
@@ -7337,7 +7337,7 @@ MAP64_e30_p1_92	Map064.json	0	dialogue	バカ！　ホノオのバカヤロー�
 MAP64_e30_p1_93	Map064.json	0	dialogue	もういい…　	
 MAP64_e30_p1_94	Map064.json	0	dialogue	あんたが出来ないなら、あたしが…！	
 MAP64_e31_p1_11	Map064.json	0	dialogue	ナウ―：	Nau:
-MAP64_e31_p1_12	Map064.json	0	dialogue	………ッ	
+MAP64_e31_p1_12	Map064.json	0	dialogue	………ッ	......Hmph
 MAP64_e31_p1_15	Map064.json	0	dialogue	ナガレ：	Nagare:
 MAP64_e31_p1_16	Map064.json	0	dialogue	…っ！　ミケーネ………！！	
 MAP64_e31_p1_20	Map064.json	0	dialogue	ミケーネ：	Mycenae:
@@ -7388,7 +7388,7 @@ MAP64_e31_p2_113	Map064.json	0	dialogue	あたしたちの予想を軽く超え�
 MAP64_e31_p2_115	Map064.json	0	dialogue	ミケーネ：	Mycenae:
 MAP64_e31_p2_116	Map064.json	0	dialogue	きっとまた会うことになる…	
 MAP64_e31_p2_117	Map064.json	0	dialogue	そのときが、本当の最後になるわ。	
-MAP64_e31_p2_12	Map064.json	0	dialogue	………ッ	
+MAP64_e31_p2_12	Map064.json	0	dialogue	………ッ	......Hmph
 MAP64_e31_p2_15	Map064.json	0	dialogue	ナガレ：	Nagare:
 MAP64_e31_p2_16	Map064.json	0	dialogue	…っ！　ミケーネ………！！	
 MAP64_e31_p2_20	Map064.json	0	dialogue	ミケーネ：	Mycenae:
@@ -7416,7 +7416,7 @@ MAP64_e31_p2_51	Map064.json	0	dialogue	へへ…！！
 MAP64_e31_p2_52	Map064.json	0	dialogue	それだけオレが強くなったってことだぜ！	
 MAP64_e31_p2_54	Map064.json	0	dialogue	ミケーネ：	Mycenae:
 MAP64_e31_p2_55	Map064.json	0	dialogue	あら、そんなに？	
-MAP64_e31_p2_56	Map064.json	0	dialogue	それなら…　	
+MAP64_e31_p2_56	Map064.json	0	dialogue	それなら…　	In that case...
 MAP64_e31_p2_57	Map064.json	0	dialogue	あたしとナウー、同時に相手にできるかしら？	
 MAP64_e31_p2_59	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e31_p2_60	Map064.json	0	dialogue	なんだって…！？	
@@ -7461,89 +7461,89 @@ MAP64_e32_p1_38	Map064.json	0	dialogue	薬は持ってるだろ！？
 MAP64_e32_p1_42	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e32_p1_43	Map064.json	0	dialogue	お、おう…！！	
 MAP64_e33_p1_1	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p1_10	Map064.json	0	dialogue	無事に帰ってくれ…　ホノオ。	
+MAP64_e33_p1_10	Map064.json	0	dialogue	無事に帰ってくれ…　ホノオ。	Come home safe... Hono.
 MAP64_e33_p1_12	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p1_13	Map064.json	0	dialogue	当たり前だろ？　あ、それより、	
-MAP64_e33_p1_14	Map064.json	0	dialogue	アレ、あるか？	
+MAP64_e33_p1_13	Map064.json	0	dialogue	当たり前だろ？　あ、それより、	Of course, right? Oh, anyway,
+MAP64_e33_p1_14	Map064.json	0	dialogue	アレ、あるか？	you still have it, don't you?
 MAP64_e33_p1_16	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p1_17	Map064.json	0	dialogue	む、なんのことだ？	
+MAP64_e33_p1_17	Map064.json	0	dialogue	む、なんのことだ？	Hm? What do you mean?
 MAP64_e33_p1_19	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p1_2	Map064.json	0	dialogue	おお…　遂に継承者が揃ったか…。	
-MAP64_e33_p1_20	Map064.json	0	dialogue	王に代々受け継がれる、この国の宝剣だよ。	
-MAP64_e33_p1_21	Map064.json	0	dialogue	ちょっとばかし前倒しにして…	
-MAP64_e33_p1_22	Map064.json	0	dialogue	アレをオレにくれないか？	
+MAP64_e33_p1_2	Map064.json	0	dialogue	おお…　遂に継承者が揃ったか…。	Oh... at last, all the inheritors are gathered...
+MAP64_e33_p1_20	Map064.json	0	dialogue	王に代々受け継がれる、この国の宝剣だよ。	It's the treasured sword of this kingdom, passed down through its kings.
+MAP64_e33_p1_21	Map064.json	0	dialogue	ちょっとばかし前倒しにして…	A little ahead of schedule...
+MAP64_e33_p1_22	Map064.json	0	dialogue	アレをオレにくれないか？	could you give it to me?
 MAP64_e33_p1_24	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p1_25	Map064.json	0	dialogue	無論かまわんが…	
-MAP64_e33_p1_26	Map064.json	0	dialogue	一応しきたりでは王になるときに渡すものだ。	
-MAP64_e33_p1_27	Map064.json	0	dialogue	しかし、なぜ急ごうと思った…？	
+MAP64_e33_p1_25	Map064.json	0	dialogue	無論かまわんが…	I don't mind at all, but...
+MAP64_e33_p1_26	Map064.json	0	dialogue	一応しきたりでは王になるときに渡すものだ。	By tradition, it's meant to be given when one becomes king.
+MAP64_e33_p1_27	Map064.json	0	dialogue	しかし、なぜ急ごうと思った…？	But why the hurry...?
 MAP64_e33_p1_29	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p1_3	Map064.json	0	dialogue	…暗黒大陸に渡るのだな？	
-MAP64_e33_p1_30	Map064.json	0	dialogue	オレ戦いだと夢中になっちまって、あと先を	
-MAP64_e33_p1_31	Map064.json	0	dialogue	考えなくなっちまうところがあるからよ…	
+MAP64_e33_p1_3	Map064.json	0	dialogue	…暗黒大陸に渡るのだな？	...You're crossing to the Dark Continent, aren't you?
+MAP64_e33_p1_30	Map064.json	0	dialogue	オレ戦いだと夢中になっちまって、あと先を	When I get into a fight, I get so caught up
+MAP64_e33_p1_31	Map064.json	0	dialogue	考えなくなっちまうところがあるからよ…	that I stop thinking ahead, you see...
 MAP64_e33_p1_33	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p1_34	Map064.json	0	dialogue	けど…　右手に王の剣があれば…	
-MAP64_e33_p1_35	Map064.json	0	dialogue	ソレを見る度に思い出せるんじゃねえかと	
-MAP64_e33_p1_36	Map064.json	0	dialogue	思ってな…　大事なことを。	
+MAP64_e33_p1_34	Map064.json	0	dialogue	けど…　右手に王の剣があれば…	But... if I hold the king's sword in my right hand...
+MAP64_e33_p1_35	Map064.json	0	dialogue	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
+MAP64_e33_p1_36	Map064.json	0	dialogue	思ってな…　大事なことを。	I'd remember... what matters most.
 MAP64_e33_p1_38	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p1_39	Map064.json	0	dialogue	そうか…　よくわかった。	
+MAP64_e33_p1_39	Map064.json	0	dialogue	そうか…　よくわかった。	I see... I understand.
 MAP64_e33_p1_42	Map064.json	0	dialogue	　　　　ホノオはゾモロドネガルを受け取った！	
 MAP64_e33_p1_46	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p1_47	Map064.json	0	dialogue	ありがとよ、親父！	
-MAP64_e33_p1_48	Map064.json	0	dialogue	代わりに俺のシャムシールを親父に渡そうか？	
+MAP64_e33_p1_47	Map064.json	0	dialogue	ありがとよ、親父！	Thanks, Dad!
+MAP64_e33_p1_48	Map064.json	0	dialogue	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
 MAP64_e33_p1_5	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e33_p1_50	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p1_51	Map064.json	0	dialogue	それはやめておこう。形見にもらうようで…	
-MAP64_e33_p1_52	Map064.json	0	dialogue	弱気になりそうだからな…。	
+MAP64_e33_p1_51	Map064.json	0	dialogue	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
+MAP64_e33_p1_52	Map064.json	0	dialogue	弱気になりそうだからな…。	it would make me lose heart...
 MAP64_e33_p1_54	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p1_55	Map064.json	0	dialogue	あ、そう………	
-MAP64_e33_p1_56	Map064.json	0	dialogue	じゃあ親父、ちょっくら行ってくるぜ！	
+MAP64_e33_p1_55	Map064.json	0	dialogue	あ、そう………	Ah, right...
+MAP64_e33_p1_56	Map064.json	0	dialogue	じゃあ親父、ちょっくら行ってくるぜ！	Well then, Dad, I'm heading out!
 MAP64_e33_p1_58	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p1_59	Map064.json	0	dialogue	うむ、我が息子に武運を！	
-MAP64_e33_p1_6	Map064.json	0	dialogue	ああ！　行ってくるぜ、親父！	
+MAP64_e33_p1_59	Map064.json	0	dialogue	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
+MAP64_e33_p1_6	Map064.json	0	dialogue	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
 MAP64_e33_p1_8	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p1_9	Map064.json	0	dialogue	そうか…　	
+MAP64_e33_p1_9	Map064.json	0	dialogue	そうか…　	I see...
 MAP64_e33_p2_1	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p2_10	Map064.json	0	dialogue	無事に帰ってくれ…　ホノオ。	
+MAP64_e33_p2_10	Map064.json	0	dialogue	無事に帰ってくれ…　ホノオ。	Come home safe... Hono.
 MAP64_e33_p2_12	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p2_13	Map064.json	0	dialogue	当たり前だろ？　あ、それより、	
-MAP64_e33_p2_14	Map064.json	0	dialogue	アレ、あるか？	
+MAP64_e33_p2_13	Map064.json	0	dialogue	当たり前だろ？　あ、それより、	Of course, right? Oh, anyway,
+MAP64_e33_p2_14	Map064.json	0	dialogue	アレ、あるか？	you still have it, don't you?
 MAP64_e33_p2_16	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p2_17	Map064.json	0	dialogue	む、なんのことだ？	
+MAP64_e33_p2_17	Map064.json	0	dialogue	む、なんのことだ？	Hm? What do you mean?
 MAP64_e33_p2_19	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p2_2	Map064.json	0	dialogue	おお…　遂に継承者が揃ったか…。	
-MAP64_e33_p2_20	Map064.json	0	dialogue	王に代々受け継がれる、この国の宝剣だよ。	
-MAP64_e33_p2_21	Map064.json	0	dialogue	ちょっとばかし前倒しにして…	
-MAP64_e33_p2_22	Map064.json	0	dialogue	アレをオレにくれないか？	
+MAP64_e33_p2_2	Map064.json	0	dialogue	おお…　遂に継承者が揃ったか…。	Oh... at last, all the inheritors are gathered...
+MAP64_e33_p2_20	Map064.json	0	dialogue	王に代々受け継がれる、この国の宝剣だよ。	It's the treasured sword of this kingdom, passed down through its kings.
+MAP64_e33_p2_21	Map064.json	0	dialogue	ちょっとばかし前倒しにして…	A little ahead of schedule...
+MAP64_e33_p2_22	Map064.json	0	dialogue	アレをオレにくれないか？	could you give it to me?
 MAP64_e33_p2_24	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p2_25	Map064.json	0	dialogue	無論かまわんが…	
-MAP64_e33_p2_26	Map064.json	0	dialogue	一応しきたりでは王になるときに渡すものだ。	
-MAP64_e33_p2_27	Map064.json	0	dialogue	しかし、なぜ急ごうと思った…？	
+MAP64_e33_p2_25	Map064.json	0	dialogue	無論かまわんが…	I don't mind at all, but...
+MAP64_e33_p2_26	Map064.json	0	dialogue	一応しきたりでは王になるときに渡すものだ。	By tradition, it's meant to be given when one becomes king.
+MAP64_e33_p2_27	Map064.json	0	dialogue	しかし、なぜ急ごうと思った…？	But why the hurry...?
 MAP64_e33_p2_29	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p2_3	Map064.json	0	dialogue	…暗黒大陸に渡るのだな？	
-MAP64_e33_p2_30	Map064.json	0	dialogue	オレ戦いだと夢中になっちまって、あと先を	
-MAP64_e33_p2_31	Map064.json	0	dialogue	考えなくなっちまうところがあるからよ…	
+MAP64_e33_p2_3	Map064.json	0	dialogue	…暗黒大陸に渡るのだな？	...You're crossing to the Dark Continent, aren't you?
+MAP64_e33_p2_30	Map064.json	0	dialogue	オレ戦いだと夢中になっちまって、あと先を	When I get into a fight, I get so caught up
+MAP64_e33_p2_31	Map064.json	0	dialogue	考えなくなっちまうところがあるからよ…	that I stop thinking ahead, you see...
 MAP64_e33_p2_33	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p2_34	Map064.json	0	dialogue	けど…　右手に王の剣があれば…	
-MAP64_e33_p2_35	Map064.json	0	dialogue	ソレを見る度に思い出せるんじゃねえかと	
-MAP64_e33_p2_36	Map064.json	0	dialogue	思ってな…　大事なことを。	
+MAP64_e33_p2_34	Map064.json	0	dialogue	けど…　右手に王の剣があれば…	But... if I hold the king's sword in my right hand...
+MAP64_e33_p2_35	Map064.json	0	dialogue	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
+MAP64_e33_p2_36	Map064.json	0	dialogue	思ってな…　大事なことを。	I'd remember... what matters most.
 MAP64_e33_p2_38	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p2_39	Map064.json	0	dialogue	そうか…　よくわかった。	
+MAP64_e33_p2_39	Map064.json	0	dialogue	そうか…　よくわかった。	I see... I understand.
 MAP64_e33_p2_42	Map064.json	0	dialogue	　　ホノオは本物のゾモロドネガルを受け取った！	
 MAP64_e33_p2_46	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p2_47	Map064.json	0	dialogue	ありがとよ、親父！	
-MAP64_e33_p2_48	Map064.json	0	dialogue	代わりに俺のシャムシールを親父に渡そうか？	
+MAP64_e33_p2_47	Map064.json	0	dialogue	ありがとよ、親父！	Thanks, Dad!
+MAP64_e33_p2_48	Map064.json	0	dialogue	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
 MAP64_e33_p2_5	Map064.json	0	dialogue	ホノオ：	Hono:
 MAP64_e33_p2_50	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p2_51	Map064.json	0	dialogue	それはやめておこう。形見にもらうようで…	
-MAP64_e33_p2_52	Map064.json	0	dialogue	弱気になりそうだからな…。	
+MAP64_e33_p2_51	Map064.json	0	dialogue	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
+MAP64_e33_p2_52	Map064.json	0	dialogue	弱気になりそうだからな…。	it would make me lose heart...
 MAP64_e33_p2_54	Map064.json	0	dialogue	ホノオ：	Hono:
-MAP64_e33_p2_55	Map064.json	0	dialogue	あ、そう………	
-MAP64_e33_p2_56	Map064.json	0	dialogue	じゃあ親父、ちょっくら行ってくるぜ！	
+MAP64_e33_p2_55	Map064.json	0	dialogue	あ、そう………	Ah, right...
+MAP64_e33_p2_56	Map064.json	0	dialogue	じゃあ親父、ちょっくら行ってくるぜ！	Well then, Dad, I'm heading out!
 MAP64_e33_p2_58	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p2_59	Map064.json	0	dialogue	うむ、我が息子に武運を！	
-MAP64_e33_p2_6	Map064.json	0	dialogue	ああ！　行ってくるぜ、親父！	
+MAP64_e33_p2_59	Map064.json	0	dialogue	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
+MAP64_e33_p2_6	Map064.json	0	dialogue	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
 MAP64_e33_p2_8	Map064.json	0	dialogue	フレイム王：	King Flame:
-MAP64_e33_p2_9	Map064.json	0	dialogue	そうか…　	
+MAP64_e33_p2_9	Map064.json	0	dialogue	そうか…　	I see...
 MAP64_e33_p3_1	Map064.json	0	dialogue	フレイム王：	King Flame:
 MAP64_e33_p3_10	Map064.json	0	dialogue	ナガレ：	Nagare:
 MAP64_e33_p3_11	Map064.json	0	dialogue	あたしは水の紋章の力を持つものとして、	
@@ -7920,11 +7920,11 @@ MAP65_e19_p0_7	Map065.json	1	dialogue	代々何度も騎士団長、そして風
 MAP65_e19_p0_8	Map065.json	1	dialogue	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	for generations... I too wanted that honor, but because of that man Roi,
 MAP65_e19_p0_9	Map065.json	1	dialogue	とかいう男がいるせいで…。悔しい。	How frustrating.
 MAP65_e1_p0_1	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e1_p0_2	Map065.json	0	dialogue	ウィン、きさまどこへ行くつもりだ！？	
-MAP65_e1_p0_3	Map065.json	0	dialogue	王の間へ行かなくていいのか！？	
+MAP65_e1_p0_2	Map065.json	0	dialogue	ウィン、きさまどこへ行くつもりだ！？	Win, where exactly do you think you're going!?
+MAP65_e1_p0_3	Map065.json	0	dialogue	王の間へ行かなくていいのか！？	Don't you need to go to the throne room!?
 MAP65_e2_p0_1	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e2_p0_2	Map065.json	0	dialogue	ウィン、きさまどこへ行くつもりだ！？	
-MAP65_e2_p0_3	Map065.json	0	dialogue	王の間へ行かなくていいのか！？	
+MAP65_e2_p0_2	Map065.json	0	dialogue	ウィン、きさまどこへ行くつもりだ！？	Win, where exactly do you think you're going!?
+MAP65_e2_p0_3	Map065.json	0	dialogue	王の間へ行かなくていいのか！？	Don't you need to go to the throne room!?
 MAP65_e31_p0_1	Map065.json	0	dialogue	騎士団長代行サクソン：	Saxon, Acting Knight-Captain:
 MAP65_e31_p0_10	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e31_p0_11	Map065.json	0	dialogue	随分と焦ってるようだが、それも当然だな。	You look quite flustered, and rightly so.
@@ -7994,39 +7994,39 @@ MAP65_e32_p2_6	Map065.json	0	dialogue	料理人助手ジョッシュ：	Josh, Co
 MAP65_e32_p2_7	Map065.json	0	dialogue	やっと、近い味が作れたと思います…！	
 MAP65_e32_p2_8	Map065.json	0	dialogue	よかったら、いつかご感想をお聞かせ下さい…	
 MAP65_e33_p0_12	Map065.json	1	dialogue	ピピン：	Pipin:
-MAP65_e33_p0_13	Map065.json	1	dialogue	よし。	
-MAP65_e33_p0_14	Map065.json	1	dialogue	…突入する！	
+MAP65_e33_p0_13	Map065.json	1	dialogue	よし。	Alright.
+MAP65_e33_p0_14	Map065.json	1	dialogue	…突入する！	...Charging in!
 MAP65_e33_p0_22	Map065.json	1	dialogue	ピピン：	Pipin:
-MAP65_e33_p0_23	Map065.json	1	dialogue	…ならさっさと済ませろ！	
+MAP65_e33_p0_23	Map065.json	1	dialogue	…ならさっさと済ませろ！	...Then hurry up and get it done!
 MAP65_e33_p0_3	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e33_p0_4	Map065.json	0	dialogue	…これから突入するが、	
+MAP65_e33_p0_4	Map065.json	0	dialogue	…これから突入するが、	...We're about to charge in, but
 MAP65_e33_p0_6	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e33_p0_7	Map065.json	0	dialogue	…その前に、装備の点検、回復等…	
-MAP65_e33_p0_8	Map065.json	0	dialogue	ひととおり済ませてあるだろうな？	
+MAP65_e33_p0_7	Map065.json	0	dialogue	…その前に、装備の点検、回復等…	...before that, check your gear, heal up...
+MAP65_e33_p0_8	Map065.json	0	dialogue	ひととおり済ませてあるだろうな？	you've done all that, right?
 MAP65_e33_p0_9_c0	Map065.json	choice	choice	もちろん	Of course
 MAP65_e33_p0_9_c1	Map065.json	choice	choice	まだです	Not yet
 MAP65_e34_p0_12	Map065.json	1	dialogue	ピピン：	Pipin:
-MAP65_e34_p0_13	Map065.json	1	dialogue	よし。	
-MAP65_e34_p0_14	Map065.json	1	dialogue	…突入する！	
+MAP65_e34_p0_13	Map065.json	1	dialogue	よし。	Alright.
+MAP65_e34_p0_14	Map065.json	1	dialogue	…突入する！	...Charging in!
 MAP65_e34_p0_24	Map065.json	1	dialogue	ピピン：	Pipin:
-MAP65_e34_p0_25	Map065.json	1	dialogue	…ならさっさと済ませろ！	
+MAP65_e34_p0_25	Map065.json	1	dialogue	…ならさっさと済ませろ！	...Then hurry up and get it done!
 MAP65_e34_p0_3	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e34_p0_4	Map065.json	0	dialogue	…これから突入するが、	
+MAP65_e34_p0_4	Map065.json	0	dialogue	…これから突入するが、	...We're about to charge in, but
 MAP65_e34_p0_6	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e34_p0_7	Map065.json	0	dialogue	…その前に、装備の点検、回復等…	
-MAP65_e34_p0_8	Map065.json	0	dialogue	ひととおり済ませてあるだろうな？	
+MAP65_e34_p0_7	Map065.json	0	dialogue	…その前に、装備の点検、回復等…	...before that, check your gear, heal up...
+MAP65_e34_p0_8	Map065.json	0	dialogue	ひととおり済ませてあるだろうな？	you've done all that, right?
 MAP65_e34_p0_9_c0	Map065.json	choice	choice	もちろん	Of course
 MAP65_e34_p0_9_c1	Map065.json	choice	choice	まだです	Not yet
 MAP65_e35_p0_12	Map065.json	1	dialogue	ピピン：	Pipin:
-MAP65_e35_p0_13	Map065.json	1	dialogue	よし。	
-MAP65_e35_p0_14	Map065.json	1	dialogue	…突入する！	
+MAP65_e35_p0_13	Map065.json	1	dialogue	よし。	Alright.
+MAP65_e35_p0_14	Map065.json	1	dialogue	…突入する！	...Charging in!
 MAP65_e35_p0_24	Map065.json	1	dialogue	ピピン：	Pipin:
-MAP65_e35_p0_25	Map065.json	1	dialogue	…ならさっさと済ませろ！	
+MAP65_e35_p0_25	Map065.json	1	dialogue	…ならさっさと済ませろ！	...Then hurry up and get it done!
 MAP65_e35_p0_3	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e35_p0_4	Map065.json	0	dialogue	…これから突入するが、	
+MAP65_e35_p0_4	Map065.json	0	dialogue	…これから突入するが、	...We're about to charge in, but
 MAP65_e35_p0_6	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e35_p0_7	Map065.json	0	dialogue	…その前に、装備の点検、回復等…	
-MAP65_e35_p0_8	Map065.json	0	dialogue	ひととおり済ませてあるだろうな？	
+MAP65_e35_p0_7	Map065.json	0	dialogue	…その前に、装備の点検、回復等…	...before that, check your gear, heal up...
+MAP65_e35_p0_8	Map065.json	0	dialogue	ひととおり済ませてあるだろうな？	you've done all that, right?
 MAP65_e35_p0_9_c0	Map065.json	choice	choice	もちろん	Of course
 MAP65_e35_p0_9_c1	Map065.json	choice	choice	まだです	Not yet
 MAP65_e36_p1_10	Map065.json	0	dialogue	ダフィール：	Dafill:
@@ -8095,7 +8095,7 @@ MAP65_e36_p1_245	Map065.json	0	dialogue	さあ継承者さーん　ふつうの�
 MAP65_e36_p1_246	Map065.json	0	dialogue	ころされちゃうよー？　いいのーーー？	
 MAP65_e36_p1_25	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p1_252	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_253	Map065.json	0	dialogue	ウィン…！	
+MAP65_e36_p1_253	Map065.json	0	dialogue	ウィン…！	Win...!
 MAP65_e36_p1_254	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！	
 MAP65_e36_p1_256	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p1_259	Map065.json	0	dialogue	ピピン：	Pipin:
@@ -8107,7 +8107,7 @@ MAP65_e36_p1_266	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p1_267	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…	
 MAP65_e36_p1_268	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！	
 MAP65_e36_p1_274	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p1_275	Map065.json	0	dialogue	いやいやいやいやいや…	
+MAP65_e36_p1_275	Map065.json	0	dialogue	いやいやいやいやいや…	No no no no no...
 MAP65_e36_p1_277	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p1_278	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…	
 MAP65_e36_p1_279	Map065.json	0	dialogue	お前といると…　焼きがまわりっ放しだ！	
@@ -8118,7 +8118,7 @@ MAP65_e36_p1_289	Map065.json	0	dialogue	おい、赤いのさー
 MAP65_e36_p1_29	Map065.json	0	dialogue	ピピンだとーーー！？	
 MAP65_e36_p1_290	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？	
 MAP65_e36_p1_292	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p1_293	Map065.json	0	dialogue	…なに？	
+MAP65_e36_p1_293	Map065.json	0	dialogue	…なに？	...What?
 MAP65_e36_p1_295	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p1_296	Map065.json	0	dialogue	オマエ、継承者じゃないだろ？	
 MAP65_e36_p1_297	Map065.json	0	dialogue	なんでボクの術効いてないワケー？	
@@ -8289,7 +8289,7 @@ MAP65_e36_p2_246	Map065.json	0	dialogue	さあ継承者さーん　ふつうの�
 MAP65_e36_p2_247	Map065.json	0	dialogue	ころされちゃうよー？　いいのーーー？	
 MAP65_e36_p2_25	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e36_p2_253	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_254	Map065.json	0	dialogue	ウィン…！	
+MAP65_e36_p2_254	Map065.json	0	dialogue	ウィン…！	Win...!
 MAP65_e36_p2_255	Map065.json	0	dialogue	ハヤテの魔法でここを脱出するしかない…！	
 MAP65_e36_p2_257	Map065.json	0	dialogue	ウィン：	Win:
 MAP65_e36_p2_26	Map065.json	0	dialogue	おお…　ピピン！！　それに、ウィン！！	
@@ -8301,7 +8301,7 @@ MAP65_e36_p2_267	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_268	Map065.json	0	dialogue	逃げたらこいつらが助からないってんだろ…	
 MAP65_e36_p2_269	Map065.json	0	dialogue	バカが…！！　相変わらずだな、お前は…！！	
 MAP65_e36_p2_275	Map065.json	0	dialogue	ダフィール：	Dafill:
-MAP65_e36_p2_276	Map065.json	0	dialogue	いやいやいやいやいや…	
+MAP65_e36_p2_276	Map065.json	0	dialogue	いやいやいやいやいや…	No no no no no...
 MAP65_e36_p2_278	Map065.json	0	dialogue	ピピン：	Pipin:
 MAP65_e36_p2_279	Map065.json	0	dialogue	…ったく　俺としたことがドジったもんだ…	
 MAP65_e36_p2_28	Map065.json	0	dialogue	サクソン：	Saxon:
@@ -8312,7 +8312,7 @@ MAP65_e36_p2_29	Map065.json	0	dialogue	ピピンだとーーー！？
 MAP65_e36_p2_290	Map065.json	0	dialogue	おい、赤いのさー	
 MAP65_e36_p2_291	Map065.json	0	dialogue	なんでオマエ　大丈夫なんだー？	
 MAP65_e36_p2_293	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e36_p2_294	Map065.json	0	dialogue	…なに？	
+MAP65_e36_p2_294	Map065.json	0	dialogue	…なに？	...What?
 MAP65_e36_p2_296	Map065.json	0	dialogue	ダフィール：	Dafill:
 MAP65_e36_p2_297	Map065.json	0	dialogue	オマエ、継承者じゃないだろ？	
 MAP65_e36_p2_298	Map065.json	0	dialogue	なんでボクの術効いてないワケー？	
@@ -8673,8 +8673,8 @@ MAP65_e39_p3_3	Map065.json	0	dialogue	他にどんな脅威があるのか誰も
 MAP65_e39_p3_5	Map065.json	0	dialogue	ロイ：	Roi:
 MAP65_e39_p3_6	Map065.json	0	dialogue	…細心の注意を払って臨んでいただきたい。	
 MAP65_e3_p0_1	Map065.json	0	dialogue	ピピン：	Pipin:
-MAP65_e3_p0_2	Map065.json	0	dialogue	ウィン、きさまどこへ行くつもりだ！？	
-MAP65_e3_p0_3	Map065.json	0	dialogue	王の間へ行かなくていいのか！？	
+MAP65_e3_p0_2	Map065.json	0	dialogue	ウィン、きさまどこへ行くつもりだ！？	Win, where exactly do you think you're going!?
+MAP65_e3_p0_3	Map065.json	0	dialogue	王の間へ行かなくていいのか！？	Don't you need to go to the throne room!?
 MAP65_e41_p2_100	Map065.json	0	dialogue	ウィンダム王：	King Windam:
 MAP65_e41_p2_101	Map065.json	0	dialogue	その危険な暗黒大陸に、	
 MAP65_e41_p2_102	Map065.json	0	dialogue	これよりそなたは向かうのだ。	
@@ -9000,9 +9000,9 @@ MAP65_e8_p0_6	Map065.json	0	dialogue	お前こそ、ここで何をしている�
 MAP65_e8_p0_7	Map065.json	0	dialogue	王の間に敵がいる…　知っているはずだ。	
 MAP65_e8_p0_9	Map065.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
 MAP65_e8_p1_1	Map065.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
-MAP65_e8_p1_2	Map065.json	0	dialogue	こんなときだからこそ、よからぬことを	
-MAP65_e8_p1_3	Map065.json	0	dialogue	考えるやつも出てくるんでな。	
-MAP65_e8_p1_4	Map065.json	0	dialogue	以前にも増して、警備を強化している。	
+MAP65_e8_p1_2	Map065.json	0	dialogue	こんなときだからこそ、よからぬことを	Precisely in times like these, there are those
+MAP65_e8_p1_3	Map065.json	0	dialogue	考えるやつも出てくるんでな。	who'd plot mischief.
+MAP65_e8_p1_4	Map065.json	0	dialogue	以前にも増して、警備を強化している。	We've strengthened security more than ever.
 MAP65_e8_p2_1	Map065.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
 MAP65_e8_p2_10	Map065.json	0	dialogue	すまんが、そうだ。	
 MAP65_e8_p2_11	Map065.json	0	dialogue	信用していないわけじゃない。	
@@ -9012,10 +9012,10 @@ MAP65_e8_p2_15	Map065.json	0	dialogue	お、　おお…？
 MAP65_e8_p2_17	Map065.json	0	dialogue	ナガレ：	Nagare:
 MAP65_e8_p2_18	Map065.json	0	dialogue	おい、別に王の部屋でなくとも、	
 MAP65_e8_p2_19	Map065.json	0	dialogue	単純にプライベートの空間だ。	
-MAP65_e8_p2_2	Map065.json	0	dialogue	こんなときだからこそ、よからぬことを	
+MAP65_e8_p2_2	Map065.json	0	dialogue	こんなときだからこそ、よからぬことを	Precisely in times like these, there are those
 MAP65_e8_p2_20	Map065.json	0	dialogue	なぜ入ろうとする？	
-MAP65_e8_p2_3	Map065.json	0	dialogue	考えるやつも出てくるんでな。	
-MAP65_e8_p2_4	Map065.json	0	dialogue	以前にも増して、警備を強化している。	
+MAP65_e8_p2_3	Map065.json	0	dialogue	考えるやつも出てくるんでな。	who'd plot mischief.
+MAP65_e8_p2_4	Map065.json	0	dialogue	以前にも増して、警備を強化している。	We've strengthened security more than ever.
 MAP65_e8_p2_6	Map065.json	0	dialogue	ホノオ：	Hono:
 MAP65_e8_p2_7	Map065.json	0	dialogue	ウィンや、オレらでもか？	
 MAP65_e8_p2_9	Map065.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
@@ -9030,9 +9030,9 @@ MAP65_e9_p0_19	Map065.json	0	dialogue	おい、別に王の部屋でなくとも
 MAP65_e9_p0_2	Map065.json	0	dialogue	近衛兵クリス：	Chris, Royal Guard:
 MAP65_e9_p0_20	Map065.json	0	dialogue	単純にプライベートの空間だ。	
 MAP65_e9_p0_21	Map065.json	0	dialogue	なぜ入ろうとする？	
-MAP65_e9_p0_3	Map065.json	0	dialogue	こんなときだからこそ、よからぬことを	
-MAP65_e9_p0_4	Map065.json	0	dialogue	考えるやつも出てくるんでな。	
-MAP65_e9_p0_5	Map065.json	0	dialogue	以前にも増して、警備を強化している。	
+MAP65_e9_p0_3	Map065.json	0	dialogue	こんなときだからこそ、よからぬことを	Precisely in times like these, there are those
+MAP65_e9_p0_4	Map065.json	0	dialogue	考えるやつも出てくるんでな。	who'd plot mischief.
+MAP65_e9_p0_5	Map065.json	0	dialogue	以前にも増して、警備を強化している。	We've strengthened security more than ever.
 MAP65_e9_p0_7	Map065.json	0	dialogue	ホノオ：	Hono:
 MAP65_e9_p0_8	Map065.json	0	dialogue	ウィンや、オレらでもか？	
 MAP66_e10_p0_2	Map066.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
@@ -9096,7 +9096,7 @@ MAP66_e20_p0_3_c1	Map066.json	choice	choice	休まない	Don't rest
 MAP66_e21_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e22_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e23_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP66_e24_p0_2	Map066.json	0	dialogue	レザーコートを　一着　手に入れた！	
+MAP66_e24_p0_2	Map066.json	0	dialogue	レザーコートを　一着　手に入れた！	Obtained a Leather Coat!
 MAP66_e24_p1_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e25_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e26_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -9107,43 +9107,43 @@ MAP66_e30_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなもの
 MAP66_e31_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e32_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e33_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP66_e34_p0_1	Map066.json	0	dialogue	固いパンを　１個　手に入れた！	
+MAP66_e34_p0_1	Map066.json	0	dialogue	固いパンを　１個　手に入れた！	Obtained a Hard Bread!
 MAP66_e34_p1_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e35_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e36_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e37_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e37_p0_3	Map066.json	0	dialogue	倉庫番ストロング：	Strong, Warehouse Keeper:
-MAP66_e37_p0_4	Map066.json	0	dialogue	おい、勝手に触るんじゃねえ！	
+MAP66_e37_p0_4	Map066.json	0	dialogue	おい、勝手に触るんじゃねえ！	Hey, don't touch that without asking!
 MAP66_e38_p0_1	Map066.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP66_e39_p0_1	Map066.json	0	dialogue	『ここ最近の事件と報告』	
-MAP66_e39_p0_11	Map066.json	1	dialogue	・西の監視塔の見回りについて	
-MAP66_e39_p0_12	Map066.json	1	dialogue	他国との戦争の為に作られた西の塔ですが、定期的に	
-MAP66_e39_p0_13	Map066.json	1	dialogue	泥棒や魔物が住み着くので、見回りが大変です。	
-MAP66_e39_p0_14	Map066.json	1	dialogue	壊してしまってはどうでしょう。	
-MAP66_e39_p0_16	Map066.json	1	dialogue	・騎士と兵士の槍嫌いについて	
-MAP66_e39_p0_17	Map066.json	1	dialogue	王国では戦争の為に槍の訓練が推奨されていますが、	
-MAP66_e39_p0_18	Map066.json	1	dialogue	槍は重くて長いので、兵はおろか、騎士でさえ全然	
-MAP66_e39_p0_19	Map066.json	1	dialogue	練習していません。槍のイメージアップが必要です。	
-MAP66_e39_p0_2	Map066.json	0	dialogue	…と、書かれた本がある。読んでみようか？	
+MAP66_e39_p0_1	Map066.json	0	dialogue	『ここ最近の事件と報告』	"""Recent Incidents and Reports"""
+MAP66_e39_p0_11	Map066.json	1	dialogue	・西の監視塔の見回りについて	- About patrolling the West Watchtower
+MAP66_e39_p0_12	Map066.json	1	dialogue	他国との戦争の為に作られた西の塔ですが、定期的に	The western tower was built for wars with other nations, but bandits
+MAP66_e39_p0_13	Map066.json	1	dialogue	泥棒や魔物が住み着くので、見回りが大変です。	and monsters regularly move in, making patrols a hassle.
+MAP66_e39_p0_14	Map066.json	1	dialogue	壊してしまってはどうでしょう。	Perhaps we should just demolish it.
+MAP66_e39_p0_16	Map066.json	1	dialogue	・騎士と兵士の槍嫌いについて	- About knights and soldiers hating spears
+MAP66_e39_p0_17	Map066.json	1	dialogue	王国では戦争の為に槍の訓練が推奨されていますが、	The kingdom recommends spear training for war, but spears are
+MAP66_e39_p0_18	Map066.json	1	dialogue	槍は重くて長いので、兵はおろか、騎士でさえ全然	heavy and long, so not just soldiers—even knights aren't
+MAP66_e39_p0_19	Map066.json	1	dialogue	練習していません。槍のイメージアップが必要です。	practicing at all. Spears need a better image.
+MAP66_e39_p0_2	Map066.json	0	dialogue	…と、書かれた本がある。読んでみようか？	There's a book with these words written in it. Should we read it?
 MAP66_e39_p0_3_c0	Map066.json	choice	choice	読んでみる	Read it
 MAP66_e39_p0_3_c1	Map066.json	choice	choice	読まない	Don't read it
-MAP66_e39_p0_6	Map066.json	1	dialogue	・フレイムからの野盗、ごろつき、密売人の流入	
-MAP66_e39_p0_7	Map066.json	1	dialogue	関所の警備の強化をしています。通行手形の発行手続きを	
-MAP66_e39_p0_8	Map066.json	1	dialogue	複雑にして、料金も値上げしました。	
-MAP66_e39_p0_9	Map066.json	1	dialogue	街のパトロールも増やしました。	
-MAP66_e40_p0_1	Map066.json	0	dialogue	『色々な見積もりリスト』	
-MAP66_e40_p0_11	Map066.json	1	dialogue	城内宿舎の改築　資材6540G　人手5800G	
-MAP66_e40_p0_12	Map066.json	1	dialogue	出来ます。ベットの数が元々足りていませんしね…。	
-MAP66_e40_p0_13	Map066.json	1	dialogue	各区画への公衆トイレ設置　資材4500G　人手7200G	
-MAP66_e40_p0_14	Map066.json	1	dialogue	各区画でなくとも一個か二個でもいいです。切実に…。	
-MAP66_e40_p0_16	Map066.json	1	dialogue	武器庫の掃除　資材800G　人手300G	
-MAP66_e40_p0_17	Map066.json	1	dialogue	陛下からストロングに御自ら命令してください！	
-MAP66_e40_p0_18	Map066.json	1	dialogue	軍馬の購入　資材？？？　人手？？？	
-MAP66_e40_p0_19	Map066.json	1	dialogue	一体いつからこの大陸には馬がいなくなったのでしょう…	
+MAP66_e39_p0_6	Map066.json	1	dialogue	・フレイムからの野盗、ごろつき、密売人の流入	- Influx of bandits, thugs, and smugglers from Flame
+MAP66_e39_p0_7	Map066.json	1	dialogue	関所の警備の強化をしています。通行手形の発行手続きを	We've strengthened security at the checkpoint. We've made the permit
+MAP66_e39_p0_8	Map066.json	1	dialogue	複雑にして、料金も値上げしました。	issuing process more complicated and raised the fees.
+MAP66_e39_p0_9	Map066.json	1	dialogue	街のパトロールも増やしました。	We've also increased town patrols.
+MAP66_e40_p0_1	Map066.json	0	dialogue	『色々な見積もりリスト』	"""Various Estimates List"""
+MAP66_e40_p0_11	Map066.json	1	dialogue	城内宿舎の改築　資材6540G　人手5800G	Renovating castle barracks - materials 6540G, labor 5800G
+MAP66_e40_p0_12	Map066.json	1	dialogue	出来ます。ベットの数が元々足りていませんしね…。	It can be done. The number of beds has never been enough...
+MAP66_e40_p0_13	Map066.json	1	dialogue	各区画への公衆トイレ設置　資材4500G　人手7200G	Public toilets in each ward - materials 4500G, labor 7200G
+MAP66_e40_p0_14	Map066.json	1	dialogue	各区画でなくとも一個か二個でもいいです。切実に…。	Even one or two would do, not per ward. We beg you...
+MAP66_e40_p0_16	Map066.json	1	dialogue	武器庫の掃除　資材800G　人手300G	Cleaning the armory - materials 800G, labor 300G
+MAP66_e40_p0_17	Map066.json	1	dialogue	陛下からストロングに御自ら命令してください！	Please order Strong to do it yourself, Your Majesty!
+MAP66_e40_p0_18	Map066.json	1	dialogue	軍馬の購入　資材？？？　人手？？？	Purchasing warhorses - materials ???, labor ???
+MAP66_e40_p0_19	Map066.json	1	dialogue	一体いつからこの大陸には馬がいなくなったのでしょう…	Just when did horses disappear from this continent, I wonder...
 MAP66_e40_p0_2	Map066.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
 MAP66_e40_p0_3_c0	Map066.json	choice	choice	読んでみる	Read it
 MAP66_e40_p0_3_c1	Map066.json	choice	choice	読まない	Don't read it
-MAP66_e40_p0_6	Map066.json	1	dialogue	バルコニーの改修　資材5136G　人手107050G	
+MAP66_e40_p0_6	Map066.json	1	dialogue	バルコニーの改修　資材5136G　人手107050G	Renovating the balcony - materials 5136G, labor 107050G
 MAP66_e40_p0_7	Map066.json	1	dialogue	とてもじゃないですが無理です陛下…！	
 MAP66_e40_p0_8	Map066.json	1	dialogue	城下町のバリアフリー化　資材3460G 人手6845G	
 MAP66_e40_p0_9	Map066.json	1	dialogue	出来なくもないですが、車椅子使っている国民ゼロです…	
@@ -9250,9 +9250,9 @@ MAP66_e53_p1_14	Map066.json	0	dialogue	さすがにこれだけみんなが大�
 MAP66_e53_p1_2	Map066.json	0	dialogue	あー、どうも…　道具屋です。	
 MAP66_e53_p1_3	Map066.json	0	dialogue	なんか街が崩壊してからの方がめっちゃ	
 MAP66_e53_p1_4	Map066.json	0	dialogue	お客さん来て…　もうかってます…	
-MAP66_e54_p0_2	Map066.json	0	dialogue	　　　先にロイに会いに行こうと、ウィンは思った	
-MAP66_e55_p0_2	Map066.json	0	dialogue	　　　先にロイに会いに行こうと、ウィンは思った	
-MAP66_e56_p0_2	Map066.json	0	dialogue	　　　先にロイに会いに行こうと、ウィンは思った	
+MAP66_e54_p0_2	Map066.json	0	dialogue	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
+MAP66_e55_p0_2	Map066.json	0	dialogue	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
+MAP66_e56_p0_2	Map066.json	0	dialogue	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
 MAP66_e57_p0_1	Map066.json	0	dialogue	『スキルの勉強』	
 MAP66_e57_p0_10	Map066.json	1	dialogue	スキルポイントは、バトル中に敵を攻撃したり、	
 MAP66_e57_p0_11	Map066.json	1	dialogue	攻撃されたりすることで溜まるが、戦いながら探ると	
@@ -9333,7 +9333,7 @@ MAP66_e65_p0_13	Map066.json	1	dialogue	ありがとう、ウィン！
 MAP66_e65_p0_14	Map066.json	1	dialogue	お城のみんながお腹いっぱいでいられるよう、	
 MAP66_e65_p0_15	Map066.json	1	dialogue	私もがんばるから、ウィンもがんばんなさい！	
 MAP66_e65_p0_19	Map066.json	1	dialogue	あら、まだパンが嫌いなの？	
-MAP66_e65_p0_2	Map066.json	0	dialogue	ウィン…！	
+MAP66_e65_p0_2	Map066.json	0	dialogue	ウィン…！	Win...!
 MAP66_e65_p0_20	Map066.json	1	dialogue	騎士様になって、普段いいものばかり	
 MAP66_e65_p0_21	Map066.json	1	dialogue	食べているのかしら！？	
 MAP66_e65_p0_3	Map066.json	0	dialogue	元気そうね…　よかった！！	
@@ -10110,7 +10110,7 @@ MAP77_e3_p0_15	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p0_16	Map077.json	0	dialogue	この巨大な槍はわしが若い頃から愛用していた	
 MAP77_e3_p0_17	Map077.json	0	dialogue	すごく強力な槍だ！	
 MAP77_e3_p0_18	Map077.json	0	dialogue	我が一族に代々伝わる品だ！	
-MAP77_e3_p0_2	Map077.json	0	dialogue	人数は足りないが…	
+MAP77_e3_p0_2	Map077.json	0	dialogue	人数は足りないが…	We're short on numbers, but...
 MAP77_e3_p0_20	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p0_21	Map077.json	0	dialogue	ん？　確かにこの槍は大事なものだが…	
 MAP77_e3_p0_22	Map077.json	0	dialogue	いまはそれよりも、少しでもお前たちの力に	
@@ -10118,8 +10118,8 @@ MAP77_e3_p0_23	Map077.json	0	dialogue	なるものは何でも渡さねばなる
 MAP77_e3_p0_25	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p0_26	Map077.json	0	dialogue	なーに！　遠慮はいらんぞ！	
 MAP77_e3_p0_27	Map077.json	0	dialogue	平和になったら返してくれればいいのだ！	
-MAP77_e3_p0_3	Map077.json	0	dialogue	未知の魔物が相手では、数を揃えればいいという	
-MAP77_e3_p0_4	Map077.json	0	dialogue	ものでもなかろう…	
+MAP77_e3_p0_3	Map077.json	0	dialogue	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
+MAP77_e3_p0_4	Map077.json	0	dialogue	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p0_6	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p0_7	Map077.json	0	dialogue	そうだ、ウィン！	
 MAP77_e3_p0_8	Map077.json	0	dialogue	お前に良いものをやろう！	
@@ -10129,7 +10129,7 @@ MAP77_e3_p1_15	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p1_16	Map077.json	0	dialogue	この巨大な槍はわしが若い頃から愛用していた	
 MAP77_e3_p1_17	Map077.json	0	dialogue	すごく強力な槍だ！	
 MAP77_e3_p1_18	Map077.json	0	dialogue	我が一族に代々伝わる品だ！	
-MAP77_e3_p1_2	Map077.json	0	dialogue	人数は足りないが…	
+MAP77_e3_p1_2	Map077.json	0	dialogue	人数は足りないが…	We're short on numbers, but...
 MAP77_e3_p1_20	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p1_21	Map077.json	0	dialogue	ん？　確かにこの槍は大事なものだが…	
 MAP77_e3_p1_22	Map077.json	0	dialogue	いまはそれよりも、少しでもお前たちの力に	
@@ -10137,15 +10137,15 @@ MAP77_e3_p1_23	Map077.json	0	dialogue	なるものは何でも渡さねばなる
 MAP77_e3_p1_25	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p1_26	Map077.json	0	dialogue	なーに！　遠慮はいらんぞ！	
 MAP77_e3_p1_27	Map077.json	0	dialogue	平和になったら返してくれればいいのだ！	
-MAP77_e3_p1_3	Map077.json	0	dialogue	未知の魔物が相手では、数を揃えればいいという	
-MAP77_e3_p1_4	Map077.json	0	dialogue	ものでもなかろう…	
+MAP77_e3_p1_3	Map077.json	0	dialogue	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
+MAP77_e3_p1_4	Map077.json	0	dialogue	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p1_6	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p1_7	Map077.json	0	dialogue	そうだ、ウィン！	
 MAP77_e3_p1_8	Map077.json	0	dialogue	お前に良いものをやろう！	
 MAP77_e3_p2_1	Map077.json	0	dialogue	サクソン：	Saxon:
-MAP77_e3_p2_2	Map077.json	0	dialogue	人数は足りないが…	
-MAP77_e3_p2_3	Map077.json	0	dialogue	未知の魔物が相手では、数を揃えればいいという	
-MAP77_e3_p2_4	Map077.json	0	dialogue	ものでもなかろう…	
+MAP77_e3_p2_2	Map077.json	0	dialogue	人数は足りないが…	We're short on numbers, but...
+MAP77_e3_p2_3	Map077.json	0	dialogue	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
+MAP77_e3_p2_4	Map077.json	0	dialogue	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p2_6	Map077.json	0	dialogue	サクソン：	Saxon:
 MAP77_e3_p2_7	Map077.json	0	dialogue	セイリューから支給されたライスボールで	
 MAP77_e3_p2_8	Map077.json	0	dialogue	我が兵たちの士気も上々！	
@@ -11416,7 +11416,7 @@ MAP83_e14_p0_42	Map083.json	0	dialogue	ダフィール：	Dafill:
 MAP83_e14_p0_43	Map083.json	0	dialogue	ハ？　もしかして、キミひとりなの…？？	
 MAP83_e14_p0_45	Map083.json	0	dialogue	ウィン：	Win:
 MAP83_e14_p0_48	Map083.json	0	dialogue	ダフィール：	Dafill:
-MAP83_e14_p0_49	Map083.json	0	dialogue	いやいやいやいやいや…	
+MAP83_e14_p0_49	Map083.json	0	dialogue	いやいやいやいやいや…	No no no no no...
 MAP83_e14_p0_51	Map083.json	0	dialogue	ダフィール：	Dafill:
 MAP83_e14_p0_52	Map083.json	0	dialogue	ハァ…！！？？？？？	
 MAP83_e14_p0_55	Map083.json	0	dialogue	ダフィール：	Dafill:
@@ -11774,64 +11774,64 @@ MAP86_e15_p2_4	Map086.json	0	dialogue	ホノオ：	Hono:
 MAP86_e15_p2_5	Map086.json	0	dialogue	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
 MAP86_e15_p3_1	Map086.json	0	dialogue	イヌ：	Dog:
 MAP86_e15_p3_12	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e15_p3_13	Map086.json	0	dialogue	…ナイフ？	
-MAP86_e15_p3_14	Map086.json	0	dialogue	オマエ、一体どっからこんなモンを…？？	
+MAP86_e15_p3_13	Map086.json	0	dialogue	…ナイフ？	...A knife?
+MAP86_e15_p3_14	Map086.json	0	dialogue	オマエ、一体どっからこんなモンを…？？	You, where on earth did you get something like this...??
 MAP86_e15_p3_16	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e15_p3_17	Map086.json	0	dialogue	まあいいや、コレはオレがもらっとくぜ！	
+MAP86_e15_p3_17	Map086.json	0	dialogue	まあいいや、コレはオレがもらっとくぜ！	Whatever, I'll be taking this!
 MAP86_e15_p3_19	Map086.json	0	dialogue	イヌ：	Dog:
-MAP86_e15_p3_2	Map086.json	0	dialogue	フッーン！ッっフーン！	
-MAP86_e15_p3_20	Map086.json	0	dialogue	クーンックー！	
-MAP86_e15_p3_23	Map086.json	0	dialogue	　　　　ホノオはマンゴーシュを手に入れた！	
+MAP86_e15_p3_2	Map086.json	0	dialogue	フッーン！ッっフーン！	Hmph! Hmph!
+MAP86_e15_p3_20	Map086.json	0	dialogue	クーンックー！	Yip yip!
+MAP86_e15_p3_23	Map086.json	0	dialogue	　　　　ホノオはマンゴーシュを手に入れた！	Hono obtained a Main Gauche!
 MAP86_e15_p3_4	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e15_p3_5	Map086.json	0	dialogue	しかし変な鳴き声の犬…	
-MAP86_e15_p3_6	Map086.json	0	dialogue	って、オマエなんでそんなモン咥えてんだ！？	
-MAP86_e15_p3_9	Map086.json	0	dialogue	　　　　　　ホノオは犬からそれを奪い取った！	
+MAP86_e15_p3_5	Map086.json	0	dialogue	しかし変な鳴き声の犬…	But what a weird bark for a dog...
+MAP86_e15_p3_6	Map086.json	0	dialogue	って、オマエなんでそんなモン咥えてんだ！？	Hey, why are you carrying something like that in your mouth!?
+MAP86_e15_p3_9	Map086.json	0	dialogue	　　　　　　ホノオは犬からそれを奪い取った！	Hono snatched it from the dog!
 MAP86_e15_p4_1	Map086.json	0	dialogue	イヌ：	Dog:
 MAP86_e15_p4_2	Map086.json	0	dialogue	クッーン！ッっクーン！	Yip! Yip!
 MAP86_e15_p4_4	Map086.json	0	dialogue	ホノオ：	Hono:
 MAP86_e15_p4_5	Map086.json	0	dialogue	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
 MAP86_e33_p1_1	Map086.json	0	dialogue	フレイム王：	King Flame:
-MAP86_e33_p1_10	Map086.json	0	dialogue	無事に帰ってくれ…　ホノオ。	
+MAP86_e33_p1_10	Map086.json	0	dialogue	無事に帰ってくれ…　ホノオ。	Come home safe... Hono.
 MAP86_e33_p1_12	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p1_13	Map086.json	0	dialogue	当たり前だろ？　あ、それより、	
-MAP86_e33_p1_14	Map086.json	0	dialogue	アレ、あるか？	
+MAP86_e33_p1_13	Map086.json	0	dialogue	当たり前だろ？　あ、それより、	Of course, right? Oh, anyway,
+MAP86_e33_p1_14	Map086.json	0	dialogue	アレ、あるか？	you still have it, don't you?
 MAP86_e33_p1_16	Map086.json	0	dialogue	フレイム王：	King Flame:
-MAP86_e33_p1_17	Map086.json	0	dialogue	む、なんのことだ？	
+MAP86_e33_p1_17	Map086.json	0	dialogue	む、なんのことだ？	Hm? What do you mean?
 MAP86_e33_p1_19	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p1_2	Map086.json	0	dialogue	おお…　遂に継承者が揃ったか…。	
-MAP86_e33_p1_20	Map086.json	0	dialogue	王に代々受け継がれる、この国の宝剣だよ。	
-MAP86_e33_p1_21	Map086.json	0	dialogue	ちょっとばかし前倒しにして…	
-MAP86_e33_p1_22	Map086.json	0	dialogue	アレをオレにくれないか？	
+MAP86_e33_p1_2	Map086.json	0	dialogue	おお…　遂に継承者が揃ったか…。	Oh... at last, all the inheritors are gathered...
+MAP86_e33_p1_20	Map086.json	0	dialogue	王に代々受け継がれる、この国の宝剣だよ。	It's the treasured sword of this kingdom, passed down through its kings.
+MAP86_e33_p1_21	Map086.json	0	dialogue	ちょっとばかし前倒しにして…	A little ahead of schedule...
+MAP86_e33_p1_22	Map086.json	0	dialogue	アレをオレにくれないか？	could you give it to me?
 MAP86_e33_p1_24	Map086.json	0	dialogue	フレイム王：	King Flame:
-MAP86_e33_p1_25	Map086.json	0	dialogue	無論かまわんが…	
-MAP86_e33_p1_26	Map086.json	0	dialogue	一応しきたりでは王になるときに渡すものだ。	
-MAP86_e33_p1_27	Map086.json	0	dialogue	しかし、なぜ急ごうと思った…？	
+MAP86_e33_p1_25	Map086.json	0	dialogue	無論かまわんが…	I don't mind at all, but...
+MAP86_e33_p1_26	Map086.json	0	dialogue	一応しきたりでは王になるときに渡すものだ。	By tradition, it's meant to be given when one becomes king.
+MAP86_e33_p1_27	Map086.json	0	dialogue	しかし、なぜ急ごうと思った…？	But why the hurry...?
 MAP86_e33_p1_29	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p1_3	Map086.json	0	dialogue	…暗黒大陸に渡るのだな？	
-MAP86_e33_p1_30	Map086.json	0	dialogue	オレ戦いだと夢中になっちまって、あと先を	
-MAP86_e33_p1_31	Map086.json	0	dialogue	考えなくなっちまうところがあるからよ…	
+MAP86_e33_p1_3	Map086.json	0	dialogue	…暗黒大陸に渡るのだな？	...You're crossing to the Dark Continent, aren't you?
+MAP86_e33_p1_30	Map086.json	0	dialogue	オレ戦いだと夢中になっちまって、あと先を	When I get into a fight, I get so caught up
+MAP86_e33_p1_31	Map086.json	0	dialogue	考えなくなっちまうところがあるからよ…	that I stop thinking ahead, you see...
 MAP86_e33_p1_33	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p1_34	Map086.json	0	dialogue	けど…　右手に王の剣があれば…	
-MAP86_e33_p1_35	Map086.json	0	dialogue	ソレを見る度に思い出せるんじゃねえかと	
-MAP86_e33_p1_36	Map086.json	0	dialogue	思ってな…　大事なことを。	
+MAP86_e33_p1_34	Map086.json	0	dialogue	けど…　右手に王の剣があれば…	But... if I hold the king's sword in my right hand...
+MAP86_e33_p1_35	Map086.json	0	dialogue	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
+MAP86_e33_p1_36	Map086.json	0	dialogue	思ってな…　大事なことを。	I'd remember... what matters most.
 MAP86_e33_p1_38	Map086.json	0	dialogue	フレイム王：	King Flame:
-MAP86_e33_p1_39	Map086.json	0	dialogue	そうか…　よくわかった。	
+MAP86_e33_p1_39	Map086.json	0	dialogue	そうか…　よくわかった。	I see... I understand.
 MAP86_e33_p1_42	Map086.json	0	dialogue	　　　　ホノオはゾモロドネガルを受け取った！	
 MAP86_e33_p1_45	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p1_46	Map086.json	0	dialogue	ありがとよ、親父！	
-MAP86_e33_p1_47	Map086.json	0	dialogue	代わりに俺のシャムシールを親父に渡そうか？	
+MAP86_e33_p1_46	Map086.json	0	dialogue	ありがとよ、親父！	Thanks, Dad!
+MAP86_e33_p1_47	Map086.json	0	dialogue	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
 MAP86_e33_p1_49	Map086.json	0	dialogue	フレイム王：	King Flame:
 MAP86_e33_p1_5	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p1_50	Map086.json	0	dialogue	それはやめておこう。形見にもらうようで…	
-MAP86_e33_p1_51	Map086.json	0	dialogue	弱気になりそうだからな…。	
+MAP86_e33_p1_50	Map086.json	0	dialogue	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
+MAP86_e33_p1_51	Map086.json	0	dialogue	弱気になりそうだからな…。	it would make me lose heart...
 MAP86_e33_p1_53	Map086.json	0	dialogue	ホノオ：	Hono:
-MAP86_e33_p1_54	Map086.json	0	dialogue	あ、そう………	
-MAP86_e33_p1_55	Map086.json	0	dialogue	じゃあ親父、ちょっくら行ってくるぜ！	
+MAP86_e33_p1_54	Map086.json	0	dialogue	あ、そう………	Ah, right...
+MAP86_e33_p1_55	Map086.json	0	dialogue	じゃあ親父、ちょっくら行ってくるぜ！	Well then, Dad, I'm heading out!
 MAP86_e33_p1_57	Map086.json	0	dialogue	フレイム王：	King Flame:
-MAP86_e33_p1_58	Map086.json	0	dialogue	うむ、我が息子に武運を！	
-MAP86_e33_p1_6	Map086.json	0	dialogue	ああ！　行ってくるぜ、親父！	
+MAP86_e33_p1_58	Map086.json	0	dialogue	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
+MAP86_e33_p1_6	Map086.json	0	dialogue	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
 MAP86_e33_p1_8	Map086.json	0	dialogue	フレイム王：	King Flame:
-MAP86_e33_p1_9	Map086.json	0	dialogue	そうか…　	
+MAP86_e33_p1_9	Map086.json	0	dialogue	そうか…　	I see...
 MAP86_e33_p2_1	Map086.json	0	dialogue	フレイム王：	King Flame:
 MAP86_e33_p2_10	Map086.json	0	dialogue	ナガレ：	Nagare:
 MAP86_e33_p2_11	Map086.json	0	dialogue	あたしは水の紋章の力を持つものとして、	
@@ -12055,20 +12055,20 @@ MAP87_e23_p0_7	Map087.json	0	dialogue	オタキ様：	Lady Otaki:
 MAP87_e53_p0_1	Map087.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP87_e54_p0_1	Map087.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP87_e60_p0_10	Map087.json	0	dialogue	トリカゼ：	Torikaze:
-MAP87_e60_p0_11	Map087.json	0	dialogue	おーい！！	
+MAP87_e60_p0_11	Map087.json	0	dialogue	おーい！！	Heyyy!!
 MAP87_e60_p0_14	Map087.json	0	dialogue	トリカゼ：	Torikaze:
-MAP87_e60_p0_15	Map087.json	0	dialogue	あたしだけじゃちょっとキツイんだ…	
-MAP87_e60_p0_16	Map087.json	0	dialogue	助太刀してくれーーー！！	
+MAP87_e60_p0_15	Map087.json	0	dialogue	あたしだけじゃちょっとキツイんだ…	I can't handle this on my own...
+MAP87_e60_p0_16	Map087.json	0	dialogue	助太刀してくれーーー！！	Give me a hand—!!
 MAP87_e60_p0_19	Map087.json	0	dialogue	ホノオ：	Hono:
-MAP87_e60_p0_20	Map087.json	0	dialogue	なんかすげえヤバイ感じだな…！	
+MAP87_e60_p0_20	Map087.json	0	dialogue	なんかすげえヤバイ感じだな…！	This feels seriously bad...!
 MAP87_e60_p0_22	Map087.json	0	dialogue	ナガレ：	Nagare:
-MAP87_e60_p0_23	Map087.json	0	dialogue	とにかくトリカゼに助太刀しよう！急げ！	
+MAP87_e60_p0_23	Map087.json	0	dialogue	とにかくトリカゼに助太刀しよう！急げ！	Either way, let's help Torikaze! Hurry!
 MAP87_e60_p0_4	Map087.json	0	dialogue	ホノオ：	Hono:
-MAP87_e60_p0_5	Map087.json	0	dialogue	お、おい…　なんだこりゃあ…！	
+MAP87_e60_p0_5	Map087.json	0	dialogue	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
 MAP87_e60_p0_7	Map087.json	0	dialogue	ナガレ：	Nagare:
-MAP87_e60_p0_8	Map087.json	0	dialogue	川が氾濫した！？　みんなは大丈夫なのか！？	
+MAP87_e60_p0_8	Map087.json	0	dialogue	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
 MAP87_e61_p1_1	Map087.json	0	dialogue	ホノオ：	Hono:
-MAP87_e61_p1_2	Map087.json	0	dialogue	いまここを離れるわけにはいかねえ！！	
+MAP87_e61_p1_2	Map087.json	0	dialogue	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
 MAP87_e65_p0_11	Map087.json	0	dialogue	ホノオ：	Hono:
 MAP87_e65_p0_12	Map087.json	0	dialogue	いまいくぜー！！	
 MAP87_e65_p0_3	Map087.json	0	dialogue	ナガレ：	Nagare:
@@ -12347,12 +12347,12 @@ MAP88_e15_p4_64	Map088.json	0	dialogue	…他の奴が説明してくれない�
 MAP88_e15_p4_66	Map088.json	0	dialogue	ナウー：	Nau:
 MAP88_e15_p4_67	Map088.json	0	dialogue	我々の魔法…　元は闇のエレメントパワー…	
 MAP88_e15_p4_68	Map088.json	0	dialogue	闇弱まれば…　我々の魔法の効果も消えるのだ	
-MAP88_e15_p4_7	Map088.json	0	dialogue	えっ！？	
+MAP88_e15_p4_7	Map088.json	0	dialogue	えっ！？	Huh!?
 MAP88_e15_p4_70	Map088.json	0	dialogue	ピピン：	Pipin:
 MAP88_e15_p4_71	Map088.json	0	dialogue	あ、あんたが説明してくれるとは思わなかったが…	
 MAP88_e15_p4_73	Map088.json	0	dialogue	ピピン：	Pipin:
 MAP88_e15_p4_74	Map088.json	0	dialogue	とにかく分かった…	
-MAP88_e15_p4_75	Map088.json	0	dialogue	それなら…	
+MAP88_e15_p4_75	Map088.json	0	dialogue	それなら…	In that case...
 MAP88_e15_p4_8	Map088.json	0	dialogue	そんなに透けてる…！！！？？？	
 MAP88_e15_p4_80	Map088.json	0	dialogue	ピピン：	Pipin:
 MAP88_e15_p4_81	Map088.json	0	dialogue	ウィン、いくぞ！！	
@@ -12375,7 +12375,7 @@ MAP88_e15_p6_35	Map088.json	2	dialogue	ピケピケの声：	Pikepike's Voice:
 MAP88_e15_p6_36	Map088.json	2	dialogue	あっちゃー…　だから言ったのにいいいい…	
 MAP88_e15_p6_40	Map088.json	2	dialogue	　　闇が膨らみ　　　　　　　闇が閉じ	
 MAP88_e15_p6_41	Map088.json	2	dialogue	　　　　　　　　次元が　　　　　　　　　　歪んでいく	
-MAP88_e15_p6_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から	
+MAP88_e15_p6_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から	But look closely—from inside Dafill's mouth,
 MAP88_e15_p6_52	Map088.json	2	dialogue	　　　　　　　　闇は開き　　　　闇は広がり	
 MAP88_e15_p6_53	Map088.json	2	dialogue	　　　　次元が　　　　　　戻る	
 MAP88_e15_p6_6	Map088.json	0	dialogue	　　　　黒いイモ虫のようなものがはみ出ている…	
@@ -12401,9 +12401,9 @@ MAP88_e15_p7_125	Map088.json	2	dialogue	「いまの俺なら、もうお前た�
 MAP88_e15_p7_126	Map088.json	2	dialogue	　伝説級の俺の強さに震えるがいい！！	
 MAP88_e15_p7_13	Map088.json	1	dialogue	ピケピケの声：	Pikepike's Voice:
 MAP88_e15_p7_132	Map088.json	2	dialogue	バンデッド	Bandit
-MAP88_e15_p7_133	Map088.json	2	dialogue	「いいか…　終わりじゃない…	
-MAP88_e15_p7_134	Map088.json	2	dialogue	　俺は何度でも蘇って…お前らの前に現れる！	
-MAP88_e15_p7_135	Map088.json	2	dialogue	　何度でもだ…　　　　　ぐはあッ！！！！	
+MAP88_e15_p7_133	Map088.json	2	dialogue	「いいか…　終わりじゃない…	"""Listen... this isn't the end..."
+MAP88_e15_p7_134	Map088.json	2	dialogue	　俺は何度でも蘇って…お前らの前に現れる！	I'll be reborn again and again... and appear before you!
+MAP88_e15_p7_135	Map088.json	2	dialogue	　何度でもだ…　　　　　ぐはあッ！！！！	Again and again... GWAH!!!!
 MAP88_e15_p7_14	Map088.json	1	dialogue	えーと…　それはちょっと面白そうだなあ	
 MAP88_e15_p7_144	Map088.json	2	dialogue	　　　　　　　　闇は開き　　　　闇は広がり	
 MAP88_e15_p7_145	Map088.json	2	dialogue	　　　　次元が　　　　　　戻る	
@@ -12420,7 +12420,7 @@ MAP88_e15_p7_36	Map088.json	2	dialogue	どっちが勝つんだろう…　ち�
 MAP88_e15_p7_37	Map088.json	2	dialogue	それではいってらっしゃーーーーーーい！！	
 MAP88_e15_p7_41	Map088.json	2	dialogue	　　闇が膨らみ　　　　　　　闇が閉じ	
 MAP88_e15_p7_42	Map088.json	2	dialogue	　　　　　　　　次元が　　　　　　　　　　歪んでいく	
-MAP88_e15_p7_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から	
+MAP88_e15_p7_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から	But look closely—from inside Dafill's mouth,
 MAP88_e15_p7_53	Map088.json	2	dialogue	ホノオ	Hono
 MAP88_e15_p7_54	Map088.json	2	dialogue	「あれ？　どこだよ、ここ…？	
 MAP88_e15_p7_56	Map088.json	2	dialogue	ピピン	Pipin
@@ -12448,7 +12448,7 @@ MAP88_e15_p7_92	Map088.json	2	dialogue	ホノオ	Hono
 MAP88_e15_p7_93	Map088.json	2	dialogue	「だ、誰だ…！？	"""Wh-Who are you...!?"""
 MAP88_e15_p7_96	Map088.json	2	dialogue	「お前それ最初のセリフと同じじゃねえか！	
 MAP88_e15_p7_98	Map088.json	2	dialogue	ナガレ	Nagare
-MAP88_e15_p7_99	Map088.json	2	dialogue	「誰だっオマエは！？	
+MAP88_e15_p7_99	Map088.json	2	dialogue	「誰だっオマエは！？	"""Who the heck are you!?"""
 MAP88_e15_p8_100	Map088.json	2	dialogue	ウィン	Win
 MAP88_e15_p8_101	Map088.json	2	dialogue	「……………誰ですか？	
 MAP88_e15_p8_104	Map088.json	2	dialogue	「お前まで分からないのか……	
@@ -12468,10 +12468,10 @@ MAP88_e15_p8_120	Map088.json	2	dialogue	バンデッド	Bandit
 MAP88_e15_p8_121	Map088.json	2	dialogue	「いまの俺なら、もうお前たちも負けん！！	
 MAP88_e15_p8_122	Map088.json	2	dialogue	　伝説級の俺の強さに震えるがいい！！	
 MAP88_e15_p8_128	Map088.json	2	dialogue	バンデッド	Bandit
-MAP88_e15_p8_129	Map088.json	2	dialogue	「いいか…　終わりじゃない…	
+MAP88_e15_p8_129	Map088.json	2	dialogue	「いいか…　終わりじゃない…	"""Listen... this isn't the end..."
 MAP88_e15_p8_13	Map088.json	1	dialogue	ピケピケの声：	Pikepike's Voice:
-MAP88_e15_p8_130	Map088.json	2	dialogue	　俺は何度でも蘇って…お前らの前に現れる！	
-MAP88_e15_p8_131	Map088.json	2	dialogue	　何度でもだ…　　　　　ぐはあッ！！！！	
+MAP88_e15_p8_130	Map088.json	2	dialogue	　俺は何度でも蘇って…お前らの前に現れる！	I'll be reborn again and again... and appear before you!
+MAP88_e15_p8_131	Map088.json	2	dialogue	　何度でもだ…　　　　　ぐはあッ！！！！	Again and again... GWAH!!!!
 MAP88_e15_p8_14	Map088.json	1	dialogue	えーと…　まだやってるの…？	
 MAP88_e15_p8_140	Map088.json	2	dialogue	　　　　　　　　闇は開き　　　　闇は広がり	
 MAP88_e15_p8_141	Map088.json	2	dialogue	　　　　次元が　　　　　　戻る	
@@ -12486,7 +12486,7 @@ MAP88_e15_p8_23_c1	Map088.json	choice	choice	そのままにしておく	Leave i
 MAP88_e15_p8_37	Map088.json	2	dialogue	　　闇が膨らみ　　　　　　　闇が閉じ	
 MAP88_e15_p8_38	Map088.json	2	dialogue	　　　　　　　　次元が　　　　　　　　　　歪んでいく	
 MAP88_e15_p8_49	Map088.json	2	dialogue	ホノオ	Hono
-MAP88_e15_p8_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から	
+MAP88_e15_p8_5	Map088.json	0	dialogue	　　　しかしよく見ると、ダフィールの口の中から	But look closely—from inside Dafill's mouth,
 MAP88_e15_p8_50	Map088.json	2	dialogue	「あれ？　どこだよ、ここ…？	
 MAP88_e15_p8_52	Map088.json	2	dialogue	ピピン	Pipin
 MAP88_e15_p8_53	Map088.json	2	dialogue	「おまえら…　どうしてここにいる？	
@@ -12513,7 +12513,7 @@ MAP88_e15_p8_88	Map088.json	2	dialogue	ホノオ	Hono
 MAP88_e15_p8_89	Map088.json	2	dialogue	「だ、誰だ…！？	"""Wh-Who are you...!?"""
 MAP88_e15_p8_92	Map088.json	2	dialogue	「お前それ最初のセリフと同じじゃねえか！	
 MAP88_e15_p8_94	Map088.json	2	dialogue	ナガレ	Nagare
-MAP88_e15_p8_95	Map088.json	2	dialogue	「誰だっオマエは！？	
+MAP88_e15_p8_95	Map088.json	2	dialogue	「誰だっオマエは！？	"""Who the heck are you!?"""
 MAP88_e15_p8_98	Map088.json	2	dialogue	「何度も会ってるだろ！俺とお前らは！！！！	
 MAP88_e15_p9_2	Map088.json	0	dialogue	　　　　　ダフィールはぐったりと倒れて動かない	Dafill lies limp on the ground, unmoving.
 MAP88_e16_p1_1	Map088.json	0	dialogue	ナウー：	Nau:
@@ -12803,20 +12803,20 @@ MAP91_e23_p0_96	Map091.json	0	dialogue	もしふたりが紋章を継承でき�
 MAP91_e23_p0_97	Map091.json	0	dialogue	無暗に負担を強いる事になる。	
 MAP91_e23_p0_98	Map091.json	0	dialogue	だから、あたしは許可しない。	
 MAP91_e60_p0_10	Map091.json	0	dialogue	トリカゼ：	Torikaze:
-MAP91_e60_p0_11	Map091.json	0	dialogue	おーい！！	
+MAP91_e60_p0_11	Map091.json	0	dialogue	おーい！！	Heyyy!!
 MAP91_e60_p0_14	Map091.json	0	dialogue	トリカゼ：	Torikaze:
-MAP91_e60_p0_15	Map091.json	0	dialogue	あたしだけじゃちょっとキツイんだ…	
-MAP91_e60_p0_16	Map091.json	0	dialogue	助太刀してくれーーー！！	
+MAP91_e60_p0_15	Map091.json	0	dialogue	あたしだけじゃちょっとキツイんだ…	I can't handle this on my own...
+MAP91_e60_p0_16	Map091.json	0	dialogue	助太刀してくれーーー！！	Give me a hand—!!
 MAP91_e60_p0_19	Map091.json	0	dialogue	ホノオ：	Hono:
-MAP91_e60_p0_20	Map091.json	0	dialogue	なんかすげえヤバイ感じだな…！	
+MAP91_e60_p0_20	Map091.json	0	dialogue	なんかすげえヤバイ感じだな…！	This feels seriously bad...!
 MAP91_e60_p0_22	Map091.json	0	dialogue	ナガレ：	Nagare:
-MAP91_e60_p0_23	Map091.json	0	dialogue	とにかくトリカゼに助太刀しよう！急げ！	
+MAP91_e60_p0_23	Map091.json	0	dialogue	とにかくトリカゼに助太刀しよう！急げ！	Either way, let's help Torikaze! Hurry!
 MAP91_e60_p0_4	Map091.json	0	dialogue	ホノオ：	Hono:
-MAP91_e60_p0_5	Map091.json	0	dialogue	お、おい…　なんだこりゃあ…！	
+MAP91_e60_p0_5	Map091.json	0	dialogue	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
 MAP91_e60_p0_7	Map091.json	0	dialogue	ナガレ：	Nagare:
-MAP91_e60_p0_8	Map091.json	0	dialogue	川が氾濫した！？　みんなは大丈夫なのか！？	
+MAP91_e60_p0_8	Map091.json	0	dialogue	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
 MAP91_e61_p1_1	Map091.json	0	dialogue	ホノオ：	Hono:
-MAP91_e61_p1_2	Map091.json	0	dialogue	いまここを離れるわけにはいかねえ！！	
+MAP91_e61_p1_2	Map091.json	0	dialogue	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
 MAP91_e7_p1_2	Map091.json	0	dialogue	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP91_e7_p1_3	Map091.json	0	dialogue	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP91_e7_p1_4_c0	Map091.json	choice	choice	ハヤテを使おう	Use Hayate
@@ -12878,18 +12878,18 @@ MAP92_e15_p2_4	Map092.json	0	dialogue	ホノオ：	Hono:
 MAP92_e15_p2_5	Map092.json	0	dialogue	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
 MAP92_e15_p3_1	Map092.json	0	dialogue	イヌ：	Dog:
 MAP92_e15_p3_12	Map092.json	0	dialogue	ホノオ：	Hono:
-MAP92_e15_p3_13	Map092.json	0	dialogue	…ナイフ？	
-MAP92_e15_p3_14	Map092.json	0	dialogue	オマエ、一体どっからこんなモンを…？？	
+MAP92_e15_p3_13	Map092.json	0	dialogue	…ナイフ？	...A knife?
+MAP92_e15_p3_14	Map092.json	0	dialogue	オマエ、一体どっからこんなモンを…？？	You, where on earth did you get something like this...??
 MAP92_e15_p3_16	Map092.json	0	dialogue	ホノオ：	Hono:
-MAP92_e15_p3_17	Map092.json	0	dialogue	まあいいや、コレはオレがもらっとくぜ！	
+MAP92_e15_p3_17	Map092.json	0	dialogue	まあいいや、コレはオレがもらっとくぜ！	Whatever, I'll be taking this!
 MAP92_e15_p3_19	Map092.json	0	dialogue	イヌ：	Dog:
-MAP92_e15_p3_2	Map092.json	0	dialogue	フッーン！ッっフーン！	
-MAP92_e15_p3_20	Map092.json	0	dialogue	クーンックー！	
-MAP92_e15_p3_23	Map092.json	0	dialogue	　　　　ホノオはマンゴーシュを手に入れた！	
+MAP92_e15_p3_2	Map092.json	0	dialogue	フッーン！ッっフーン！	Hmph! Hmph!
+MAP92_e15_p3_20	Map092.json	0	dialogue	クーンックー！	Yip yip!
+MAP92_e15_p3_23	Map092.json	0	dialogue	　　　　ホノオはマンゴーシュを手に入れた！	Hono obtained a Main Gauche!
 MAP92_e15_p3_4	Map092.json	0	dialogue	ホノオ：	Hono:
-MAP92_e15_p3_5	Map092.json	0	dialogue	しかし変な鳴き声の犬…	
-MAP92_e15_p3_6	Map092.json	0	dialogue	って、オマエなんでそんなモン咥えてんだ！？	
-MAP92_e15_p3_9	Map092.json	0	dialogue	　　　　　　ホノオは犬からそれを奪い取った！	
+MAP92_e15_p3_5	Map092.json	0	dialogue	しかし変な鳴き声の犬…	But what a weird bark for a dog...
+MAP92_e15_p3_6	Map092.json	0	dialogue	って、オマエなんでそんなモン咥えてんだ！？	Hey, why are you carrying something like that in your mouth!?
+MAP92_e15_p3_9	Map092.json	0	dialogue	　　　　　　ホノオは犬からそれを奪い取った！	Hono snatched it from the dog!
 MAP92_e15_p4_1	Map092.json	0	dialogue	イヌ：	Dog:
 MAP92_e15_p4_2	Map092.json	0	dialogue	クッーン！ッっクーン！	Yip! Yip!
 MAP92_e15_p4_4	Map092.json	0	dialogue	ホノオ：	Hono:
@@ -12948,7 +12948,7 @@ MAP92_e6_p0_112	Map092.json	0	dialogue	ホノオ：	Hono:
 MAP92_e6_p0_113	Map092.json	0	dialogue	だからよ…　悪いとは思うんだが…	
 MAP92_e6_p0_114	Map092.json	0	dialogue	あんた、結構長いこと、継承者のままだぜ！！	
 MAP92_e6_p0_116	Map092.json	0	dialogue	ピピン：	Pipin:
-MAP92_e6_p0_117	Map092.json	0	dialogue	………ッ	
+MAP92_e6_p0_117	Map092.json	0	dialogue	………ッ	......Hmph
 MAP92_e6_p0_119	Map092.json	0	dialogue	フレイム王：	King Flame:
 MAP92_e6_p0_120	Map092.json	0	dialogue	ピピン殿…　どうかホノオに世継ぎが誕生し…	
 MAP92_e6_p0_121	Map092.json	0	dialogue	育つまで、火の紋章をお預かりいただきたい。	
@@ -13137,7 +13137,7 @@ MAP93_e10_p0_227	Map093.json	0	dialogue	じゃあな、ウィン。
 MAP93_e10_p0_238	Map093.json	0	dialogue	ロイ：	Roi:
 MAP93_e10_p0_239	Map093.json	0	dialogue	どこへ行くつもりだ、騎士ピピン？	
 MAP93_e10_p0_246	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p0_247	Map093.json	0	dialogue	…なんだって？	
+MAP93_e10_p0_247	Map093.json	0	dialogue	…なんだって？	...What did you say?
 MAP93_e10_p0_249	Map093.json	0	dialogue	ロイ：	Roi:
 MAP93_e10_p0_25	Map093.json	0	dialogue	ピピン：	Pipin:
 MAP93_e10_p0_250	Map093.json	0	dialogue	話は終わっていない…	
@@ -13377,7 +13377,7 @@ MAP93_e10_p1_227	Map093.json	0	dialogue	じゃあな、ウィン。
 MAP93_e10_p1_238	Map093.json	0	dialogue	ロイ：	Roi:
 MAP93_e10_p1_239	Map093.json	0	dialogue	どこへ行くつもりだ、騎士ピピン？	
 MAP93_e10_p1_246	Map093.json	0	dialogue	ピピン：	Pipin:
-MAP93_e10_p1_247	Map093.json	0	dialogue	…なんだって？	
+MAP93_e10_p1_247	Map093.json	0	dialogue	…なんだって？	...What did you say?
 MAP93_e10_p1_249	Map093.json	0	dialogue	ロイ：	Roi:
 MAP93_e10_p1_25	Map093.json	0	dialogue	ピピン：	Pipin:
 MAP93_e10_p1_250	Map093.json	0	dialogue	話は終わっていない…	
@@ -13862,7 +13862,7 @@ MAP101_e7_p0_57	Map101.json	0	dialogue	…龍じゃなくてひとがいる？
 MAP101_e7_p0_58	Map101.json	0	dialogue	龍が話す？そうだとしても、誰と…？	
 MAP101_e7_p0_6	Map101.json	0	dialogue	そうだろうな。	
 MAP101_e7_p0_60	Map101.json	0	dialogue	ナガレ：	Nagare:
-MAP101_e7_p0_61	Map101.json	0	dialogue	あっ！！	
+MAP101_e7_p0_61	Map101.json	0	dialogue	あっ！！	Ah!!
 MAP101_e7_p0_63	Map101.json	0	dialogue	ホノオ：	Hono:
 MAP101_e7_p0_64	Map101.json	0	dialogue	おわーーーっ！？	
 MAP101_e7_p0_65	Map101.json	0	dialogue	お、おちるーーーー！！！！	
@@ -13874,16 +13874,16 @@ MAP101_e8_p0_3	Map101.json	0	dialogue	きっとあれに落ちたら龍がいる
 MAP101_e8_p0_4	Map101.json	0	dialogue	みんな、気を引き締めた方がいい。	
 MAP101_e9_p0_10	Map101.json	0	dialogue	にっかり青江を手に入れた！	
 MAP102_e10_p1_10	Map102.json	0	dialogue	ナガレ	Nagare
-MAP102_e10_p1_11	Map102.json	0	dialogue	「誰だっオマエは！？	
+MAP102_e10_p1_11	Map102.json	0	dialogue	「誰だっオマエは！？	"""Who the heck are you!?"""
 MAP102_e10_p1_13	Map102.json	0	dialogue	「うるさい！！問答無用だああああああ	
 MAP102_e10_p1_15	Map102.json	0	dialogue	バンデッド	Bandit
 MAP102_e10_p1_16	Map102.json	0	dialogue	「いまの俺なら、もうお前たちには負けん！！	
 MAP102_e10_p1_17	Map102.json	0	dialogue	　かかってこい！！！	
 MAP102_e10_p1_2	Map102.json	0	dialogue	バンデッド	Bandit
 MAP102_e10_p1_22	Map102.json	0	dialogue	バンデッド	Bandit
-MAP102_e10_p1_23	Map102.json	0	dialogue	「いいか…　終わりじゃない…	
-MAP102_e10_p1_24	Map102.json	0	dialogue	　俺は何度でも蘇って…お前らの前に現れる！	
-MAP102_e10_p1_25	Map102.json	0	dialogue	　何度でもだ…　　　　　ぐはあッ！！！！	
+MAP102_e10_p1_23	Map102.json	0	dialogue	「いいか…　終わりじゃない…	"""Listen... this isn't the end..."
+MAP102_e10_p1_24	Map102.json	0	dialogue	　俺は何度でも蘇って…お前らの前に現れる！	I'll be reborn again and again... and appear before you!
+MAP102_e10_p1_25	Map102.json	0	dialogue	　何度でもだ…　　　　　ぐはあッ！！！！	Again and again... GWAH!!!!
 MAP102_e10_p1_3	Map102.json	0	dialogue	「待っていたぞ！！	
 MAP102_e10_p1_4	Map102.json	0	dialogue	　俺は何度でも蘇る！！	
 MAP102_e10_p1_7	Map102.json	0	dialogue	ホノオ	Hono

@@ -39,9 +39,9 @@ MAP5_e15_p0_1	持ち出して役に立つようなものは何も見つけられ
 MAP5_e16_p0_2	　　　　　　中は少し湿って　かびていた…	
 MAP5_e17_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP5_e18_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP5_e26_p0_1	看板には、	
-MAP5_e26_p0_2	『騎士団駐屯本部』	
-MAP5_e26_p0_3	と、書いてある。	
+MAP5_e26_p0_1	看板には、	The sign reads,
+MAP5_e26_p0_2	『騎士団駐屯本部』	"""Knight Order Garrison HQ"""
+MAP5_e26_p0_3	と、書いてある。	written in bold.
 MAP5_e29_p0_2	ここはウィンダム王国の城下町だよ。	
 MAP5_e29_p0_3	…笑えよ、ウィン！	
 MAP5_e30_p0_2	ここのお花きれいでしょ？	
@@ -64,7 +64,7 @@ MAP5_e33_p0_13	この像は、先代国王の像なんだよ！！
 MAP5_e33_p0_14	勉強になったかい？	
 MAP5_e33_p0_2	この像は…　	
 MAP5_e33_p0_3	この像は何の像か知っているかい？	
-MAP5_e33_p0_7	なんだって？	
+MAP5_e33_p0_7	なんだって？	What did you say?
 MAP5_e33_p0_8	聞こえないねえ…	
 MAP5_e34_p0_2	異常なーし	
 MAP5_e34_p0_3	ウィンの家の前異常なーし	
@@ -90,7 +90,7 @@ MAP6_e20_p0_2	休んでいこうか…。	Should we rest...?
 MAP6_e21_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e22_p0_2	　　　　擦り切れたレザーコートが入っている	
 MAP6_e23_p0_2	　　　　　あせくさい　あまり調べたくはない…	
-MAP6_e24_p0_2	レザーコートを　一着　手に入れた！	
+MAP6_e24_p0_2	レザーコートを　一着　手に入れた！	Obtained a Leather Coat!
 MAP6_e24_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e25_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e26_p0_2	　　　　　　　　　　食器や調味料の類だ	
@@ -101,38 +101,38 @@ MAP6_e30_p0_2	　　　　　　　　　　　小麦粉か何かだ
 MAP6_e31_p0_2	　　　　　　緑色の野菜がたくさん入っている	
 MAP6_e32_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e33_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e34_p0_1	固いパンを　１個　手に入れた！	
+MAP6_e34_p0_1	固いパンを　１個　手に入れた！	Obtained a Hard Bread!
 MAP6_e34_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e35_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP6_e36_p0_2	　　　　　　いい匂いがする　お酒かもしれない	
 MAP6_e37_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP6_e37_p0_4	おい、勝手に触るんじゃねえ！	
+MAP6_e37_p0_4	おい、勝手に触るんじゃねえ！	Hey, don't touch that without asking!
 MAP6_e38_p0_2	　　　　　兵たちの為に常備されている薬類だ	
-MAP6_e39_p0_1	『ここ最近の事件と報告』	
-MAP6_e39_p0_11	・西の監視塔の見回りについて	
-MAP6_e39_p0_12	他国との戦争の為に作られた西の塔ですが、定期的に	
-MAP6_e39_p0_13	泥棒や魔物が住み着くので、見回りが大変です。	
-MAP6_e39_p0_14	壊してしまってはどうでしょう。	
-MAP6_e39_p0_16	・騎士と兵士の槍嫌いについて	
-MAP6_e39_p0_17	王国では戦争の為に槍の訓練が推奨されていますが、	
-MAP6_e39_p0_18	槍は重くて長いので、兵はおろか、騎士でさえ全然	
-MAP6_e39_p0_19	練習していません。槍のイメージアップが必要です。	
-MAP6_e39_p0_2	…と、書かれた本がある。読んでみようか？	
-MAP6_e39_p0_6	・フレイムからの野盗、ごろつき、密売人の流入	
-MAP6_e39_p0_7	関所の警備の強化をしています。通行手形の発行手続きを	
-MAP6_e39_p0_8	複雑にして、料金も値上げしました。	
-MAP6_e39_p0_9	街のパトロールも増やしました。	
-MAP6_e40_p0_1	『色々な見積もりリスト』	
-MAP6_e40_p0_11	城内宿舎の改築　資材6540G　人手5800G	
-MAP6_e40_p0_12	出来ます。ベットの数が元々足りていませんしね…。	
-MAP6_e40_p0_13	各区画への公衆トイレ設置　資材4500G　人手7200G	
-MAP6_e40_p0_14	各区画でなくとも一個か二個でもいいです。切実に…。	
-MAP6_e40_p0_16	武器庫の掃除　資材800G　人手300G	
-MAP6_e40_p0_17	陛下からストロングに御自ら命令してください！	
-MAP6_e40_p0_18	軍馬の購入　資材？？？　人手？？？	
-MAP6_e40_p0_19	一体いつからこの大陸には馬がいなくなったのでしょう…	
+MAP6_e39_p0_1	『ここ最近の事件と報告』	"""Recent Incidents and Reports"""
+MAP6_e39_p0_11	・西の監視塔の見回りについて	- About patrolling the West Watchtower
+MAP6_e39_p0_12	他国との戦争の為に作られた西の塔ですが、定期的に	The western tower was built for wars with other nations, but bandits
+MAP6_e39_p0_13	泥棒や魔物が住み着くので、見回りが大変です。	and monsters regularly move in, making patrols a hassle.
+MAP6_e39_p0_14	壊してしまってはどうでしょう。	Perhaps we should just demolish it.
+MAP6_e39_p0_16	・騎士と兵士の槍嫌いについて	- About knights and soldiers hating spears
+MAP6_e39_p0_17	王国では戦争の為に槍の訓練が推奨されていますが、	The kingdom recommends spear training for war, but spears are
+MAP6_e39_p0_18	槍は重くて長いので、兵はおろか、騎士でさえ全然	heavy and long, so not just soldiers—even knights aren't
+MAP6_e39_p0_19	練習していません。槍のイメージアップが必要です。	practicing at all. Spears need a better image.
+MAP6_e39_p0_2	…と、書かれた本がある。読んでみようか？	There's a book with these words written in it. Should we read it?
+MAP6_e39_p0_6	・フレイムからの野盗、ごろつき、密売人の流入	- Influx of bandits, thugs, and smugglers from Flame
+MAP6_e39_p0_7	関所の警備の強化をしています。通行手形の発行手続きを	We've strengthened security at the checkpoint. We've made the permit
+MAP6_e39_p0_8	複雑にして、料金も値上げしました。	issuing process more complicated and raised the fees.
+MAP6_e39_p0_9	街のパトロールも増やしました。	We've also increased town patrols.
+MAP6_e40_p0_1	『色々な見積もりリスト』	"""Various Estimates List"""
+MAP6_e40_p0_11	城内宿舎の改築　資材6540G　人手5800G	Renovating castle barracks - materials 6540G, labor 5800G
+MAP6_e40_p0_12	出来ます。ベットの数が元々足りていませんしね…。	It can be done. The number of beds has never been enough...
+MAP6_e40_p0_13	各区画への公衆トイレ設置　資材4500G　人手7200G	Public toilets in each ward - materials 4500G, labor 7200G
+MAP6_e40_p0_14	各区画でなくとも一個か二個でもいいです。切実に…。	Even one or two would do, not per ward. We beg you...
+MAP6_e40_p0_16	武器庫の掃除　資材800G　人手300G	Cleaning the armory - materials 800G, labor 300G
+MAP6_e40_p0_17	陛下からストロングに御自ら命令してください！	Please order Strong to do it yourself, Your Majesty!
+MAP6_e40_p0_18	軍馬の購入　資材？？？　人手？？？	Purchasing warhorses - materials ???, labor ???
+MAP6_e40_p0_19	一体いつからこの大陸には馬がいなくなったのでしょう…	Just when did horses disappear from this continent, I wonder...
 MAP6_e40_p0_2	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
-MAP6_e40_p0_6	バルコニーの改修　資材5136G　人手107050G	
+MAP6_e40_p0_6	バルコニーの改修　資材5136G　人手107050G	Renovating the balcony - materials 5136G, labor 107050G
 MAP6_e40_p0_7	とてもじゃないですが無理です陛下…！	
 MAP6_e40_p0_8	城下町のバリアフリー化　資材3460G 人手6845G	
 MAP6_e40_p0_9	出来なくもないですが、車椅子使っている国民ゼロです…	
@@ -3033,7 +3033,7 @@ MAP50_e35_p0_8	うおおお！？
 MAP50_e35_p0_9	なんだあのデッカイ魔物はー！！	
 MAP50_e35_p1_100	俺らは火と風の紋章の継承者の、ホノオと	
 MAP50_e35_p1_101	ウィンだ。	
-MAP50_e35_p1_106	なんだって？	
+MAP50_e35_p1_106	なんだって？	What did you say?
 MAP50_e35_p1_109	闇のエレメントが復活しようとしてる。	
 MAP50_e35_p1_11	つ、つええ…	
 MAP50_e35_p1_110	それで、水の継承者と合流する為に、	
@@ -3674,13 +3674,13 @@ MAP55_e25_p0_3	でもキラキラしていて綺麗だ…。
 MAP55_e25_p1_2	…ちょっと休ませてくれ。	
 MAP55_e25_p1_3	朝からずっと外の瓦礫を片付けていて	
 MAP55_e25_p1_4	くたくたなんだ。	
-MAP55_e26_p0_12	万金丹を超える、便利でしかも安い薬を	
-MAP55_e26_p0_13	開発するため、日夜研究の毎日！	
+MAP55_e26_p0_12	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
+MAP55_e26_p0_13	開発するため、日夜研究の毎日！	I research day and night!
 MAP55_e26_p0_14	そのためにも買い物して協力してください！	
 MAP55_e26_p0_2	いらっしゃい！セイリューにも	
 MAP55_e26_p0_3	錬金術師のお店開くの夢だったんだ！	
-MAP55_e26_p1_13	万金丹を超える、便利でしかも安い薬を	
-MAP55_e26_p1_14	開発するため、日夜研究の毎日！	
+MAP55_e26_p1_13	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
+MAP55_e26_p1_14	開発するため、日夜研究の毎日！	I research day and night!
 MAP55_e26_p1_15	そのためにも早く世界を救ってください！	
 MAP55_e26_p1_2	命あってのものだねっていうからねー！	
 MAP55_e26_p1_3	助けてもらったお礼に、薬の在庫は	
@@ -3918,8 +3918,8 @@ MAP56_e3_p1_13	毎度あり！
 MAP56_e3_p1_2	ここはよろず屋っていうか、薬屋だよ。	
 MAP56_e3_p1_3	万金丹が他の国で買うより安いから、	
 MAP56_e3_p1_4	まとめ買いしていったらどうだい？	
-MAP57_e2_p0_12	万金丹を超える、便利でしかも安い薬を	
-MAP57_e2_p0_13	開発するため、日夜研究の毎日！	
+MAP57_e2_p0_12	万金丹を超える、便利でしかも安い薬を	To develop a medicine even more useful than Mankintan, and cheap to boot,
+MAP57_e2_p0_13	開発するため、日夜研究の毎日！	I research day and night!
 MAP57_e2_p0_14	そのためにも買い物して協力してください！	
 MAP57_e2_p0_2	いらっしゃい！セイリューにも	
 MAP57_e2_p0_3	錬金術師のお店開くの夢だったんだ！	
@@ -4031,7 +4031,7 @@ MAP58_e5_p0_16	そういう話だったろう。
 MAP58_e5_p0_19	で…　だからどうやって入るんだ？？	
 MAP58_e5_p0_2	着いたよ。	
 MAP58_e5_p0_22	お社をぶっ壊すしかないだろう？	
-MAP58_e5_p0_25	えっ！？	
+MAP58_e5_p0_25	えっ！？	Huh!?
 MAP58_e5_p0_26	そんなことしていいのかよ！？	
 MAP58_e5_p0_29	いいも何も、それしかないだろう。	
 MAP58_e5_p0_3	ここが龍のお社だ。	
@@ -4052,7 +4052,7 @@ MAP58_e5_p1_16	そういう話だったろう。
 MAP58_e5_p1_19	で…　だからどうやって入るんだ？？	
 MAP58_e5_p1_2	着いたよ。	
 MAP58_e5_p1_22	お社をぶっ壊すしかないだろう？	
-MAP58_e5_p1_25	えっ！？	
+MAP58_e5_p1_25	えっ！？	Huh!?
 MAP58_e5_p1_26	そんなことしていいのかよ！？	
 MAP58_e5_p1_29	いいも何も、それしかないだろう。	
 MAP58_e5_p1_3	ここが龍のお社だ。	
@@ -4112,7 +4112,7 @@ MAP59_e7_p0_56	………本当だ。
 MAP59_e7_p0_57	…龍じゃなくてひとがいる？	
 MAP59_e7_p0_58	龍が話す？そうだとしても、誰と…？	
 MAP59_e7_p0_6	そうだろうな。	
-MAP59_e7_p0_61	あっ！！	
+MAP59_e7_p0_61	あっ！！	Ah!!
 MAP59_e7_p0_64	おわーーーっ！？	
 MAP59_e7_p0_65	お、おちるーーーー！！！！	
 MAP59_e7_p0_7	他にそれらしい穴はなかった…	
@@ -4226,7 +4226,7 @@ MAP60_e6_p0_171	………な、に？
 MAP60_e6_p0_174	ミケーネの味方をして…	
 MAP60_e6_p0_175	あの子たちと戦うつもりなんて…ないんだよ！	
 MAP60_e6_p0_178	…どういうこと？	
-MAP60_e6_p0_179	あっ！！	
+MAP60_e6_p0_179	あっ！！	Ah!!
 MAP60_e6_p0_18	いまこそ私の力となり、闇の復活を…	
 MAP60_e6_p0_189	青龍…　それは…　水の紋章…！？	
 MAP60_e6_p0_192	どうりで、何かおまえから不思議な力を	
@@ -4336,7 +4336,7 @@ MAP60_e6_p1_155	何も知らないのね。
 MAP60_e6_p1_158	な、なんだよ…	
 MAP60_e6_p1_159	何が起こるってんだよーーー！？	
 MAP60_e6_p1_16	おっと！	
-MAP60_e6_p1_163	それなら…	
+MAP60_e6_p1_163	それなら…	In that case...
 MAP60_e6_p1_164	まだ全然なんとかなるわね。	
 MAP60_e6_p1_167	はあ、おかげですっかり頭が冷えたわ。	
 MAP60_e6_p1_168	そうなったら、ここで時間を潰してられない。	
@@ -4406,7 +4406,7 @@ MAP60_e6_p2_169	何も知らないのね。
 MAP60_e6_p2_17	おっと！	
 MAP60_e6_p2_172	な、なんだよ…	
 MAP60_e6_p2_173	何が起こるってんだよーーー！？	
-MAP60_e6_p2_177	それなら…	
+MAP60_e6_p2_177	それなら…	In that case...
 MAP60_e6_p2_178	まだ全然なんとかなるわね。	
 MAP60_e6_p2_18	背中を見せたら、後ろから叩っきるぜ！！	
 MAP60_e6_p2_181	はあ、おかげですっかり頭が冷えたわ。	
@@ -4548,14 +4548,14 @@ MAP61_e56_p1_7	マハリ！傷は！？　大事ないか！？
 MAP61_e56_p2_2	うん…	
 MAP61_e56_p2_3	とりあえず、屋敷の中へ…	
 MAP61_e56_p2_4	村のみんなが集まってるよ	
-MAP61_e60_p0_11	おーい！！	
-MAP61_e60_p0_15	あたしだけじゃちょっとキツイんだ…	
-MAP61_e60_p0_16	助太刀してくれーーー！！	
-MAP61_e60_p0_20	なんかすげえヤバイ感じだな…！	
-MAP61_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	
-MAP61_e60_p0_5	お、おい…　なんだこりゃあ…！	
-MAP61_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	
-MAP61_e61_p1_2	いまここを離れるわけにはいかねえ！！	
+MAP61_e60_p0_11	おーい！！	Heyyy!!
+MAP61_e60_p0_15	あたしだけじゃちょっとキツイんだ…	I can't handle this on my own...
+MAP61_e60_p0_16	助太刀してくれーーー！！	Give me a hand—!!
+MAP61_e60_p0_20	なんかすげえヤバイ感じだな…！	This feels seriously bad...!
+MAP61_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	Either way, let's help Torikaze! Hurry!
+MAP61_e60_p0_5	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
+MAP61_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
+MAP61_e61_p1_2	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
 MAP61_e65_p0_12	いまいくぜー！！	
 MAP61_e65_p0_4	…マハリ！！	
 MAP61_e65_p0_7	ナガレ！みなさん！	
@@ -4589,9 +4589,9 @@ MAP62_e22_p0_2	　　　　　扉が打ちつけられていて開けられな�
 MAP62_e23_p0_2	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e24_p0_2	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e25_p0_2	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
-MAP62_e26_p0_1	看板には、	
-MAP62_e26_p0_2	『騎士団駐屯本部』	
-MAP62_e26_p0_3	と、書いてある。	
+MAP62_e26_p0_1	看板には、	The sign reads,
+MAP62_e26_p0_2	『騎士団駐屯本部』	"""Knight Order Garrison HQ"""
+MAP62_e26_p0_3	と、書いてある。	written in bold.
 MAP62_e28_p0_2	　　　　　扉が打ちつけられていて開けられない	The door is nailed shut and won't open.
 MAP62_e2_p2_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP62_e2_p2_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
@@ -4647,8 +4647,8 @@ MAP63_e18_p0_3	燃える岩がたくさん降ってきたってのに…
 MAP63_e18_p0_6	…ああ。	...Yeah.
 MAP63_e18_p0_7	街の方もこれぐらい頑丈に作っておけば…	
 MAP63_e18_p0_8	あんなひでえことにならなかったのによー…	
-MAP63_e19_p0_2	親父…　みんな…　生きていてくれ…！	
-MAP63_e20_p0_2	親父…　みんな…　生きていてくれ…！	
+MAP63_e19_p0_2	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
+MAP63_e20_p0_2	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e34_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP63_e34_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP63_e34_p1_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
@@ -4675,7 +4675,7 @@ MAP63_e35_p3_2	あっ！　ナガレ様じゃないっすか！
 MAP63_e35_p3_3	ちっす！　この前はあざっす！！	
 MAP63_e35_p3_6	よう！　元気になったみたいでよかったぜ！	
 MAP63_e35_p3_9	へ？　あ、王子　どうもっす	
-MAP63_e36_p0_2	親父…　みんな…　生きていてくれ…！	
+MAP63_e36_p0_2	親父…　みんな…　生きていてくれ…！	Dad... everyone... please be alive...!
 MAP63_e40_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP63_e41_p0_2	あそこの店からいい匂いがするんだー	That shop over there smells great!
 MAP63_e41_p0_3	くんくん　何の匂いかわからないけれど	sniff sniff... I can't tell what it is,
@@ -4885,15 +4885,15 @@ MAP64_e15_p1_2	…ックーン！	...Yip!
 MAP64_e15_p1_5	よしよし、ちゃんとメシもらってるみたいだな！	There, there, looks like you're being fed well!
 MAP64_e15_p2_2	クッーン！ッっクーン！	Yip! Yip!
 MAP64_e15_p2_5	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
-MAP64_e15_p3_13	…ナイフ？	
-MAP64_e15_p3_14	オマエ、一体どっからこんなモンを…？？	
-MAP64_e15_p3_17	まあいいや、コレはオレがもらっとくぜ！	
-MAP64_e15_p3_2	フッーン！ッっフーン！	
-MAP64_e15_p3_20	クーンックー！	
-MAP64_e15_p3_24	　　　　ホノオはマンゴーシュを手に入れた！	
-MAP64_e15_p3_5	しかし変な鳴き声の犬…	
-MAP64_e15_p3_6	って、オマエなんでそんなモン咥えてんだ！？	
-MAP64_e15_p3_9	　　　　　　ホノオは犬からそれを奪い取った！	
+MAP64_e15_p3_13	…ナイフ？	...A knife?
+MAP64_e15_p3_14	オマエ、一体どっからこんなモンを…？？	You, where on earth did you get something like this...??
+MAP64_e15_p3_17	まあいいや、コレはオレがもらっとくぜ！	Whatever, I'll be taking this!
+MAP64_e15_p3_2	フッーン！ッっフーン！	Hmph! Hmph!
+MAP64_e15_p3_20	クーンックー！	Yip yip!
+MAP64_e15_p3_24	　　　　ホノオはマンゴーシュを手に入れた！	Hono obtained a Main Gauche!
+MAP64_e15_p3_5	しかし変な鳴き声の犬…	But what a weird bark for a dog...
+MAP64_e15_p3_6	って、オマエなんでそんなモン咥えてんだ！？	Hey, why are you carrying something like that in your mouth!?
+MAP64_e15_p3_9	　　　　　　ホノオは犬からそれを奪い取った！	Hono snatched it from the dog!
 MAP64_e15_p4_2	クッーン！ッっクーン！	Yip! Yip!
 MAP64_e15_p4_5	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
 MAP64_e16_p0_1	『バーン王』	
@@ -4929,7 +4929,7 @@ MAP64_e17_p0_39	街を…　城を守れなかった…
 MAP64_e17_p0_42	そんなこと、いまはいい！！	
 MAP64_e17_p0_43	おい、親父、死ぬんじゃねえぞ！！	
 MAP64_e17_p0_46	………急所は、外してある	
-MAP64_e17_p0_51	…なに？	
+MAP64_e17_p0_51	…なに？	...What?
 MAP64_e17_p0_57	へー………	
 MAP64_e17_p0_58	…わかったぜ、アンタの考えてることがよー	
 MAP64_e17_p0_64	ナガレ！	
@@ -4940,7 +4940,7 @@ MAP64_e17_p0_73	あんたひとりで勝てる相手なのか、それは！？
 MAP64_e17_p0_76	さあ、どうかな…	
 MAP64_e17_p0_77	でもよー　コイツきっと、オレとサシで	
 MAP64_e17_p0_78	やりたいんだと思うぜー…	
-MAP64_e17_p0_84	…なんだって？	
+MAP64_e17_p0_84	…なんだって？	...What did you say?
 MAP64_e17_p0_87	頼む、ナガレ。	
 MAP64_e17_p0_88	コイツはオレに任せて…　親父と…、	
 MAP64_e17_p0_89	みんなを回復してやってくれ！	
@@ -4980,7 +4980,7 @@ MAP64_e30_p1_89	剣に力が入らねえんだ…
 MAP64_e30_p1_92	バカ！　ホノオのバカヤロー！	
 MAP64_e30_p1_93	もういい…　	
 MAP64_e30_p1_94	あんたが出来ないなら、あたしが…！	
-MAP64_e31_p1_12	………ッ	
+MAP64_e31_p1_12	………ッ	......Hmph
 MAP64_e31_p1_16	…っ！　ミケーネ………！！	
 MAP64_e31_p1_21	ナウ―…　ピケピケがカンカンだよ？	
 MAP64_e31_p1_22	計画は伝えてあるはずだ。	
@@ -5011,7 +5011,7 @@ MAP64_e31_p2_112	あなたたち…強いわ。
 MAP64_e31_p2_113	あたしたちの予想を軽く超えるほどにね…。	
 MAP64_e31_p2_116	きっとまた会うことになる…	
 MAP64_e31_p2_117	そのときが、本当の最後になるわ。	
-MAP64_e31_p2_12	………ッ	
+MAP64_e31_p2_12	………ッ	......Hmph
 MAP64_e31_p2_16	…っ！　ミケーネ………！！	
 MAP64_e31_p2_21	ナウ―…　ピケピケがカンカンだよ？	
 MAP64_e31_p2_22	計画は伝えてあるはずだ。	
@@ -5029,7 +5029,7 @@ MAP64_e31_p2_48	一方的過ぎたわ。
 MAP64_e31_p2_51	へへ…！！	
 MAP64_e31_p2_52	それだけオレが強くなったってことだぜ！	
 MAP64_e31_p2_55	あら、そんなに？	
-MAP64_e31_p2_56	それなら…　	
+MAP64_e31_p2_56	それなら…　	In that case...
 MAP64_e31_p2_57	あたしとナウー、同時に相手にできるかしら？	
 MAP64_e31_p2_60	なんだって…！？	
 MAP64_e31_p2_63	本当はそんな時間ないんだけれど…	
@@ -5056,62 +5056,62 @@ MAP64_e32_p1_33	…そうだと、いいな………
 MAP64_e32_p1_37	ホノオ！　あんたも早く手当を手伝え！	
 MAP64_e32_p1_38	薬は持ってるだろ！？	
 MAP64_e32_p1_43	お、おう…！！	
-MAP64_e33_p1_10	無事に帰ってくれ…　ホノオ。	
-MAP64_e33_p1_13	当たり前だろ？　あ、それより、	
-MAP64_e33_p1_14	アレ、あるか？	
-MAP64_e33_p1_17	む、なんのことだ？	
-MAP64_e33_p1_2	おお…　遂に継承者が揃ったか…。	
-MAP64_e33_p1_20	王に代々受け継がれる、この国の宝剣だよ。	
-MAP64_e33_p1_21	ちょっとばかし前倒しにして…	
-MAP64_e33_p1_22	アレをオレにくれないか？	
-MAP64_e33_p1_25	無論かまわんが…	
-MAP64_e33_p1_26	一応しきたりでは王になるときに渡すものだ。	
-MAP64_e33_p1_27	しかし、なぜ急ごうと思った…？	
-MAP64_e33_p1_3	…暗黒大陸に渡るのだな？	
-MAP64_e33_p1_30	オレ戦いだと夢中になっちまって、あと先を	
-MAP64_e33_p1_31	考えなくなっちまうところがあるからよ…	
-MAP64_e33_p1_34	けど…　右手に王の剣があれば…	
-MAP64_e33_p1_35	ソレを見る度に思い出せるんじゃねえかと	
-MAP64_e33_p1_36	思ってな…　大事なことを。	
-MAP64_e33_p1_39	そうか…　よくわかった。	
+MAP64_e33_p1_10	無事に帰ってくれ…　ホノオ。	Come home safe... Hono.
+MAP64_e33_p1_13	当たり前だろ？　あ、それより、	Of course, right? Oh, anyway,
+MAP64_e33_p1_14	アレ、あるか？	you still have it, don't you?
+MAP64_e33_p1_17	む、なんのことだ？	Hm? What do you mean?
+MAP64_e33_p1_2	おお…　遂に継承者が揃ったか…。	Oh... at last, all the inheritors are gathered...
+MAP64_e33_p1_20	王に代々受け継がれる、この国の宝剣だよ。	It's the treasured sword of this kingdom, passed down through its kings.
+MAP64_e33_p1_21	ちょっとばかし前倒しにして…	A little ahead of schedule...
+MAP64_e33_p1_22	アレをオレにくれないか？	could you give it to me?
+MAP64_e33_p1_25	無論かまわんが…	I don't mind at all, but...
+MAP64_e33_p1_26	一応しきたりでは王になるときに渡すものだ。	By tradition, it's meant to be given when one becomes king.
+MAP64_e33_p1_27	しかし、なぜ急ごうと思った…？	But why the hurry...?
+MAP64_e33_p1_3	…暗黒大陸に渡るのだな？	...You're crossing to the Dark Continent, aren't you?
+MAP64_e33_p1_30	オレ戦いだと夢中になっちまって、あと先を	When I get into a fight, I get so caught up
+MAP64_e33_p1_31	考えなくなっちまうところがあるからよ…	that I stop thinking ahead, you see...
+MAP64_e33_p1_34	けど…　右手に王の剣があれば…	But... if I hold the king's sword in my right hand...
+MAP64_e33_p1_35	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
+MAP64_e33_p1_36	思ってな…　大事なことを。	I'd remember... what matters most.
+MAP64_e33_p1_39	そうか…　よくわかった。	I see... I understand.
 MAP64_e33_p1_42	　　　　ホノオはゾモロドネガルを受け取った！	
-MAP64_e33_p1_47	ありがとよ、親父！	
-MAP64_e33_p1_48	代わりに俺のシャムシールを親父に渡そうか？	
-MAP64_e33_p1_51	それはやめておこう。形見にもらうようで…	
-MAP64_e33_p1_52	弱気になりそうだからな…。	
-MAP64_e33_p1_55	あ、そう………	
-MAP64_e33_p1_56	じゃあ親父、ちょっくら行ってくるぜ！	
-MAP64_e33_p1_59	うむ、我が息子に武運を！	
-MAP64_e33_p1_6	ああ！　行ってくるぜ、親父！	
-MAP64_e33_p1_9	そうか…　	
-MAP64_e33_p2_10	無事に帰ってくれ…　ホノオ。	
-MAP64_e33_p2_13	当たり前だろ？　あ、それより、	
-MAP64_e33_p2_14	アレ、あるか？	
-MAP64_e33_p2_17	む、なんのことだ？	
-MAP64_e33_p2_2	おお…　遂に継承者が揃ったか…。	
-MAP64_e33_p2_20	王に代々受け継がれる、この国の宝剣だよ。	
-MAP64_e33_p2_21	ちょっとばかし前倒しにして…	
-MAP64_e33_p2_22	アレをオレにくれないか？	
-MAP64_e33_p2_25	無論かまわんが…	
-MAP64_e33_p2_26	一応しきたりでは王になるときに渡すものだ。	
-MAP64_e33_p2_27	しかし、なぜ急ごうと思った…？	
-MAP64_e33_p2_3	…暗黒大陸に渡るのだな？	
-MAP64_e33_p2_30	オレ戦いだと夢中になっちまって、あと先を	
-MAP64_e33_p2_31	考えなくなっちまうところがあるからよ…	
-MAP64_e33_p2_34	けど…　右手に王の剣があれば…	
-MAP64_e33_p2_35	ソレを見る度に思い出せるんじゃねえかと	
-MAP64_e33_p2_36	思ってな…　大事なことを。	
-MAP64_e33_p2_39	そうか…　よくわかった。	
+MAP64_e33_p1_47	ありがとよ、親父！	Thanks, Dad!
+MAP64_e33_p1_48	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
+MAP64_e33_p1_51	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
+MAP64_e33_p1_52	弱気になりそうだからな…。	it would make me lose heart...
+MAP64_e33_p1_55	あ、そう………	Ah, right...
+MAP64_e33_p1_56	じゃあ親父、ちょっくら行ってくるぜ！	Well then, Dad, I'm heading out!
+MAP64_e33_p1_59	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
+MAP64_e33_p1_6	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
+MAP64_e33_p1_9	そうか…　	I see...
+MAP64_e33_p2_10	無事に帰ってくれ…　ホノオ。	Come home safe... Hono.
+MAP64_e33_p2_13	当たり前だろ？　あ、それより、	Of course, right? Oh, anyway,
+MAP64_e33_p2_14	アレ、あるか？	you still have it, don't you?
+MAP64_e33_p2_17	む、なんのことだ？	Hm? What do you mean?
+MAP64_e33_p2_2	おお…　遂に継承者が揃ったか…。	Oh... at last, all the inheritors are gathered...
+MAP64_e33_p2_20	王に代々受け継がれる、この国の宝剣だよ。	It's the treasured sword of this kingdom, passed down through its kings.
+MAP64_e33_p2_21	ちょっとばかし前倒しにして…	A little ahead of schedule...
+MAP64_e33_p2_22	アレをオレにくれないか？	could you give it to me?
+MAP64_e33_p2_25	無論かまわんが…	I don't mind at all, but...
+MAP64_e33_p2_26	一応しきたりでは王になるときに渡すものだ。	By tradition, it's meant to be given when one becomes king.
+MAP64_e33_p2_27	しかし、なぜ急ごうと思った…？	But why the hurry...?
+MAP64_e33_p2_3	…暗黒大陸に渡るのだな？	...You're crossing to the Dark Continent, aren't you?
+MAP64_e33_p2_30	オレ戦いだと夢中になっちまって、あと先を	When I get into a fight, I get so caught up
+MAP64_e33_p2_31	考えなくなっちまうところがあるからよ…	that I stop thinking ahead, you see...
+MAP64_e33_p2_34	けど…　右手に王の剣があれば…	But... if I hold the king's sword in my right hand...
+MAP64_e33_p2_35	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
+MAP64_e33_p2_36	思ってな…　大事なことを。	I'd remember... what matters most.
+MAP64_e33_p2_39	そうか…　よくわかった。	I see... I understand.
 MAP64_e33_p2_42	　　ホノオは本物のゾモロドネガルを受け取った！	
-MAP64_e33_p2_47	ありがとよ、親父！	
-MAP64_e33_p2_48	代わりに俺のシャムシールを親父に渡そうか？	
-MAP64_e33_p2_51	それはやめておこう。形見にもらうようで…	
-MAP64_e33_p2_52	弱気になりそうだからな…。	
-MAP64_e33_p2_55	あ、そう………	
-MAP64_e33_p2_56	じゃあ親父、ちょっくら行ってくるぜ！	
-MAP64_e33_p2_59	うむ、我が息子に武運を！	
-MAP64_e33_p2_6	ああ！　行ってくるぜ、親父！	
-MAP64_e33_p2_9	そうか…　	
+MAP64_e33_p2_47	ありがとよ、親父！	Thanks, Dad!
+MAP64_e33_p2_48	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
+MAP64_e33_p2_51	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
+MAP64_e33_p2_52	弱気になりそうだからな…。	it would make me lose heart...
+MAP64_e33_p2_55	あ、そう………	Ah, right...
+MAP64_e33_p2_56	じゃあ親父、ちょっくら行ってくるぜ！	Well then, Dad, I'm heading out!
+MAP64_e33_p2_59	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
+MAP64_e33_p2_6	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
+MAP64_e33_p2_9	そうか…　	I see...
 MAP64_e33_p3_11	あたしは水の紋章の力を持つものとして、	
 MAP64_e33_p3_12	当然のことをしただけです。	
 MAP64_e33_p3_15	しかしフレイム王は…	
@@ -5394,10 +5394,10 @@ MAP65_e19_p0_2	…と、表紙に書かれた本がある。読んでみよう�
 MAP65_e19_p0_7	代々何度も騎士団長、そして風の紋章を受け継いできた	My family has inherited the position of Knight Commander and the Wind Crest
 MAP65_e19_p0_8	我が一族…。わしもその栄誉が欲しかったのに、あのロイ	for generations... I too wanted that honor, but because of that man Roi,
 MAP65_e19_p0_9	とかいう男がいるせいで…。悔しい。	How frustrating.
-MAP65_e1_p0_2	ウィン、きさまどこへ行くつもりだ！？	
-MAP65_e1_p0_3	王の間へ行かなくていいのか！？	
-MAP65_e2_p0_2	ウィン、きさまどこへ行くつもりだ！？	
-MAP65_e2_p0_3	王の間へ行かなくていいのか！？	
+MAP65_e1_p0_2	ウィン、きさまどこへ行くつもりだ！？	Win, where exactly do you think you're going!?
+MAP65_e1_p0_3	王の間へ行かなくていいのか！？	Don't you need to go to the throne room!?
+MAP65_e2_p0_2	ウィン、きさまどこへ行くつもりだ！？	Win, where exactly do you think you're going!?
+MAP65_e2_p0_3	王の間へ行かなくていいのか！？	Don't you need to go to the throne room!?
 MAP65_e31_p0_11	随分と焦ってるようだが、それも当然だな。	You look quite flustered, and rightly so.
 MAP65_e31_p0_12	西の監視塔なら、毎月サクソン団長代行が	As for the West Watchtower, Acting Commander Saxon
 MAP65_e31_p0_13	見回りを命じられているはずだからな。	should be ordered to patrol it every month.
@@ -5442,24 +5442,24 @@ MAP65_e32_p2_3	私はいつも、ウィンさまのお家のパンの味を
 MAP65_e32_p2_4	お手本に、パンを作ってるんです…	
 MAP65_e32_p2_7	やっと、近い味が作れたと思います…！	
 MAP65_e32_p2_8	よかったら、いつかご感想をお聞かせ下さい…	
-MAP65_e33_p0_13	よし。	
-MAP65_e33_p0_14	…突入する！	
-MAP65_e33_p0_23	…ならさっさと済ませろ！	
-MAP65_e33_p0_4	…これから突入するが、	
-MAP65_e33_p0_7	…その前に、装備の点検、回復等…	
-MAP65_e33_p0_8	ひととおり済ませてあるだろうな？	
-MAP65_e34_p0_13	よし。	
-MAP65_e34_p0_14	…突入する！	
-MAP65_e34_p0_25	…ならさっさと済ませろ！	
-MAP65_e34_p0_4	…これから突入するが、	
-MAP65_e34_p0_7	…その前に、装備の点検、回復等…	
-MAP65_e34_p0_8	ひととおり済ませてあるだろうな？	
-MAP65_e35_p0_13	よし。	
-MAP65_e35_p0_14	…突入する！	
-MAP65_e35_p0_25	…ならさっさと済ませろ！	
-MAP65_e35_p0_4	…これから突入するが、	
-MAP65_e35_p0_7	…その前に、装備の点検、回復等…	
-MAP65_e35_p0_8	ひととおり済ませてあるだろうな？	
+MAP65_e33_p0_13	よし。	Alright.
+MAP65_e33_p0_14	…突入する！	...Charging in!
+MAP65_e33_p0_23	…ならさっさと済ませろ！	...Then hurry up and get it done!
+MAP65_e33_p0_4	…これから突入するが、	...We're about to charge in, but
+MAP65_e33_p0_7	…その前に、装備の点検、回復等…	...before that, check your gear, heal up...
+MAP65_e33_p0_8	ひととおり済ませてあるだろうな？	you've done all that, right?
+MAP65_e34_p0_13	よし。	Alright.
+MAP65_e34_p0_14	…突入する！	...Charging in!
+MAP65_e34_p0_25	…ならさっさと済ませろ！	...Then hurry up and get it done!
+MAP65_e34_p0_4	…これから突入するが、	...We're about to charge in, but
+MAP65_e34_p0_7	…その前に、装備の点検、回復等…	...before that, check your gear, heal up...
+MAP65_e34_p0_8	ひととおり済ませてあるだろうな？	you've done all that, right?
+MAP65_e35_p0_13	よし。	Alright.
+MAP65_e35_p0_14	…突入する！	...Charging in!
+MAP65_e35_p0_25	…ならさっさと済ませろ！	...Then hurry up and get it done!
+MAP65_e35_p0_4	…これから突入するが、	...We're about to charge in, but
+MAP65_e35_p0_7	…その前に、装備の点検、回復等…	...before that, check your gear, heal up...
+MAP65_e35_p0_8	ひととおり済ませてあるだろうな？	you've done all that, right?
 MAP65_e36_p1_101	だはは！！	
 MAP65_e36_p1_102	いや、だからー　継承者じゃない人間なんて…	
 MAP65_e36_p1_105	ボクにとっては、ハエ以下の存在なわけー	
@@ -5502,20 +5502,20 @@ MAP65_e36_p1_241	この術は継承者には通用しないんだけどーーー
 MAP65_e36_p1_244	ふつうのニンゲンだと効いちゃうワケー	
 MAP65_e36_p1_245	さあ継承者さーん　ふつうのニンゲンに	
 MAP65_e36_p1_246	ころされちゃうよー？　いいのーーー？	
-MAP65_e36_p1_253	ウィン…！	
+MAP65_e36_p1_253	ウィン…！	Win...!
 MAP65_e36_p1_254	ハヤテの魔法でここを脱出するしかない…！	
 MAP65_e36_p1_26	おお…　ピピン！！　それに、ウィン！！	
 MAP65_e36_p1_260	どうせお前にこいつらは殺せないだろうが…	
 MAP65_e36_p1_261	なら、逃げるしかないだろ…！！	
 MAP65_e36_p1_267	逃げたらこいつらが助からないってんだろ…	
 MAP65_e36_p1_268	バカが…！！　相変わらずだな、お前は…！！	
-MAP65_e36_p1_275	いやいやいやいやいや…	
+MAP65_e36_p1_275	いやいやいやいやいや…	No no no no no...
 MAP65_e36_p1_278	…ったく　俺としたことがドジったもんだ…	
 MAP65_e36_p1_279	お前といると…　焼きがまわりっ放しだ！	
 MAP65_e36_p1_289	おい、赤いのさー	
 MAP65_e36_p1_29	ピピンだとーーー！？	
 MAP65_e36_p1_290	なんでオマエ　大丈夫なんだー？	
-MAP65_e36_p1_293	…なに？	
+MAP65_e36_p1_293	…なに？	...What?
 MAP65_e36_p1_296	オマエ、継承者じゃないだろ？	
 MAP65_e36_p1_297	なんでボクの術効いてないワケー？	
 MAP65_e36_p1_30	騎士を突然やめたきさまが…	
@@ -5624,20 +5624,20 @@ MAP65_e36_p2_242	この術は継承者には通用しないんだけどーーー
 MAP65_e36_p2_245	ふつうのニンゲンだと効いちゃうワケー	
 MAP65_e36_p2_246	さあ継承者さーん　ふつうのニンゲンに	
 MAP65_e36_p2_247	ころされちゃうよー？　いいのーーー？	
-MAP65_e36_p2_254	ウィン…！	
+MAP65_e36_p2_254	ウィン…！	Win...!
 MAP65_e36_p2_255	ハヤテの魔法でここを脱出するしかない…！	
 MAP65_e36_p2_26	おお…　ピピン！！　それに、ウィン！！	
 MAP65_e36_p2_261	どうせお前にこいつらは殺せないだろうが…	
 MAP65_e36_p2_262	なら、逃げるしかないだろ…！！	
 MAP65_e36_p2_268	逃げたらこいつらが助からないってんだろ…	
 MAP65_e36_p2_269	バカが…！！　相変わらずだな、お前は…！！	
-MAP65_e36_p2_276	いやいやいやいやいや…	
+MAP65_e36_p2_276	いやいやいやいやいや…	No no no no no...
 MAP65_e36_p2_279	…ったく　俺としたことがドジったもんだ…	
 MAP65_e36_p2_280	お前といると…　焼きがまわりっ放しだ！	
 MAP65_e36_p2_29	ピピンだとーーー！？	
 MAP65_e36_p2_290	おい、赤いのさー	
 MAP65_e36_p2_291	なんでオマエ　大丈夫なんだー？	
-MAP65_e36_p2_294	…なに？	
+MAP65_e36_p2_294	…なに？	...What?
 MAP65_e36_p2_297	オマエ、継承者じゃないだろ？	
 MAP65_e36_p2_298	なんでボクの術効いてないワケー？	
 MAP65_e36_p2_30	騎士を突然やめたきさまが…	
@@ -5862,8 +5862,8 @@ MAP65_e39_p2_8	　　　　　ウィンは本物のロイスペシャルを受�
 MAP65_e39_p3_2	暗黒大陸には、強力な魔物と毒以外にも、	
 MAP65_e39_p3_3	他にどんな脅威があるのか誰も知らない。	
 MAP65_e39_p3_6	…細心の注意を払って臨んでいただきたい。	
-MAP65_e3_p0_2	ウィン、きさまどこへ行くつもりだ！？	
-MAP65_e3_p0_3	王の間へ行かなくていいのか！？	
+MAP65_e3_p0_2	ウィン、きさまどこへ行くつもりだ！？	Win, where exactly do you think you're going!?
+MAP65_e3_p0_3	王の間へ行かなくていいのか！？	Don't you need to go to the throne room!?
 MAP65_e41_p2_101	その危険な暗黒大陸に、	
 MAP65_e41_p2_102	これよりそなたは向かうのだ。	
 MAP65_e41_p2_105	あの光の柱が現れてから、異常気象や魔物の	
@@ -6071,19 +6071,19 @@ MAP65_e8_p0_29	これほど信用できる人間はいまい。
 MAP65_e8_p0_3	どうしてここに！？	
 MAP65_e8_p0_6	お前こそ、ここで何をしている…？	
 MAP65_e8_p0_7	王の間に敵がいる…　知っているはずだ。	
-MAP65_e8_p1_2	こんなときだからこそ、よからぬことを	
-MAP65_e8_p1_3	考えるやつも出てくるんでな。	
-MAP65_e8_p1_4	以前にも増して、警備を強化している。	
+MAP65_e8_p1_2	こんなときだからこそ、よからぬことを	Precisely in times like these, there are those
+MAP65_e8_p1_3	考えるやつも出てくるんでな。	who'd plot mischief.
+MAP65_e8_p1_4	以前にも増して、警備を強化している。	We've strengthened security more than ever.
 MAP65_e8_p2_10	すまんが、そうだ。	
 MAP65_e8_p2_11	信用していないわけじゃない。	
 MAP65_e8_p2_12	そこはご理解いただきたい、殿下。	
 MAP65_e8_p2_15	お、　おお…？	
 MAP65_e8_p2_18	おい、別に王の部屋でなくとも、	
 MAP65_e8_p2_19	単純にプライベートの空間だ。	
-MAP65_e8_p2_2	こんなときだからこそ、よからぬことを	
+MAP65_e8_p2_2	こんなときだからこそ、よからぬことを	Precisely in times like these, there are those
 MAP65_e8_p2_20	なぜ入ろうとする？	
-MAP65_e8_p2_3	考えるやつも出てくるんでな。	
-MAP65_e8_p2_4	以前にも増して、警備を強化している。	
+MAP65_e8_p2_3	考えるやつも出てくるんでな。	who'd plot mischief.
+MAP65_e8_p2_4	以前にも増して、警備を強化している。	We've strengthened security more than ever.
 MAP65_e8_p2_7	ウィンや、オレらでもか？	
 MAP65_e9_p0_11	すまんが、そうだ。	
 MAP65_e9_p0_12	信用していないわけじゃない。	
@@ -6092,9 +6092,9 @@ MAP65_e9_p0_16	お、　おお…？
 MAP65_e9_p0_19	おい、別に王の部屋でなくとも、	
 MAP65_e9_p0_20	単純にプライベートの空間だ。	
 MAP65_e9_p0_21	なぜ入ろうとする？	
-MAP65_e9_p0_3	こんなときだからこそ、よからぬことを	
-MAP65_e9_p0_4	考えるやつも出てくるんでな。	
-MAP65_e9_p0_5	以前にも増して、警備を強化している。	
+MAP65_e9_p0_3	こんなときだからこそ、よからぬことを	Precisely in times like these, there are those
+MAP65_e9_p0_4	考えるやつも出てくるんでな。	who'd plot mischief.
+MAP65_e9_p0_5	以前にも増して、警備を強化している。	We've strengthened security more than ever.
 MAP65_e9_p0_8	ウィンや、オレらでもか？	
 MAP66_e10_p0_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP66_e10_p0_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
@@ -6119,7 +6119,7 @@ MAP66_e20_p0_2	休んでいこうか…。	Should we rest...?
 MAP66_e21_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e22_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e23_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP66_e24_p0_2	レザーコートを　一着　手に入れた！	
+MAP66_e24_p0_2	レザーコートを　一着　手に入れた！	Obtained a Leather Coat!
 MAP66_e24_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e25_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e26_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -6130,38 +6130,38 @@ MAP66_e30_p0_1	持ち出して役に立つようなものは何も見つけら�
 MAP66_e31_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e32_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e33_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP66_e34_p0_1	固いパンを　１個　手に入れた！	
+MAP66_e34_p0_1	固いパンを　１個　手に入れた！	Obtained a Hard Bread!
 MAP66_e34_p1_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e35_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e36_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP66_e37_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP66_e37_p0_4	おい、勝手に触るんじゃねえ！	
+MAP66_e37_p0_4	おい、勝手に触るんじゃねえ！	Hey, don't touch that without asking!
 MAP66_e38_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP66_e39_p0_1	『ここ最近の事件と報告』	
-MAP66_e39_p0_11	・西の監視塔の見回りについて	
-MAP66_e39_p0_12	他国との戦争の為に作られた西の塔ですが、定期的に	
-MAP66_e39_p0_13	泥棒や魔物が住み着くので、見回りが大変です。	
-MAP66_e39_p0_14	壊してしまってはどうでしょう。	
-MAP66_e39_p0_16	・騎士と兵士の槍嫌いについて	
-MAP66_e39_p0_17	王国では戦争の為に槍の訓練が推奨されていますが、	
-MAP66_e39_p0_18	槍は重くて長いので、兵はおろか、騎士でさえ全然	
-MAP66_e39_p0_19	練習していません。槍のイメージアップが必要です。	
-MAP66_e39_p0_2	…と、書かれた本がある。読んでみようか？	
-MAP66_e39_p0_6	・フレイムからの野盗、ごろつき、密売人の流入	
-MAP66_e39_p0_7	関所の警備の強化をしています。通行手形の発行手続きを	
-MAP66_e39_p0_8	複雑にして、料金も値上げしました。	
-MAP66_e39_p0_9	街のパトロールも増やしました。	
-MAP66_e40_p0_1	『色々な見積もりリスト』	
-MAP66_e40_p0_11	城内宿舎の改築　資材6540G　人手5800G	
-MAP66_e40_p0_12	出来ます。ベットの数が元々足りていませんしね…。	
-MAP66_e40_p0_13	各区画への公衆トイレ設置　資材4500G　人手7200G	
-MAP66_e40_p0_14	各区画でなくとも一個か二個でもいいです。切実に…。	
-MAP66_e40_p0_16	武器庫の掃除　資材800G　人手300G	
-MAP66_e40_p0_17	陛下からストロングに御自ら命令してください！	
-MAP66_e40_p0_18	軍馬の購入　資材？？？　人手？？？	
-MAP66_e40_p0_19	一体いつからこの大陸には馬がいなくなったのでしょう…	
+MAP66_e39_p0_1	『ここ最近の事件と報告』	"""Recent Incidents and Reports"""
+MAP66_e39_p0_11	・西の監視塔の見回りについて	- About patrolling the West Watchtower
+MAP66_e39_p0_12	他国との戦争の為に作られた西の塔ですが、定期的に	The western tower was built for wars with other nations, but bandits
+MAP66_e39_p0_13	泥棒や魔物が住み着くので、見回りが大変です。	and monsters regularly move in, making patrols a hassle.
+MAP66_e39_p0_14	壊してしまってはどうでしょう。	Perhaps we should just demolish it.
+MAP66_e39_p0_16	・騎士と兵士の槍嫌いについて	- About knights and soldiers hating spears
+MAP66_e39_p0_17	王国では戦争の為に槍の訓練が推奨されていますが、	The kingdom recommends spear training for war, but spears are
+MAP66_e39_p0_18	槍は重くて長いので、兵はおろか、騎士でさえ全然	heavy and long, so not just soldiers—even knights aren't
+MAP66_e39_p0_19	練習していません。槍のイメージアップが必要です。	practicing at all. Spears need a better image.
+MAP66_e39_p0_2	…と、書かれた本がある。読んでみようか？	There's a book with these words written in it. Should we read it?
+MAP66_e39_p0_6	・フレイムからの野盗、ごろつき、密売人の流入	- Influx of bandits, thugs, and smugglers from Flame
+MAP66_e39_p0_7	関所の警備の強化をしています。通行手形の発行手続きを	We've strengthened security at the checkpoint. We've made the permit
+MAP66_e39_p0_8	複雑にして、料金も値上げしました。	issuing process more complicated and raised the fees.
+MAP66_e39_p0_9	街のパトロールも増やしました。	We've also increased town patrols.
+MAP66_e40_p0_1	『色々な見積もりリスト』	"""Various Estimates List"""
+MAP66_e40_p0_11	城内宿舎の改築　資材6540G　人手5800G	Renovating castle barracks - materials 6540G, labor 5800G
+MAP66_e40_p0_12	出来ます。ベットの数が元々足りていませんしね…。	It can be done. The number of beds has never been enough...
+MAP66_e40_p0_13	各区画への公衆トイレ設置　資材4500G　人手7200G	Public toilets in each ward - materials 4500G, labor 7200G
+MAP66_e40_p0_14	各区画でなくとも一個か二個でもいいです。切実に…。	Even one or two would do, not per ward. We beg you...
+MAP66_e40_p0_16	武器庫の掃除　資材800G　人手300G	Cleaning the armory - materials 800G, labor 300G
+MAP66_e40_p0_17	陛下からストロングに御自ら命令してください！	Please order Strong to do it yourself, Your Majesty!
+MAP66_e40_p0_18	軍馬の購入　資材？？？　人手？？？	Purchasing warhorses - materials ???, labor ???
+MAP66_e40_p0_19	一体いつからこの大陸には馬がいなくなったのでしょう…	Just when did horses disappear from this continent, I wonder...
 MAP66_e40_p0_2	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
-MAP66_e40_p0_6	バルコニーの改修　資材5136G　人手107050G	
+MAP66_e40_p0_6	バルコニーの改修　資材5136G　人手107050G	Renovating the balcony - materials 5136G, labor 107050G
 MAP66_e40_p0_7	とてもじゃないですが無理です陛下…！	
 MAP66_e40_p0_8	城下町のバリアフリー化　資材3460G 人手6845G	
 MAP66_e40_p0_9	出来なくもないですが、車椅子使っている国民ゼロです…	
@@ -6241,9 +6241,9 @@ MAP66_e53_p1_14	さすがにこれだけみんなが大変そうだと…
 MAP66_e53_p1_2	あー、どうも…　道具屋です。	
 MAP66_e53_p1_3	なんか街が崩壊してからの方がめっちゃ	
 MAP66_e53_p1_4	お客さん来て…　もうかってます…	
-MAP66_e54_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	
-MAP66_e55_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	
-MAP66_e56_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	
+MAP66_e54_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
+MAP66_e55_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
+MAP66_e56_p0_2	　　　先にロイに会いに行こうと、ウィンは思った	Win decided to go see Roi first.
 MAP66_e57_p0_1	『スキルの勉強』	
 MAP66_e57_p0_10	スキルポイントは、バトル中に敵を攻撃したり、	
 MAP66_e57_p0_11	攻撃されたりすることで溜まるが、戦いながら探ると	
@@ -6298,7 +6298,7 @@ MAP66_e65_p0_13	ありがとう、ウィン！
 MAP66_e65_p0_14	お城のみんながお腹いっぱいでいられるよう、	
 MAP66_e65_p0_15	私もがんばるから、ウィンもがんばんなさい！	
 MAP66_e65_p0_19	あら、まだパンが嫌いなの？	
-MAP66_e65_p0_2	ウィン…！	
+MAP66_e65_p0_2	ウィン…！	Win...!
 MAP66_e65_p0_20	騎士様になって、普段いいものばかり	
 MAP66_e65_p0_21	食べているのかしら！？	
 MAP66_e65_p0_3	元気そうね…　よかった！！	
@@ -6844,33 +6844,33 @@ MAP77_e3_p0_12	　　　　　　　ウィンは蜻蛉斬を受け取った！
 MAP77_e3_p0_16	この巨大な槍はわしが若い頃から愛用していた	
 MAP77_e3_p0_17	すごく強力な槍だ！	
 MAP77_e3_p0_18	我が一族に代々伝わる品だ！	
-MAP77_e3_p0_2	人数は足りないが…	
+MAP77_e3_p0_2	人数は足りないが…	We're short on numbers, but...
 MAP77_e3_p0_21	ん？　確かにこの槍は大事なものだが…	
 MAP77_e3_p0_22	いまはそれよりも、少しでもお前たちの力に	
 MAP77_e3_p0_23	なるものは何でも渡さねばなるまい！	
 MAP77_e3_p0_26	なーに！　遠慮はいらんぞ！	
 MAP77_e3_p0_27	平和になったら返してくれればいいのだ！	
-MAP77_e3_p0_3	未知の魔物が相手では、数を揃えればいいという	
-MAP77_e3_p0_4	ものでもなかろう…	
+MAP77_e3_p0_3	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
+MAP77_e3_p0_4	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p0_7	そうだ、ウィン！	
 MAP77_e3_p0_8	お前に良いものをやろう！	
 MAP77_e3_p1_12	　　　　ウィンは本物の蜻蛉斬を受け取った！	
 MAP77_e3_p1_16	この巨大な槍はわしが若い頃から愛用していた	
 MAP77_e3_p1_17	すごく強力な槍だ！	
 MAP77_e3_p1_18	我が一族に代々伝わる品だ！	
-MAP77_e3_p1_2	人数は足りないが…	
+MAP77_e3_p1_2	人数は足りないが…	We're short on numbers, but...
 MAP77_e3_p1_21	ん？　確かにこの槍は大事なものだが…	
 MAP77_e3_p1_22	いまはそれよりも、少しでもお前たちの力に	
 MAP77_e3_p1_23	なるものは何でも渡さねばなるまい！	
 MAP77_e3_p1_26	なーに！　遠慮はいらんぞ！	
 MAP77_e3_p1_27	平和になったら返してくれればいいのだ！	
-MAP77_e3_p1_3	未知の魔物が相手では、数を揃えればいいという	
-MAP77_e3_p1_4	ものでもなかろう…	
+MAP77_e3_p1_3	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
+MAP77_e3_p1_4	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p1_7	そうだ、ウィン！	
 MAP77_e3_p1_8	お前に良いものをやろう！	
-MAP77_e3_p2_2	人数は足りないが…	
-MAP77_e3_p2_3	未知の魔物が相手では、数を揃えればいいという	
-MAP77_e3_p2_4	ものでもなかろう…	
+MAP77_e3_p2_2	人数は足りないが…	We're short on numbers, but...
+MAP77_e3_p2_3	未知の魔物が相手では、数を揃えればいいという	against unknown monsters, numbers alone aren't
+MAP77_e3_p2_4	ものでもなかろう…	necessarily the answer...
 MAP77_e3_p2_7	セイリューから支給されたライスボールで	
 MAP77_e3_p2_8	我が兵たちの士気も上々！	
 MAP77_e3_p2_9	ここはわしらに安心してまかせい！	
@@ -7675,7 +7675,7 @@ MAP83_e14_p0_29	…チッ！　なんだよー　来ちゃったじゃないか�
 MAP83_e14_p0_37	アイツら…　意外と使えない奴らだったのねー	
 MAP83_e14_p0_38	…って、え？	
 MAP83_e14_p0_43	ハ？　もしかして、キミひとりなの…？？	
-MAP83_e14_p0_49	いやいやいやいやいや…	
+MAP83_e14_p0_49	いやいやいやいやいや…	No no no no no...
 MAP83_e14_p0_52	ハァ…！！？？？？？	
 MAP83_e14_p0_56	なになになになにー？？	
 MAP83_e14_p0_57	えっ、どしたのんマジで！？	
@@ -7883,45 +7883,45 @@ MAP86_e15_p1_2	…ックーン！	...Yip!
 MAP86_e15_p1_5	よしよし、ちゃんとメシもらってるみたいだな！	There, there, looks like you're being fed well!
 MAP86_e15_p2_2	クッーン！ッっクーン！	Yip! Yip!
 MAP86_e15_p2_5	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
-MAP86_e15_p3_13	…ナイフ？	
-MAP86_e15_p3_14	オマエ、一体どっからこんなモンを…？？	
-MAP86_e15_p3_17	まあいいや、コレはオレがもらっとくぜ！	
-MAP86_e15_p3_2	フッーン！ッっフーン！	
-MAP86_e15_p3_20	クーンックー！	
-MAP86_e15_p3_23	　　　　ホノオはマンゴーシュを手に入れた！	
-MAP86_e15_p3_5	しかし変な鳴き声の犬…	
-MAP86_e15_p3_6	って、オマエなんでそんなモン咥えてんだ！？	
-MAP86_e15_p3_9	　　　　　　ホノオは犬からそれを奪い取った！	
+MAP86_e15_p3_13	…ナイフ？	...A knife?
+MAP86_e15_p3_14	オマエ、一体どっからこんなモンを…？？	You, where on earth did you get something like this...??
+MAP86_e15_p3_17	まあいいや、コレはオレがもらっとくぜ！	Whatever, I'll be taking this!
+MAP86_e15_p3_2	フッーン！ッっフーン！	Hmph! Hmph!
+MAP86_e15_p3_20	クーンックー！	Yip yip!
+MAP86_e15_p3_23	　　　　ホノオはマンゴーシュを手に入れた！	Hono obtained a Main Gauche!
+MAP86_e15_p3_5	しかし変な鳴き声の犬…	But what a weird bark for a dog...
+MAP86_e15_p3_6	って、オマエなんでそんなモン咥えてんだ！？	Hey, why are you carrying something like that in your mouth!?
+MAP86_e15_p3_9	　　　　　　ホノオは犬からそれを奪い取った！	Hono snatched it from the dog!
 MAP86_e15_p4_2	クッーン！ッっクーン！	Yip! Yip!
 MAP86_e15_p4_5	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
-MAP86_e33_p1_10	無事に帰ってくれ…　ホノオ。	
-MAP86_e33_p1_13	当たり前だろ？　あ、それより、	
-MAP86_e33_p1_14	アレ、あるか？	
-MAP86_e33_p1_17	む、なんのことだ？	
-MAP86_e33_p1_2	おお…　遂に継承者が揃ったか…。	
-MAP86_e33_p1_20	王に代々受け継がれる、この国の宝剣だよ。	
-MAP86_e33_p1_21	ちょっとばかし前倒しにして…	
-MAP86_e33_p1_22	アレをオレにくれないか？	
-MAP86_e33_p1_25	無論かまわんが…	
-MAP86_e33_p1_26	一応しきたりでは王になるときに渡すものだ。	
-MAP86_e33_p1_27	しかし、なぜ急ごうと思った…？	
-MAP86_e33_p1_3	…暗黒大陸に渡るのだな？	
-MAP86_e33_p1_30	オレ戦いだと夢中になっちまって、あと先を	
-MAP86_e33_p1_31	考えなくなっちまうところがあるからよ…	
-MAP86_e33_p1_34	けど…　右手に王の剣があれば…	
-MAP86_e33_p1_35	ソレを見る度に思い出せるんじゃねえかと	
-MAP86_e33_p1_36	思ってな…　大事なことを。	
-MAP86_e33_p1_39	そうか…　よくわかった。	
+MAP86_e33_p1_10	無事に帰ってくれ…　ホノオ。	Come home safe... Hono.
+MAP86_e33_p1_13	当たり前だろ？　あ、それより、	Of course, right? Oh, anyway,
+MAP86_e33_p1_14	アレ、あるか？	you still have it, don't you?
+MAP86_e33_p1_17	む、なんのことだ？	Hm? What do you mean?
+MAP86_e33_p1_2	おお…　遂に継承者が揃ったか…。	Oh... at last, all the inheritors are gathered...
+MAP86_e33_p1_20	王に代々受け継がれる、この国の宝剣だよ。	It's the treasured sword of this kingdom, passed down through its kings.
+MAP86_e33_p1_21	ちょっとばかし前倒しにして…	A little ahead of schedule...
+MAP86_e33_p1_22	アレをオレにくれないか？	could you give it to me?
+MAP86_e33_p1_25	無論かまわんが…	I don't mind at all, but...
+MAP86_e33_p1_26	一応しきたりでは王になるときに渡すものだ。	By tradition, it's meant to be given when one becomes king.
+MAP86_e33_p1_27	しかし、なぜ急ごうと思った…？	But why the hurry...?
+MAP86_e33_p1_3	…暗黒大陸に渡るのだな？	...You're crossing to the Dark Continent, aren't you?
+MAP86_e33_p1_30	オレ戦いだと夢中になっちまって、あと先を	When I get into a fight, I get so caught up
+MAP86_e33_p1_31	考えなくなっちまうところがあるからよ…	that I stop thinking ahead, you see...
+MAP86_e33_p1_34	けど…　右手に王の剣があれば…	But... if I hold the king's sword in my right hand...
+MAP86_e33_p1_35	ソレを見る度に思い出せるんじゃねえかと	I figured every time I look at it,
+MAP86_e33_p1_36	思ってな…　大事なことを。	I'd remember... what matters most.
+MAP86_e33_p1_39	そうか…　よくわかった。	I see... I understand.
 MAP86_e33_p1_42	　　　　ホノオはゾモロドネガルを受け取った！	
-MAP86_e33_p1_46	ありがとよ、親父！	
-MAP86_e33_p1_47	代わりに俺のシャムシールを親父に渡そうか？	
-MAP86_e33_p1_50	それはやめておこう。形見にもらうようで…	
-MAP86_e33_p1_51	弱気になりそうだからな…。	
-MAP86_e33_p1_54	あ、そう………	
-MAP86_e33_p1_55	じゃあ親父、ちょっくら行ってくるぜ！	
-MAP86_e33_p1_58	うむ、我が息子に武運を！	
-MAP86_e33_p1_6	ああ！　行ってくるぜ、親父！	
-MAP86_e33_p1_9	そうか…　	
+MAP86_e33_p1_46	ありがとよ、親父！	Thanks, Dad!
+MAP86_e33_p1_47	代わりに俺のシャムシールを親父に渡そうか？	How about I give you my Shamshir in return?
+MAP86_e33_p1_50	それはやめておこう。形見にもらうようで…	Better not. It'd feel like a keepsake from the dead...
+MAP86_e33_p1_51	弱気になりそうだからな…。	it would make me lose heart...
+MAP86_e33_p1_54	あ、そう………	Ah, right...
+MAP86_e33_p1_55	じゃあ親父、ちょっくら行ってくるぜ！	Well then, Dad, I'm heading out!
+MAP86_e33_p1_58	うむ、我が息子に武運を！	Indeed, may fortune favor my son in battle!
+MAP86_e33_p1_6	ああ！　行ってくるぜ、親父！	Yeah! I'm off, Dad!
+MAP86_e33_p1_9	そうか…　	I see...
 MAP86_e33_p2_11	あたしは水の紋章の力を持つものとして、	
 MAP86_e33_p2_12	当然のことをしただけです。	
 MAP86_e33_p2_15	しかしフレイム王は…	
@@ -8009,14 +8009,14 @@ MAP87_e23_p0_16	ナガレーーーーーッ！！！！
 MAP87_e23_p0_5	光の…柱だ…！！	
 MAP87_e53_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP87_e54_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP87_e60_p0_11	おーい！！	
-MAP87_e60_p0_15	あたしだけじゃちょっとキツイんだ…	
-MAP87_e60_p0_16	助太刀してくれーーー！！	
-MAP87_e60_p0_20	なんかすげえヤバイ感じだな…！	
-MAP87_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	
-MAP87_e60_p0_5	お、おい…　なんだこりゃあ…！	
-MAP87_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	
-MAP87_e61_p1_2	いまここを離れるわけにはいかねえ！！	
+MAP87_e60_p0_11	おーい！！	Heyyy!!
+MAP87_e60_p0_15	あたしだけじゃちょっとキツイんだ…	I can't handle this on my own...
+MAP87_e60_p0_16	助太刀してくれーーー！！	Give me a hand—!!
+MAP87_e60_p0_20	なんかすげえヤバイ感じだな…！	This feels seriously bad...!
+MAP87_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	Either way, let's help Torikaze! Hurry!
+MAP87_e60_p0_5	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
+MAP87_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
+MAP87_e61_p1_2	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
 MAP87_e65_p0_12	いまいくぜー！！	
 MAP87_e65_p0_4	…マハリ！！	
 MAP87_e65_p0_7	ナガレ！みなさん！	
@@ -8171,10 +8171,10 @@ MAP88_e15_p4_61	…れ…弱ま…ば、…々の残し……法…効果も消�
 MAP88_e15_p4_64	…他の奴が説明してくれないか？	
 MAP88_e15_p4_67	我々の魔法…　元は闇のエレメントパワー…	
 MAP88_e15_p4_68	闇弱まれば…　我々の魔法の効果も消えるのだ	
-MAP88_e15_p4_7	えっ！？	
+MAP88_e15_p4_7	えっ！？	Huh!?
 MAP88_e15_p4_71	あ、あんたが説明してくれるとは思わなかったが…	
 MAP88_e15_p4_74	とにかく分かった…	
-MAP88_e15_p4_75	それなら…	
+MAP88_e15_p4_75	それなら…	In that case...
 MAP88_e15_p4_8	そんなに透けてる…！！！？？？	
 MAP88_e15_p4_81	ウィン、いくぞ！！	
 MAP88_e15_p4_89	　　　　　　　　　　ウィンは頷いた！！	
@@ -8187,7 +8187,7 @@ MAP88_e15_p6_2	　　　　　ダフィールはぐったりと倒れて動か�
 MAP88_e15_p6_36	あっちゃー…　だから言ったのにいいいい…	
 MAP88_e15_p6_40	　　闇が膨らみ　　　　　　　闇が閉じ	
 MAP88_e15_p6_41	　　　　　　　　次元が　　　　　　　　　　歪んでいく	
-MAP88_e15_p6_5	　　　しかしよく見ると、ダフィールの口の中から	
+MAP88_e15_p6_5	　　　しかしよく見ると、ダフィールの口の中から	But look closely—from inside Dafill's mouth,
 MAP88_e15_p6_52	　　　　　　　　闇は開き　　　　闇は広がり	
 MAP88_e15_p6_53	　　　　次元が　　　　　　戻る	
 MAP88_e15_p6_6	　　　　黒いイモ虫のようなものがはみ出ている…	
@@ -8207,9 +8207,9 @@ MAP88_e15_p7_124	バンデッド	Bandit
 MAP88_e15_p7_125	「いまの俺なら、もうお前たちも負けん！！	
 MAP88_e15_p7_126	　伝説級の俺の強さに震えるがいい！！	
 MAP88_e15_p7_132	バンデッド	Bandit
-MAP88_e15_p7_133	「いいか…　終わりじゃない…	
-MAP88_e15_p7_134	　俺は何度でも蘇って…お前らの前に現れる！	
-MAP88_e15_p7_135	　何度でもだ…　　　　　ぐはあッ！！！！	
+MAP88_e15_p7_133	「いいか…　終わりじゃない…	"""Listen... this isn't the end..."
+MAP88_e15_p7_134	　俺は何度でも蘇って…お前らの前に現れる！	 I'll be reborn again and again... and appear before you!
+MAP88_e15_p7_135	　何度でもだ…　　　　　ぐはあッ！！！！	 Again and again... GWAH!!!!
 MAP88_e15_p7_14	えーと…　それはちょっと面白そうだなあ	
 MAP88_e15_p7_144	　　　　　　　　闇は開き　　　　闇は広がり	
 MAP88_e15_p7_145	　　　　次元が　　　　　　戻る	
@@ -8221,7 +8221,7 @@ MAP88_e15_p7_36	どっちが勝つんだろう…　ちょっと楽しみ…
 MAP88_e15_p7_37	それではいってらっしゃーーーーーーい！！	
 MAP88_e15_p7_41	　　闇が膨らみ　　　　　　　闇が閉じ	
 MAP88_e15_p7_42	　　　　　　　　次元が　　　　　　　　　　歪んでいく	
-MAP88_e15_p7_5	　　　しかしよく見ると、ダフィールの口の中から	
+MAP88_e15_p7_5	　　　しかしよく見ると、ダフィールの口の中から	But look closely—from inside Dafill's mouth,
 MAP88_e15_p7_54	「あれ？　どこだよ、ここ…？	
 MAP88_e15_p7_57	「おまえら…　どうしてここにいる？	
 MAP88_e15_p7_6	　　　　黒い蛇のようなものがはみ出ている…	
@@ -8240,7 +8240,7 @@ MAP88_e15_p7_84	　いいだろう…そろそろ俺も…
 MAP88_e15_p7_89	「おまえらに勝てるだろうからな！！	
 MAP88_e15_p7_93	「だ、誰だ…！？	"""Wh-Who are you...!?"""
 MAP88_e15_p7_96	「お前それ最初のセリフと同じじゃねえか！	
-MAP88_e15_p7_99	「誰だっオマエは！？	
+MAP88_e15_p7_99	「誰だっオマエは！？	"""Who the heck are you!?"""
 MAP88_e15_p8_101	「……………誰ですか？	
 MAP88_e15_p8_104	「お前まで分からないのか……	
 MAP88_e15_p8_105	　それはなんか、ちょっとショックだろ………	
@@ -8256,9 +8256,9 @@ MAP88_e15_p8_120	バンデッド	Bandit
 MAP88_e15_p8_121	「いまの俺なら、もうお前たちも負けん！！	
 MAP88_e15_p8_122	　伝説級の俺の強さに震えるがいい！！	
 MAP88_e15_p8_128	バンデッド	Bandit
-MAP88_e15_p8_129	「いいか…　終わりじゃない…	
-MAP88_e15_p8_130	　俺は何度でも蘇って…お前らの前に現れる！	
-MAP88_e15_p8_131	　何度でもだ…　　　　　ぐはあッ！！！！	
+MAP88_e15_p8_129	「いいか…　終わりじゃない…	"""Listen... this isn't the end..."
+MAP88_e15_p8_130	　俺は何度でも蘇って…お前らの前に現れる！	 I'll be reborn again and again... and appear before you!
+MAP88_e15_p8_131	　何度でもだ…　　　　　ぐはあッ！！！！	 Again and again... GWAH!!!!
 MAP88_e15_p8_14	えーと…　まだやってるの…？	
 MAP88_e15_p8_140	　　　　　　　　闇は開き　　　　闇は広がり	
 MAP88_e15_p8_141	　　　　次元が　　　　　　戻る	
@@ -8268,7 +8268,7 @@ MAP88_e15_p8_19	もうよくない？
 MAP88_e15_p8_2	　　　　　ダフィールはぐったりと倒れて動かない	Dafill lies limp on the ground, unmoving.
 MAP88_e15_p8_37	　　闇が膨らみ　　　　　　　闇が閉じ	
 MAP88_e15_p8_38	　　　　　　　　次元が　　　　　　　　　　歪んでいく	
-MAP88_e15_p8_5	　　　しかしよく見ると、ダフィールの口の中から	
+MAP88_e15_p8_5	　　　しかしよく見ると、ダフィールの口の中から	But look closely—from inside Dafill's mouth,
 MAP88_e15_p8_50	「あれ？　どこだよ、ここ…？	
 MAP88_e15_p8_53	「おまえら…　どうしてここにいる？	
 MAP88_e15_p8_56	「わからないよ…　一体全体何が起こって…	
@@ -8287,7 +8287,7 @@ MAP88_e15_p8_80	　いいだろう…そろそろ俺も…
 MAP88_e15_p8_85	「おまえらに勝てるだろうからな！！	
 MAP88_e15_p8_89	「だ、誰だ…！？	"""Wh-Who are you...!?"""
 MAP88_e15_p8_92	「お前それ最初のセリフと同じじゃねえか！	
-MAP88_e15_p8_95	「誰だっオマエは！？	
+MAP88_e15_p8_95	「誰だっオマエは！？	"""Who the heck are you!?"""
 MAP88_e15_p8_98	「何度も会ってるだろ！俺とお前らは！！！！	
 MAP88_e15_p9_2	　　　　　ダフィールはぐったりと倒れて動かない	Dafill lies limp on the ground, unmoving.
 MAP88_e16_p1_11	　　　　　　　ナウーは小さく頷いた	
@@ -8417,14 +8417,14 @@ MAP91_e23_p0_93	あたしが継承したんだぞ？
 MAP91_e23_p0_96	もしふたりが紋章を継承できるのだとしても…	
 MAP91_e23_p0_97	無暗に負担を強いる事になる。	
 MAP91_e23_p0_98	だから、あたしは許可しない。	
-MAP91_e60_p0_11	おーい！！	
-MAP91_e60_p0_15	あたしだけじゃちょっとキツイんだ…	
-MAP91_e60_p0_16	助太刀してくれーーー！！	
-MAP91_e60_p0_20	なんかすげえヤバイ感じだな…！	
-MAP91_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	
-MAP91_e60_p0_5	お、おい…　なんだこりゃあ…！	
-MAP91_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	
-MAP91_e61_p1_2	いまここを離れるわけにはいかねえ！！	
+MAP91_e60_p0_11	おーい！！	Heyyy!!
+MAP91_e60_p0_15	あたしだけじゃちょっとキツイんだ…	I can't handle this on my own...
+MAP91_e60_p0_16	助太刀してくれーーー！！	Give me a hand—!!
+MAP91_e60_p0_20	なんかすげえヤバイ感じだな…！	This feels seriously bad...!
+MAP91_e60_p0_23	とにかくトリカゼに助太刀しよう！急げ！	Either way, let's help Torikaze! Hurry!
+MAP91_e60_p0_5	お、おい…　なんだこりゃあ…！	H-Hey... what the heck is this...!
+MAP91_e60_p0_8	川が氾濫した！？　みんなは大丈夫なのか！？	The river flooded!? Is everyone okay!?
+MAP91_e61_p1_2	いまここを離れるわけにはいかねえ！！	I can't leave here now!!
 MAP91_e7_p1_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
 MAP91_e7_p1_3	　　　　　　　　…と、ウィンは思った	...Win thought to himself.
 MAP91_e7_p2_2	　　　　ハヤテを使えば目的地にすぐに行けるな	If we use Hayate, we'll reach our destination in no time.
@@ -8441,15 +8441,15 @@ MAP92_e15_p1_2	…ックーン！	...Yip!
 MAP92_e15_p1_5	よしよし、ちゃんとメシもらってるみたいだな！	There, there, looks like you're being fed well!
 MAP92_e15_p2_2	クッーン！ッっクーン！	Yip! Yip!
 MAP92_e15_p2_5	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
-MAP92_e15_p3_13	…ナイフ？	
-MAP92_e15_p3_14	オマエ、一体どっからこんなモンを…？？	
-MAP92_e15_p3_17	まあいいや、コレはオレがもらっとくぜ！	
-MAP92_e15_p3_2	フッーン！ッっフーン！	
-MAP92_e15_p3_20	クーンックー！	
-MAP92_e15_p3_23	　　　　ホノオはマンゴーシュを手に入れた！	
-MAP92_e15_p3_5	しかし変な鳴き声の犬…	
-MAP92_e15_p3_6	って、オマエなんでそんなモン咥えてんだ！？	
-MAP92_e15_p3_9	　　　　　　ホノオは犬からそれを奪い取った！	
+MAP92_e15_p3_13	…ナイフ？	...A knife?
+MAP92_e15_p3_14	オマエ、一体どっからこんなモンを…？？	You, where on earth did you get something like this...??
+MAP92_e15_p3_17	まあいいや、コレはオレがもらっとくぜ！	Whatever, I'll be taking this!
+MAP92_e15_p3_2	フッーン！ッっフーン！	Hmph! Hmph!
+MAP92_e15_p3_20	クーンックー！	Yip yip!
+MAP92_e15_p3_23	　　　　ホノオはマンゴーシュを手に入れた！	Hono obtained a Main Gauche!
+MAP92_e15_p3_5	しかし変な鳴き声の犬…	But what a weird bark for a dog...
+MAP92_e15_p3_6	って、オマエなんでそんなモン咥えてんだ！？	Hey, why are you carrying something like that in your mouth!?
+MAP92_e15_p3_9	　　　　　　ホノオは犬からそれを奪い取った！	Hono snatched it from the dog!
 MAP92_e15_p4_2	クッーン！ッっクーン！	Yip! Yip!
 MAP92_e15_p4_5	しかし変な鳴き声の犬だぜ…	What a weird bark for a dog...
 MAP92_e1_p0_2	本来次期国王は、紋章を継承したあとにすぐ	Normally, the next king must, right after inheriting the crest,
@@ -8488,7 +8488,7 @@ MAP92_e6_p0_11	帰ったぜ！　親父！！
 MAP92_e6_p0_110	…んなこと言われてもな…	
 MAP92_e6_p0_113	だからよ…　悪いとは思うんだが…	
 MAP92_e6_p0_114	あんた、結構長いこと、継承者のままだぜ！！	
-MAP92_e6_p0_117	………ッ	
+MAP92_e6_p0_117	………ッ	......Hmph
 MAP92_e6_p0_120	ピピン殿…　どうかホノオに世継ぎが誕生し…	
 MAP92_e6_p0_121	育つまで、火の紋章をお預かりいただきたい。	
 MAP92_e6_p0_124	困るんだがな…。	
@@ -8608,7 +8608,7 @@ MAP93_e10_p0_220	おいおい…心配するなよ…
 MAP93_e10_p0_221	俺を誰だと思ってるんだ？	
 MAP93_e10_p0_227	じゃあな、ウィン。	
 MAP93_e10_p0_239	どこへ行くつもりだ、騎士ピピン？	
-MAP93_e10_p0_247	…なんだって？	
+MAP93_e10_p0_247	…なんだって？	...What did you say?
 MAP93_e10_p0_250	話は終わっていない…	
 MAP93_e10_p0_251	これは、お前の始めた話だ。	
 MAP93_e10_p0_254	戦士である継承者と…頭脳を使う騎士団長は、	
@@ -8763,7 +8763,7 @@ MAP93_e10_p1_220	おいおい…心配するなよ…
 MAP93_e10_p1_221	俺を誰だと思ってるんだ？	
 MAP93_e10_p1_227	じゃあな、ウィン。	
 MAP93_e10_p1_239	どこへ行くつもりだ、騎士ピピン？	
-MAP93_e10_p1_247	…なんだって？	
+MAP93_e10_p1_247	…なんだって？	...What did you say?
 MAP93_e10_p1_250	話は終わっていない…	
 MAP93_e10_p1_251	これは、お前の始めた話だ。	
 MAP93_e10_p1_254	戦士である継承者と…頭脳を使う騎士団長は、	
@@ -9074,7 +9074,7 @@ MAP101_e7_p0_56	………本当だ。
 MAP101_e7_p0_57	…龍じゃなくてひとがいる？	
 MAP101_e7_p0_58	龍が話す？そうだとしても、誰と…？	
 MAP101_e7_p0_6	そうだろうな。	
-MAP101_e7_p0_61	あっ！！	
+MAP101_e7_p0_61	あっ！！	Ah!!
 MAP101_e7_p0_64	おわーーーっ！？	
 MAP101_e7_p0_65	お、おちるーーーー！！！！	
 MAP101_e7_p0_7	他にそれらしい穴はなかった…	
@@ -9083,16 +9083,16 @@ MAP101_e8_p0_2	穴が見えてきた…
 MAP101_e8_p0_3	きっとあれに落ちたら龍がいる…。	
 MAP101_e8_p0_4	みんな、気を引き締めた方がいい。	
 MAP101_e9_p0_10	にっかり青江を手に入れた！	
-MAP102_e10_p1_11	「誰だっオマエは！？	
+MAP102_e10_p1_11	「誰だっオマエは！？	"""Who the heck are you!?"""
 MAP102_e10_p1_13	「うるさい！！問答無用だああああああ	
 MAP102_e10_p1_15	バンデッド	Bandit
 MAP102_e10_p1_16	「いまの俺なら、もうお前たちには負けん！！	
 MAP102_e10_p1_17	　かかってこい！！！	
 MAP102_e10_p1_2	バンデッド	Bandit
 MAP102_e10_p1_22	バンデッド	Bandit
-MAP102_e10_p1_23	「いいか…　終わりじゃない…	
-MAP102_e10_p1_24	　俺は何度でも蘇って…お前らの前に現れる！	
-MAP102_e10_p1_25	　何度でもだ…　　　　　ぐはあッ！！！！	
+MAP102_e10_p1_23	「いいか…　終わりじゃない…	"""Listen... this isn't the end..."
+MAP102_e10_p1_24	　俺は何度でも蘇って…お前らの前に現れる！	 I'll be reborn again and again... and appear before you!
+MAP102_e10_p1_25	　何度でもだ…　　　　　ぐはあッ！！！！	 Again and again... GWAH!!!!
 MAP102_e10_p1_3	「待っていたぞ！！	
 MAP102_e10_p1_4	　俺は何度でも蘇る！！	
 MAP102_e10_p1_8	「だ、誰だ…！？	"""Wh-Who are you...!?"""
