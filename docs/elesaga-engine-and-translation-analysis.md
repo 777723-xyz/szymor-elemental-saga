@@ -105,3 +105,13 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
 ### Known quirks / leftovers
 - Choice branches (code 402) are matched by **index** (`params[0]`), not by text.
 - `docs/text/plugin.tsv` (lowercase) is a stale leftover from an earlier run; ignore it.
+
+### Baked-in image text audit (OCR-verified, 2026-08-11)
+- `img/titles1/CrossedSwords.png`, `img/titles2/Medieval.png`: no text — the title
+  string is drawn at runtime from `System.json` `gameTitle`, so it is translated
+  by the pipeline (row `SYS_gameTitle`).
+- `img/system/GameOver.png` ("GAME OVER") and `MadeWithMv.png` ("Powered by MV"):
+  already English.
+- No Japanese image assets need manual retouching.
+- Optional manual text: `www/ridomi.txt` / root `02_ReadMe.txt` (Japanese
+  distribution readmes) and the NW.js credits page (`credits/credits_nw.html`).
