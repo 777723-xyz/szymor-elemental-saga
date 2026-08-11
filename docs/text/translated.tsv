@@ -3257,7 +3257,7 @@ MAP33_e8_p0_8	Map033.json	0	dialogue	王は今回の試練を見送るつもり�
 MAP33_e8_p1_1	Map033.json	0	dialogue	フレイム王国大臣リマル：	Rimal, Minister of the Flame Kingdom:
 MAP33_e8_p1_10	Map033.json	0	dialogue	王子、必ず生きてお帰り下さい。	Prince, please come back alive, I beg you.
 MAP33_e8_p1_12	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e8_p1_13	Map033.json	0	dialogue	お、おい…急になんかそういうの、よそうよ…	
+MAP33_e8_p1_13	Map033.json	0	dialogue	お、おい…急になんかそういうの、よそうよ…	H-Hey... let's not suddenly get all... you know...
 MAP33_e8_p1_14	Map033.json	0	dialogue	ちょっと、キツイ…	It's a bit much...
 MAP33_e8_p1_2	Map033.json	0	dialogue	ホノオ王子、行かれるのですな。	Prince Hono, so you're leaving.
 MAP33_e8_p1_4	Map033.json	0	dialogue	ホノオ：	Hono:
@@ -3942,7 +3942,7 @@ MAP44_e3_p0_10	Map044.json	0	dialogue	はい、ありがとさん。	Yes, thank 
 MAP44_e3_p0_11	Map044.json	0	dialogue	またおいでー	Come again~
 MAP44_e3_p0_2	Map044.json	0	dialogue	え、客？	Huh, a customer?
 MAP44_e3_p0_3	Map044.json	0	dialogue	びっくりしたー　え？	You startled me— huh?
-MAP44_e3_p0_4	Map044.json	0	dialogue	大丈夫、ここ道具屋。	
+MAP44_e3_p0_4	Map044.json	0	dialogue	大丈夫、ここ道具屋。	No worries, this is the item shop.
 MAP44_e3_p0_9	Map044.json	0	dialogue	道具屋ソナリ：	Sonari, Item Shop Owner:
 MAP44_e3_p1_1	Map044.json	0	dialogue	道具屋ソナリ：	Sonari, Item Shop Owner:
 MAP44_e3_p1_11	Map044.json	0	dialogue	道具屋ソナリ：	Sonari, Item Shop Owner:
@@ -3950,7 +3950,7 @@ MAP44_e3_p1_12	Map044.json	0	dialogue	はい、ありがとさん。	Yes, thank 
 MAP44_e3_p1_13	Map044.json	0	dialogue	またおいでー	Come again~
 MAP44_e3_p1_2	Map044.json	0	dialogue	え、客？	Huh, a customer?
 MAP44_e3_p1_3	Map044.json	0	dialogue	びっくりしたー　え？	You startled me— huh?
-MAP44_e3_p1_4	Map044.json	0	dialogue	大丈夫、ここ道具屋。	
+MAP44_e3_p1_4	Map044.json	0	dialogue	大丈夫、ここ道具屋。	No worries, this is the item shop.
 MAP44_e4_p0_1	Map044.json	0	dialogue	フレイムの民アザエ：	Azai, Flame Citizen:
 MAP44_e4_p0_2	Map044.json	0	dialogue	うむう　ゴミしか売ってないなあ…	
 MAP44_e5_p0_1	Map044.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -3992,14 +3992,14 @@ MAP45_e9_p1_3	Map045.json	0	dialogue	これも偵察！　カレーうめええ�
 MAP45_e9_p1_4	Map045.json	0	dialogue	もっと情報を集めないと！！！！！	
 MAP46_e3_p0_1	Map046.json	0	dialogue	武器屋クマル：	Kumar, Weapon Shop Owner:
 MAP46_e3_p0_13	Map046.json	0	dialogue	武器屋クマル：	Kumar, Weapon Shop Owner:
-MAP46_e3_p0_14	Map046.json	0	dialogue	ちゃんと手入れをしろよ…。	
-MAP46_e3_p0_15	Map046.json	0	dialogue	いい武器は一生物だ…。	
-MAP46_e3_p0_2	Map046.json	0	dialogue	…客か。	
+MAP46_e3_p0_14	Map046.json	0	dialogue	ちゃんと手入れをしろよ…。	Take good care of it...
+MAP46_e3_p0_15	Map046.json	0	dialogue	いい武器は一生物だ…。	A good weapon lasts a lifetime...
+MAP46_e3_p0_2	Map046.json	0	dialogue	…客か。	...A customer.
 MAP46_e3_p1_1	Map046.json	0	dialogue	武器屋クマル：	Kumar, Weapon Shop Owner:
 MAP46_e3_p1_13	Map046.json	0	dialogue	武器屋クマル：	Kumar, Weapon Shop Owner:
-MAP46_e3_p1_14	Map046.json	0	dialogue	ちゃんと手入れをしろよ…。	
-MAP46_e3_p1_15	Map046.json	0	dialogue	いい武器は一生物だ…。	
-MAP46_e3_p1_2	Map046.json	0	dialogue	…客か。	
+MAP46_e3_p1_14	Map046.json	0	dialogue	ちゃんと手入れをしろよ…。	Take good care of it...
+MAP46_e3_p1_15	Map046.json	0	dialogue	いい武器は一生物だ…。	A good weapon lasts a lifetime...
+MAP46_e3_p1_2	Map046.json	0	dialogue	…客か。	...A customer.
 MAP47_e4_p0_1	Map047.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP47_e5_p0_1	Map047.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP47_e6_p0_1	Map047.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -4020,11 +4020,11 @@ MAP47_e8_p0_6	Map047.json	1	dialogue	ここ数十年は発見されたことが�
 MAP47_e8_p0_7	Map047.json	1	dialogue	昔のセイリューで稀に発掘されることがあったと伝わる、	
 MAP47_e8_p0_8	Map047.json	1	dialogue	透き通った青い宝石、龍の涙。	
 MAP47_e9_p0_1	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p0_2	Map047.json	0	dialogue	お前さん…　龍の涙を持っていたりしないか？	
+MAP47_e9_p0_2	Map047.json	0	dialogue	お前さん…　龍の涙を持っていたりしないか？	You there... you wouldn't happen to have a Dragon's Tear?
 MAP47_e9_p0_4	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p0_5	Map047.json	0	dialogue	ほとんど伝説上の宝石じゃ…	
-MAP47_e9_p0_6	Map047.json	0	dialogue	もし本物を持ってきてくれたら…	
-MAP47_e9_p0_7	Map047.json	0	dialogue	わしの秘蔵する、ある奇書と交換してもよい…	
+MAP47_e9_p0_5	Map047.json	0	dialogue	ほとんど伝説上の宝石じゃ…	It's practically a legendary gem...
+MAP47_e9_p0_6	Map047.json	0	dialogue	もし本物を持ってきてくれたら…	If you bring me a real one...
+MAP47_e9_p0_7	Map047.json	0	dialogue	わしの秘蔵する、ある奇書と交換してもよい…	I might trade it for a certain rare tome I keep hidden...
 MAP47_e9_p1_1	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p1_11	Map047.json	1	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p1_12	Map047.json	1	dialogue	おお…なんと美しい…！	
@@ -4035,154 +4035,154 @@ MAP47_e9_p1_17	Map047.json	1	dialogue	わしの秘蔵する最も貴重な本…
 MAP47_e9_p1_18	Map047.json	1	dialogue	内容の危険さゆえ誰にも見せたことのないものだ	
 MAP47_e9_p1_19_c0	Map047.json	choice	choice	いいですよ	Sure
 MAP47_e9_p1_19_c1	Map047.json	choice	choice	お断りします	I'll decline
-MAP47_e9_p1_2	Map047.json	0	dialogue	お前さん…　龍の涙を持っていたりしないか？	
+MAP47_e9_p1_2	Map047.json	0	dialogue	お前さん…　龍の涙を持っていたりしないか？	You there... you wouldn't happen to have a Dragon's Tear?
 MAP47_e9_p1_22	Map047.json	2	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p1_23	Map047.json	2	dialogue	ありがたい！では、これが例の奇書だ…	
 MAP47_e9_p1_26	Map047.json	2	dialogue	　　　　　　　　ウィンは奇書を手に入れた	
 MAP47_e9_p1_28	Map047.json	2	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p1_29	Map047.json	2	dialogue	だが、信用できる者にしか、その本を	
-MAP47_e9_p1_30	Map047.json	2	dialogue	渡さない方がよいぞ…	
+MAP47_e9_p1_29	Map047.json	2	dialogue	だが、信用できる者にしか、その本を	But it'd be best to hand that book only
+MAP47_e9_p1_30	Map047.json	2	dialogue	渡さない方がよいぞ…	to someone you can trust...
 MAP47_e9_p1_37	Map047.json	2	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p1_38	Map047.json	2	dialogue	そ、そうか…	
 MAP47_e9_p1_39	Map047.json	2	dialogue	しかし、お前さんが必要なくとも、本の好きな	
 MAP47_e9_p1_4	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
 MAP47_e9_p1_40	Map047.json	2	dialogue	人間であれば絶対に欲しがるものだからな…	
-MAP47_e9_p1_5	Map047.json	0	dialogue	ほとんど伝説上の宝石じゃ…	
-MAP47_e9_p1_6	Map047.json	0	dialogue	もし本物を持ってきてくれたら…	
-MAP47_e9_p1_7	Map047.json	0	dialogue	わしの秘蔵する、ある奇書と交換してもよい…	
+MAP47_e9_p1_5	Map047.json	0	dialogue	ほとんど伝説上の宝石じゃ…	It's practically a legendary gem...
+MAP47_e9_p1_6	Map047.json	0	dialogue	もし本物を持ってきてくれたら…	If you bring me a real one...
+MAP47_e9_p1_7	Map047.json	0	dialogue	わしの秘蔵する、ある奇書と交換してもよい…	I might trade it for a certain rare tome I keep hidden...
 MAP47_e9_p1_8_c0	Map047.json	choice	choice	持ってます	I have it
 MAP47_e9_p1_8_c1	Map047.json	choice	choice	持ってません	I don't have it
 MAP47_e9_p2_1	Map047.json	0	dialogue	古書収集家ガダ：	Gada, Antiquarian:
-MAP47_e9_p2_2	Map047.json	0	dialogue	だが、信用できる者にしか、その本を	
-MAP47_e9_p2_3	Map047.json	0	dialogue	渡さない方がよいぞ…	
+MAP47_e9_p2_2	Map047.json	0	dialogue	だが、信用できる者にしか、その本を	But it'd be best to hand that book only
+MAP47_e9_p2_3	Map047.json	0	dialogue	渡さない方がよいぞ…	to someone you can trust...
 MAP49_e10_p0_11	Map049.json	0	dialogue	　　　　　　　　　1000\\G 手に入れた！	
 MAP49_e11_p0_11	Map049.json	0	dialogue	　　　　　シャムシール（良質）を手に入れた！	
 MAP49_e2_p0_10	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、	
-MAP49_e2_p0_110	Map049.json	1	dialogue	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	
-MAP49_e2_p0_113	Map049.json	1	dialogue	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	
+MAP49_e2_p0_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、	Ah, things like 'so that's about all the power you've got,'
+MAP49_e2_p0_110	Map049.json	1	dialogue	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	Win learned the Hayate and Kamaitachi spells!
+MAP49_e2_p0_113	Map049.json	1	dialogue	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	Hono learned the Explosion and Warrior spells!
 MAP49_e2_p0_115	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_116	Map049.json	1	dialogue	な、なんだ！？	
-MAP49_e2_p0_117	Map049.json	1	dialogue	紋章が光り出して…何か魔法をおぼえた！！	
-MAP49_e2_p0_119	Map049.json	1	dialogue	勝てるんじゃないか…コレなら…	
-MAP49_e2_p0_12	Map049.json	0	dialogue	なんかそういうことを言っている顔だな…	
-MAP49_e2_p0_120	Map049.json	1	dialogue	何だかさっきまでのオレとは違う感じだぜ！	
-MAP49_e2_p0_123	Map049.json	1	dialogue	…我は闇の四天王のナウ―…	
-MAP49_e2_p0_124	Map049.json	1	dialogue	紋章の勇者たちよ…　その力見せてみよ…	
+MAP49_e2_p0_116	Map049.json	1	dialogue	な、なんだ！？	Wh-What!?
+MAP49_e2_p0_117	Map049.json	1	dialogue	紋章が光り出して…何か魔法をおぼえた！！	The crest started glowing... and I learned a spell!!
+MAP49_e2_p0_119	Map049.json	1	dialogue	勝てるんじゃないか…コレなら…	With this... maybe I can win...
+MAP49_e2_p0_12	Map049.json	0	dialogue	なんかそういうことを言っている顔だな…	You've got that look on your face...
+MAP49_e2_p0_120	Map049.json	1	dialogue	何だかさっきまでのオレとは違う感じだぜ！	I feel different from the me of a moment ago!
+MAP49_e2_p0_123	Map049.json	1	dialogue	…我は闇の四天王のナウ―…	...I am Nau, one of the Four Dark Generals...
+MAP49_e2_p0_124	Map049.json	1	dialogue	紋章の勇者たちよ…　その力見せてみよ…	Heroes of the crests... show me your power...
 MAP49_e2_p0_127	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_128	Map049.json	1	dialogue	しゃ…しゃべったーーーーーーーーーーー！！	
+MAP49_e2_p0_128	Map049.json	1	dialogue	しゃ…しゃべったーーーーーーーーーーー！！	It... it talked—!!
 MAP49_e2_p0_142	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_143	Map049.json	1	dialogue	勝ったぜー！！	
+MAP49_e2_p0_143	Map049.json	1	dialogue	勝ったぜー！！	I won!!
 MAP49_e2_p0_145	Map049.json	1	dialogue	ナウ―：	Nau:
 MAP49_e2_p0_148	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_149	Map049.json	1	dialogue	…ピンピンしてない？	
+MAP49_e2_p0_149	Map049.json	1	dialogue	…ピンピンしてない？	...You're still kicking, huh?
 MAP49_e2_p0_151	Map049.json	1	dialogue	ナウ―：	Nau:
 MAP49_e2_p0_154	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_155	Map049.json	1	dialogue	…で、どうなんだろ、試練の方は…	
-MAP49_e2_p0_156	Map049.json	1	dialogue	やっぱり不合格か？	
+MAP49_e2_p0_155	Map049.json	1	dialogue	…で、どうなんだろ、試練の方は…	...So, how's the trial going, anyway...
+MAP49_e2_p0_156	Map049.json	1	dialogue	やっぱり不合格か？	Did you fail after all?
 MAP49_e2_p0_158	Map049.json	1	dialogue	ナウ―：	Nau:
-MAP49_e2_p0_159	Map049.json	1	dialogue	…………試練は	
+MAP49_e2_p0_159	Map049.json	1	dialogue	…………試練は	............The trial
 MAP49_e2_p0_161	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_162	Map049.json	1	dialogue	（また喋った…）	
+MAP49_e2_p0_162	Map049.json	1	dialogue	（また喋った…）	(It talked again...)
 MAP49_e2_p0_164	Map049.json	1	dialogue	ナウ―：	Nau:
-MAP49_e2_p0_165	Map049.json	1	dialogue	…………我は試練、関係ない	
+MAP49_e2_p0_165	Map049.json	1	dialogue	…………我は試練、関係ない	............The trial, I care not for it
 MAP49_e2_p0_167	Map049.json	1	dialogue	ホノオ：	Hono:
 MAP49_e2_p0_168	Map049.json	1	dialogue	………えっ？	......Huh?
 MAP49_e2_p0_17	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e2_p0_170	Map049.json	1	dialogue	ナウ―：	Nau:
-MAP49_e2_p0_171	Map049.json	1	dialogue	…………試練は、我の後ろに	
-MAP49_e2_p0_18	Map049.json	0	dialogue	わかってるって…　オレは絶対にこの試練を	
-MAP49_e2_p0_19	Map049.json	0	dialogue	乗り越えないといけないんだ…	
-MAP49_e2_p0_20	Map049.json	0	dialogue	まだまだ諦めねえぜ…！！	
-MAP49_e2_p0_23	Map049.json	0	dialogue	……………………（汗	
+MAP49_e2_p0_171	Map049.json	1	dialogue	…………試練は、我の後ろに	............The trial lies behind me
+MAP49_e2_p0_18	Map049.json	0	dialogue	わかってるって…　オレは絶対にこの試練を	I know, I know... I absolutely have to
+MAP49_e2_p0_19	Map049.json	0	dialogue	乗り越えないといけないんだ…	overcome this trial...
+MAP49_e2_p0_20	Map049.json	0	dialogue	まだまだ諦めねえぜ…！！	I'm not giving up yet...!!
+MAP49_e2_p0_23	Map049.json	0	dialogue	……………………（汗	............(sweat)
 MAP49_e2_p0_32	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_33	Map049.json	1	dialogue	……と、言う夢を見た。	
+MAP49_e2_p0_33	Map049.json	1	dialogue	……と、言う夢を見た。	...And that's the dream he had.
 MAP49_e2_p0_4	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e2_p0_42	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_43	Map049.json	1	dialogue	ぜえ…ぜえ…	
-MAP49_e2_p0_44	Map049.json	1	dialogue	コレ絶対に無理だ…　オレは勝てない…	
-MAP49_e2_p0_47	Map049.json	1	dialogue	………（ホノオの背後を指差す	
+MAP49_e2_p0_43	Map049.json	1	dialogue	ぜえ…ぜえ…	Hah... hah...
+MAP49_e2_p0_44	Map049.json	1	dialogue	コレ絶対に無理だ…　オレは勝てない…	This is absolutely impossible... I can't win...
+MAP49_e2_p0_47	Map049.json	1	dialogue	………（ホノオの背後を指差す	.........(He points behind Hono)
 MAP49_e2_p0_49	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_5	Map049.json	0	dialogue	くそーーー　つえーーー！！	
-MAP49_e2_p0_50	Map049.json	1	dialogue	え？	
-MAP49_e2_p0_51	Map049.json	1	dialogue	うしろ…？	
+MAP49_e2_p0_5	Map049.json	0	dialogue	くそーーー　つえーーー！！	Damn— so strong—!!
+MAP49_e2_p0_50	Map049.json	1	dialogue	え？	Huh?
+MAP49_e2_p0_51	Map049.json	1	dialogue	うしろ…？	Behind...?
 MAP49_e2_p0_65	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_66	Map049.json	1	dialogue	ん？　お前誰だ？	
-MAP49_e2_p0_67	Map049.json	1	dialogue	城の奴らが連れ戻しに来させたのか？	
+MAP49_e2_p0_66	Map049.json	1	dialogue	ん？　お前誰だ？	Hm? Who are you?
+MAP49_e2_p0_67	Map049.json	1	dialogue	城の奴らが連れ戻しに来させたのか？	Did the castle folks send you to bring me back?
 MAP49_e2_p0_70	Map049.json	1	dialogue	　　　　　　　　　　ウィンは頷いた	Win nodded
 MAP49_e2_p0_72	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_73	Map049.json	1	dialogue	ったく…　まあ、でも…	
-MAP49_e2_p0_74	Map049.json	1	dialogue	オレぜんぜん試練越えられなかったからなあ。	
-MAP49_e2_p0_76	Map049.json	1	dialogue	このまま帰るのなんて、ダセえけど…	
-MAP49_e2_p0_77	Map049.json	1	dialogue	仕方ないか。	
-MAP49_e2_p0_78	Map049.json	1	dialogue	よし、じゃあかえ…	
+MAP49_e2_p0_73	Map049.json	1	dialogue	ったく…　まあ、でも…	Jeez... well, but...
+MAP49_e2_p0_74	Map049.json	1	dialogue	オレぜんぜん試練越えられなかったからなあ。	I couldn't get past the trial at all, you know.
+MAP49_e2_p0_76	Map049.json	1	dialogue	このまま帰るのなんて、ダセえけど…	Going back like this is lame, but...
+MAP49_e2_p0_77	Map049.json	1	dialogue	仕方ないか。	Guess it can't be helped.
+MAP49_e2_p0_78	Map049.json	1	dialogue	よし、じゃあかえ…	Alright, let's head ba—
 MAP49_e2_p0_89	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p0_90	Map049.json	1	dialogue	うわあ！なんだ、おい！？	
-MAP49_e2_p0_91	Map049.json	1	dialogue	まだやるのかよ！？	
-MAP49_e2_p0_92	Map049.json	1	dialogue	オレは試練あきらめて…	
+MAP49_e2_p0_90	Map049.json	1	dialogue	うわあ！なんだ、おい！？	Whoa! What the—!?
+MAP49_e2_p0_91	Map049.json	1	dialogue	まだやるのかよ！？	Are you seriously still going!?
+MAP49_e2_p0_92	Map049.json	1	dialogue	オレは試練あきらめて…	I've given up on the trial...
 MAP49_e2_p1_10	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、	
-MAP49_e2_p1_112	Map049.json	1	dialogue	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	
-MAP49_e2_p1_115	Map049.json	1	dialogue	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	
+MAP49_e2_p1_11	Map049.json	0	dialogue	あー、多分、お前の力はそんなものかとか、	Ah, things like 'so that's about all the power you've got,'
+MAP49_e2_p1_112	Map049.json	1	dialogue	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	Win learned the Hayate and Kamaitachi spells!
+MAP49_e2_p1_115	Map049.json	1	dialogue	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	Hono learned the Explosion and Warrior spells!
 MAP49_e2_p1_117	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_118	Map049.json	1	dialogue	な、なんだ！？	
-MAP49_e2_p1_119	Map049.json	1	dialogue	紋章が光り出して…何か魔法をおぼえた！！	
-MAP49_e2_p1_12	Map049.json	0	dialogue	なんかそういうことを言っている顔だな…	
-MAP49_e2_p1_121	Map049.json	1	dialogue	勝てるんじゃないか…コレなら…	
-MAP49_e2_p1_122	Map049.json	1	dialogue	何だかさっきまでのオレとは違う感じだぜ！	
-MAP49_e2_p1_125	Map049.json	1	dialogue	…我は闇の四天王のナウ―…	
-MAP49_e2_p1_126	Map049.json	1	dialogue	紋章の勇者たちよ…　その力見せてみよ…	
+MAP49_e2_p1_118	Map049.json	1	dialogue	な、なんだ！？	Wh-What!?
+MAP49_e2_p1_119	Map049.json	1	dialogue	紋章が光り出して…何か魔法をおぼえた！！	The crest started glowing... and I learned a spell!!
+MAP49_e2_p1_12	Map049.json	0	dialogue	なんかそういうことを言っている顔だな…	You've got that look on your face...
+MAP49_e2_p1_121	Map049.json	1	dialogue	勝てるんじゃないか…コレなら…	With this... maybe I can win...
+MAP49_e2_p1_122	Map049.json	1	dialogue	何だかさっきまでのオレとは違う感じだぜ！	I feel different from the me of a moment ago!
+MAP49_e2_p1_125	Map049.json	1	dialogue	…我は闇の四天王のナウ―…	...I am Nau, one of the Four Dark Generals...
+MAP49_e2_p1_126	Map049.json	1	dialogue	紋章の勇者たちよ…　その力見せてみよ…	Heroes of the crests... show me your power...
 MAP49_e2_p1_129	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_130	Map049.json	1	dialogue	しゃ…しゃべったーーーーーーーーーーー！！	
+MAP49_e2_p1_130	Map049.json	1	dialogue	しゃ…しゃべったーーーーーーーーーーー！！	It... it talked—!!
 MAP49_e2_p1_144	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_145	Map049.json	1	dialogue	勝ったぜー！！	
+MAP49_e2_p1_145	Map049.json	1	dialogue	勝ったぜー！！	I won!!
 MAP49_e2_p1_147	Map049.json	1	dialogue	ナウ―：	Nau:
 MAP49_e2_p1_150	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_151	Map049.json	1	dialogue	…ピンピンしてない？	
+MAP49_e2_p1_151	Map049.json	1	dialogue	…ピンピンしてない？	...You're still kicking, huh?
 MAP49_e2_p1_153	Map049.json	1	dialogue	ナウ―：	Nau:
 MAP49_e2_p1_156	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_157	Map049.json	1	dialogue	…で、どうなんだろ、試練の方は…	
-MAP49_e2_p1_158	Map049.json	1	dialogue	やっぱり不合格か？	
+MAP49_e2_p1_157	Map049.json	1	dialogue	…で、どうなんだろ、試練の方は…	...So, how's the trial going, anyway...
+MAP49_e2_p1_158	Map049.json	1	dialogue	やっぱり不合格か？	Did you fail after all?
 MAP49_e2_p1_160	Map049.json	1	dialogue	ナウ―：	Nau:
-MAP49_e2_p1_161	Map049.json	1	dialogue	…………試練は	
+MAP49_e2_p1_161	Map049.json	1	dialogue	…………試練は	............The trial
 MAP49_e2_p1_163	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_164	Map049.json	1	dialogue	（また喋った…）	
+MAP49_e2_p1_164	Map049.json	1	dialogue	（また喋った…）	(It talked again...)
 MAP49_e2_p1_166	Map049.json	1	dialogue	ナウ―：	Nau:
-MAP49_e2_p1_167	Map049.json	1	dialogue	…………我は試練、関係ない	
+MAP49_e2_p1_167	Map049.json	1	dialogue	…………我は試練、関係ない	............The trial, I care not for it
 MAP49_e2_p1_169	Map049.json	1	dialogue	ホノオ：	Hono:
 MAP49_e2_p1_17	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e2_p1_170	Map049.json	1	dialogue	………えっ？	......Huh?
 MAP49_e2_p1_172	Map049.json	1	dialogue	ナウ―：	Nau:
-MAP49_e2_p1_173	Map049.json	1	dialogue	…………試練は、我の後ろに	
-MAP49_e2_p1_18	Map049.json	0	dialogue	わかってるって…　オレは絶対にこの試練を	
-MAP49_e2_p1_19	Map049.json	0	dialogue	乗り越えないといけないんだ…	
-MAP49_e2_p1_20	Map049.json	0	dialogue	まだまだ諦めねえぜ…！！	
-MAP49_e2_p1_23	Map049.json	0	dialogue	……………………（汗	
+MAP49_e2_p1_173	Map049.json	1	dialogue	…………試練は、我の後ろに	............The trial lies behind me
+MAP49_e2_p1_18	Map049.json	0	dialogue	わかってるって…　オレは絶対にこの試練を	I know, I know... I absolutely have to
+MAP49_e2_p1_19	Map049.json	0	dialogue	乗り越えないといけないんだ…	overcome this trial...
+MAP49_e2_p1_20	Map049.json	0	dialogue	まだまだ諦めねえぜ…！！	I'm not giving up yet...!!
+MAP49_e2_p1_23	Map049.json	0	dialogue	……………………（汗	............(sweat)
 MAP49_e2_p1_34	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_35	Map049.json	1	dialogue	……と、言う夢を見た。	
+MAP49_e2_p1_35	Map049.json	1	dialogue	……と、言う夢を見た。	...And that's the dream he had.
 MAP49_e2_p1_4	Map049.json	0	dialogue	ホノオ：	Hono:
 MAP49_e2_p1_44	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_45	Map049.json	1	dialogue	ぜえ…ぜえ…	
-MAP49_e2_p1_46	Map049.json	1	dialogue	コレ絶対に無理だ…　オレは勝てない…	
-MAP49_e2_p1_49	Map049.json	1	dialogue	………（ホノオの背後を指差す	
-MAP49_e2_p1_5	Map049.json	0	dialogue	くそーーー　つえーーー！！	
+MAP49_e2_p1_45	Map049.json	1	dialogue	ぜえ…ぜえ…	Hah... hah...
+MAP49_e2_p1_46	Map049.json	1	dialogue	コレ絶対に無理だ…　オレは勝てない…	This is absolutely impossible... I can't win...
+MAP49_e2_p1_49	Map049.json	1	dialogue	………（ホノオの背後を指差す	.........(He points behind Hono)
+MAP49_e2_p1_5	Map049.json	0	dialogue	くそーーー　つえーーー！！	Damn— so strong—!!
 MAP49_e2_p1_51	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_52	Map049.json	1	dialogue	え？	
-MAP49_e2_p1_53	Map049.json	1	dialogue	うしろ…？	
+MAP49_e2_p1_52	Map049.json	1	dialogue	え？	Huh?
+MAP49_e2_p1_53	Map049.json	1	dialogue	うしろ…？	Behind...?
 MAP49_e2_p1_67	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_68	Map049.json	1	dialogue	ん？　お前誰だ？	
-MAP49_e2_p1_69	Map049.json	1	dialogue	城の奴らが連れ戻しに来させたのか？	
+MAP49_e2_p1_68	Map049.json	1	dialogue	ん？　お前誰だ？	Hm? Who are you?
+MAP49_e2_p1_69	Map049.json	1	dialogue	城の奴らが連れ戻しに来させたのか？	Did the castle folks send you to bring me back?
 MAP49_e2_p1_72	Map049.json	1	dialogue	　　　　　　　　　　ウィンは頷いた	Win nodded
 MAP49_e2_p1_74	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_75	Map049.json	1	dialogue	ったく…　まあ、でも…	
-MAP49_e2_p1_76	Map049.json	1	dialogue	オレぜんぜん試練越えられなかったからなあ。	
-MAP49_e2_p1_78	Map049.json	1	dialogue	このまま帰るのなんて、ダセえけど…	
-MAP49_e2_p1_79	Map049.json	1	dialogue	仕方ないか。	
-MAP49_e2_p1_80	Map049.json	1	dialogue	よし、じゃあかえ…	
+MAP49_e2_p1_75	Map049.json	1	dialogue	ったく…　まあ、でも…	Jeez... well, but...
+MAP49_e2_p1_76	Map049.json	1	dialogue	オレぜんぜん試練越えられなかったからなあ。	I couldn't get past the trial at all, you know.
+MAP49_e2_p1_78	Map049.json	1	dialogue	このまま帰るのなんて、ダセえけど…	Going back like this is lame, but...
+MAP49_e2_p1_79	Map049.json	1	dialogue	仕方ないか。	Guess it can't be helped.
+MAP49_e2_p1_80	Map049.json	1	dialogue	よし、じゃあかえ…	Alright, let's head ba—
 MAP49_e2_p1_91	Map049.json	1	dialogue	ホノオ：	Hono:
-MAP49_e2_p1_92	Map049.json	1	dialogue	うわあ！なんだ、おい！？	
-MAP49_e2_p1_93	Map049.json	1	dialogue	まだやるのかよ！？	
-MAP49_e2_p1_94	Map049.json	1	dialogue	オレは試練あきらめて…	
+MAP49_e2_p1_92	Map049.json	1	dialogue	うわあ！なんだ、おい！？	Whoa! What the—!?
+MAP49_e2_p1_93	Map049.json	1	dialogue	まだやるのかよ！？	Are you seriously still going!?
+MAP49_e2_p1_94	Map049.json	1	dialogue	オレは試練あきらめて…	I've given up on the trial...
 MAP49_e2_p2_11	Map049.json	0	dialogue	あいつの後ろとか言ってたな…	
 MAP49_e2_p2_12	Map049.json	0	dialogue	椅子がある…　あれに座るのかな。	
 MAP49_e2_p2_18	Map049.json	0	dialogue	ホノオ：	Hono:
@@ -4586,16 +4586,16 @@ MAP50_e39_p0_1	Map050.json	0	dialogue	北の村のオルジ：	Orji, North Villa
 MAP50_e39_p0_2	Map050.json	0	dialogue	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP50_e39_p0_3	Map050.json	0	dialogue	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP50_e39_p1_1	Map050.json	0	dialogue	北の村のオルジ：	Orji, North Village Man:
-MAP50_e39_p1_10	Map050.json	0	dialogue	任せておいてくれると助かるよ。	
+MAP50_e39_p1_10	Map050.json	0	dialogue	任せておいてくれると助かるよ。	I'd be glad if you left it to me.
 MAP50_e39_p1_12	Map050.json	0	dialogue	ナガレ：	Nagare:
-MAP50_e39_p1_13	Map050.json	0	dialogue	分かった。でも、狩り以外でも何か助けが	
-MAP50_e39_p1_14	Map050.json	0	dialogue	いるなら、気兼ねしないで話してくれよ？	
+MAP50_e39_p1_13	Map050.json	0	dialogue	分かった。でも、狩り以外でも何か助けが	Got it. But if you need help with anything beyond hunting,
+MAP50_e39_p1_14	Map050.json	0	dialogue	いるなら、気兼ねしないで話してくれよ？	don't hesitate to say so, alright?
 MAP50_e39_p1_2	Map050.json	0	dialogue	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP50_e39_p1_3	Map050.json	0	dialogue	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP50_e39_p1_5	Map050.json	0	dialogue	ナガレ：	Nagare:
-MAP50_e39_p1_6	Map050.json	0	dialogue	北の村でもか…。助けはいらないのか？	
+MAP50_e39_p1_6	Map050.json	0	dialogue	北の村でもか…。助けはいらないのか？	In the northern village too...? You don't need help?
 MAP50_e39_p1_8	Map050.json	0	dialogue	北の村のオルジ：	Orji, North Village Man:
-MAP50_e39_p1_9	Map050.json	0	dialogue	ああ、むしろ狩人たちの邪魔になるから、	
+MAP50_e39_p1_9	Map050.json	0	dialogue	ああ、むしろ狩人たちの邪魔になるから、	Nah, in fact we'd just get in the hunters' way, so
 MAP50_e40_p0_2	Map050.json	0	dialogue	　　　　　　上流土砂崩れのため通行禁止中	
 MAP50_e43_p0_1	Map050.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP50_e44_p0_1	Map050.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -4618,10 +4618,10 @@ MAP51_e3_p0_15	Map051.json	3	dialogue	はい、確かに50Gいただきました
 MAP51_e3_p0_16	Map051.json	3	dialogue	では、どうぞごゆるりと…	
 MAP51_e3_p0_2	Map051.json	0	dialogue	長旅だったでしょう。	
 MAP51_e3_p0_24	Map051.json	3	dialogue	またのご利用をお待ちしております。	We look forward to your next visit.
-MAP51_e3_p0_25	Map051.json	3	dialogue	道中どうぞお気をつけて…	
+MAP51_e3_p0_25	Map051.json	3	dialogue	道中どうぞお気をつけて…	please do be careful on the road...
 MAP51_e3_p0_29	Map051.json	3	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
 MAP51_e3_p0_3	Map051.json	0	dialogue	お疲れでしたら、どうぞ私どもの宿を	
-MAP51_e3_p0_30	Map051.json	3	dialogue	お手持ちのお金がたりませんね…	
+MAP51_e3_p0_30	Map051.json	3	dialogue	お手持ちのお金がたりませんね…	You don't have enough money...
 MAP51_e3_p0_4	Map051.json	0	dialogue	ご利用ください。	
 MAP51_e3_p0_5_c0	Map051.json	choice	choice	泊まりたい	I'd like to stay
 MAP51_e3_p0_5_c1	Map051.json	choice	choice	ちょっと寄ってみただけ	Just stopping by
@@ -4638,10 +4638,10 @@ MAP51_e3_p1_19	Map051.json	3	dialogue	世界は終わりなんだろう？
 MAP51_e3_p1_2	Map051.json	0	dialogue	あら、ナガレ！久し振り！	
 MAP51_e3_p1_20	Map051.json	3	dialogue	お金なんかいらないよ！	
 MAP51_e3_p1_28	Map051.json	3	dialogue	またのご利用をお待ちしております。	We look forward to your next visit.
-MAP51_e3_p1_29	Map051.json	3	dialogue	道中どうぞお気をつけて…	
+MAP51_e3_p1_29	Map051.json	3	dialogue	道中どうぞお気をつけて…	please do be careful on the road...
 MAP51_e3_p1_3	Map051.json	0	dialogue	皆さん、お疲れでしょう。	
 MAP51_e3_p1_33	Map051.json	3	dialogue	宿屋の女将オジリ：	Ojiri, Innkeeper's Wife:
-MAP51_e3_p1_34	Map051.json	3	dialogue	お手持ちのお金がたりませんね…	
+MAP51_e3_p1_34	Map051.json	3	dialogue	お手持ちのお金がたりませんね…	You don't have enough money...
 MAP51_e3_p1_4	Map051.json	0	dialogue	どうぞ休んでかれてくださいな。	
 MAP51_e3_p1_5_c0	Map051.json	choice	choice	泊まりたい	I'd like to stay
 MAP51_e3_p1_5_c1	Map051.json	choice	choice	ちょっと寄ってみただけ	Just stopping by
@@ -4674,11 +4674,11 @@ MAP52_e20_p0_1	Map052.json	0	dialogue	持ち出して役に立つようなもの
 MAP52_e21_p0_1	Map052.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP52_e22_p0_1	Map052.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP52_e8_p0_1	Map052.json	0	dialogue	採石場のヤルモリ：	Yarmori, Quarry Worker:
-MAP52_e8_p0_2	Map052.json	0	dialogue	セイリューに行きたい？	
-MAP52_e8_p0_3	Map052.json	0	dialogue	ここも一応セイリューだけど。	
-MAP52_e8_p0_4	Map052.json	0	dialogue	わかってるよ、領主の村に行きたいんだろ。	
-MAP52_e8_p0_6	Map052.json	0	dialogue	ここからどんどん北に行けば着くよ。	
-MAP52_e8_p0_7	Map052.json	0	dialogue	大きな村が見えてくるからすぐ分かる。	
+MAP52_e8_p0_2	Map052.json	0	dialogue	セイリューに行きたい？	You want to go to Seiryu?
+MAP52_e8_p0_3	Map052.json	0	dialogue	ここも一応セイリューだけど。	This is Seiryu too, technically.
+MAP52_e8_p0_4	Map052.json	0	dialogue	わかってるよ、領主の村に行きたいんだろ。	I know, you want to go to the lord's village.
+MAP52_e8_p0_6	Map052.json	0	dialogue	ここからどんどん北に行けば着くよ。	Head north from here and you'll reach it.
+MAP52_e8_p0_7	Map052.json	0	dialogue	大きな村が見えてくるからすぐ分かる。	You'll see a big village, so it's easy to tell.
 MAP52_e8_p1_1	Map052.json	0	dialogue	採石場のヤルモリ：	Yarmori, Quarry Worker:
 MAP52_e8_p1_10	Map052.json	0	dialogue	あんた、もしかしてそうやって毎回	
 MAP52_e8_p1_11	Map052.json	0	dialogue	旅人に教えてあげてんのか…？	
@@ -4688,11 +4688,11 @@ MAP52_e8_p1_15	Map052.json	0	dialogue	まあ、最近はそんなに忙しくな
 MAP52_e8_p1_17	Map052.json	0	dialogue	ナガレ：	Nagare:
 MAP52_e8_p1_18	Map052.json	0	dialogue	みんなあたしの知らないところで色々	
 MAP52_e8_p1_19	Map052.json	0	dialogue	働いてくれてるんだねえ。	
-MAP52_e8_p1_2	Map052.json	0	dialogue	セイリューに行きたい？	
-MAP52_e8_p1_3	Map052.json	0	dialogue	ここも一応セイリューだけど。	
-MAP52_e8_p1_4	Map052.json	0	dialogue	わかってるよ、領主の村に行きたいんだろ。	
-MAP52_e8_p1_6	Map052.json	0	dialogue	ここからどんどん北に行けば着くよ。	
-MAP52_e8_p1_7	Map052.json	0	dialogue	大きな村が見えてくるからすぐ分かる。	
+MAP52_e8_p1_2	Map052.json	0	dialogue	セイリューに行きたい？	You want to go to Seiryu?
+MAP52_e8_p1_3	Map052.json	0	dialogue	ここも一応セイリューだけど。	This is Seiryu too, technically.
+MAP52_e8_p1_4	Map052.json	0	dialogue	わかってるよ、領主の村に行きたいんだろ。	I know, you want to go to the lord's village.
+MAP52_e8_p1_6	Map052.json	0	dialogue	ここからどんどん北に行けば着くよ。	Head north from here and you'll reach it.
+MAP52_e8_p1_7	Map052.json	0	dialogue	大きな村が見えてくるからすぐ分かる。	You'll see a big village, so it's easy to tell.
 MAP52_e8_p1_9	Map052.json	0	dialogue	ナガレ：	Nagare:
 MAP53_e10_p0_1	Map053.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP53_e11_p0_1	Map053.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -4703,33 +4703,33 @@ MAP53_e4_p0_1	Map053.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi
 MAP53_e4_p0_2	Map053.json	0	dialogue	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP53_e4_p0_3	Map053.json	0	dialogue	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
 MAP53_e4_p1_1	Map053.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi, Quarry Owner:
-MAP53_e4_p1_10	Map053.json	0	dialogue	お前こんなところに何しに…？	
+MAP53_e4_p1_10	Map053.json	0	dialogue	お前こんなところに何しに…？	What are you doing in a place like this...?
 MAP53_e4_p1_12	Map053.json	0	dialogue	ナガレ：	Nagare:
-MAP53_e4_p1_13	Map053.json	0	dialogue	ちょっと寄り道しただけさ。	
-MAP53_e4_p1_14	Map053.json	0	dialogue	それよりなんだよ、その驚きようは？	
+MAP53_e4_p1_13	Map053.json	0	dialogue	ちょっと寄り道しただけさ。	Just taking a little detour.
+MAP53_e4_p1_14	Map053.json	0	dialogue	それよりなんだよ、その驚きようは？	Anyway, why the surprise?
 MAP53_e4_p1_16	Map053.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi, Quarry Owner:
-MAP53_e4_p1_17	Map053.json	0	dialogue	いや…　あの悪ガキが突然きれいになって	
-MAP53_e4_p1_18	Map053.json	0	dialogue	やって来るもんだからこころの準備が…	
-MAP53_e4_p1_19	Map053.json	0	dialogue	え、本当にナガレなんだよな？	
+MAP53_e4_p1_17	Map053.json	0	dialogue	いや…　あの悪ガキが突然きれいになって	Well... that little brat suddenly showed up all clean,
+MAP53_e4_p1_18	Map053.json	0	dialogue	やって来るもんだからこころの準備が…	and I wasn't prepared for it...
+MAP53_e4_p1_19	Map053.json	0	dialogue	え、本当にナガレなんだよな？	Wait, you're really Nagare, right?
 MAP53_e4_p1_2	Map053.json	0	dialogue	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP53_e4_p1_21	Map053.json	0	dialogue	ナガレ：	Nagare:
-MAP53_e4_p1_22	Map053.json	0	dialogue	褒められてんだか貶されてんだかわからん！	
+MAP53_e4_p1_22	Map053.json	0	dialogue	褒められてんだか貶されてんだかわからん！	I can't tell if that's a compliment or an insult!
 MAP53_e4_p1_3	Map053.json	0	dialogue	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
 MAP53_e4_p1_5	Map053.json	0	dialogue	ナガレ：	Nagare:
-MAP53_e4_p1_6	Map053.json	0	dialogue	よう、バモヤシ。おひさ！	
+MAP53_e4_p1_6	Map053.json	0	dialogue	よう、バモヤシ。おひさ！	Yo, Bamoyashi. Long time no see!
 MAP53_e4_p1_8	Map053.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi, Quarry Owner:
-MAP53_e4_p1_9	Map053.json	0	dialogue	うお！？ナガレ！？	
+MAP53_e4_p1_9	Map053.json	0	dialogue	うお！？ナガレ！？	Whoa!? Nagare!?
 MAP53_e5_p0_1	Map053.json	0	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
 MAP53_e5_p0_10	Map053.json	1	dialogue	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
 MAP53_e5_p0_13	Map053.json	1	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
 MAP53_e5_p0_14	Map053.json	1	dialogue	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP53_e5_p0_15	Map053.json	1	dialogue	気を付けてねー	be careful now~
 MAP53_e5_p0_19	Map053.json	1	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
-MAP53_e5_p0_2	Map053.json	0	dialogue	旅人かい？	
+MAP53_e5_p0_2	Map053.json	0	dialogue	旅人かい？	A traveler, are you?
 MAP53_e5_p0_20	Map053.json	1	dialogue	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP53_e5_p0_21	Map053.json	1	dialogue	気を付けてねー	be careful now~
-MAP53_e5_p0_3	Map053.json	0	dialogue	なにもなくってガッカリしただろ。	
-MAP53_e5_p0_4	Map053.json	0	dialogue	まあ、よかったらお茶でも飲んでいけば？	
+MAP53_e5_p0_3	Map053.json	0	dialogue	なにもなくってガッカリしただろ。	Bet you're disappointed there's nothing here.
+MAP53_e5_p0_4	Map053.json	0	dialogue	まあ、よかったらお茶でも飲んでいけば？	Well, why not have some tea if you like?
 MAP53_e5_p0_5_c0	Map053.json	choice	choice	いただきます	Dig in
 MAP53_e5_p0_5_c1	Map053.json	choice	choice	遠慮しておきます	I'll pass
 MAP53_e5_p1_1	Map053.json	0	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
@@ -4739,27 +4739,27 @@ MAP53_e5_p1_14	Map053.json	1	dialogue	こうやってまた、たまには顔見
 MAP53_e5_p1_15	Map053.json	1	dialogue	ナガレ。	Nagare?
 MAP53_e5_p1_17	Map053.json	1	dialogue	ナガレ：	Nagare:
 MAP53_e5_p1_18	Map053.json	1	dialogue	うん、ありがとう！	Yeah, thank you!
-MAP53_e5_p1_2	Map053.json	0	dialogue	あ、ナガレじゃん。	
+MAP53_e5_p1_2	Map053.json	0	dialogue	あ、ナガレじゃん。	Oh, it's Nagare.
 MAP53_e5_p1_22	Map053.json	1	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
 MAP53_e5_p1_23	Map053.json	1	dialogue	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
 MAP53_e5_p1_24	Map053.json	1	dialogue	ナガレ。	Nagare?
 MAP53_e5_p1_26	Map053.json	1	dialogue	ナガレ：	Nagare:
 MAP53_e5_p1_27	Map053.json	1	dialogue	うん、ありがとう！	Yeah, thank you!
-MAP53_e5_p1_3	Map053.json	0	dialogue	せっかく来たんだし、よかったら	
-MAP53_e5_p1_4	Map053.json	0	dialogue	お茶でも飲んでいけば？	
+MAP53_e5_p1_3	Map053.json	0	dialogue	せっかく来たんだし、よかったら	Since you came all this way, why not
+MAP53_e5_p1_4	Map053.json	0	dialogue	お茶でも飲んでいけば？	have some tea?
 MAP53_e5_p1_5_c0	Map053.json	choice	choice	いただきます	Dig in
 MAP53_e5_p1_5_c1	Map053.json	choice	choice	遠慮しておきます	I'll pass
 MAP53_e6_p0_1	Map053.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP53_e7_p0_2	Map053.json	0	dialogue	　　　　セイリューとの連絡に用いられている手紙類だ	
+MAP53_e7_p0_2	Map053.json	0	dialogue	　　　　セイリューとの連絡に用いられている手紙類だ	These are letters used to keep in touch with Seiryu.
 MAP53_e8_p0_2	Map053.json	0	dialogue	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP53_e9_p0_1	Map053.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP54_e3_p0_1	Map054.json	0	dialogue	コメ農家の主人ギヨヌマ：	Giyonuma, Rice Farmer:
-MAP54_e3_p0_2	Map054.json	0	dialogue	あらいらっしゃい。	
-MAP54_e3_p0_3	Map054.json	0	dialogue	コメならここでは買えないよ。	
-MAP54_e3_p0_4	Map054.json	0	dialogue	領民で分けあっているものだから。	
-MAP54_e3_p0_6	Map054.json	0	dialogue	だけど宿の食事とか、あと行商人から	
-MAP54_e3_p0_7	Map054.json	0	dialogue	携帯食のライスボールが買えたりするから、	
-MAP54_e3_p0_8	Map054.json	0	dialogue	食べることはできるんだよ。	
+MAP54_e3_p0_2	Map054.json	0	dialogue	あらいらっしゃい。	Oh, welcome.
+MAP54_e3_p0_3	Map054.json	0	dialogue	コメならここでは買えないよ。	You can't buy rice here.
+MAP54_e3_p0_4	Map054.json	0	dialogue	領民で分けあっているものだから。	It's shared among the villagers.
+MAP54_e3_p0_6	Map054.json	0	dialogue	だけど宿の食事とか、あと行商人から	But you can get it in inn meals, or buy portable
+MAP54_e3_p0_7	Map054.json	0	dialogue	携帯食のライスボールが買えたりするから、	rice balls from the peddlers,
+MAP54_e3_p0_8	Map054.json	0	dialogue	食べることはできるんだよ。	so you can still eat.
 MAP54_e4_p0_1	Map054.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP54_e5_p0_1	Map054.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP54_e6_p0_1	Map054.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -4838,7 +4838,7 @@ MAP55_e12_p0_156	Map055.json	0	dialogue	あんたら話の腰を折るんじゃ�
 MAP55_e12_p0_157	Map055.json	0	dialogue	ただでさえ長くなるんじゃ！！	
 MAP55_e12_p0_159	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e12_p0_16	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
-MAP55_e12_p0_160	Map055.json	0	dialogue	はい…	
+MAP55_e12_p0_160	Map055.json	0	dialogue	はい…	Yes...
 MAP55_e12_p0_162	Map055.json	0	dialogue	ホノオ：	Hono:
 MAP55_e12_p0_163	Map055.json	0	dialogue	すんません…	
 MAP55_e12_p0_167	Map055.json	scrolling text	dialogue	　　　　　はじまりの水の者はとても疲れていた	
@@ -4865,7 +4865,7 @@ MAP55_e12_p0_200	Map055.json	0	dialogue	だまらっしゃい！！
 MAP55_e12_p0_201	Map055.json	0	dialogue	ナガレも黙って聞きなさい！！	
 MAP55_e12_p0_202	Map055.json	0	dialogue	長くなると言っておるじゃろ！！	
 MAP55_e12_p0_204	Map055.json	0	dialogue	ナガレ：	Nagare:
-MAP55_e12_p0_205	Map055.json	0	dialogue	はい…	
+MAP55_e12_p0_205	Map055.json	0	dialogue	はい…	Yes...
 MAP55_e12_p0_208	Map055.json	scrolling text	dialogue	　　　　　　　　真っ暗闇の中をふらふらと	
 MAP55_e12_p0_21	Map055.json	0	dialogue	シズク様：	Lady Shizuku:
 MAP55_e12_p0_210	Map055.json	scrolling text	dialogue	　　　　　　　　　　歩いていると…	
@@ -5064,12 +5064,12 @@ MAP55_e12_p0_520	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
 MAP55_e12_p0_521	Map055.json	0	dialogue	では、ホノオどの、ウィンどの。	
 MAP55_e12_p0_522	Map055.json	0	dialogue	ナガレをよろしく頼みましたぞ。	
 MAP55_e12_p0_526	Map055.json	0	dialogue	シズク様：	Lady Shizuku:
-MAP55_e12_p0_527	Map055.json	0	dialogue	龍のお社は村を出て東へ向かえば見えてきます。	
-MAP55_e12_p0_528	Map055.json	0	dialogue	それと…	
+MAP55_e12_p0_527	Map055.json	0	dialogue	龍のお社は村を出て東へ向かえば見えてきます。	Leave the village and head east, and the Dragon Shrine will come into view.
+MAP55_e12_p0_528	Map055.json	0	dialogue	それと…	Also...
 MAP55_e12_p0_53	Map055.json	0	dialogue	戦い、どうなるんだ！？	
-MAP55_e12_p0_530	Map055.json	0	dialogue	旅立ちの前に、部屋の外にいる、	
-MAP55_e12_p0_531	Map055.json	0	dialogue	トリカゼとマハリに話し掛けてみて下さい。	
-MAP55_e12_p0_532	Map055.json	0	dialogue	何やら用意してくれているものがあるようです。	
+MAP55_e12_p0_530	Map055.json	0	dialogue	旅立ちの前に、部屋の外にいる、	Before you set out, try talking to
+MAP55_e12_p0_531	Map055.json	0	dialogue	トリカゼとマハリに話し掛けてみて下さい。	Torikaze and Mahari, who are outside the room.
+MAP55_e12_p0_532	Map055.json	0	dialogue	何やら用意してくれているものがあるようです。	It seems they've prepared something for you.
 MAP55_e12_p0_536	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e12_p0_537	Map055.json	0	dialogue	お社の場所なら当然あたしが知っているから、	
 MAP55_e12_p0_538	Map055.json	0	dialogue	あんたらはついてくるだけで大丈夫さ。	
@@ -5148,45 +5148,45 @@ MAP55_e15_p0_1	Map055.json	0	dialogue	持ち出して役に立つようなもの
 MAP55_e16_p0_1	Map055.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP55_e22_p1_1	Map055.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
 MAP55_e22_p1_10	Map055.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
-MAP55_e22_p1_11	Map055.json	0	dialogue	きっともう少しの辛抱さ！	
-MAP55_e22_p1_12	Map055.json	0	dialogue	ちゃんとごはん食べて元気出そう！	
-MAP55_e22_p1_2	Map055.json	0	dialogue	えらいことになったね…	
-MAP55_e22_p1_3	Map055.json	0	dialogue	でも、こういうときの為にも薬類は	
-MAP55_e22_p1_4	Map055.json	0	dialogue	たくさん揃えてあるよ！	
+MAP55_e22_p1_11	Map055.json	0	dialogue	きっともう少しの辛抱さ！	A little more patience, surely!
+MAP55_e22_p1_12	Map055.json	0	dialogue	ちゃんとごはん食べて元気出そう！	Eat properly and keep your spirits up!
+MAP55_e22_p1_2	Map055.json	0	dialogue	えらいことになったね…	This is quite the situation...
+MAP55_e22_p1_3	Map055.json	0	dialogue	でも、こういうときの為にも薬類は	But it's for times like this that we stock
+MAP55_e22_p1_4	Map055.json	0	dialogue	たくさん揃えてあるよ！	plenty of medicines!
 MAP55_e22_p2_1	Map055.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
 MAP55_e22_p2_11	Map055.json	0	dialogue	よろず屋の主人ナギヤシ：	Nagiyashi, General Store Owner:
-MAP55_e22_p2_12	Map055.json	0	dialogue	きっともう少しの辛抱さ！	
-MAP55_e22_p2_13	Map055.json	0	dialogue	ちゃんとごはん食べて元気出そう！	
-MAP55_e22_p2_2	Map055.json	0	dialogue	えらいことになったね…	
-MAP55_e22_p2_3	Map055.json	0	dialogue	でも、こういうときの為にも薬類は	
-MAP55_e22_p2_4	Map055.json	0	dialogue	たくさん揃えてあるよ！	
+MAP55_e22_p2_12	Map055.json	0	dialogue	きっともう少しの辛抱さ！	A little more patience, surely!
+MAP55_e22_p2_13	Map055.json	0	dialogue	ちゃんとごはん食べて元気出そう！	Eat properly and keep your spirits up!
+MAP55_e22_p2_2	Map055.json	0	dialogue	えらいことになったね…	This is quite the situation...
+MAP55_e22_p2_3	Map055.json	0	dialogue	でも、こういうときの為にも薬類は	But it's for times like this that we stock
+MAP55_e22_p2_4	Map055.json	0	dialogue	たくさん揃えてあるよ！	plenty of medicines!
 MAP55_e23_p1_1	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p1_16	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p1_17	Map055.json	0	dialogue	まだ新作の刀は出来ていない…。	
-MAP55_e23_p1_18	Map055.json	0	dialogue	洪水のせいで鍛冶場に行けなくなっちまった	
-MAP55_e23_p1_19	Map055.json	0	dialogue	からな…	
-MAP55_e23_p1_2	Map055.json	0	dialogue	ちょうど洪水の前に、	
-MAP55_e23_p1_3	Map055.json	0	dialogue	行商人が置いて行った他国の武具もあるぞ。	
+MAP55_e23_p1_17	Map055.json	0	dialogue	まだ新作の刀は出来ていない…。	The new blade isn't done yet...
+MAP55_e23_p1_18	Map055.json	0	dialogue	洪水のせいで鍛冶場に行けなくなっちまった	The flood kept me from getting to
+MAP55_e23_p1_19	Map055.json	0	dialogue	からな…	the forge...
+MAP55_e23_p1_2	Map055.json	0	dialogue	ちょうど洪水の前に、	Just before the flood,
+MAP55_e23_p1_3	Map055.json	0	dialogue	行商人が置いて行った他国の武具もあるぞ。	a peddler left behind some foreign arms.
 MAP55_e23_p1_4	Map055.json	0	dialogue	必要なものがあったら買って行け。	If you need anything, buy it before you go.
 MAP55_e23_p2_1	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p2_16	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
-MAP55_e23_p2_17	Map055.json	0	dialogue	まだ新作の刀は出来ていない…。	
-MAP55_e23_p2_18	Map055.json	0	dialogue	洪水のせいで鍛冶場に行けなくなっちまった	
-MAP55_e23_p2_19	Map055.json	0	dialogue	からな…	
-MAP55_e23_p2_2	Map055.json	0	dialogue	ちょうど洪水の前に、	
-MAP55_e23_p2_3	Map055.json	0	dialogue	行商人が置いて行った他国の武具もあるぞ。	
+MAP55_e23_p2_17	Map055.json	0	dialogue	まだ新作の刀は出来ていない…。	The new blade isn't done yet...
+MAP55_e23_p2_18	Map055.json	0	dialogue	洪水のせいで鍛冶場に行けなくなっちまった	The flood kept me from getting to
+MAP55_e23_p2_19	Map055.json	0	dialogue	からな…	the forge...
+MAP55_e23_p2_2	Map055.json	0	dialogue	ちょうど洪水の前に、	Just before the flood,
+MAP55_e23_p2_3	Map055.json	0	dialogue	行商人が置いて行った他国の武具もあるぞ。	a peddler left behind some foreign arms.
 MAP55_e23_p2_4	Map055.json	0	dialogue	必要なものがあったら買って行け。	If you need anything, buy it before you go.
 MAP55_e23_p3_1	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p3_11	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e23_p3_12	Map055.json	0	dialogue	な、なんだーーー！？	
-MAP55_e23_p3_13	Map055.json	0	dialogue	この洗濯物を干す棒みてーな刀はよ！？	
+MAP55_e23_p3_12	Map055.json	0	dialogue	な、なんだーーー！？	Wh-What the—!?
+MAP55_e23_p3_13	Map055.json	0	dialogue	この洗濯物を干す棒みてーな刀はよ！？	This blade looks like a clothes-drying pole!
 MAP55_e23_p3_15	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p3_16	Map055.json	0	dialogue	俺たちセイリューの民が使う、つばめ返し…	
 MAP55_e23_p3_17	Map055.json	0	dialogue	その秘剣を極限まで高められる刀を設計したら	
 MAP55_e23_p3_18	Map055.json	0	dialogue	こうなった…。	
-MAP55_e23_p3_2	Map055.json	0	dialogue	ナガレ、遂に新作が完成したぞ。	
+MAP55_e23_p3_2	Map055.json	0	dialogue	ナガレ、遂に新作が完成したぞ。	Nagare, the new blade is finally done.
 MAP55_e23_p3_20	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e23_p3_21	Map055.json	0	dialogue	そ、そうなんだ…？	
+MAP55_e23_p3_21	Map055.json	0	dialogue	そ、そうなんだ…？	R-Really...?
 MAP55_e23_p3_23	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p3_24	Map055.json	0	dialogue	つばめ返しの威力は確かに上がったが…	
 MAP55_e23_p3_25	Map055.json	0	dialogue	普通に使う刀としての性能には自信がない…	
@@ -5207,15 +5207,15 @@ MAP55_e23_p3_41	Map055.json	0	dialogue	あんたの気持ちと一緒に、有�
 MAP55_e23_p3_9	Map055.json	0	dialogue	　　　　　　ナガレは物干し竿を受け取った！	
 MAP55_e23_p4_1	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p4_11	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e23_p4_12	Map055.json	0	dialogue	な、なんだーーー！？	
-MAP55_e23_p4_13	Map055.json	0	dialogue	この洗濯物を干す棒みてーな刀はよ！？	
+MAP55_e23_p4_12	Map055.json	0	dialogue	な、なんだーーー！？	Wh-What the—!?
+MAP55_e23_p4_13	Map055.json	0	dialogue	この洗濯物を干す棒みてーな刀はよ！？	This blade looks like a clothes-drying pole!
 MAP55_e23_p4_15	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p4_16	Map055.json	0	dialogue	秘剣つばめ返しを極限まで高められる刀を設計	
 MAP55_e23_p4_17	Map055.json	0	dialogue	したらこうなった…。	
 MAP55_e23_p4_18	Map055.json	0	dialogue	この形の刀を、大太刀と名付けた。	
-MAP55_e23_p4_2	Map055.json	0	dialogue	ナガレ、遂に新作が完成したぞ。	
+MAP55_e23_p4_2	Map055.json	0	dialogue	ナガレ、遂に新作が完成したぞ。	Nagare, the new blade is finally done.
 MAP55_e23_p4_20	Map055.json	0	dialogue	ホノオ：	Hono:
-MAP55_e23_p4_21	Map055.json	0	dialogue	そ、そうなんだ…？	
+MAP55_e23_p4_21	Map055.json	0	dialogue	そ、そうなんだ…？	R-Really...?
 MAP55_e23_p4_23	Map055.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP55_e23_p4_24	Map055.json	0	dialogue	つばめ返しの威力は確かに上がったが…	
 MAP55_e23_p4_25	Map055.json	0	dialogue	普通に使う刀としての性能には自信がない…	
@@ -5251,12 +5251,12 @@ MAP55_e23_p6_2	Map055.json	0	dialogue	物干し竿みたいなの以外に、ち
 MAP55_e23_p6_3	Map055.json	0	dialogue	置いている…。	
 MAP55_e23_p6_4	Map055.json	0	dialogue	必要なものがあったら買って行け。	If you need anything, buy it before you go.
 MAP55_e24_p0_1	Map055.json	0	dialogue	コメ農家の主人ギヨヌマ：	Giyonuma, Rice Farmer:
-MAP55_e24_p0_2	Map055.json	0	dialogue	あらいらっしゃい。	
-MAP55_e24_p0_3	Map055.json	0	dialogue	コメならここでは買えないよ。	
-MAP55_e24_p0_4	Map055.json	0	dialogue	領民で分けあっているものだから。	
-MAP55_e24_p0_6	Map055.json	0	dialogue	だけど宿の食事とか、あと行商人から	
-MAP55_e24_p0_7	Map055.json	0	dialogue	携帯食のライスボールが買えたりするから、	
-MAP55_e24_p0_8	Map055.json	0	dialogue	食べることはできるんだよ。	
+MAP55_e24_p0_2	Map055.json	0	dialogue	あらいらっしゃい。	Oh, welcome.
+MAP55_e24_p0_3	Map055.json	0	dialogue	コメならここでは買えないよ。	You can't buy rice here.
+MAP55_e24_p0_4	Map055.json	0	dialogue	領民で分けあっているものだから。	It's shared among the villagers.
+MAP55_e24_p0_6	Map055.json	0	dialogue	だけど宿の食事とか、あと行商人から	But you can get it in inn meals, or buy portable
+MAP55_e24_p0_7	Map055.json	0	dialogue	携帯食のライスボールが買えたりするから、	rice balls from the peddlers,
+MAP55_e24_p0_8	Map055.json	0	dialogue	食べることはできるんだよ。	so you can still eat.
 MAP55_e24_p1_1	Map055.json	0	dialogue	コメ農家の主人ギヨヌマ：	Giyonuma, Rice Farmer:
 MAP55_e24_p1_2	Map055.json	0	dialogue	コメの蓄えはなんとか全部持ち出せたけど…	
 MAP55_e24_p1_3	Map055.json	0	dialogue	田んぼに植えていた分は全滅だねえ…。	
@@ -5563,11 +5563,11 @@ MAP55_e7_p2_99	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
 MAP55_e7_p3_1	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
 MAP55_e7_p3_2	Map055.json	0	dialogue	村のことは任せなさい！	
 MAP55_e8_p1_1	Map055.json	0	dialogue	シズク様：	Lady Shizuku:
-MAP55_e8_p1_2	Map055.json	0	dialogue	龍のお社は村を出て東へ向かえば見えてきます。	
-MAP55_e8_p1_3	Map055.json	0	dialogue	それと…	
-MAP55_e8_p1_5	Map055.json	0	dialogue	旅立ちの前に、部屋の外にいる、	
-MAP55_e8_p1_6	Map055.json	0	dialogue	トリカゼとマハリに話し掛けてみて下さい。	
-MAP55_e8_p1_7	Map055.json	0	dialogue	何やら用意してくれているものがあるようです。	
+MAP55_e8_p1_2	Map055.json	0	dialogue	龍のお社は村を出て東へ向かえば見えてきます。	Leave the village and head east, and the Dragon Shrine will come into view.
+MAP55_e8_p1_3	Map055.json	0	dialogue	それと…	Also...
+MAP55_e8_p1_5	Map055.json	0	dialogue	旅立ちの前に、部屋の外にいる、	Before you set out, try talking to
+MAP55_e8_p1_6	Map055.json	0	dialogue	トリカゼとマハリに話し掛けてみて下さい。	Torikaze and Mahari, who are outside the room.
+MAP55_e8_p1_7	Map055.json	0	dialogue	何やら用意してくれているものがあるようです。	It seems they've prepared something for you.
 MAP55_e8_p2_1	Map055.json	0	dialogue	シズク様：	Lady Shizuku:
 MAP55_e8_p2_10	Map055.json	0	dialogue	くれたの。	
 MAP55_e8_p2_12	Map055.json	0	dialogue	ナガレ：	Nagare:
@@ -6582,16 +6582,16 @@ MAP61_e39_p0_1	Map061.json	0	dialogue	北の村のオルジ：	Orji, North Villa
 MAP61_e39_p0_2	Map061.json	0	dialogue	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP61_e39_p0_3	Map061.json	0	dialogue	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP61_e39_p1_1	Map061.json	0	dialogue	北の村のオルジ：	Orji, North Village Man:
-MAP61_e39_p1_10	Map061.json	0	dialogue	任せておいてくれると助かるよ。	
+MAP61_e39_p1_10	Map061.json	0	dialogue	任せておいてくれると助かるよ。	I'd be glad if you left it to me.
 MAP61_e39_p1_12	Map061.json	0	dialogue	ナガレ：	Nagare:
-MAP61_e39_p1_13	Map061.json	0	dialogue	分かった。でも、狩り以外でも何か助けが	
-MAP61_e39_p1_14	Map061.json	0	dialogue	いるなら、気兼ねしないで話してくれよ？	
+MAP61_e39_p1_13	Map061.json	0	dialogue	分かった。でも、狩り以外でも何か助けが	Got it. But if you need help with anything beyond hunting,
+MAP61_e39_p1_14	Map061.json	0	dialogue	いるなら、気兼ねしないで話してくれよ？	don't hesitate to say so, alright?
 MAP61_e39_p1_2	Map061.json	0	dialogue	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP61_e39_p1_3	Map061.json	0	dialogue	ここは通行止めにさせてもらってる。	this way's closed to traffic.
 MAP61_e39_p1_5	Map061.json	0	dialogue	ナガレ：	Nagare:
-MAP61_e39_p1_6	Map061.json	0	dialogue	北の村でもか…。助けはいらないのか？	
+MAP61_e39_p1_6	Map061.json	0	dialogue	北の村でもか…。助けはいらないのか？	In the northern village too...? You don't need help?
 MAP61_e39_p1_8	Map061.json	0	dialogue	北の村のオルジ：	Orji, North Village Man:
-MAP61_e39_p1_9	Map061.json	0	dialogue	ああ、むしろ狩人たちの邪魔になるから、	
+MAP61_e39_p1_9	Map061.json	0	dialogue	ああ、むしろ狩人たちの邪魔になるから、	Nah, in fact we'd just get in the hunters' way, so
 MAP61_e49_p0_1	Map061.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP61_e50_p0_1	Map061.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP61_e53_p0_1	Map061.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -9927,33 +9927,33 @@ MAP74_e4_p0_1	Map074.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi
 MAP74_e4_p0_2	Map074.json	0	dialogue	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP74_e4_p0_3	Map074.json	0	dialogue	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
 MAP74_e4_p1_1	Map074.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi, Quarry Owner:
-MAP74_e4_p1_10	Map074.json	0	dialogue	お前こんなところに何しに…？	
+MAP74_e4_p1_10	Map074.json	0	dialogue	お前こんなところに何しに…？	What are you doing in a place like this...?
 MAP74_e4_p1_12	Map074.json	0	dialogue	ナガレ：	Nagare:
-MAP74_e4_p1_13	Map074.json	0	dialogue	ちょっと寄り道しただけさ。	
-MAP74_e4_p1_14	Map074.json	0	dialogue	それよりなんだよ、その驚きようは？	
+MAP74_e4_p1_13	Map074.json	0	dialogue	ちょっと寄り道しただけさ。	Just taking a little detour.
+MAP74_e4_p1_14	Map074.json	0	dialogue	それよりなんだよ、その驚きようは？	Anyway, why the surprise?
 MAP74_e4_p1_16	Map074.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi, Quarry Owner:
-MAP74_e4_p1_17	Map074.json	0	dialogue	いや…　あの悪ガキが突然きれいになって	
-MAP74_e4_p1_18	Map074.json	0	dialogue	やって来るもんだからこころの準備が…	
-MAP74_e4_p1_19	Map074.json	0	dialogue	え、本当にナガレなんだよな？	
+MAP74_e4_p1_17	Map074.json	0	dialogue	いや…　あの悪ガキが突然きれいになって	Well... that little brat suddenly showed up all clean,
+MAP74_e4_p1_18	Map074.json	0	dialogue	やって来るもんだからこころの準備が…	and I wasn't prepared for it...
+MAP74_e4_p1_19	Map074.json	0	dialogue	え、本当にナガレなんだよな？	Wait, you're really Nagare, right?
 MAP74_e4_p1_2	Map074.json	0	dialogue	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP74_e4_p1_21	Map074.json	0	dialogue	ナガレ：	Nagare:
-MAP74_e4_p1_22	Map074.json	0	dialogue	褒められてんだか貶されてんだかわからん！	
+MAP74_e4_p1_22	Map074.json	0	dialogue	褒められてんだか貶されてんだかわからん！	I can't tell if that's a compliment or an insult!
 MAP74_e4_p1_3	Map074.json	0	dialogue	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
 MAP74_e4_p1_5	Map074.json	0	dialogue	ナガレ：	Nagare:
-MAP74_e4_p1_6	Map074.json	0	dialogue	よう、バモヤシ。おひさ！	
+MAP74_e4_p1_6	Map074.json	0	dialogue	よう、バモヤシ。おひさ！	Yo, Bamoyashi. Long time no see!
 MAP74_e4_p1_8	Map074.json	0	dialogue	採石場の主人バモヤシ：	Bamoyashi, Quarry Owner:
-MAP74_e4_p1_9	Map074.json	0	dialogue	うお！？ナガレ！？	
+MAP74_e4_p1_9	Map074.json	0	dialogue	うお！？ナガレ！？	Whoa!? Nagare!?
 MAP74_e5_p0_1	Map074.json	0	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
 MAP74_e5_p0_10	Map074.json	1	dialogue	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
 MAP74_e5_p0_13	Map074.json	1	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
 MAP74_e5_p0_14	Map074.json	1	dialogue	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP74_e5_p0_15	Map074.json	1	dialogue	気を付けてねー	be careful now~
 MAP74_e5_p0_19	Map074.json	1	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
-MAP74_e5_p0_2	Map074.json	0	dialogue	旅人かい？	
+MAP74_e5_p0_2	Map074.json	0	dialogue	旅人かい？	A traveler, are you?
 MAP74_e5_p0_20	Map074.json	1	dialogue	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP74_e5_p0_21	Map074.json	1	dialogue	気を付けてねー	be careful now~
-MAP74_e5_p0_3	Map074.json	0	dialogue	なにもなくってガッカリしただろ。	
-MAP74_e5_p0_4	Map074.json	0	dialogue	まあ、よかったらお茶でも飲んでいけば？	
+MAP74_e5_p0_3	Map074.json	0	dialogue	なにもなくってガッカリしただろ。	Bet you're disappointed there's nothing here.
+MAP74_e5_p0_4	Map074.json	0	dialogue	まあ、よかったらお茶でも飲んでいけば？	Well, why not have some tea if you like?
 MAP74_e5_p0_5_c0	Map074.json	choice	choice	いただきます	Dig in
 MAP74_e5_p0_5_c1	Map074.json	choice	choice	遠慮しておきます	I'll pass
 MAP74_e5_p1_1	Map074.json	0	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
@@ -9963,18 +9963,18 @@ MAP74_e5_p1_14	Map074.json	1	dialogue	こうやってまた、たまには顔見
 MAP74_e5_p1_15	Map074.json	1	dialogue	ナガレ。	Nagare?
 MAP74_e5_p1_17	Map074.json	1	dialogue	ナガレ：	Nagare:
 MAP74_e5_p1_18	Map074.json	1	dialogue	うん、ありがとう！	Yeah, thank you!
-MAP74_e5_p1_2	Map074.json	0	dialogue	あ、ナガレじゃん。	
+MAP74_e5_p1_2	Map074.json	0	dialogue	あ、ナガレじゃん。	Oh, it's Nagare.
 MAP74_e5_p1_22	Map074.json	1	dialogue	採石場のマリメイ：	Marimei, Quarry Worker:
 MAP74_e5_p1_23	Map074.json	1	dialogue	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
 MAP74_e5_p1_24	Map074.json	1	dialogue	ナガレ。	Nagare?
 MAP74_e5_p1_26	Map074.json	1	dialogue	ナガレ：	Nagare:
 MAP74_e5_p1_27	Map074.json	1	dialogue	うん、ありがとう！	Yeah, thank you!
-MAP74_e5_p1_3	Map074.json	0	dialogue	せっかく来たんだし、よかったら	
-MAP74_e5_p1_4	Map074.json	0	dialogue	お茶でも飲んでいけば？	
+MAP74_e5_p1_3	Map074.json	0	dialogue	せっかく来たんだし、よかったら	Since you came all this way, why not
+MAP74_e5_p1_4	Map074.json	0	dialogue	お茶でも飲んでいけば？	have some tea?
 MAP74_e5_p1_5_c0	Map074.json	choice	choice	いただきます	Dig in
 MAP74_e5_p1_5_c1	Map074.json	choice	choice	遠慮しておきます	I'll pass
 MAP74_e6_p0_1	Map074.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP74_e7_p0_2	Map074.json	0	dialogue	　　　　セイリューとの連絡に用いられている手紙類だ	
+MAP74_e7_p0_2	Map074.json	0	dialogue	　　　　セイリューとの連絡に用いられている手紙類だ	These are letters used to keep in touch with Seiryu.
 MAP74_e8_p0_2	Map074.json	0	dialogue	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP74_e9_p0_2	Map074.json	0	dialogue	　　　　　　　　　編みかけのマフラーだ	
 MAP75_e10_p0_1	Map075.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -12904,7 +12904,7 @@ MAP92_e1_p0_8	Map092.json	0	dialogue	王は今回の試練を見送るつもり�
 MAP92_e1_p1_1	Map092.json	0	dialogue	フレイム王国大臣リマル：	Rimal, Minister of the Flame Kingdom:
 MAP92_e1_p1_10	Map092.json	0	dialogue	王子、必ず生きてお帰り下さい。	Prince, please come back alive, I beg you.
 MAP92_e1_p1_12	Map092.json	0	dialogue	ホノオ：	Hono:
-MAP92_e1_p1_13	Map092.json	0	dialogue	お、おい…急になんかそういうの、よそうよ…	
+MAP92_e1_p1_13	Map092.json	0	dialogue	お、おい…急になんかそういうの、よそうよ…	H-Hey... let's not suddenly get all... you know...
 MAP92_e1_p1_14	Map092.json	0	dialogue	ちょっと、キツイ…	It's a bit much...
 MAP92_e1_p1_2	Map092.json	0	dialogue	ホノオ王子、行かれるのですな。	Prince Hono, so you're leaving.
 MAP92_e1_p1_4	Map092.json	0	dialogue	ホノオ：	Hono:

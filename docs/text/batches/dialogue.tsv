@@ -2225,7 +2225,7 @@ MAP33_e8_p0_6	しかし最近南の遺跡に魔物が増えたのと、	But with
 MAP33_e8_p0_7	何より王子が死んでしまうのを恐れて、	and above all fearing the prince might die,
 MAP33_e8_p0_8	王は今回の試練を見送るつもりだったのだ…	the king intended to skip the trial this time...
 MAP33_e8_p1_10	王子、必ず生きてお帰り下さい。	Prince, please come back alive, I beg you.
-MAP33_e8_p1_13	お、おい…急になんかそういうの、よそうよ…	
+MAP33_e8_p1_13	お、おい…急になんかそういうの、よそうよ…	H-Hey... let's not suddenly get all... you know...
 MAP33_e8_p1_14	ちょっと、キツイ…	It's a bit much...
 MAP33_e8_p1_2	ホノオ王子、行かれるのですな。	Prince Hono, so you're leaving.
 MAP33_e8_p1_5	当たり前だろ！オレは火の紋章の勇者様だぜ！	Of course! I'm the hero of the Fire Crest!
@@ -2717,12 +2717,12 @@ MAP44_e3_p0_10	はい、ありがとさん。	Yes, thank you kindly.
 MAP44_e3_p0_11	またおいでー	Come again~
 MAP44_e3_p0_2	え、客？	Huh, a customer?
 MAP44_e3_p0_3	びっくりしたー　え？	You startled me— huh?
-MAP44_e3_p0_4	大丈夫、ここ道具屋。	
+MAP44_e3_p0_4	大丈夫、ここ道具屋。	No worries, this is the item shop.
 MAP44_e3_p1_12	はい、ありがとさん。	Yes, thank you kindly.
 MAP44_e3_p1_13	またおいでー	Come again~
 MAP44_e3_p1_2	え、客？	Huh, a customer?
 MAP44_e3_p1_3	びっくりしたー　え？	You startled me— huh?
-MAP44_e3_p1_4	大丈夫、ここ道具屋。	
+MAP44_e3_p1_4	大丈夫、ここ道具屋。	No worries, this is the item shop.
 MAP44_e4_p0_2	うむう　ゴミしか売ってないなあ…	
 MAP44_e5_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP44_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -2752,12 +2752,12 @@ MAP45_e8_p0_4	なれないんだよね…
 MAP45_e9_p1_2	俺は任務中で忙しいんだ！	
 MAP45_e9_p1_3	これも偵察！　カレーうめええええ！！！！	
 MAP45_e9_p1_4	もっと情報を集めないと！！！！！	
-MAP46_e3_p0_14	ちゃんと手入れをしろよ…。	
-MAP46_e3_p0_15	いい武器は一生物だ…。	
-MAP46_e3_p0_2	…客か。	
-MAP46_e3_p1_14	ちゃんと手入れをしろよ…。	
-MAP46_e3_p1_15	いい武器は一生物だ…。	
-MAP46_e3_p1_2	…客か。	
+MAP46_e3_p0_14	ちゃんと手入れをしろよ…。	Take good care of it...
+MAP46_e3_p0_15	いい武器は一生物だ…。	A good weapon lasts a lifetime...
+MAP46_e3_p0_2	…客か。	...A customer.
+MAP46_e3_p1_14	ちゃんと手入れをしろよ…。	Take good care of it...
+MAP46_e3_p1_15	いい武器は一生物だ…。	A good weapon lasts a lifetime...
+MAP46_e3_p1_2	…客か。	...A customer.
 MAP47_e4_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP47_e5_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP47_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -2775,114 +2775,114 @@ MAP47_e8_p0_2	…と、表紙に書かれた本がある。読んでみようか
 MAP47_e8_p0_6	ここ数十年は発見されたことがないと思われるが、	
 MAP47_e8_p0_7	昔のセイリューで稀に発掘されることがあったと伝わる、	
 MAP47_e8_p0_8	透き通った青い宝石、龍の涙。	
-MAP47_e9_p0_2	お前さん…　龍の涙を持っていたりしないか？	
-MAP47_e9_p0_5	ほとんど伝説上の宝石じゃ…	
-MAP47_e9_p0_6	もし本物を持ってきてくれたら…	
-MAP47_e9_p0_7	わしの秘蔵する、ある奇書と交換してもよい…	
+MAP47_e9_p0_2	お前さん…　龍の涙を持っていたりしないか？	You there... you wouldn't happen to have a Dragon's Tear?
+MAP47_e9_p0_5	ほとんど伝説上の宝石じゃ…	It's practically a legendary gem...
+MAP47_e9_p0_6	もし本物を持ってきてくれたら…	If you bring me a real one...
+MAP47_e9_p0_7	わしの秘蔵する、ある奇書と交換してもよい…	I might trade it for a certain rare tome I keep hidden...
 MAP47_e9_p1_12	おお…なんと美しい…！	
 MAP47_e9_p1_13	これぞ本物の龍の涙に違いない…！！	
 MAP47_e9_p1_16	お前さん、どうかその宝石を譲ってくれまいか	
 MAP47_e9_p1_17	わしの秘蔵する最も貴重な本…	
 MAP47_e9_p1_18	内容の危険さゆえ誰にも見せたことのないものだ	
-MAP47_e9_p1_2	お前さん…　龍の涙を持っていたりしないか？	
+MAP47_e9_p1_2	お前さん…　龍の涙を持っていたりしないか？	You there... you wouldn't happen to have a Dragon's Tear?
 MAP47_e9_p1_23	ありがたい！では、これが例の奇書だ…	
 MAP47_e9_p1_26	　　　　　　　　ウィンは奇書を手に入れた	
-MAP47_e9_p1_29	だが、信用できる者にしか、その本を	
-MAP47_e9_p1_30	渡さない方がよいぞ…	
+MAP47_e9_p1_29	だが、信用できる者にしか、その本を	But it'd be best to hand that book only
+MAP47_e9_p1_30	渡さない方がよいぞ…	to someone you can trust...
 MAP47_e9_p1_38	そ、そうか…	
 MAP47_e9_p1_39	しかし、お前さんが必要なくとも、本の好きな	
 MAP47_e9_p1_40	人間であれば絶対に欲しがるものだからな…	
-MAP47_e9_p1_5	ほとんど伝説上の宝石じゃ…	
-MAP47_e9_p1_6	もし本物を持ってきてくれたら…	
-MAP47_e9_p1_7	わしの秘蔵する、ある奇書と交換してもよい…	
-MAP47_e9_p2_2	だが、信用できる者にしか、その本を	
-MAP47_e9_p2_3	渡さない方がよいぞ…	
+MAP47_e9_p1_5	ほとんど伝説上の宝石じゃ…	It's practically a legendary gem...
+MAP47_e9_p1_6	もし本物を持ってきてくれたら…	If you bring me a real one...
+MAP47_e9_p1_7	わしの秘蔵する、ある奇書と交換してもよい…	I might trade it for a certain rare tome I keep hidden...
+MAP47_e9_p2_2	だが、信用できる者にしか、その本を	But it'd be best to hand that book only
+MAP47_e9_p2_3	渡さない方がよいぞ…	to someone you can trust...
 MAP49_e10_p0_11	　　　　　　　　　1000\\G 手に入れた！	
 MAP49_e11_p0_11	　　　　　シャムシール（良質）を手に入れた！	
-MAP49_e2_p0_11	あー、多分、お前の力はそんなものかとか、	
-MAP49_e2_p0_110	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	
-MAP49_e2_p0_113	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	
-MAP49_e2_p0_116	な、なんだ！？	
-MAP49_e2_p0_117	紋章が光り出して…何か魔法をおぼえた！！	
-MAP49_e2_p0_119	勝てるんじゃないか…コレなら…	
-MAP49_e2_p0_12	なんかそういうことを言っている顔だな…	
-MAP49_e2_p0_120	何だかさっきまでのオレとは違う感じだぜ！	
-MAP49_e2_p0_123	…我は闇の四天王のナウ―…	
-MAP49_e2_p0_124	紋章の勇者たちよ…　その力見せてみよ…	
-MAP49_e2_p0_128	しゃ…しゃべったーーーーーーーーーーー！！	
-MAP49_e2_p0_143	勝ったぜー！！	
-MAP49_e2_p0_149	…ピンピンしてない？	
-MAP49_e2_p0_155	…で、どうなんだろ、試練の方は…	
-MAP49_e2_p0_156	やっぱり不合格か？	
-MAP49_e2_p0_159	…………試練は	
-MAP49_e2_p0_162	（また喋った…）	
-MAP49_e2_p0_165	…………我は試練、関係ない	
+MAP49_e2_p0_11	あー、多分、お前の力はそんなものかとか、	Ah, things like 'so that's about all the power you've got,'
+MAP49_e2_p0_110	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	Win learned the Hayate and Kamaitachi spells!
+MAP49_e2_p0_113	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	Hono learned the Explosion and Warrior spells!
+MAP49_e2_p0_116	な、なんだ！？	Wh-What!?
+MAP49_e2_p0_117	紋章が光り出して…何か魔法をおぼえた！！	The crest started glowing... and I learned a spell!!
+MAP49_e2_p0_119	勝てるんじゃないか…コレなら…	With this... maybe I can win...
+MAP49_e2_p0_12	なんかそういうことを言っている顔だな…	You've got that look on your face...
+MAP49_e2_p0_120	何だかさっきまでのオレとは違う感じだぜ！	I feel different from the me of a moment ago!
+MAP49_e2_p0_123	…我は闇の四天王のナウ―…	...I am Nau, one of the Four Dark Generals...
+MAP49_e2_p0_124	紋章の勇者たちよ…　その力見せてみよ…	Heroes of the crests... show me your power...
+MAP49_e2_p0_128	しゃ…しゃべったーーーーーーーーーーー！！	It... it talked—!!
+MAP49_e2_p0_143	勝ったぜー！！	I won!!
+MAP49_e2_p0_149	…ピンピンしてない？	...You're still kicking, huh?
+MAP49_e2_p0_155	…で、どうなんだろ、試練の方は…	...So, how's the trial going, anyway...
+MAP49_e2_p0_156	やっぱり不合格か？	Did you fail after all?
+MAP49_e2_p0_159	…………試練は	............The trial
+MAP49_e2_p0_162	（また喋った…）	(It talked again...)
+MAP49_e2_p0_165	…………我は試練、関係ない	............The trial, I care not for it
 MAP49_e2_p0_168	………えっ？	......Huh?
-MAP49_e2_p0_171	…………試練は、我の後ろに	
-MAP49_e2_p0_18	わかってるって…　オレは絶対にこの試練を	
-MAP49_e2_p0_19	乗り越えないといけないんだ…	
-MAP49_e2_p0_20	まだまだ諦めねえぜ…！！	
-MAP49_e2_p0_23	……………………（汗	
-MAP49_e2_p0_33	……と、言う夢を見た。	
-MAP49_e2_p0_43	ぜえ…ぜえ…	
-MAP49_e2_p0_44	コレ絶対に無理だ…　オレは勝てない…	
-MAP49_e2_p0_47	………（ホノオの背後を指差す	
-MAP49_e2_p0_5	くそーーー　つえーーー！！	
-MAP49_e2_p0_50	え？	
-MAP49_e2_p0_51	うしろ…？	
-MAP49_e2_p0_66	ん？　お前誰だ？	
-MAP49_e2_p0_67	城の奴らが連れ戻しに来させたのか？	
+MAP49_e2_p0_171	…………試練は、我の後ろに	............The trial lies behind me
+MAP49_e2_p0_18	わかってるって…　オレは絶対にこの試練を	I know, I know... I absolutely have to
+MAP49_e2_p0_19	乗り越えないといけないんだ…	overcome this trial...
+MAP49_e2_p0_20	まだまだ諦めねえぜ…！！	I'm not giving up yet...!!
+MAP49_e2_p0_23	……………………（汗	............(sweat)
+MAP49_e2_p0_33	……と、言う夢を見た。	...And that's the dream he had.
+MAP49_e2_p0_43	ぜえ…ぜえ…	Hah... hah...
+MAP49_e2_p0_44	コレ絶対に無理だ…　オレは勝てない…	This is absolutely impossible... I can't win...
+MAP49_e2_p0_47	………（ホノオの背後を指差す	.........(He points behind Hono)
+MAP49_e2_p0_5	くそーーー　つえーーー！！	Damn— so strong—!!
+MAP49_e2_p0_50	え？	Huh?
+MAP49_e2_p0_51	うしろ…？	Behind...?
+MAP49_e2_p0_66	ん？　お前誰だ？	Hm? Who are you?
+MAP49_e2_p0_67	城の奴らが連れ戻しに来させたのか？	Did the castle folks send you to bring me back?
 MAP49_e2_p0_70	　　　　　　　　　　ウィンは頷いた	Win nodded
-MAP49_e2_p0_73	ったく…　まあ、でも…	
-MAP49_e2_p0_74	オレぜんぜん試練越えられなかったからなあ。	
-MAP49_e2_p0_76	このまま帰るのなんて、ダセえけど…	
-MAP49_e2_p0_77	仕方ないか。	
-MAP49_e2_p0_78	よし、じゃあかえ…	
-MAP49_e2_p0_90	うわあ！なんだ、おい！？	
-MAP49_e2_p0_91	まだやるのかよ！？	
-MAP49_e2_p0_92	オレは試練あきらめて…	
-MAP49_e2_p1_11	あー、多分、お前の力はそんなものかとか、	
-MAP49_e2_p1_112	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	
-MAP49_e2_p1_115	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	
-MAP49_e2_p1_118	な、なんだ！？	
-MAP49_e2_p1_119	紋章が光り出して…何か魔法をおぼえた！！	
-MAP49_e2_p1_12	なんかそういうことを言っている顔だな…	
-MAP49_e2_p1_121	勝てるんじゃないか…コレなら…	
-MAP49_e2_p1_122	何だかさっきまでのオレとは違う感じだぜ！	
-MAP49_e2_p1_125	…我は闇の四天王のナウ―…	
-MAP49_e2_p1_126	紋章の勇者たちよ…　その力見せてみよ…	
-MAP49_e2_p1_130	しゃ…しゃべったーーーーーーーーーーー！！	
-MAP49_e2_p1_145	勝ったぜー！！	
-MAP49_e2_p1_151	…ピンピンしてない？	
-MAP49_e2_p1_157	…で、どうなんだろ、試練の方は…	
-MAP49_e2_p1_158	やっぱり不合格か？	
-MAP49_e2_p1_161	…………試練は	
-MAP49_e2_p1_164	（また喋った…）	
-MAP49_e2_p1_167	…………我は試練、関係ない	
+MAP49_e2_p0_73	ったく…　まあ、でも…	Jeez... well, but...
+MAP49_e2_p0_74	オレぜんぜん試練越えられなかったからなあ。	I couldn't get past the trial at all, you know.
+MAP49_e2_p0_76	このまま帰るのなんて、ダセえけど…	Going back like this is lame, but...
+MAP49_e2_p0_77	仕方ないか。	Guess it can't be helped.
+MAP49_e2_p0_78	よし、じゃあかえ…	Alright, let's head ba—
+MAP49_e2_p0_90	うわあ！なんだ、おい！？	Whoa! What the—!?
+MAP49_e2_p0_91	まだやるのかよ！？	Are you seriously still going!?
+MAP49_e2_p0_92	オレは試練あきらめて…	I've given up on the trial...
+MAP49_e2_p1_11	あー、多分、お前の力はそんなものかとか、	Ah, things like 'so that's about all the power you've got,'
+MAP49_e2_p1_112	　　ウィンはハヤテとカマイタチの魔法をおぼえた！	Win learned the Hayate and Kamaitachi spells!
+MAP49_e2_p1_115	　　ホノオはバクハツとキョウセンシの魔法をおぼえた！	Hono learned the Explosion and Warrior spells!
+MAP49_e2_p1_118	な、なんだ！？	Wh-What!?
+MAP49_e2_p1_119	紋章が光り出して…何か魔法をおぼえた！！	The crest started glowing... and I learned a spell!!
+MAP49_e2_p1_12	なんかそういうことを言っている顔だな…	You've got that look on your face...
+MAP49_e2_p1_121	勝てるんじゃないか…コレなら…	With this... maybe I can win...
+MAP49_e2_p1_122	何だかさっきまでのオレとは違う感じだぜ！	I feel different from the me of a moment ago!
+MAP49_e2_p1_125	…我は闇の四天王のナウ―…	...I am Nau, one of the Four Dark Generals...
+MAP49_e2_p1_126	紋章の勇者たちよ…　その力見せてみよ…	Heroes of the crests... show me your power...
+MAP49_e2_p1_130	しゃ…しゃべったーーーーーーーーーーー！！	It... it talked—!!
+MAP49_e2_p1_145	勝ったぜー！！	I won!!
+MAP49_e2_p1_151	…ピンピンしてない？	...You're still kicking, huh?
+MAP49_e2_p1_157	…で、どうなんだろ、試練の方は…	...So, how's the trial going, anyway...
+MAP49_e2_p1_158	やっぱり不合格か？	Did you fail after all?
+MAP49_e2_p1_161	…………試練は	............The trial
+MAP49_e2_p1_164	（また喋った…）	(It talked again...)
+MAP49_e2_p1_167	…………我は試練、関係ない	............The trial, I care not for it
 MAP49_e2_p1_170	………えっ？	......Huh?
-MAP49_e2_p1_173	…………試練は、我の後ろに	
-MAP49_e2_p1_18	わかってるって…　オレは絶対にこの試練を	
-MAP49_e2_p1_19	乗り越えないといけないんだ…	
-MAP49_e2_p1_20	まだまだ諦めねえぜ…！！	
-MAP49_e2_p1_23	……………………（汗	
-MAP49_e2_p1_35	……と、言う夢を見た。	
-MAP49_e2_p1_45	ぜえ…ぜえ…	
-MAP49_e2_p1_46	コレ絶対に無理だ…　オレは勝てない…	
-MAP49_e2_p1_49	………（ホノオの背後を指差す	
-MAP49_e2_p1_5	くそーーー　つえーーー！！	
-MAP49_e2_p1_52	え？	
-MAP49_e2_p1_53	うしろ…？	
-MAP49_e2_p1_68	ん？　お前誰だ？	
-MAP49_e2_p1_69	城の奴らが連れ戻しに来させたのか？	
+MAP49_e2_p1_173	…………試練は、我の後ろに	............The trial lies behind me
+MAP49_e2_p1_18	わかってるって…　オレは絶対にこの試練を	I know, I know... I absolutely have to
+MAP49_e2_p1_19	乗り越えないといけないんだ…	overcome this trial...
+MAP49_e2_p1_20	まだまだ諦めねえぜ…！！	I'm not giving up yet...!!
+MAP49_e2_p1_23	……………………（汗	............(sweat)
+MAP49_e2_p1_35	……と、言う夢を見た。	...And that's the dream he had.
+MAP49_e2_p1_45	ぜえ…ぜえ…	Hah... hah...
+MAP49_e2_p1_46	コレ絶対に無理だ…　オレは勝てない…	This is absolutely impossible... I can't win...
+MAP49_e2_p1_49	………（ホノオの背後を指差す	.........(He points behind Hono)
+MAP49_e2_p1_5	くそーーー　つえーーー！！	Damn— so strong—!!
+MAP49_e2_p1_52	え？	Huh?
+MAP49_e2_p1_53	うしろ…？	Behind...?
+MAP49_e2_p1_68	ん？　お前誰だ？	Hm? Who are you?
+MAP49_e2_p1_69	城の奴らが連れ戻しに来させたのか？	Did the castle folks send you to bring me back?
 MAP49_e2_p1_72	　　　　　　　　　　ウィンは頷いた	Win nodded
-MAP49_e2_p1_75	ったく…　まあ、でも…	
-MAP49_e2_p1_76	オレぜんぜん試練越えられなかったからなあ。	
-MAP49_e2_p1_78	このまま帰るのなんて、ダセえけど…	
-MAP49_e2_p1_79	仕方ないか。	
-MAP49_e2_p1_80	よし、じゃあかえ…	
-MAP49_e2_p1_92	うわあ！なんだ、おい！？	
-MAP49_e2_p1_93	まだやるのかよ！？	
-MAP49_e2_p1_94	オレは試練あきらめて…	
+MAP49_e2_p1_75	ったく…　まあ、でも…	Jeez... well, but...
+MAP49_e2_p1_76	オレぜんぜん試練越えられなかったからなあ。	I couldn't get past the trial at all, you know.
+MAP49_e2_p1_78	このまま帰るのなんて、ダセえけど…	Going back like this is lame, but...
+MAP49_e2_p1_79	仕方ないか。	Guess it can't be helped.
+MAP49_e2_p1_80	よし、じゃあかえ…	Alright, let's head ba—
+MAP49_e2_p1_92	うわあ！なんだ、おい！？	Whoa! What the—!?
+MAP49_e2_p1_93	まだやるのかよ！？	Are you seriously still going!?
+MAP49_e2_p1_94	オレは試練あきらめて…	I've given up on the trial...
 MAP49_e2_p2_11	あいつの後ろとか言ってたな…	
 MAP49_e2_p2_12	椅子がある…　あれに座るのかな。	
 MAP49_e2_p2_19	ウィン、って言ったよな。	
@@ -3167,13 +3167,13 @@ MAP50_e35_p2_97	おう、わかった！
 MAP50_e35_p2_98	なんか色々と、すまなかった…	
 MAP50_e39_p0_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP50_e39_p0_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
-MAP50_e39_p1_10	任せておいてくれると助かるよ。	
-MAP50_e39_p1_13	分かった。でも、狩り以外でも何か助けが	
-MAP50_e39_p1_14	いるなら、気兼ねしないで話してくれよ？	
+MAP50_e39_p1_10	任せておいてくれると助かるよ。	I'd be glad if you left it to me.
+MAP50_e39_p1_13	分かった。でも、狩り以外でも何か助けが	Got it. But if you need help with anything beyond hunting,
+MAP50_e39_p1_14	いるなら、気兼ねしないで話してくれよ？	don't hesitate to say so, alright?
 MAP50_e39_p1_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP50_e39_p1_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
-MAP50_e39_p1_6	北の村でもか…。助けはいらないのか？	
-MAP50_e39_p1_9	ああ、むしろ狩人たちの邪魔になるから、	
+MAP50_e39_p1_6	北の村でもか…。助けはいらないのか？	In the northern village too...? You don't need help?
+MAP50_e39_p1_9	ああ、むしろ狩人たちの邪魔になるから、	Nah, in fact we'd just get in the hunters' way, so
 MAP50_e40_p0_2	　　　　　　上流土砂崩れのため通行禁止中	
 MAP50_e43_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP50_e44_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -3192,9 +3192,9 @@ MAP51_e3_p0_15	はい、確かに50Gいただきました。
 MAP51_e3_p0_16	では、どうぞごゆるりと…	
 MAP51_e3_p0_2	長旅だったでしょう。	
 MAP51_e3_p0_24	またのご利用をお待ちしております。	We look forward to your next visit.
-MAP51_e3_p0_25	道中どうぞお気をつけて…	
+MAP51_e3_p0_25	道中どうぞお気をつけて…	please do be careful on the road...
 MAP51_e3_p0_3	お疲れでしたら、どうぞ私どもの宿を	
-MAP51_e3_p0_30	お手持ちのお金がたりませんね…	
+MAP51_e3_p0_30	お手持ちのお金がたりませんね…	You don't have enough money...
 MAP51_e3_p0_4	ご利用ください。	
 MAP51_e3_p0_9	一泊料金、皆さま合計で５０Ｇになります。	
 MAP51_e3_p1_12	悪い、ありがとう、オジリ。	
@@ -3203,9 +3203,9 @@ MAP51_e3_p1_19	世界は終わりなんだろう？
 MAP51_e3_p1_2	あら、ナガレ！久し振り！	
 MAP51_e3_p1_20	お金なんかいらないよ！	
 MAP51_e3_p1_28	またのご利用をお待ちしております。	We look forward to your next visit.
-MAP51_e3_p1_29	道中どうぞお気をつけて…	
+MAP51_e3_p1_29	道中どうぞお気をつけて…	please do be careful on the road...
 MAP51_e3_p1_3	皆さん、お疲れでしょう。	
-MAP51_e3_p1_34	お手持ちのお金がたりませんね…	
+MAP51_e3_p1_34	お手持ちのお金がたりませんね…	You don't have enough money...
 MAP51_e3_p1_4	どうぞ休んでかれてくださいな。	
 MAP51_e3_p1_9	もちろん、お代はいりませんよ！	
 MAP51_e4_p0_2	あ！ダメだよこんなところまで入ったら！	
@@ -3228,22 +3228,22 @@ MAP51_e9_p0_1	持ち出して役に立つようなものは何も見つけられ
 MAP52_e20_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP52_e21_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP52_e22_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP52_e8_p0_2	セイリューに行きたい？	
-MAP52_e8_p0_3	ここも一応セイリューだけど。	
-MAP52_e8_p0_4	わかってるよ、領主の村に行きたいんだろ。	
-MAP52_e8_p0_6	ここからどんどん北に行けば着くよ。	
-MAP52_e8_p0_7	大きな村が見えてくるからすぐ分かる。	
+MAP52_e8_p0_2	セイリューに行きたい？	You want to go to Seiryu?
+MAP52_e8_p0_3	ここも一応セイリューだけど。	This is Seiryu too, technically.
+MAP52_e8_p0_4	わかってるよ、領主の村に行きたいんだろ。	I know, you want to go to the lord's village.
+MAP52_e8_p0_6	ここからどんどん北に行けば着くよ。	Head north from here and you'll reach it.
+MAP52_e8_p0_7	大きな村が見えてくるからすぐ分かる。	You'll see a big village, so it's easy to tell.
 MAP52_e8_p1_10	あんた、もしかしてそうやって毎回	
 MAP52_e8_p1_11	旅人に教えてあげてんのか…？	
 MAP52_e8_p1_14	そうだよ。嫌になるときもあるけど、	
 MAP52_e8_p1_15	まあ、最近はそんなに忙しくないし…	
 MAP52_e8_p1_18	みんなあたしの知らないところで色々	
 MAP52_e8_p1_19	働いてくれてるんだねえ。	
-MAP52_e8_p1_2	セイリューに行きたい？	
-MAP52_e8_p1_3	ここも一応セイリューだけど。	
-MAP52_e8_p1_4	わかってるよ、領主の村に行きたいんだろ。	
-MAP52_e8_p1_6	ここからどんどん北に行けば着くよ。	
-MAP52_e8_p1_7	大きな村が見えてくるからすぐ分かる。	
+MAP52_e8_p1_2	セイリューに行きたい？	You want to go to Seiryu?
+MAP52_e8_p1_3	ここも一応セイリューだけど。	This is Seiryu too, technically.
+MAP52_e8_p1_4	わかってるよ、領主の村に行きたいんだろ。	I know, you want to go to the lord's village.
+MAP52_e8_p1_6	ここからどんどん北に行けば着くよ。	Head north from here and you'll reach it.
+MAP52_e8_p1_7	大きな村が見えてくるからすぐ分かる。	You'll see a big village, so it's easy to tell.
 MAP53_e10_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP53_e11_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP53_e12_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -3251,45 +3251,45 @@ MAP53_e13_p0_1	持ち出して役に立つようなものは何も見つけら�
 MAP53_e14_p0_2	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP53_e4_p0_2	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP53_e4_p0_3	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
-MAP53_e4_p1_10	お前こんなところに何しに…？	
-MAP53_e4_p1_13	ちょっと寄り道しただけさ。	
-MAP53_e4_p1_14	それよりなんだよ、その驚きようは？	
-MAP53_e4_p1_17	いや…　あの悪ガキが突然きれいになって	
-MAP53_e4_p1_18	やって来るもんだからこころの準備が…	
-MAP53_e4_p1_19	え、本当にナガレなんだよな？	
+MAP53_e4_p1_10	お前こんなところに何しに…？	What are you doing in a place like this...?
+MAP53_e4_p1_13	ちょっと寄り道しただけさ。	Just taking a little detour.
+MAP53_e4_p1_14	それよりなんだよ、その驚きようは？	Anyway, why the surprise?
+MAP53_e4_p1_17	いや…　あの悪ガキが突然きれいになって	Well... that little brat suddenly showed up all clean,
+MAP53_e4_p1_18	やって来るもんだからこころの準備が…	and I wasn't prepared for it...
+MAP53_e4_p1_19	え、本当にナガレなんだよな？	Wait, you're really Nagare, right?
 MAP53_e4_p1_2	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
-MAP53_e4_p1_22	褒められてんだか貶されてんだかわからん！	
+MAP53_e4_p1_22	褒められてんだか貶されてんだかわからん！	I can't tell if that's a compliment or an insult!
 MAP53_e4_p1_3	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
-MAP53_e4_p1_6	よう、バモヤシ。おひさ！	
-MAP53_e4_p1_9	うお！？ナガレ！？	
+MAP53_e4_p1_6	よう、バモヤシ。おひさ！	Yo, Bamoyashi. Long time no see!
+MAP53_e4_p1_9	うお！？ナガレ！？	Whoa!? Nagare!?
 MAP53_e5_p0_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
 MAP53_e5_p0_14	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP53_e5_p0_15	気を付けてねー	be careful now~
-MAP53_e5_p0_2	旅人かい？	
+MAP53_e5_p0_2	旅人かい？	A traveler, are you?
 MAP53_e5_p0_20	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP53_e5_p0_21	気を付けてねー	be careful now~
-MAP53_e5_p0_3	なにもなくってガッカリしただろ。	
-MAP53_e5_p0_4	まあ、よかったらお茶でも飲んでいけば？	
+MAP53_e5_p0_3	なにもなくってガッカリしただろ。	Bet you're disappointed there's nothing here.
+MAP53_e5_p0_4	まあ、よかったらお茶でも飲んでいけば？	Well, why not have some tea if you like?
 MAP53_e5_p1_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
 MAP53_e5_p1_14	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
 MAP53_e5_p1_15	ナガレ。	Nagare?
 MAP53_e5_p1_18	うん、ありがとう！	Yeah, thank you!
-MAP53_e5_p1_2	あ、ナガレじゃん。	
+MAP53_e5_p1_2	あ、ナガレじゃん。	Oh, it's Nagare.
 MAP53_e5_p1_23	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
 MAP53_e5_p1_24	ナガレ。	Nagare?
 MAP53_e5_p1_27	うん、ありがとう！	Yeah, thank you!
-MAP53_e5_p1_3	せっかく来たんだし、よかったら	
-MAP53_e5_p1_4	お茶でも飲んでいけば？	
+MAP53_e5_p1_3	せっかく来たんだし、よかったら	Since you came all this way, why not
+MAP53_e5_p1_4	お茶でも飲んでいけば？	have some tea?
 MAP53_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP53_e7_p0_2	　　　　セイリューとの連絡に用いられている手紙類だ	
+MAP53_e7_p0_2	　　　　セイリューとの連絡に用いられている手紙類だ	These are letters used to keep in touch with Seiryu.
 MAP53_e8_p0_2	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP53_e9_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP54_e3_p0_2	あらいらっしゃい。	
-MAP54_e3_p0_3	コメならここでは買えないよ。	
-MAP54_e3_p0_4	領民で分けあっているものだから。	
-MAP54_e3_p0_6	だけど宿の食事とか、あと行商人から	
-MAP54_e3_p0_7	携帯食のライスボールが買えたりするから、	
-MAP54_e3_p0_8	食べることはできるんだよ。	
+MAP54_e3_p0_2	あらいらっしゃい。	Oh, welcome.
+MAP54_e3_p0_3	コメならここでは買えないよ。	You can't buy rice here.
+MAP54_e3_p0_4	領民で分けあっているものだから。	It's shared among the villagers.
+MAP54_e3_p0_6	だけど宿の食事とか、あと行商人から	But you can get it in inn meals, or buy portable
+MAP54_e3_p0_7	携帯食のライスボールが買えたりするから、	rice balls from the peddlers,
+MAP54_e3_p0_8	食べることはできるんだよ。	so you can still eat.
 MAP54_e4_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP54_e5_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP54_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -3345,7 +3345,7 @@ MAP55_e12_p0_152	なんだなんだ、どうなるんだ！？
 MAP55_e12_p0_155	うるさい！	
 MAP55_e12_p0_156	あんたら話の腰を折るんじゃない！	
 MAP55_e12_p0_157	ただでさえ長くなるんじゃ！！	
-MAP55_e12_p0_160	はい…	
+MAP55_e12_p0_160	はい…	Yes...
 MAP55_e12_p0_163	すんません…	
 MAP55_e12_p0_167	　　　　　はじまりの水の者はとても疲れていた	
 MAP55_e12_p0_17	よういらっしゃった、火と風の紋章の継承者	
@@ -3367,7 +3367,7 @@ MAP55_e12_p0_197	なんだなんだどうなるんだ？？
 MAP55_e12_p0_200	だまらっしゃい！！	
 MAP55_e12_p0_201	ナガレも黙って聞きなさい！！	
 MAP55_e12_p0_202	長くなると言っておるじゃろ！！	
-MAP55_e12_p0_205	はい…	
+MAP55_e12_p0_205	はい…	Yes...
 MAP55_e12_p0_208	　　　　　　　　真っ暗闇の中をふらふらと	
 MAP55_e12_p0_210	　　　　　　　　　　歩いていると…	
 MAP55_e12_p0_212	　　　　　　突然足元の感覚が、地面がなくなった	
@@ -3522,12 +3522,12 @@ MAP55_e12_p0_518	…はい。	...Yes.
 MAP55_e12_p0_52	知らないのだったら、闇のエレメントとの	
 MAP55_e12_p0_521	では、ホノオどの、ウィンどの。	
 MAP55_e12_p0_522	ナガレをよろしく頼みましたぞ。	
-MAP55_e12_p0_527	龍のお社は村を出て東へ向かえば見えてきます。	
-MAP55_e12_p0_528	それと…	
+MAP55_e12_p0_527	龍のお社は村を出て東へ向かえば見えてきます。	Leave the village and head east, and the Dragon Shrine will come into view.
+MAP55_e12_p0_528	それと…	Also...
 MAP55_e12_p0_53	戦い、どうなるんだ！？	
-MAP55_e12_p0_530	旅立ちの前に、部屋の外にいる、	
-MAP55_e12_p0_531	トリカゼとマハリに話し掛けてみて下さい。	
-MAP55_e12_p0_532	何やら用意してくれているものがあるようです。	
+MAP55_e12_p0_530	旅立ちの前に、部屋の外にいる、	Before you set out, try talking to
+MAP55_e12_p0_531	トリカゼとマハリに話し掛けてみて下さい。	Torikaze and Mahari, who are outside the room.
+MAP55_e12_p0_532	何やら用意してくれているものがあるようです。	It seems they've prepared something for you.
 MAP55_e12_p0_537	お社の場所なら当然あたしが知っているから、	
 MAP55_e12_p0_538	あんたらはついてくるだけで大丈夫さ。	
 MAP55_e12_p0_540	本物の紋章の力があるんだろ？	
@@ -3584,35 +3584,35 @@ MAP55_e13_p2_4	けれど…　気を付けて。
 MAP55_e14_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP55_e15_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP55_e16_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP55_e22_p1_11	きっともう少しの辛抱さ！	
-MAP55_e22_p1_12	ちゃんとごはん食べて元気出そう！	
-MAP55_e22_p1_2	えらいことになったね…	
-MAP55_e22_p1_3	でも、こういうときの為にも薬類は	
-MAP55_e22_p1_4	たくさん揃えてあるよ！	
-MAP55_e22_p2_12	きっともう少しの辛抱さ！	
-MAP55_e22_p2_13	ちゃんとごはん食べて元気出そう！	
-MAP55_e22_p2_2	えらいことになったね…	
-MAP55_e22_p2_3	でも、こういうときの為にも薬類は	
-MAP55_e22_p2_4	たくさん揃えてあるよ！	
-MAP55_e23_p1_17	まだ新作の刀は出来ていない…。	
-MAP55_e23_p1_18	洪水のせいで鍛冶場に行けなくなっちまった	
-MAP55_e23_p1_19	からな…	
-MAP55_e23_p1_2	ちょうど洪水の前に、	
-MAP55_e23_p1_3	行商人が置いて行った他国の武具もあるぞ。	
+MAP55_e22_p1_11	きっともう少しの辛抱さ！	A little more patience, surely!
+MAP55_e22_p1_12	ちゃんとごはん食べて元気出そう！	Eat properly and keep your spirits up!
+MAP55_e22_p1_2	えらいことになったね…	This is quite the situation...
+MAP55_e22_p1_3	でも、こういうときの為にも薬類は	But it's for times like this that we stock
+MAP55_e22_p1_4	たくさん揃えてあるよ！	plenty of medicines!
+MAP55_e22_p2_12	きっともう少しの辛抱さ！	A little more patience, surely!
+MAP55_e22_p2_13	ちゃんとごはん食べて元気出そう！	Eat properly and keep your spirits up!
+MAP55_e22_p2_2	えらいことになったね…	This is quite the situation...
+MAP55_e22_p2_3	でも、こういうときの為にも薬類は	But it's for times like this that we stock
+MAP55_e22_p2_4	たくさん揃えてあるよ！	plenty of medicines!
+MAP55_e23_p1_17	まだ新作の刀は出来ていない…。	The new blade isn't done yet...
+MAP55_e23_p1_18	洪水のせいで鍛冶場に行けなくなっちまった	The flood kept me from getting to
+MAP55_e23_p1_19	からな…	the forge...
+MAP55_e23_p1_2	ちょうど洪水の前に、	Just before the flood,
+MAP55_e23_p1_3	行商人が置いて行った他国の武具もあるぞ。	a peddler left behind some foreign arms.
 MAP55_e23_p1_4	必要なものがあったら買って行け。	If you need anything, buy it before you go.
-MAP55_e23_p2_17	まだ新作の刀は出来ていない…。	
-MAP55_e23_p2_18	洪水のせいで鍛冶場に行けなくなっちまった	
-MAP55_e23_p2_19	からな…	
-MAP55_e23_p2_2	ちょうど洪水の前に、	
-MAP55_e23_p2_3	行商人が置いて行った他国の武具もあるぞ。	
+MAP55_e23_p2_17	まだ新作の刀は出来ていない…。	The new blade isn't done yet...
+MAP55_e23_p2_18	洪水のせいで鍛冶場に行けなくなっちまった	The flood kept me from getting to
+MAP55_e23_p2_19	からな…	the forge...
+MAP55_e23_p2_2	ちょうど洪水の前に、	Just before the flood,
+MAP55_e23_p2_3	行商人が置いて行った他国の武具もあるぞ。	a peddler left behind some foreign arms.
 MAP55_e23_p2_4	必要なものがあったら買って行け。	If you need anything, buy it before you go.
-MAP55_e23_p3_12	な、なんだーーー！？	
-MAP55_e23_p3_13	この洗濯物を干す棒みてーな刀はよ！？	
+MAP55_e23_p3_12	な、なんだーーー！？	Wh-What the—!?
+MAP55_e23_p3_13	この洗濯物を干す棒みてーな刀はよ！？	This blade looks like a clothes-drying pole!
 MAP55_e23_p3_16	俺たちセイリューの民が使う、つばめ返し…	
 MAP55_e23_p3_17	その秘剣を極限まで高められる刀を設計したら	
 MAP55_e23_p3_18	こうなった…。	
-MAP55_e23_p3_2	ナガレ、遂に新作が完成したぞ。	
-MAP55_e23_p3_21	そ、そうなんだ…？	
+MAP55_e23_p3_2	ナガレ、遂に新作が完成したぞ。	Nagare, the new blade is finally done.
+MAP55_e23_p3_21	そ、そうなんだ…？	R-Really...?
 MAP55_e23_p3_24	つばめ返しの威力は確かに上がったが…	
 MAP55_e23_p3_25	普通に使う刀としての性能には自信がない…	
 MAP55_e23_p3_28	だから、ナガレ、お前が実戦で使ってみて、	
@@ -3626,13 +3626,13 @@ MAP55_e23_p3_4	託そう。
 MAP55_e23_p3_40	そうか、邪推して悪かったよ！	
 MAP55_e23_p3_41	あんたの気持ちと一緒に、有難くいただくよ！	
 MAP55_e23_p3_9	　　　　　　ナガレは物干し竿を受け取った！	
-MAP55_e23_p4_12	な、なんだーーー！？	
-MAP55_e23_p4_13	この洗濯物を干す棒みてーな刀はよ！？	
+MAP55_e23_p4_12	な、なんだーーー！？	Wh-What the—!?
+MAP55_e23_p4_13	この洗濯物を干す棒みてーな刀はよ！？	This blade looks like a clothes-drying pole!
 MAP55_e23_p4_16	秘剣つばめ返しを極限まで高められる刀を設計	
 MAP55_e23_p4_17	したらこうなった…。	
 MAP55_e23_p4_18	この形の刀を、大太刀と名付けた。	
-MAP55_e23_p4_2	ナガレ、遂に新作が完成したぞ。	
-MAP55_e23_p4_21	そ、そうなんだ…？	
+MAP55_e23_p4_2	ナガレ、遂に新作が完成したぞ。	Nagare, the new blade is finally done.
+MAP55_e23_p4_21	そ、そうなんだ…？	R-Really...?
 MAP55_e23_p4_24	つばめ返しの威力は確かに上がったが…	
 MAP55_e23_p4_25	普通に使う刀としての性能には自信がない…	
 MAP55_e23_p4_28	だから、ナガレ、お前が実戦で使ってみて、	
@@ -3658,12 +3658,12 @@ MAP55_e23_p6_16	増やせそうだ…。
 MAP55_e23_p6_2	物干し竿みたいなの以外に、ちゃんと普通の刀も	
 MAP55_e23_p6_3	置いている…。	
 MAP55_e23_p6_4	必要なものがあったら買って行け。	If you need anything, buy it before you go.
-MAP55_e24_p0_2	あらいらっしゃい。	
-MAP55_e24_p0_3	コメならここでは買えないよ。	
-MAP55_e24_p0_4	領民で分けあっているものだから。	
-MAP55_e24_p0_6	だけど宿の食事とか、あと行商人から	
-MAP55_e24_p0_7	携帯食のライスボールが買えたりするから、	
-MAP55_e24_p0_8	食べることはできるんだよ。	
+MAP55_e24_p0_2	あらいらっしゃい。	Oh, welcome.
+MAP55_e24_p0_3	コメならここでは買えないよ。	You can't buy rice here.
+MAP55_e24_p0_4	領民で分けあっているものだから。	It's shared among the villagers.
+MAP55_e24_p0_6	だけど宿の食事とか、あと行商人から	But you can get it in inn meals, or buy portable
+MAP55_e24_p0_7	携帯食のライスボールが買えたりするから、	rice balls from the peddlers,
+MAP55_e24_p0_8	食べることはできるんだよ。	so you can still eat.
 MAP55_e24_p1_2	コメの蓄えはなんとか全部持ち出せたけど…	
 MAP55_e24_p1_3	田んぼに植えていた分は全滅だねえ…。	
 MAP55_e24_p1_5	だけどいまあるコメはちゃんとみんなと	
@@ -3887,11 +3887,11 @@ MAP55_e7_p2_91	本当のことは、わしにもわからん。
 MAP55_e7_p2_94	そのつもりで、聞くのじゃ。	
 MAP55_e7_p2_97	うん…　	
 MAP55_e7_p3_2	村のことは任せなさい！	
-MAP55_e8_p1_2	龍のお社は村を出て東へ向かえば見えてきます。	
-MAP55_e8_p1_3	それと…	
-MAP55_e8_p1_5	旅立ちの前に、部屋の外にいる、	
-MAP55_e8_p1_6	トリカゼとマハリに話し掛けてみて下さい。	
-MAP55_e8_p1_7	何やら用意してくれているものがあるようです。	
+MAP55_e8_p1_2	龍のお社は村を出て東へ向かえば見えてきます。	Leave the village and head east, and the Dragon Shrine will come into view.
+MAP55_e8_p1_3	それと…	Also...
+MAP55_e8_p1_5	旅立ちの前に、部屋の外にいる、	Before you set out, try talking to
+MAP55_e8_p1_6	トリカゼとマハリに話し掛けてみて下さい。	Torikaze and Mahari, who are outside the room.
+MAP55_e8_p1_7	何やら用意してくれているものがあるようです。	It seems they've prepared something for you.
 MAP55_e8_p2_10	くれたの。	
 MAP55_e8_p2_13	そうか…　よかった…！	
 MAP55_e8_p2_16	とりあえず、いまはまず、オタキ様と話を…	
@@ -4511,13 +4511,13 @@ MAP61_e20_p1_6	おこう。向こうに着いたらそれどころじゃない
 MAP61_e20_p1_7	可能性もあるからな。	
 MAP61_e39_p0_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP61_e39_p0_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
-MAP61_e39_p1_10	任せておいてくれると助かるよ。	
-MAP61_e39_p1_13	分かった。でも、狩り以外でも何か助けが	
-MAP61_e39_p1_14	いるなら、気兼ねしないで話してくれよ？	
+MAP61_e39_p1_10	任せておいてくれると助かるよ。	I'd be glad if you left it to me.
+MAP61_e39_p1_13	分かった。でも、狩り以外でも何か助けが	Got it. But if you need help with anything beyond hunting,
+MAP61_e39_p1_14	いるなら、気兼ねしないで話してくれよ？	don't hesitate to say so, alright?
 MAP61_e39_p1_2	狩場に魔物が出まくってて、しばらく	Monsters are swarming the hunting grounds, so for a while
 MAP61_e39_p1_3	ここは通行止めにさせてもらってる。	this way's closed to traffic.
-MAP61_e39_p1_6	北の村でもか…。助けはいらないのか？	
-MAP61_e39_p1_9	ああ、むしろ狩人たちの邪魔になるから、	
+MAP61_e39_p1_6	北の村でもか…。助けはいらないのか？	In the northern village too...? You don't need help?
+MAP61_e39_p1_9	ああ、むしろ狩人たちの邪魔になるから、	Nah, in fact we'd just get in the hunters' way, so
 MAP61_e49_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP61_e50_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP61_e53_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -6706,37 +6706,37 @@ MAP74_e14_p0_4	魔物が増えてるから。
 MAP74_e14_p0_6	ああ、完成した橋なら、南に行けばすぐ分かる。	
 MAP74_e4_p0_2	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
 MAP74_e4_p0_3	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
-MAP74_e4_p1_10	お前こんなところに何しに…？	
-MAP74_e4_p1_13	ちょっと寄り道しただけさ。	
-MAP74_e4_p1_14	それよりなんだよ、その驚きようは？	
-MAP74_e4_p1_17	いや…　あの悪ガキが突然きれいになって	
-MAP74_e4_p1_18	やって来るもんだからこころの準備が…	
-MAP74_e4_p1_19	え、本当にナガレなんだよな？	
+MAP74_e4_p1_10	お前こんなところに何しに…？	What are you doing in a place like this...?
+MAP74_e4_p1_13	ちょっと寄り道しただけさ。	Just taking a little detour.
+MAP74_e4_p1_14	それよりなんだよ、その驚きようは？	Anyway, why the surprise?
+MAP74_e4_p1_17	いや…　あの悪ガキが突然きれいになって	Well... that little brat suddenly showed up all clean,
+MAP74_e4_p1_18	やって来るもんだからこころの準備が…	and I wasn't prepared for it...
+MAP74_e4_p1_19	え、本当にナガレなんだよな？	Wait, you're really Nagare, right?
 MAP74_e4_p1_2	ああ、迷い込んだみたいだね。	Yeah, looks like they wandered in.
-MAP74_e4_p1_22	褒められてんだか貶されてんだかわからん！	
+MAP74_e4_p1_22	褒められてんだか貶されてんだかわからん！	I can't tell if that's a compliment or an insult!
 MAP74_e4_p1_3	ここはただの採石場だ。何もないよ。	This is just a quarry. Nothing here.
-MAP74_e4_p1_6	よう、バモヤシ。おひさ！	
-MAP74_e4_p1_9	うお！？ナガレ！？	
+MAP74_e4_p1_6	よう、バモヤシ。おひさ！	Yo, Bamoyashi. Long time no see!
+MAP74_e4_p1_9	うお！？ナガレ！？	Whoa!? Nagare!?
 MAP74_e5_p0_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
 MAP74_e5_p0_14	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP74_e5_p0_15	気を付けてねー	be careful now~
-MAP74_e5_p0_2	旅人かい？	
+MAP74_e5_p0_2	旅人かい？	A traveler, are you?
 MAP74_e5_p0_20	まだ村まで結構遠いし、魔物も出るから	The village is still pretty far, and monsters appear, so
 MAP74_e5_p0_21	気を付けてねー	be careful now~
-MAP74_e5_p0_3	なにもなくってガッカリしただろ。	
-MAP74_e5_p0_4	まあ、よかったらお茶でも飲んでいけば？	
+MAP74_e5_p0_3	なにもなくってガッカリしただろ。	Bet you're disappointed there's nothing here.
+MAP74_e5_p0_4	まあ、よかったらお茶でも飲んでいけば？	Well, why not have some tea if you like?
 MAP74_e5_p1_10	　　　　　お茶を飲んで、みんなのＨＰが回復した！	Everyone drank tea and recovered HP!
 MAP74_e5_p1_14	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
 MAP74_e5_p1_15	ナガレ。	Nagare?
 MAP74_e5_p1_18	うん、ありがとう！	Yeah, thank you!
-MAP74_e5_p1_2	あ、ナガレじゃん。	
+MAP74_e5_p1_2	あ、ナガレじゃん。	Oh, it's Nagare.
 MAP74_e5_p1_23	こうやってまた、たまには顔見せに来てよね、	Come show your face once in a while, okay,
 MAP74_e5_p1_24	ナガレ。	Nagare?
 MAP74_e5_p1_27	うん、ありがとう！	Yeah, thank you!
-MAP74_e5_p1_3	せっかく来たんだし、よかったら	
-MAP74_e5_p1_4	お茶でも飲んでいけば？	
+MAP74_e5_p1_3	せっかく来たんだし、よかったら	Since you came all this way, why not
+MAP74_e5_p1_4	お茶でも飲んでいけば？	have some tea?
 MAP74_e6_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP74_e7_p0_2	　　　　セイリューとの連絡に用いられている手紙類だ	
+MAP74_e7_p0_2	　　　　セイリューとの連絡に用いられている手紙類だ	These are letters used to keep in touch with Seiryu.
 MAP74_e8_p0_2	　　　　　　見たことのない薬類が入っている	It's full of medicines I've never seen before.
 MAP74_e9_p0_2	　　　　　　　　　編みかけのマフラーだ	
 MAP75_e10_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
@@ -8459,7 +8459,7 @@ MAP92_e1_p0_6	しかし最近南の遺跡に魔物が増えたのと、	But with
 MAP92_e1_p0_7	何より王子が死んでしまうのを恐れて、	and above all fearing the prince might die,
 MAP92_e1_p0_8	王は今回の試練を見送るつもりだったのだ…	the king intended to skip the trial this time...
 MAP92_e1_p1_10	王子、必ず生きてお帰り下さい。	Prince, please come back alive, I beg you.
-MAP92_e1_p1_13	お、おい…急になんかそういうの、よそうよ…	
+MAP92_e1_p1_13	お、おい…急になんかそういうの、よそうよ…	H-Hey... let's not suddenly get all... you know...
 MAP92_e1_p1_14	ちょっと、キツイ…	It's a bit much...
 MAP92_e1_p1_2	ホノオ王子、行かれるのですな。	Prince Hono, so you're leaving.
 MAP92_e1_p1_5	当たり前だろ！オレは火の紋章の勇者様だぜ！	Of course! I'm the hero of the Fire Crest!
