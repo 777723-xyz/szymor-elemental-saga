@@ -105,6 +105,46 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
 - Tested round-trip on a copy: translations land on the correct IDs, JSON stays valid,
   and re-extraction shows exactly the translated rows.
 
+### 5. Rebuild the English build
+The English build (`build/english/www`) is **not part of the repo** — it is a
+generated artifact (gitignored) and can be reproduced from the tracked sources:
+- `www/` — the original Japanese game, plus the committed English-side engine/UI
+  fixes: `js/plugins/EndGme.js` (title-screen "Close Game" parameter key),
+  `js/rpg_scenes.js` (3-line help window), `index.html` (<title>Crest Story</title>).
+- `docs/text/translated.tsv` — the full translation table (extracted rows + English).
+- `tools/` — the pipeline scripts.
+
+**Fresh rebuild** (all other files are byte-copies of `www`):
+```sh
+mkdir -p build/english
+cp -r www build/english/
+python3 tools/inject_text.py docs/text/translated.tsv \
+    --data build/english/www/data \
+    --plugins build/english/www/js/plugins.js
+```
+The injector touches **only** `www`-copy paths: `data/*.json` (dialogue, choices,
+database texts, troop names, System terms, …) and `js/plugins.js` (plugin
+parameter values).
+Everything else must come from the `cp -r www` step, which is also what carries the
+EndGme / help-window / index.html fixes above.
+
+**Incremental rebuild** (only translations changed): re-run the same
+`inject_text.py` command against the existing `build/english/www` — it overwrites
+the translated fields in place and does not need the copy step. Modified files are
+backed up to `docs/text/backups/<timestamp>/`; pass `--no-backup` to skip.
+
+**Verify**
+- `python3 tools/check_text_fit.py docs/text/translated.tsv` — 0 overflowing
+  dialogue lines (budget 780px / 612px with face).
+- The regenerated data itself can be measured with the same font (dialogue ≤ 4
+  lines, item/skill/weapon/armor descriptions ≤ 3 help-window lines, actor
+  profiles ≤ 2 status-window lines).
+- Playtest by opening `build/english/www/index.html` in a browser.
+
+**Note:** RPG Maker MV serializes actor profiles into save files, so an old save
+created with a previous build keeps showing the old profile text. Start a new
+game (or discard old saves) after a rebuild.
+
 ### Known quirks / leftovers
 - Choice branches (code 402) are matched by **index** (`params[0]`), not by text.
 - `docs/text/plugin.tsv` (lowercase) is a stale leftover from an earlier run; ignore it.
@@ -115,11 +155,14 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
   freshly copied build must carry that fix too.
 
 ### Translation progress (FINAL)
-- **18,322 / 18,323 strings translated.** The single untranslated string is the
+- **18,460 / 18,461 strings translated.** The single untranslated string is the
   disabled SceneGlossary plugin's config blob.
 - The Japanese filter of `extract_text.py` was widened to CJK punctuation, so
   punctuation-only dialogue ("…。", "？：", "？？？" ...) is now extracted and
   translated (491 rows added; "…。" -> "...", "？：" -> "?:", etc.).
+- Troop names are extracted (`TROOP<n>_name`) and applied by the injector —
+  138 named troops (12 troops have no name). They were previously translated
+  by hand in the build only, so a rebuild lost them.
 - Full coverage of the RPG Maker MV text surface, including:
   - Map/CommonEvent/Troop event commands (dialogue, choices, names, scripts)
   - DB name/description/note, use messages (message1/2), state messages
@@ -145,9 +188,9 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
   lines (`new Window_Help(3)` in `www/js/rpg_scenes.js`); em-dashes are spaced
   (" — "); `index.html` <title> is "Crest Story" (it used to show the Japanese
   title until Scene_Boot set `document.title`).
-- English build: `build/english/www` (gitignored; regenerate with
-  `python3 tools/inject_text.py docs/text/translated.tsv --data build/english/www/data --plugins build/english/www/js/plugins.js --no-backup`).
-  Playtest by opening `build/english/www/index.html` in a browser.
+- English build: `build/english/www` (gitignored, fully rebuildable — see
+  "### 5. Rebuild the English build" above). Playtest by opening
+  `build/english/www/index.html` in a browser.
 
 ### Baked-in image text audit (OCR-verified, 2026-08-11)
 - `img/titles1/CrossedSwords.png`, `img/titles2/Medieval.png`: no text — the title

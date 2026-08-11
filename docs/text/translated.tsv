@@ -18322,3 +18322,141 @@ TROOP95_p2_27	Troops.json	0	dialogue	………。	...
 TROOP95_p3_2	Troops.json	0	dialogue	…………。	...
 TROOP95_p4_2	Troops.json	0	dialogue	………！	...!
 TROOP9_p0_9	Troops.json	0	dialogue	…！	...!
+TROOP100_name	Troops.json	troop name	name	髪が伸びる人形	Hair-Growing Doll
+TROOP101_name	Troops.json	troop name	name	焔牛	Blaze Bull
+TROOP102_name	Troops.json	troop name	name	サムライボス用	Samurai Boss
+TROOP103_name	Troops.json	troop name	name	火のサムライ, 氷のサムライ	Fire Samurai, Ice Samurai
+TROOP104_name	Troops.json	troop name	name	氷のサムライ, 風のサムライ	Ice Samurai, Wind Samurai
+TROOP105_name	Troops.json	troop name	name	髪が伸びる人形*3	Hair-Growing Doll x3
+TROOP106_name	Troops.json	troop name	name	ミケーネ裏	Mycenae (Rear)
+TROOP107_name	Troops.json	troop name	name	ナウー, ミケーネ	Nau, Mycenae
+TROOP108_name	Troops.json	troop name	name	ダフィール	Dafill
+TROOP109_name	Troops.json	troop name	name	操られたピピン　裏	Brainwashed Pipin (Rear)
+TROOP10_name	Troops.json	troop name	name	人食いハチ	Man-eating Bee
+TROOP110_name	Troops.json	troop name	name	雲ガメ　ボス	Cloud Turtle, Boss
+TROOP111_name	Troops.json	troop name	name	雷イヌ　ボス	Thunder Dog, Boss
+TROOP112_name	Troops.json	troop name	name	雲ガメ	Cloud Turtle
+TROOP113_name	Troops.json	troop name	name	雷イヌ	Thunder Dog
+TROOP114_name	Troops.json	troop name	name	ひとつ目のアクマ	One-Eyed Fiend
+TROOP115_name	Troops.json	troop name	name	青い巨人	Blue Giant
+TROOP116_name	Troops.json	troop name	name	猛毒ヘビ*3	Venomous Snake x3
+TROOP117_name	Troops.json	troop name	name	猛毒ヘビ*2	Venomous Snake x2
+TROOP118_name	Troops.json	troop name	name	サヨコ	Sayoko
+TROOP119_name	Troops.json	troop name	name	ダークフェアリー	Dark Fairy
+TROOP11_name	Troops.json	troop name	name	人食いハチ*2	Man-eating Bee x2
+TROOP120_name	Troops.json	troop name	name	凍りついたヒノタマ	Frozen Hinotama
+TROOP121_name	Troops.json	troop name	name	燃え盛るヒノタマ	Burning Hinotama
+TROOP122_name	Troops.json	troop name	name	サヨコ, ダークフェアリー, 猛毒ヘビ	Sayoko, Dark Fairy, Venomous Snake
+TROOP123_name	Troops.json	troop name	name	燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ	Burning Hinotama, Dark Fairy, Frozen Hinotama
+TROOP124_name	Troops.json	troop name	name	燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ	Burning Hinotama, Venomous Snake, Frozen Hinotama
+TROOP125_name	Troops.json	troop name	name	ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ	Dark Fairy, Burning Hinotama, Venomous Snake
+TROOP126_name	Troops.json	troop name	name	ダークフェアリー, 青い巨人	Dark Fairy, Blue Giant
+TROOP127_name	Troops.json	troop name	name	燃え盛るヒノタマ, 青い巨人	Burning Hinotama, Blue Giant
+TROOP128_name	Troops.json	troop name	name	青い巨人, 凍りついたヒノタマ	Blue Giant, Frozen Hinotama
+TROOP129_name	Troops.json	troop name	name	凄腕バンデッド	Skilled Bandit
+TROOP12_name	Troops.json	troop name	name	人食い草*2	Man-eating Grass x2
+TROOP130_name	Troops.json	troop name	name	凄腕バンデッド, 凍りついたヒノタマ	Skilled Bandit, Frozen Hinotama
+TROOP131_name	Troops.json	troop name	name	凄腕バンデッド, 燃え盛るヒノタマ	Skilled Bandit, Burning Hinotama
+TROOP132_name	Troops.json	troop name	name	サヨコ, 凄腕バンデッド, 猛毒ヘビ	Sayoko, Skilled Bandit, Venomous Snake
+TROOP133_name	Troops.json	troop name	name	凄腕バンデッド, 青い巨人	Skilled Bandit, Blue Giant
+TROOP135_name	Troops.json	troop name	name	大魔道士ピケピケ　裏	Grand Mage Pikepike (Rear)
+TROOP136_name	Troops.json	troop name	name	ミケーネ　裏	Mycenae (Rear)
+TROOP137_name	Troops.json	troop name	name	ナウー　裏	Nau (Rear)
+TROOP138_name	Troops.json	troop name	name	魔王ダフィール一回目　裏	Demon King Dafill, First Fight (Rear)
+TROOP139_name	Troops.json	troop name	name	魔王ダフィール本番　裏	Demon King Dafill, The Real Thing (Rear)
+TROOP13_name	Troops.json	troop name	name	新米バンデッド	Rookie Bandit
+TROOP140_name	Troops.json	troop name	name	大魔王ダフィール　裏	Great Demon King Dafill (Rear)
+TROOP141_name	Troops.json	troop name	name	闇の王	Dark King
+TROOP142_name	Troops.json	troop name	name	伝説のバンデッド	Legendary Bandit
+TROOP14_name	Troops.json	troop name	name	ナウー本番戦闘	Nau, Final Battle
+TROOP15_name	Troops.json	troop name	name	娘さん	The Girl
+TROOP16_name	Troops.json	troop name	name	ナウー自動戦闘	Nau, Auto Battle
+TROOP17_name	Troops.json	troop name	name	デザートウルフ	Desert Wolf
+TROOP18_name	Troops.json	troop name	name	デザートウルフ*2	Desert Wolf x2
+TROOP19_name	Troops.json	troop name	name	マムシ	Mamushi
+TROOP1_name	Troops.json	troop name	name	人食いコウモリ*3	Man-eating Bat x3
+TROOP20_name	Troops.json	troop name	name	ハブ	Habu
+TROOP21_name	Troops.json	troop name	name	アオダイショー	Aodaisho
+TROOP22_name	Troops.json	troop name	name	アオダイショー, マムシ	Aodaisho, Mamushi
+TROOP23_name	Troops.json	troop name	name	ハブ, アオダイショー	Habu, Aodaisho
+TROOP24_name	Troops.json	troop name	name	マムシ*2	Mamushi x2
+TROOP25_name	Troops.json	troop name	name	ハブ, マムシ, アオダイショー	Habu, Mamushi, Aodaisho
+TROOP26_name	Troops.json	troop name	name	動く人形*3	Moving Doll x3
+TROOP27_name	Troops.json	troop name	name	火牛	Flame Bull
+TROOP28_name	Troops.json	troop name	name	炎のアクマ	Flame Fiend
+TROOP29_name	Troops.json	troop name	name	風のアクマ	Wind Fiend
+TROOP2_name	Troops.json	troop name	name	人食いネズミ*2	Man-eating Rat x2
+TROOP30_name	Troops.json	troop name	name	氷のアクマ	Ice Fiend
+TROOP31_name	Troops.json	troop name	name	動く人形*2	Moving Doll x2
+TROOP32_name	Troops.json	troop name	name	動く人形	Moving Doll
+TROOP33_name	Troops.json	troop name	name	火牛	Flame Bull
+TROOP34_name	Troops.json	troop name	name	炎のアクマ, 風のアクマ, 氷のアクマ	Flame Fiend, Wind Fiend, Ice Fiend
+TROOP35_name	Troops.json	troop name	name	ミケーネ, 青龍	Mycenae, Seiryu
+TROOP36_name	Troops.json	troop name	name	ミケーネ	Mycenae
+TROOP37_name	Troops.json	troop name	name	火食い鳥*4, 火牛	Fire-Eating Bird x4, Flame Bull
+TROOP38_name	Troops.json	troop name	name	サチコ*3	Sachiko x3
+TROOP39_name	Troops.json	troop name	name	サチコ*2, 火牛	Sachiko x2, Flame Bull
+TROOP3_name	Troops.json	troop name	name	人食いグモ*2	Man-eating Spider x2
+TROOP41_name	Troops.json	troop name	name	ナウー2回目	Nau, Second Fight
+TROOP42_name	Troops.json	troop name	name	ひとつ目のアクマ	One-Eyed Fiend
+TROOP43_name	Troops.json	troop name	name	操られたピピン	Brainwashed Pipin
+TROOP45_name	Troops.json	troop name	name	火吹きイヌ	Fire-Breathing Dog
+TROOP46_name	Troops.json	troop name	name	火牛	Flame Bull
+TROOP47_name	Troops.json	troop name	name	サチコ, 火牛	Sachiko, Flame Bull
+TROOP48_name	Troops.json	troop name	name	雷牛	Thunder Bull
+TROOP49_name	Troops.json	troop name	name	雷牛, サチコ	Thunder Bull, Sachiko
+TROOP4_name	Troops.json	troop name	name	人食いコウモリ*2, 人食いネズミ	Man-eating Bat x2, Man-eating Rat
+TROOP50_name	Troops.json	troop name	name	火食い鳥*2, 火牛	Fire-Eating Bird x2, Flame Bull
+TROOP51_name	Troops.json	troop name	name	火吹きイヌ*2	Fire-Breathing Dog x2
+TROOP52_name	Troops.json	troop name	name	火食い鳥*2, 火吹きイヌ	Fire-Eating Bird x2, Fire-Breathing Dog
+TROOP53_name	Troops.json	troop name	name	サチコ*3	Sachiko x3
+TROOP54_name	Troops.json	troop name	name	火牛, 雷牛	Flame Bull, Thunder Bull
+TROOP55_name	Troops.json	troop name	name	てすと	test
+TROOP56_name	Troops.json	troop name	name	焼き焦げた人形*2, 凍りついた人形*2	Charred Doll x2, Frozen Doll x2
+TROOP57_name	Troops.json	troop name	name	生えてきた目玉*2	Growing Eyeball x2
+TROOP58_name	Troops.json	troop name	name	生えてきた目玉*3	Growing Eyeball x3
+TROOP59_name	Troops.json	troop name	name	踊り狂うアクマ	Dancing Fiend
+TROOP5_name	Troops.json	troop name	name	人食いコウモリ*2, 人食いグモ*2	Man-eating Bat x2, Man-eating Spider x2
+TROOP60_name	Troops.json	troop name	name	雷を帯びた妖精	Thunder Fairy
+TROOP61_name	Troops.json	troop name	name	雷を帯びた妖精*2	Thunder Fairy x2
+TROOP62_name	Troops.json	troop name	name	セイレーン	Siren
+TROOP63_name	Troops.json	troop name	name	焼き焦げた人形, セイレーン, 凍りついた人形	Charred Doll, Siren, Frozen Doll
+TROOP64_name	Troops.json	troop name	name	生えてきた目玉*2, 踊り狂うアクマ	Growing Eyeball x2, Dancing Fiend
+TROOP65_name	Troops.json	troop name	name	凍りついた人形, 火吹きイヌ, 焼き焦げた人形	Frozen Doll, Fire-Breathing Dog, Charred Doll
+TROOP66_name	Troops.json	troop name	name	雷を帯びた妖精*2, 踊り狂うアクマ	Thunder Fairy x2, Dancing Fiend
+TROOP67_name	Troops.json	troop name	name	雷を帯びた妖精*2, セイレーン	Thunder Fairy x2, Siren
+TROOP68_name	Troops.json	troop name	name	雷を帯びた妖精*2, 雷牛	Thunder Fairy x2, Thunder Bull
+TROOP69_name	Troops.json	troop name	name	凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形	Frozen Doll, Siren, Growing Eyeball, Charred Doll
+TROOP6_name	Troops.json	troop name	name	人食いネズミ*2, 人食いグモ*2	Man-eating Rat x2, Man-eating Spider x2
+TROOP70_name	Troops.json	troop name	name	焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形	Charred Doll, Dancing Fiend, Siren, Frozen Doll
+TROOP71_name	Troops.json	troop name	name	踊り狂うアクマ*3	Dancing Fiend x3
+TROOP72_name	Troops.json	troop name	name	生えてきた目玉*4	Growing Eyeball x4
+TROOP74_name	Troops.json	troop name	name	ヤバミネーション	Yabamination
+TROOP75_name	Troops.json	troop name	name	暗くかがやく龍	Darkly Shining Dragon
+TROOP76_name	Troops.json	troop name	name	ヤバミネーションざこ	Yabamination, Trash Mob
+TROOP77_name	Troops.json	troop name	name	暗くかがやく龍ざこ	Darkly Shining Dragon, Trash Mob
+TROOP78_name	Troops.json	troop name	name	大魔道士ピケピケ	Grand Mage Pikepike
+TROOP79_name	Troops.json	troop name	name	ミケーネ	Mycenae
+TROOP7_name	Troops.json	troop name	name	人食いグモ	Man-eating Spider
+TROOP80_name	Troops.json	troop name	name	ナウー	Nau
+TROOP81_name	Troops.json	troop name	name	魔王ダフィール一回目	Demon King Dafill, First Fight
+TROOP82_name	Troops.json	troop name	name	魔王ダフィール本番	Demon King Dafill, The Real Thing
+TROOP83_name	Troops.json	troop name	name	大魔王ダフィール	Great Demon King Dafill
+TROOP84_name	Troops.json	troop name	name	ピケピケ	Pikepike
+TROOP85_name	Troops.json	troop name	name	人食いバット*3	Man-eating Bat x3
+TROOP86_name	Troops.json	troop name	name	人食いラット*2	Man-eating Rat x2
+TROOP87_name	Troops.json	troop name	name	人食いスパイダー*2	Man-eating Spider x2
+TROOP88_name	Troops.json	troop name	name	人食いバット*2, 人食いラット	Man-eating Bat x2, Man-eating Rat
+TROOP89_name	Troops.json	troop name	name	人食いバット*2, 人食いスパイダー*2	Man-eating Bat x2, Man-eating Spider x2
+TROOP8_name	Troops.json	troop name	name	人食いグモ*3	Man-eating Spider x3
+TROOP90_name	Troops.json	troop name	name	人食いラット*2, 人食いスパイダー*2	Man-eating Rat x2, Man-eating Spider x2
+TROOP91_name	Troops.json	troop name	name	人食いスパイダー	Man-eating Spider
+TROOP92_name	Troops.json	troop name	name	人食いスパイダー*3	Man-eating Spider x3
+TROOP93_name	Troops.json	troop name	name	人食いドッグ	Man-eating Dog
+TROOP94_name	Troops.json	troop name	name	狂気のジャクリーン	Mad Jacqueline
+TROOP95_name	Troops.json	troop name	name	ナウー本番戦闘　裏	Nau, Final Battle (Rear)
+TROOP96_name	Troops.json	troop name	name	火のサムライ	Fire Samurai
+TROOP97_name	Troops.json	troop name	name	風のサムライ	Wind Samurai
+TROOP98_name	Troops.json	troop name	name	氷のサムライ	Ice Samurai
+TROOP99_name	Troops.json	troop name	name	髪が伸びる人形*2	Hair-Growing Doll x2
+TROOP9_name	Troops.json	troop name	name	人食いイヌ	Man-eating Dog

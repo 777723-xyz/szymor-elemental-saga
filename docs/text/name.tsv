@@ -587,6 +587,144 @@ MAP102_e4_name	Map102.json	event name	name	ウィンダム城下町
 MAP102_e5_name	Map102.json	event name	name	ウィンダム城下町
 MAP102_e7_name	Map102.json	event name	name	廃墟
 CE4_name	CommonEvents.json	common event name	name	奇書
+TROOP1_name	Troops.json	troop name	name	人食いコウモリ*3
+TROOP2_name	Troops.json	troop name	name	人食いネズミ*2
+TROOP3_name	Troops.json	troop name	name	人食いグモ*2
+TROOP4_name	Troops.json	troop name	name	人食いコウモリ*2, 人食いネズミ
+TROOP5_name	Troops.json	troop name	name	人食いコウモリ*2, 人食いグモ*2
+TROOP6_name	Troops.json	troop name	name	人食いネズミ*2, 人食いグモ*2
+TROOP7_name	Troops.json	troop name	name	人食いグモ
+TROOP8_name	Troops.json	troop name	name	人食いグモ*3
+TROOP9_name	Troops.json	troop name	name	人食いイヌ
+TROOP10_name	Troops.json	troop name	name	人食いハチ
+TROOP11_name	Troops.json	troop name	name	人食いハチ*2
+TROOP12_name	Troops.json	troop name	name	人食い草*2
+TROOP13_name	Troops.json	troop name	name	新米バンデッド
+TROOP14_name	Troops.json	troop name	name	ナウー本番戦闘
+TROOP15_name	Troops.json	troop name	name	娘さん
+TROOP16_name	Troops.json	troop name	name	ナウー自動戦闘
+TROOP17_name	Troops.json	troop name	name	デザートウルフ
+TROOP18_name	Troops.json	troop name	name	デザートウルフ*2
+TROOP19_name	Troops.json	troop name	name	マムシ
+TROOP20_name	Troops.json	troop name	name	ハブ
+TROOP21_name	Troops.json	troop name	name	アオダイショー
+TROOP22_name	Troops.json	troop name	name	アオダイショー, マムシ
+TROOP23_name	Troops.json	troop name	name	ハブ, アオダイショー
+TROOP24_name	Troops.json	troop name	name	マムシ*2
+TROOP25_name	Troops.json	troop name	name	ハブ, マムシ, アオダイショー
+TROOP26_name	Troops.json	troop name	name	動く人形*3
+TROOP27_name	Troops.json	troop name	name	火牛
+TROOP28_name	Troops.json	troop name	name	炎のアクマ
+TROOP29_name	Troops.json	troop name	name	風のアクマ
+TROOP30_name	Troops.json	troop name	name	氷のアクマ
+TROOP31_name	Troops.json	troop name	name	動く人形*2
+TROOP32_name	Troops.json	troop name	name	動く人形
+TROOP33_name	Troops.json	troop name	name	火牛
+TROOP34_name	Troops.json	troop name	name	炎のアクマ, 風のアクマ, 氷のアクマ
+TROOP35_name	Troops.json	troop name	name	ミケーネ, 青龍
+TROOP36_name	Troops.json	troop name	name	ミケーネ
+TROOP37_name	Troops.json	troop name	name	火食い鳥*4, 火牛
+TROOP38_name	Troops.json	troop name	name	サチコ*3
+TROOP39_name	Troops.json	troop name	name	サチコ*2, 火牛
+TROOP41_name	Troops.json	troop name	name	ナウー2回目
+TROOP42_name	Troops.json	troop name	name	ひとつ目のアクマ
+TROOP43_name	Troops.json	troop name	name	操られたピピン
+TROOP45_name	Troops.json	troop name	name	火吹きイヌ
+TROOP46_name	Troops.json	troop name	name	火牛
+TROOP47_name	Troops.json	troop name	name	サチコ, 火牛
+TROOP48_name	Troops.json	troop name	name	雷牛
+TROOP49_name	Troops.json	troop name	name	雷牛, サチコ
+TROOP50_name	Troops.json	troop name	name	火食い鳥*2, 火牛
+TROOP51_name	Troops.json	troop name	name	火吹きイヌ*2
+TROOP52_name	Troops.json	troop name	name	火食い鳥*2, 火吹きイヌ
+TROOP53_name	Troops.json	troop name	name	サチコ*3
+TROOP54_name	Troops.json	troop name	name	火牛, 雷牛
+TROOP55_name	Troops.json	troop name	name	てすと
+TROOP56_name	Troops.json	troop name	name	焼き焦げた人形*2, 凍りついた人形*2
+TROOP57_name	Troops.json	troop name	name	生えてきた目玉*2
+TROOP58_name	Troops.json	troop name	name	生えてきた目玉*3
+TROOP59_name	Troops.json	troop name	name	踊り狂うアクマ
+TROOP60_name	Troops.json	troop name	name	雷を帯びた妖精
+TROOP61_name	Troops.json	troop name	name	雷を帯びた妖精*2
+TROOP62_name	Troops.json	troop name	name	セイレーン
+TROOP63_name	Troops.json	troop name	name	焼き焦げた人形, セイレーン, 凍りついた人形
+TROOP64_name	Troops.json	troop name	name	生えてきた目玉*2, 踊り狂うアクマ
+TROOP65_name	Troops.json	troop name	name	凍りついた人形, 火吹きイヌ, 焼き焦げた人形
+TROOP66_name	Troops.json	troop name	name	雷を帯びた妖精*2, 踊り狂うアクマ
+TROOP67_name	Troops.json	troop name	name	雷を帯びた妖精*2, セイレーン
+TROOP68_name	Troops.json	troop name	name	雷を帯びた妖精*2, 雷牛
+TROOP69_name	Troops.json	troop name	name	凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形
+TROOP70_name	Troops.json	troop name	name	焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形
+TROOP71_name	Troops.json	troop name	name	踊り狂うアクマ*3
+TROOP72_name	Troops.json	troop name	name	生えてきた目玉*4
+TROOP74_name	Troops.json	troop name	name	ヤバミネーション
+TROOP75_name	Troops.json	troop name	name	暗くかがやく龍
+TROOP76_name	Troops.json	troop name	name	ヤバミネーションざこ
+TROOP77_name	Troops.json	troop name	name	暗くかがやく龍ざこ
+TROOP78_name	Troops.json	troop name	name	大魔道士ピケピケ
+TROOP79_name	Troops.json	troop name	name	ミケーネ
+TROOP80_name	Troops.json	troop name	name	ナウー
+TROOP81_name	Troops.json	troop name	name	魔王ダフィール一回目
+TROOP82_name	Troops.json	troop name	name	魔王ダフィール本番
+TROOP83_name	Troops.json	troop name	name	大魔王ダフィール
+TROOP84_name	Troops.json	troop name	name	ピケピケ
+TROOP85_name	Troops.json	troop name	name	人食いバット*3
+TROOP86_name	Troops.json	troop name	name	人食いラット*2
+TROOP87_name	Troops.json	troop name	name	人食いスパイダー*2
+TROOP88_name	Troops.json	troop name	name	人食いバット*2, 人食いラット
+TROOP89_name	Troops.json	troop name	name	人食いバット*2, 人食いスパイダー*2
+TROOP90_name	Troops.json	troop name	name	人食いラット*2, 人食いスパイダー*2
+TROOP91_name	Troops.json	troop name	name	人食いスパイダー
+TROOP92_name	Troops.json	troop name	name	人食いスパイダー*3
+TROOP93_name	Troops.json	troop name	name	人食いドッグ
+TROOP94_name	Troops.json	troop name	name	狂気のジャクリーン
+TROOP95_name	Troops.json	troop name	name	ナウー本番戦闘　裏
+TROOP96_name	Troops.json	troop name	name	火のサムライ
+TROOP97_name	Troops.json	troop name	name	風のサムライ
+TROOP98_name	Troops.json	troop name	name	氷のサムライ
+TROOP99_name	Troops.json	troop name	name	髪が伸びる人形*2
+TROOP100_name	Troops.json	troop name	name	髪が伸びる人形
+TROOP101_name	Troops.json	troop name	name	焔牛
+TROOP102_name	Troops.json	troop name	name	サムライボス用
+TROOP103_name	Troops.json	troop name	name	火のサムライ, 氷のサムライ
+TROOP104_name	Troops.json	troop name	name	氷のサムライ, 風のサムライ
+TROOP105_name	Troops.json	troop name	name	髪が伸びる人形*3
+TROOP106_name	Troops.json	troop name	name	ミケーネ裏
+TROOP107_name	Troops.json	troop name	name	ナウー, ミケーネ
+TROOP108_name	Troops.json	troop name	name	ダフィール
+TROOP109_name	Troops.json	troop name	name	操られたピピン　裏
+TROOP110_name	Troops.json	troop name	name	雲ガメ　ボス
+TROOP111_name	Troops.json	troop name	name	雷イヌ　ボス
+TROOP112_name	Troops.json	troop name	name	雲ガメ
+TROOP113_name	Troops.json	troop name	name	雷イヌ
+TROOP114_name	Troops.json	troop name	name	ひとつ目のアクマ
+TROOP115_name	Troops.json	troop name	name	青い巨人
+TROOP116_name	Troops.json	troop name	name	猛毒ヘビ*3
+TROOP117_name	Troops.json	troop name	name	猛毒ヘビ*2
+TROOP118_name	Troops.json	troop name	name	サヨコ
+TROOP119_name	Troops.json	troop name	name	ダークフェアリー
+TROOP120_name	Troops.json	troop name	name	凍りついたヒノタマ
+TROOP121_name	Troops.json	troop name	name	燃え盛るヒノタマ
+TROOP122_name	Troops.json	troop name	name	サヨコ, ダークフェアリー, 猛毒ヘビ
+TROOP123_name	Troops.json	troop name	name	燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ
+TROOP124_name	Troops.json	troop name	name	燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ
+TROOP125_name	Troops.json	troop name	name	ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ
+TROOP126_name	Troops.json	troop name	name	ダークフェアリー, 青い巨人
+TROOP127_name	Troops.json	troop name	name	燃え盛るヒノタマ, 青い巨人
+TROOP128_name	Troops.json	troop name	name	青い巨人, 凍りついたヒノタマ
+TROOP129_name	Troops.json	troop name	name	凄腕バンデッド
+TROOP130_name	Troops.json	troop name	name	凄腕バンデッド, 凍りついたヒノタマ
+TROOP131_name	Troops.json	troop name	name	凄腕バンデッド, 燃え盛るヒノタマ
+TROOP132_name	Troops.json	troop name	name	サヨコ, 凄腕バンデッド, 猛毒ヘビ
+TROOP133_name	Troops.json	troop name	name	凄腕バンデッド, 青い巨人
+TROOP135_name	Troops.json	troop name	name	大魔道士ピケピケ　裏
+TROOP136_name	Troops.json	troop name	name	ミケーネ　裏
+TROOP137_name	Troops.json	troop name	name	ナウー　裏
+TROOP138_name	Troops.json	troop name	name	魔王ダフィール一回目　裏
+TROOP139_name	Troops.json	troop name	name	魔王ダフィール本番　裏
+TROOP140_name	Troops.json	troop name	name	大魔王ダフィール　裏
+TROOP141_name	Troops.json	troop name	name	闇の王
+TROOP142_name	Troops.json	troop name	name	伝説のバンデッド
 DB_Actors_1_name	Actors.json	Actors.json #1 (ウィン)	name	ウィン
 DB_Actors_2_name	Actors.json	Actors.json #2 (ホノオ)	name	ホノオ
 DB_Actors_3_name	Actors.json	Actors.json #3 (ナガレ)	name	ナガレ

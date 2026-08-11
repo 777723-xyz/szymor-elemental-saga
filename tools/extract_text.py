@@ -149,6 +149,8 @@ def extract_troops(data_dir, rows, all_rows, json_rows):
     for troop in data:
         if not troop:
             continue
+        emit(rows, all_rows, json_rows, f"TROOP{troop['id']}_name",
+             "Troops.json", "troop name", "name", troop.get("name") or "")
         for pi, page in enumerate(troop.get("pages") or []):
             prefix = f"TROOP{troop['id']}_p{pi}"
             walk_commands(page["list"], "Troops.json", prefix,

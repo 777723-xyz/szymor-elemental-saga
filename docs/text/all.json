@@ -104110,6 +104110,69 @@
   "japanese": "意味での闇は結局形を変えるだけでむしろ強大になるばかり",
   "translation": null
  },
+ "TROOP1_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いコウモリ*3",
+  "translation": null
+ },
+ "TROOP2_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いネズミ*2",
+  "translation": null
+ },
+ "TROOP3_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いグモ*2",
+  "translation": null
+ },
+ "TROOP4_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いコウモリ*2, 人食いネズミ",
+  "translation": null
+ },
+ "TROOP5_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いコウモリ*2, 人食いグモ*2",
+  "translation": null
+ },
+ "TROOP6_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いネズミ*2, 人食いグモ*2",
+  "translation": null
+ },
+ "TROOP7_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いグモ",
+  "translation": null
+ },
+ "TROOP8_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いグモ*3",
+  "translation": null
+ },
+ "TROOP9_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いイヌ",
+  "translation": null
+ },
  "TROOP9_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -104157,6 +104220,41 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "…！",
+  "translation": null
+ },
+ "TROOP10_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いハチ",
+  "translation": null
+ },
+ "TROOP11_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いハチ*2",
+  "translation": null
+ },
+ "TROOP12_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食い草*2",
+  "translation": null
+ },
+ "TROOP13_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "新米バンデッド",
+  "translation": null
+ },
+ "TROOP14_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ナウー本番戦闘",
   "translation": null
  },
  "TROOP14_p0_1": {
@@ -104446,6 +104544,20 @@
   "japanese": "おっ？　もしかして…　いけるか！？",
   "translation": null
  },
+ "TROOP15_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "娘さん",
+  "translation": null
+ },
+ "TROOP16_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ナウー自動戦闘",
+  "translation": null
+ },
  "TROOP16_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -104458,6 +104570,83 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "こんどこそ…！全部会心の一撃が出るかも！！",
+  "translation": null
+ },
+ "TROOP17_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "デザートウルフ",
+  "translation": null
+ },
+ "TROOP18_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "デザートウルフ*2",
+  "translation": null
+ },
+ "TROOP19_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "マムシ",
+  "translation": null
+ },
+ "TROOP20_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ハブ",
+  "translation": null
+ },
+ "TROOP21_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "アオダイショー",
+  "translation": null
+ },
+ "TROOP22_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "アオダイショー, マムシ",
+  "translation": null
+ },
+ "TROOP23_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ハブ, アオダイショー",
+  "translation": null
+ },
+ "TROOP24_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "マムシ*2",
+  "translation": null
+ },
+ "TROOP25_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ハブ, マムシ, アオダイショー",
+  "translation": null
+ },
+ "TROOP26_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "動く人形*3",
+  "translation": null
+ },
+ "TROOP27_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火牛",
   "translation": null
  },
  "TROOP27_p0_1": {
@@ -104523,6 +104712,48 @@
   "japanese": "さっさとこいつをぶちのめすぞ！",
   "translation": null
  },
+ "TROOP28_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "炎のアクマ",
+  "translation": null
+ },
+ "TROOP29_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "風のアクマ",
+  "translation": null
+ },
+ "TROOP30_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "氷のアクマ",
+  "translation": null
+ },
+ "TROOP31_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "動く人形*2",
+  "translation": null
+ },
+ "TROOP32_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "動く人形",
+  "translation": null
+ },
+ "TROOP33_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火牛",
+  "translation": null
+ },
  "TROOP33_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -104535,6 +104766,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "お！　見た事のあるやつだぜ！",
+  "translation": null
+ },
+ "TROOP34_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "炎のアクマ, 風のアクマ, 氷のアクマ",
   "translation": null
  },
  "TROOP34_p0_1": {
@@ -104626,6 +104864,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "最近見たこともない魔物ばっかりなのさ。",
+  "translation": null
+ },
+ "TROOP35_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ミケーネ, 青龍",
   "translation": null
  },
  "TROOP35_p0_1": {
@@ -104948,6 +105193,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "青龍さん…ちょっと会議です、会議…。",
+  "translation": null
+ },
+ "TROOP36_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ミケーネ",
   "translation": null
  },
  "TROOP36_p0_1": {
@@ -105307,6 +105559,34 @@
   "japanese": "バー――――――カ！！",
   "translation": null
  },
+ "TROOP37_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火食い鳥*4, 火牛",
+  "translation": null
+ },
+ "TROOP38_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サチコ*3",
+  "translation": null
+ },
+ "TROOP39_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サチコ*2, 火牛",
+  "translation": null
+ },
+ "TROOP41_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ナウー2回目",
+  "translation": null
+ },
  "TROOP41_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -105473,6 +105753,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "いける…！　集中しろ、オレ…！！",
+  "translation": null
+ },
+ "TROOP42_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ひとつ目のアクマ",
   "translation": null
  },
  "TROOP42_p0_1": {
@@ -105655,6 +105942,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "フン…　その目、一応分かってるみたいだな。",
+  "translation": null
+ },
+ "TROOP43_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "操られたピピン",
   "translation": null
  },
  "TROOP43_p0_1": {
@@ -106693,6 +106987,209 @@
   "japanese": "…っ！！",
   "translation": null
  },
+ "TROOP45_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火吹きイヌ",
+  "translation": null
+ },
+ "TROOP46_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火牛",
+  "translation": null
+ },
+ "TROOP47_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サチコ, 火牛",
+  "translation": null
+ },
+ "TROOP48_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷牛",
+  "translation": null
+ },
+ "TROOP49_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷牛, サチコ",
+  "translation": null
+ },
+ "TROOP50_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火食い鳥*2, 火牛",
+  "translation": null
+ },
+ "TROOP51_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火吹きイヌ*2",
+  "translation": null
+ },
+ "TROOP52_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火食い鳥*2, 火吹きイヌ",
+  "translation": null
+ },
+ "TROOP53_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サチコ*3",
+  "translation": null
+ },
+ "TROOP54_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火牛, 雷牛",
+  "translation": null
+ },
+ "TROOP55_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "てすと",
+  "translation": null
+ },
+ "TROOP56_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "焼き焦げた人形*2, 凍りついた人形*2",
+  "translation": null
+ },
+ "TROOP57_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "生えてきた目玉*2",
+  "translation": null
+ },
+ "TROOP58_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "生えてきた目玉*3",
+  "translation": null
+ },
+ "TROOP59_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "踊り狂うアクマ",
+  "translation": null
+ },
+ "TROOP60_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷を帯びた妖精",
+  "translation": null
+ },
+ "TROOP61_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷を帯びた妖精*2",
+  "translation": null
+ },
+ "TROOP62_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "セイレーン",
+  "translation": null
+ },
+ "TROOP63_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "焼き焦げた人形, セイレーン, 凍りついた人形",
+  "translation": null
+ },
+ "TROOP64_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "生えてきた目玉*2, 踊り狂うアクマ",
+  "translation": null
+ },
+ "TROOP65_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "凍りついた人形, 火吹きイヌ, 焼き焦げた人形",
+  "translation": null
+ },
+ "TROOP66_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷を帯びた妖精*2, 踊り狂うアクマ",
+  "translation": null
+ },
+ "TROOP67_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷を帯びた妖精*2, セイレーン",
+  "translation": null
+ },
+ "TROOP68_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷を帯びた妖精*2, 雷牛",
+  "translation": null
+ },
+ "TROOP69_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形",
+  "translation": null
+ },
+ "TROOP70_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形",
+  "translation": null
+ },
+ "TROOP71_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "踊り狂うアクマ*3",
+  "translation": null
+ },
+ "TROOP72_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "生えてきた目玉*4",
+  "translation": null
+ },
+ "TROOP74_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ヤバミネーション",
+  "translation": null
+ },
  "TROOP74_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -106819,6 +107316,13 @@
   "japanese": "あたしたちが何人いても追いつかないだろうな",
   "translation": null
  },
+ "TROOP75_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "暗くかがやく龍",
+  "translation": null
+ },
  "TROOP75_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -106929,6 +107433,27 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "…。",
+  "translation": null
+ },
+ "TROOP76_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ヤバミネーションざこ",
+  "translation": null
+ },
+ "TROOP77_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "暗くかがやく龍ざこ",
+  "translation": null
+ },
+ "TROOP78_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "大魔道士ピケピケ",
   "translation": null
  },
  "TROOP78_p0_1": {
@@ -107638,6 +108163,13 @@
   "japanese": "くっ…！！　やれるのか…あたしに…！！",
   "translation": null
  },
+ "TROOP79_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ミケーネ",
+  "translation": null
+ },
  "TROOP79_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -107944,6 +108476,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "あと少しで…　あたしの勝ちだあああああ！！",
+  "translation": null
+ },
+ "TROOP80_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ナウー",
   "translation": null
  },
  "TROOP80_p0_1": {
@@ -108408,6 +108947,13 @@
   "japanese": "こっちの攻撃の手は緩めねえぜーーー！！！！",
   "translation": null
  },
+ "TROOP81_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "魔王ダフィール一回目",
+  "translation": null
+ },
  "TROOP81_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -108525,6 +109071,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "魔王のボクが攻撃してるんだぞーーー！！！？",
+  "translation": null
+ },
+ "TROOP82_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "魔王ダフィール本番",
   "translation": null
  },
  "TROOP82_p0_1": {
@@ -108959,6 +109512,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "まずい！！　ウィン離れろ！！",
+  "translation": null
+ },
+ "TROOP83_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "大魔王ダフィール",
   "translation": null
  },
  "TROOP83_p0_1": {
@@ -110942,6 +111502,13 @@
   "japanese": "……ッ",
   "translation": null
  },
+ "TROOP84_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ピケピケ",
+  "translation": null
+ },
  "TROOP84_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -111208,6 +111775,69 @@
   "japanese": "あーしんどい、ちょっとはしゃぎ過ぎた…",
   "translation": null
  },
+ "TROOP85_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いバット*3",
+  "translation": null
+ },
+ "TROOP86_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いラット*2",
+  "translation": null
+ },
+ "TROOP87_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いスパイダー*2",
+  "translation": null
+ },
+ "TROOP88_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いバット*2, 人食いラット",
+  "translation": null
+ },
+ "TROOP89_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いバット*2, 人食いスパイダー*2",
+  "translation": null
+ },
+ "TROOP90_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いラット*2, 人食いスパイダー*2",
+  "translation": null
+ },
+ "TROOP91_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いスパイダー",
+  "translation": null
+ },
+ "TROOP92_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いスパイダー*3",
+  "translation": null
+ },
+ "TROOP93_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "人食いドッグ",
+  "translation": null
+ },
  "TROOP93_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -111264,6 +111894,13 @@
   "japanese": "…！",
   "translation": null
  },
+ "TROOP94_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "狂気のジャクリーン",
+  "translation": null
+ },
  "TROOP94_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -111276,6 +111913,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "フゥううゥゥぉぉおおおおおあああッ！！",
+  "translation": null
+ },
+ "TROOP95_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ナウー本番戦闘　裏",
   "translation": null
  },
  "TROOP95_p0_1": {
@@ -111621,6 +112265,55 @@
   "japanese": "おっ？　もしかして…　いけるか！？",
   "translation": null
  },
+ "TROOP96_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火のサムライ",
+  "translation": null
+ },
+ "TROOP97_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "風のサムライ",
+  "translation": null
+ },
+ "TROOP98_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "氷のサムライ",
+  "translation": null
+ },
+ "TROOP99_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "髪が伸びる人形*2",
+  "translation": null
+ },
+ "TROOP100_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "髪が伸びる人形",
+  "translation": null
+ },
+ "TROOP101_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "焔牛",
+  "translation": null
+ },
+ "TROOP102_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サムライボス用",
+  "translation": null
+ },
  "TROOP102_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -111710,6 +112403,34 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "最近見たこともない魔物ばっかりなのさ。",
+  "translation": null
+ },
+ "TROOP103_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "火のサムライ, 氷のサムライ",
+  "translation": null
+ },
+ "TROOP104_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "氷のサムライ, 風のサムライ",
+  "translation": null
+ },
+ "TROOP105_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "髪が伸びる人形*3",
+  "translation": null
+ },
+ "TROOP106_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ミケーネ裏",
   "translation": null
  },
  "TROOP106_p0_1": {
@@ -112146,6 +112867,13 @@
   "japanese": "なんか奥の手がありやがるのか…？",
   "translation": null
  },
+ "TROOP107_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ナウー, ミケーネ",
+  "translation": null
+ },
  "TROOP107_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -112417,6 +113145,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "あなたたちももっと頑張りなさい！？",
+  "translation": null
+ },
+ "TROOP108_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ダフィール",
   "translation": null
  },
  "TROOP108_p0_1": {
@@ -112844,6 +113579,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "ここまででーーす　ガチバトルごっこ終わり！！",
+  "translation": null
+ },
+ "TROOP109_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "操られたピピン　裏",
   "translation": null
  },
  "TROOP109_p0_1": {
@@ -113931,6 +114673,13 @@
   "japanese": "…！！",
   "translation": null
  },
+ "TROOP110_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雲ガメ　ボス",
+  "translation": null
+ },
  "TROOP110_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -114057,6 +114806,13 @@
   "japanese": "あたしたちが何人いても追いつかないだろうな",
   "translation": null
  },
+ "TROOP111_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷イヌ　ボス",
+  "translation": null
+ },
  "TROOP111_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -114167,6 +114923,167 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "…。",
+  "translation": null
+ },
+ "TROOP112_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雲ガメ",
+  "translation": null
+ },
+ "TROOP113_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "雷イヌ",
+  "translation": null
+ },
+ "TROOP114_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ひとつ目のアクマ",
+  "translation": null
+ },
+ "TROOP115_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "青い巨人",
+  "translation": null
+ },
+ "TROOP116_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "猛毒ヘビ*3",
+  "translation": null
+ },
+ "TROOP117_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "猛毒ヘビ*2",
+  "translation": null
+ },
+ "TROOP118_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サヨコ",
+  "translation": null
+ },
+ "TROOP119_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ダークフェアリー",
+  "translation": null
+ },
+ "TROOP120_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "凍りついたヒノタマ",
+  "translation": null
+ },
+ "TROOP121_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "燃え盛るヒノタマ",
+  "translation": null
+ },
+ "TROOP122_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サヨコ, ダークフェアリー, 猛毒ヘビ",
+  "translation": null
+ },
+ "TROOP123_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ",
+  "translation": null
+ },
+ "TROOP124_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ",
+  "translation": null
+ },
+ "TROOP125_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ",
+  "translation": null
+ },
+ "TROOP126_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ダークフェアリー, 青い巨人",
+  "translation": null
+ },
+ "TROOP127_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "燃え盛るヒノタマ, 青い巨人",
+  "translation": null
+ },
+ "TROOP128_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "青い巨人, 凍りついたヒノタマ",
+  "translation": null
+ },
+ "TROOP129_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "凄腕バンデッド",
+  "translation": null
+ },
+ "TROOP130_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "凄腕バンデッド, 凍りついたヒノタマ",
+  "translation": null
+ },
+ "TROOP131_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "凄腕バンデッド, 燃え盛るヒノタマ",
+  "translation": null
+ },
+ "TROOP132_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "サヨコ, 凄腕バンデッド, 猛毒ヘビ",
+  "translation": null
+ },
+ "TROOP133_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "凄腕バンデッド, 青い巨人",
+  "translation": null
+ },
+ "TROOP135_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "大魔道士ピケピケ　裏",
   "translation": null
  },
  "TROOP135_p0_1": {
@@ -114883,6 +115800,13 @@
   "japanese": "いまのあたしたちなら、やれるはずだ！！",
   "translation": null
  },
+ "TROOP136_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ミケーネ　裏",
+  "translation": null
+ },
  "TROOP136_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -115189,6 +116113,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "あと少しで…　あたしの勝ちだあああああ！！",
+  "translation": null
+ },
+ "TROOP137_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "ナウー　裏",
   "translation": null
  },
  "TROOP137_p0_1": {
@@ -115653,6 +116584,13 @@
   "japanese": "こっちの攻撃の手は緩めねえぜーーー！！！！",
   "translation": null
  },
+ "TROOP138_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "魔王ダフィール一回目　裏",
+  "translation": null
+ },
  "TROOP138_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -115770,6 +116708,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "魔王のボクが攻撃してるんだぞーーー！！！？",
+  "translation": null
+ },
+ "TROOP139_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "魔王ダフィール本番　裏",
   "translation": null
  },
  "TROOP139_p0_1": {
@@ -116211,6 +117156,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "まずい！！　ウィン離れろ！！",
+  "translation": null
+ },
+ "TROOP140_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "大魔王ダフィール　裏",
   "translation": null
  },
  "TROOP140_p0_1": {
@@ -118180,6 +119132,13 @@
   "japanese": "……ッ",
   "translation": null
  },
+ "TROOP141_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "闇の王",
+  "translation": null
+ },
  "TROOP141_p0_1": {
   "file": "Troops.json",
   "context": "0",
@@ -118297,6 +119256,13 @@
   "context": "0",
   "type": "dialogue",
   "japanese": "帰りたいーーーーーーーー！！！！！",
+  "translation": null
+ },
+ "TROOP142_name": {
+  "file": "Troops.json",
+  "context": "troop name",
+  "type": "name",
+  "japanese": "伝説のバンデッド",
   "translation": null
  },
  "TROOP142_p0_1": {

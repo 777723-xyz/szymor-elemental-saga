@@ -143,13 +143,24 @@ def apply_to_maps(data_dir, pending, state):
 
 
 def apply_to_troops(data_dir, pending, state):
+    name_rows = [r for r in pending
+                 if re.match(r"^TROOP(\d+)_name$", r["id"])]
     rows = [r for r in pending if TROOP_ID_RE.match(r["id"])]
-    if not rows:
+    if not rows and not name_rows:
         return
     path = os.path.join(data_dir, "Troops.json")
     data = load_json(path)
     by_id = {t["id"]: t for t in data if t}
     changed = False
+    for row in name_rows:
+        m = re.match(r"^TROOP(\d+)_name$", row["id"])
+        troop = by_id.get(int(m.group(1)))
+        if troop is None:
+            state["warnings"].append(f"{row['id']}: troop not found")
+            continue
+        troop["name"] = row["translation"]
+        changed = True
+        state["applied"].append((row["id"], "Troops.json"))
     for row in rows:
         m = TROOP_ID_RE.match(row["id"])
         tid, pi, idx = int(m.group(1)), int(m.group(2)), int(m.group(3))

@@ -16099,6 +16099,9 @@ SYS_weaponTypes_4	System.json	weaponTypes	system	曲刀
 SYS_weaponTypes_5	System.json	weaponTypes	system	大剣
 SYS_weaponTypes_6	System.json	weaponTypes	system	刀
 SYS_weaponTypes_7	System.json	weaponTypes	system	短刀
+TROOP100_name	Troops.json	troop name	name	髪が伸びる人形
+TROOP101_name	Troops.json	troop name	name	焔牛
+TROOP102_name	Troops.json	troop name	name	サムライボス用
 TROOP102_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP102_p0_10	Troops.json	0	dialogue	刀ってことは…　
 TROOP102_p0_11	Troops.json	0	dialogue	セイリューに関係する魔物なんじゃねえのか？
@@ -16112,6 +16115,10 @@ TROOP102_p0_5	Troops.json	0	dialogue	ナガレ：
 TROOP102_p0_6	Troops.json	0	dialogue	見たこともない鎧を着ている…
 TROOP102_p0_7	Troops.json	0	dialogue	でもあいつらが持っているのは、刀だ。
 TROOP102_p0_9	Troops.json	0	dialogue	ホノオ：
+TROOP103_name	Troops.json	troop name	name	火のサムライ, 氷のサムライ
+TROOP104_name	Troops.json	troop name	name	氷のサムライ, 風のサムライ
+TROOP105_name	Troops.json	troop name	name	髪が伸びる人形*3
+TROOP106_name	Troops.json	troop name	name	ミケーネ裏
 TROOP106_p0_1	Troops.json	0	dialogue	ミケーネ：
 TROOP106_p0_10	Troops.json	0	dialogue	こいつはムチでの攻撃も強力だが、
 TROOP106_p0_11	Troops.json	0	dialogue	魔法も使ってくる…　強敵だ。
@@ -16174,6 +16181,7 @@ TROOP106_p3_5	Troops.json	0	dialogue	…効いてる！！
 TROOP106_p3_6	Troops.json	0	dialogue	このまま一気にたたみかけろ！！
 TROOP106_p3_8	Troops.json	0	dialogue	ミケーネ：
 TROOP106_p3_9	Troops.json	0	dialogue	もう四の五の言ってられないわね…
+TROOP107_name	Troops.json	troop name	name	ナウー, ミケーネ
 TROOP107_p0_1	Troops.json	0	dialogue	ミケーネ：
 TROOP107_p0_10	Troops.json	0	dialogue	………。
 TROOP107_p0_12	Troops.json	0	dialogue	ホノオ：
@@ -16213,6 +16221,7 @@ TROOP107_p1_5	Troops.json	0	dialogue	ミケーネ：
 TROOP107_p1_6	Troops.json	0	dialogue	時間がかかり過ぎたわ。
 TROOP107_p1_7	Troops.json	0	dialogue	これ以上はただの消耗戦…
 TROOP107_p1_8	Troops.json	0	dialogue	帰るわよ、ナウー！
+TROOP108_name	Troops.json	troop name	name	ダフィール
 TROOP108_p0_1	Troops.json	0	dialogue	ダフィール：
 TROOP108_p0_10	Troops.json	0	dialogue	ちょっとだけ遊ばせてもらうよーー？
 TROOP108_p0_11	Troops.json	0	dialogue	キミたちにはボクの炎を防ぐ手段が
@@ -16274,6 +16283,7 @@ TROOP108_p1_9	Troops.json	0	dialogue	ピピン：
 TROOP108_p2_1	Troops.json	0	dialogue	ダフィール：
 TROOP108_p2_2	Troops.json	0	dialogue	ざんねんでしたーーーー！！！！
 TROOP108_p2_3	Troops.json	0	dialogue	ここまででーーす　ガチバトルごっこ終わり！！
+TROOP109_name	Troops.json	troop name	name	操られたピピン　裏
 TROOP109_p0_1	Troops.json	0	dialogue	サクソン：
 TROOP109_p0_10	Troops.json	0	dialogue	ちなみにピピンが剣ではなく、杖を持って
 TROOP109_p0_11	Troops.json	0	dialogue	いるように見えるのだが…　これは…？
@@ -16429,6 +16439,8 @@ TROOP109_p9_5	Troops.json	0	dialogue	ピピン！　死んでしまうぞ…　�
 TROOP109_p9_7	Troops.json	0	dialogue	ピピン：
 TROOP109_p9_8	Troops.json	0	dialogue	そろそろ…　お前らでも…
 TROOP109_p9_9	Troops.json	0	dialogue	俺にトドメを刺せるだろう…
+TROOP10_name	Troops.json	troop name	name	人食いハチ
+TROOP110_name	Troops.json	troop name	name	雲ガメ　ボス
 TROOP110_p0_1	Troops.json	0	dialogue	ナガレ：
 TROOP110_p0_10	Troops.json	0	dialogue	あれは一体なんだ…　どういう構造なんだ…
 TROOP110_p0_12	Troops.json	0	dialogue	ホノオ：
@@ -16447,6 +16459,7 @@ TROOP110_p1_4	Troops.json	0	dialogue	ウヨウヨする世界になっちまう�
 TROOP110_p1_6	Troops.json	0	dialogue	ナガレ：
 TROOP110_p1_7	Troops.json	0	dialogue	そんな世の中になったら、とてもじゃないけど、
 TROOP110_p1_8	Troops.json	0	dialogue	あたしたちが何人いても追いつかないだろうな
+TROOP111_name	Troops.json	troop name	name	雷イヌ　ボス
 TROOP111_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP111_p0_10	Troops.json	0	dialogue	まさに異形のモノって感じだ…！
 TROOP111_p0_2	Troops.json	0	dialogue	うおおおおおお！
@@ -16463,6 +16476,31 @@ TROOP111_p1_5	Troops.json	0	dialogue	ナガレ：
 TROOP111_p1_6	Troops.json	0	dialogue	あたしらも紋章の力ですっかり異形のものに
 TROOP111_p1_7	Troops.json	0	dialogue	なっちまった気がするな…
 TROOP111_p1_9	Troops.json	0	dialogue	ウィン：
+TROOP112_name	Troops.json	troop name	name	雲ガメ
+TROOP113_name	Troops.json	troop name	name	雷イヌ
+TROOP114_name	Troops.json	troop name	name	ひとつ目のアクマ
+TROOP115_name	Troops.json	troop name	name	青い巨人
+TROOP116_name	Troops.json	troop name	name	猛毒ヘビ*3
+TROOP117_name	Troops.json	troop name	name	猛毒ヘビ*2
+TROOP118_name	Troops.json	troop name	name	サヨコ
+TROOP119_name	Troops.json	troop name	name	ダークフェアリー
+TROOP11_name	Troops.json	troop name	name	人食いハチ*2
+TROOP120_name	Troops.json	troop name	name	凍りついたヒノタマ
+TROOP121_name	Troops.json	troop name	name	燃え盛るヒノタマ
+TROOP122_name	Troops.json	troop name	name	サヨコ, ダークフェアリー, 猛毒ヘビ
+TROOP123_name	Troops.json	troop name	name	燃え盛るヒノタマ, ダークフェアリー, 凍りついたヒノタマ
+TROOP124_name	Troops.json	troop name	name	燃え盛るヒノタマ, 猛毒ヘビ, 凍りついたヒノタマ
+TROOP125_name	Troops.json	troop name	name	ダークフェアリー, 燃え盛るヒノタマ, 猛毒ヘビ
+TROOP126_name	Troops.json	troop name	name	ダークフェアリー, 青い巨人
+TROOP127_name	Troops.json	troop name	name	燃え盛るヒノタマ, 青い巨人
+TROOP128_name	Troops.json	troop name	name	青い巨人, 凍りついたヒノタマ
+TROOP129_name	Troops.json	troop name	name	凄腕バンデッド
+TROOP12_name	Troops.json	troop name	name	人食い草*2
+TROOP130_name	Troops.json	troop name	name	凄腕バンデッド, 凍りついたヒノタマ
+TROOP131_name	Troops.json	troop name	name	凄腕バンデッド, 燃え盛るヒノタマ
+TROOP132_name	Troops.json	troop name	name	サヨコ, 凄腕バンデッド, 猛毒ヘビ
+TROOP133_name	Troops.json	troop name	name	凄腕バンデッド, 青い巨人
+TROOP135_name	Troops.json	troop name	name	大魔道士ピケピケ　裏
 TROOP135_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP135_p0_10	Troops.json	0	dialogue	さあああああ継承者たちよおおおおおお！！！
 TROOP135_p0_12	Troops.json	0	dialogue	大魔道士ピケピケ：
@@ -16565,6 +16603,7 @@ TROOP135_p5_4	Troops.json	0	dialogue	ホノオ：
 TROOP135_p5_5	Troops.json	0	dialogue	おい…大丈夫か！？
 TROOP135_p5_7	Troops.json	0	dialogue	ナガレ：
 TROOP135_p5_8	Troops.json	0	dialogue	敵を心配なくていいんだよ！！
+TROOP136_name	Troops.json	troop name	name	ミケーネ　裏
 TROOP136_p0_1	Troops.json	0	dialogue	ナガレ：
 TROOP136_p0_10	Troops.json	0	dialogue	…へえ。
 TROOP136_p0_2	Troops.json	0	dialogue	…ほとんど魔法での攻撃なしの殴り合いなら、
@@ -16609,6 +16648,7 @@ TROOP136_p4_2	Troops.json	0	dialogue	うっ…　あと少し…　あと少し�
 TROOP136_p4_4	Troops.json	0	dialogue	ナガレ：
 TROOP136_p4_5	Troops.json	0	dialogue	ああ、あと少しだ…　
 TROOP136_p4_6	Troops.json	0	dialogue	あと少しで…　あたしの勝ちだあああああ！！
+TROOP137_name	Troops.json	troop name	name	ナウー　裏
 TROOP137_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP137_p0_10	Troops.json	0	dialogue	オレの方はバンバン使ってくからよー！！
 TROOP137_p0_12	Troops.json	0	dialogue	ナウー：
@@ -16675,6 +16715,7 @@ TROOP137_p4_25	Troops.json	0	dialogue	…だが、アンタはもう瀕死のは
 TROOP137_p4_26	Troops.json	0	dialogue	こっちの攻撃の手は緩めねえぜーーー！！！！
 TROOP137_p4_4	Troops.json	0	dialogue	ナウー：
 TROOP137_p4_5	Troops.json	0	dialogue	……。
+TROOP138_name	Troops.json	troop name	name	魔王ダフィール一回目　裏
 TROOP138_p0_1	Troops.json	0	dialogue	魔王ダフィール：
 TROOP138_p0_10	Troops.json	0	dialogue	すぐに死なれちゃったらつまんないからさあ？
 TROOP138_p0_2	Troops.json	0	dialogue	さあて…　魔王になったボクの力が、
@@ -16692,6 +16733,7 @@ TROOP138_p1_5	Troops.json	0	dialogue	魔王ダフィール：
 TROOP138_p1_6	Troops.json	0	dialogue	やるじゃーーーーん！！
 TROOP138_p1_7	Troops.json	0	dialogue	意外と楽しませてくれるんだねー！？
 TROOP138_p1_9	Troops.json	0	dialogue	魔王ダフィール：
+TROOP139_name	Troops.json	troop name	name	魔王ダフィール本番　裏
 TROOP139_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP139_p0_10	Troops.json	0	dialogue	ウィン：
 TROOP139_p0_11	Troops.json	0	dialogue	…！
@@ -16755,6 +16797,8 @@ TROOP139_p4_5	Troops.json	0	dialogue	なんだ、降参か？
 TROOP139_p4_6	Troops.json	0	dialogue	悪いが、受け入れられないぞ。
 TROOP139_p4_8	Troops.json	0	dialogue	魔王ダフィール：
 TROOP139_p4_9	Troops.json	0	dialogue	ピケピケが言っていた…
+TROOP13_name	Troops.json	troop name	name	新米バンデッド
+TROOP140_name	Troops.json	troop name	name	大魔王ダフィール　裏
 TROOP140_p0_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p0_10	Troops.json	0	dialogue	う…ぐぐぐがガガガァァ……！！
 TROOP140_p0_12	Troops.json	0	dialogue	大魔王ダフィール：
@@ -17036,6 +17080,7 @@ TROOP140_p9_5	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP140_p9_6	Troops.json	0	dialogue	ボクは消えないッ！！！！
 TROOP140_p9_7	Troops.json	0	dialogue	ボクはまだ何も成していない…ッ！！！！
 TROOP140_p9_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP141_name	Troops.json	troop name	name	闇の王
 TROOP141_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP141_p0_10	Troops.json	0	dialogue	うげえええ！！！！　きもち悪すぎるーー！！
 TROOP141_p0_2	Troops.json	0	dialogue	な…　なんだこれは…！？
@@ -17053,6 +17098,7 @@ TROOP141_p1_5	Troops.json	0	dialogue	ホノオ：
 TROOP141_p1_6	Troops.json	0	dialogue	ちくしょーーー！！！
 TROOP141_p1_7	Troops.json	0	dialogue	なんでこんな目に合わなきゃいけねえんだ！！
 TROOP141_p1_9	Troops.json	0	dialogue	ナガレ：
+TROOP142_name	Troops.json	troop name	name	伝説のバンデッド
 TROOP142_p0_1	Troops.json	0	dialogue	バンデッド
 TROOP142_p0_2	Troops.json	0	dialogue	「いままで散々痛い目に合わせてくれた…
 TROOP142_p0_3	Troops.json	0	dialogue	　お礼をたっぷりとさせてもらうぜ！！
@@ -17104,6 +17150,7 @@ TROOP142_p4_5	Troops.json	0	dialogue	「そろそろ終わりのようだな　�
 TROOP142_p4_7	Troops.json	0	dialogue	バンデッド
 TROOP142_p4_8	Troops.json	0	dialogue	「あんだと…？
 TROOP142_p4_9	Troops.json	0	dialogue	　まだ始まってもねえんだよーーーーー！！！
+TROOP14_name	Troops.json	troop name	name	ナウー本番戦闘
 TROOP14_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP14_p0_10	Troops.json	0	dialogue	絶対に勝てねえ！！
 TROOP14_p0_11	Troops.json	0	dialogue	卑怯かも知れねえが…
@@ -17145,8 +17192,22 @@ TROOP14_p3_1	Troops.json	0	dialogue	ナウ―：
 TROOP14_p3_2	Troops.json	0	dialogue	………！
 TROOP14_p3_4	Troops.json	0	dialogue	ホノオ：
 TROOP14_p3_5	Troops.json	0	dialogue	おっ？　もしかして…　いけるか！？
+TROOP15_name	Troops.json	troop name	name	娘さん
+TROOP16_name	Troops.json	troop name	name	ナウー自動戦闘
 TROOP16_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP16_p0_2	Troops.json	0	dialogue	こんどこそ…！全部会心の一撃が出るかも！！
+TROOP17_name	Troops.json	troop name	name	デザートウルフ
+TROOP18_name	Troops.json	troop name	name	デザートウルフ*2
+TROOP19_name	Troops.json	troop name	name	マムシ
+TROOP1_name	Troops.json	troop name	name	人食いコウモリ*3
+TROOP20_name	Troops.json	troop name	name	ハブ
+TROOP21_name	Troops.json	troop name	name	アオダイショー
+TROOP22_name	Troops.json	troop name	name	アオダイショー, マムシ
+TROOP23_name	Troops.json	troop name	name	ハブ, アオダイショー
+TROOP24_name	Troops.json	troop name	name	マムシ*2
+TROOP25_name	Troops.json	troop name	name	ハブ, マムシ, アオダイショー
+TROOP26_name	Troops.json	troop name	name	動く人形*3
+TROOP27_name	Troops.json	troop name	name	火牛
 TROOP27_p0_1	Troops.json	0	dialogue	トリカゼ：
 TROOP27_p0_10	Troops.json	0	dialogue	ごちゃごちゃ喋ってないで、
 TROOP27_p0_11	Troops.json	0	dialogue	さっさとこいつをぶちのめすぞ！
@@ -17156,8 +17217,16 @@ TROOP27_p0_5	Troops.json	0	dialogue	マハリ：
 TROOP27_p0_6	Troops.json	0	dialogue	龍のお社の方から来たって誰かが
 TROOP27_p0_7	Troops.json	0	dialogue	言ってたよ…
 TROOP27_p0_9	Troops.json	0	dialogue	ナガレ：
+TROOP28_name	Troops.json	troop name	name	炎のアクマ
+TROOP29_name	Troops.json	troop name	name	風のアクマ
+TROOP2_name	Troops.json	troop name	name	人食いネズミ*2
+TROOP30_name	Troops.json	troop name	name	氷のアクマ
+TROOP31_name	Troops.json	troop name	name	動く人形*2
+TROOP32_name	Troops.json	troop name	name	動く人形
+TROOP33_name	Troops.json	troop name	name	火牛
 TROOP33_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP33_p0_2	Troops.json	0	dialogue	お！　見た事のあるやつだぜ！
+TROOP34_name	Troops.json	troop name	name	炎のアクマ, 風のアクマ, 氷のアクマ
 TROOP34_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP34_p0_10	Troops.json	0	dialogue	刀ってことは…　
 TROOP34_p0_11	Troops.json	0	dialogue	セイリューに関係する魔物なんじゃねえのか？
@@ -17171,6 +17240,7 @@ TROOP34_p0_5	Troops.json	0	dialogue	ナガレ：
 TROOP34_p0_6	Troops.json	0	dialogue	見たこともない鎧を着ている…
 TROOP34_p0_7	Troops.json	0	dialogue	でもあいつらが持っているのは、刀だ。
 TROOP34_p0_9	Troops.json	0	dialogue	ホノオ：
+TROOP35_name	Troops.json	troop name	name	ミケーネ, 青龍
 TROOP35_p0_1	Troops.json	0	dialogue	ミケーネ：
 TROOP35_p0_10	Troops.json	0	dialogue	さあ、これで終りにしてあげる！
 TROOP35_p0_11	Troops.json	0	dialogue	私たち闇の四天王と…
@@ -17217,6 +17287,7 @@ TROOP35_p4_1	Troops.json	0	dialogue	ミケーネ：
 TROOP35_p4_2	Troops.json	0	dialogue	はいストップ！ストーー―――ップ！
 TROOP35_p4_4	Troops.json	0	dialogue	タイムです！タイム！！
 TROOP35_p4_5	Troops.json	0	dialogue	青龍さん…ちょっと会議です、会議…。
+TROOP36_name	Troops.json	troop name	name	ミケーネ
 TROOP36_p0_1	Troops.json	0	dialogue	ミケーネ：
 TROOP36_p0_10	Troops.json	0	dialogue	こいつはムチでの攻撃も強力だが、
 TROOP36_p0_11	Troops.json	0	dialogue	魔法も使ってくる…　強敵だ。
@@ -17268,6 +17339,11 @@ TROOP36_p2_5	Troops.json	0	dialogue	あんだあ！？どうしたコラあ！�
 TROOP36_p2_7	Troops.json	0	dialogue	ホノオ：
 TROOP36_p2_8	Troops.json	0	dialogue	ちょっとここで、冷静にバトルを観察するのが
 TROOP36_p2_9	Troops.json	0	dialogue	得意なナガレさんに聞いてみましょう…
+TROOP37_name	Troops.json	troop name	name	火食い鳥*4, 火牛
+TROOP38_name	Troops.json	troop name	name	サチコ*3
+TROOP39_name	Troops.json	troop name	name	サチコ*2, 火牛
+TROOP3_name	Troops.json	troop name	name	人食いグモ*2
+TROOP41_name	Troops.json	troop name	name	ナウー2回目
 TROOP41_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP41_p0_2	Troops.json	0	dialogue	オレが成長していないと思うなよ…ナウ―！！
 TROOP41_p0_4	Troops.json	0	dialogue	ナウー：
@@ -17292,6 +17368,7 @@ TROOP41_p3_1	Troops.json	0	dialogue	ナウ―：
 TROOP41_p3_2	Troops.json	0	dialogue	………！
 TROOP41_p3_4	Troops.json	0	dialogue	ホノオ：
 TROOP41_p3_5	Troops.json	0	dialogue	いける…！　集中しろ、オレ…！！
+TROOP42_name	Troops.json	troop name	name	ひとつ目のアクマ
 TROOP42_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP42_p0_2	Troops.json	0	dialogue	お前がその紋章の力でどこまでやれるのか…
 TROOP42_p0_3	Troops.json	0	dialogue	ウィン、見せてみろよ。
@@ -17318,6 +17395,7 @@ TROOP42_p2_5	Troops.json	0	dialogue	ピピン：
 TROOP42_p2_6	Troops.json	0	dialogue	お前の紋章はサポート向きだ。
 TROOP42_p2_7	Troops.json	0	dialogue	…分かるか？
 TROOP42_p2_9	Troops.json	0	dialogue	ウィン：
+TROOP43_name	Troops.json	troop name	name	操られたピピン
 TROOP43_p0_1	Troops.json	0	dialogue	サクソン：
 TROOP43_p0_2	Troops.json	0	dialogue	いけっ！　ウィン！！
 TROOP43_p0_3	Troops.json	0	dialogue	ピピンなんか倒してしまえーい！！
@@ -17466,6 +17544,38 @@ TROOP43_p9_5	Troops.json	0	dialogue	ピピン！　死んでしまうぞ…　�
 TROOP43_p9_7	Troops.json	0	dialogue	ピピン：
 TROOP43_p9_8	Troops.json	0	dialogue	そろそろ…　お前らでも…
 TROOP43_p9_9	Troops.json	0	dialogue	俺にトドメを刺せるだろう…
+TROOP45_name	Troops.json	troop name	name	火吹きイヌ
+TROOP46_name	Troops.json	troop name	name	火牛
+TROOP47_name	Troops.json	troop name	name	サチコ, 火牛
+TROOP48_name	Troops.json	troop name	name	雷牛
+TROOP49_name	Troops.json	troop name	name	雷牛, サチコ
+TROOP4_name	Troops.json	troop name	name	人食いコウモリ*2, 人食いネズミ
+TROOP50_name	Troops.json	troop name	name	火食い鳥*2, 火牛
+TROOP51_name	Troops.json	troop name	name	火吹きイヌ*2
+TROOP52_name	Troops.json	troop name	name	火食い鳥*2, 火吹きイヌ
+TROOP53_name	Troops.json	troop name	name	サチコ*3
+TROOP54_name	Troops.json	troop name	name	火牛, 雷牛
+TROOP55_name	Troops.json	troop name	name	てすと
+TROOP56_name	Troops.json	troop name	name	焼き焦げた人形*2, 凍りついた人形*2
+TROOP57_name	Troops.json	troop name	name	生えてきた目玉*2
+TROOP58_name	Troops.json	troop name	name	生えてきた目玉*3
+TROOP59_name	Troops.json	troop name	name	踊り狂うアクマ
+TROOP5_name	Troops.json	troop name	name	人食いコウモリ*2, 人食いグモ*2
+TROOP60_name	Troops.json	troop name	name	雷を帯びた妖精
+TROOP61_name	Troops.json	troop name	name	雷を帯びた妖精*2
+TROOP62_name	Troops.json	troop name	name	セイレーン
+TROOP63_name	Troops.json	troop name	name	焼き焦げた人形, セイレーン, 凍りついた人形
+TROOP64_name	Troops.json	troop name	name	生えてきた目玉*2, 踊り狂うアクマ
+TROOP65_name	Troops.json	troop name	name	凍りついた人形, 火吹きイヌ, 焼き焦げた人形
+TROOP66_name	Troops.json	troop name	name	雷を帯びた妖精*2, 踊り狂うアクマ
+TROOP67_name	Troops.json	troop name	name	雷を帯びた妖精*2, セイレーン
+TROOP68_name	Troops.json	troop name	name	雷を帯びた妖精*2, 雷牛
+TROOP69_name	Troops.json	troop name	name	凍りついた人形, セイレーン, 生えてきた目玉, 焼き焦げた人形
+TROOP6_name	Troops.json	troop name	name	人食いネズミ*2, 人食いグモ*2
+TROOP70_name	Troops.json	troop name	name	焼き焦げた人形, 踊り狂うアクマ, セイレーン, 凍りついた人形
+TROOP71_name	Troops.json	troop name	name	踊り狂うアクマ*3
+TROOP72_name	Troops.json	troop name	name	生えてきた目玉*4
+TROOP74_name	Troops.json	troop name	name	ヤバミネーション
 TROOP74_p0_1	Troops.json	0	dialogue	ナガレ：
 TROOP74_p0_10	Troops.json	0	dialogue	あれは一体なんだ…　見たことのない武器だ…
 TROOP74_p0_12	Troops.json	0	dialogue	ホノオ：
@@ -17484,6 +17594,7 @@ TROOP74_p1_4	Troops.json	0	dialogue	ウヨウヨする世界になっちまう�
 TROOP74_p1_6	Troops.json	0	dialogue	ナガレ：
 TROOP74_p1_7	Troops.json	0	dialogue	そんな世の中になったら、とてもじゃないけど、
 TROOP74_p1_8	Troops.json	0	dialogue	あたしたちが何人いても追いつかないだろうな
+TROOP75_name	Troops.json	troop name	name	暗くかがやく龍
 TROOP75_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP75_p0_10	Troops.json	0	dialogue	まさに異形のモノって感じだ…！
 TROOP75_p0_2	Troops.json	0	dialogue	うおおおおおお！
@@ -17500,6 +17611,9 @@ TROOP75_p1_5	Troops.json	0	dialogue	ナガレ：
 TROOP75_p1_6	Troops.json	0	dialogue	あたしらも紋章の力ですっかり異形のものに
 TROOP75_p1_7	Troops.json	0	dialogue	なっちまった気がするな…
 TROOP75_p1_9	Troops.json	0	dialogue	ウィン：
+TROOP76_name	Troops.json	troop name	name	ヤバミネーションざこ
+TROOP77_name	Troops.json	troop name	name	暗くかがやく龍ざこ
+TROOP78_name	Troops.json	troop name	name	大魔道士ピケピケ
 TROOP78_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP78_p0_10	Troops.json	0	dialogue	さあああああ継承者たちよおおおおおお！！！
 TROOP78_p0_12	Troops.json	0	dialogue	大魔道士ピケピケ：
@@ -17601,6 +17715,7 @@ TROOP78_p5_4	Troops.json	0	dialogue	ホノオ：
 TROOP78_p5_5	Troops.json	0	dialogue	おい…大丈夫か！？
 TROOP78_p5_7	Troops.json	0	dialogue	ナガレ：
 TROOP78_p5_8	Troops.json	0	dialogue	敵を心配なくていいんだよ！！
+TROOP79_name	Troops.json	troop name	name	ミケーネ
 TROOP79_p0_1	Troops.json	0	dialogue	ナガレ：
 TROOP79_p0_10	Troops.json	0	dialogue	…へえ。
 TROOP79_p0_2	Troops.json	0	dialogue	…ほとんど魔法での攻撃なしの殴り合いなら、
@@ -17645,6 +17760,8 @@ TROOP79_p4_2	Troops.json	0	dialogue	うっ…　あと少し…　あと少し�
 TROOP79_p4_4	Troops.json	0	dialogue	ナガレ：
 TROOP79_p4_5	Troops.json	0	dialogue	ああ、あと少しだ…　
 TROOP79_p4_6	Troops.json	0	dialogue	あと少しで…　あたしの勝ちだあああああ！！
+TROOP7_name	Troops.json	troop name	name	人食いグモ
+TROOP80_name	Troops.json	troop name	name	ナウー
 TROOP80_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP80_p0_10	Troops.json	0	dialogue	オレの方はバンバン使ってくからよー！！
 TROOP80_p0_12	Troops.json	0	dialogue	ナウー：
@@ -17711,6 +17828,7 @@ TROOP80_p4_25	Troops.json	0	dialogue	…だが、アンタはもう瀕死のは�
 TROOP80_p4_26	Troops.json	0	dialogue	こっちの攻撃の手は緩めねえぜーーー！！！！
 TROOP80_p4_4	Troops.json	0	dialogue	ナウー：
 TROOP80_p4_5	Troops.json	0	dialogue	……。
+TROOP81_name	Troops.json	troop name	name	魔王ダフィール一回目
 TROOP81_p0_1	Troops.json	0	dialogue	魔王ダフィール：
 TROOP81_p0_10	Troops.json	0	dialogue	すぐに死なれちゃったらつまんないからさあ？
 TROOP81_p0_2	Troops.json	0	dialogue	さあて…　魔王になったボクの力が、
@@ -17728,6 +17846,7 @@ TROOP81_p1_5	Troops.json	0	dialogue	魔王ダフィール：
 TROOP81_p1_6	Troops.json	0	dialogue	やるじゃーーーーん！！
 TROOP81_p1_7	Troops.json	0	dialogue	意外と楽しませてくれるんだねー！？
 TROOP81_p1_9	Troops.json	0	dialogue	魔王ダフィール：
+TROOP82_name	Troops.json	troop name	name	魔王ダフィール本番
 TROOP82_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP82_p0_10	Troops.json	0	dialogue	ウィン：
 TROOP82_p0_11	Troops.json	0	dialogue	…！
@@ -17790,6 +17909,7 @@ TROOP82_p4_5	Troops.json	0	dialogue	なんだ、降参か？
 TROOP82_p4_6	Troops.json	0	dialogue	悪いが、受け入れられないぞ。
 TROOP82_p4_8	Troops.json	0	dialogue	魔王ダフィール：
 TROOP82_p4_9	Troops.json	0	dialogue	ピケピケが言っていた…
+TROOP83_name	Troops.json	troop name	name	大魔王ダフィール
 TROOP83_p0_1	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p0_10	Troops.json	0	dialogue	う…ぐぐぐがガガガァァ……！！
 TROOP83_p0_12	Troops.json	0	dialogue	大魔王ダフィール：
@@ -18073,6 +18193,7 @@ TROOP83_p9_5	Troops.json	0	dialogue	大魔王ダフィール：
 TROOP83_p9_6	Troops.json	0	dialogue	ボクは消えないッ！！！！
 TROOP83_p9_7	Troops.json	0	dialogue	ボクはまだ何も成していない…ッ！！！！
 TROOP83_p9_9	Troops.json	0	dialogue	大魔王ダフィール：
+TROOP84_name	Troops.json	troop name	name	ピケピケ
 TROOP84_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP84_p0_10	Troops.json	0	dialogue	ピケピケ：
 TROOP84_p0_11	Troops.json	0	dialogue	10ターンだ…　うん、そのくらいが限界かな？
@@ -18111,6 +18232,16 @@ TROOP84_p3_3	Troops.json	0	dialogue	魔法使っていいかなあああああ�
 TROOP84_p4_1	Troops.json	0	dialogue	ピケピケ：
 TROOP84_p4_2	Troops.json	0	dialogue	はいはいざんねん、お時間で――――す！！
 TROOP84_p4_3	Troops.json	0	dialogue	あーしんどい、ちょっとはしゃぎ過ぎた…
+TROOP85_name	Troops.json	troop name	name	人食いバット*3
+TROOP86_name	Troops.json	troop name	name	人食いラット*2
+TROOP87_name	Troops.json	troop name	name	人食いスパイダー*2
+TROOP88_name	Troops.json	troop name	name	人食いバット*2, 人食いラット
+TROOP89_name	Troops.json	troop name	name	人食いバット*2, 人食いスパイダー*2
+TROOP8_name	Troops.json	troop name	name	人食いグモ*3
+TROOP90_name	Troops.json	troop name	name	人食いラット*2, 人食いスパイダー*2
+TROOP91_name	Troops.json	troop name	name	人食いスパイダー
+TROOP92_name	Troops.json	troop name	name	人食いスパイダー*3
+TROOP93_name	Troops.json	troop name	name	人食いドッグ
 TROOP93_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP93_p0_10	Troops.json	0	dialogue	…！
 TROOP93_p0_2	Troops.json	0	dialogue	こいつも人食いの…ドッグ？
@@ -18119,8 +18250,10 @@ TROOP93_p0_5	Troops.json	0	dialogue	ピピン：
 TROOP93_p0_6	Troops.json	0	dialogue	どうもいままでの魔物とは様子が違う…
 TROOP93_p0_7	Troops.json	0	dialogue	ウィン、気を引き締めろよ！
 TROOP93_p0_9	Troops.json	0	dialogue	ウィン：
+TROOP94_name	Troops.json	troop name	name	狂気のジャクリーン
 TROOP94_p0_1	Troops.json	0	dialogue	ジャクリーン：
 TROOP94_p0_2	Troops.json	0	dialogue	フゥううゥゥぉぉおおおおおあああッ！！
+TROOP95_name	Troops.json	troop name	name	ナウー本番戦闘　裏
 TROOP95_p0_1	Troops.json	0	dialogue	ホノオ：
 TROOP95_p0_10	Troops.json	0	dialogue	絶対に勝てねえ！！
 TROOP95_p0_11	Troops.json	0	dialogue	卑怯かも知れねえが…
@@ -18170,6 +18303,11 @@ TROOP95_p4_1	Troops.json	0	dialogue	ナウ―：
 TROOP95_p4_2	Troops.json	0	dialogue	………！
 TROOP95_p4_4	Troops.json	0	dialogue	ホノオ：
 TROOP95_p4_5	Troops.json	0	dialogue	おっ？　もしかして…　いけるか！？
+TROOP96_name	Troops.json	troop name	name	火のサムライ
+TROOP97_name	Troops.json	troop name	name	風のサムライ
+TROOP98_name	Troops.json	troop name	name	氷のサムライ
+TROOP99_name	Troops.json	troop name	name	髪が伸びる人形*2
+TROOP9_name	Troops.json	troop name	name	人食いイヌ
 TROOP9_p0_1	Troops.json	0	dialogue	ピピン：
 TROOP9_p0_2	Troops.json	0	dialogue	こいつも人食いの…イヌ？　イヌなのか！？
 TROOP9_p0_4	Troops.json	0	dialogue	ピピン：
