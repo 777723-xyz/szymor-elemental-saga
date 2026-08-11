@@ -5582,8 +5582,8 @@ MAP55_e8_p2_8	Map055.json	0	dialogue	皆、無事です…	Everyone's safe...
 MAP55_e8_p2_9	Map055.json	0	dialogue	上流の村の方々が、すぐに洪水を知らせて	The folk of the upstream villages alerted us
 MAP55_e8_p3_1	Map055.json	0	dialogue	シズク様：	Lady Shizuku:
 MAP55_e8_p3_2	Map055.json	0	dialogue	村のみんなはこの屋敷に集まっています。	to the flood at once, and everyone's gathered here.
-MAP55_e8_p3_3	Map055.json	0	dialogue	買い物する必要があれば、	
-MAP55_e8_p3_4	Map055.json	0	dialogue	ここで済ませるとよいでしょう	
+MAP55_e8_p3_3	Map055.json	0	dialogue	買い物する必要があれば、	If you need to shop,
+MAP55_e8_p3_4	Map055.json	0	dialogue	ここで済ませるとよいでしょう	it'd be best to do it here.
 MAP56_e2_p0_1	Map056.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP56_e2_p0_11	Map056.json	0	dialogue	鍛冶屋主人トリミズ：	Trimizu, Blacksmith:
 MAP56_e2_p0_12	Map056.json	0	dialogue	近々あたらしい刀も完成するから、	A new blade will be finished soon, so
@@ -5647,111 +5647,111 @@ MAP58_e10_p1_6	Map058.json	0	dialogue	お社の近くにヒノタマっていう
 MAP58_e10_p1_7	Map058.json	0	dialogue	出るって、ガキの頃によく言われたけど…	Since I was a kid, they always said they appeared, but...
 MAP58_e10_p1_9	Map058.json	0	dialogue	本当だったとはな。	so it was true.
 MAP58_e10_p2_10	Map058.json	0	dialogue	それより…	Anyway...
-MAP58_e10_p2_100	Map058.json	0	dialogue	自分を強いと感じられたのさ。	
+MAP58_e10_p2_100	Map058.json	0	dialogue	自分を強いと感じられたのさ。	that's when I feel strongest.
 MAP58_e10_p2_102	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e10_p2_103	Map058.json	0	dialogue	そうか…　いや、でもおまえのいまの動き、	
-MAP58_e10_p2_104	Map058.json	0	dialogue	多分オレらみたいに動き回るより、きっと	
-MAP58_e10_p2_105	Map058.json	0	dialogue	ぜんぜん強いぞ…？	
+MAP58_e10_p2_103	Map058.json	0	dialogue	そうか…　いや、でもおまえのいまの動き、	I see... no, but your movements just now—
+MAP58_e10_p2_104	Map058.json	0	dialogue	多分オレらみたいに動き回るより、きっと	they're probably far stronger than rushing about
+MAP58_e10_p2_105	Map058.json	0	dialogue	ぜんぜん強いぞ…？	like we do...?
 MAP58_e10_p2_107	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_108	Map058.json	0	dialogue	ああ、そんなことは分かってるさ。	
-MAP58_e10_p2_109	Map058.json	0	dialogue	結局自分が身に着けたモンに感謝はしてるし、	
-MAP58_e10_p2_11	Map058.json	0	dialogue	さっきのバトルで気付いたことがある。	
-MAP58_e10_p2_110	Map058.json	0	dialogue	後悔もない。	
+MAP58_e10_p2_108	Map058.json	0	dialogue	ああ、そんなことは分かってるさ。	Yeah, I know that.
+MAP58_e10_p2_109	Map058.json	0	dialogue	結局自分が身に着けたモンに感謝はしてるし、	In the end, I'm grateful for what I've learned,
+MAP58_e10_p2_11	Map058.json	0	dialogue	さっきのバトルで気付いたことがある。	and something hit me in that battle just now.
+MAP58_e10_p2_110	Map058.json	0	dialogue	後悔もない。	I have no regrets.
 MAP58_e10_p2_112	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_113	Map058.json	0	dialogue	ただ、これから先、あんたらの戦い方に文句	
-MAP58_e10_p2_114	Map058.json	0	dialogue	つけるときもあるだろうけれど…でも本当は、	
-MAP58_e10_p2_115	Map058.json	0	dialogue	あんたらの戦い方を好きだからな、ってことだ。	
+MAP58_e10_p2_113	Map058.json	0	dialogue	ただ、これから先、あんたらの戦い方に文句	But from here on, I might complain about your fighting
+MAP58_e10_p2_114	Map058.json	0	dialogue	つけるときもあるだろうけれど…でも本当は、	style now and then... but the truth is,
+MAP58_e10_p2_115	Map058.json	0	dialogue	あんたらの戦い方を好きだからな、ってことだ。	I love the way you fight.
 MAP58_e10_p2_117	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e10_p2_118	Map058.json	0	dialogue	え…？	Huh...?
-MAP58_e10_p2_119	Map058.json	0	dialogue	あ…　はい…。　　　　？	
-MAP58_e10_p2_12	Map058.json	0	dialogue	結構すごいことだぞこれは…	
+MAP58_e10_p2_119	Map058.json	0	dialogue	あ…　はい…。　　　　？	Ah... yes...?
+MAP58_e10_p2_12	Map058.json	0	dialogue	結構すごいことだぞこれは…	This is actually quite something...
 MAP58_e10_p2_14	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e10_p2_15	Map058.json	0	dialogue	へえ…なんだよ？	
+MAP58_e10_p2_15	Map058.json	0	dialogue	へえ…なんだよ？	Huh... what is it?
 MAP58_e10_p2_17	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_18	Map058.json	0	dialogue	あんたらの紋章は、	
-MAP58_e10_p2_19	Map058.json	0	dialogue	同じタイプというか…同じ属性の攻撃から、	
+MAP58_e10_p2_18	Map058.json	0	dialogue	あんたらの紋章は、	Your crests...
+MAP58_e10_p2_19	Map058.json	0	dialogue	同じタイプというか…同じ属性の攻撃から、	they seem to protect you from attacks of
 MAP58_e10_p2_2	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e10_p2_20	Map058.json	0	dialogue	あんたらを守っているみたいだな。	
+MAP58_e10_p2_20	Map058.json	0	dialogue	あんたらを守っているみたいだな。	the same type—the same element.
 MAP58_e10_p2_22	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e10_p2_23	Map058.json	0	dialogue	…は？	...What?
 MAP58_e10_p2_25	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_26	Map058.json	0	dialogue	火をまとった攻撃はホノオにはあまり効かない	
-MAP58_e10_p2_27	Map058.json	0	dialogue	そして、風というか雷をまとった攻撃も、	
-MAP58_e10_p2_28	Map058.json	0	dialogue	ウィンにはあまり効いていなかった。	
-MAP58_e10_p2_3	Map058.json	0	dialogue	たいしたことなかった…	
+MAP58_e10_p2_26	Map058.json	0	dialogue	火をまとった攻撃はホノオにはあまり効かない	Fire-wreathed attacks don't do much to Hono,
+MAP58_e10_p2_27	Map058.json	0	dialogue	そして、風というか雷をまとった攻撃も、	and wind—or rather, lightning—wreathed attacks
+MAP58_e10_p2_28	Map058.json	0	dialogue	ウィンにはあまり効いていなかった。	barely affected Win either.
+MAP58_e10_p2_3	Map058.json	0	dialogue	たいしたことなかった…	It wasn't much at all...
 MAP58_e10_p2_30	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e10_p2_31	Map058.json	0	dialogue	…えっ！　マジで！？	
+MAP58_e10_p2_31	Map058.json	0	dialogue	…えっ！　マジで！？	...Huh! For real!?
 MAP58_e10_p2_33	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_34	Map058.json	0	dialogue	気付いてなかったとはな…。	
-MAP58_e10_p2_35	Map058.json	0	dialogue	あんたどんだけ必死で暴れてるんだよ。	
+MAP58_e10_p2_34	Map058.json	0	dialogue	気付いてなかったとはな…。	So you never noticed...
+MAP58_e10_p2_35	Map058.json	0	dialogue	あんたどんだけ必死で暴れてるんだよ。	How desperately were you two thrashing around in there.
 MAP58_e10_p2_37	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e10_p2_38	Map058.json	0	dialogue	マジか…いや、紋章の力ならありえそうだし…	
-MAP58_e10_p2_39	Map058.json	0	dialogue	実際オレも火の攻撃は、あまり痛くなかった…	
-MAP58_e10_p2_4	Map058.json	0	dialogue	よかった…　こ、こわかったぜ…！	
-MAP58_e10_p2_40	Map058.json	0	dialogue	マジか！	
-MAP58_e10_p2_42	Map058.json	0	dialogue	すげえじゃねえか！	
-MAP58_e10_p2_43	Map058.json	0	dialogue	いや、それより、バトル中にそんなところまで	
-MAP58_e10_p2_44	Map058.json	0	dialogue	見ているナガレ！　おまえすごいな…	
+MAP58_e10_p2_38	Map058.json	0	dialogue	マジか…いや、紋章の力ならありえそうだし…	For real... well, it'd make sense as the crest's power...
+MAP58_e10_p2_39	Map058.json	0	dialogue	実際オレも火の攻撃は、あまり痛くなかった…	Honestly, fire attacks didn't hurt me much either...
+MAP58_e10_p2_4	Map058.json	0	dialogue	よかった…　こ、こわかったぜ…！	What a relief... t-that was scary...!
+MAP58_e10_p2_40	Map058.json	0	dialogue	マジか！	For real!
+MAP58_e10_p2_42	Map058.json	0	dialogue	すげえじゃねえか！	That's amazing!
+MAP58_e10_p2_43	Map058.json	0	dialogue	いや、それより、バトル中にそんなところまで	No, more importantly—during a battle, you noticed all that?
+MAP58_e10_p2_44	Map058.json	0	dialogue	見ているナガレ！　おまえすごいな…	Nagare, you're incredible...
 MAP58_e10_p2_46	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_47	Map058.json	0	dialogue	戦いの最中は決して興奮せず、自然体でいろ。	
-MAP58_e10_p2_48	Map058.json	0	dialogue	理想は無の心で、戦場を正確に観察しろ…	
-MAP58_e10_p2_50	Map058.json	0	dialogue	剣を教わる一番最初から、	
-MAP58_e10_p2_51	Map058.json	0	dialogue	あたしらはそう教わるんだよ。	
-MAP58_e10_p2_52	Map058.json	0	dialogue	あんたらみたいに、血走った目で走り回ったり	
-MAP58_e10_p2_53	Map058.json	0	dialogue	しない。	
+MAP58_e10_p2_47	Map058.json	0	dialogue	戦いの最中は決して興奮せず、自然体でいろ。	Never get excited mid-battle; stay natural.
+MAP58_e10_p2_48	Map058.json	0	dialogue	理想は無の心で、戦場を正確に観察しろ…	The ideal is an empty heart, precisely observing the field...
+MAP58_e10_p2_50	Map058.json	0	dialogue	剣を教わる一番最初から、	From the very first sword lesson,
+MAP58_e10_p2_51	Map058.json	0	dialogue	あたしらはそう教わるんだよ。	that's what we're taught.
+MAP58_e10_p2_52	Map058.json	0	dialogue	あんたらみたいに、血走った目で走り回ったり	We don't run around with bloodshot eyes
+MAP58_e10_p2_53	Map058.json	0	dialogue	しない。	like you two.
 MAP58_e10_p2_55	Map058.json	0	dialogue	ホノオ：	Hono:
 MAP58_e10_p2_58	Map058.json	0	dialogue	ウィン：	Win:
 MAP58_e10_p2_6	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e10_p2_61	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_62	Map058.json	0	dialogue	なんだよ、二人して？	
+MAP58_e10_p2_62	Map058.json	0	dialogue	なんだよ、二人して？	What is it, the both of you?
 MAP58_e10_p2_64	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e10_p2_65	Map058.json	0	dialogue	いや…　なんかズシッときた…	
+MAP58_e10_p2_65	Map058.json	0	dialogue	いや…　なんかズシッときた…	No... it just hit us hard...
 MAP58_e10_p2_67	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_68	Map058.json	0	dialogue	あんたもかい？	
-MAP58_e10_p2_7	Map058.json	0	dialogue	あれだけ大暴れしといて、怖かったってかい…	
+MAP58_e10_p2_68	Map058.json	0	dialogue	あんたもかい？	You too?
+MAP58_e10_p2_7	Map058.json	0	dialogue	あれだけ大暴れしといて、怖かったってかい…	After all that rampaging, you were scared, huh...
 MAP58_e10_p2_70	Map058.json	0	dialogue	ウィン：	Win:
 MAP58_e10_p2_74	Map058.json	0	dialogue	　　　　　　　　　　　ウィンは頷いた	Win nodded
 MAP58_e10_p2_76	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_77	Map058.json	0	dialogue	ふうん…。	
-MAP58_e10_p2_78	Map058.json	0	dialogue	でもね、あんたらの戦い方を変えろとは、	
-MAP58_e10_p2_79	Map058.json	0	dialogue	あたしは言わないからな。	
-MAP58_e10_p2_8	Map058.json	0	dialogue	むしろさっきのお化けの方に同情したくなるね	
+MAP58_e10_p2_77	Map058.json	0	dialogue	ふうん…。	Hmph...
+MAP58_e10_p2_78	Map058.json	0	dialogue	でもね、あんたらの戦い方を変えろとは、	But hey, I won't tell you to change
+MAP58_e10_p2_79	Map058.json	0	dialogue	あたしは言わないからな。	your fighting style.
+MAP58_e10_p2_8	Map058.json	0	dialogue	むしろさっきのお化けの方に同情したくなるね	If anything, I feel sorry for that monster just now.
 MAP58_e10_p2_81	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e10_p2_82	Map058.json	0	dialogue	え…？　そう…なの？	
+MAP58_e10_p2_82	Map058.json	0	dialogue	え…？　そう…なの？	Huh...? Really...?
 MAP58_e10_p2_84	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e10_p2_85	Map058.json	0	dialogue	うん。	
-MAP58_e10_p2_86	Map058.json	0	dialogue	あたしはあんたらみたいな戦い方の方が好きだし、	
-MAP58_e10_p2_87	Map058.json	0	dialogue	落ち着くんだよ。	
-MAP58_e10_p2_89	Map058.json	0	dialogue	小さい頃…	
-MAP58_e10_p2_90	Map058.json	0	dialogue	村のみんなから剣を教えられるときにさ…	
-MAP58_e10_p2_91	Map058.json	0	dialogue	こころを静かに、行儀よく、無駄な動きをせず、	
-MAP58_e10_p2_92	Map058.json	0	dialogue	ひとにやさしく、平和を祈り…　みたいな、	
-MAP58_e10_p2_94	Map058.json	0	dialogue	何を教えてもらってるんだか分からない、	
-MAP58_e10_p2_95	Map058.json	0	dialogue	セイリューの剣術が嫌で嫌で仕方なかったんだ。	
-MAP58_e10_p2_97	Map058.json	0	dialogue	あたしはむしろ、夢中になって叫んで、走って、	
-MAP58_e10_p2_98	Map058.json	0	dialogue	剣を振り回しているときの方が…	
-MAP58_e10_p2_99	Map058.json	0	dialogue	上手に動けていると感じられた。	
-MAP58_e11_p1_10	Map058.json	0	dialogue	ウィンのハヤテでスピードを上げ、	
-MAP58_e11_p1_11	Map058.json	0	dialogue	オレのキョウセンシで腕力を上げ…	
-MAP58_e11_p1_13	Map058.json	0	dialogue	そしてナガレのテッペキで落ちたときも安心…	
-MAP58_e11_p1_14	Map058.json	0	dialogue	という作戦で、縄を見事登り切ったぜーーー！	
+MAP58_e10_p2_85	Map058.json	0	dialogue	うん。	Yeah.
+MAP58_e10_p2_86	Map058.json	0	dialogue	あたしはあんたらみたいな戦い方の方が好きだし、	I prefer your way of fighting,
+MAP58_e10_p2_87	Map058.json	0	dialogue	落ち着くんだよ。	it puts me at ease.
+MAP58_e10_p2_89	Map058.json	0	dialogue	小さい頃…	When I was little...
+MAP58_e10_p2_90	Map058.json	0	dialogue	村のみんなから剣を教えられるときにさ…	when the villagers were teaching me the sword...
+MAP58_e10_p2_91	Map058.json	0	dialogue	こころを静かに、行儀よく、無駄な動きをせず、	'Keep your heart calm, behave, waste no movement,
+MAP58_e10_p2_92	Map058.json	0	dialogue	ひとにやさしく、平和を祈り…　みたいな、	be kind to others, pray for peace'—like that...
+MAP58_e10_p2_94	Map058.json	0	dialogue	何を教えてもらってるんだか分からない、	I couldn't make sense of what I was being taught,
+MAP58_e10_p2_95	Map058.json	0	dialogue	セイリューの剣術が嫌で嫌で仕方なかったんだ。	and I hated Seiryu's swordsmanship with all my heart.
+MAP58_e10_p2_97	Map058.json	0	dialogue	あたしはむしろ、夢中になって叫んで、走って、	For me, it was when I was shouting, running,
+MAP58_e10_p2_98	Map058.json	0	dialogue	剣を振り回しているときの方が…	and swinging my sword in a frenzy that I...
+MAP58_e10_p2_99	Map058.json	0	dialogue	上手に動けていると感じられた。	felt I moved best.
+MAP58_e11_p1_10	Map058.json	0	dialogue	ウィンのハヤテでスピードを上げ、	Boost speed with Win's Hayate,
+MAP58_e11_p1_11	Map058.json	0	dialogue	オレのキョウセンシで腕力を上げ…	boost strength with my Warrior,
+MAP58_e11_p1_13	Map058.json	0	dialogue	そしてナガレのテッペキで落ちたときも安心…	and with Nagare's Iron Wall, falls are safe...
+MAP58_e11_p1_14	Map058.json	0	dialogue	という作戦で、縄を見事登り切ったぜーーー！	With that plan, we climbed the rope splendidly!
 MAP58_e11_p1_16	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e11_p1_17	Map058.json	0	dialogue	しかし本当に便利だな、紋章の力って…。	
-MAP58_e11_p1_18	Map058.json	0	dialogue	戦い以外にも、色々役に立ちそうだ。	
+MAP58_e11_p1_17	Map058.json	0	dialogue	しかし本当に便利だな、紋章の力って…。	But really, how handy is the crest's power...
+MAP58_e11_p1_18	Map058.json	0	dialogue	戦い以外にも、色々役に立ちそうだ。	It'd be useful for all sorts of things beyond battle.
 MAP58_e11_p1_20	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e11_p1_21	Map058.json	0	dialogue	…だけど、これからどうすんだ？	
+MAP58_e11_p1_21	Map058.json	0	dialogue	…だけど、これからどうすんだ？	...But what do we do now?
 MAP58_e11_p1_23	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e11_p1_24	Map058.json	0	dialogue	ミケーネを…四天王を追う。そして倒す。	
+MAP58_e11_p1_24	Map058.json	0	dialogue	ミケーネを…四天王を追う。そして倒す。	We pursue Mycenae... the Four Generals. And defeat them.
 MAP58_e11_p1_26	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e11_p1_27	Map058.json	0	dialogue	どこにいるのかも分からんぞ？	
+MAP58_e11_p1_27	Map058.json	0	dialogue	どこにいるのかも分からんぞ？	We don't even know where they are?
 MAP58_e11_p1_29	Map058.json	0	dialogue	ナガレ：	Nagare:
-MAP58_e11_p1_30	Map058.json	0	dialogue	…とりあえず、村に帰ろう。	
-MAP58_e11_p1_31	Map058.json	0	dialogue	姉さまたちに継承が済んだことを伝えたい。	
+MAP58_e11_p1_30	Map058.json	0	dialogue	…とりあえず、村に帰ろう。	...For now, let's go back to the village.
+MAP58_e11_p1_31	Map058.json	0	dialogue	姉さまたちに継承が済んだことを伝えたい。	I want to tell my sisters the succession is done.
 MAP58_e11_p1_33	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e11_p1_34	Map058.json	0	dialogue	ああ、そうだな！	
+MAP58_e11_p1_34	Map058.json	0	dialogue	ああ、そうだな！	Yeah, right!
 MAP58_e11_p1_6	Map058.json	0	dialogue	ホノオ：	Hono:
-MAP58_e11_p1_7	Map058.json	0	dialogue	…と、いうことでだ。	
-MAP58_e11_p1_9	Map058.json	0	dialogue	ナガレのアイデアで、	
+MAP58_e11_p1_7	Map058.json	0	dialogue	…と、いうことでだ。	...And so.
+MAP58_e11_p1_9	Map058.json	0	dialogue	ナガレのアイデアで、	We go with Nagare's idea.
 MAP58_e5_p0_1	Map058.json	0	dialogue	ナガレ：	Nagare:
 MAP58_e5_p0_10	Map058.json	0	dialogue	なんだ？	What?
 MAP58_e5_p0_12	Map058.json	0	dialogue	ホノオ：	Hono:
@@ -5902,57 +5902,57 @@ MAP59_e8_p0_2	Map059.json	0	dialogue	穴が見えてきた…	The hole's come in
 MAP59_e8_p0_3	Map059.json	0	dialogue	きっとあれに落ちたら龍がいる…。	If we fall into that, the dragon's surely there...
 MAP59_e8_p0_4	Map059.json	0	dialogue	みんな、気を引き締めた方がいい。	Everyone, better steel yourselves.
 MAP60_e10_p1_10	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e10_p1_100	Map060.json	0	dialogue	あたしたちにはそう伝わってるんだよ。	
+MAP60_e10_p1_100	Map060.json	0	dialogue	あたしたちにはそう伝わってるんだよ。	That's how it's been relayed to us.
 MAP60_e10_p1_102	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e10_p1_103	Map060.json	0	dialogue	そうだったな…。	
+MAP60_e10_p1_103	Map060.json	0	dialogue	そうだったな…。	Right...
 MAP60_e10_p1_105	Map060.json	0	dialogue	青龍：	Seiryu:
-MAP60_e10_p1_106	Map060.json	0	dialogue	あれ、おかしいな…	
-MAP60_e10_p1_107	Map060.json	0	dialogue	ぼくは怒ってなんかないよ	
-MAP60_e10_p1_108	Map060.json	0	dialogue	だって…	
-MAP60_e10_p1_11	Map060.json	0	dialogue	そうだ！	
+MAP60_e10_p1_106	Map060.json	0	dialogue	あれ、おかしいな…	Huh, that's strange...
+MAP60_e10_p1_107	Map060.json	0	dialogue	ぼくは怒ってなんかないよ	I'm not angry at all.
+MAP60_e10_p1_108	Map060.json	0	dialogue	だって…	Because...
+MAP60_e10_p1_11	Map060.json	0	dialogue	そうだ！	Right!
 MAP60_e10_p1_110	Map060.json	0	dialogue	青龍：	Seiryu:
-MAP60_e10_p1_111	Map060.json	0	dialogue	友だちなんだから…！だから…	
-MAP60_e10_p1_112	Map060.json	0	dialogue	友だちのこどもたちの　きみたちもぼくの友だちだよね？	
+MAP60_e10_p1_111	Map060.json	0	dialogue	友だちなんだから…！だから…	You're my friend...! So...
+MAP60_e10_p1_112	Map060.json	0	dialogue	友だちのこどもたちの　きみたちもぼくの友だちだよね？	You, my friend's children—you're my friends too, right?
 MAP60_e10_p1_114	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e10_p1_117	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e10_p1_118	Map060.json	0	dialogue	ああ…　友達だぜ！	
-MAP60_e10_p1_119	Map060.json	0	dialogue	龍！	
-MAP60_e10_p1_12	Map060.json	0	dialogue	おい、龍、大丈夫か…？	
+MAP60_e10_p1_118	Map060.json	0	dialogue	ああ…　友達だぜ！	Yeah... We're friends!
+MAP60_e10_p1_119	Map060.json	0	dialogue	龍！	Dragon!
+MAP60_e10_p1_12	Map060.json	0	dialogue	おい、龍、大丈夫か…？	Hey, dragon, you okay...?
 MAP60_e10_p1_121	Map060.json	0	dialogue	青龍：	Seiryu:
-MAP60_e10_p1_122	Map060.json	0	dialogue	よかった…	
-MAP60_e10_p1_123	Map060.json	0	dialogue	最後に　友だちとの約束を守れて…	
-MAP60_e10_p1_124	Map060.json	0	dialogue	そして新しい友だちにも会えたんだ…	
+MAP60_e10_p1_122	Map060.json	0	dialogue	よかった…	Good...
+MAP60_e10_p1_123	Map060.json	0	dialogue	最後に　友だちとの約束を守れて…	In the end, I could keep my promise to my friend...
+MAP60_e10_p1_124	Map060.json	0	dialogue	そして新しい友だちにも会えたんだ…	and even meet new friends...
 MAP60_e10_p1_127	Map060.json	0	dialogue	青龍：	Seiryu:
-MAP60_e10_p1_128	Map060.json	0	dialogue	よかった…　	
+MAP60_e10_p1_128	Map060.json	0	dialogue	よかった…　	Good...
 MAP60_e10_p1_132	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e10_p1_133	Map060.json	0	dialogue	…龍？　おい…　死んだのか…	
+MAP60_e10_p1_133	Map060.json	0	dialogue	…龍？　おい…　死んだのか…	...Dragon? Hey... did you die...
 MAP60_e10_p1_135	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e10_p1_136	Map060.json	0	dialogue	待ってくれ…　	
-MAP60_e10_p1_137	Map060.json	0	dialogue	あんたにはまだまだ聞きたいことがある…	
-MAP60_e10_p1_138	Map060.json	0	dialogue	龍！！	
+MAP60_e10_p1_136	Map060.json	0	dialogue	待ってくれ…　	Wait...
+MAP60_e10_p1_137	Map060.json	0	dialogue	あんたにはまだまだ聞きたいことがある…	There's still so much I want to ask you...
+MAP60_e10_p1_138	Map060.json	0	dialogue	龍！！	Dragon!!
 MAP60_e10_p1_140	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e10_p1_141	Map060.json	0	dialogue	ナガレ…　やめろ。	
-MAP60_e10_p1_142	Map060.json	0	dialogue	静かに眠らせてやろうぜ。	
+MAP60_e10_p1_141	Map060.json	0	dialogue	ナガレ…　やめろ。	Nagare... stop.
+MAP60_e10_p1_142	Map060.json	0	dialogue	静かに眠らせてやろうぜ。	Let him rest in peace.
 MAP60_e10_p1_144	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e10_p1_145	Map060.json	0	dialogue	だって…　こいつに聞かないと分からない…	
+MAP60_e10_p1_145	Map060.json	0	dialogue	だって…　こいつに聞かないと分からない…	But... if I don't ask him, I'll never know...
 MAP60_e10_p1_147	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e10_p1_148	Map060.json	0	dialogue	分からないことだらけで、死んじまうなんて…	
+MAP60_e10_p1_148	Map060.json	0	dialogue	分からないことだらけで、死んじまうなんて…	How can he die with so much left unanswered...
 MAP60_e10_p1_150	Map060.json	0	dialogue	ホノオ：	Hono:
 MAP60_e10_p1_153	Map060.json	0	dialogue	ウィン：	Win:
-MAP60_e10_p1_159	Map060.json	0	dialogue	　　　　　　　　　龍の涙　を手に入れた	
+MAP60_e10_p1_159	Map060.json	0	dialogue	　　　　　　　　　龍の涙　を手に入れた	Obtained a Dragon's Tear.
 MAP60_e10_p1_165	Map060.json	0	dialogue	ホノオ：	Hono:
-MAP60_e10_p1_166	Map060.json	0	dialogue	…で、どうやってここから出るんだ？	
+MAP60_e10_p1_166	Map060.json	0	dialogue	…で、どうやってここから出るんだ？	...So how do we get out of here?
 MAP60_e10_p1_2	Map060.json	0	dialogue	ナガレ：	Nagare:
 MAP60_e10_p1_20	Map060.json	0	dialogue	青龍：	Seiryu:
-MAP60_e10_p1_21	Map060.json	0	dialogue	ぼくは　もうそろそろ　死んでしまう…	
+MAP60_e10_p1_21	Map060.json	0	dialogue	ぼくは　もうそろそろ　死んでしまう…	I will soon die...
 MAP60_e10_p1_23	Map060.json	0	dialogue	青龍：	Seiryu:
-MAP60_e10_p1_24	Map060.json	0	dialogue	もともと、死にかけていたのを…	
-MAP60_e10_p1_25	Map060.json	0	dialogue	友達が紋章で助けてくれていたから…	
-MAP60_e10_p1_26	Map060.json	0	dialogue	それがなくなったら、もう　死んでしまうんだ	
+MAP60_e10_p1_24	Map060.json	0	dialogue	もともと、死にかけていたのを…	I was already on the verge of death...
+MAP60_e10_p1_25	Map060.json	0	dialogue	友達が紋章で助けてくれていたから…	my friend was keeping me alive with the crest...
+MAP60_e10_p1_26	Map060.json	0	dialogue	それがなくなったら、もう　死んでしまうんだ	once that's gone, I'll finally die.
 MAP60_e10_p1_28	Map060.json	0	dialogue	ナガレ：	Nagare:
-MAP60_e10_p1_29	Map060.json	0	dialogue	あんたがあたしに…	
-MAP60_e10_p1_3	Map060.json	0	dialogue	本当に消えちまいやがった…！	
-MAP60_e10_p1_30	Map060.json	0	dialogue	紋章を継承してくれたからなのか…？	
+MAP60_e10_p1_29	Map060.json	0	dialogue	あんたがあたしに…	You, to me...
+MAP60_e10_p1_3	Map060.json	0	dialogue	本当に消えちまいやがった…！	He really went and vanished...!
+MAP60_e10_p1_30	Map060.json	0	dialogue	紋章を継承してくれたからなのか…？	Was it because he passed the crest to me...?
 MAP60_e10_p1_32	Map060.json	0	dialogue	青龍：	Seiryu:
 MAP60_e10_p1_33	Map060.json	0	dialogue	でも　それは　約束だから…	
 MAP60_e10_p1_35	Map060.json	0	dialogue	ホノオ：	Hono:
