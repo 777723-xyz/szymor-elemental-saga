@@ -1515,159 +1515,159 @@ MAP14_e5_p0_6	Map014.json	0	dialogue	よかったら、一緒にご飯食べて�
 MAP14_e5_p0_7	Map014.json	0	dialogue	遠慮しないでいいんだよ！	Don't be shy!
 MAP14_e6_p0_1	Map014.json	0	dialogue	市民デイビッド：	David, Citizen:
 MAP14_e6_p0_2	Map014.json	0	dialogue	おお、ウィン…よく来たな。	Oh, Win... good of you to come.
-MAP14_e6_p0_3	Map014.json	0	dialogue	なんにもないが、ゆっくりしていきなさい。	
-MAP14_e6_p0_5	Map014.json	0	dialogue	しかし、大きくなったのう…	
-MAP14_e6_p0_6	Map014.json	0	dialogue	騎士の恰好もよく似合っておるわい。	
-MAP15_e10_p0_1	Map015.json	0	dialogue	『ある天才騎士の軌跡』	
-MAP15_e10_p0_10	Map015.json	1	dialogue	彼はその剣術、頭脳において、他を圧倒していた。	
-MAP15_e10_p0_11	Map015.json	1	dialogue	しかし、ピピンがどこから来た男なのかを知るものは、	
-MAP15_e10_p0_12	Map015.json	1	dialogue	騎士団にはいなかった…	
-MAP15_e10_p0_13	Map015.json	1	dialogue	少なくとも筆者の周りに知る者はいなかった。	
-MAP15_e10_p0_15	Map015.json	1	dialogue	彼には、その能力だけでなく、ひとと違う特徴があった。	
-MAP15_e10_p0_16	Map015.json	1	dialogue	彼の耳は、とても細長く、とがっている。	
-MAP15_e10_p0_17	Map015.json	1	dialogue	そのような耳をした者を、我々は他に見たことがない。	
-MAP15_e10_p0_18	Map015.json	1	dialogue	彼は一体、何者なのか。どこからやってきたのだろうか…。	
+MAP14_e6_p0_3	Map014.json	0	dialogue	なんにもないが、ゆっくりしていきなさい。	There's nothing here, but take your time.
+MAP14_e6_p0_5	Map014.json	0	dialogue	しかし、大きくなったのう…	My, how you've grown...
+MAP14_e6_p0_6	Map014.json	0	dialogue	騎士の恰好もよく似合っておるわい。	That knight's uniform suits you well.
+MAP15_e10_p0_1	Map015.json	0	dialogue	『ある天才騎士の軌跡』	"""The Path of a Certain Genius Knight"""
+MAP15_e10_p0_10	Map015.json	1	dialogue	彼はその剣術、頭脳において、他を圧倒していた。	He overwhelmed others in both swordsmanship and intellect.
+MAP15_e10_p0_11	Map015.json	1	dialogue	しかし、ピピンがどこから来た男なのかを知るものは、	Yet none in the knight order knew where Pipin came from...
+MAP15_e10_p0_12	Map015.json	1	dialogue	騎士団にはいなかった…	not a single one...
+MAP15_e10_p0_13	Map015.json	1	dialogue	少なくとも筆者の周りに知る者はいなかった。	At least, no one I knew did.
+MAP15_e10_p0_15	Map015.json	1	dialogue	彼には、その能力だけでなく、ひとと違う特徴があった。	Beyond his abilities, he had a feature unlike any other.
+MAP15_e10_p0_16	Map015.json	1	dialogue	彼の耳は、とても細長く、とがっている。	His ears were very long, slender, and pointed.
+MAP15_e10_p0_17	Map015.json	1	dialogue	そのような耳をした者を、我々は他に見たことがない。	We've never seen anyone else with ears like that.
+MAP15_e10_p0_18	Map015.json	1	dialogue	彼は一体、何者なのか。どこからやってきたのだろうか…。	Just who is he? Where did he come from...?
 MAP15_e10_p0_2	Map015.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP15_e10_p0_3_c0	Map015.json	choice	choice	読んでみる	Read it
 MAP15_e10_p0_3_c1	Map015.json	choice	choice	読まない	Don't read it
-MAP15_e10_p0_6	Map015.json	1	dialogue	天才と呼ばれる騎士がいる…	
-MAP15_e10_p0_7	Map015.json	1	dialogue	呼ばれるだけでなく自分でもそう呼ぶのだが…	
-MAP15_e10_p0_8	Map015.json	1	dialogue	その男の名を、ピピンという。	
+MAP15_e10_p0_6	Map015.json	1	dialogue	天才と呼ばれる騎士がいる…	There is a knight called a genius...
+MAP15_e10_p0_7	Map015.json	1	dialogue	呼ばれるだけでなく自分でもそう呼ぶのだが…	and he calls himself that, not just others...
+MAP15_e10_p0_8	Map015.json	1	dialogue	その男の名を、ピピンという。	That man's name is Pipin.
 MAP15_e11_p0_1	Map015.json	0	dialogue	市民ウィング：	Wing, Citizen:
 MAP15_e11_p0_10	Map015.json	1	dialogue	そうだ、ウィン。	Oh, Win.
 MAP15_e11_p0_11	Map015.json	1	dialogue	外でおもしろい本を見つけたら、私に持って	If you find an interesting book out there,
 MAP15_e11_p0_12	Map015.json	1	dialogue	帰ってきてちょうだい。	bring it back for me, won't you?
 MAP15_e11_p0_13	Map015.json	1	dialogue	読む本がなくなって退屈しているのよ…。	I've run out of reading material and I'm bored...
-MAP15_e11_p0_19	Map015.json	1	dialogue	騎士になったってのに、それじゃあ	
-MAP15_e11_p0_2	Map015.json	0	dialogue	あら、ウィン。今日はどうしたの？	
-MAP15_e11_p0_20	Map015.json	1	dialogue	いままでと変わらないじゃないの…。	
-MAP15_e11_p0_21	Map015.json	1	dialogue	はたらきなさいよ。	
+MAP15_e11_p0_19	Map015.json	1	dialogue	騎士になったってのに、それじゃあ	Even as a knight, that's just—
+MAP15_e11_p0_2	Map015.json	0	dialogue	あら、ウィン。今日はどうしたの？	Oh, Win. What brings you today?
+MAP15_e11_p0_20	Map015.json	1	dialogue	いままでと変わらないじゃないの…。	You haven't changed a bit, have you...
+MAP15_e11_p0_21	Map015.json	1	dialogue	はたらきなさいよ。	Go on, work.
 MAP15_e11_p0_23	Map015.json	1	dialogue	そうだ、ウィン。	Oh, Win.
 MAP15_e11_p0_24	Map015.json	1	dialogue	外でおもしろい本を見つけたら、私に持って	If you find an interesting book out there,
 MAP15_e11_p0_25	Map015.json	1	dialogue	帰ってきてちょうだい。	bring it back for me, won't you?
 MAP15_e11_p0_26	Map015.json	1	dialogue	読む本がなくなって退屈しているのよ…。	I've run out of reading material and I'm bored...
 MAP15_e11_p0_3_c0	Map015.json	choice	choice	君に会いに来たんだ	I came to see you
 MAP15_e11_p0_3_c1	Map015.json	choice	choice	どうもしないよ	Nothing much
-MAP15_e11_p0_6	Map015.json	1	dialogue	そういうのはいいから。	
-MAP15_e11_p0_7	Map015.json	1	dialogue	どうせなんとなくヒマでぶらぶらしている	
-MAP15_e11_p0_8	Map015.json	1	dialogue	だけなんでしょう？	
-MAP15_e12_p0_2	Map015.json	0	dialogue	　　　　　　　　小麦粉か何かが入っている	
-MAP15_e13_p0_1	Map015.json	0	dialogue	『暗黒大陸』	
-MAP15_e13_p0_11	Map015.json	1	dialogue	大昔にセイリューの南から暗黒大陸への橋が作られたが、	
-MAP15_e13_p0_12	Map015.json	1	dialogue	そこから大量の恐ろしい魔物が雪崩れこんだ。	
-MAP15_e13_p0_13	Map015.json	1	dialogue	そして橋を渡って向こう側へ行ったものはみな病気になって	
-MAP15_e13_p0_14	Map015.json	1	dialogue	すぐに死んでしまった。	
-MAP15_e13_p0_16	Map015.json	1	dialogue	それ以来、橋は落とされ、誰もその土地へ行こうと	
-MAP15_e13_p0_17	Map015.json	1	dialogue	しなくなった。	
-MAP15_e13_p0_18	Map015.json	1	dialogue	いまではその地の存在を知る者も稀である。	
+MAP15_e11_p0_6	Map015.json	1	dialogue	そういうのはいいから。	Enough of that.
+MAP15_e11_p0_7	Map015.json	1	dialogue	どうせなんとなくヒマでぶらぶらしている	You're just wandering around bored
+MAP15_e11_p0_8	Map015.json	1	dialogue	だけなんでしょう？	anyway, aren't you?
+MAP15_e12_p0_2	Map015.json	0	dialogue	　　　　　　　　小麦粉か何かが入っている	It contains flour or something of the sort.
+MAP15_e13_p0_1	Map015.json	0	dialogue	『暗黒大陸』	"""The Dark Continent"""
+MAP15_e13_p0_11	Map015.json	1	dialogue	大昔にセイリューの南から暗黒大陸への橋が作られたが、	Long ago, a bridge to the Dark Continent was built south of Seiryu, but
+MAP15_e13_p0_12	Map015.json	1	dialogue	そこから大量の恐ろしい魔物が雪崩れこんだ。	a flood of terrifying monsters poured across it.
+MAP15_e13_p0_13	Map015.json	1	dialogue	そして橋を渡って向こう側へ行ったものはみな病気になって	And all who crossed the bridge to the other side fell ill
+MAP15_e13_p0_14	Map015.json	1	dialogue	すぐに死んでしまった。	and died soon after.
+MAP15_e13_p0_16	Map015.json	1	dialogue	それ以来、橋は落とされ、誰もその土地へ行こうと	Since then, the bridge was dropped, and no one has tried
+MAP15_e13_p0_17	Map015.json	1	dialogue	しなくなった。	to go there.
+MAP15_e13_p0_18	Map015.json	1	dialogue	いまではその地の存在を知る者も稀である。	Now, few even know that land exists.
 MAP15_e13_p0_2	Map015.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP15_e13_p0_3_c0	Map015.json	choice	choice	読んでみる	Read it
 MAP15_e13_p0_3_c1	Map015.json	choice	choice	読まない	Don't read it
-MAP15_e13_p0_6	Map015.json	1	dialogue	この大陸のずっと南…	
-MAP15_e13_p0_7	Map015.json	1	dialogue	かつて暗黒大陸と呼ばれていた土地がある。	
-MAP15_e13_p0_8	Map015.json	1	dialogue	そう呼ばれるようになった理由は、	
-MAP15_e13_p0_9	Map015.json	1	dialogue	恐ろしい魔物がたくさんおり、そして空気が毒だからだ。	
-MAP15_e14_p0_2	Map015.json	0	dialogue	　　　　　　　　たくさんの手紙だ。	
-MAP15_e14_p0_3	Map015.json	0	dialogue	　　　国内宛ての手紙だけではなく、フレイム王や	
-MAP15_e14_p0_4	Map015.json	0	dialogue	　　　　セイリューの領主に宛てたものまである	
+MAP15_e13_p0_6	Map015.json	1	dialogue	この大陸のずっと南…	Far to the south of this continent...
+MAP15_e13_p0_7	Map015.json	1	dialogue	かつて暗黒大陸と呼ばれていた土地がある。	there is a land once called the Dark Continent.
+MAP15_e13_p0_8	Map015.json	1	dialogue	そう呼ばれるようになった理由は、	It came to be called that because
+MAP15_e13_p0_9	Map015.json	1	dialogue	恐ろしい魔物がたくさんおり、そして空気が毒だからだ。	it teems with terrible monsters, and its very air is poison.
+MAP15_e14_p0_2	Map015.json	0	dialogue	　　　　　　　　たくさんの手紙だ。	A great many letters.
+MAP15_e14_p0_3	Map015.json	0	dialogue	　　　国内宛ての手紙だけではなく、フレイム王や	Not just letters addressed within the kingdom—some are
+MAP15_e14_p0_4	Map015.json	0	dialogue	　　　　セイリューの領主に宛てたものまである	addressed to King Flame and the lord of Seiryu.
 MAP15_e3_p0_1	Map015.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP15_e4_p0_2	Map015.json	0	dialogue	　　　　　いい匂いがする　お茶の葉かもしれない	
+MAP15_e4_p0_2	Map015.json	0	dialogue	　　　　　いい匂いがする　お茶の葉かもしれない	It smells nice—might be tea leaves.
 MAP15_e5_p0_1	Map015.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP15_e6_p0_2	Map015.json	0	dialogue	　　　　調べているところを見られたら大変だ	
-MAP15_e7_p0_1	Map015.json	0	dialogue	『歴代騎士団長』	
-MAP15_e7_p0_10	Map015.json	1	dialogue	筆者が把握している歴代団長の名とその実績を	
-MAP15_e7_p0_11	Map015.json	1	dialogue	俯瞰してみても、大体その通りである。	
-MAP15_e7_p0_13	Map015.json	1	dialogue	ただ、現騎士団長であるロイ団長は、騎士団長の証である	
-MAP15_e7_p0_14	Map015.json	1	dialogue	紋章を、幼い頃に危機的状況において半ば強制的に	
-MAP15_e7_p0_15	Map015.json	1	dialogue	継承された点において、特別であった。	
+MAP15_e6_p0_2	Map015.json	0	dialogue	　　　　調べているところを見られたら大変だ	It'd be trouble if someone caught me looking.
+MAP15_e7_p0_1	Map015.json	0	dialogue	『歴代騎士団長』	"""The Knight Commanders of Old"""
+MAP15_e7_p0_10	Map015.json	1	dialogue	筆者が把握している歴代団長の名とその実績を	Looking over the names and deeds of the commanders
+MAP15_e7_p0_11	Map015.json	1	dialogue	俯瞰してみても、大体その通りである。	I know of, it holds true by and large.
+MAP15_e7_p0_13	Map015.json	1	dialogue	ただ、現騎士団長であるロイ団長は、騎士団長の証である	However, Commander Roi was special: in a crisis during his childhood,
+MAP15_e7_p0_14	Map015.json	1	dialogue	紋章を、幼い頃に危機的状況において半ば強制的に	he was half-forced to inherit the crest, the mark of the Knight Commander.
+MAP15_e7_p0_15	Map015.json	1	dialogue	継承された点において、特別であった。	That made him an exception.
 MAP15_e7_p0_2	Map015.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP15_e7_p0_3_c0	Map015.json	choice	choice	読んでみる	Read it
 MAP15_e7_p0_3_c1	Map015.json	choice	choice	読まない	Don't read it
-MAP15_e7_p0_6	Map015.json	1	dialogue	ウィンダム騎士団の団長の選出基準であるが、	
-MAP15_e7_p0_7	Map015.json	1	dialogue	主に能力（戦闘技術、実務能力、学問など）で候補となり、	
-MAP15_e7_p0_8	Map015.json	1	dialogue	それに実績を加味した上で選出されることが多い。	
-MAP15_e8_p0_1	Map015.json	0	dialogue	『世界の美味しいごはん』	
-MAP15_e8_p0_11	Map015.json	1	dialogue	カレーは辛いのに食べるのをやめることが出来ず、	
-MAP15_e8_p0_12	Map015.json	1	dialogue	辛みの中にも色々な野菜のうま味が凝縮されており、	
-MAP15_e8_p0_13	Map015.json	1	dialogue	とても美味だという。しかも、カレーには色々な種類が	
-MAP15_e8_p0_14	Map015.json	1	dialogue	あり、赤いのや、黄色いの、みどり色のもあるという。	
-MAP15_e8_p0_16	Map015.json	1	dialogue	そしてもうひとつが、セイリューでしか育てられない	
-MAP15_e8_p0_17	Map015.json	1	dialogue	コメという穀物を蒸したもの。	
-MAP15_e8_p0_18	Map015.json	1	dialogue	もちもちとした食感の中に、みずみずしく爽やかな甘みが	
-MAP15_e8_p0_19	Map015.json	1	dialogue	凝縮されているという。	
+MAP15_e7_p0_6	Map015.json	1	dialogue	ウィンダム騎士団の団長の選出基準であるが、	As for how the Windam Knight Order selects its commander—
+MAP15_e7_p0_7	Map015.json	1	dialogue	主に能力（戦闘技術、実務能力、学問など）で候補となり、	candidates are primarily chosen by ability (combat skill, practical competence, scholarship, etc.),
+MAP15_e7_p0_8	Map015.json	1	dialogue	それに実績を加味した上で選出されることが多い。	and then selected with their achievements also weighed in.
+MAP15_e8_p0_1	Map015.json	0	dialogue	『世界の美味しいごはん』	"""Delicious Food of the World"""
+MAP15_e8_p0_11	Map015.json	1	dialogue	カレーは辛いのに食べるのをやめることが出来ず、	Curry is spicy, yet you can't stop eating it;
+MAP15_e8_p0_12	Map015.json	1	dialogue	辛みの中にも色々な野菜のうま味が凝縮されており、	the savor of many vegetables is concentrated within the heat,
+MAP15_e8_p0_13	Map015.json	1	dialogue	とても美味だという。しかも、カレーには色々な種類が	and it's said to be delicious. What's more, there are many kinds—
+MAP15_e8_p0_14	Map015.json	1	dialogue	あり、赤いのや、黄色いの、みどり色のもあるという。	red, yellow, even green ones.
+MAP15_e8_p0_16	Map015.json	1	dialogue	そしてもうひとつが、セイリューでしか育てられない	Another is rice—a grain that can only be grown
+MAP15_e8_p0_17	Map015.json	1	dialogue	コメという穀物を蒸したもの。	in Seiryu—steamed.
+MAP15_e8_p0_18	Map015.json	1	dialogue	もちもちとした食感の中に、みずみずしく爽やかな甘みが	Within its chewy texture is a fresh, refreshing sweetness
+MAP15_e8_p0_19	Map015.json	1	dialogue	凝縮されているという。	concentrated, they say.
 MAP15_e8_p0_2	Map015.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
-MAP15_e8_p0_21	Map015.json	1	dialogue	そしてその蒸したコメを手で丸めた携帯食…	
-MAP15_e8_p0_22	Map015.json	1	dialogue	ライスボールが何よりも有名だ。	
-MAP15_e8_p0_23	Map015.json	1	dialogue	絶品の味なのに、持ち歩くことができ、しかも歩きながら	
-MAP15_e8_p0_24	Map015.json	1	dialogue	でも食べられることから、旅人たちの憧れである。	
+MAP15_e8_p0_21	Map015.json	1	dialogue	そしてその蒸したコメを手で丸めた携帯食…	And the portable food made by shaping that steamed rice by hand—
+MAP15_e8_p0_22	Map015.json	1	dialogue	ライスボールが何よりも有名だ。	the Rice Ball—is the most famous of all.
+MAP15_e8_p0_23	Map015.json	1	dialogue	絶品の味なのに、持ち歩くことができ、しかも歩きながら	It tastes exquisite, yet you can carry it, and even eat it
+MAP15_e8_p0_24	Map015.json	1	dialogue	でも食べられることから、旅人たちの憧れである。	while walking—making it the envy of travelers.
 MAP15_e8_p0_3_c0	Map015.json	choice	choice	読んでみる	Read it
 MAP15_e8_p0_3_c1	Map015.json	choice	choice	読まない	Don't read it
-MAP15_e8_p0_6	Map015.json	1	dialogue	たくさんのひとがよく挙げるものには以下がある。	
-MAP15_e8_p0_7	Map015.json	1	dialogue	フレイム王国のカレー、	
-MAP15_e8_p0_8	Map015.json	1	dialogue	そして、セイリューのライスボール…その主原料である	
-MAP15_e8_p0_9	Map015.json	1	dialogue	コメである。	
-MAP15_e9_p0_1	Map015.json	0	dialogue	『わたしのゆめ』	
-MAP15_e9_p0_10	Map015.json	1	dialogue	だけど、もじをおぼえるのは　たいへんです	
-MAP15_e9_p0_11	Map015.json	1	dialogue	たいへんだから　あまり本をかいたり　よんだりするひとが	
-MAP15_e9_p0_12	Map015.json	1	dialogue	せかいには　すくないと　おもいます	
-MAP15_e9_p0_14	Map015.json	1	dialogue	だからわたしは　しょうらいだれでももじをおぼえられる	
-MAP15_e9_p0_15	Map015.json	1	dialogue	かんたんで　わかりやすい　本を　かきたいです	
-MAP15_e9_p0_16	Map015.json	1	dialogue	そして　もっと　せかいのれきしを　みらいにのこせる	
-MAP15_e9_p0_17	Map015.json	1	dialogue	ように　できたらいいなとおもいます	
+MAP15_e8_p0_6	Map015.json	1	dialogue	たくさんのひとがよく挙げるものには以下がある。	The foods most people name are the following.
+MAP15_e8_p0_7	Map015.json	1	dialogue	フレイム王国のカレー、	The Flame Kingdom's curry,
+MAP15_e8_p0_8	Map015.json	1	dialogue	そして、セイリューのライスボール…その主原料である	and Seiryu's Rice Balls... that is, the rice,
+MAP15_e8_p0_9	Map015.json	1	dialogue	コメである。	their main ingredient.
+MAP15_e9_p0_1	Map015.json	0	dialogue	『わたしのゆめ』	"""My Dream"""
+MAP15_e9_p0_10	Map015.json	1	dialogue	だけど、もじをおぼえるのは　たいへんです	But learning letters is hard work.
+MAP15_e9_p0_11	Map015.json	1	dialogue	たいへんだから　あまり本をかいたり　よんだりするひとが	Because it's hard, I think there aren't many people
+MAP15_e9_p0_12	Map015.json	1	dialogue	せかいには　すくないと　おもいます	in the world who write or read books.
+MAP15_e9_p0_14	Map015.json	1	dialogue	だからわたしは　しょうらいだれでももじをおぼえられる	So in the future, I want to write easy-to-understand books
+MAP15_e9_p0_15	Map015.json	1	dialogue	かんたんで　わかりやすい　本を　かきたいです	that anyone can use to learn their letters.
+MAP15_e9_p0_16	Map015.json	1	dialogue	そして　もっと　せかいのれきしを　みらいにのこせる	And I hope I can leave more of the world's history
+MAP15_e9_p0_17	Map015.json	1	dialogue	ように　できたらいいなとおもいます	for the future.
 MAP15_e9_p0_2	Map015.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか…。	There's a book with these words on the cover. Should we read it...?
 MAP15_e9_p0_3_c0	Map015.json	choice	choice	読んでみる	Read it
 MAP15_e9_p0_3_c1	Map015.json	choice	choice	読まない	Don't read it
-MAP15_e9_p0_6	Map015.json	1	dialogue	わたしのゆめは　本をかくことです。	
-MAP15_e9_p0_7	Map015.json	1	dialogue	わたしは本がだいすきです。	
-MAP15_e9_p0_8	Map015.json	1	dialogue	しらないことが　たくさんわかるからです。	
+MAP15_e9_p0_6	Map015.json	1	dialogue	わたしのゆめは　本をかくことです。	My dream is to write books.
+MAP15_e9_p0_7	Map015.json	1	dialogue	わたしは本がだいすきです。	I love books.
+MAP15_e9_p0_8	Map015.json	1	dialogue	しらないことが　たくさんわかるからです。	Because they teach me so many things I didn't know.
 MAP16_e3_p0_1	Map016.json	0	dialogue	錬金術師サラ：	Sarah, Alchemist:
 MAP16_e3_p0_10	Map016.json	0	dialogue	錬金術師サラ：	Sarah, Alchemist:
-MAP16_e3_p0_11	Map016.json	0	dialogue	またのご来店をお待ちしております！	
-MAP16_e3_p0_12	Map016.json	0	dialogue	どうぞ今後もごひいきに！！	
+MAP16_e3_p0_11	Map016.json	0	dialogue	またのご来店をお待ちしております！	We look forward to your next visit!
+MAP16_e3_p0_12	Map016.json	0	dialogue	どうぞ今後もごひいきに！！	Do continue to patronize us!!
 MAP16_e3_p0_2	Map016.json	0	dialogue	いらっしゃいませ騎士様！	Welcome, Sir Knight!
-MAP16_e3_p0_3	Map016.json	0	dialogue	当店のポーションは効き目抜群です！！	
-MAP16_e3_p0_4	Map016.json	0	dialogue	どうぞお買い求めください！！	
+MAP16_e3_p0_3	Map016.json	0	dialogue	当店のポーションは効き目抜群です！！	Our potions are extremely effective!!
+MAP16_e3_p0_4	Map016.json	0	dialogue	どうぞお買い求めください！！	Please do give them a try!!
 MAP17_e10_p0_2	Map017.json	0	dialogue	　　　　　　　水がたくさんはいっている	It's full of water.
 MAP17_e11_p0_2	Map017.json	0	dialogue	　　　　　　　水がたくさんはいっている	It's full of water.
-MAP17_e12_p0_2	Map017.json	0	dialogue	　　　　　　　　　底に何かのカギがあった	
-MAP17_e12_p0_3	Map017.json	0	dialogue	　　　　　　　大事な物だと思って元に戻した	
+MAP17_e12_p0_2	Map017.json	0	dialogue	　　　　　　　　　底に何かのカギがあった	There was some kind of key at the bottom.
+MAP17_e12_p0_3	Map017.json	0	dialogue	　　　　　　　大事な物だと思って元に戻した	It seemed important, so I put it back.
 MAP17_e13_p0_1	Map017.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
-MAP17_e14_p0_2	Map017.json	0	dialogue	　　　ウィンは本棚から100Gのへそくりを見つけた！	
+MAP17_e14_p0_2	Map017.json	0	dialogue	　　　ウィンは本棚から100Gのへそくりを見つけた！	Win found 100G of hidden savings in the bookshelf!
 MAP17_e14_p0_4	Map017.json	0	dialogue	ウィン：	Win:
-MAP17_e14_p0_8	Map017.json	0	dialogue	　　　　ウィンは黙ってへそくりを元にもどした…	
-MAP17_e15_p0_2	Map017.json	0	dialogue	　　　　　　　　干した果物類が入っている	
+MAP17_e14_p0_8	Map017.json	0	dialogue	　　　　ウィンは黙ってへそくりを元にもどした…	Win silently put the hidden savings back...
+MAP17_e15_p0_2	Map017.json	0	dialogue	　　　　　　　　干した果物類が入っている	It's full of dried fruits.
 MAP17_e4_p0_1	Map017.json	0	dialogue	市民ハリス：	Harris, Citizen:
-MAP17_e4_p0_10	Map017.json	0	dialogue	ああ…　本当にこの国の騎士は市民を	
-MAP17_e4_p0_11	Map017.json	0	dialogue	守るつもりがあるのだろうか…。	
-MAP17_e4_p0_2	Map017.json	0	dialogue	おお、騎士様！	
-MAP17_e4_p0_3	Map017.json	0	dialogue	私の娘の救助は？行って下さるのですか！？	
+MAP17_e4_p0_10	Map017.json	0	dialogue	ああ…　本当にこの国の騎士は市民を	Ah... do the knights of this kingdom truly intend
+MAP17_e4_p0_11	Map017.json	0	dialogue	守るつもりがあるのだろうか…。	to protect the citizens...?
+MAP17_e4_p0_2	Map017.json	0	dialogue	おお、騎士様！	Oh, Sir Knight!
+MAP17_e4_p0_3	Map017.json	0	dialogue	私の娘の救助は？行って下さるのですか！？	What of my daughter's rescue? Will you go!?
 MAP17_e4_p0_5	Map017.json	0	dialogue	ピピン：	Pipin:
-MAP17_e4_p0_6	Map017.json	0	dialogue	…俺たちは陛下直々の任務を遂行中だ。	
-MAP17_e4_p0_7	Map017.json	0	dialogue	人助けなら他の奴に頼め。	
+MAP17_e4_p0_6	Map017.json	0	dialogue	…俺たちは陛下直々の任務を遂行中だ。	...We're carrying out His Majesty's direct orders.
+MAP17_e4_p0_7	Map017.json	0	dialogue	人助けなら他の奴に頼め。	Ask someone else for your charity work.
 MAP17_e4_p0_9	Map017.json	0	dialogue	市民ハリス：	Harris, Citizen:
 MAP17_e4_p1_1	Map017.json	0	dialogue	市民ハリス：	Harris, Citizen:
-MAP17_e4_p1_12	Map017.json	1	dialogue	ショックポーションを　１個　貰った！	
-MAP17_e4_p1_17	Map017.json	1	dialogue	なんだ、違うんですか。	
-MAP17_e4_p1_18	Map017.json	1	dialogue	じゃあ何しに来たんですか？	
-MAP17_e4_p1_2	Map017.json	0	dialogue	娘が無事に帰って来ました！	
-MAP17_e4_p1_3	Map017.json	0	dialogue	騎士様がお助け下さったのですね！？	
+MAP17_e4_p1_12	Map017.json	1	dialogue	ショックポーションを　１個　貰った！	Received a Shock Potion!
+MAP17_e4_p1_17	Map017.json	1	dialogue	なんだ、違うんですか。	What, it's not that?
+MAP17_e4_p1_18	Map017.json	1	dialogue	じゃあ何しに来たんですか？	Then why did you come?
+MAP17_e4_p1_2	Map017.json	0	dialogue	娘が無事に帰って来ました！	My daughter came home safe!
+MAP17_e4_p1_3	Map017.json	0	dialogue	騎士様がお助け下さったのですね！？	The Sir Knight saved her, didn't he!?
 MAP17_e4_p1_4_c0	Map017.json	choice	choice	はい	Yes
 MAP17_e4_p1_4_c1	Map017.json	choice	choice	いいえ	No
 MAP17_e4_p1_7	Map017.json	1	dialogue	ありがとうございます！	Thank you!
-MAP17_e4_p1_8	Map017.json	1	dialogue	これはささやかでお礼です。	
-MAP17_e4_p1_9	Map017.json	1	dialogue	よかったらお使い下さい。	
+MAP17_e4_p1_8	Map017.json	1	dialogue	これはささやかでお礼です。	This is a small token of thanks.
+MAP17_e4_p1_9	Map017.json	1	dialogue	よかったらお使い下さい。	Please use it if you'd like.
 MAP17_e4_p2_1	Map017.json	0	dialogue	市民ハリス：	Harris, Citizen:
 MAP17_e4_p2_2	Map017.json	0	dialogue	本当にありがとうございました。	Thank you so much.
-MAP17_e4_p2_3	Map017.json	0	dialogue	これからは娘がうっかりキノコを食べて	
-MAP17_e4_p2_4	Map017.json	0	dialogue	暴れないように気を付けさせます。	
+MAP17_e4_p2_3	Map017.json	0	dialogue	これからは娘がうっかりキノコを食べて	From now on, I'll make sure my daughter doesn't
+MAP17_e4_p2_4	Map017.json	0	dialogue	暴れないように気を付けさせます。	carelessly eat mushrooms and go wild.
 MAP17_e5_p0_1	Map017.json	0	dialogue	市民ホリイ：	Holly, Citizen:
-MAP17_e5_p0_2	Map017.json	0	dialogue	なあに、娘はそろそろ帰ってきますとも。	
-MAP17_e5_p0_3	Map017.json	0	dialogue	ハリスは心配し過ぎなんですよ。	
+MAP17_e5_p0_2	Map017.json	0	dialogue	なあに、娘はそろそろ帰ってきますとも。	Oh, my daughter will be home any moment now.
+MAP17_e5_p0_3	Map017.json	0	dialogue	ハリスは心配し過ぎなんですよ。	Harris worries too much.
 MAP17_e5_p1_1	Map017.json	0	dialogue	市民ホリイ：	Holly, Citizen:
-MAP17_e5_p1_12	Map017.json	1	dialogue	あの砂漠の戦士が戦の前に食べるという…？	
-MAP17_e5_p1_13	Map017.json	1	dialogue	それを食べて娘はすごく強くなっていた	
-MAP17_e5_p1_14	Map017.json	1	dialogue	んですか！？	
-MAP17_e5_p1_15	Map017.json	1	dialogue	私も食べたかった…	
+MAP17_e5_p1_12	Map017.json	1	dialogue	あの砂漠の戦士が戦の前に食べるという…？	That mushroom the desert warriors eat before battle...?
+MAP17_e5_p1_13	Map017.json	1	dialogue	それを食べて娘はすごく強くなっていた	So eating it made my daughter incredibly strong
+MAP17_e5_p1_14	Map017.json	1	dialogue	んですか！？	did it!?
+MAP17_e5_p1_15	Map017.json	1	dialogue	私も食べたかった…	I wanted to eat it too...
 MAP17_e5_p1_19	Map017.json	1	dialogue	騎士様、お仕事の報告はちゃんとしてください。	
 MAP17_e5_p1_2	Map017.json	0	dialogue	ほら、あたしの言った通りジャクリーンは	
 MAP17_e5_p1_20	Map017.json	1	dialogue	教えてくれないなら、騎士団に報告しますよ。	
@@ -1787,7 +1787,7 @@ MAP19_e14_p0_6	Map019.json	1	dialogue	戦闘中に、敵よりも早く動ける
 MAP19_e14_p0_7	Map019.json	1	dialogue	素早さにかかっている。	depends on agility.
 MAP19_e14_p0_8	Map019.json	1	dialogue	しかし、頑丈な防具や、強い武器を持てば、その重さで	But sturdy armor and strong weapons are heavy,
 MAP19_e14_p0_9	Map019.json	1	dialogue	素早さは下がってしまう。	and lower your agility.
-MAP19_e15_p0_2	Map019.json	0	dialogue	　　　　　　　小麦粉か何かが入っている	
+MAP19_e15_p0_2	Map019.json	0	dialogue	　　　　　　　小麦粉か何かが入っている	It contains flour or something of the sort.
 MAP19_e16_p0_1	Map019.json	0	dialogue	駐屯隊長ジョセフ：	Joseph, Garrison Captain:
 MAP19_e16_p0_2	Map019.json	0	dialogue	おい、ウィン！勝手に読まないでくれよ！	Hey, Win! Don't go reading on your own!
 MAP19_e17_p0_1	Map019.json	0	dialogue	『武器や防具の品質』	"""Weapon and Armor Quality"""
