@@ -115,8 +115,11 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
   freshly copied build must carry that fix too.
 
 ### Translation progress (FINAL)
-- **17,831 / 17,832 strings translated.** The single untranslated string is the
+- **18,322 / 18,323 strings translated.** The single untranslated string is the
   disabled SceneGlossary plugin's config blob.
+- The Japanese filter of `extract_text.py` was widened to CJK punctuation, so
+  punctuation-only dialogue ("…。", "？：", "？？？" ...) is now extracted and
+  translated (491 rows added; "…。" -> "...", "？：" -> "?:", etc.).
 - Full coverage of the RPG Maker MV text surface, including:
   - Map/CommonEvent/Troop event commands (dialogue, choices, names, scripts)
   - DB name/description/note, use messages (message1/2), state messages
@@ -125,14 +128,23 @@ Leave the `japanese` column untouched. Keep control codes intact: `\c[n]`, `\i[n
   - Map display names, event names/notes, MapInfos names, plugin parameters
 - Quality gates passed: **0 in-game text rows remain Japanese**; all JSON valid;
   round-trip verified (re-extraction of the English build shows English).
-- Only remaining Japanese: invisible dev metadata (tileset/animation names) and
-  RetryBattle plugin script identifiers (code — must not be translated).
-- Line fitting (Phase 2): 2,033 rows rewrapped with `\n`; fit check flags **0**
-  overflowing lines.
+- Only remaining Japanese: invisible dev metadata (tileset/animation names),
+  RetryBattle plugin script identifiers (code — must not be translated), and the
+  U+3000 indentation spacers inside Japanese scrolling-text layout.
+- Line fitting (Phase 2 + 2026-08-11 rewrap): `wrap_text.py` now uses a balanced
+  (minimum-raggedness) wrap that avoids single-word orphan lines, re-optimizes
+  existing breaks, and also fits item/skill/weapon/armor descriptions to the
+  3-line help window (message boxes cap at 4 lines). Verified: **0** overflowing
+  lines, **0** rows over the line caps, and byte-identical text (breaks only move).
 - Newline fix (2026-08-11): the injector used to store literal `\n` in the data,
   which MV renders as nothing, so long English lines overflowed the message window
   and were clipped. The injector now writes real newlines; the regenerated build was
   measured on the actual data (15,765 dialogue commands) with **0** overflows.
+- Layout polish (2026-08-11): actor profiles were condensed to fit the status
+  window's 2-line profile area; the menu/battle help windows were enlarged to 3
+  lines (`new Window_Help(3)` in `www/js/rpg_scenes.js`); em-dashes are spaced
+  (" — "); `index.html` <title> is "Crest Story" (it used to show the Japanese
+  title until Scene_Boot set `document.title`).
 - English build: `build/english/www` (gitignored; regenerate with
   `python3 tools/inject_text.py docs/text/translated.tsv --data build/english/www/data --plugins build/english/www/js/plugins.js --no-backup`).
   Playtest by opening `build/english/www/index.html` in a browser.
