@@ -1,54 +1,54 @@
 id	file	context	type	japanese	translation
 ACTOR_10_nickname	Actors.json	nickname	name	セイリューの若き当主	Young Head of Seiryu
-ACTOR_10_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より領民の悪童と\n悪さばかりして育った。粗暴な面もあるが人望が厚く人気者。	Daughter of the lord of Seiryu, a land deep in the western mountains.\nRaised raising mischief with the villagers' brats since childhood.\nBrash at times, yet well-liked and popular.
+ACTOR_10_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より領民の悪童と\n悪さばかりして育った。粗暴な面もあるが人望が厚く人気者。	Daughter of Seiryu's lord, raised on mischief with the\nvillagers' brats. Brash, yet well-liked and popular.
 ACTOR_11_nickname	Actors.json	nickname	name	セイリュー領主の一人娘	Only Daughter of Seiryu's Lord
-ACTOR_11_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より領民の悪童と\n悪さばかりして育った。粗暴な面もあるが人望が厚く人気者。	Daughter of the lord of Seiryu, a land deep in the western mountains.\nRaised raising mischief with the villagers' brats since childhood.\nBrash at times, yet well-liked and popular.
+ACTOR_11_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より領民の悪童と\n悪さばかりして育った。粗暴な面もあるが人望が厚く人気者。	Daughter of Seiryu's lord, raised on mischief with the\nvillagers' brats. Brash, yet well-liked and popular.
 ACTOR_14_nickname	Actors.json	nickname	name	自他ともに認める天才騎士	A Self-Proclaimed and Widely Acknowledged Genius Knight
-ACTOR_14_profile	Actors.json	profile	profile	類稀な頭脳と剣術で天才の名を欲しいままにしている騎士。\n伝説的な騎士であるロイを超える才能とも言われている。	A knight whose rare intellect and swordsmanship have won him the name\nof genius. Some say his talent even surpasses the legendary knight Roi.
+ACTOR_14_profile	Actors.json	profile	profile	類稀な頭脳と剣術で天才の名を欲しいままにしている騎士。\n伝説的な騎士であるロイを超える才能とも言われている。	A knight famed for genius intellect and swordsmanship.\nSome say he surpasses even the legendary knight Roi.
 ACTOR_15_nickname	Actors.json	nickname	name	フレイム王国の王子	Prince of the Flame Kingdom
-ACTOR_15_profile	Actors.json	profile	profile	フレイム王国の第二王子だったが兄の急逝により次期国王と\nなった。兄と真逆で性格は豪放磊落、学問より剣術が好き。	Once the second prince of the Flame Kingdom, he became the next king\nupon his brother's sudden death. The polar opposite of his brother:\nbold and free-spirited, preferring swordsmanship to study.
+ACTOR_15_profile	Actors.json	profile	profile	フレイム王国の第二王子だったが兄の急逝により次期国王と\nなった。兄と真逆で性格は豪放磊落、学問より剣術が好き。	Second prince of Flame, king after his brother's death.\nBold and free-spirited; he prefers the sword to books.
 ACTOR_16_nickname	Actors.json	nickname	name	食べるの大好き	Loves to Eat
-ACTOR_16_profile	Actors.json	profile	profile	その類まれな身体性能と槍の扱いで将来を期待されていたが、\n食べ過ぎてどんどん太るので心配されている若き兵士。	A young soldier whose extraordinary physique and spearplay promised\na bright future--though his ever-growing appetite worries everyone.
+ACTOR_16_profile	Actors.json	profile	profile	その類まれな身体性能と槍の扱いで将来を期待されていたが、\n食べ過ぎてどんどん太るので心配されている若き兵士。	A young soldier of great physique and spear skill;\nhis ever-growing appetite worries everyone.
 ACTOR_17_nickname	Actors.json	nickname	name	天才と呼ばれる若き騎士	A Young Knight Called a Genius
-ACTOR_17_profile	Actors.json	profile	profile	幼い頃に父より風の紋章を継承した若き騎士。\nそれを抜きにしても天才的な頭脳と剣術を持つ。	A young knight who inherited the Wind Crest from his father in\nchildhood. Even setting that aside, his intellect and swordsmanship\nare genius-level.
+ACTOR_17_profile	Actors.json	profile	profile	幼い頃に父より風の紋章を継承した若き騎士。\nそれを抜きにしても天才的な頭脳と剣術を持つ。	Young knight who inherited the Wind Crest from his\nfather. Genius intellect and swordsmanship besides.
 ACTOR_18_nickname	Actors.json	nickname	name	ウィンダム騎士団長代行	Acting Commander of the Windam Knight Order
-ACTOR_18_profile	Actors.json	profile	profile	ウィンダム王国騎士団に代々騎士団長を輩出している名門。\nその怪力と胆力で戦場を駆け巡った歴戦の勇士。	Of a distinguished house that has produced generation after\ngeneration of Windam Knight Commanders. A battle-hardened warrior who\nhas roamed the battlefield on monstrous strength and nerve.
+ACTOR_18_profile	Actors.json	profile	profile	ウィンダム王国騎士団に代々騎士団長を輩出している名門。\nその怪力と胆力で戦場を駆け巡った歴戦の勇士。	Of a house that long produced Windam Knight Commanders.\nA battle-hardened warrior who roamed the battlefields.
 ACTOR_19_nickname	Actors.json	nickname	name	フレイム王国の国王	King of the Flame Kingdom
-ACTOR_19_profile	Actors.json	profile	profile	フレイム王国の王。伝説の王であるバーン王に匹敵すると\n言われるほどの剣の使い手だった。	King of the Flame Kingdom. A swordsman said to rival\nthe legendary King Burn.
+ACTOR_19_profile	Actors.json	profile	profile	フレイム王国の王。伝説の王であるバーン王に匹敵すると\n言われるほどの剣の使い手だった。	King of the Flame Kingdom, a swordsman said to\nrival the legendary King Burn.
 ACTOR_1_nickname	Actors.json	nickname	name	若き騎士	Young Knight
-ACTOR_1_profile	Actors.json	profile	profile	庶民の出だが父母が無理をして入学させてくれた士官学校を\n首席で卒業。将来を期待されている新米騎士。	Of common birth; his parents strained themselves to put him through\nthe officer academy, which he graduated at the top of his class.\nA rookie knight with a promising future.
+ACTOR_1_profile	Actors.json	profile	profile	庶民の出だが父母が無理をして入学させてくれた士官学校を\n首席で卒業。将来を期待されている新米騎士。	Of common birth; his parents worked hard to send him to\nacademy, where he graduated top of his class.
 ACTOR_20_nickname	Actors.json	nickname	name	フレイム王国の王子	Prince of the Flame Kingdom
-ACTOR_20_profile	Actors.json	profile	profile	フレイム王国の第一王子。弟のホノオのような剣術や体術の\n才能には恵まれなかったが、類まれな頭脳と洞察力を持つ。	First prince of the Flame Kingdom. Lacking his younger brother\nHono's gifts in sword and body, he instead possesses rare\nintellect and insight.
+ACTOR_20_profile	Actors.json	profile	profile	フレイム王国の第一王子。弟のホノオのような剣術や体術の\n才能には恵まれなかったが、類まれな頭脳と洞察力を持つ。	First prince of Flame; no match for Hono in sword or\nbody, he instead possesses rare intellect and insight.
 ACTOR_21_nickname	Actors.json	nickname	name	セイリューの前当主	Former Head of Seiryu
-ACTOR_21_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より身体が弱く、\n剣術よりも本を読んだり植物を愛でて育った。	Daughter of the lord of Seiryu. Frail since childhood, she grew up\nloving books and plants rather than the sword.
+ACTOR_21_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より身体が弱く、\n剣術よりも本を読んだり植物を愛でて育った。	Daughter of Seiryu's lord, frail since childhood. She\ngrew up loving books and plants rather than the sword.
 ACTOR_22_nickname	Actors.json	nickname	name	セイリューの長老	Elder of Seiryu
-ACTOR_22_profile	Actors.json	profile	profile	セイリューの元当主人。一体どれほど長生きをしているのか\n誰も分からない。膨大な知識と尋常でない剣の腕を持つ。	A former head of Seiryu. No one knows just how long she has lived.\nShe commands vast knowledge and extraordinary skill with the sword.
+ACTOR_22_profile	Actors.json	profile	profile	セイリューの元当主人。一体どれほど長生きをしているのか\n誰も分からない。膨大な知識と尋常でない剣の腕を持つ。	A former head of Seiryu. None know how long she has\nlived. Vast knowledge and extraordinary swordsmanship.
 ACTOR_23_nickname	Actors.json	nickname	name	自他ともに認める天才騎士	A Self-Proclaimed and Widely Acknowledged Genius Knight
-ACTOR_23_profile	Actors.json	profile	profile	類稀な頭脳と剣術で天才の名を欲しいままにしている騎士。\n伝説的な騎士であるロイを超える才能とも言われている。	A knight whose rare intellect and swordsmanship have won him the name\nof genius. Some say his talent even surpasses the legendary knight Roi.
+ACTOR_23_profile	Actors.json	profile	profile	類稀な頭脳と剣術で天才の名を欲しいままにしている騎士。\n伝説的な騎士であるロイを超える才能とも言われている。	A knight famed for genius intellect and swordsmanship.\nSome say he surpasses even the legendary knight Roi.
 ACTOR_24_nickname	Actors.json	nickname	name	ウィンダム王国の国王	King of the Windam Kingdom
-ACTOR_24_profile	Actors.json	profile	profile	ウィンダムの王。幼い頃より武術全般に優れ、騎士団の\n騎士たちにも厳しい鍛錬を求める。年齢不詳。	King of Windam. Master of all martial arts since childhood, he\ndemands rigorous training of his knights. Age unknown.
+ACTOR_24_profile	Actors.json	profile	profile	ウィンダムの王。幼い頃より武術全般に優れ、騎士団の\n騎士たちにも厳しい鍛錬を求める。年齢不詳。	King of Windam, martial arts master since childhood.\nHe demands rigorous training; his age is unknown.
 ACTOR_25_nickname	Actors.json	nickname	name	セイリュー鍛冶屋の娘	Daughter of Seiryu's Blacksmith
-ACTOR_25_profile	Actors.json	profile	profile	セイリューの鍛冶屋の一族の娘。家業に殆ど関わらず、悪さと\n剣術にだけ励んで育った。気性は激しいが心根は優しい。	Daughter of Seiryu's blacksmith clan. Barely involved in the family\ntrade, she grew up devoted to mischief and swordsmanship.\nFierce-tempered, yet kind at heart.
+ACTOR_25_profile	Actors.json	profile	profile	セイリューの鍛冶屋の一族の娘。家業に殆ど関わらず、悪さと\n剣術にだけ励んで育った。気性は激しいが心根は優しい。	Daughter of Seiryu's blacksmith clan, raised on\nmischief and the sword. Fierce, but kind at heart.
 ACTOR_26_nickname	Actors.json	nickname	name	セイリュー農家の息子	Son of Seiryu's Farmer
-ACTOR_26_profile	Actors.json	profile	profile	セイリュー農家の一族の男子。幼い頃より何をやらせても\n器用だった。なぜか村の者の中では悪童とばかり仲が良い。	A boy of Seiryu's farming clan. Handy at everything since childhood.\nFor some reason, he's closest friends with the village's worst brats.
+ACTOR_26_profile	Actors.json	profile	profile	セイリュー農家の一族の男子。幼い頃より何をやらせても\n器用だった。なぜか村の者の中では悪童とばかり仲が良い。	A boy of Seiryu's farming clan, handy at everything\nsince childhood; friends with the village's brats.
 ACTOR_2_nickname	Actors.json	nickname	name	フレイム王国の王子	Prince of the Flame Kingdom
-ACTOR_2_profile	Actors.json	profile	profile	フレイム王国の第二王子だったが兄の急逝により次期国王と\nなった。兄と真逆で性格は豪放磊落、学問より剣術が好き。	Once the second prince of the Flame Kingdom, he became the next king\nupon his brother's sudden death. The polar opposite of his brother:\nbold and free-spirited, preferring swordsmanship to study.
+ACTOR_2_profile	Actors.json	profile	profile	フレイム王国の第二王子だったが兄の急逝により次期国王と\nなった。兄と真逆で性格は豪放磊落、学問より剣術が好き。	Second prince of Flame, king after his brother's death.\nBold and free-spirited; he prefers the sword to books.
 ACTOR_30_nickname	Actors.json	nickname	name	炭鉱夫	Coal Miner
 ACTOR_31_nickname	Actors.json	nickname	name	セイリュー領主	Lord of Seiryu
 ACTOR_32_nickname	Actors.json	nickname	name	フレイム王子	Prince of Flame
 ACTOR_33_nickname	Actors.json	nickname	name	忍者犬	Ninja Dog
 ACTOR_3_nickname	Actors.json	nickname	name	セイリューの若き当主	Young Head of Seiryu
-ACTOR_3_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より領民の悪童と\n悪さばかりして育った。粗暴な面もあるが人望が厚く人気者。	Daughter of the lord of Seiryu, a land deep in the western mountains.\nRaised raising mischief with the villagers' brats since childhood.\nBrash at times, yet well-liked and popular.
+ACTOR_3_profile	Actors.json	profile	profile	西の山奥の国セイリュー領主の娘。幼い頃より領民の悪童と\n悪さばかりして育った。粗暴な面もあるが人望が厚く人気者。	Daughter of Seiryu's lord, raised on mischief with the\nvillagers' brats. Brash, yet well-liked and popular.
 ACTOR_4_nickname	Actors.json	nickname	name	自他ともに認める天才騎士	A Self-Proclaimed and Widely Acknowledged Genius Knight
-ACTOR_4_profile	Actors.json	profile	profile	類稀な頭脳と剣術で天才の名を欲しいままにしている騎士。\n伝説的な騎士であるロイを超える才能とも言われている。	A knight whose rare intellect and swordsmanship have won him the name\nof genius. Some say his talent even surpasses the legendary knight Roi.
+ACTOR_4_profile	Actors.json	profile	profile	類稀な頭脳と剣術で天才の名を欲しいままにしている騎士。\n伝説的な騎士であるロイを超える才能とも言われている。	A knight famed for genius intellect and swordsmanship.\nSome say he surpasses even the legendary knight Roi.
 ACTOR_5_nickname	Actors.json	nickname	name	元騎士隊長	Former Knight Captain
-ACTOR_5_profile	Actors.json	profile	profile	かつて天才騎士として王国に名を轟かせた男。\nいまは森の中の生家に籠り隠遁生活を送っている。	A man once famed across the kingdom as a genius knight. Now he\nlives in seclusion in his family home deep in the forest.
+ACTOR_5_profile	Actors.json	profile	profile	かつて天才騎士として王国に名を轟かせた男。\nいまは森の中の生家に籠り隠遁生活を送っている。	A man once famed as a genius knight across the kingdom.\nNow he lives in seclusion in his forest family home.
 ACTOR_6_nickname	Actors.json	nickname	name	天才と呼ばれる若き騎士	A Young Knight Called a Genius
-ACTOR_6_profile	Actors.json	profile	profile	幼い頃に父より風の紋章を継承した若き騎士。\nそれを抜きにしても天才的な頭脳と剣術を持つ。	A young knight who inherited the Wind Crest from his father in\nchildhood. Even setting that aside, his intellect and swordsmanship\nare genius-level.
+ACTOR_6_profile	Actors.json	profile	profile	幼い頃に父より風の紋章を継承した若き騎士。\nそれを抜きにしても天才的な頭脳と剣術を持つ。	Young knight who inherited the Wind Crest from his\nfather. Genius intellect and swordsmanship besides.
 ACTOR_7_nickname	Actors.json	nickname	name	自他ともに認める天才騎士	A Self-Proclaimed and Widely Acknowledged Genius Knight
-ACTOR_7_profile	Actors.json	profile	profile	火と水の紋章を両手に宿した天才騎士。\nかつての部下ウィンと二人で最終局面に挑む。	A genius knight bearing the Fire and Water crests in his two hands.\nHe faces the final battle alongside his former subordinate, Win.
+ACTOR_7_profile	Actors.json	profile	profile	火と水の紋章を両手に宿した天才騎士。\nかつての部下ウィンと二人で最終局面に挑む。	A genius knight bearing the Fire and Water crests.\nHe faces the final battle with his former comrade Win.
 ACTOR_9_nickname	Actors.json	nickname	name	フレイム王国の王子	Prince of the Flame Kingdom
-ACTOR_9_profile	Actors.json	profile	profile	フレイム王国の第二王子だったが兄の急逝により次期国王と\nなった。兄と真逆で性格は豪放磊落、学問より剣術が好き。	Once the second prince of the Flame Kingdom, he became the next king\nupon his brother's sudden death. The polar opposite of his brother:\nbold and free-spirited, preferring swordsmanship to study.
+ACTOR_9_profile	Actors.json	profile	profile	フレイム王国の第二王子だったが兄の急逝により次期国王と\nなった。兄と真逆で性格は豪放磊落、学問より剣術が好き。	Second prince of Flame, king after his brother's death.\nBold and free-spirited; he prefers the sword to books.
 DB_Actors_10_name	Actors.json	Actors.json #10 (ナガレテスト用)	name	ナガレテスト用	Nagare (Test)
 DB_Actors_11_name	Actors.json	Actors.json #11 (ナガレ)	name	ナガレ	Nagare
 DB_Actors_12_name	Actors.json	Actors.json #12 (トリカゼ)	name	トリカゼ	Torikaze
