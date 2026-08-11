@@ -2553,7 +2553,7 @@ MAP27_e2_p1_82	Map027.json	0	dialogue	ピケピケ：	Pikepike:
 MAP27_e2_p1_83	Map027.json	0	dialogue	そういう悪い子には少しだけオシオキを…	Bad kids like you deserve a little punishment...
 MAP27_e2_p1_84	Map027.json	0	dialogue	うん、オシオキをしちゃおうかなあああ？？	Yeah, maybe I'll punish you a little~??
 MAP27_e2_p1_86	Map027.json	0	dialogue	ピケピケ：	Pikepike:
-MAP27_e2_p1_87	Map027.json	0	dialogue	ほんのちょびっとだけ相手してあげよう！！	
+MAP27_e2_p1_87	Map027.json	0	dialogue	ほんのちょびっとだけ相手してあげよう！！	I'll play with you just a tiny bit!!
 MAP27_e2_p1_88	Map027.json	0	dialogue	ホントに、ホントにちょびっとだけね！！？？	Really, really just a tiny bit, okay!!??
 MAP27_e2_p1_93	Map027.json	0	dialogue	ピケピケ：	Pikepike:
 MAP27_e2_p1_94	Map027.json	0	dialogue	こんなもんでいいかな？？	Is this enough??
@@ -2600,7 +2600,7 @@ MAP28_e9_p0_1	Map028.json	0	dialogue	市民レオン：	Leon, Citizen:
 MAP28_e9_p0_2	Map028.json	0	dialogue	南にあるという、コブラ酒ってのを	I came to buy that southern specialty,
 MAP28_e9_p0_3	Map028.json	0	dialogue	買いに来たんだが…　関所を通れなくって…	the Cobra Sake... but the checkpoint won't let me through...
 MAP28_e9_p0_5	Map028.json	0	dialogue	それで、ここで普通の酒を飲んだくれてる	So I'm just drowning my sorrows in ordinary booze here
-MAP28_e9_p0_6	Map028.json	0	dialogue	ってわけさ　ヒック	
+MAP28_e9_p0_6	Map028.json	0	dialogue	ってわけさ　ヒック	And that's how it is... hic.
 MAP29_e3_p0_1	Map029.json	0	dialogue	道具屋バル：	Bar, Item Shop Owner:
 MAP29_e3_p0_10	Map029.json	0	dialogue	道具屋バル：	Bar, Item Shop Owner:
 MAP29_e3_p0_11	Map029.json	0	dialogue	お帰りかい。ありがとよ。	Welcome back. Thanks.
@@ -2672,9 +2672,9 @@ MAP30_e9_p0_2	Map030.json	0	dialogue	西にも行けない、国にも帰れな�
 MAP30_e9_p0_3	Map030.json	0	dialogue	あー、ウィンダムに行ってみるかー	Ah, maybe I'll try Windam...
 MAP30_e9_p0_4	Map030.json	0	dialogue	ごはんまずいんだよなあ、あそこー	though the food there is bad...
 MAP30_e9_p0_6	Map030.json	0	dialogue	旅人ロレン：	Loren, Traveler:
-MAP30_e9_p0_7	Map030.json	0	dialogue	あ、そこにいる行商人からライスボール	
-MAP30_e9_p0_8	Map030.json	0	dialogue	買ってみた？　美味しいよー	
-MAP30_e9_p0_9	Map030.json	0	dialogue	だけどセイリューだとあの半額で買えるんだ	
+MAP30_e9_p0_7	Map030.json	0	dialogue	あ、そこにいる行商人からライスボール	Oh, have you tried buying Rice Balls
+MAP30_e9_p0_8	Map030.json	0	dialogue	買ってみた？　美味しいよー	from the peddler over there? They're tasty~
+MAP30_e9_p0_9	Map030.json	0	dialogue	だけどセイリューだとあの半額で買えるんだ	But in Seiryu, you can get them for half that price.
 MAP31_e10_p0_1	Map031.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP31_e17_p0_1	Map031.json	0	dialogue	果物売りの少年エリン：	Erin, Fruit Boy:
 MAP31_e17_p0_2	Map031.json	0	dialogue	兄ちゃん一個でいいから買ってってよ！	Big bro, buy just one, please!
@@ -2685,8 +2685,8 @@ MAP31_e17_p1_2	Map031.json	0	dialogue	兄ちゃん一個でいいから買って
 MAP31_e17_p1_6	Map031.json	0	dialogue	果物売りの少年エリン：	Erin, Fruit Boy:
 MAP31_e17_p1_7	Map031.json	0	dialogue	また来てくれよ！	Come again!
 MAP31_e18_p0_1	Map031.json	0	dialogue	街の見張り兵グアン：	Guan, Town Watchman:
-MAP31_e18_p0_2	Map031.json	0	dialogue	最近盗人が多いんだ。	
-MAP31_e18_p0_3	Map031.json	0	dialogue	あんたも気をつけてくれよ！	
+MAP31_e18_p0_2	Map031.json	0	dialogue	最近盗人が多いんだ。	There've been a lot of thieves lately.
+MAP31_e18_p0_3	Map031.json	0	dialogue	あんたも気をつけてくれよ！	You watch out too, alright!
 MAP31_e19_p0_1	Map031.json	0	dialogue	物乞いの子ビザエ：	Bizae, Beggar Boy:
 MAP31_e19_p0_2	Map031.json	0	dialogue	あそこの店からいい匂いがするんだー	That shop over there smells great!
 MAP31_e19_p0_3	Map031.json	0	dialogue	くんくん　何の匂いかわからないけれど	sniff sniff... I can't tell what it is,
@@ -2699,20 +2699,20 @@ MAP31_e23_p0_2	Map031.json	0	dialogue	…クーン	...Yip
 MAP31_e23_p0_3	Map031.json	0	dialogue	…ックーン	...Yip
 MAP31_e23_p1_1	Map031.json	0	dialogue	野良犬：	Stray Dog:
 MAP31_e23_p1_11	Map031.json	0	dialogue	ホノオ：	Hono:
-MAP31_e23_p1_12	Map031.json	0	dialogue	なら、うちに来い。	
-MAP31_e23_p1_13	Map031.json	0	dialogue	誰かに声掛けとくからよ。	
-MAP31_e23_p1_14	Map031.json	0	dialogue	オレの部屋使えよ！	
+MAP31_e23_p1_12	Map031.json	0	dialogue	なら、うちに来い。	Then come to my place.
+MAP31_e23_p1_13	Map031.json	0	dialogue	誰かに声掛けとくからよ。	I'll tell someone about you.
+MAP31_e23_p1_14	Map031.json	0	dialogue	オレの部屋使えよ！	Use my room!
 MAP31_e23_p1_16	Map031.json	0	dialogue	野良犬：	Stray Dog:
-MAP31_e23_p1_17	Map031.json	0	dialogue	…ックー？	
+MAP31_e23_p1_17	Map031.json	0	dialogue	…ックー？	...Yip?
 MAP31_e23_p1_2	Map031.json	0	dialogue	…クーン	...Yip
 MAP31_e23_p1_3	Map031.json	0	dialogue	…ックーン	...Yip
 MAP31_e23_p1_5	Map031.json	0	dialogue	ホノオ：	Hono:
-MAP31_e23_p1_6	Map031.json	0	dialogue	何だお前…ひとりぼっちなのか？	
+MAP31_e23_p1_6	Map031.json	0	dialogue	何だお前…ひとりぼっちなのか？	What's with you... all alone?
 MAP31_e23_p1_8	Map031.json	0	dialogue	野良犬：	Stray Dog:
 MAP31_e23_p1_9	Map031.json	0	dialogue	…ックーン	...Yip
 MAP31_e24_p0_1	Map031.json	0	dialogue	物乞いの子オシム：	Oshim, Beggar Boy:
-MAP31_e24_p0_2	Map031.json	0	dialogue	あっ、きしだ！	
-MAP31_e24_p0_3	Map031.json	0	dialogue	かっくいいいい！	
+MAP31_e24_p0_2	Map031.json	0	dialogue	あっ、きしだ！	Oh, it's the knight!
+MAP31_e24_p0_3	Map031.json	0	dialogue	かっくいいいい！	So coool!
 MAP31_e25_p0_1	Map031.json	0	dialogue	物乞いの子スニダ：	Sunida, Beggar Boy:
 MAP31_e25_p0_13	Map031.json	1	dialogue	物乞いの子スニダ：	Sunida, Beggar Boy:
 MAP31_e25_p0_14	Map031.json	1	dialogue	どけちー！！	Move it!!
@@ -2732,17 +2732,17 @@ MAP31_e25_p0_4_c1	Map031.json	choice	choice	いやだ	No way
 MAP31_e25_p0_7	Map031.json	1	dialogue	物乞いの子スニダ：	Sunida, Beggar Boy:
 MAP31_e25_p0_8	Map031.json	1	dialogue	あっす	Yo.
 MAP31_e26_p0_1	Map031.json	0	dialogue	物乞いをする兵マハル：	Mahal, Begging Soldier:
-MAP31_e26_p0_10	Map031.json	1	dialogue	もっとめぐんでくれやーーーーーーー	
+MAP31_e26_p0_10	Map031.json	1	dialogue	もっとめぐんでくれやーーーーーーー	Give me a bit more, won't ya—
 MAP31_e26_p0_14	Map031.json	1	dialogue	物乞いをする兵マハル：	Mahal, Begging Soldier:
-MAP31_e26_p0_15	Map031.json	1	dialogue	見回り中にスリに財布とられたんだよーーー	
-MAP31_e26_p0_16	Map031.json	1	dialogue	次の給料までくらせないんだよーーーーー	
-MAP31_e26_p0_17	Map031.json	1	dialogue	うわあああああああああ	
-MAP31_e26_p0_2	Map031.json	0	dialogue	あんちゃーーーん	
-MAP31_e26_p0_3	Map031.json	0	dialogue	めぐんでくれやーーーー	
+MAP31_e26_p0_15	Map031.json	1	dialogue	見回り中にスリに財布とられたんだよーーー	A pickpocket swiped my wallet during patrol—
+MAP31_e26_p0_16	Map031.json	1	dialogue	次の給料までくらせないんだよーーーーー	I can't eat until next payday—
+MAP31_e26_p0_17	Map031.json	1	dialogue	うわあああああああああ	Waaaaaah
+MAP31_e26_p0_2	Map031.json	0	dialogue	あんちゃーーーん	Big bro~
+MAP31_e26_p0_3	Map031.json	0	dialogue	めぐんでくれやーーーー	Spare a little something—
 MAP31_e26_p0_4_c0	Map031.json	choice	choice	どうぞ	Go ahead
 MAP31_e26_p0_4_c1	Map031.json	choice	choice	なんで？	Why?
 MAP31_e26_p0_8	Map031.json	1	dialogue	物乞いをする兵マハル：	Mahal, Begging Soldier:
-MAP31_e26_p0_9	Map031.json	1	dialogue	1Gてあんちゃーーーーん	
+MAP31_e26_p0_9	Map031.json	1	dialogue	1Gてあんちゃーーーーん	Just 1G, big bro~
 MAP31_e27_p0_1	Map031.json	0	dialogue	フレイムの民タカリ：	Takari, Flame Citizen:
 MAP31_e27_p0_2	Map031.json	0	dialogue	野盗が増えとると兵たちは一年中言うとるが、	The soldiers talk all year about how the bandits are increasing,
 MAP31_e27_p0_3	Map031.json	0	dialogue	別にいまはじまったことじゃない、昔から	but it's nothing new—since long ago
@@ -2763,8 +2763,8 @@ MAP32_e38_p0_1	Map032.json	0	dialogue	持ち出して役に立つようなもの
 MAP32_e39_p0_1	Map032.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP32_e40_p0_1	Map032.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP32_e41_p0_1	Map032.json	0	dialogue	フレイム兵ウマル：	Umaru, Flame Soldier:
-MAP32_e41_p0_2	Map032.json	0	dialogue	うぃーす、あー、早く休憩なんねえかなー	
-MAP32_e41_p0_3	Map032.json	0	dialogue	ハラ減ったあ	
+MAP32_e41_p0_2	Map032.json	0	dialogue	うぃーす、あー、早く休憩なんねえかなー	Yo... ah, when's break time gonna come~
+MAP32_e41_p0_3	Map032.json	0	dialogue	ハラ減ったあ	I'm hungry~
 MAP32_e42_p0_1	Map032.json	0	dialogue	『シャムシールの扱い』	"""Handling the Shamshir"""
 MAP32_e42_p0_10	Map032.json	1	dialogue	少ない力と動きで深く鋭く切り込めるのが特徴である。	Its hallmark is deep, sharp cuts with minimal strength and movement.
 MAP32_e42_p0_12	Map032.json	1	dialogue	その為、腕力だけでなく、技量によっても多様な使い方、	Thus, depending on skill rather than brute force, it allows diverse
@@ -2796,16 +2796,16 @@ MAP32_e44_p0_1	Map032.json	0	dialogue	王宮の職人キスパ：	Kispa, Royal C
 MAP32_e44_p0_10	Map032.json	0	dialogue	王宮の職人キスパ：	Kispa, Royal Craftsman:
 MAP32_e44_p0_13	Map032.json	0	dialogue	ウィン：	Win:
 MAP32_e44_p0_16	Map032.json	0	dialogue	王宮の職人キスパ：	Kispa, Royal Craftsman:
-MAP32_e44_p0_17	Map032.json	0	dialogue	すいません、ぼく、仕事中はすごく集中する	
-MAP32_e44_p0_18	Map032.json	0	dialogue	ので、話し掛けないでーーー	
+MAP32_e44_p0_17	Map032.json	0	dialogue	すいません、ぼく、仕事中はすごく集中する	Sorry, but I concentrate intensely during work,
+MAP32_e44_p0_18	Map032.json	0	dialogue	ので、話し掛けないでーーー	so please don't talk to me~
 MAP32_e44_p0_4	Map032.json	0	dialogue	ウィン：	Win:
 MAP32_e45_p0_1	Map032.json	0	dialogue	フレイム兵ユミル：	Yumir, Flame Soldier:
-MAP32_e45_p0_2	Map032.json	0	dialogue	軍隊は最高だな！　	
-MAP32_e45_p0_3	Map032.json	0	dialogue	国からお金もらってのんびりできるんだから！	
+MAP32_e45_p0_2	Map032.json	0	dialogue	軍隊は最高だな！　	The army's the best!
+MAP32_e45_p0_3	Map032.json	0	dialogue	国からお金もらってのんびりできるんだから！	Getting paid by the country and taking it easy!
 MAP32_e46_p0_1	Map032.json	0	dialogue	フレイム兵ザッハト：	Zacht, Flame Soldier:
-MAP32_e46_p0_2	Map032.json	0	dialogue	うーん　むにゃむにゃ…	
-MAP32_e46_p0_3	Map032.json	0	dialogue	はっ！！　えっ！？？	
-MAP32_e46_p0_4	Map032.json	0	dialogue	なんでオレ寝顔のぞかれてんの！！？？	
+MAP32_e46_p0_2	Map032.json	0	dialogue	うーん　むにゃむにゃ…	Umm... mumble mumble...
+MAP32_e46_p0_3	Map032.json	0	dialogue	はっ！！　えっ！？？	Hah!! Huh!??
+MAP32_e46_p0_4	Map032.json	0	dialogue	なんでオレ寝顔のぞかれてんの！！？？	Why are you staring at my sleeping face!!??
 MAP32_e47_p0_1	Map032.json	0	dialogue	王宮調理師：	Royal Cook:
 MAP32_e47_p0_2	Map032.json	0	dialogue	最近スパイスが高いわねーーー	Spices are so expensive lately...
 MAP32_e47_p0_3	Map032.json	0	dialogue	野菜も高いし…　なのに使えるお金は	Vegetables are pricey too... yet the money we can spend
@@ -2814,28 +2814,28 @@ MAP32_e51_p0_1	Map032.json	0	dialogue	家畜責任者デリー：	Derry, Livesto
 MAP32_e51_p0_2	Map032.json	0	dialogue	えっ？　牢屋じゃないよ。	Huh? This isn't a jail.
 MAP32_e51_p0_3	Map032.json	0	dialogue	ここは家畜小屋さ。	It's a livestock shed.
 MAP32_e52_p0_1	Map032.json	0	dialogue	フレイム巡回兵ケイン：	Kane, Flame Patrolman:
-MAP32_e52_p0_10	Map032.json	1	dialogue	意味をセイリューのひとも知らないらしいぜ	
+MAP32_e52_p0_10	Map032.json	1	dialogue	意味をセイリューのひとも知らないらしいぜ	Even the Seiryu folks don't know what it means.
 MAP32_e52_p0_14	Map032.json	1	dialogue	フレイム巡回兵ケイン：	Kane, Flame Patrolman:
-MAP32_e52_p0_15	Map032.json	1	dialogue	そうかー？	
-MAP32_e52_p0_16	Map032.json	1	dialogue	まんきんたんだぜ？　毒消しってよりなんか	
-MAP32_e52_p0_17	Map032.json	1	dialogue	お金というか宝石みたいな響きだなあ	
-MAP32_e52_p0_2	Map032.json	0	dialogue	この前ヘビに噛まれてさーーー	
-MAP32_e52_p0_3	Map032.json	0	dialogue	万金丹で治したんだけど、	
-MAP32_e52_p0_4	Map032.json	0	dialogue	まんきんたん？　変な名前だよなーーー？	
+MAP32_e52_p0_15	Map032.json	1	dialogue	そうかー？	Is that so~?
+MAP32_e52_p0_16	Map032.json	1	dialogue	まんきんたんだぜ？　毒消しってよりなんか	Mankintan, huh? It sounds more like money or
+MAP32_e52_p0_17	Map032.json	1	dialogue	お金というか宝石みたいな響きだなあ	a gem than an antidote, doesn't it?
+MAP32_e52_p0_2	Map032.json	0	dialogue	この前ヘビに噛まれてさーーー	Got bitten by a snake the other day—
+MAP32_e52_p0_3	Map032.json	0	dialogue	万金丹で治したんだけど、	cured it with Mankintan, but,
+MAP32_e52_p0_4	Map032.json	0	dialogue	まんきんたん？　変な名前だよなーーー？	Mankintan? What a weird name, huh?
 MAP32_e52_p0_5_c0	Map032.json	choice	choice	そうだね	Yeah, you're right
 MAP32_e52_p0_5_c1	Map032.json	choice	choice	そんなことない	That's not true
 MAP32_e52_p0_8	Map032.json	1	dialogue	フレイム巡回兵ケイン：	Kane, Flame Patrolman:
-MAP32_e52_p0_9	Map032.json	1	dialogue	セイリューの？　特産？　らしいけどさー	
+MAP32_e52_p0_9	Map032.json	1	dialogue	セイリューの？　特産？　らしいけどさー	It's a Seiryu specialty or something, apparently~
 MAP32_e53_p0_11	Map032.json	0	dialogue	偵察兵レイモンド：	Raymond, Scout:
-MAP32_e53_p0_12	Map032.json	0	dialogue	いろんな情報を集める事だからな！	
-MAP32_e53_p0_13	Map032.json	0	dialogue	早速しごとにとりかかるぜ！	
+MAP32_e53_p0_12	Map032.json	0	dialogue	いろんな情報を集める事だからな！	Gathering all sorts of info is the job!
+MAP32_e53_p0_13	Map032.json	0	dialogue	早速しごとにとりかかるぜ！	Time to get to work!
 MAP32_e53_p0_15	Map032.json	0	dialogue	偵察兵レイモンド：	Raymond, Scout:
-MAP32_e53_p0_16	Map032.json	0	dialogue	じゃあな、ウィン！	
+MAP32_e53_p0_16	Map032.json	0	dialogue	じゃあな、ウィン！	See ya, Win!
 MAP32_e53_p0_4	Map032.json	0	dialogue	偵察兵レイモンド：	Raymond, Scout:
-MAP32_e53_p0_5	Map032.json	0	dialogue	ウィン！　俺はここまでだ！	
+MAP32_e53_p0_5	Map032.json	0	dialogue	ウィン！　俺はここまでだ！	Win! This is where we part!
 MAP32_e53_p0_7	Map032.json	0	dialogue	偵察兵レイモンド：	Raymond, Scout:
-MAP32_e53_p0_8	Map032.json	0	dialogue	俺の仕事は、フレイムの城下町で	
-MAP32_e53_p0_9	Map032.json	0	dialogue	いろんなカレーを…じゃなかった！	
+MAP32_e53_p0_8	Map032.json	0	dialogue	俺の仕事は、フレイムの城下町で	My job is to scope out the curries—I mean,
+MAP32_e53_p0_9	Map032.json	0	dialogue	いろんなカレーを…じゃなかった！	survey the various dishes in Flame's castle town—no wait!
 MAP33_e10_p0_1	Map033.json	0	dialogue	『王のいないセイリュー』	"""Seiryu, the Land Without a King"""
 MAP33_e10_p0_11	Map033.json	1	dialogue	セイリューでは、大昔から、漁をしてきた一族、大工をして	In Seiryu, since ancient times, there have been families of fishers, carpenters,
 MAP33_e10_p0_12	Map033.json	1	dialogue	きた一族、作物を育ててきた一族、鍛冶をしてきた一族…	farmers, smiths...
@@ -2871,7 +2871,7 @@ MAP33_e12_p0_1	Map033.json	0	dialogue	『階級ということ』	"""On Social C
 MAP33_e12_p0_11	Map033.json	1	dialogue	この地における、階級の存在について、フレイム王国の	One must say the people of the Flame Kingdom give little thought
 MAP33_e12_p0_12	Map033.json	1	dialogue	人々は意識が少ないと言わざるをえない。確かに厳しい	to social class. Truly, they aren't bound by harsh laws; everyone is free.
 MAP33_e12_p0_13	Map033.json	1	dialogue	法律で縛られることもない、ひとびとはみな自由で、	Everyone is free and unbound by harsh laws.
-MAP33_e12_p0_14	Map033.json	1	dialogue	思い悩む顔も、他国のひとびとよりも少ない。	
+MAP33_e12_p0_14	Map033.json	1	dialogue	思い悩む顔も、他国のひとびとよりも少ない。	and the faces of its people seem less troubled than those of other lands.
 MAP33_e12_p0_16	Map033.json	1	dialogue	しかし、物乞いが努力することで商人たちのように金を	But can a beggar, through effort, grow rich like the merchants?
 MAP33_e12_p0_17	Map033.json	1	dialogue	儲けられる国だろうか？兵士が王族のような指揮官、	Can a soldier become a commander or general like royalty?
 MAP33_e12_p0_18	Map033.json	1	dialogue	将軍になれるだろうか？農民や大工に学問を学べるような	Do farmers and carpenters get chances to study?
@@ -2909,7 +2909,7 @@ MAP33_e14_p0_2	Map033.json	0	dialogue	…と、表紙に書かれた本がある
 MAP33_e14_p0_3_c0	Map033.json	choice	choice	読んでみる	Read it
 MAP33_e14_p0_3_c1	Map033.json	choice	choice	読まない	Don't read it
 MAP33_e14_p0_6	Map033.json	1	dialogue	国王陛下の命令の元、ウィンダム王国と戦争した場合に	Should we go to war with the Windam Kingdom by His Majesty's order,
-MAP33_e14_p0_7	Map033.json	1	dialogue	どうなるかを調査した結果をここに報告します。	
+MAP33_e14_p0_7	Map033.json	1	dialogue	どうなるかを調査した結果をここに報告します。	Here I report the results of my survey of how things would unfold.
 MAP33_e14_p0_9	Map033.json	1	dialogue	騎士団は定期的な軍事的訓練を行っており、その装備もまた	the knight order trains regularly, and its equipment is
 MAP33_e15_p1_1	Map033.json	0	dialogue	イヌ：	Dog:
 MAP33_e15_p1_2	Map033.json	0	dialogue	…ックーン！	...Yip!
@@ -2935,7 +2935,7 @@ MAP33_e16_p0_7	Map033.json	1	dialogue	バーン王である。	was King Burn.
 MAP33_e16_p0_8	Map033.json	1	dialogue	砂漠にはびこる野盗、毒蛇、そして砂漠オオカミ。	Bandits, venomous snakes, and desert wolves plague the sands.
 MAP33_e16_p0_9	Map033.json	1	dialogue	一年中吹き荒れている砂嵐…。	Sandstorms rage all year round...
 MAP33_e17_p0_1	Map033.json	0	dialogue	『我々のエレメントと呼ぶもの』	"""What We Call Elements"""
-MAP33_e17_p0_11	Map033.json	1	dialogue	漠然と火の恵み、水の恵み、風の恵み…自然からの恩恵、	
+MAP33_e17_p0_11	Map033.json	1	dialogue	漠然と火の恵み、水の恵み、風の恵み…自然からの恩恵、	Vaguely, the blessings of Fire, Water, Wind... the gifts of nature,
 MAP33_e17_p0_12	Map033.json	1	dialogue	そのエネルギーといった感覚で使っている言葉である。	a word used with a sense of 'that energy'.
 MAP33_e17_p0_13	Map033.json	1	dialogue	しかしこの自然というものは、火と水と風のみで成り立つ	But is this nature truly built solely of fire, water, and wind?
 MAP33_e17_p0_14	Map033.json	1	dialogue	世界であろうか？	Is it?
@@ -2952,16 +2952,16 @@ MAP33_e17_p0_8	Map033.json	1	dialogue	エレメント大陸と呼ぶ。しかし
 MAP33_e17_p0_9	Map033.json	1	dialogue	エレメントとは具体的に何を指す言葉なのだろうか？	'element' refer to?
 MAP33_e18_p0_2	Map033.json	0	dialogue	　　　左　ホノオ王子の部屋　右　ホムラ王子の部屋	Left: Prince Hono's room  Right: Prince Homura's room
 MAP33_e19_p1_1	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e19_p1_2	Map033.json	0	dialogue	あ…　あ…　アニキ…！！？	
+MAP33_e19_p1_2	Map033.json	0	dialogue	あ…　あ…　アニキ…！！？	Ah... Ah... Big bro...!!?
 MAP33_e19_p1_4	Map033.json	0	dialogue	ホムラ？：	Homura?:
 MAP33_e19_p2_10	Map033.json	0	dialogue	ウィン：	Win:
 MAP33_e19_p2_13	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e19_p2_14	Map033.json	0	dialogue	アニキ…　	
+MAP33_e19_p2_14	Map033.json	0	dialogue	アニキ…　	Big bro...
 MAP33_e19_p2_2	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e19_p2_3	Map033.json	0	dialogue	あっ…！！	
+MAP33_e19_p2_3	Map033.json	0	dialogue	あっ…！！	Ah...!!
 MAP33_e19_p2_6	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e19_p2_7	Map033.json	0	dialogue	なんだったんだ…　まぼろし…？	
-MAP33_e19_p2_8	Map033.json	0	dialogue	ウィン、オマエさっきの見たか？	
+MAP33_e19_p2_7	Map033.json	0	dialogue	なんだったんだ…　まぼろし…？	What was that... a vision...?
+MAP33_e19_p2_8	Map033.json	0	dialogue	ウィン、オマエさっきの見たか？	Win, did you see that just now?
 MAP33_e4_p0_1	Map033.json	0	dialogue	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP33_e4_p0_10	Map033.json	1	dialogue	じいやなんか　なさけないと言って泣いた	Grandpa cried, saying I was pathetic
 MAP33_e4_p0_12	Map033.json	1	dialogue	オレが、いつまでたっても本を読まないから	Because I never read any books, no matter how much time passed
@@ -3052,7 +3052,7 @@ MAP33_e4_p2_9	Map033.json	1	dialogue	だいじんにもせっきょうされた	
 MAP33_e5_p0_1	Map033.json	0	dialogue	引き出しをこっそり開けてみると…	When we quietly opened the drawer...
 MAP33_e5_p0_11	Map033.json	1	dialogue	ポケットに入っていたカラカラに乾いたパンを差し出して	When I offered him the bone-dry bread from my pocket,
 MAP33_e5_p0_12	Map033.json	1	dialogue	みると…物乞い、いや、彼は、僕に頭をさげてありがとう、	he bowed his head and thanked me—
-MAP33_e5_p0_13	Map033.json	1	dialogue	ありがとうと呟き、涙を流しながらひざまづいたのだ。	
+MAP33_e5_p0_13	Map033.json	1	dialogue	ありがとうと呟き、涙を流しながらひざまづいたのだ。	"He murmured ""thank you"" and knelt down, tears streaming down his face."
 MAP33_e5_p0_15	Map033.json	1	dialogue	乾いたパンひとつで殺人者が刹那に善人になったのだ。	With a single dry piece of bread, a murderer became a good man in an instant.
 MAP33_e5_p0_16	Map033.json	1	dialogue	乾いたパン一つにその力があるのに、僕らが毎日食べている	If one dry piece of bread holds that much power, then the meals we eat every day—
 MAP33_e5_p0_17	Map033.json	1	dialogue	食事は、その一食で、あの乾いたパン何個分だろうか…。	That one meal was worth how many of those dry pieces of bread, I wonder...
@@ -3103,7 +3103,7 @@ MAP33_e5_p2_30	Map033.json	1	dialogue	あんだとー？	What was that—?
 MAP33_e5_p2_31	Map033.json	1	dialogue	まあ、喋り方っていうか、オレ、ホントに	Well, it's not just the way I talk—I really am
 MAP33_e5_p2_32	Map033.json	1	dialogue	頭悪いからな。でもズシンと来ねえかよ？	dumb. But it hits you right here, doesn't it?
 MAP33_e5_p2_34	Map033.json	1	dialogue	ナガレ：	Nagare:
-MAP33_e5_p2_35	Map033.json	1	dialogue	…来たよ。	
+MAP33_e5_p2_35	Map033.json	1	dialogue	…来たよ。	...He's here.
 MAP33_e5_p2_4_c0	Map033.json	choice	choice	読んでみる	Read it
 MAP33_e5_p2_4_c1	Map033.json	choice	choice	読まない	Don't read it
 MAP33_e5_p2_7	Map033.json	1	dialogue	古いページ：	An Old Page:
@@ -3134,79 +3134,79 @@ MAP33_e7_p0_34	Map033.json	0	dialogue	あやつも頭を冷やすだろう。	he
 MAP33_e7_p0_5	Map033.json	0	dialogue	ウィン：	Win:
 MAP33_e7_p0_9	Map033.json	0	dialogue	　　　　ウィンはフレイム王に自己紹介をしてから	After introducing himself to King Flame, Win
 MAP33_e7_p1_1	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p1_2	Map033.json	0	dialogue	ホノオは南の遺跡に継承の試練に向かった。	
-MAP33_e7_p1_3	Map033.json	0	dialogue	いまからなら追いつけるだろう。	
-MAP33_e7_p1_4	Map033.json	0	dialogue	ウィン殿、あいつを連れ戻して来て下され。	
-MAP33_e7_p2_10	Map033.json	0	dialogue	皆が止めるのを聞かず、勝手に出て行った	
+MAP33_e7_p1_2	Map033.json	0	dialogue	ホノオは南の遺跡に継承の試練に向かった。	Hono has gone to the Southern Ruins for the trial of succession.
+MAP33_e7_p1_3	Map033.json	0	dialogue	いまからなら追いつけるだろう。	If we leave now, we can catch up.
+MAP33_e7_p1_4	Map033.json	0	dialogue	ウィン殿、あいつを連れ戻して来て下され。	Sir Win, please bring him back.
+MAP33_e7_p2_10	Map033.json	0	dialogue	皆が止めるのを聞かず、勝手に出て行った	He left on his own, ignoring everyone's pleas.
 MAP33_e7_p2_100	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p2_101	Map033.json	0	dialogue	お前は強かった。	
-MAP33_e7_p2_102	Map033.json	0	dialogue	わしらのことも、ホムラのことも、	
-MAP33_e7_p2_103	Map033.json	0	dialogue	自分で乗り越えた…	
-MAP33_e7_p2_105	Map033.json	0	dialogue	お前という強い王子を持つことができた…	
-MAP33_e7_p2_106	Map033.json	0	dialogue	わしら全員の誇りなのだ、お前は。　	
+MAP33_e7_p2_101	Map033.json	0	dialogue	お前は強かった。	You were strong.
+MAP33_e7_p2_102	Map033.json	0	dialogue	わしらのことも、ホムラのことも、	Overcoming everything—us, and Homura,
+MAP33_e7_p2_103	Map033.json	0	dialogue	自分で乗り越えた…	on your own...
+MAP33_e7_p2_105	Map033.json	0	dialogue	お前という強い王子を持つことができた…	To have a prince as strong as you...
+MAP33_e7_p2_106	Map033.json	0	dialogue	わしら全員の誇りなのだ、お前は。　	you are the pride of all of us.
 MAP33_e7_p2_108	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_109	Map033.json	0	dialogue	親父…。	
-MAP33_e7_p2_11	Map033.json	0	dialogue	ものの態度か！！	
+MAP33_e7_p2_109	Map033.json	0	dialogue	親父…。	Dad...
+MAP33_e7_p2_11	Map033.json	0	dialogue	ものの態度か！！	What kind of attitude is that!!
 MAP33_e7_p2_111	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p2_112	Map033.json	0	dialogue	だが…わしは誇りに思いながらも、	
-MAP33_e7_p2_113	Map033.json	0	dialogue	お前を信じられなかったのだ…。	
-MAP33_e7_p2_115	Map033.json	0	dialogue	お前はいまだにこころの中では…	
-MAP33_e7_p2_116	Map033.json	0	dialogue	王になりたくないのではないか…	
-MAP33_e7_p2_117	Map033.json	0	dialogue	ホムラがいたならと思っているのではないか…	
-MAP33_e7_p2_119	Map033.json	0	dialogue	もしそうであったなら…	
-MAP33_e7_p2_120	Map033.json	0	dialogue	試練を乗り越えることはできない…	
-MAP33_e7_p2_121	Map033.json	0	dialogue	あれは…自らが王になるのだという意思が	
-MAP33_e7_p2_122	Map033.json	0	dialogue	なければ、決して合格できないからな…。	
+MAP33_e7_p2_112	Map033.json	0	dialogue	だが…わしは誇りに思いながらも、	But... even as I felt proud,
+MAP33_e7_p2_113	Map033.json	0	dialogue	お前を信じられなかったのだ…。	I couldn't bring myself to trust you...
+MAP33_e7_p2_115	Map033.json	0	dialogue	お前はいまだにこころの中では…	In your heart, even now, you—
+MAP33_e7_p2_116	Map033.json	0	dialogue	王になりたくないのではないか…	don't you truly not want to be king...?
+MAP33_e7_p2_117	Map033.json	0	dialogue	ホムラがいたならと思っているのではないか…	don't you wish Homura were still here...?
+MAP33_e7_p2_119	Map033.json	0	dialogue	もしそうであったなら…	If that were so...
+MAP33_e7_p2_120	Map033.json	0	dialogue	試練を乗り越えることはできない…	you could never pass the trial...
+MAP33_e7_p2_121	Map033.json	0	dialogue	あれは…自らが王になるのだという意思が	because it can never be cleared without the will
+MAP33_e7_p2_122	Map033.json	0	dialogue	なければ、決して合格できないからな…。	to become king oneself...
 MAP33_e7_p2_124	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_125	Map033.json	0	dialogue	あはは…えー　まあ、そうなの…か？	
+MAP33_e7_p2_125	Map033.json	0	dialogue	あはは…えー　まあ、そうなの…か？	Ahaha... um, well, is that... so?
 MAP33_e7_p2_127	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p2_128	Map033.json	0	dialogue	だから…お前が試練に行くのを…	
-MAP33_e7_p2_129	Map033.json	0	dialogue	わしはあれほどに止めたのだ…恐れたのだ。	
+MAP33_e7_p2_128	Map033.json	0	dialogue	だから…お前が試練に行くのを…	That's why... when you went for the trial...
+MAP33_e7_p2_129	Map033.json	0	dialogue	わしはあれほどに止めたのだ…恐れたのだ。	I stopped you so insistently... because I feared it.
 MAP33_e7_p2_13	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_131	Map033.json	0	dialogue	だがお前は試練を乗り越えた。	
-MAP33_e7_p2_132	Map033.json	0	dialogue	しっかりと、王になる覚悟を持っていた。	
-MAP33_e7_p2_133	Map033.json	0	dialogue	持っていてくれた…。	
+MAP33_e7_p2_131	Map033.json	0	dialogue	だがお前は試練を乗り越えた。	But you overcame the trial.
+MAP33_e7_p2_132	Map033.json	0	dialogue	しっかりと、王になる覚悟を持っていた。	You had the resolve to become king, firmly.
+MAP33_e7_p2_133	Map033.json	0	dialogue	持っていてくれた…。	You had it...
 MAP33_e7_p2_135	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_136	Map033.json	0	dialogue	ああ、持ってるぜ。	
-MAP33_e7_p2_137	Map033.json	0	dialogue	安心しな！	
+MAP33_e7_p2_136	Map033.json	0	dialogue	ああ、持ってるぜ。	Yeah, I've got it.
+MAP33_e7_p2_137	Map033.json	0	dialogue	安心しな！	Don't worry!
 MAP33_e7_p2_139	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p2_14	Map033.json	0	dialogue	でもよー…	
-MAP33_e7_p2_140	Map033.json	0	dialogue	そんなお前を信じてやれないで、本当に	
-MAP33_e7_p2_141	Map033.json	0	dialogue	すまなかった、ホノオ。	
-MAP33_e7_p2_143	Map033.json	0	dialogue	そしてもう今後二度と…	
-MAP33_e7_p2_144	Map033.json	0	dialogue	わしはお前を疑わんと誓う。	
-MAP33_e7_p2_145	Map033.json	0	dialogue	お前は偉大な王になる。そして…	
-MAP33_e7_p2_148	Map033.json	0	dialogue	闇のエレメントの復活も阻止してくれるだろう	
-MAP33_e7_p2_15	Map033.json	0	dialogue	ちゃんと試練は合格したぜ。	
+MAP33_e7_p2_14	Map033.json	0	dialogue	でもよー…	But hey...
+MAP33_e7_p2_140	Map033.json	0	dialogue	そんなお前を信じてやれないで、本当に	I'm truly sorry I couldn't trust you—
+MAP33_e7_p2_141	Map033.json	0	dialogue	すまなかった、ホノオ。	forgive me, Hono.
+MAP33_e7_p2_143	Map033.json	0	dialogue	そしてもう今後二度と…	And from now on, never again...
+MAP33_e7_p2_144	Map033.json	0	dialogue	わしはお前を疑わんと誓う。	I swear I shall never doubt you.
+MAP33_e7_p2_145	Map033.json	0	dialogue	お前は偉大な王になる。そして…	You will become a great king. And...
+MAP33_e7_p2_148	Map033.json	0	dialogue	闇のエレメントの復活も阻止してくれるだろう	you will stop the Dark Element's revival, I'm sure.
+MAP33_e7_p2_15	Map033.json	0	dialogue	ちゃんと試練は合格したぜ。	I passed the trial fair and square.
 MAP33_e7_p2_151	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_152	Map033.json	0	dialogue	もちろんだぜ！	
+MAP33_e7_p2_152	Map033.json	0	dialogue	もちろんだぜ！	Of course!
 MAP33_e7_p2_154	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p2_155	Map033.json	0	dialogue	もう言うことはない。	
-MAP33_e7_p2_156	Map033.json	0	dialogue	行くがよい、火と風の勇者よ！	
+MAP33_e7_p2_155	Map033.json	0	dialogue	もう言うことはない。	I've nothing more to say.
+MAP33_e7_p2_156	Map033.json	0	dialogue	行くがよい、火と風の勇者よ！	Go forth, heroes of Fire and Wind!
 MAP33_e7_p2_158	Map033.json	0	dialogue	ウィン殿、お誘いしたお茶の時間が随分と	Sir Win, I'm sorry our tea together has
 MAP33_e7_p2_159	Map033.json	0	dialogue	遠のいてしまい恐縮だが…	drifted so far away...
 MAP33_e7_p2_160	Map033.json	0	dialogue	なにとぞ、息子を頼みます。	Please, I beg you, take care of my son.
 MAP33_e7_p2_17	Map033.json	0	dialogue	フレイム王：	King Flame:
 MAP33_e7_p2_20	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_21	Map033.json	0	dialogue	このウィンが証人でもあるんだぜ！	
-MAP33_e7_p2_23	Map033.json	0	dialogue	それ以外にも…　まあ…	
-MAP33_e7_p2_24	Map033.json	0	dialogue	色々世話になったけど…	
+MAP33_e7_p2_21	Map033.json	0	dialogue	このウィンが証人でもあるんだぜ！	This Win here can vouch for it!
+MAP33_e7_p2_23	Map033.json	0	dialogue	それ以外にも…　まあ…	Besides that... well...
+MAP33_e7_p2_24	Map033.json	0	dialogue	色々世話になったけど…	you've helped me a lot, but...
 MAP33_e7_p2_26	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p2_27	Map033.json	0	dialogue	ウィン殿、今回の件、フレイム王として	
-MAP33_e7_p2_28	Map033.json	0	dialogue	深く感謝しますぞ。	
-MAP33_e7_p2_30	Map033.json	0	dialogue	そして、ホノオ…	
-MAP33_e7_p2_31	Map033.json	0	dialogue	試練、ご苦労だった…	
+MAP33_e7_p2_27	Map033.json	0	dialogue	ウィン殿、今回の件、フレイム王として	Sir Win, as King of Flame, I thank you
+MAP33_e7_p2_28	Map033.json	0	dialogue	深く感謝しますぞ。	deeply for this.
+MAP33_e7_p2_30	Map033.json	0	dialogue	そして、ホノオ…	And, Hono...
+MAP33_e7_p2_31	Map033.json	0	dialogue	試練、ご苦労だった…	the trial... you worked hard...
 MAP33_e7_p2_33	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_34	Map033.json	0	dialogue	ああ。これでオレは正真正銘の次期国王だな。	
-MAP33_e7_p2_36	Map033.json	0	dialogue	そんで…	
-MAP33_e7_p2_37	Map033.json	0	dialogue	正真正銘の紋章継承者にもなったみてえだぜ	
+MAP33_e7_p2_34	Map033.json	0	dialogue	ああ。これでオレは正真正銘の次期国王だな。	Yeah. Now I'm the true, legitimate next king.
+MAP33_e7_p2_36	Map033.json	0	dialogue	そんで…	And...
+MAP33_e7_p2_37	Map033.json	0	dialogue	正真正銘の紋章継承者にもなったみてえだぜ	it seems I've become a true crest inheritor too.
 MAP33_e7_p2_4	Map033.json	0	dialogue	ホノオ：	Hono:
 MAP33_e7_p2_46	Map033.json	0	dialogue	フレイム王：	King Flame:
-MAP33_e7_p2_47	Map033.json	0	dialogue	おお…紋章が輝いている…！	
+MAP33_e7_p2_47	Map033.json	0	dialogue	おお…紋章が輝いている…！	Oh... the crest is shining...!
 MAP33_e7_p2_49	Map033.json	0	dialogue	ホノオ：	Hono:
-MAP33_e7_p2_5	Map033.json	0	dialogue	よう、親父！	
-MAP33_e7_p2_50	Map033.json	0	dialogue	ああ、試練の前に、闇の四天王とかってのに	
-MAP33_e7_p2_51	Map033.json	0	dialogue	襲われたんだが、オレとウィンの紋章の力で	
+MAP33_e7_p2_5	Map033.json	0	dialogue	よう、親父！	Yo, Dad!
+MAP33_e7_p2_50	Map033.json	0	dialogue	ああ、試練の前に、闇の四天王とかってのに	Yeah, before the trial, we were attacked by the so-called
+MAP33_e7_p2_51	Map033.json	0	dialogue	襲われたんだが、オレとウィンの紋章の力で	Four Dark Generals, but with the power of mine and Win's crests,
 MAP33_e7_p2_52	Map033.json	0	dialogue	なんとか勝てたんだ。	
 MAP33_e7_p2_54	Map033.json	0	dialogue	しかし、逃げられた…。	
 MAP33_e7_p2_55	Map033.json	0	dialogue	親父…　伝説だったことが、	
@@ -4249,7 +4249,7 @@ MAP49_e9_p1_40	Map049.json	0	dialogue	そうやって、わけのわからねえ
 MAP49_e9_p1_41	Map049.json	0	dialogue	マジでホムラ兄貴っぽいんだ…	
 MAP49_e9_p1_44	Map049.json	0	dialogue	マジでマジでってたくさん言うのも、ホノオらしいよ。	
 MAP49_e9_p1_46	Map049.json	0	dialogue	ホノオ：	Hono:
-MAP49_e9_p1_47	Map049.json	0	dialogue	アニキ…	
+MAP49_e9_p1_47	Map049.json	0	dialogue	アニキ…	Big bro...
 MAP49_e9_p1_48	Map049.json	0	dialogue	オレはずっとアニキみてえになりたいと	
 MAP49_e9_p1_49	Map049.json	0	dialogue	思ってた。	
 MAP49_e9_p1_51	Map049.json	0	dialogue	誰にでも優しくて…	
