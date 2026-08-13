@@ -921,8 +921,8 @@ MAP7_e13_p0_19	Map007.json	1	dialogue	魔法の力も弱まってしまうのか
 MAP7_e13_p0_2	Map007.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか？	There's a book with these words\non the cover. Should we read it?
 MAP7_e13_p0_3_c0	Map007.json	choice	choice	読む	Read
 MAP7_e13_p0_3_c1	Map007.json	choice	choice	読まない	Don't read it
-MAP7_e13_p0_6	Map007.json	1	dialogue	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives,\neach crest — fire, water, and wind—
-MAP7_e13_p0_7	Map007.json	1	dialogue	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter as it strengthens,\ngranting the inheritor strange magical
+MAP7_e13_p0_6	Map007.json	1	dialogue	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives and grows\nstronger, each crest — fire, water, and wind —
+MAP7_e13_p0_7	Map007.json	1	dialogue	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter in turn, granting\nthe inheritor strange magical
 MAP7_e13_p0_8	Map007.json	1	dialogue	力を紋章継承者に与えるという。	power.
 MAP7_e13_p0_9	Map007.json	1	dialogue	この魔法の力が、エレメンタルパワーである。	That magical power is Elemental Power.
 MAP7_e14_p0_1	Map007.json	0	dialogue	『怖くない！五分で怖くなくなる錬金術』	"""Don't Be Scared! Alchemy Without Fear in Five Minutes"""
@@ -3671,21 +3671,21 @@ MAP35_e6_p0_4	Map035.json	scrolling text	dialogue	　　　　　　　世界は
 MAP35_e6_p0_41	Map035.json	scrolling text	dialogue	　　　　　　　　　しかし、何百年もの間	Yet for hundreds of years,
 MAP35_e6_p0_42	Map035.json	scrolling text	dialogue	　　　　　　闇のエレメントは復活しなかった	the Dark Element did not revive.
 MAP35_e6_p0_44	Map035.json	scrolling text	dialogue	　　　　　その間に言い伝えは忘れられていった	In that time, the old tales were forgotten.
-MAP35_e6_p0_46	Map035.json	scrolling text	dialogue	　　　　　　　　紋章の継承者も実質的には　	And in practice, the crest's inheritors
-MAP35_e6_p0_47	Map035.json	scrolling text	dialogue	　　　　　　それぞれの国の権力者に継承され	passed their crests to the powers that be,
-MAP35_e6_p0_48	Map035.json	scrolling text	dialogue	　　　　　　単なる権威の象徴でしかなかった	reducing them to mere symbols of authority.
+MAP35_e6_p0_46	Map035.json	scrolling text	dialogue	　　　　　　　　紋章の継承者も実質的には　	And in practice, the succession of the crests
+MAP35_e6_p0_47	Map035.json	scrolling text	dialogue	　　　　　　それぞれの国の権力者に継承され	fell to each nation's rulers,
+MAP35_e6_p0_48	Map035.json	scrolling text	dialogue	　　　　　　単なる権威の象徴でしかなかった	becoming a mere symbol of authority.
 MAP35_e6_p0_6	Map035.json	scrolling text	dialogue	　　　　　　　それを防ぐことのできる唯一の力が	The only power that could prevent it was
 MAP35_e6_p0_7	Map035.json	scrolling text	dialogue	　　　　　　　　　　　エレメントの紋章を	the inheritors who carried
 MAP35_e6_p0_8	Map035.json	scrolling text	dialogue	　　　　　　　　受け継いだ　継承者たちであると…　　	the Element crests...
 MAP35_e8_name	Map035.json	event name	name	泥棒はずれ	Thief (Missed)
 MAP35_e8_p0_1	Map035.json	0	dialogue	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP36_e1_name	Map036.json	event name	name	オープニング	Opening
-MAP36_e1_p0_10	Map036.json	scrolling text	dialogue	　　　　　　　　　　作られたと伝わる	was said to have been forged.
-MAP36_e1_p0_12	Map036.json	scrolling text	dialogue	　　　　　　それぞれのエレメントの加護の証である	On this continent, where three nations blessed by
-MAP36_e1_p0_13	Map036.json	scrolling text	dialogue	　　紋章の力を受け継いだ三つの国が栄えるこの大陸には	the crests — marks of each\nElement's blessing — flourish,
+MAP36_e1_p0_10	Map036.json	scrolling text	dialogue	　　　　　　　　　　作られたと伝わる	by the blessing of the Fire, Water, and Wind Elements.
+MAP36_e1_p0_12	Map036.json	scrolling text	dialogue	　　　　　　それぞれのエレメントの加護の証である	On this continent, where three nations that inherited
+MAP36_e1_p0_13	Map036.json	scrolling text	dialogue	　　紋章の力を受け継いだ三つの国が栄えるこの大陸には	the power of the crests — marks of\neach Element's blessing — flourish,
 MAP36_e1_p0_15	Map036.json	scrolling text	dialogue	　　　　　　　　恐ろしい言い伝えがあった…	there was a fearsome old tale...
 MAP36_e1_p0_7	Map036.json	scrolling text	dialogue	　　　　　　　　　　　エレメント大陸	The Element Continent
-MAP36_e1_p0_9	Map036.json	scrolling text	dialogue	　　　この大陸は火、水、風のエレメントの加護によって	This continent was forged by the blessing\nof the Fire, Water, and Wind Elements,
+MAP36_e1_p0_9	Map036.json	scrolling text	dialogue	　　　この大陸は火、水、風のエレメントの加護によって	This continent was said to have been forged
 MAP37_e10_p0_1	Map037.json	0	dialogue	騎士団長代行サクソン：	Saxon, Acting Knight-Captain:
 MAP37_e10_p0_10	Map037.json	0	dialogue	ピピン：	Pipin:
 MAP37_e10_p0_11	Map037.json	0	dialogue	随分と焦ってるようだが、それも当然だな。	You look quite flustered, and rightly so.
@@ -5254,7 +5254,7 @@ MAP55_e12_p0_118	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e12_p0_119	Map055.json	0	dialogue	秘密って…いったい…	A secret... about what...
 MAP55_e12_p0_121	Map055.json	0	dialogue	ウィン：	Win:
 MAP55_e12_p0_127	Map055.json	scrolling text	dialogue	　　　　代々セイリュー当主に口伝でのみ伝わる、	A legend of this land, Seiryu,\npassed down only by word of mouth
-MAP55_e12_p0_129	Map055.json	scrolling text	dialogue	　　　　　　この地セイリューの伝説じゃ	from head to head, for generations.
+MAP55_e12_p0_129	Map055.json	scrolling text	dialogue	　　　　　　この地セイリューの伝説じゃ	from one generation to the next.
 MAP55_e12_p0_132	Map055.json	scrolling text	dialogue	　　　その昔、この地にひとびとが集い集落を作る前	Long ago, before people\ngathered here to form a village,
 MAP55_e12_p0_135	Map055.json	scrolling text	dialogue	　　　　この地は日夜大雨が降り続き、川は溢れ	this land was battered by rain\nday and night; rivers overflowed,
 MAP55_e12_p0_138	Map055.json	scrolling text	dialogue	　　　木は腐り、とてもひとが住める地ではなかった	trees rotted, and it was no place for people to live.
@@ -5282,10 +5282,10 @@ MAP55_e12_p0_174	Map055.json	scrolling text	dialogue	　　　　　　何度も
 MAP55_e12_p0_176	Map055.json	scrolling text	dialogue	　　　　　すさまじい雨は全くやむ気配がなかった	yet the fierce rain showed no sign of stopping.
 MAP55_e12_p0_179	Map055.json	scrolling text	dialogue	　　　　死ぬこともできず、かといって身体も動かず	Unable to die, yet unable to move either,
 MAP55_e12_p0_18	Map055.json	0	dialogue	のかたがた…	the both of you...
-MAP55_e12_p0_182	Map055.json	scrolling text	dialogue	　　　　　　　やがてはじまりの水の者は	at length, the First Being of Water
-MAP55_e12_p0_184	Map055.json	scrolling text	dialogue	　　　　　　　　何か食べ物でもないかと	set out into the depths of the pitch-black cave,
-MAP55_e12_p0_186	Map055.json	scrolling text	dialogue	　　　　　　　　真っ暗闇の洞窟の奥へと	searching for anything to eat,
-MAP55_e12_p0_188	Map055.json	scrolling text	dialogue	　　　　　　　　　歩き出したのじゃ	it began to walk.
+MAP55_e12_p0_182	Map055.json	scrolling text	dialogue	　　　　　　　やがてはじまりの水の者は	At length, the First Being of Water,
+MAP55_e12_p0_184	Map055.json	scrolling text	dialogue	　　　　　　　　何か食べ物でもないかと	wondering if there was anything to eat,
+MAP55_e12_p0_186	Map055.json	scrolling text	dialogue	　　　　　　　　真っ暗闇の洞窟の奥へと	began walking into the depths
+MAP55_e12_p0_188	Map055.json	scrolling text	dialogue	　　　　　　　　　歩き出したのじゃ	of the pitch-black cave.
 MAP55_e12_p0_19	Map055.json	0	dialogue	わしが先々代当主、オタキですじゃ	I am Otaki, head two generations back.
 MAP55_e12_p0_191	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e12_p0_192	Map055.json	0	dialogue	ちょっと待ってこの話、	Hold on, this story—
@@ -5317,7 +5317,7 @@ MAP55_e12_p0_236	Map055.json	scrolling text	dialogue	　　　　　　目の前
 MAP55_e12_p0_239	Map055.json	scrolling text	dialogue	　　　　　　　　　それだけではない	And that was not all.
 MAP55_e12_p0_242	Map055.json	scrolling text	dialogue	　　　　　　龍の左目に　はじまりの水の者が	Deep in the dragon's left eye—
 MAP55_e12_p0_244	Map055.json	scrolling text	dialogue	　　　　　　　腰に履いていた刀が深々と	the sword at the First Being of Water's waist
-MAP55_e12_p0_246	Map055.json	scrolling text	dialogue	　　　　　　　　突き刺さっていたのじゃ	had been driven, deep.
+MAP55_e12_p0_246	Map055.json	scrolling text	dialogue	　　　　　　　　突き刺さっていたのじゃ	had been driven deep.
 MAP55_e12_p0_249	Map055.json	scrolling text	dialogue	　　　　　　はじまりの水の者が助かったのは	The First Being of Water survived
 MAP55_e12_p0_25	Map055.json	0	dialogue	ホノオ：	Hono:
 MAP55_e12_p0_251	Map055.json	scrolling text	dialogue	　　　　龍の目に刀が突き刺さったからだったのじゃ	because its sword had pierced the dragon's eye.
@@ -9009,7 +9009,7 @@ MAP65_e37_p1_325	Map065.json	scrolling text	dialogue	　　　　　　　　ウ
 MAP65_e37_p1_328	Map065.json	scrolling text	dialogue	　　　　　　　セイリューには大雨と洪水が…	heavy rain and floods struck Seiryu...
 MAP65_e37_p1_331	Map065.json	scrolling text	dialogue	　　　　　　フレイムには燃え盛る岩の雨が…	and rain of burning rocks struck Flame...
 MAP65_e37_p1_334	Map065.json	scrolling text	dialogue	　　　　　　　連日のように襲い掛かっていた	day after day.
-MAP65_e37_p1_339	Map065.json	scrolling text	dialogue	　　　　　　　　　これらの異常気象が	Even knowing these unnatural weathers
+MAP65_e37_p1_339	Map065.json	scrolling text	dialogue	　　　　　　　　　これらの異常気象が	Even knowing the unnatural weather
 MAP65_e37_p1_342	Map065.json	scrolling text	dialogue	　　闇のエレメント復活によるものだとは分かりながらも	stemmed from the Dark Element's revival,
 MAP65_e37_p1_345	Map065.json	scrolling text	dialogue	　　　　我々はどうすればよいのか分からなかった…	we had no idea what to do...
 MAP65_e37_p1_350	Map065.json	scrolling text	dialogue	　　　　　継承者たちの紋章の輝きは増していた	The inheritors' crests shone ever brighter,
@@ -9109,7 +9109,7 @@ MAP65_e37_p2_325	Map065.json	scrolling text	dialogue	　　　　　　　　ウ
 MAP65_e37_p2_328	Map065.json	scrolling text	dialogue	　　　　　　　セイリューには大雨と洪水が…	heavy rain and floods struck Seiryu...
 MAP65_e37_p2_331	Map065.json	scrolling text	dialogue	　　　　　　フレイムには燃え盛る岩の雨が…	and rain of burning rocks struck Flame...
 MAP65_e37_p2_334	Map065.json	scrolling text	dialogue	　　　　　　　連日のように襲い掛かっていた	day after day.
-MAP65_e37_p2_339	Map065.json	scrolling text	dialogue	　　　　　　　　　これらの異常気象が	Even knowing these unnatural weathers
+MAP65_e37_p2_339	Map065.json	scrolling text	dialogue	　　　　　　　　　これらの異常気象が	Even knowing the unnatural weather
 MAP65_e37_p2_342	Map065.json	scrolling text	dialogue	　　闇のエレメント復活によるものだとは分かりながらも	stemmed from the Dark Element's revival,
 MAP65_e37_p2_345	Map065.json	scrolling text	dialogue	　　　　我々はどうすればよいのか分からなかった…	we had no idea what to do...
 MAP65_e37_p2_350	Map065.json	scrolling text	dialogue	　　　　　継承者たちの紋章の輝きは増していた	The inheritors' crests shone ever brighter,
@@ -9983,8 +9983,8 @@ MAP67_e13_p0_19	Map067.json	1	dialogue	魔法の力も弱まってしまうの�
 MAP67_e13_p0_2	Map067.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか？	There's a book with these words\non the cover. Should we read it?
 MAP67_e13_p0_3_c0	Map067.json	choice	choice	読む	Read
 MAP67_e13_p0_3_c1	Map067.json	choice	choice	読まない	Don't read it
-MAP67_e13_p0_6	Map067.json	1	dialogue	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives,\neach crest — fire, water, and wind—
-MAP67_e13_p0_7	Map067.json	1	dialogue	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter as it strengthens,\ngranting the inheritor strange magical
+MAP67_e13_p0_6	Map067.json	1	dialogue	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives and grows\nstronger, each crest — fire, water, and wind —
+MAP67_e13_p0_7	Map067.json	1	dialogue	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter in turn, granting\nthe inheritor strange magical
 MAP67_e13_p0_8	Map067.json	1	dialogue	力を紋章継承者に与えるという。	power.
 MAP67_e13_p0_9	Map067.json	1	dialogue	この魔法の力が、エレメンタルパワーである。	That magical power is Elemental Power.
 MAP67_e14_p0_1	Map067.json	0	dialogue	『怖くない！五分で怖くなくなる錬金術』	"""Don't Be Scared! Alchemy Without Fear in Five Minutes"""
@@ -10206,9 +10206,9 @@ MAP68_e2_p1_7	Map068.json	0	dialogue	…ウィン、外は危ないぞ。	...Win
 MAP68_e2_p1_8	Map068.json	0	dialogue	長居するのはよくないと、忠告させてもらう。	I'd advise you not to linger long.
 MAP68_e3_name	Map068.json	event name	name	ウィンダム城下町	Windam Castle Town
 MAP68_e3_note	Map068.json	event note	note	入り口	Entrance
-MAP69_e1_p0_12	Map069.json	scrolling text	dialogue	　　　　　　　　　　南の暗黒大陸に	Over the southern Dark Continent,
-MAP69_e1_p0_14	Map069.json	scrolling text	dialogue	　　　　　　　　巨大な光の柱が立つのを	a colossal pillar of light
-MAP69_e1_p0_16	Map069.json	scrolling text	dialogue	　　　　　　　　　　　見るまでは…	before they saw it rise...
+MAP69_e1_p0_12	Map069.json	scrolling text	dialogue	　　　　　　　　　　南の暗黒大陸に	Until they saw a colossal pillar of light
+MAP69_e1_p0_14	Map069.json	scrolling text	dialogue	　　　　　　　　巨大な光の柱が立つのを	rise over the southern Dark Continent,
+MAP69_e1_p0_16	Map069.json	scrolling text	dialogue	　　　　　　　　　　　見るまでは…	they could only wait in vain...
 MAP70_displayName	Map070.json	display name	mapname	エレメント大陸	Element Continent
 MAP70_e11_p1_1	Map070.json	0	dialogue	ホノオ：	Hono:
 MAP70_e11_p1_2	Map070.json	0	dialogue	…街には入らない方がいい、ウィン…	...Better not go into town, Win...
