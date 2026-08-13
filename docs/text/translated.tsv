@@ -898,7 +898,7 @@ MAP7_e12_p0_11	Map007.json	1	dialogue	曲剣。フレイム王国のみで生産
 MAP7_e12_p0_12	Map007.json	1	dialogue	振り回しやすく、素早さが少し上がる。	Easy to swing, slightly raises agility.
 MAP7_e12_p0_13	Map007.json	1	dialogue	刀。セイリューでのみ生産される。美しく鋭い剣。切れ味が	Katana: produced only in Seiryu. A\nbeautiful, sharp sword. Its edge is
 MAP7_e12_p0_14	Map007.json	1	dialogue	抜群だが、取り回しが悪く、素早さが下がる。	excellent, but it's hard to handle and lowers agility.
-MAP7_e12_p0_16	Map007.json	1	dialogue	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords —\nheavy blades of fearsome power—
+MAP7_e12_p0_16	Map007.json	1	dialogue	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords —\nheavy blades of fearsome power —
 MAP7_e12_p0_17	Map007.json	1	dialogue	短剣、刺剣、槍といった、突き刺す武器もある。	and thrusting weapons like\ndaggers, rapiers, and spears.
 MAP7_e12_p0_18	Map007.json	1	dialogue	この三つは敵の急所を突きやすい（会心率があがる）が、	These three hit enemy vitals\neasily (raising critical rate), but
 MAP7_e12_p0_19	Map007.json	1	dialogue	槍は元の威力が他のふたつよりも高い分、素早さが下がる。	spears have higher base power than\nthe other two at the cost of agility.
@@ -937,7 +937,7 @@ MAP7_e14_p0_19	Map007.json	1	dialogue	大怪我したり病気になって欲し
 MAP7_e14_p0_2	Map007.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words\non the cover. Should we read it?
 MAP7_e14_p0_3_c0	Map007.json	choice	choice	読んでみる	Read it
 MAP7_e14_p0_3_c1	Map007.json	choice	choice	読まない	Don't read it
-MAP7_e14_p0_6	Map007.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years\nsince people called alchemists—
+MAP7_e14_p0_6	Map007.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years\nsince people called alchemists —
 MAP7_e14_p0_7	Map007.json	1	dialogue	ひとたちが、正体の分からない薬を大変な高額で売り出す	or rather, who call themselves that\n— began selling unknown medicines
 MAP7_e14_p0_8	Map007.json	1	dialogue	ようになって百年くらいでしょうか。	at exorbitant prices.
 MAP7_e14_p0_9	Map007.json	1	dialogue	でも効き目が凄いから、みんな本当は憧れているでしょう？	But since they work wonders, everyone\nsecretly admires them, right?
@@ -1103,7 +1103,7 @@ MAP8_e18_p0_1	Map008.json	0	dialogue	『ウィンダム王国の歴史』	"""His
 MAP8_e18_p0_11	Map008.json	1	dialogue	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in\nSeiryu, deep in the western mountains,
 MAP8_e18_p0_12	Map008.json	1	dialogue	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles\nsuddenly rose in remote countryside,
 MAP8_e18_p0_13	Map008.json	1	dialogue	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before\nanyone could be surprised.
-MAP8_e18_p0_15	Map008.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	And so — as this castle and kingdom were made\nthrough the blessing of the Wind Element—
+MAP8_e18_p0_15	Map008.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	And so — as this castle and kingdom were made\nthrough the blessing of the Wind Element —
 MAP8_e18_p0_16	Map008.json	1	dialogue	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
 MAP8_e18_p0_17	Map008.json	1	dialogue	信じられている。	outside the Windam Kingdom as well.
 MAP8_e18_p0_18	Map008.json	1	dialogue	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything\nis thanks to the Wind Element.
@@ -2294,7 +2294,7 @@ MAP21_e13_p5_32	Map021.json	0	dialogue	自分のことも、周りのことも�
 MAP21_e13_p5_33	Map021.json	0	dialogue	何が大事なのか分からなくなってしまった…	I lost sight of what truly mattered...
 MAP21_e13_p5_35	Map021.json	0	dialogue	だから…	That's why...
 MAP21_e13_p5_36	Map021.json	0	dialogue	ピピンには、そうなって欲しくなかった。	I didn't want Pipin to end up that way.
-MAP21_e13_p5_37	Map021.json	0	dialogue	ピピンなら、俺とは違う…	I expected that Pipin — unlike me—
+MAP21_e13_p5_37	Map021.json	0	dialogue	ピピンなら、俺とは違う…	I expected that Pipin — unlike me —
 MAP21_e13_p5_38	Map021.json	0	dialogue	いい騎士団長になってくれると期待していた。	would become a fine Knight Commander.
 MAP21_e13_p5_40	Map021.json	0	dialogue	しかしそんなのは…	But that was...
 MAP21_e13_p5_41	Map021.json	0	dialogue	俺の勝手な期待だ…　	nothing but my selfish expectation...
@@ -2430,7 +2430,7 @@ MAP21_e17_p1_154	Map021.json	0	dialogue	ピピン。	Pipin.
 MAP21_e17_p1_155	Map021.json	0	dialogue	これは騎士団長からの命令だぞ。	This is an order from the Knight Commander.
 MAP21_e17_p1_157	Map021.json	0	dialogue	ピピン：	Pipin:
 MAP21_e17_p1_158	Map021.json	0	dialogue	知らん。	I don't care.
-MAP21_e17_p1_159	Map021.json	0	dialogue	こんな侮辱、騎士団長といえども、	Such an insult — even\nfrom the Knight Commander—
+MAP21_e17_p1_159	Map021.json	0	dialogue	こんな侮辱、騎士団長といえども、	Such an insult — even from\nthe Knight Commander —
 MAP21_e17_p1_160	Map021.json	0	dialogue	俺には許すことは出来ん…。	I cannot forgive...
 MAP21_e17_p1_162	Map021.json	0	dialogue	俺がここできさまを殺さずに去るだけでも…	The mere fact that I'm leaving\nwithout killing you here...
 MAP21_e17_p1_163	Map021.json	0	dialogue	感謝しろ、ロイ！！	Be grateful, Roi!!
@@ -3734,7 +3734,7 @@ MAP37_e18_p0_1	Map037.json	0	dialogue	『ウィンダム王国の歴史』	"""Hi
 MAP37_e18_p0_11	Map037.json	1	dialogue	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in\nSeiryu, deep in the western mountains,
 MAP37_e18_p0_12	Map037.json	1	dialogue	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles\nsuddenly rose in remote countryside,
 MAP37_e18_p0_13	Map037.json	1	dialogue	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before\nanyone could be surprised.
-MAP37_e18_p0_15	Map037.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	And so — as this castle and kingdom were made\nthrough the blessing of the Wind Element—
+MAP37_e18_p0_15	Map037.json	1	dialogue	なので、風のエレメントの加護で出来たお城と国である、	And so — as this castle and kingdom were made\nthrough the blessing of the Wind Element —
 MAP37_e18_p0_16	Map037.json	1	dialogue	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
 MAP37_e18_p0_17	Map037.json	1	dialogue	信じられている。	outside the Windam Kingdom as well.
 MAP37_e18_p0_18	Map037.json	1	dialogue	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything\nis thanks to the Wind Element.
@@ -5389,7 +5389,7 @@ MAP55_e12_p0_375	Map055.json	0	dialogue	ホノオ：	Hono:
 MAP55_e12_p0_376	Map055.json	0	dialogue	うおおお…　あ、そういう話か、これ？	Whoaa... oh, so that's how it is?
 MAP55_e12_p0_378	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
 MAP55_e12_p0_379	Map055.json	0	dialogue	ナガレ！そうやってすぐ村の守り神である	Nagare! It's because you always talk about
-MAP55_e12_p0_380	Map055.json	0	dialogue	龍を、ぶちのめすとか、食べるとか	beating up or eating the dragon\n— the village's guardian—
+MAP55_e12_p0_380	Map055.json	0	dialogue	龍を、ぶちのめすとか、食べるとか	beating up or eating the dragon\n— the village's guardian —
 MAP55_e12_p0_381	Map055.json	0	dialogue	言っておるから、この話をしなかったんじゃ！	that we never told you this story!
 MAP55_e12_p0_383	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e12_p0_384	Map055.json	0	dialogue	…え？	...Huh?
@@ -5958,7 +5958,7 @@ MAP55_e7_p2_39	Map055.json	0	dialogue	ナガレ：	Nagare:
 MAP55_e7_p2_4	Map055.json	0	dialogue	オタキ様：	Lady Otaki:
 MAP55_e7_p2_40	Map055.json	0	dialogue	龍は…、はじまりの水の者のことを、	The dragon called the\nFirst Being of Water...
 MAP55_e7_p2_41	Map055.json	0	dialogue	友だちだと言っていた…	its friend...
-MAP55_e7_p2_43	Map055.json	0	dialogue	そのこどもであるあたしに、いつか紋章を	and promised that someday, to\nme — that child's descendant—
+MAP55_e7_p2_43	Map055.json	0	dialogue	そのこどもであるあたしに、いつか紋章を	and promised that someday, to\nme — that child's descendant —
 MAP55_e7_p2_44	Map055.json	0	dialogue	返す約束もしていたって…	it would return the crest...
 MAP55_e7_p2_45	Map055.json	0	dialogue	オタキ様…　	Lady Otaki...
 MAP55_e7_p2_46	Map055.json	0	dialogue	ぜんぜん言い伝えと違うじゃないか！！	That's nothing like the old tale at all!!
@@ -9960,7 +9960,7 @@ MAP67_e12_p0_11	Map067.json	1	dialogue	曲剣。フレイム王国のみで生�
 MAP67_e12_p0_12	Map067.json	1	dialogue	振り回しやすく、素早さが少し上がる。	Easy to swing, slightly raises agility.
 MAP67_e12_p0_13	Map067.json	1	dialogue	刀。セイリューでのみ生産される。美しく鋭い剣。切れ味が	Katana: produced only in Seiryu. A\nbeautiful, sharp sword. Its edge is
 MAP67_e12_p0_14	Map067.json	1	dialogue	抜群だが、取り回しが悪く、素早さが下がる。	excellent, but it's hard to handle and lowers agility.
-MAP67_e12_p0_16	Map067.json	1	dialogue	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords —\nheavy blades of fearsome power—
+MAP67_e12_p0_16	Map067.json	1	dialogue	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords —\nheavy blades of fearsome power —
 MAP67_e12_p0_17	Map067.json	1	dialogue	短剣、刺剣、槍といった、突き刺す武器もある。	and thrusting weapons like\ndaggers, rapiers, and spears.
 MAP67_e12_p0_18	Map067.json	1	dialogue	この三つは敵の急所を突きやすい（会心率があがる）が、	These three hit enemy vitals\neasily (raising critical rate), but
 MAP67_e12_p0_19	Map067.json	1	dialogue	槍は元の威力が他のふたつよりも高い分、素早さが下がる。	spears have higher base power than\nthe other two at the cost of agility.
@@ -9999,7 +9999,7 @@ MAP67_e14_p0_19	Map067.json	1	dialogue	大怪我したり病気になって欲�
 MAP67_e14_p0_2	Map067.json	0	dialogue	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words\non the cover. Should we read it?
 MAP67_e14_p0_3_c0	Map067.json	choice	choice	読んでみる	Read it
 MAP67_e14_p0_3_c1	Map067.json	choice	choice	読まない	Don't read it
-MAP67_e14_p0_6	Map067.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years\nsince people called alchemists—
+MAP67_e14_p0_6	Map067.json	1	dialogue	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years\nsince people called alchemists —
 MAP67_e14_p0_7	Map067.json	1	dialogue	ひとたちが、正体の分からない薬を大変な高額で売り出す	or rather, who call themselves that\n— began selling unknown medicines
 MAP67_e14_p0_8	Map067.json	1	dialogue	ようになって百年くらいでしょうか。	at exorbitant prices.
 MAP67_e14_p0_9	Map067.json	1	dialogue	でも効き目が凄いから、みんな本当は憧れているでしょう？	But since they work wonders, everyone\nsecretly admires them, right?
@@ -10958,7 +10958,7 @@ MAP79_e1_p0_134	Map079.json	0	dialogue	いい子だなあ…	what a good kid...
 MAP79_e1_p0_136	Map079.json	0	dialogue	ナガレ：	Nagare:
 MAP79_e1_p0_137	Map079.json	0	dialogue	触りだけ教えてくれ、ピコピコ。	Just tell us the gist, Pikopiko.
 MAP79_e1_p0_139	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	So he's the strongest great\nmage of the Four Generals...!
+MAP79_e1_p0_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	So I'm the strongest great\nmage of the Four Generals...!
 MAP79_e1_p0_140	Map079.json	0	dialogue	いやお前のはわざとだろおおおおお！！？？	No, yours is definitely on purpose — !!??
 MAP79_e1_p0_141	Map079.json	0	dialogue	バトルになったら真っ先にやっつけるからな、	If we fight, you're going down first,
 MAP79_e1_p0_142	Map079.json	0	dialogue	青いのは！！！	blue one!!
@@ -10989,16 +10989,16 @@ MAP79_e1_p0_175	Map079.json	0	dialogue	そう、キミらと同じように…�
 MAP79_e1_p0_176	Map079.json	0	dialogue	加護による闇の王国を作るのだあああああ！！	blessed by the Dark Element!!
 MAP79_e1_p0_178	Map079.json	0	dialogue	ホノオ：	Hono:
 MAP79_e1_p0_179	Map079.json	0	dialogue	あ？　王ってなんだよ…？　国…？	Huh? A king...? A kingdom...?
-MAP79_e1_p0_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	In other words, he's supposed\nto be the final boss...!!
+MAP79_e1_p0_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	In other words, I'm supposed\nto be the final boss...!!
 MAP79_e1_p0_181	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p0_182	Map079.json	0	dialogue	闇のエレメントパワー…それ自体は膨大で、	Dark Element Power... in itself, it's vast—
 MAP79_e1_p0_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
 MAP79_e1_p0_184	Map079.json	0	dialogue	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p0_186	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p0_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so\nto speak, mere byproducts
-MAP79_e1_p0_188	Map079.json	0	dialogue	から生まれ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
-MAP79_e1_p0_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that\nhappened to gain personalities.
-MAP79_e1_p0_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, it should have\nappeared much later.
+MAP79_e1_p0_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so\nto speak, nothing more
+MAP79_e1_p0_188	Map079.json	0	dialogue	から生まれ出た闇の結晶に過ぎない…	than Dark Crystals born from\nthe Dark Element Power...
+MAP79_e1_p0_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	mere byproducts that happened\nto gain personalities.
+MAP79_e1_p0_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, I should have\nappeared much later.
 MAP79_e1_p0_191	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p0_192	Map079.json	0	dialogue	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone...\ncouldn't stop the Dark Element
 MAP79_e1_p0_193	Map079.json	0	dialogue	駆逐されるのを防げなかったのだ………	from being driven out of the world......
@@ -11063,7 +11063,7 @@ MAP79_e1_p0_261	Map079.json	0	dialogue	しかしおかしいぞ…	But something
 MAP79_e1_p0_262	Map079.json	0	dialogue	魔王になることを急いでいるんなら、	If you're in a hurry to\nbecome the Demon King,
 MAP79_e1_p0_263	Map079.json	0	dialogue	どうして貴様はここにいる…？	why are you still here...?
 MAP79_e1_p0_265	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p0_266	Map079.json	0	dialogue	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four\nGenerals — the final boss—
+MAP79_e1_p0_266	Map079.json	0	dialogue	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four\nGenerals — the final boss —
 MAP79_e1_p0_267	Map079.json	0	dialogue	なぜここで時間を稼いでいるんだ？	why are you buying time here?
 MAP79_e1_p0_268	Map079.json	0	dialogue	…魔王にならなくていいのか？	...Don't you need to become the Demon King?
 MAP79_e1_p0_27	Map079.json	0	dialogue	ピカピカ！	Pikapika!
@@ -11210,7 +11210,7 @@ MAP79_e1_p1_134	Map079.json	0	dialogue	いい子だなあ…	what a good kid...
 MAP79_e1_p1_136	Map079.json	0	dialogue	ナガレ：	Nagare:
 MAP79_e1_p1_137	Map079.json	0	dialogue	触りだけ教えてくれ、ピコピコ。	Just tell us the gist, Pikopiko.
 MAP79_e1_p1_139	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	So he's the strongest great\nmage of the Four Generals...!
+MAP79_e1_p1_14	Map079.json	0	dialogue	つまり四天王最強の大魔導士…！	So I'm the strongest great\nmage of the Four Generals...!
 MAP79_e1_p1_140	Map079.json	0	dialogue	いやお前のはわざとだろおおおおお！！？？	No, yours is definitely on purpose — !!??
 MAP79_e1_p1_141	Map079.json	0	dialogue	バトルになったら真っ先にやっつけるからな、	If we fight, you're going down first,
 MAP79_e1_p1_142	Map079.json	0	dialogue	青いのは！！！	blue one!!
@@ -11241,16 +11241,16 @@ MAP79_e1_p1_175	Map079.json	0	dialogue	そう、キミらと同じように…�
 MAP79_e1_p1_176	Map079.json	0	dialogue	加護による闇の王国を作るのだあああああ！！	blessed by the Dark Element!!
 MAP79_e1_p1_178	Map079.json	0	dialogue	ホノオ：	Hono:
 MAP79_e1_p1_179	Map079.json	0	dialogue	あ？　王ってなんだよ…？　国…？	Huh? A king...? A kingdom...?
-MAP79_e1_p1_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	In other words, he's supposed\nto be the final boss...!!
+MAP79_e1_p1_18	Map079.json	0	dialogue	つまり本来はラスボスポジションッ…！！	In other words, I'm supposed\nto be the final boss...!!
 MAP79_e1_p1_181	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p1_182	Map079.json	0	dialogue	闇のエレメントパワー…それ自体は膨大で、	Dark Element Power... in itself, it's vast—
 MAP79_e1_p1_183	Map079.json	0	dialogue	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
 MAP79_e1_p1_184	Map079.json	0	dialogue	だが…人格は持たない。	But... it has no personality.
 MAP79_e1_p1_186	Map079.json	0	dialogue	ピケピケ：	Pikepike:
-MAP79_e1_p1_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so\nto speak, mere byproducts
-MAP79_e1_p1_188	Map079.json	0	dialogue	から生れ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
-MAP79_e1_p1_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that\nhappened to gain personalities.
-MAP79_e1_p1_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, it should have\nappeared much later.
+MAP79_e1_p1_187	Map079.json	0	dialogue	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so\nto speak, nothing more
+MAP79_e1_p1_188	Map079.json	0	dialogue	から生れ出た闇の結晶に過ぎない…	than Dark Crystals born from\nthe Dark Element Power...
+MAP79_e1_p1_189	Map079.json	0	dialogue	たまたま人格を持った副産物に過ぎん。	mere byproducts that happened\nto gain personalities.
+MAP79_e1_p1_19	Map079.json	0	dialogue	本当だったらもっと後で出てくるものなんだ。	In truth, I should have\nappeared much later.
 MAP79_e1_p1_191	Map079.json	0	dialogue	ピケピケ：	Pikepike:
 MAP79_e1_p1_192	Map079.json	0	dialogue	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone...\ncouldn't stop the Dark Element
 MAP79_e1_p1_193	Map079.json	0	dialogue	駆逐されるのを防げなかったのだ………	from being driven out of the world......
@@ -11315,7 +11315,7 @@ MAP79_e1_p1_261	Map079.json	0	dialogue	しかしおかしいぞ…	But something
 MAP79_e1_p1_262	Map079.json	0	dialogue	魔王になることを急いでいるんなら、	If you're in a hurry to\nbecome the Demon King,
 MAP79_e1_p1_263	Map079.json	0	dialogue	どうして貴様はここにいる…？	why are you still here...?
 MAP79_e1_p1_265	Map079.json	0	dialogue	ナガレ：	Nagare:
-MAP79_e1_p1_266	Map079.json	0	dialogue	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four\nGenerals — the final boss—
+MAP79_e1_p1_266	Map079.json	0	dialogue	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four\nGenerals — the final boss —
 MAP79_e1_p1_267	Map079.json	0	dialogue	なぜここで時間を稼いでいるんだ？	why are you buying time here?
 MAP79_e1_p1_268	Map079.json	0	dialogue	…魔王にならなくていいのか？	...Don't you need to become the Demon King?
 MAP79_e1_p1_27	Map079.json	0	dialogue	ピカピカ！	Pikapika!

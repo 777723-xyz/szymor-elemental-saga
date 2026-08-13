@@ -333,7 +333,7 @@ MAP7_e12_p0_11	曲剣。フレイム王国のみで生産される、刃の反�
 MAP7_e12_p0_12	振り回しやすく、素早さが少し上がる。	Easy to swing, slightly raises agility.
 MAP7_e12_p0_13	刀。セイリューでのみ生産される。美しく鋭い剣。切れ味が	Katana: produced only in Seiryu. A beautiful, sharp sword. Its edge is
 MAP7_e12_p0_14	抜群だが、取り回しが悪く、素早さが下がる。	excellent, but it's hard to handle and lowers agility.
-MAP7_e12_p0_16	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords—heavy blades of fearsome power—
+MAP7_e12_p0_16	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords —\nheavy blades of fearsome power —
 MAP7_e12_p0_17	短剣、刺剣、槍といった、突き刺す武器もある。	and thrusting weapons like daggers, rapiers, and spears.
 MAP7_e12_p0_18	この三つは敵の急所を突きやすい（会心率があがる）が、	These three hit enemy vitals easily (raising critical rate), but
 MAP7_e12_p0_19	槍は元の威力が他のふたつよりも高い分、素早さが下がる。	spears have higher base power than the other two at the cost of agility.
@@ -352,8 +352,8 @@ MAP7_e13_p0_17	精神力そのものであるいう言い伝えもある。	none
 MAP7_e13_p0_18	そうであるのなら、精神の弱いものが継承者になると、	If that's so, then when someone weak of spirit becomes an inheritor,
 MAP7_e13_p0_19	魔法の力も弱まってしまうのかも知れない。	their magical power might also weaken.
 MAP7_e13_p0_2	…と、表紙に書かれた本がある。読んでみようか？	There's a book with these words on the cover. Should we read it?
-MAP7_e13_p0_6	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives and grows stronger,\neach crest — fire, water, and wind —
-MAP7_e13_p0_7	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter in turn, granting the inheritor\nstrange magical
+MAP7_e13_p0_6	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives and grows\nstronger, each crest — fire, water, and wind —
+MAP7_e13_p0_7	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter in turn, granting\nthe inheritor strange magical
 MAP7_e13_p0_8	力を紋章継承者に与えるという。	power.
 MAP7_e13_p0_9	この魔法の力が、エレメンタルパワーである。	That magical power is Elemental Power.
 MAP7_e14_p0_1	『怖くない！五分で怖くなくなる錬金術』	"""Don't Be Scared! Alchemy Without Fear in Five Minutes"""
@@ -366,7 +366,7 @@ MAP7_e14_p0_17	いるのではないのです！とても専門的で、難易�
 MAP7_e14_p0_18	製法で作るものなので、皆さんに気軽に真似をされて、	our highly specialized, difficult methods and
 MAP7_e14_p0_19	大怪我したり病気になって欲しくないだけなのです！	ending up badly injured or sick!
 MAP7_e14_p0_2	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
-MAP7_e14_p0_6	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years since people called alchemists—
+MAP7_e14_p0_6	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years\nsince people called alchemists —
 MAP7_e14_p0_7	ひとたちが、正体の分からない薬を大変な高額で売り出す	or rather, who call themselves that—began selling unknown medicines
 MAP7_e14_p0_8	ようになって百年くらいでしょうか。	at exorbitant prices.
 MAP7_e14_p0_9	でも効き目が凄いから、みんな本当は憧れているでしょう？	But since they work wonders, everyone secretly admires them, right?
@@ -474,7 +474,7 @@ MAP8_e18_p0_1	『ウィンダム王国の歴史』	"""History of the Windam King
 MAP8_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
 MAP8_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
 MAP8_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
-MAP8_e18_p0_15	なので、風のエレメントの加護で出来たお城と国である、	And so—as this castle and kingdom were made through the blessing of the Wind Element—
+MAP8_e18_p0_15	なので、風のエレメントの加護で出来たお城と国である、	And so — as this castle and kingdom were made\nthrough the blessing of the Wind Element —
 MAP8_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
 MAP8_e18_p0_17	信じられている。	outside the Windam Kingdom as well.
 MAP8_e18_p0_18	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
@@ -1342,7 +1342,7 @@ MAP21_e13_p5_32	自分のことも、周りのことも…	Myself, and everyone 
 MAP21_e13_p5_33	何が大事なのか分からなくなってしまった…	I lost sight of what truly mattered...
 MAP21_e13_p5_35	だから…	That's why...
 MAP21_e13_p5_36	ピピンには、そうなって欲しくなかった。	I didn't want Pipin to end up that way.
-MAP21_e13_p5_37	ピピンなら、俺とは違う…	I expected that Pipin—unlike me—
+MAP21_e13_p5_37	ピピンなら、俺とは違う…	I expected that Pipin — unlike me —
 MAP21_e13_p5_38	いい騎士団長になってくれると期待していた。	would become a fine Knight Commander.
 MAP21_e13_p5_40	しかしそんなのは…	But that was...
 MAP21_e13_p5_41	俺の勝手な期待だ…　	nothing but my selfish expectation...
@@ -1449,7 +1449,7 @@ MAP21_e17_p1_151	こんな国、出ていく。	I'm leaving this country.
 MAP21_e17_p1_154	ピピン。	Pipin.
 MAP21_e17_p1_155	これは騎士団長からの命令だぞ。	This is an order from the Knight Commander.
 MAP21_e17_p1_158	知らん。	I don't care.
-MAP21_e17_p1_159	こんな侮辱、騎士団長といえども、	Such an insult—even from the Knight Commander—
+MAP21_e17_p1_159	こんな侮辱、騎士団長といえども、	Such an insult — even from\nthe Knight Commander —
 MAP21_e17_p1_160	俺には許すことは出来ん…。	I cannot forgive...
 MAP21_e17_p1_162	俺がここできさまを殺さずに去るだけでも…	The mere fact that I'm leaving without killing you here...
 MAP21_e17_p1_163	感謝しろ、ロイ！！	Be grateful, Roi!!
@@ -2317,7 +2317,7 @@ MAP35_e6_p0_8	　　　　　　　　受け継いだ　継承者たちである
 MAP35_e8_p0_1	持ち出して役に立つようなものは何も見つけられなかった…	There was nothing worth taking with us...
 MAP36_e1_p0_10	　　　　　　　　　　作られたと伝わる	by the blessing of the Fire, Water, and Wind Elements.
 MAP36_e1_p0_12	　　　　　　それぞれのエレメントの加護の証である	On this continent, where three nations that inherited
-MAP36_e1_p0_13	　　紋章の力を受け継いだ三つの国が栄えるこの大陸には	the power of the crests — marks of each Element's\nblessing — flourish,
+MAP36_e1_p0_13	　　紋章の力を受け継いだ三つの国が栄えるこの大陸には	the power of the crests — marks of\neach Element's blessing — flourish,
 MAP36_e1_p0_15	　　　　　　　　恐ろしい言い伝えがあった…	there was a fearsome old tale...
 MAP36_e1_p0_7	　　　　　　　　　　　エレメント大陸	The Element Continent
 MAP36_e1_p0_9	　　　この大陸は火、水、風のエレメントの加護によって	This continent was said to have been forged
@@ -2352,7 +2352,7 @@ MAP37_e18_p0_1	『ウィンダム王国の歴史』	"""History of the Windam Kin
 MAP37_e18_p0_11	南の国のフレイムや、西の山奥のセイリューでは、	In the southern land of Flame and in Seiryu, deep in the western mountains,
 MAP37_e18_p0_12	辺境の田舎に、いつのまにか大きな城が建っていて	it's said that great castles suddenly rose in remote countryside,
 MAP37_e18_p0_13	王国が出来ていたので驚いたと伝わっている。	and kingdoms were born before anyone could be surprised.
-MAP37_e18_p0_15	なので、風のエレメントの加護で出来たお城と国である、	And so—as this castle and kingdom were made through the blessing of the Wind Element—
+MAP37_e18_p0_15	なので、風のエレメントの加護で出来たお城と国である、	And so — as this castle and kingdom were made\nthrough the blessing of the Wind Element —
 MAP37_e18_p0_16	そういう噂が、ウィンダム王国以外でもそれなりに	Such rumors are believed to a fair degree
 MAP37_e18_p0_17	信じられている。	outside the Windam Kingdom as well.
 MAP37_e18_p0_18	とにかくこの国では何でも風のエレメントのおかげである。	In any case, in this country, everything is thanks to the Wind Element.
@@ -3441,7 +3441,7 @@ MAP55_e12_p0_370	うおおおおおおおおおおお……お？	Woooooaaah... 
 MAP55_e12_p0_373	よしわかった、早く龍をぶちのめしに行くぞ！	Alright, understood—let's go beat up that dragon!
 MAP55_e12_p0_376	うおおお…　あ、そういう話か、これ？	Whoaa... oh, so that's how it is?
 MAP55_e12_p0_379	ナガレ！そうやってすぐ村の守り神である	Nagare! It's because you always talk about
-MAP55_e12_p0_380	龍を、ぶちのめすとか、食べるとか	beating up or eating the dragon—the village's guardian—
+MAP55_e12_p0_380	龍を、ぶちのめすとか、食べるとか	beating up or eating the dragon\n— the village's guardian —
 MAP55_e12_p0_381	言っておるから、この話をしなかったんじゃ！	that we never told you this story!
 MAP55_e12_p0_384	…え？	...Huh?
 MAP55_e12_p0_389	クスクス…	Hehe...
@@ -3856,7 +3856,7 @@ MAP55_e7_p2_36	お社の奥で、なにか大きなことが起こった結果	I
 MAP55_e7_p2_37	じゃろうとは思ったが…	in the shrine's depths...
 MAP55_e7_p2_40	龍は…、はじまりの水の者のことを、	The dragon called the First Being of Water...
 MAP55_e7_p2_41	友だちだと言っていた…	its friend...
-MAP55_e7_p2_43	そのこどもであるあたしに、いつか紋章を	and promised that someday, to me—that child's descendant—
+MAP55_e7_p2_43	そのこどもであるあたしに、いつか紋章を	and promised that someday, to\nme — that child's descendant —
 MAP55_e7_p2_44	返す約束もしていたって…	it would return the crest...
 MAP55_e7_p2_45	オタキ様…　	Lady Otaki...
 MAP55_e7_p2_46	ぜんぜん言い伝えと違うじゃないか！！	That's nothing like the old tale at all!!
@@ -6333,7 +6333,7 @@ MAP67_e12_p0_11	曲剣。フレイム王国のみで生産される、刃の反�
 MAP67_e12_p0_12	振り回しやすく、素早さが少し上がる。	Easy to swing, slightly raises agility.
 MAP67_e12_p0_13	刀。セイリューでのみ生産される。美しく鋭い剣。切れ味が	Katana: produced only in Seiryu. A beautiful, sharp sword. Its edge is
 MAP67_e12_p0_14	抜群だが、取り回しが悪く、素早さが下がる。	excellent, but it's hard to handle and lowers agility.
-MAP67_e12_p0_16	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords—heavy blades of fearsome power—
+MAP67_e12_p0_16	他に、大剣という、重くて凄まじい威力の剣や、	There are also great swords —\nheavy blades of fearsome power —
 MAP67_e12_p0_17	短剣、刺剣、槍といった、突き刺す武器もある。	and thrusting weapons like daggers, rapiers, and spears.
 MAP67_e12_p0_18	この三つは敵の急所を突きやすい（会心率があがる）が、	These three hit enemy vitals easily (raising critical rate), but
 MAP67_e12_p0_19	槍は元の威力が他のふたつよりも高い分、素早さが下がる。	spears have higher base power than the other two at the cost of agility.
@@ -6352,8 +6352,8 @@ MAP67_e13_p0_17	精神力そのものであるいう言い伝えもある。	non
 MAP67_e13_p0_18	そうであるのなら、精神の弱いものが継承者になると、	If that's so, then when someone weak of spirit becomes an inheritor,
 MAP67_e13_p0_19	魔法の力も弱まってしまうのかも知れない。	their magical power might also weaken.
 MAP67_e13_p0_2	…と、表紙に書かれた本がある。読んでみようか？	There's a book with these words on the cover. Should we read it?
-MAP67_e13_p0_6	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives and grows stronger,\neach crest — fire, water, and wind —
-MAP67_e13_p0_7	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter in turn, granting the inheritor\nstrange magical
+MAP67_e13_p0_6	火、水、風、それぞれの紋章は、闇のエレメントが復活し、	When the Dark Element revives and grows\nstronger, each crest — fire, water, and wind —
+MAP67_e13_p0_7	その力を強めるほどに、紋章も輝きを増し、不思議な魔法の	glows brighter in turn, granting\nthe inheritor strange magical
 MAP67_e13_p0_8	力を紋章継承者に与えるという。	power.
 MAP67_e13_p0_9	この魔法の力が、エレメンタルパワーである。	That magical power is Elemental Power.
 MAP67_e14_p0_1	『怖くない！五分で怖くなくなる錬金術』	"""Don't Be Scared! Alchemy Without Fear in Five Minutes"""
@@ -6366,7 +6366,7 @@ MAP67_e14_p0_17	いるのではないのです！とても専門的で、難易�
 MAP67_e14_p0_18	製法で作るものなので、皆さんに気軽に真似をされて、	our highly specialized, difficult methods and
 MAP67_e14_p0_19	大怪我したり病気になって欲しくないだけなのです！	ending up badly injured or sick!
 MAP67_e14_p0_2	…と、表紙に書かれた本がある。読んでみようか。	There's a book with these words on the cover. Should we read it?
-MAP67_e14_p0_6	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years since people called alchemists—
+MAP67_e14_p0_6	錬金術師と呼ばれる（というより自分たちで呼んでいる）	It's been about a hundred years\nsince people called alchemists —
 MAP67_e14_p0_7	ひとたちが、正体の分からない薬を大変な高額で売り出す	or rather, who call themselves that—began selling unknown medicines
 MAP67_e14_p0_8	ようになって百年くらいでしょうか。	at exorbitant prices.
 MAP67_e14_p0_9	でも効き目が凄いから、みんな本当は憧れているでしょう？	But since they work wonders, everyone secretly admires them, right?
@@ -6937,7 +6937,7 @@ MAP79_e1_p0_132	なんでわざわざケイレンさせたんだよ！？	Why'd 
 MAP79_e1_p0_133	でもまだ名前呼ぼうとするだけこっちの子は	But at least this one tries to say my name,
 MAP79_e1_p0_134	いい子だなあ…	what a good kid...
 MAP79_e1_p0_137	触りだけ教えてくれ、ピコピコ。	Just tell us the gist, Pikopiko.
-MAP79_e1_p0_14	つまり四天王最強の大魔導士…！	So he's the strongest great mage of the Four Generals...!
+MAP79_e1_p0_14	つまり四天王最強の大魔導士…！	So I'm the strongest great\nmage of the Four Generals...!
 MAP79_e1_p0_140	いやお前のはわざとだろおおおおお！！？？	No, yours is definitely on purpose—!!??
 MAP79_e1_p0_141	バトルになったら真っ先にやっつけるからな、	If we fight, you're going down first,
 MAP79_e1_p0_142	青いのは！！！	blue one!!
@@ -6958,14 +6958,14 @@ MAP79_e1_p0_174	我々四天王は王を戴くことにしたのだよ…	We Fou
 MAP79_e1_p0_175	そう、キミらと同じように…闇のエレメントの	Yes, just like you—we'll build a Dark Kingdom
 MAP79_e1_p0_176	加護による闇の王国を作るのだあああああ！！	blessed by the Dark Element!!
 MAP79_e1_p0_179	あ？　王ってなんだよ…？　国…？	Huh? A king...? A kingdom...?
-MAP79_e1_p0_18	つまり本来はラスボスポジションッ…！！	In other words, he's supposed to be the final boss...!!
+MAP79_e1_p0_18	つまり本来はラスボスポジションッ…！！	In other words, I'm supposed\nto be the final boss...!!
 MAP79_e1_p0_182	闇のエレメントパワー…それ自体は膨大で、	Dark Element Power... in itself, it's vast—
 MAP79_e1_p0_183	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
 MAP79_e1_p0_184	だが…人格は持たない。	But... it has no personality.
-MAP79_e1_p0_187	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
-MAP79_e1_p0_188	から生まれ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
-MAP79_e1_p0_189	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
-MAP79_e1_p0_19	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
+MAP79_e1_p0_187	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so\nto speak, nothing more
+MAP79_e1_p0_188	から生まれ出た闇の結晶に過ぎない…	than Dark Crystals born from\nthe Dark Element Power...
+MAP79_e1_p0_189	たまたま人格を持った副産物に過ぎん。	mere byproducts that happened\nto gain personalities.
+MAP79_e1_p0_19	本当だったらもっと後で出てくるものなんだ。	In truth, I should have\nappeared much later.
 MAP79_e1_p0_192	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone... couldn't stop the Dark Element
 MAP79_e1_p0_193	駆逐されるのを防げなかったのだ………	from being driven out of the world......
 MAP79_e1_p0_194	…だ、か、ら、こ、そ！！！！	...And, so, that's, why!!!!
@@ -7011,7 +7011,7 @@ MAP79_e1_p0_26	お喋りはその辺にして、さっさとバトルしろ、	E
 MAP79_e1_p0_261	しかしおかしいぞ…	But something's odd...
 MAP79_e1_p0_262	魔王になることを急いでいるんなら、	If you're in a hurry to become the Demon King,
 MAP79_e1_p0_263	どうして貴様はここにいる…？	why are you still here...?
-MAP79_e1_p0_266	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four Generals—the final boss—
+MAP79_e1_p0_266	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four\nGenerals — the final boss —
 MAP79_e1_p0_267	なぜここで時間を稼いでいるんだ？	why are you buying time here?
 MAP79_e1_p0_268	…魔王にならなくていいのか？	...Don't you need to become the Demon King?
 MAP79_e1_p0_27	ピカピカ！	Pikapika!
@@ -7109,7 +7109,7 @@ MAP79_e1_p1_132	なんでわざわざケイレンさせたんだよ！？	Why'd 
 MAP79_e1_p1_133	でもまだ名前呼ぼうとするだけこっちの子は	But at least this one tries to say my name,
 MAP79_e1_p1_134	いい子だなあ…	what a good kid...
 MAP79_e1_p1_137	触りだけ教えてくれ、ピコピコ。	Just tell us the gist, Pikopiko.
-MAP79_e1_p1_14	つまり四天王最強の大魔導士…！	So he's the strongest great mage of the Four Generals...!
+MAP79_e1_p1_14	つまり四天王最強の大魔導士…！	So I'm the strongest great\nmage of the Four Generals...!
 MAP79_e1_p1_140	いやお前のはわざとだろおおおおお！！？？	No, yours is definitely on purpose—!!??
 MAP79_e1_p1_141	バトルになったら真っ先にやっつけるからな、	If we fight, you're going down first,
 MAP79_e1_p1_142	青いのは！！！	blue one!!
@@ -7130,14 +7130,14 @@ MAP79_e1_p1_174	我々四天王は王を戴くことにしたのだよ…	We Fou
 MAP79_e1_p1_175	そう、キミらと同じように…闇のエレメントの	Yes, just like you—we'll build a Dark Kingdom
 MAP79_e1_p1_176	加護による闇の王国を作るのだあああああ！！	blessed by the Dark Element!!
 MAP79_e1_p1_179	あ？　王ってなんだよ…？　国…？	Huh? A king...? A kingdom...?
-MAP79_e1_p1_18	つまり本来はラスボスポジションッ…！！	In other words, he's supposed to be the final boss...!!
+MAP79_e1_p1_18	つまり本来はラスボスポジションッ…！！	In other words, I'm supposed\nto be the final boss...!!
 MAP79_e1_p1_182	闇のエレメントパワー…それ自体は膨大で、	Dark Element Power... in itself, it's vast—
 MAP79_e1_p1_183	強大な自然の圧倒的エネルギー…	an overwhelming energy of mighty nature...
 MAP79_e1_p1_184	だが…人格は持たない。	But... it has no personality.
-MAP79_e1_p1_187	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so to speak, mere byproducts
-MAP79_e1_p1_188	から生れ出た闇の結晶に過ぎない…	is merely a Dark Crystal born from...
-MAP79_e1_p1_189	たまたま人格を持った副産物に過ぎん。	of the Dark Element Power that happened to gain personalities.
-MAP79_e1_p1_19	本当だったらもっと後で出てくるものなんだ。	In truth, it should have appeared much later.
+MAP79_e1_p1_187	我々も四天王も、いわば闇のエレメントパワー	We Four Generals are, so\nto speak, nothing more
+MAP79_e1_p1_188	から生れ出た闇の結晶に過ぎない…	than Dark Crystals born from\nthe Dark Element Power...
+MAP79_e1_p1_189	たまたま人格を持った副産物に過ぎん。	mere byproducts that happened\nto gain personalities.
+MAP79_e1_p1_19	本当だったらもっと後で出てくるものなんだ。	In truth, I should have\nappeared much later.
 MAP79_e1_p1_192	四天王だけでは…　闇のエレメントが世界から	The Four Generals alone... couldn't stop the Dark Element
 MAP79_e1_p1_193	駆逐されるのを防げなかったのだ………	from being driven out of the world......
 MAP79_e1_p1_194	…だ、か、ら、こ、そ！！！！	...And, so, that's, why!!!!
@@ -7183,7 +7183,7 @@ MAP79_e1_p1_26	お喋りはその辺にして、さっさとバトルしろ、	E
 MAP79_e1_p1_261	しかしおかしいぞ…	But something's odd...
 MAP79_e1_p1_262	魔王になることを急いでいるんなら、	If you're in a hurry to become the Demon King,
 MAP79_e1_p1_263	どうして貴様はここにいる…？	why are you still here...?
-MAP79_e1_p1_266	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four Generals—the final boss—
+MAP79_e1_p1_266	四天王最強のお前が、ラスボスであるお前が…	You, the strongest of the Four\nGenerals — the final boss —
 MAP79_e1_p1_267	なぜここで時間を稼いでいるんだ？	why are you buying time here?
 MAP79_e1_p1_268	…魔王にならなくていいのか？	...Don't you need to become the Demon King?
 MAP79_e1_p1_27	ピカピカ！	Pikapika!
